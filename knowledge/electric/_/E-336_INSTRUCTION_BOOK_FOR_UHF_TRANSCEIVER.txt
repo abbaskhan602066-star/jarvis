@@ -1,0 +1,3220 @@
+FILE: E-336 INSTRUCTION BOOK FOR UHF TRANSCEIVER.pdf
+FOLDER: .
+DATE: 2026-03-07 07:13:27.818901
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+UHF TRANSCEIVER
+
+This techinical document is the property of
+Kawasaki Heavy Industries, Ltd. (K1) and may
+not be copied, nor disclosed (o any third party
+without KI11's
+
+MANAGER - i
+o =
+CHIEF L/d
+©
+o
+E
+B
+a
+2}
+
+SHIP DESIGN DEPT, SHIP' GROUP
+
+1456
+
+TN TRAWASAKI HEAVY IBUSTRIES, LT0 T T T
+
+--- PAGE 2 ---
+27H-8836 checked by in charge
+
+Messrs. KAWASAKI HEAVY INDUSTRIES LTD,
+
+S, No. 1456
+
+THP-44E01T
+4001612 /FM TRANSCEIVER
+
+FINTSHED DRAWIKG
+6 NOVEMBER 1995
+
+daparn Radio Co, Ltd.
+
+Maritime Communications Section I
+Engineering Department T
+Maring Electronics Division
+
+TEL 0420-45-9538
+FAX  0422-45-9957
+
+248-5726
+
+--- PAGE 3 ---
+TABLE O¥ CONTENTS
+
+1. 400 MHZ/FM TRANSCETVER JHP~44R01T COMPOSETION
+CINTRINSTCALLY SAFE T¥PR)
+
+3. nDo. DO, BLOCK DIAGRAM
+»
+4. Do, DO, QUTLINE DRAWING
+
+6. CARRYING CASE & STRAP OUTLINE DRAWING
+
+(172, 2/2)
+6. ANTENNA NAU-17 QUTLINE DRAVING
+7. BATTERY CIARGER NBB-146 Do.
+B SRBAERRMIC g pre
+& _HERESER SHEFDami o
+11, SPARE Nj-Cd BATTERY PAGK NBB-143 Do.
+14, LEDGE FOR BATTERY CitARGER NZDB~47 oo,
+LAY SSETS)
+no. no. FTS)
+
+BT AR AN AR A {YE
+
+VA -08
+MM - 836
+
+--- PAGE 4 ---
+SO e
+
+COMPOSITION
+
+Noto : Tha eabinot color change is impractical because of A.B.S resin,
+
+WEIGHT
+No. COMPONENTS MODEL Qi NOTE PER 1 UNIT
+1. | ADOMHz FM TRANSI JHP-44E01T —_ )
+(INTRINSICALLY SAFE 7 t)(f(‘//"? - [J//P'Z/{/EﬁiT)
+TIPE) B!
+2. | ANTENNA NAU-17 T meus tves Approx. 20 &
+3, [insmhucTion L T ] ]
+4, | INSPROTION DATA I3 .
+5. | BATTERY CHARGER s, COTOR + MUNSELL N2 (Note) | Approx. | kg
+AC 220V
+6. | SPaRE FUSE WFSIM-1A | [seis | 200 %
+7. | SPARE NBB-143 Cél.ﬂlf + MUNSELL N2 (N(vle) >m;r1x.
+Ni-Cd BATTERY PACK i 180 &
+WD ST NN T horox.
+_ 250 %
+9. | SPEARER MICROPHONE HFD-37 — Appros. 50 &
+10, | EAPHONE 1 e — T ”
+I1. | LEDGE FOR N7B-47 COLOR_: MINSELLZ.SB G %2, | Avprox.
+2 MoUNTIA % SET, k5
+BATTERY CHARGER MOUNTING 2 8§ kg
+12. | A/[< CERTIFICATE |
+1.
+1. i
+15,
+5.
+17,
+18,
+FONB=SQUEEH-FREQUENGH—
+
+--- PAGE 5 ---
+g
+
+Microphore. DFpies | DIFMO
+
+Lo vOD
+GFDI  Amn Ao Amo. v e
+MOeR ScWe  TCRIs 2SI
+
+”’E -
+
+CECAmp.  Prevcsie & e det.
+DIFDIZ WSMISIAS
+
+At
+
+Ancenea
+Titer
+
+Freseaicy
+
+Ave.  Mix  pmp
+AU 7 2
+
+S 25CT
+
+Sameleh
+Comiess 25D556]
+‘oukor
+
+@
+
+AF Amp. AF Filter 20d Mix. 2nd IF Ac 15t IF Amp. Ist IF filler | 1st Mix HF Amp. RF Amp.
+Speaker NI AFHFG s e foRise | 2sczm 528 T
+m
+tea W35
+fre—
+DIFDIZ6 e Nuise dmp. 2od IF fiter
+— 1515882 . Murip Multiple
+p——ov Chanot switch Oncilation (30 ez
+lov TATILIGAT TR0
+™ T
+w
+rr-zom e
+JHP-44E01T
+
+= Block diagram
+
+--- PAGE 6 ---
+o |
+T F 3 I £y 1 5 & ki B E]
+A
+&
+=1
+° é ®
+c
+3PECLIAUTIONS
+—
+O
+o H
+fo—and |
+3
+I of
+9
+e | 1T
+= — WEINT ; #5504
+i T Hogo] T Heg e [ IAP- 44E 01T T T
+g B S f S| QUTLINE DRAWING ~
+Nca BATYERY FACK % it RS e
+
+T T
+
+--- PAGE 7 ---
+p-4pEGT R
+
+E
+
+|
+
+SRR
+
+OUTLINE DRAWING
+e
+E
+
+—MPX,P,0,1.306.
+
+--- PAGE 8 ---
+.
+A
+Q
+Q
+B
+O
+¢ L
+o
+i=}
+1]
+“
+I3
+g
+D o
+—
+IS
+S
+ARRARGE W0, § 2 .29
+
+STRAP - mpxp 01143t
+OQUTLINE DRAWING
+
+CrAKING 0.
+IRC] Fapar Radio Co, L. . . j
+
+o 9rd Angla System  Dimension mm
+
+--- PAGE 9 ---
+TiNakat | Yregenhe A
+
+LHECKED DESIGNED ORAWN
+
+1 2 3 2
+A
+CAP
+=
+g =
+Slul=l3
+3|58l 3
+B NEEE
+g
+¢ ¢ HEIHE
+O N A -4
+c H 3
+g Eiolale
+B
+S
+S22
+glolels
+zig|gls
+L] Bielsls
+2
+—— &
+£
+o N
+slelels
+21|l
+g|E|Z|E
+) 5
+O H & al al
+) 2o
+3
+&
+#14.9
+E
+FKLESS  OTNERWISD  3op
+T T
+ARDARGE KO, | 2
+£ WELGHT; Approx. 20g
+A lsi“r[ MODEL NAU-17'ANTENNA TITLE | SHEET HO.
+
+L
+
+OUTLINE DRAWING |
+
+Gapoan Radio Co, L.
+
+BRI e
+ORANIG NG,
+
+)
+
+3rd Angle System  Gimension mm
+
+--- PAGE 10 ---
+&7 2 A N |
+T ) 3 3 5 7 ) )
+A CHARGER
+MOCEL NBB~I4E
+B ¥
+o ° E
+o= 0 o
+R g
+. . (AR
+@o o Zle g B
+100
+< i3 e
+ey
+1 ems e tiaanTd
+2 P ieo kR ST AP e 5 B U E) R LLS. SRR
+o T EeTER S A T - TRERLE R T e ALE ke
+5 Fon TagERARRTIIV.
+How TO CHARGE
+L dnsert €hn Tadin fmte e havyers
+o 2 CCHARGE Lo wil) g0 odk. wham 605 of snarye 35 | €
+dhieves. Chavsing time of dischivyed bactary (8
+2bouE 15 nours STRICKLE limaadll Trvam (ghics.
+3AWE the charge 3L the Lemparatars lomer thim OV
+E| PSS DIACTOITE L SPECHTE
+L) T T T ATEAYIIS
+TR NI
+{Note) Using for intrinsicelly safe type transceiver F)
+this pinte §s pot on. =
+R | ERE CAUTION w
+ok BB BB The charger IS met of the WEIGHT; A ™ .
+A 5 Approx - kg
+VETLot. PERMTER | explosion-pross type amd,| © fr o oS
+H Lrre. tnere fore, snoaid et be P ] 196" | NeB-1a6 CHARGER !
+g s in & znmge: | Temalo]
+H used in & srmgerms place e mrn_[:qE DRAWLNG e
+o ] YUeqarnte { AT B
+(ORE) Japan Radio Co, 8. | . RN
+CER T T ——— 7 T
+
+--- PAGE 11 ---
+133, « MNi-Cd BATTERY PACK NBB-143  OUTLINE DRAWING . . )
+T T 2 L 3 T £} B T 5 7 I 7 -
+A
+i —
+| e i
+= =]
+H d O .
+a 5
+i ®
+° L
+8
+= —
+e —
+© == S — —
+— ——
+— . —
+= 2 3 —
+| —— 2 —
+- [—] —_—
+— ——
+[— —
+ol === e
+O
+e v s
+£
+
+Gomcm | ]
+WEIGHT; Aprox- 1004
+
+H it T o> .
+& ey | OUTLINE DRAWING e
+O Mekai A3 v T
+
+XD ET T
+
+--- PAGE 12 ---
+, 15 LEDGE FOR BATTERY CHARGER NZB-47 . N -
+1 I Z 1 3 I 4 I E 1 6 7 [ 5
+
+B|
+o) - i
+C
+- + + - -
+2]
+
+kg g : T +
+5 . N d
+507
+
+TOURTING ToTE
+
+WEIGHT; Aporex . 4 kg
+
+- T ot | MEPEL Wzb-a7_ [ e R
+7. LEDGE FOR DATTERY CHARGER
+
+CAITAED Sesin TN S OUTLINE DRAWING —~
+TNakei | & A3 " T
+
+0RE) Janan Radio Co, L.
+
+oo T ey
+
+--- PAGE 13 ---
+€/ 16, BATTERY CHARGEK LAYOUT. {3 SETS) » 5 -
+
+~3 LEDGE FOR BATTERY ) . .
+] z 3 1 73 S— T 3 7 ] ] 5
+I ]
+N
+i g
+i = d
+I T
+b E e pANAN
+i BB n -
+Ll P
+P saries
+o 520,
+— .
+T < +
+ol AaE PLTE
+i 4
+| HAME PLATE
+o H /
+i
+= 7 o 5 N
+A el 7 i ne ! o Ny
+2-07
+S o
+Note) Uting For Imirimsicatly Saf¢ tyme.
+e | T s s e et o
+WEIGHT; Amprox - Trg
+H reriol g e W] LEDGE FOR BATTERy "] Murm
+B Eeafent™""5ii| CHARGER LaYouT -
+) i ey o
+
+--- PAGE 14 ---
+&
+
+hARLE .
+i 3 5 T g 7 a9
+1)
+5|
+.G
+c|
+— 1
+it < 3
+E woF
+0|
+d e RATE o
+E il
+v AATE i
+o —_— —— e ]
+/ i}
+i / 4 + 1
+A Py 180 20 150 o]
+Paps)
+S
+Matas Usimg for intrinsicaity Saft Arpe.
+nim stats 13 st o
+rama)
+WEIGHT : Appese i Big
+H o et |us e T LEpaE FOR BaTIERY W[ %U®
+H S| e 0| CHARGER LATOUT
+N N e e
+50 Jepan o ot
+Ty T ——r— 7
+
+--- PAGE 15 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+®Main Office
+
+Akasake Twin Tower(Mair)
+17-22,Akasaka 2-chome.
+Hiatohu,To<yo 107
+
+Maritims Sales Department |
+Phone ; 03.3584.6791
+
+Fax: 13.3580-8795
+
+Moritimo Solcs Department I
+Phane ; 03-3584.6831
+
+Fax: 13-3524.8795
+
+Irternational Business Cepartment
+Phone : 03-3584-8835
+
+Fex: 1335848873
+
+Inferaafional Marketing Department
+Phone : 03-3564-6845
+
+Fex: 13.358-8359
+
+@URC (UK) Limited
+
+Geaund Floor, “cmple Crambers,
+Terple Auente, Lardon £.C. d
+Phone : 44. 71-353-7960,543-7440
+Fax: 44.,71-353.332)
+
+eusA
+Japa1 Radio Co. Lid, /New York Branch
+€30 Tar< Averua, New York
+
+Now York 10022
+
+Phane: 2 2.355 {180
+
+Fax: 2123185227
+
+@®indonesia
+
+Japan Radio Co. Ltc
+
+Hulha Tower 2 tn Flaor
+
+Jalan Jenderal Gator Suhroto Kai9-11,
+Jakarta 2930
+
+Phone : 215274053 5224055
+
+Fax: 21-5206053
+
+@Frilippines
+Japan Radio Co. Ltc.
+
+2320 Tall Avenie.
+Malateanila
+
+Phioe . 2.50-8365 » 57-1420
+Fax: 76215043
+
+@Thailand
+Janan Radia Co.. 1
+Charturorg ArPhor Building
+457 phea Sumart, Street,
+Barghok 02
+
+Phone/Tas - 7-260-0401
+
+®india
+Janan Rasia Ca. Ltd
+52,Sager Apariments,
+
+& Tilak Marg. New Delhi- 11000
+Phore: 11385751
+
+- 138057
+
+@Witaka Plant.
+
+-1, Stimorenaku S-chome Mizaka
+oo 18]
+
+Phone : 0422-45-91 11
+
+Fax: 0427-45.91 10
+
+@URC do Brasil Empreendimentos.
+Electronicos Lida,
+
+AvAlmirante Barroso 63-G-8/2707
+
+20031 Ro de JaneiroR
+
+Phone ; 21-220-8121,262-3281
+
+Fax: 212406324
+
+eusA
+Japan Ratio Co. Ltd
+
+Gt Raylheon Maring Cerpany 676 Istand
+Pond Road Manchester.NH 03129,0.5.A.
+Phone ; 803-834-4340
+
+Tac: 3036344841
+
+@Unitad Kingdom
+Jopa Radlio G0, 1d
+
+6 Ryl evn Mavine Euroze
+Anchorage Park,Portsmoutn,
+Hampshire,P03 STO,UK
+Pa0ne ; 44 70566323
+Fax: 43-705-663281
+
+@Nethariands
+Japan Radio Co. Lt
+
+/o Radio-Ho lend B.Y,
+Cekhoutsiraat 2,
+
+3087 48 Rotterdam
+
+Prana: 04762581 - 0-079.1088
+Fox: 104282259
+
+®spain
+par o Co..ta
+
+/o TOSA CANAR!AS S.i..Doctor
+
+Suan Domingusz Peres 4%, urbarizacion
+ELCEBADAL Lus Fanes 6 Gran Canaria
+Phone  14.28-06.5191 - 34.28-8.5731
+Fun' 3428452398
+
+--- PAGE 16 ---
+For further information contact ;
+
+Japan Radio Co, Ltd.
+
+HEAD OFFICE & Akasalka I'win Tower(Main),
+SALES DEPT. 17-22,Akasaka 2-chome,Minato-ku, Tokyo.
+Phone : 03-3684-8711
+Fax 84-8715
+Telex :(0242-5420 JRCTOK J
+MAIN PLANT 1-1,8himorenjaku 5-chome,Mitalka-shi, Tokyo.
+
+Phone : 0422-45-9111
+Fax :0422-43-9110
+Telex : 02822-351 JRCMTK J
+
+--- PAGE 17 ---
+Messrs.
+
+INSPECTION DATA
+
+UHF FM RADIOTELEPHONE
+MODEL THP- 44 F )7
+
+HAWRART HEAY Y I/VWSTMI
+(0,70 KOFE SHIPHRY
+S,{o /258
+
+o PRI 15655
+s SED /904
+
+Aopeoved by Ai /Vﬂ\ﬂﬁ/ﬂ &/
+
+Tested b
+
+Section  Hodks Rablo Sectlon af nspscton Uept,
+
+) Faparn Radio Co, Lt.
+2TH-$830-0] -/
+
+b
+=z
+
+--- PAGE 18 ---
+1. EERSE
+
+Verification to specification
+2. BmMRE
+
+Visual inspection
+3. iEhERE
+
+Perfornance test
+
+W
+
+Hodel JUP-44E 0T
+BT
+
+Serial No.Aw 26577
+
+[ Judgecent  Good
+
+Judgeaent  Good
+Judgeneat  Good
+
+3. 1 RABFRRRUBRGERG
+Qverall operation test and Electrical Judgesent  Good
+characteristic test ‘
+3.2 BH RERN. BIE BEBEE
+Frequency, RF Power wutpul, Sensitivity. RF Frequency tuicrunce
+I : TGS
+HERS ¥ R 8F Poser fidie 8F Frequency
+1cnanex No. Frequeacy output I Sensitivity toleranc
+liige Low | i
+i1 457. 5254z | .5 x| O/ WET |t o 0By o iz
+.2 457, 5508z | L orless |+ .5 dBay 39 U2
+L3 457..575M2 | ;o %| .08 % |+ o3 Bl o Iz
+3. 3 WABBHEE
+Maxioum freq. deviation
+| A a £ % " 3 :
+| Ites Specification } Yeasured Yalue
+Bk B AT E
+Maxioum freq. £ 5kHz BT t ©w& kltz
+deviation ar.less
+3,4 P-vRTALFRER (F-vf03)
+Tone squelch (with tone unit)
+k- B b - VU R U ®
+Tten Tone signal freguency, Specification Me/wrﬁ;uc/'
+- v BREWE F1 itz 0. 5% ! iz
+Tone Frequency
+talerance F2 bz flz
+-1
+Tone deviation T, Skiz +£20%
+b~ v DAL |
+Tooe sq 10 dB BIF
+fen sensitivity or less
+
+--- PAGE 19 ---
+Yodel] JUP-44E QLT
+EEE
+Serial No.Re 278
+1.fsEma
+Verification to specifi | Tudgesent Good
+2. BIRE
+¥isval inspection Judgenent  Good
+3. ERERE
+Performance test Judgement  Goed
+3.1 REWFRRRCTDATERS
+Overall operation test and Llectrical Judgeoent  Good
+characteristic test
+3.2 BHK RESH R BEEER
+Frequency, RF Power cutpul, Sensitivity, RF Freguency tulerance
+EXIEN I mwmms
+F R Bk RF Power i3 %F Frequency
+Chanzl No. Frequeacy autput I'Sensitivity toleranc
+gt | Low |
+1 457. 5254z o0 Fl o/ BT v op d + 8o M2
+2 457, 550z | 4p v orless [topdb|t 9o lz
+3 45.7. 5754z 0 Y o pog v | To20 |t So M2
+3.3 BRABUKEY
+Yaxiaua freq. deviation
+=1 E] | ] % ! = =
+Ites Specification i Yeasured Yalue
+BAEGERY ]
+Hexioua freq, = 5kHz BT 445‘ kRz
+deviation or less
+3.4 b-VRAFALFRR (F-H05)
+Tone squelch (with tone unit)
+® B [P e [3
+Iten Tone signal frequency, Specification Heasured Value
+b - B Pl iz £0. 5% ! 1z
+Tone Frequency 1
+tolerance [ F2 4z /v/s’s tz
+[N
+| Tone deviation T, Skiz =20%
+b= BRESR 1
+Tone sqy 10 8 BUF
+fien sensitivity or less
+
+--- PAGE 20 ---
+Yodet IAP-44EDIT
+B
+Serial No. A yad,
+
+1.
+
+Yerification to specifi [ Juigesert Good |
+2. BHERE
+
+Visual inspection Tudgement  Good
+3. HEREMTE
+
+Performance test Judgezcnt  Good
+3. 1 RAMFHRBRUURGEMR
+
+Overall operstion test and Electrical Judgenent  Good
+
+characteristic test
+
+Frequeacy, RF Power output,Sensitivi
+
+¥, RF Frequency telerance
+
+RIS . I munnz
+RS Bk RF Porer RF Frequency’
+Chanel Ho. Frequeacy - cutput | sensitivity tolerane
+lige | tow ! ! |
+1 457.525M | ,p ¥] 0 /vET|r 20 il 4o Kz |
+2 457. 58080z | ,p w| orless [T, 1|+ ,p iz |
+§ 3 467..575We | ,p v| pof v (Ts9 l+ 5o bz |
+
+3.3 BABEK
+
+¥axinun freq.deviation
+
+| = 3 & 3 ! [ =
+| Itea } Specification ! Measured Value
+RABEKED |
+¥aximua freq. £5xHz BT “$ kiz
+devistion ’ or. less
+
+3.4 F-YRFAFRR (- ff0a)
+Tone squelch (¥ith tone uait} .
+
+bt E] b= BB G
+Iten Tone signat frequency, Specification
+D sF%-3 Fl fz £0. 5%
+
+Tere Frequency
+
+tolerance | +G. 5% iz
+
+[ i
+Tone deviation Skilz *=20%
+
+b= B R AT
+Tone squ 10 dB KF
+
+G0 sensitivity or less i
+
+--- PAGE 21 ---
+B
+
+Yogel
+
+JIP-44F QUT
+
+Wi HF
+
+Serial No.Bi/70680
+
+1. EERS
+Verification to specification I Judgeaent  Good
+2. MM
+Visual inspection Judgeneat  Good
+3. EhekE _—
+Performance test Judgenent  Good
+3.1 RAMGRRECURGERD
+Overall operation test and Electrical Tudgenent  Good
+characteristic test
+3.2 BB RBEWH BT FREGE
+Frequeacy, RF Pawer outpul.Sensitivity.RF Frequency tolerance
+Fad Bk | R Poser whr RF Frequency’
+| Chanel Ho. Frequeacy Qutput | Seasitivity {oleranc
+| igt } Low 1
+1 i 457, 5275k /‘gw}.a/«u‘F t 09 8t ,50 K2
+] 2 457, 550Kz |° .0 wi or less |+ g9 M|+ .o U2
+s 457. 5750z | g |l p08 v tpo @y  so Mz
+3.3 BABUHEYE
+Maxioun freq.deviation
+" 8 ‘ [ i F E
+i Iten | Specification | ¥zasured Value
+! A B R EY
+¥axiaun freq. = 5Kz BF wg iz
+deviation ! o less
+3. 4 F-YAFAFRR (b-rHDL)
+Toue squetch (vith tone uait}
+- g b= R LT
+Item Tone signa! frequency, Specification éd Value
+b= o B A Tl [ *0. 5% Nz
+Tane Frequency
+tolerance 5% iz
+b gl
+Tone deviation Skilz *20%
+b - BBUEE
+Tone sg 10 6B B;UF
+Fen sensitivity or less
+
+--- PAGE 22 ---
+1. EEES
+
+Verification to specification
+
+2. BERE
+Visual inspection
+
+Perforpance test
+3.1
+
+REDIFRAE TR
+
+Overall operation test and Electrical
+
+B &
+
+Hode]
+
+ThP-44F 01T
+
+BiEFF
+Serial No.3
+
+[ e—
+I Judgeoert  Good' |
+
+Juégeaent Good
+Jucgeaeat  Good
+Judgesent  Good
+
+(A
+
+character.
+3.2 BB RENTD. BE BUKEGRE
+Frequency, RF Power outpul, Sensitivity, RF Frequency toleraace
+i | EET) ] ] !
+E Fral i Bk RF Power I RF Frequency
+Chanel Mo, | Prequency qutput !sensitivity | taleraac
+| | ige | Low ) |
+1 [ 4575284 | ,p vl .o/ BT |, , By ,s0 2
+2 1 457 550Mz | .o % arless |+, , @)y Lo Mz
+3 ! ST5Mz | L0 v 0087 tes @t 4o Bz
+3.3
+daxioue freq. deviation
+= g # i | o [
+Iten Specification i Yeasured Value
+BAHEERE I i
+¥axinua freq. tSuiz BF | y4 Kz
+deviation o:, less J
+3.4 bF-rIRUAFHR (b-r{fOd)
+Tone squelch (vith tame unie}
+= ] - EN RS
+Itea Tane signa! frequency, Specificstion
+- A s Tl iz 0. 5%
+Tone Frequency
+tolerance y F2 2 =0, 5% tz
+Pz T ]
+Tone deviation U, Skiz *20%
+b= BIREY
+Tone sq 10 d8 KIF
+fen sensitivity or less
+
+--- PAGE 23 ---
+CHEE
+
+I
+dodel JIP-44E01T
+
+Seriat Mo g¥7 70482
+
+S
+Verification %o specification I Judgeoeat  Good
+2. MMNE
+Visual inspection Judzerent  Good |
+3. whERE
+Perforaance test Judgement  Good |
+3.1 HEBFRARKUTAMERD
+Overall operstion test and Electrical Judgerent  Good |
+characteristic test
+Frequency, RF Poser autpul, Sensitivity, RF Frequeacy tolerance
+i ES IR T
+[Fesn =13 RF Power - SF Frequency’
+Chenel Ho. Prequency output toleranc |
+ftige | Lov
+1 457. 5235002 | o vlops v BT (1o Bl o hz
+2 457, 550Kz | s % orless |t ,pdB|t oo Uz
+P 3 457. 57540z 0 ¢ pos ¥t ot o bz
+3. 3 RABRERY
+Maxinua freq. deviation
+H 3 ! 5 as. I & E
+Iten \ Specification | ¥easuzed Yalue
+BABEEY ‘
+¥aximum freq. ‘ =5ulz BF PR
+deviation | or less
+3.4 F-VARLrAFHRR (b-sffDE)
+Tone squelch (vith tone unit}
+k5 g b - MR U RES [
+Iten Tone signal frequency, Specificaticn Value
+b= B IE [ uz +0. 5% Mz
+Tone Frequency
+tolerance F2 42 <T. 5% iz
+k- vRE
+Tane deviation 0. Skiz =20%
+k- v BRRE !
+Tone s 10 dB BLF
+fien seasitivity or less
+
+--- PAGE 24 ---
+Serial No A4 70483
+
+1. HEBS Oy —
+VYerification to specification I Sudgeaent  Good
+2. RHRE
+Visual inspection Todgenent  Good
+3. EERE
+Performance test Judgemeat  Good
+3.1 ROVFBRRCTAMERE
+Overall operation test and Llectrical Judgement  Good
+
+characteristic test
+
+Frequency,RF Power outpul, Sensitivity, 8F Frequency tolerance
+I I ) U mwH E
+Fr ko R | RF Pover A4 RF Frequeacy
+Cheael No. Frequeacy output I'sersitivity toleranc
+I ige Low |
+1 457. 525uiz sorl o/ v BTt sp a0t g0 b2
+2 4575500z | ,pow orless |1 ,p dBelt 40 Uz
+3 457. 575z L0 o 08% | T £p dl |t oo Hz
+3. 3 BABHRGE
+Haxisun freq.deviation
+Ed g ] A % ! ] ®
+Iten ‘ Specification ! Yeesured Value
+¥aximun freq. ‘ = 5kiz BT 7§ Wiz
+deviation | or. less
+3.4 P-VRFLFRBR (P-rHOL)
+Tone squelch (with tone unit)
+H g b= R RS s
+Iten | Tone signal frequency. Specificatica 2784 Value
+b~ B HUSE F1 1z +0. 5% bz
+
+Tone Frequency
+
+tolerance F2 H2 5% iz
+b -y
+Tone deviation 0. Skilz *20%
+b - BREE
+Tone sg 10 dB F
+
+en sensitivity | or less
+
+--- PAGE 25 ---
+REVISED AUS,
+
+JI
+
+P-AAEQTT  oMHzAW
+
+UHF TELEPHONE EQUIPMENT
+
+INTRINSICALLY SAFE)
+
+INSTRUCTION MANUAL
+
+Gl Reailio B, LB,
+
+--- PAGE 26 ---
+FOR ON-BOARD COMMUNICATION EQUIPMENT __
+
+MPT__JAPAN TYPE ACCEPTANCE No. OC83MMO1
+KG TYPE APPROVAL No. V84065
+_FOR INTRINSICALLY SAFE TYPE EQUIPMENT _
+RIS JAPAN TYPE APPROVAL No. 33258
+N K TYPE ACCEPTANCE No. NKE-2546
+ABS TYPE ACCEPTANCE No. 87-Y031747-X
+BV TYPE ACCEPTANGE No. 730/659E CN3 MIC/NF
+LRS TYPE ACCEPTANCE
+
+Z6
+
+TYPE APPROVAL
+
+No. ZCX8543305
+
+--- PAGE 27 ---
+PRECAUTIONS
+
+1. For purposes of intrinsical safety, the user of this equipment must refrain from making
+
+alterations to or modifications of circuit components or layout.
+
+2. The charger provided with the equipment must nol be used in a hazardous area because it
+is a non-explosion proof product.
+
+. The Nickel-Cadmium battery is completely factory-charged before delivery. However,
+like an ordinary dry battery it may have been somewhat discharged (due to self-discharg-
+ing) before it reaches the user. It is necessary that the battery be recharged beforc use. (For
+the charging procedure, see Chapter 3 of this manual.)
+
+. Charging the Nickel-Cadmium hattery must be done in a temperature range of 0°C to 40"
+C. Avoid charging especially at any temparature below 0°C.
+
+. A Nickel-Cadmium battery that will no longer be used for any reason should be returned
+to the nearest JRC branch, sales office, dealer, or agent.
+
+w
+
+-
+
+w
+
+CONTENTS
+
+page
+1. INTRODUCTION 1 5. SPECIFICATIONS 9
+1.1 General Description 1 51 General 9
+12 Features . 1 52 Transmitter 9
+13 System Components - " 1 53 Recelver ... 9
+2. OPERATING PRO(‘EDURE 3 5.4 Tone Squelch 10
+2.1 Opcration of Controls 3 6. OPTIONS 1n
+2.2 Preparatory Steps 4 61 Charger, BB 146 . 1
+23 Communication 4 6.2 Shoulder Antenna, NAU-11 ce 1
+2.4 End of Communication 4 6.3 Earphonc, UHFD~6 .. 1
+2.5 Battery Pack Replacement ... 1 64 Exrernal Speaker/microphone, tMEDET L 1
+3. CHARGING THE BATTERY 5 64 Headsets, UMFD 35/UMFD-36 .......... 11
+31 Nickel-Cadmium Battery 5 65 Adjusting Cable, CFQ-332 -....... n
+32 Precautions 5 6.7 Adjusting Cable, CFQ-1534 - )
+33 Charging Procedure 5 7. APPENDIX DRAWING 12
+4. MAINTENANCE 6 7.1 Block Diagrams 13
+4.1 Routine Maintenance 6 7.2 Schematic Diagrams 15
+4.2 Troubleshooting 6 7.3 Parts Layouts Diagrams 2
+
+43 Simple Readjustment s 7 74 Outline Drawing AT - %
+
+--- PAGE 28 ---
+1.
+
+1. INTRODUCTION
+
+1 General Description
+
+The JHP-44E01T 400 MIIZ/1W Radia Telephone
+Equipment is used for communication within a ship,
+between ships, or between a ship and a pier/wharf
+to help facilitate various jobs including maneuver-
+ing, loading/unloading. rescue, wharfing and moor-
+ing. Operating in simplex mode, the JIIF-44E01T
+uses a rechargeable Nickel-Cadrmium battery pack
+as the power source.
+
+1.2 Features
+
+1y
+
+]
+
+“
+
+8
+
+Intrinsically safe construction
+
+The equipment is designed to meet the require-
+ments for the intrinsically safe construction estah.
+lished by Ministry of Labour, The Research Insti
+tute of Industrial Safety Japan(RIIS), Tt can be
+used aboard LPG, LNG or LO tankers or in class
+1 hazardous areas.
+Compact ang light
+
+The cquipment measures 68 nm wide X 155 mm
+high % 385 mm deep, weighting 550 g including the
+weight of the battery pack. It Is so designed that
+the user does not have a feeling of resistance if he
+takes it on hand for hours,
+Channels
+
+The equipment can operate on three simplex
+frequencies that can he used for 400 MHz marine
+communications facilities.
+Easy operation
+
+The equipment has all controls lacated on top,
+which makes the user operate it easily despite of
+the small size. Full considerations are also taken
+to easy mainlenance of internal parts.
+High reliahility
+
+ICs are used in both the transmitter and
+teceiver throughowt, with semiconductorized
+antenna switching and lamps. This makes the
+equipment fully resistant to vibration or shock,
+while climinating contact wear and malfunction
+problems.
+High stability
+
+The equipment is highly stable because of the
+use of an APC (automatic power contral) circuit,
+2 voltage regulator circuit, and overinput protec-
+tion circuit.
+Low power consumption
+
+The cquipment consumes a minimum of power
+for more hours of operation. It can be used for
+about 11 hours contiueusly if operated at a trans-
+mit/receive/wait ratio of 1/1/18,
+Tranemit indication
+
+During transmission, the transmit lamp " TX "
+is on
+
+(9 Drip-proof construction
+
+The radiv equipment itself is of drip-proof
+construction with the antenna mounted
+
+i) Simple charging
+
+The equipment can be rapidly charged by
+merely plugging it into the charger (provided with
+i0). {IL is fully charged in 15 hours.)
+
+I} Remote control (optional)
+
+Use of an external handset enables the equip
+ment to be hanged on the waisl, II the user want
+to malke his hands free for doing a job, he may use
+a headset (with a vodas circuit).
+
+{1zl Tone squelch circuit (optional)
+
+“The equipment is provided with a tone squelch
+circuit, which releases the user from hearing any
+information he does not want when he and any
+other party share signals of the same frequency,
+
+The BUSY lamp comes on when the called
+parly is busy. Since up to two frequencies can be
+used for tone signals (upon request), group selec
+tion and calling can be inplemented.
+
+43 Battery check
+
+If (he battery voltage decreases, the TX lamp
+docs not come on. This helps the user to know the
+time of replacing or charging the battery.
+
+1.3 Components
+
+{1) Standard Composition
+
+Table 1
+Item Model Qty Remarks
+
+Radio JHP-44EOLT 1| Inel. Nickel-
+
+telephone aw) Cadminm
+
+cquipment Lone squelch battery (NBB
+
+is option 143) and
+
+erystal
+oscillators
+
+[[Antenna NAU-17 1
+
+Leather case | MPXP01306 1
+
+Shoulder belt | MI'XP01143 1
+
+Instruction 1 -
+
+tanual
+
+Test data 1
+
+--- PAGE 29 ---
+(2) Optional
+
+Table 2
+Itern Model Remarks
+Charger NBY-146 | Rapid charging
+
+External handset
+
+UMFD-37
+
+Adjustment rod
+
+Adjusting cables
+
+| Microphone
+
+Do,
+
+Earphone
+
+t
+Power supply
+
+Spare battery | NBB-143
+Crystal oscillator [ NR 2
+
+Headset UMFD-35
+
+Headset UMED-36 | throat MIC type
+Shoulder antenna | NAU-11 | With shoulder belc
+Ledge NZB-47 | for battery charger
+
+--- PAGE 30 ---
+2. OPERATING PROCEDURE
+
+2.1 Operation of Controls
+
+Earphone
+
+Connect the earphone. With the earphone con-
+nected, the loudspeaker stays off
+Antenna connecter
+
+Connect the flexible antenna (NAU-17) or the
+shoulder antenma (NAU-11).
+SW.VOL
+
+Power switch, also acting as a volume control
+Press button
+
+With this button pressed, the equipment is in
+transmit mode,
+PUSH
+
+Baltery pack lock/unlock button,
+CH fchammel selector switch)
+
+Set a desired channel of CHI through CH3.
+External handset connector
+
+Comnect the external speaker/microphone
+(LMFD-37) or headset (UMED 35 or 36).
+SQ (sauelch sensitivity selector switch)
+
+Dositions OFF, 1 and 2 are available. Strength
+
+Fig. 1
+
+@
+
+@
+
+@
+
+of squelch becomes decper in that order of the
+positions.
+
+Normally, noise will disappear with the switch
+set at 1.
+
+When tone squelch is in use. desired tone F1 or
+F2 s to be sclected.
+TX
+
+This lamp is on while the equipment is transmit
+mode. When it becomes off indicating that the
+battery capacity has been exhausted, recharge the
+battery pack.
+Transmit output selector switch
+
+This switch selects the (ransmit output to
+HIGH or LOW. Use the LOW pusition when you
+communicate with a party located not in a dis-
+tance. (This switch is provided on the side of the
+cabinet)
+BUSY
+
+Indicates that the line is busy.
+Loudspeaker /internal microphonce
+
+--- PAGE 31 ---
+2.2 Preparatory Steps
+
+(1) Install the flexible antenna (NAU-L7} to the
+antenna connector.
+
+(2] Turn the SW.VOL switch clockwise. Then power
+will be on.
+
+(3] Set the SQ switch to NOISE SQ OFT, and noise is
+delivered from the loudspeaker. Turn the switch
+to a position where proper volume is attained.
+Turning the switch clockwise will cause lurger
+volume.
+
+(4) Set the SQ switch to NOISE 8Q,, and the noise
+disappears. Normally, it should be set at NOISE
+SQu
+
+Now the equipment is ready or in standby
+mode. Tt can receive signals from calling parties.
+
+Setting the SQ switch at TONE SQ F1 or F2
+puts the equipment into standby state with squel-
+ch on. If the line is used by other parties, the
+BUSY lamp is vn.
+
+2.3 Communication
+
+(1) Set the chamnel selectar switch and the transmit
+output selector switch at desired positions.
+
+(2} With the press button {located on the side of the
+cabinet) held down, call a desired station {for
+example, A) through the microphone. (Pressing
+the bulton will cause the transmit lamp to come
+on)
+
+1f your station is named B, the calling proce-
+
+dure is like this :
+
+Example : “Station A, station A....This is B.
+How do you read me?  Please.”
+Tpon completing (he request to an-
+swer, release your finger from the
+hutton and wait for a response from
+Station A
+The response would be like this :
+
+Example : “Station B, station B. ... This is A.
+over.”
+Use wordings such as “please” or
+“over” for smooth communication.
+Upon inserting such wordings, put
+your equipment into reccive mode
+and wait for a response.
+
+{3) Any speech should be started after a response
+from the called party has been obtained
+Normally, both parties inform the opposite party
+of their own receiving condition, in terms of
+values shown in Table 3, before entering commu-
+nication,
+
+Example : “Your station's merit is 4. How
+about me? Please.”
+
+Table 3
+
+Verit Receiving condition Rermarks
+1 Very bad
+11 Bad
+3 C T Nomat
+d Good
+B Very good
+
+{NOTE} During transmission, vour mouth
+should be 2 - 4cm away from the
+microphone.  The volume of your
+speech should be at normal level.
+
+Tf this is neglected, there can oceur such a trouble as
+the inability of the battery to restore.
+
+2.5 Battery Pack Replacement
+{1l Removal
+With the PUSII button held down. twist the
+battery pack as shown by the arrow in Fig 2
+{2} Installation
+Align the projection in center of the battery
+pack with the concave portion at bottom of the
+cabinet
+Then twist the battery pack clockwise until a
+clicking sound is heard. During installation, you
+need not hold down the PUSH switch.
+
+Pugh-buttan
+
+--- PAGE 32 ---
+3. CHARGING THE BATTERY
+
+3.1 Nickel Cadmium Battery
+The Nickel-Cadmivm battery used in the radio
+cquipment is rechargeable. Its major features are
+(1) constant voltage during discharging.
+{2} Rechargeable as many as several hundred times.
+
+3.2 Precautions
+
+{1} Never attempt at charging the battery if the apen
+air temperature is helow 0°C,
+
+(2} Always use the charger provided with the equip-
+ment.
+
+{31 1f you do not use this equipment for many hours,
+periodic recharging s needed f{every three
+months).
+
+(4) Place the equipment on a vibration-free desk or
+floor when charging it. (The equipment is
+designed for indoor charging. Avoid charging on
+a moving vehicle)
+
+{5} Fitting the charger plug into the AC input recep-
+tacle will immediately cause an output to appear
+at the charging terminal. Do not allow a mctal
+rod or your bare hand to come into contact with
+
+Radio
+equipment
+
+the charging terminal.
+{6) Be sure Lo switch off the equipment power before
+starting charging.
+
+3.3 Charging Procedure
+
+(1} Flt the charger AC phug into the input receptacle
+of the equipment.
+
+(2; Switch off the equipment power and. according to
+the instructions given in Fig. 3, insert to the
+charger.  Then the CHARCE and TRICKLE
+lamps will come on, starting rapid charging.
+
+@ Upon completion of the charging, the CHARGE
+lamp comes out showing that the rapid charging
+has been completed.
+
+At this time, about 90% of the full charge has
+been completed. It takes about 1.3 hours to reach
+“his condition.
+
+) The TRICKLE lamp continucs on showing that
+the equipment is being trickle-charged. About 3
+- 4 hours of trickle charging after the CIIARGE
+lamp has gone out will charge the battery to the
+full,
+
+- Battery pack
+
+Charger
+
+Fig. 3 Charging
+
+--- PAGE 33 ---
+4, MAINTENANCE
+
+4.1 Routine Maintenanee
+
+The life of equipment depends largely upon the
+care or maintenance exercised by the user. To
+maintain the best equipment operating conditions, it
+is important to check at reguilar intervals and keep
+check-aut records. This routine maintenance ena-
+hles the user to discover any trouble before it
+becomes damage or to prevent a trouble from
+occurring. ‘The routine maintenance procedures
+listed in Table 4 should be taken as your daily care.
+
+Table 4 Routine Maintenance
+
+Order Check item Procedure
+1 | Battery check Charge if TX lamp goes
+out.t
+2 | Antenna circuit ' Check antenna for installed
+check condition
+3 'SW.VOL switch | Check turning this switch
+check causes power on and
+smooth increase or decrease
+of yolume,
+4 | SQuwitch check - Check noise exlinguishes
+
+| rapidly when the switch is
+turned clockwise.
+
+5 Receiver perfor- | Check noise for increase or
+manee check by | decrease compared with
+loudspeaker svand | normal level, Normal posi-
+
+tion of SW.VOL is to be
+determines with SQ in fully
+
+i counterclockwise position
+
+Check that transmit mode
+is started immediately after
+the button is pressed. Also
+check TX lamp comes on,
+
+6 | Push-button check
+
+7 Transmit/receive | Check that normal commu-
+condition check by
+
+intercommunication
+
+nication is available.
+
+For comparison under the
+same condition as normal,
+it i convenient to preset a
+specific partner station (for
+example, fixed station).
+
+he lamp indicalion is a guideline only. To
+know correct battery voltage, meusure the
+voltage at the charging terminal at the hottom
+of the equipment with a voltmeter, The hattery
+voltage is low if it is helow 8.0V,
+
+4.2 Troubleshooting
+
+Troubles can be roughly divided into the follow-
+ing three groups depending on the type of measuring
+equipment that is used for troubleshooting
+
+Table 5 Trouble Categories
+
+Category Example
+
+“Troubles requiring high-
+level
+ment for identification
+
+1. Frequency deviation of crystal
+
+measuring equip-  oscillator
+
+2. Decreased transmit or teceive
+distortion factar
+
+3 Low transmit modulation
+
+Troubles that can be dis-
+covered by use of tescer
+
+1. Broken resistor
+2. Damaged semiconductor
+
+alone 3 Disconnected internal wiring
+
+3 Blown fuse
+
+2 Poor contacting of power line
+
+3. Incomplete  contacting of
+antenna line
+
+4 Damaged power switch or vol-
+ume control
+
+5 Damaged parts that can be
+identified visually
+
+Troubles that can be dis
+
+covered out using |
+
+measuring equipment
+
+As can be understood from the above table, the
+
+scope of troubles that can be corrected by the user
+
+is extremely limited depending on whether neces-
+sary measuring equipment are available or not.
+
+If you find a trouble and seems it as being heavy
+
+through your diagnosis, contacl the nearest JRC
+
+dealer or agent.
+
+Table § lists procedures for trouhleshooting that
+
+can be taken using a tester alone. In trouble-
+
+shooting, the following must be kept in mind :
+
+1) First, check the power circuit, eg, blown
+fuses or defective comnectlors, If the power
+circuit is found normal, diagnose electrical
+circuits. Next, using a tester, check voltages
+(supply, transmit, and transmit voltages)
+
+2} If you musl check internal transmit/receive
+circuits, it is important to identify any differ-
+ence from normal conditions,
+
+--- PAGE 34 ---
+Table 6 Troubleshooting Guide
+
+No. Trouble
+
+Major possible causs
+
+1 | No pewer on
+
+A) Disconnected power cir
+cuit or incomplete contact
+Defective power switch
+SW.Y0L)
+
+B)
+
+2 | Valtage absent
+
+A) Defective operation  of
+wower cirenit (TR272.
+€D275, HC212)
+
+1 volrage does not appear
+
+auring
+
+i)
+transmission,
+euit (HC272) s
+defective or its load cir-
+cuit is shorced. At that
+
+power
+
+time, TX lamp stays off.
+
+3 | Naise from oppos
+
+station’s
+suppressed  but
+
+receiver is
+
+no
+
+vaice s conveyed
+
+A) Defective handsct or mi
+crophone
+
+Broken or shorted micro-
+phone cable, or poor con
+
+tact of connector
+
+B)
+
+C) Faulty operation of INC
+
+circuil (HC181, HC182)
+
+ing normal
+and receiver)
+
+4 ' Noise fran opposite
+station's recciver is
+not suzpressed {assuu-
+antenna
+
+A) Damaged antenna
+B) Incomplele contact of
+antenna connector
+
+) Faulty anteuna switching
+circuit (CD124, CDIZ3}
+Defective press- to talk
+push-hutton of the hand
+st
+
+Defective transmit circuit
+
+D)
+
+E)
+F) Defective power circuit
+(same as (B) of item No.
+
+2)
+
+5 No noise from loud
+
+speaker (with S
+
+position)
+
+Q in
+
+full counterclockwise
+
+A) Defective loudspeaker
+ivoice cail braken)
+Broken, shorted or incom-
+pletely contacting hand-
+set or foudspeaker cable
+Defective SW VOL switch
+Faulty voice amplificr
+(€202
+
+Defective power circuit
+{same as (A} of item No.
+2
+
+B)
+
+[}
+D)
+
+£)
+
+6 | Unusually small
+noise from 1
+speaker (with SQ
+counterclockwise
+
+position)
+
+oud-
+fay
+
+A) Defective vaice amplifier
+(c2)
+
+B) Tefective IF amplifier
+aC20, FL2001)
+
+Noise comes from | A} Froken or shorted anten:
+
+Toudspeaker but voice na or cable
+
+cannot be received | B) Defective recciving high
+
+| frequency amylifier
+
+u) Local oscilltor down or
+frequency deviation
+
+by Faulty high frequency
+
+| amplifier(IRZ211.
+
+TR2212)
+
+8 | Rough noise comes | A} Defective SW.VOL switch
+
+from loudspeaker
+
+when volume
+ed by SW.VOL
+
+adjust:
+
+A) Defetective SQ switch
+B) Defective squelch
+circuit(TR202)
+
+9 | Noise conol be sup-
+pressed by SO
+
+2
+
+4.3 Simple Readjustment
+Y
+
+Scope of readjustment
+
+Only transmit output adjustment for transmit-
+ter, or only receive senmsitivity adjustment for
+receiver.
+Spurious, percentage modulation, local oscillation
+and receiving distortortion facter adjustments are
+not included.
+Precautions —- before starting the job
+
+The radio equipment is strictly factory-
+inspected,
+Never tamper any portion other than specified,
+Preparatory steps
+
+Provide the following measuring equipment for
+the readjustment:
+@) Tester (DC, 50xA, Sk-ohm ranges)
+& Level indicator
+{¢} Dummy load (max. 5W, 400MHz hand)
+{4} Standurd signal generator
+{¢} 600-ohm/16-ohm conversion transformer
+] Adjustment procedure
+
+(4-1) Transmission
+
+(1) tarn RV121 of the transmit APC circuit
+(HC124) until maximum output is obtained,
+Adjust each portion according to Table 7.
+On completing the adjustment, turn RV121
+of the APC to ensure that 1W is indicated
+for dummy load
+
+Remove the handsel before adjusting the
+receiver.
+
+The procedure is shown in Table 8
+
+@
+@
+
+--- PAGE 35 ---
+Table 7 Simple Adjustment (Transmit) (NOTE) Connoct dunmy Toad to antenna connectar.
+
+orser | Item Ghack | Check Measuring Position J Remarks
+i point | terminel | means
+1 i Buffer ampl cvIZa TP Tester Maximum in- | Use 504A, Sk ohm range
+| crRizn dication |
+Intermediate CV1Z2 | Antemna | Dummyload | Maximum (- | After coarse adjustment has been
+power amplificr CVIZ3 | comnector dication completed, make fige adjustment so
+(TR122, TR123) that maximom dummy load in
+i dication is obtained.
+3 | Fina power Cvi2e | Aotena | Dunmy load | Masimum in-
+amplifier comector dication
+Table 8 Simple Readjustment (Receive) (NOTE} An improper start of transmission will
+burn the standard signal gemerator
+connected to the antennz. Be sure to
+remove the handsct before the start.
+Orser tiem Check | Check Measuring Pasition Remarks
+point | terminal | means
+T | Mutighier/buffer | 123 TENNG | Tester Maximum 1) Conncer standar
+aplifier for | (2201 | indcation generator fo antenna.
+Tocal ascillation | Cvazol ) Use S, Sk-ohm tester
+(TR23, TRZZ, runge,
+TRZZ0, TR2202) i
+2 | Highfrequency | Cvaul Level | RN est - Canmet tester vad rod (4} %0
+ilter o : check terminal and (] to
+i
+cveie GND.
+
+(NOTE) + 20 aBNQ (20 dB noise quisting method)
+Receive input voltage (output voltage of the standard signal generator)
+by which the low frequency noise output of the receiver is quisted by
+20 dB. is given in terms of dB(zV) (04B: 1 V)
+
+--- PAGE 36 ---
+5.1 General
+
+5. SPECIFICATIONS
+
+(1) Intriosically safe type : i2G4
+{2) Frequencies used
+Channel  Frequency
+cH1 457.525 MHz
+CH2 457550 MHz
+CH3 457575 MHz
+3} Communication mode : Simplex
+4} Type of emission : Tl
+
+{3 Antenna impedance
+i6) preheating
+
+Operating temperature
+range
+
+() Humidity cange
+
+(9) Input supply voltage
+10 Rating
+
+A Vibration resistance
+
+(1% Shock resistance
+
+13 Weight
+{4 Overall dimensions
+
+05 Tnput supply current
+
+5.2 Transmitter
+1) Traosmil output
+
+{2 Frequency stability
+(3] Multiplication
+) Oscillation
+
+) Modulation
+%) Maximum frequency
+
+deviation
+{7} Spurious radiation
+
+: 50 ohms
+: Not required
+
+—10°C to +30°C
+Up to 95% at 35
+
+© 108V DC +10%
+: Approx. 11 hours when
+
+operated at transmit/
+receive/stand-by of 1/
+/18
+
+0 - 500 vibrations/
+mimute with 3mm full
+amplitude, 500-1800 vi-
+brations/minute with 1
+mm full amplitude
+
+: No adverse effect shall
+
+be observed with the
+equipment when  sub-
+jected to three drops
+from a height of  cm to
+hard wood.
+
+1350 g
+1 68mm (wide) X
+
+155
+mm (high) X 385mm
+(deep)
+
+ Transmil Approx. 370 mA
+
+Receive Approx. 60mA
+Standby Approx. 20 mA
+
++20%
+5
+Ry
+
+Within £5 % 10~
+
+01
+
+Crystal controlled PLL
+oscillation
+
+Variable reactance
+phase modulation
+
+© Within +5 kHz
+
+Less than - 10dBm
+
+(8}
+
+(9}
+[0
+
+an
+
+el
+
+8
+9
+
+hul
+an
+w
+il
+it}
+
+5
+
+Signal-tonoise
+
+ralio
+Occupied bandwidth
+Modulation distortion
+
+Modulated input
+
+impedance
+Pre emphasis
+
+Receiver
+Receive system
+
+Intermediate frequency
+
+Local frequency
+
+Local oscillation
+stability
+Sensitivity
+
+Bandwidth
+Selectivity
+Spurious response
+Desensitization
+Intermodulation
+Distortion
+
+Rated AF output
+
+Maximum AF output
+Loudspeaker impedance
+
+: Better than 40 dB
+: Less than 16 kHz
+
+More than 20dB at
+standard modulation
+
+: 600 ohms
+: 0.3 kIlz to 3 kHz which
+
+changes in increments
+of 6dB/actave, with 1
+kHz as reference, %3
+dB
+
+: Double superheter-
+odyne
+
+:lst........ 208 MHz
+20d 455 kllz
+
+: Ist......{assigned
+frequency —20.5 )/6
+Mllz
+
+2nd. 20.345 MHz
+
+or 21.255 MHz
+
+Within £10 % 10 ¢
+Less than 8 dBy at 20
+dB noisc guicting
+More than 12kHz at 6
+dB down
+
+: Less than 30 kHz at 70
+
+dB down
+
+: More than 70 dB
+: More than
+
+A8 for
+interference signals at
+least +25 kHz away
+
+: More than 65 dB
+: More than 20dB at
+
+rated output
+
+© 200 mW
+: 300 mW
+
+: 16 chms
+
+De-emphasis
+
+2.5 kHz to 3 kHz which
+changes in decrements
+of 6dB/octave, with 1
+kHz as reference, =3
+dB
+
+--- PAGE 37 ---
+5.4 Tone Squelch (option)
+(1) Tone signal frequencies
+
+Table 8
+Category| Licensee group | Tone signal frequency (Hz)
+A Groups1 -3 | 1072 1148 1230 138
+B Groups 4 - 6 | 1413 1514 1622 1738
+C Groups7 - 9 | 1862 2033 2181 2336
+D [Grows10-12] 1035 uas uss 1w |
+E |Groups13 -15| 1365 1462 1367
+P Groups1s- 18| 1799 108 mer
+
+For channel guide tug
+oat or ship control an
+choring service
+
+6 7T 885
+(one frequency projected  for
+cach unit arca)
+
+{2) Tome frequency
+deviation
+
+: Less than 0.6 kHz
+
+(3} Encoder response time : Less than 500 ms
+) Tone signal distortion : More than 20 dB
+
+) Tntermodulation
+distortion
+
+i6) Tone squelch open
+sensitivity
+
++ Less than 15%
+
+: Less than 10 dB
+
+(7} Tone signal respense
+
+time
+{8) Receiver $/N ratio
+(9 Frequency stabitity
+
+: Less than 250 ms
+Better than 30 dB
+
+: Wihin £0.5% of tone
+signal frequency
+
+10—
+
+--- PAGE 38 ---
+6. OPTIONS
+
+6.1 Charger, NBR-146
+The NBB-146 is specifically designed for the
+radio telephone equipment THP-44E01T. Its power
+is obtained from a 100 V or 200V AC system.
+Approx. L5 hours is needed for more than 90% of
+charging.
+
+6.2 Shoulder Antenna, NAU-11
+This antenna may be used where the radio equip-
+ment is set on you waist and communication is done
+through a handset, It increases the effective anten-
+
+na height for better communication.
+
+6.3 Earphone, UHFD
+This is useful where it is rather difficult for you
+
+to listen to communication through the Joudspeaker.
+With the earphone in use, the loudspeaker stays off.
+
+6.4 External speaker/microphone, UMFD-37
+An external speaker/microphone containg a loud-
+speaker and a micraphone s nacded where you use
+the radio equipment an your waist. With the spea-
+ker/microphane, the press-button, microphone and
+loudspeaker can be used. Volume control, squelch
+adjustment, and power on/off are provided on the
+radiv equipment side.
+
+When using the speaker/microphone, connect it
+1o the EXT SPEAKER/MICROPHONE connector.
+
+6.5 Headsets, UMFD-35/UMFD-36
+
+Cormect the headset to the EXT SPEAKER/
+MICROPHONE when using it. The heudset in-
+corporates a vodas circuit, which puts the equip
+ment into transmit mode when speech is transmit-
+ted. It facilitates ship loading or unloading jobs
+because it permits you to make your hands free. If
+the vodas function is not needed, turn off the switch
+located on the cable. In this case, communication
+can be accomplished by operating the press button
+on the radio equipment. (The UMFD-36 is a throat
+microphone.}
+
+6.6 Adjusting Cable, CFQ-332
+This control cable is used to adjust the modula-
+tion or other characteristics of the transmission
+
+capubility
+When using the control cable, connect it to the
+LEXT IIANDSET on the radio equipment,
+
+6.7 Adjusting Cable, CFQ-1534
+This control cable is used to supply power from
+an external source when the radio equipment is
+adjusted.
+
+11-
+
+--- PAGE 39 ---
+7.1
+iy
+
+2
+
+7. Appendix DRAWINGS
+
+Rlock Diagrams
+JHP-44E01T Radio
+
+Telephone Equipment Appendix 1
+NBE-146 Charger Appendix 2
+Schematic Diagrams
+
+THE-44E0LT Ovearall
+
+Connection Diagram Appendix 3
+CM7-1 OSC, IF and AF Sections  Appendix 4
+
+CMN-44 Transmitrer/Receiver RF Section
+
+Appendix 5
+NBB 116 Charger Appendix 6
+NBB-143 Ni-Cd Bartery Pack Appendix 7
+
+UMFD-37 External speaker/Microphone
+Appendix
+TUMFD-35 Head Set Appendix
+UMFD-36 Head Set (throat Mic tvpe)
+Appendix 10
+Appendix 11
+
+CMC 278 VODAS Circuit
+
+7.3 Parts Layouts Diagrams
+
+CMZ-1 03C, TF, and AF Sections Appendix
+
+(2} CMN-94 Transmitter/Receiver RF Sections
+Appendix
+
+7.4 Outline Drawing
+
+(1) JHP-44EOIT Radio
+
+Telephone Equipment Appendix
+
+(2) NDB-146 Charger Appendix
+
+3 NAU-17 Flexible Antenna Appendix
+
+{4} UMFD-37 External Speaker/Microphone
+Appendix
+
+(5} UMFD 35 Head Set Appendix
+
+(6) UMFD-36 Head Set (throat Mic type)
+
+1
+
+Appendix
+
+13
+1
+1
+
+--- PAGE 40 ---
+Lo¢
+
+BHFDIE
+
+Wieraphore
+
+DHEDICY
+
+Trowcs
+i
+
+GSC A,
+
+o Ve
+diee  DATDIZ
+DHFDL0 15 220652
+
+T & Plae det
+
+ST 3,
+
+253
+
+e
+5w
+
+Panes
+503
+
+A
+
+o o
+o
+oitfbine
+o
+S
+Precsier  aw  vn A
+o i ol
+one Og et
+s
+| Suich
+L Biins
+ATan, i v €A I A bE | s o o
+O Ao ) A | 2 pho BORE e
+& - i
+[
+152 J‘-)n’bi
+B
+o N 200 ke
+s e o CFxain
+— is1asy 2 Multiy Madmle
+I
+w oo Lo o
+o~
+o i
+E
+o
+252 o w * &
+aTe 1Z7A 250540
+=82
+Qg e (T =204 EMLLE
+L] § B famdT- 203 e
+gel
+S22
+3™~ rr
+
+w®
+
+Anienns
+iter
+
+--- PAGE 41 ---
+AC10--120¥
+AT200-240%
+
+z
+
+‘
+
+zz2
+
+Z
+
+3 X3
+
+§5¢
+
+T on
+g
+
+3g
+2
+
+Trickle charge
+
+O NiCd Batlery
+
+3
+
+Trans.
+former
+
++
+25A1020
+detect,
+Qi charse
+Bk { .| N
+1B4BL 28D717 25A1020
+Rectifier 25A1020 Contral
+151588
+L Current
+Regulator
+2SAL0Z0
+15588 %2
+25C1815
+WA 1St
+AN6780 25C1815 Timer-
+Timer Switch
+1 " s
+e
+181586 % 5 ode
+28 16X 2 SFORLB11 151587
+S1588% 2 HZI1A 181588 HZ4p
+Switch Switch Reset
+
+KCIL-1003 Battery voltage
+peak detect
+
+--- PAGE 42 ---
+TX. RXRF
+
+3
+z
+
+T
+o
+
+Tt
+
+QU@ mic v
+
+i
+g
+
+ANy
+
+ieiclvlviclolelcloly
+
+Bz
+
+i our|
+
+asc. TE AF
+3
+
+Mz -l
+
+[olclo)
+Peeead
+
+@
+
+[}
+
+[CIela] - lelelolelelole)
+@00 (020006 [0add)
+
+1
+
+cek - d4g
+
+mict ser
+
+b4
+
+60 clelal
+»@edjeece
+
+F20z pavs
+
+TOE_ 60030
+OBG OAQQn
+
+9
+
+NEEERE
+
+—15-
+
+°
+
+(BATTERY)
+
+(=
+
+Overalf Connection
+
+--- PAGE 43 ---
+TR202
+250§% _ 1c201 MC335aP
+
+caza TrR204 250505
+
+1
+o208
+
+! 15597l &
+
+1 4
+
+T225 mary
+g g
+
+1c202 NIM3860
+
+e . cam
+FL 2001 ARHRAF,
+
+c 000
+oo i
+-~ !
+2008
+I
+e — |
+ol T cae G2 ool i
+bk . o S
+hed o R . .
+— = EERINEEERE
+e N 3
+— z % cEEE Seala
+e % oo 3 = B g o
+c2 20 Lroii0l| leeer | vk Efi: R R
+ey el IE ey Mo | O] e
+e 5 I oo | ! L_1@|rone
+czaa 2o TP 2| S g ; L A®]evrn
+] Amd | B |E ! e Locar
+ —Temaedl ¢ 2 | R
+! C236° 2200 T mﬁmhq - R G | =HE| =
+7 X234 TRz33 F5A1020 1= NC27Z DHECIZ I @ Txt (92w
+caes o233 151598 HE I I
+[NE— . KA L y
+oz ®a20 1ok # - 3 o 15
+20t 2o T EmRA| | T " en % issae 1l | sv (conT1)
+| SR N e TheS: 254 103
+Ererparssm il t oo R2az 2 |
+T T | 5 s ‘ ‘
+TToae § 4 ¢ ;
+237 LGP0 || o i |
+T " |
+L] & |
+S e 3 ;
+it
+arn T —
+BT crae s - 1
+220 T = 1 Fead oo
+A | - Ty L
+a ! — e R ] 4
+a2 ‘ — -Fcua‘ Frag -
+6 o o000 ; - =T
+e [ B ! : = =
+€ 208 206
+F2 006006 o 560066 09 Boo oo o0oosccd o7 00e]"e
+3 PRI GEETE S w
+T > B N 258 E? N
+H u « o 22w o EE
+S338EE g~ 2R 55 £ P T
+—t S z I I LEFH3
+23z
+s 2
+Appendix 4
+cmz 1
+
+—16— Schematic diagram of OSC. IF. AF
+
+--- PAGE 44 ---
+neazi
+DHED 130 "
+HC123 TRz TR122
+b 25¢3019
+Aciz2  PHEDIZI Leisy 2300 AFLI21
+DHED127 «P400A1cr LPA70AL
+=2 Ri230 U121 Corag XS Xcizg Cviza s
+, 220 10K | o 334 152208 2 5018 10 €0 124 My 301 anT
+cla7 | "I E
+47 ° 3 Ero1
+O HL
+[760 i T o 3¥
+e f
+x 166 L e I o
+56 €138 Rl
+Hex
+3
+Icisr HC18 Y 1
+L. mMSM59E7AS onEDI 28 . onro4
+TR1e1 @ Rvi21 00
+st
+Rvizz o0 =
+TRiP55 (Rzzsy  TR2262 |31 a)
+257750 2567759 scarnfi T ¢
+E sy w R PR I
+dgJcens] casafEL
+30
+@ (oot
+iy l;g N
+h—’é: rezss 1L 38 -
+| =5 RS
+| P
+Ic182 2 2 TR2:
+T LOO7A TRzzts R TR2212% 212
+MI1C IN (O A7 TR 2202 3 o 2sca7sg d__ o esezmsd 25c2759 <
+Tow ot | @] r i E 12 caiu]E T cane e d Gy s 8
+v (Rx) | B S1#~100a) 20l (5 coas rz:iizy »Mm;:j oo s A0 | 5
+vLRx — 5 i %0 | ] -
+Sopi T E i &
+vele T T
+S 30w 8
+= |18 5‘; iy 2
+Tx1 @ Riga <oia cozzu «
+E hergn B2 HETAZ a0t
+1 @;‘ﬁ CHFD1G (&7 hcisz brFome X
+F R181 22 o 7
+6v 1@
+30 Rz
+27k S
+) cims _
+Tress .
+w2227 &7
+§ 2.2k LB
+kel fu
+
+17—
+
+Appendix 5
+CMN-94
+Schematic diagram of TX. RX. RF
+
+--- PAGE 45 ---
+[rRIcKLE
+oz
+Tiai2ea
+
+o)
+
+%
+—- e - 4
+| L i
+|
+] N I
+2 g i
+| . ]
+_ s ST I
+i i !
+~ P |
+i
+|
+I
+|
+|
+|
+L
+
+[
+H |
+
+Fsp-00% T
+
+Appendix 6
+NBB-146
+Schematic diagram of Charger
+
+-18
+
+--- PAGE 46 ---
+61—
+
+weibep ojewsyds
+yoeg Aianeg po-IN
+
+EFI-86N
+£ xipusddy
+
+|
+
+|
+|
+|
+)
+1
+|
+|
+)
+
+|
+]
+|
+1
+[}
+l
+]
+)
+|
+|
+1
+1
+|
+1
+1
+|
+|
+|
+|
+1
+1
+|
+'
+
+BRN l
+
++—
+o
+of
+13
+
+NN U RN ¢ SPUIGN  E SOpP
+
+cD2
+R1§ SFORIAC2
+330¢1w) Jaiid
+I
+R20
+15K oy
+TRS
+2z0(1w) 25059
+TRS
+25D568
+Qe
+® 250568
+* TRy
+B
+R10 Riz
+tek 15K
+0596 ] 1
+Re .
+Ri?
+47 ok 2k
+[ R?ﬂ( )
+3360w, CBI-42
+L CURRENLLUMITIER CIRCUT,
+PC FD127
+RED
+
+BLK
+IN-450A
+
+DISCHARGE
+TERMINAL
+
++
+
+CHARGE
+TERMINAL
+
++
+
+--- PAGE 47 ---
+P1
+SR30-10PU- 6P
+
+TRY
+25c945
+
+Appendix 8
+UMFD-37 External Speaker/ Microphane
+—20-  Schematic diagram
+
+--- PAGE 48 ---
+WVHDVIA DLLYWINIS 8LZ-DW 9L ¥I4TY
+
+Hds
+a e ~
+@ ! | & & 1I03YI2 svaon !
+ab3ds 4 x8L2- W0 |
+d¢ (@ - - ,:.N.IAW \
+s . '
+Lid | @y 0 o- ] [
+[
+- b2 -L00 21 |
+o | @t Lo aw !
+1
+%0, 3,
+16} 4 A
+.
+® b e e e
+
+[1%-] . -
+
+UMFD-35 Head Set
+Schematic diagram
+
+Appendix 9
+
+_ay—
+
+--- PAGE 49 ---
+WYHBVIQ JIIYWIHIS 8LZ~IWI BL ¥343y %
+
+i Lids
+
+'
+JONV._V:O 20N
+
+L LG IN0 DN
+‘
+
+H-ds O—
+
+Sy |
+
+_LINDYID SYA0A
+%842 - QWD
+
+1
+(
+1
+'
+i
+1
+|
+1
+1
+|
+
+NI 21 O
+
+Appendix 10
+
+UMFD-36 Head Set (throat Mic typs)
+
+Schematic diagram
+
+_22-
+
+--- PAGE 50 ---
+« -
+
+3
+
+2
+
+\\\\\ ki
+Foe T TSt TS ST T o - - 1w‘m \\\\\\\\\\\\\ 3 Sm
+‘. LE00TH0d9-1 < 2
+iy &
+. L113¥12 Svaon Im.m
+§-ds b—— 8Lz -owd <=7
+L o
+P x0 2
+a-ds ?nsufﬁ Toi R
+o 95 8Os
+uex =5
+
+B g
+
+33 <G4
+
+v5s
+e
+
+tepasz
+
+LI svoosz
+PORZWEN  LIDT
+dra SlaL
+- 2
+2-100 20N (azzy vEe Ly
+
+s -
+
+=T g0
+
+PLERT
+
+sroosz
+[T
+g
+
+R
+P Aﬁmou‘z o
+
+38
+! e 39 wom
+2
+' i o
+| T, & e
+' PR - 18
+RE LT e
+>h ¢ i e
+e wsa
+|
+| shoo5z svbosz svense
+! e eraL s
+
+gy Sy §
+
+--- PAGE 51 ---
+€
+
+=
+] ‘Oﬂ g’::t::‘a%r’{%r
+
+cMZ-1 0SC. IF. AF
+
+CMN-35 TX. RX RF
+
+Appendix 12
+JHP-44E01T
+Parts Layouts Diagrams
+
+--- PAGE 52 ---
+i =
+
+o [ e
+8 B i
+
+nolgamotlLlLL
+
+G ML=
+
+SIE miE
+
+Appendix 13
+JHP-44E01) Transceiver
+Outline Drawing
+
+--- PAGE 53 ---
+3
+
+Py ey —
+20 g0 pinoys ‘sick e
+PUn 2] ooid-uc:sopxs HEL U HTTE 2 6va
+243 40 0 51 196203 511 Ler s Bp e R B Y
+
+NQILMYD | W w
+
+Al
+
+@@
+!
+2
+
+T
+T e o @)
+
+9v1-88N 12A0W
+EECEARS]
+
+NBB-146 Charger
+Outline Drawing
+
+Appendix 14
+
+26—
+
+--- PAGE 54 ---
+ROTTER 9, ast 02y~ 00V €
+NAAHD mﬂ S/ L CBE~ 9L z
+ULLHM Yol CLy ~ 05y vl
+HOT0D d¥2 /W7 T3G04
+\\\\\ ~p/L -xoxdde
+
+CAP
+
+#14.
+
+WELGHT; Approx. 208
+
+Appendix 15
+
+NAU-17 Antenna
+
+Outline Drawing
+
+_27—
+
+--- PAGE 55 ---
+[T—
+43
+s0
+
+WEIGHT; Apgrox
+
+Appendix 16
+UMFD-37 External Speaker/Microphone
+—28— Outline Drawing
+
+--- PAGE 56 ---
+i
+
+fuu)
+
+R30-1CPU-EP
+
+Appendix 17
+UMFD-35 Head Set
+Qutline Drawing
+
+39—
+
+--- PAGE 57 ---
+(Y wdor oBow
+
+—Tevien
+
+5503 Troads
+
+TSP U
+
+018> pPusT Foer
+
+UMFD-36 Head Set (throat Mic type)
+
+Qutiine Drawing
+
+Appendix 18
+
+—30—
+
+--- PAGE 58 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+@Main Office.
+
+Akasata Twn Tower(Main)
+17.22,Akasaka 2.chome,
+Miriato-x1Tokyu 07
+
+Maritita Sales Department |
+Phone ; 03-3584-873 1
+
+Fax: 03-3584-3735
+
+Maritime Sales Department I}
+Phone  03-3584-8834
+
+Fax: 02-358-3736
+
+Imaatianal Business Dapartmant
+Phonc : 0335848836
+
+Fax: 03-3580-8878
+
+Incernational Market ng Department
+Phane ; 03-3584.8845
+
+Fax: 03-3524 8159
+
+@URC (UK) Limited
+
+Ground Floor, Terple Chambers,
+Temple Avele, London EC. 4
+Phone: 44-171-353-7960,533-7440
+T2 44171 3533321
+
+eUsA
+Japzn Racic Ca.Ltd. /New York Branch
+430 Park Avenue, New Yark,
+
+Naw York 10022
+
+Phore : 212.355-1180
+
+Fan: 2123195227
+
+@lndonesia
+
+Japan Reio Co. L
+
+aulia Tower 12 f Fioo”
+
+Jalan Jenderal Gator Subrota Kav.8-1 |
+Jakarta 12830
+
+Phone : 21 £204753 - 5204056
+
+Fax: 21 5204083
+
+@Philppines
+Japan Radio Co. g
+
+7320 Taft Avence,
+Malate,arlla
+
+Phone 2508565 » 57-1490
+Fax: 25215049
+
+@Thailand
+
+Japan Radiu Co, Ltd
+Charturong ArPhon Guilding
+457 phra Suma-u Sireer,
+Benghok 0220
+
+PhorieyTax : 2-280-040
+
+®india
+
+Japan Redio Co. Ltd
+
+5 4 Sagar Aparimerts,
+
+6 Tila< Marg, hew Delri- 110001
+Shone: 1138515
+
+Fax: 11-384571
+
+@Mitaka Plant
+1,Shimoenjaky 5-ciome Mita<a
+Tokyo 18
+Phone: 0422459111
+“r 2 0472441 0
+
+@JRC do Brasil Empreendimentos.
+Electronicos Ltda
+
+Av.Almirants Rarroso 64
+
+2003 Rig de Janciro,R)
+
+Pheng : 21-220.8121 262.9281
+
+Fox: 22406320
+
+QUSA
+
+Japan Radio Co. Ltd,
+
+7 Raytneon Marire Company, 676 Island
+Sord Road Manchester,NH 03199.U.8.A.
+hone : 6735342540
+
+ax: 623.634.4841
+
+@Unites Kingdom
+
+Japan Radio Co. Ltd
+
+/b Rayteon Marire Euroge
+Anchorage Park Portsmauth,
+Hampshire,"03 STOU K.
+Shone: 40,705 663739
+
+Fax: 00.705-66324 |
+
+@Netherlands
+
+Japan Rad o Co.Ltd.
+
+/b Raric-Halland K.V
+Zeknoutstract 2,
+
+387 AR Hotferdom
+
+Bhone: 13623458 - 10-429-1086
+o 154282258
+
+@®Spain
+
+Japa Radio Co. LU,
+
+/0 TOSA CANARIAG S L.Doctor
+
+Juzn Dermingues Perez a4, urbanizac on
+EL CEBADAL, Las Palras £ Gran Canaria
+Storie : 34-28-46-5181 + 30-28-06-5291
+Fax : 34-28-46-2338.
+
+952
+
+--- PAGE 59 ---
+(Rovr DR (e BTTEOR G :
+
+HEAD OFACES
+SALES DIBPT.
+
+CEAIN PLANT
+
+CORE Ne, : BZRIDOMSAA
+
+Depen Reilo Co, L2,
+
+Alosaba Twin Towerain,
+17-2%Akesalke 3 chume Minato -t Tokyo,
+Fleme : 48-365-8711
+
+Pax  :@3BIE71S
+
+Telen 3 13825530 JRCTOR J
+
+1) Shifmoreniio Selomnm, Mk i, Tolg.
+e s H222-050111
+
+Fax 02439100
+Teley ; ORE2-T61 JROMT J
+
+08B, 9, (RITD

@@ -1,0 +1,263 @@
+FILE: E-304 INSTRUCTION BOOK FOR EMERGENCY SWITCHBOARD.pdf
+FOLDER: .
+DATE: 2026-03-06 20:54:18.852806
+==================================================
+
+
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+
+
+--- PAGE 3 ---
+
+
+--- PAGE 4 ---
+
+
+--- PAGE 5 ---
+
+
+--- PAGE 6 ---
+
+
+--- PAGE 7 ---
+
+
+--- PAGE 8 ---
+
+
+--- PAGE 9 ---
+
+
+--- PAGE 10 ---
+
+
+--- PAGE 11 ---
+
+
+--- PAGE 12 ---
+
+
+--- PAGE 13 ---
+
+
+--- PAGE 14 ---
+
+
+--- PAGE 15 ---
+
+
+--- PAGE 16 ---
+
+
+--- PAGE 17 ---
+
+
+--- PAGE 18 ---
+
+
+--- PAGE 19 ---
+
+
+--- PAGE 20 ---
+
+
+--- PAGE 21 ---
+
+
+--- PAGE 22 ---
+
+
+--- PAGE 23 ---
+
+
+--- PAGE 24 ---
+
+
+--- PAGE 25 ---
+
+
+--- PAGE 26 ---
+
+
+--- PAGE 27 ---
+
+
+--- PAGE 28 ---
+
+
+--- PAGE 29 ---
+
+
+--- PAGE 30 ---
+
+
+--- PAGE 31 ---
+
+
+--- PAGE 32 ---
+
+
+--- PAGE 33 ---
+
+
+--- PAGE 34 ---
+
+
+--- PAGE 35 ---
+
+
+--- PAGE 36 ---
+
+
+--- PAGE 37 ---
+
+
+--- PAGE 38 ---
+
+
+--- PAGE 39 ---
+
+
+--- PAGE 40 ---
+
+
+--- PAGE 41 ---
+
+
+--- PAGE 42 ---
+
+
+--- PAGE 43 ---
+
+
+--- PAGE 44 ---
+
+
+--- PAGE 45 ---
+
+
+--- PAGE 46 ---
+
+
+--- PAGE 47 ---
+iii) Addition of a New Stand-by Generator
+With the stand-by generator list as in i}
+above, if G4 becomes ready for automatic
+start, then G4 will be added to the bottom
+
+of the existing stand-by generator list as
+
+follows:
+
+Stand-by
+
+ist
+[
+
+2nd
+!
+
+3ra
+
+4th
+
+Stand-by Generator Start Control Scheme
+
+The scheme of stand-by generator start control
+in response to an automatic start command signal
+is in following three kinds, to allow for
+
+selection of the most suitable scheme for
+
+individual applications.
+
+(1) Single Start Shceme without Followers
+In this scheme, only the 1st stand-by generator
+is automatically started and controlled.
+If this generator is removed from the stand-by
+generator list due to a start failure or later
+control trouble, the stand-by start control is
+
+terminated without any further action.
+
+Generator
+
+G3
+
+G5
+
+G6
+
+G4
+
+Dwg ™.
+@& TERASAXI ELECTMIC (D, LTR.
+
+--- PAGE 48 ---
+(3}
+
+Sheet no.
+
+Follower Start Scheme
+
+If the started lst stand-by generator is removed
+from the stand-by generator list due to a start
+failure or later control trouble, the order of
+the remaining stand-by generators will be moved
+stand-by will be started as lst stand-by and
+controlled. A failure of this stand-by too
+will be similarly followed and covered by the
+next lower order stand-by. This seguence would
+be continued as long as there is a follower
+stand-by. The stand-by start control will be
+
+terminated when there is no follower stand-by.
+
+Simvultaneous Start Scheme
+
+In this scheme, both lst and 2nd stand-by
+generators {3rd and loWer oder stand-bys, too,
+if necessary) are simultanecusly started.
+
+One of the started generators, whichever has
+established the required voltage first, will
+
+then be controlled as lst stand-by.
+
+Dwg fo.
+@ TERASAKI ELECTAIC g3, LTD.
+
+--- PAGE 49 ---
+Sheet 0. 2=1
+
+Causes of Automatic Stand-by Start and Control
+
+After Automatic Start
+
+The generator that is the lst stand-by on the stand-
+by generator list is automatically started by the
+automatic start command signal, which is generated
+on one of different causes. In the case of follower
+start scheme, depending on the type of cause, the
+2nd stand-by on the list may also be started
+simultaneously. In the case of simultaneous start
+scheme, the order of stand-bys on the stand-by
+generator list may not agree with the actual order
+
+of stand~bys after voltage establishment.
+
+Operation control of the started stand-by generator
+after its voltage establishment differs depending
+on the type of canse of automatic stand-by start,
+such as whether it is paralleled to the generator(s)
+on line or it replaces the latter. The following
+
+describes the automatic start.
+
+w0
+@ TENSAN ELECTRIC €9, LTB.
+
+Py

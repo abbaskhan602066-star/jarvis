@@ -1,0 +1,297 @@
+FILE: 2041342_A_w.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:17:28.635121
+==================================================
+
+
+--- PAGE 1 ---
+the Fluke Digital
+
+In-field valve positioner
+checks using the
+
+Valves, the actuators that move
+them, and the electronic circuits
+that control them, are all subject
+to the effects of aging soon afier
+they are installed. The valve seat
+wears not only from the repeated
+seating of the valve, but from the
+liquid or gas that passes through
+it. Depending on the application,
+a valve can be stroked from hun-
+dreds to tens of thousands of
+times over a one-year period.
+‘This amount of mechan;
+
+ably causes screw s
+to reposition, springs to weaken
+and mechanical linkage to
+Toosen. In addition, electronic
+components change value over
+time. The results are valves that
+don’t fully open or close, close
+prematurely, or operate errati
+and cause
+
+Fluke 789 ProcessMeter™
+
+the gas or liquid under its control
+‘This is more commonly referred
+to as “talibration drifi.”
+
+To keep a system operating
+properly, a good preventative
+maintenance program that man-
+dates periodic checks of valve
+positoners is required. These
+checks need to be conducted
+quickly to minimize dow n time
+When these checks reveal cali-
+bration dr on of the
+electronic valve positioner must
+be performed quickly. With the
+varied locations in w hich a valve
+can be installed and the difficulty
+n removing it, the equipment
+used to perform the checks must
+be brought to the valve positioner
+itself. Therefore, this ‘in-field”
+tester must be portable, easy to
+use and rugged. Fluke’s 789
+ProcessMeter™is a perfect
+solution.
+
+With its signal sourc
+
+biliy, the Fluke 789 can simufate
+a controller connected 1o a valve
+positioner’s input. Through the
+
+controls on the ProcessMeter, you
+
+the valve’s pos
+mechanical position indi
+valve stem position or flow
+ors. In addition, the Fluke 789
+can continuously adjust the
+source current in a ramping or
+stepping fashion, allowing you to
+check the valve’s linearity and
+response time
+
+An example will help explain
+how simple it is to use a Fuke
+789 ProcessMeter for these
+checks. This example only
+demonstrates the basic principles
+in making position checks on a
+valve positioner. Manufacturer’s
+specific instructions should
+always be consulted for proper
+and appropriate valve positioner
+testing and calibration
+
+Application Note
+
+General steps in checking
+valve positioning.
+
+‘The first order of business is to
+set up the ProcessMeter in the
+sourcing mode using the appro-
+priate range of current for the
+positioner. The Fuke 789 uses a
+separate pair of jacks to source
+current. Farst connect the test
+leads into the 24 Vloop power
+mA output jacks. Next, select the
+4-20 mArange by moving the
+function switch fom OF to the
+first mA output ¥ position. Now
+you're ready to connect the 789
+put terminals of the valve
+oner,
+
+With the test equipment prop-
+erly set up and connected to the
+positioner. i’s time to determine
+if the positioner fully closes the
+valve at the 4 mA input current
+level. Using the push buttons on
+the ProcessMeter, adjust the
+source current 10 4.0 mA. Now,
+while watching the valve for any
+movement, press the Coarse
+Down button once to decrease
+the current to 3.9 mA. There
+should be no movement of the
+valve. In setting the point at
+which the valve starts to open,
+you want to be sure there is no
+Counter pressure by the actuator
+against the force holding the
+valve closed when there is
+4.0 mAon the controller’s input
+In a spring-to-close valve, there
+should be no pressure on the
+diaphram. With a double act
+piston actuator, there. should be
+n0 pressure on one side of the
+piston. You may want o set the
+start of opening between 4.1 and
+4.2 mAto get that insurance at
+the closed setting. To check the
+opening of the valve, press the
+Coarse button up from 4.0 mA.
+The ProcessMeter will increase
+0. mA for each press of the
+Coarse button. You should adjust
+the zero adjustment on the pos
+
+I
+Library @ www.fluke.com/library
+
+--- PAGE 2 ---
+A Safety note:
+
+Always ensure that the personnel responsi-
+
+ble for the process you are working on are
+
+informed of your intentions prior to making
+any checks of valve operation. Be alert when
+
+touching any moving machinery
+
+tioner to set the valve for the
+closing you desire
+
+‘The next check is with the
+valve at the next extreme: fully
+“This is referred to as a span
+ion check. Using the range
+buttons on the ProcessMeter,
+adjust the source current for a
+20 mA reading and allow time
+for the valve to stabilize. While
+watching or feeling for valve
+movement, press the Coarse Up.
+range button once to 201 mA.
+This movement should be as small
+as possible and can be adjusted
+using the span adjustment on the
+positioner. Using the coarse con-
+trol of the 789, adjust current up
+and down between 20.1 mA and
+19.9 mA. There should be no
+movement of the valve stem from
+20.1 10 20 mA and slight move-
+ment from 20 mA and 19.9 mA.
+
+In most valves, there is an
+interaction between the zero and
+span settings of a valve controller.
+Therefore, it is best to ensure
+proper valve position adjustment
+by repeating the test of the fully
+closed and fully open positions.
+until no further adjustment i
+necessary.
+
+Positioner
+
+Flow
+
+For valves with linear action,
+linearity can be checked by set-
+ting the Fluke 789 to 4 mA and
+then, using the % Step button,
+step the current to 12 mA (50 %)
+and confirm the valve position
+ndicator is at 50 % travel. If your
+valve is of a non-linear type,
+refer to the valve manual for
+proper operation
+
+Checking for smooth valve
+operation is easy with the Fluke
+789’ Slow Ramp function. Set
+the rotary switch to output mA
+" and select Slow Ramp using
+the blue button. Allow the 789 to
+ramp through several cycles
+while watching or feeling for any
+abnormal operation of the valve
+The valve should NOT oscillate or
+hunt at any of the step positions
+of the Slow Ramp. Af the same
+time however, the valve should
+not be sluggish. You set the gai
+of the valve controller o a point
+that gives the best response
+between these two conditions
+
+As the example above shows,
+the Fluke 789 ProcessMeter
+brings all the necessary tools to
+the job site for checking and
+
+brat
+positioners. In add
+Fluke 789 not only simulates a
+current loop transmitter, but it’s a
+measurement tool as well. Along
+with the normal DVM measure-
+ments (de/ac volts, dc/ac current,
+and resistance), the 789 can also
+measure frequency. Additional
+features include MIN\MAX,
+Relative measurements, Diode
+Test and AutoHold. A feature-rich
+product designed specifically for
+the loop process technician,
+the Fluke 789 ProcessMeter
+also complies with IEC 1010-1
+standard for CAT 111 1000 V
+environments. Contact your local
+
+ributor for pricing and
+
+Fluke. Keeping your world
+
+up and running.
+
+PO Box 9090, Exe:
+
+Fluke Europe B.V.
+PO Box 1186, 5602 BD
+
+ett, WA USA 98206
+
+Eindhoven, The Netherlands
+
+For more infors
+
+In the US.A. (800) 443-5853 or
+
+Fx (425) 446-5116
+
+In Europe/ M-East/Afica (31 40) 2 675 200 or
+
+Fax (31 40) 2 675 222
+In Canada (800)-3
+Fux (905) 890-6866
+
+From other countries +1 (25) 446-5500 or
+
+Fax +1(425) 446-5116.
+
+Web access: hitp /o ww.luke com’
+
+02002 Fuke
+
+FLUKE or
+
+Cooration. All ights resrved
+Printed in USA 312002 3041342 A NG N ey A

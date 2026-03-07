@@ -1,0 +1,1684 @@
+FILE: 789_____cmeng0000.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:19:03.054063
+==================================================
+
+
+--- PAGE 1 ---
+FLUKE.
+
+789
+
+Processmeter
+
+Calibration Manual
+
+PN 1988891
+September 2002
+
+© 2002 Fluke Corporation, Al rights reserved. Printed in USA
+Al product names are rademarks of their respecive compaes.
+
+--- PAGE 2 ---
+LIMITED WARRANTY AND LIMITATION OF LIABILITY
+
+Each Fluke product is warranted to be free from defects in material and workmanship under normal use and
+service. The warranty period s three years and begins on the date of shipment. Parts, product repairs, and
+services are warranted for 90 days. This warranty extends only to the original buyer or end-user customer of
+a Fluke authorized reseller, and does not apply to fuses, disposable batteries, or to any product which, in
+Fluke's opinion, has been misused, altered, neglected, contaminated, or damaged by accident or abnormal
+conditions of operation or handling. Fluke warrants that software will operate substantially in accordance
+withits functional specifications for 90 days and that it has been properly recorded on non-defective media.
+Fluke does not warrant that software will be error free or operate without interruption.
+
+Fluke authorized resellers shall extend this warranty on new and unused products to end-user customers
+only but have no authority to extend a greater or different warranty on behalf of Fluke. Warranty support is
+available only if product is purchased through a Fluke authorized sales outlet o Buyer has paid the
+applicable international price. Fluke reserves the right to invoice Buyer for importation costs of
+repairireplacement parts when product purchased in one country is submitted for repair in another country.
+
+Fluke's warranty obligation is limited, at Fluke's option, to refund of the purchase price, free of charge repair,
+or replacement of a defective product which is retumned to a Fiuke athorized service center within the
+warranty period.
+
+To obtain warranty service, contact your nearest Fluke authorized service center to obtain retum
+authorization information, then send the product to that service center, with a description of the difficulty,
+postage and insurance prepaid (FOB Destination). Fluke assumes no risk for damage in transit. Following
+warranty repair, the product will be retumed to Buyer, transportation prepaid (FOB Destination). If Fluke
+determines that failure was caused by neglect, misuse, contamination, alteration, accident, or abnormal
+condition of operation or handiing, including overvoltage failures caused by use outside the product's
+specified rating, or normal wear and tear of mechanical components, Fluke wil provide an estimate of repair
+costs and obtain authorization before commencing the work. Following repatr, the product will be returned to
+the Buyer transportation prepaid and the Buyer will be billed for the repair and return transportation charges
+(FOB Shipping Point).
+
+THIS WARRANTY IS BUYER'S SOLE AND EXCLUSIVE REMEDY AND IS IN LIEU OF ALL OTHER
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTY
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. FLUKE SHALL NOT BE LIABLE
+FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOSSES,
+INCLUDING LOSS OF DATA, ARISING FROM ANY CAUSE OR THEORY.
+
+Since some countries or states do not allow limitation of the term of an implied warranty, or exclusion or
+limitation of incidental or consequential damages, the limitations and exclusions of this warranty may not
+apply to every buyer. If any provision of this Warranty is held invalid or unenforceable by a court or other
+decision-maker of competent jurisdiction, such holding will not affect the validity or enforceabilty of any other
+provision.
+
+Fluke Corporation Fluke Europe B.V.
+P.0. Box 9090 P.O. Box 1186
+Everett, WA 98206-9090 5602 BD Einchoven
+USA. The Netherlands
+
+11/99
+
+--- PAGE 3 ---
+Table of Contents
+
+Title Page
+
+Introduction....
+Contacting Fluke
+Read First -Safety Information
+Warnings and Caution:
+
+Required Equipment
+Basic Maintenanc
+Cleaning the ProcessMeter ..
+Replacing the Batteries
+Battery Life..
+Checking and Replacing the Fuses.
+Calibration Verification
+Preparing to Perform Calibration Verification.
+Loop Power ..
+Current Sourcing.
+Current Measurement
+Checking the Diode Test Function
+Checking the Continuity Test Functior
+Resistance Measurement Test
+DC Millivolts Measurement Test.
+DC Volts Measurement Tests
+AC Volts Measurement Test .
+Frequency Measurement Test.
+Calibration Adjustment.
+Preparing for Calibration Adjustment ..
+AC Voltage Adjustment
+Frequency Adjustmen
+DC Voltage Adjustment
+DC Millivolts Adjustment
+
+Milliamps Output Adjustment.
+Replacement Parts and Accessories
+
+--- PAGE 4 ---
+789
+
+Calibration Manual
+
+i
+
+--- PAGE 5 ---
+List of Tables
+
+Table Title Page
+
+1. Symbols.
+2. Required Equipment and Software.
+3. Typical Alkaline Battery Lif
+
+4. Current Sourcing Test
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11
+12, Frequency Measurement Tes
+
+iii
+
+--- PAGE 6 ---
+789
+
+Calibration Manual
+
+iv
+
+--- PAGE 7 ---
+List of Figures
+
+Figure Title Page
+
+Replacing the Batteries and Fuses.
+Verifying Loop Power.
+Current Sourcing Connections Using the HP 3458 A
+Current Measurement Test Connections
+Diode Test Connection:
+Continuity Test Connection
+Resistance Measurement Test Connection:
+DC mV Measurement Test Connections
+AC/DC Voltage Measurement Test Connections
+10.  Frequency Measurement Test Connection:
+11, Calibration Button Ac
+12, Replacement Parts.
+
+P ENAUNE L~
+
+--- PAGE 8 ---
+789
+
+Calibration Manual
+
+vi
+
+--- PAGE 9 ---
+789 ProcessMeter
+
+Introduction
+
+A AWarning
+The information provided in this manual is for the use of qualified
+personnel only. Do not perform the calibration verification tests or
+calibration procedures described in this manual unless you are
+qualified to do so.
+
+/\Caution
+The 789 ProcessMeter™ contains parts that can be damaged by static
+discharge. No procedure in this document requires the case to be
+opened. If you do so, follow the standard practices for handling static
+sensitive devices.
+
+The Calibration Manual for the 789 ProcessMeter (hereafter, also referred to as “the
+ProcessMeter” or “the UUT”) provides the following information:
+
+Precautions and Safety information
+
+Specifications
+
+Basic maintenance (cleaning, replacing the batteries and fuses)
+Calibration verification test procedures
+
+Calibration adjustment procedures
+
+Accessories and replaceable parts
+
+For complete operating instructions, refer to the 789 Processl
+CD-ROM provided).
+
+Manual (on the
+
+Contacting Fluke
+To contact Fluke, call:
+USA : 1-888-99-FLUKE (1-888-993-5853) Canada: 1-800-36-FLUKE (1-800-363-5853)
+Europe: +31 402-678-200 Japan: +81-3-3434-0181
+Singapore: +65-738-5655 Anywhere in the world: +1-425-446-5500
+Address correspondence to:
+Fluke Corporation Fluke Europe B.V.
+P.O. Box 9090, P.O. Box 1186,
+Everett, WA 98206-9090 5602 BD Eindhoven
+USA The Netherlands
+
+Or visit us on the World Wide Web: www.fluke.com
+
+--- PAGE 10 ---
+789
+Calibration Manual
+
+Read First -Safety Information
+
+Warnings and Cautions
+In this manual, a Warning identifies conditions and actions that pose hazard(s) to the
+user; a Caution identifies conditions and actions that may damage the ProcessMeter or
+the test instruments.
+
+.
+
+.
+
+A AWarning
+
+To avoid possible electric shock or personal injury:
+
+Do not use the ProcessMeter if it looks damaged.
+
+Examine the ProcessMeter before use. Look for cracks in the case,
+missing plastic, or damaged insulation around the connectors.
+
+Inspect the test leads for damaged insulation or exposed metal.
+Check for test lead continuity. Replace damaged test leads.
+
+Do not use the ProcessMeter if it operates abnormally. Protection
+provided by the ProcessMeter may be impaired. When in doubt,
+have the ProcessMeter serviced.
+
+Do not apply more than the rated voltage as marked on the
+ProcessMeter between terminals or between any terminal and
+earth ground.
+
+When using probes, keep fingers behind the finger guards on the
+probes.
+
+Use caution when working above 30 V ac rms, 42 V ac peak, or
+60 V dc. Such voltages pose a shock hazard.
+
+Connect the common lead (COM) before connecting the live test
+
+lead. When disconnecting test leads, disconnect the live test lead
+first.
+
+Remove test leads from the ProcessMeter before opening the
+battery compartment door.
+
+Do not operate the ProcessMeter around explosive gas, vapor, or
+dust.
+
+During normal operation, use only type AA batteries, properly
+installed in the ProcessMeter case, to power the ProcessMeter.
+
+Make sure the battery compartment door is closed and latched
+before you operate the ProcessMeter.
+
+During calibration adjustment, use only specified calibration
+equipment listed in Table 2.
+
+When servicing the ProcessMeter, use only specified replacement
+parts.
+
+Before measuring current, check the ProcessMeter’s fuses, see
+“Checking and Replacing the Fuses”.
+
+To avoid false readings, which can lead to possible electric shock
+or personal injury, replace the batteries as soon as the low battery
+indicator (£l appears.
+
+--- PAGE 11 ---
+789 ProcessMeter
+
+/\Caution
+
+To avoid possible damage to the ProcessMeter or the test equipment:
+
+Disconnect the power and discharge all high voltage capacitors
+
+before testing resistance, diodes, or cont
+
+Use the proper terminals, switch setting, and range for the
+measurement or sourcing applications.
+
+Symbols
+
+Symbols used on the ProcessMeter and in this calibration manual are explained in
+
+Table 1.
+Table 1. Symbols
+Symbol Meaning Symbol Meaning
+~ Alternating current L Earth ground
+Direct current = Fuse
+
+Alternating or direct current
+
+e
+
+Conforms to European Union
+directives
+
+Risk of danger. Important
+information. See manual.
+
+Conforms to relevant Canadian
+Standards Association directives
+
+Battery
+
+Double insulated
+
+Meets Underwriters’
+Laboratories safety
+requirements
+
+Inspected and licensed by TOV
+Product Services
+
+CAT Il
+
+Overvoltage (Installation)
+Category lil, Pollution Degree 2
+per EN61010 refers to the level
+of Impulse Withstand Voltage
+protection provided. Typical
+locations include: mains, wall
+outlets, main distribution levels
+connected closer to the supply
+system but less than the primary
+supply system (CAT IV)
+
+Niot0
+
+Conforms to relevant Australian
+standards
+
+--- PAGE 12 ---
+789
+Calibration Manual
+
+Specifications
+All specifications apply from +18 °C to +28 °C unless stated otherwise.
+All specifications assume a 5-minute warm-up period.
+The standard specification interval is 1 year.
+
+Note
+
+“Counts” refers to the number of increments or decrements of the least
+significant digit.
+
+DC Volts Measurement
+
+Range (V dc) Resolution Accuracy, +(% of Reading + Counts)
+4.000 0.001V 01%+1
+40.00 0.01V 0.1%+1
+400.0 01V 01%+1
+1000 1V 01%+1
+
+Input impedance: 10 MQ (nominal), < 100 pF
+Normal mode rejection ratio: > 60 dB at 50 Hz or 60 Hz
+
+Common mode rejection ratio: > 120 dB at dc, 50 Hz, or 60 Hz
+Overvoltage protection: 1000 V/
+
+DC Millivolts Measurement
+
+Range (mV dc) Resolution Accuracy, +(% of Reading + Counts)
+
+400.0 0.1mv 01%+2
+
+AC Volts Measurement
+
+Range (ac) | Resolution Accuracy, +(% of Reading + Counts)
+50 Hz t0 60 Hz 45 Hz to 200 Hz 200 Hz to 500 Hz
+400.0 mV/ 0.1 mv 07%+4 12%+4 7.0%+4
+4.000 V 0.001 V 07%+2 12%+4 7.0%+4
+40,00V 0.01V 07%+2 12%+4 7.0%+4
+4000V 01V 07%+2 12%+4 7.0%+4
+1000 V 1V 0.7%+2 12%+4 70%+4
+
+Specifications are valid from 5 % to 100 % of amplitude range.
+
+AC conversion: true rms
+
+Maximum crest factor: 3 (between 50 and 60 Hz)
+
+For non-sinusoidal waveforms, add (2 % reading + 2 % f.s.) typical
+Input impedance: 10 MQ (nominal), < 100 pF, ac-coupled
+
+Common mode rejection ratio: > 60 dB at dc, 50 Hz, or 60 Hz
+
+--- PAGE 13 ---
+789 ProcessMeter
+Specifications
+
+AC Current Measurement
+
+Range Resolution Accuracy, Typical Burden
+45Hz 10 2 kHz (% of Reading + Counts) Voltage
+1.000 A (Note) | 0.001 A 1%+2 15V/A
+Note: 440 mA continuous, 1 A 30 seconds maximum
+Specifications are valid from 5 % to 100 % of amplitude range.
+
+AC conversion: true rms
+Maximum crest factor: 3 (between 50 and 60 Hz)
+For non-sinusoidal waveforms, add ( 2 % reading + 2 % 1.s.) typical
+Overload protection 440 mA, 1000 V fast-blow fuse
+DC Current Measurement
+Range Resolution Accuracy Typical Burden
+(% of Reading + Counts) Voltage
+30.000 mA 0.001 mA 0.05% + 2 14 mV/imA
+1.000 A (Note) 0001 A 02%+2 15 VA
+Note: 440 mA continuous, 1 A 30 seconds maximum
+Overload protection: 440 mA, 1000 V fast-blow fuse
+Ohms Measurement
+Range Resolution Measurement Current Accuracy
++(% of Reading + Counts)
+400.09 0.10 220 pA 02%+2
+4.000kQ 0,001 k2 60 pA 02%+1
+40.00kQ 001k 6.0 jA 02%+1
+400.0kQ 0.1k 600 nA 02%+1
+4.000 MQ 0,001 MQ 220nA 035%+3
+40.00 MQ 0.01MQ 22nA 25%+3
+Overload protection: 1000 V
+Open circuit voltage: <3.9 V
+Frequency Counter Accuracy
+Range Resolution Accuracy
+(% of Reading + Counts)
+199.99 Hz 001 Hz 0.005 % + 1
+1999.9 Hz 0.1 Hz 0.005 % + 1
+19.999 kHz 0,001 kHz 0.005 % + 1
+Display updates 3 times/second at > 10 Hz
+
+--- PAGE 14 ---
+789
+Calibration Manual
+
+Frequency Counter Sensitivity
+
+Input Range Minimum Sensitivity (rms Sinewave)
+5Hzto5 kHz'
+AC nc
+(approximate trigger level 5 % of full scale)
+400 mV 150 mV (50 Hz o 5 kHz) 150 mV.
+4V 1V 1V
+40V 4V 4V
+400V 40V 40V
+1000 V 400V 400V
+
+“Usable 0.5 Hz to 20 kHz with reduced sensitivity.
+10° VHz max
+
+Diode Test and Continuity Test
+
+Diode test indication: Displays voltage drop across device, 2.0 V full scale. Nominal
+test current 0.2 mA at 0.6 V. Accuracy +(2 % + 1 count).
+
+Continuity test indication: Continuous audible tone for test resistance < 100 Q
+Open circuit voltage: < 2.9 V
+
+Short circuit current: 220 KA typical
+
+Overload protection: 1000 V rms
+
+Loop Power Supply
+
+Loop Power Supply: Minimum 24 V@ 24 mA into 1200  load
+
+DC Current Output
+
+Source mode:
+
+Span: 0 mA or 4 mA to 20 mA, with overrange (0 24 mA
+Accuracy: 0.05 % of span’ (span: 0 to 20 mA)
+Compliance voltage: 28 V with battery voltage > ~4.5 V
+
+'0.1 x specified accuracy per °C for temperatures < 18 °C or > 28 °C
+
+Simulate Mode:
+
+Span: 0 mA or 4 mA to 20 mA, with overrange (0 24 mA
+Accuracy: 0.05 % of span’ (span: 0 to 20 mA)
+
+Loop voltage: 24 V nominal, 48 V maximum, 15 V minimum
+Compliance voltage: 21 V for 24 V supply
+
+Burden voltage: <3 V
+
+'0.1 x specified accuracy per °C for temperatures < 18 °C or > 28 °C
+
+--- PAGE 15 ---
+789 ProcessMeter
+Required Equipment
+
+General Specifications
+Maximum voltage applied between any jack and earth ground: 1000 V
+
+Storage temperature: 40 °C to 60 °C
+Operating temperature: 20 °C to 55 °C
+Operating altitude: 2000 meters maximum
+
+Temperature coefficient: 0.05 x specified accuracy per °C for temperatures
+<18°Cor>28°C
+Accuracy adders for use in RF Fields: In an RF field of 3 V/m, change the accuracy
+specifications as follows:
+
+For AC Volts Measurement, add 0.25 % of range
+
+For DC Current Measurement, 30.000 mA range, add 0.14 % or range
+
+For DC Current Output, add 0.32 % of span
+
+Accuracy for all ProcessMeter functions is not specified in RF fields > 3 V/m.
+ty: 95 % up to 30 °C, 75 % up to 40 °C, 45 % up to 50 °C, and 35 % up
+
+Relative hu
+t055°C
+
+Vibration: Random 2 g, 5 to 500 Hz
+
+Shock: 1 meter drop test
+
+Safety: Complies with EN61010, ANSI/ISA $82.01-1994 and CAN/CSA €22.2
+No. 1010.1-92 Overvoltage Category IIL.
+
+wcatons: @, @, PV
+Power requirements: Four AA batteries (alkaline recommended)
+Size: 10.0 cm X 20.3 cm X 5.0 cm (3.94in X 8.00 in X 1.97 in)
+Weight: 610 g (1.6 Ibs)
+
+Required Equipment
+Equipment and software required to perform the procedures in this manual are identified
+in Table 2.
+
+If the recommended equipment model is not available, in some cases other equipment
+can be substituted as long as it meets the specifications indicated.
+
+A AWarning
+To avoid safety hazards and equipment damage during the calibration
+procedure, use the specified calibration equipment
+Using unspecified equipment can jeopardize the calibration
+verification test and pose safety hazards.
+
+Note
+Unless otherwise indicated, all connection diagrams for the calibration
+verification tests in this manual showing a calibrator or digital multimeter
+use a Fluke 5500A calibrator or Agilent 3458A.
+If you are using a different calibrator or DMM, make the connections
+appropriate for that instrument.
+
+--- PAGE 16 ---
+789
+Calibration Manual
+
+Table 2. Required Equipment and Software
+
+Equipment
+
+Calibration Source
+
+Minimum Specifications
+
+No Substitute
+
+Recommended Model
+Fluke Model 5500A
+
+Digital Process Meter or No Substitute Fluke 787 ProcessMeter
+Digital Process Calibrator 741,743, or 744 Process Calibrator
+Digital Multimeter No Substitute Agilent 3458A
+
+Test Leads, low leakage,
+RG-58/U type
+
+Leakage resistance > than 1.0 x 10"
+Qat 45 °C and 75 % relative humidity|
+
+Fluke 5440A-7002 Low Thermal
+Test Leads
+
+Basic Maintenance
+
+Cleaning the ProcessMeter
+
+A AWarning
+To avoid electrical shock or damage, never allow water inside the case
+of the ProcessMeter.
+
+If the ProcessMeter requires cleaning, wipe it down with a cloth that is lightly dampened
+with water or a mild detergent.
+
+/\Caution
+Do not use aromatic hydrocarbons, chlorinated solvents, or methanol-
+based fluids when wiping down the ProcessMeter. To avoid damaging
+the case, never apply solvents to the case of the ProcessMeter.
+
+Replacing the Batteries
+
+A AWarning
+To avoid electrical shock:
+
++  Remove test leads from the ProcessMeter before opening the
+battery compartment door.
+
+« Closeand latch the battery compartment door before using the
+ProcessMeter.
+
+Replace the batteries as follows. Refer to Figure 1. Use four AA alkaline batteries.
+1. Remove the test leads and turn the ProcessMeter OFF.
+
+2. With astandard blade hand screwdriver, turn each battery compartment door screw
+counterclockwise so that the slot is parallel with the screw picture molded into the
+case.
+
+Lift off the battery compartment door.
+Remove the ProcessMeter’s batteries.
+
+Replace with four new AA alkaline batteries.
+
+E
+
+Reinstall the battery compartment door and tighten screws.
+
+--- PAGE 17 ---
+789 ProcessMeter
+Basic Maintenance
+
+P
+Figure 1. Replacing the Batteries and Fuses
+
+Battery Life
+
+A AWarning
+To avoid false readings, which can lead to possible electric shock or
+personal injury, replace the batteries as soon as the low battery
+indicator (£38) appears.
+
+The ProcessMeter is powered by four AA alkaline batteries.
+
+Table 3 shows typical alkaline battery life. To preserve battery life:
+*  Use current simulation instead of sourcing when possible.
+
+o Avoid using the backlight.
+
+* Do not disable the automatic power-off feature.
+
+*  Turm the ProcessMeter off when not in use.
+
+Table 3. Typical Alkaline Battery Life
+
+ProcessMeter Operation Hours
+Measuring any parameer 140
+Simulating Current 140
+Sourcing 12 mA into 500 & 10
+
+--- PAGE 18 ---
+789
+Calibration Manual
+
+Checking and Replacing the Fuses
+
+A AWarning
+To avoid personal injury or damage to the ProcessMeter, use only the
+specified replacement fuse, 440 mA 1000 V fast-blow, Fluke PN
+943121,
+
+Both current input jacks are fused with separate 440 mA fuses. To determine if a fuse is
+blown:
+
+1. Turn the rotary function switch to "E\A.
+2. Plug the black test lead into COM, and the red test lead into the A= input.
+
+3. Using an ohmmeter, check the resistance between the ProcessMeter test leads. If the
+resistance is about 1 Q, the fuse is good. An open reading means that fuse F1 is
+blown.
+
+4. Move red test lead to MA==,
+
+5. Using an ohmmeter, check the resistance between the ProcessMeter test leads. If the
+resistance is about 14 Q, the fuse is good. An open means that fuse F2 is blown.
+
+If a fuse is blown, replace it as follows. Refer to Figure 1 as necessary:
+1. Remove the test leads from the ProcessMeter and turn the ProcessMeter OFF.
+
+2. With astandard blade hand screwdriver, turn each battery compartment door screw
+counterclockwise so that the slot is parallel with the screw picture molded into the
+case.
+
+3. Remove either fuse by gently prying one end loose, then sliding the fuse out of its
+bracket.
+
+4. Replace the blown fuse(s).
+
+5. Replace the battery compartment door. Secure the door by turning the screws one-
+quarter turn clockwise.
+
+--- PAGE 19 ---
+789 ProcessMeter
+Calibration Verification
+
+Calibration Verification
+
+A AWarning
+
+Some of the calibration verification tests involve the use of high
+voltages and should be performed by qualified personnel only.
+
+To avoid electrical shock, always place the calibrator in the Standby
+(STBY) mode between tests and before handling the test connections
+or test cables.
+
+Calibration verification tests confirm the complete functionality of the ProcessMeter and
+check the accuracy of each ProcessMeter function against its specifications. If the
+ProcessMeter fails any calibration verification test, it needs calibration adjustment or
+repair.
+
+The ProcessMeter’s performance and accuracy are specified for one year after
+calibration at operating temperatures of +18 °C to +28 °C (64 °F to 82 °F), in relative
+humidity to 90 %. The specifications assume the ProcessMeter has been warmed up for 5
+minutes before use.
+
+To perform the calibration verification tests, it is not necessary to open the case; no
+adjustments are necessary. Merely make the required connections, source the designated
+values, and determine if the reading on the ProcessMeter or the multimeter falls within
+the acceptable range indicated.
+
+These calibration verification test procedures assume that the person performing the tests
+has read the 789 Users Manual, knows how to select functions and ranges on the
+ProcessMeter, and knows how to operate the required equipment.
+
+Note
+Calibration verification tests for the ProcessMeter can be performed
+manually, or they can be computer-automated (using Fluke’s MET/CAL®
+Calibration Software). This document provides the procedures necessary to
+perform the calibration verification test manually.
+
+Preparing to Perform Calibration Verification
+
+Note
+Throughout the calibration verification tests, “UUT” (unit under test)
+refers to the ProcessMeter; the word “multimeter” is reserved for the
+digital multimeter identified in the required equipment listed in Table 2.
+
+Unless otherwise indicated, all connection diagrams for the calibration
+verification tests in this manual showing a calibrator or digital multimeter
+use a Fluke 5500A calibrator or HP 3458A.
+
+If using a different calibrator or DMM make the connections appropriate
+for your instrument.
+
+To prepare the UUT for the calibration verification tests:
+1. Make sure that the required equipment is available (see Table 2).
+
+2. Make sure that the fuses in the UUT are intact. See “Checking and Replacing a
+Fuse™ earlier in this manual.
+
+3. Make sure the UUT has fresh batteries. See “Replacing the Batteries” earlier in this
+manual.
+
+--- PAGE 20 ---
+789
+
+Calibration Manual
+
+4. Warm up the calibrator and multimeter as required by their specifications.
+
+5. Remove all input cables from the front of the UUT.
+
+6. Make sure that the UUT is in a stable ambient temperature between 18 °C and 28 °C
+(64.4 °Fand 82.4 °F) and that it has been warmed up for 5 minutes.
+
+Loop Power
+
+1. Connect the UUT SOURCE + (A=) terminal to the SIMULATE + (==mA) jack of the
+789.
+
+2. Connect the UUT SOURCE - (mA=) terminal to the SIMULATE - (COM) jack of the
+787.
+
+3. Enable the dc volts autorange function of the HP3458A multimeter.
+
+4. Connect the voltage input terminals of the multimeter to the SOURCE + and
+SOURCE - terminals of the UUT as shown in Figure 2.
+
+5. Select the OUTPUT mA rotary position of the 787 multimeter and turn the rotary
+knob of the UUT to LOOP POWER (the UUT provides loop power and acts as a
+current source).
+
+6. Use the % STEP key on the 787 to simulate 24 mA.
+
+7. Verify that the voltage read by the multimeter is greater than 30 V.
+
+8. Push (O(BLUE) on the 789 to switch to its internal 250 Q.
+
+Verify that the voltage read by the multimeter is greater than 24 V.
+
+HP 3458A
+DC Volts Autorange
+Function
+
+Figure 2. Verifying Loop Power
+
+--- PAGE 21 ---
+789 ProcessMeter
+Calibration Verification
+
+Current Sourcing
+1. Put the calibrator in Standby (STBY) mode.
+
+2. Connect the SOURCE + (A=) and — (mA==) terminals on the UUT to the current
+terminals on the multimeter as shown in Figure 3.
+
+3. Putthe multimeter in the dc mA mode and manually select the 100 mA range. (Do
+not allow the multimeter to autorange.)
+
+4. Turn the UUT rotary switch in the OUTPUT A2 position.
+
+5. Use the % STEP and COARSE keys on the UUT to apply the values shown in
+Table 4 and compare the readings on the multimeter to the acceptable readings
+
+shown.
+Table 4. Current Sourcing Test
+Minimum Acceptable | Maximum Acceptable
+787 Range 787 Output Current | Multimeter Reading | Multimeter Reading
+No Range Switching |  4.000 mA 3.990 mA 4010 mA
+No Range Switching |  12.000 mA 11.990 mA 12.010 mA
+No Range Switching |  20.000 mA 19.990 mA 20010 mA
+
+HP 3458A
+DC mA Function
+100 mA Range
+
+Figure 3. Current Sourcing Connections Using the HP 3458A
+
+--- PAGE 22 ---
+789
+
+Calibration Manual
+
+Current Measurement
+Put the calibrator in Standby (STBY) mode.
+
+2.
+3.
+
+Put the UUT rotary switch in the T position.
+
+Connect the calibrator to the COM and mA:
+Figure 4.
+
+terminals on the UUT as shown in
+
+Apply the values from the calibrator shown in Table 5 and compare the readings on
+the UUT to the acceptable readings shown.
+
+Connect the calibrator to the COM and A= terminals on the UUT.
+
+Apply the values from the calibrator shown in Table 5 and Table 6 and compare the
+readings on the UUT to the acceptable readings shown.
+
+Press O(BLUE) on the UUT to toggle to ac amps.
+
+Apply the values from the calibrator shown in Table 7 and compare the readings on
+the UUT to the acceptable readings shown.
+
+BLUE)
+
+OO0 EEE @@
+
+Figure 4. Current Measurement Test Connections
+
+--- PAGE 23 ---
+789 ProcessMeter
+Calibration Verification
+
+Table 5. DC mA Test
+
+789 Range Calibrator Minimum Acceptable | Maximum Acceptable
+DC Current Reading Reading
+No Range Switching | 4.000 mA 3.996 mA 4.004 mA
+No Range Switching | 12.000 mA 11.992mA 12.008 mA
+No Range Switching | 20.000 mA 19.988 mA 20.012mA
+
+Table 6. DC Amp Test
+
+789 Range Calibrator Minimum Acceptable | Maximum Acceptable
+DC Current Reading Reading
+No Range Switching | 0.100 A 0.098A 0.102 A
+No Range Switching | 0.400 A 0397 A 0.403 A
+
+Table 7. AC Amp Test
+
+789 Range Calibrator AC Current | Minimum Acceptable | Maximum Acceptable
+and Frequency Reading Reading
+
+No Range Switching | 0.100 A @ 60 Hz 0.097 A 0103 A
+
+No Range Switching | 0.400 A @ 60 Hz 0.394 A 0.406 A
+
+Checking the Diode Test Function
+1. Put the calibrator in Standby (STBY) mode.
+2. Tumn the UUT rotary switch in the "y position.
+3. Press O (BLUE) to select diode test (¥).
+
+4. Connect the calibrator to the COM and 7y terminals on the UUT as shown in Figure
+5.
+
+5. Apply 2.0 V dc from the calibrator.
+6. The UUT should read between 1959 V and 2.041 V.
+
+7. Put the calibrator in Standby (STBY) mode; then disconnect the calibrator from the
+UUT.
+
+8. Putthe multimeter in the dc mA (autorange) function.
+
+9. Connect the current terminals of the multimeter to the COM and 7y terminals on the
+UUT.
+
+10. The multimeter should read close to 0.2 mA. (There is no tolerance specification for
+this current. This test just makes sure that the diode test current source is operating.)
+
+15
+
+--- PAGE 24 ---
+789
+Calibration Manual
+
+(BLUE)
+
+HP 3458A
+DC mA Autorange
+Function
+
+Figure 5. Diode Test Connections
+
+--- PAGE 25 ---
+789 ProcessMeter
+Calibration Verification
+
+Checking the Continuity Test Function
+1. Put the calibrator in Standby (STBY) mode, and turn the UUT rotary switch to the
+q position.
+
+2. Connect the calibrator to the COM and 3y terminals on the UUT as shown in
+Figure 6.
+
+3. Press [ ] (continuity beeper) on the UUT to select the continuity test.
+
+4. Using the calibrator, apply a resistance output of 230 + 20 Q. The beeper should stay
+off.
+
+5. Using the calibrator, apply a resistance output of 120 + 20 Q. The beeper should turn
+on.
+
+CopEEE @ @
+0oo oo B8
+Coo 0oo oo
+000 0eE 0o
+00 0D 00
+
+Figure 6. Continuity Test Connections
+
+--- PAGE 26 ---
+789
+Calibration Manual
+
+Resistance Measurement Test
+1. Put the calibrator in Standby (STBY) mode.
+
+2. Putthe UUT rotary switch in the """ position.
+
+3. Connect the OUTPUT and SENSE leads of the calibrator to the UUT as shown by the
+solid and dotted lines in Figure 7.
+
+4. Apply the calibrator resistance values in Table 8 in the 789 400 Q to 40 kQ range.
+Compare the readings on the UUT to the acceptable readings shown.
+
+5. Change the connections to the UUT. Using the Fluke 5440A-7002 low thermal leads,
+connect the calibrator to the UUT as shown by the solid lines in Figure 7.
+
+6. Apply the rest of the calibrator resistance values in Table 8 (400 kQ range and
+above). Compare the readings on the UUT to the acceptable readings shown.
+
+Figure 7. Resistance Measurement Test Connections
+
+--- PAGE 27 ---
+789 ProcessMeter
+Calibration Verification
+
+Table 8. Resistance Measurement Test Using a 5500A or 5520A Calibrator
+
+789 Range Calibrator Calibrator Minimum Maximum
+Resistance | Compensation Mode Reading Reading
+400 1200 2-Wire 11960 1204 Q
+400 3000 2-Wire 29920 3008 Q
+4kQ 12k 2-Wire 1197 k. 1.203 ke
+4kQ 3ke 2-Wire 2993k 3007 ko
+40 kQ 12k 2-Wire 11.97 k. 12.03 k2
+40k 30 ko 2-Wire 29.93 k2 30.07 k@
+400kQ 120k OFF 197 k. 1203 k.
+400kQ 200kQ OFF 1995 k 2005 k@
+400kQ 300k OFF 299.3 k2 300.7 k@
+4MQ 12MQ OFF 1.993 MQ 1.207 MQ
+4MQ 30 M OFF 2986 MQ 3014 MQ
+40 M@ 12 M OFF 11.67 MQ 12.33 MQ
+40 MQ 30 Mo OFF 29.22 MQ 30.78 MQ
+
+19
+
+--- PAGE 28 ---
+789
+
+Calibration Manual
+
+20
+
+DC Millivolts Measurement Test
+1. Put the calibrator in Standby (STBY) mode.
+
+2. Putthe UUT rotary switch in the my position.
+
+3. Connect the calibrator to the COM and 3y terminals on the UUT as shown in
+
+Figure 8.
+
+4. Apply the values from the calibrator shown in Table 9 and compare the readings on
+the UUT to the acceptable readings shown.
+
+CopEEE @ @
+00D oD B8 @
+Coo 0oo oo
+000 0eE oo
+00 0D 00
+
+EE]
+=1
+
+Figure 8. DC mV Measurement Test Connections
+
+Table 9. DC mV Test
+
+789 Range Calibrator DC Voltage | Minimum Reading Maximum Reading
+No Range Switching | 100 mV 99.8 mV 1002 mV
+No Range Switching | 300 mV 2996 mV. 300.4 mV.
+
+--- PAGE 29 ---
+789 ProcessMeter
+Calibration Verification
+
+DC Volts Measurement Tests
+A AWarning
+To avoid possible electrical shock or personal injury:
+
+«+  Some of the calibration verification tests involve the use of high
+voltages and should be performed by qualified personnel only.
+
+* Always place the calibrator in the Standby (STBY) mode between
+tests and before handling the test connections or test cables.
+
+1. Putthe calibrator in Standby (STBY) mode.
+2. Putthe UUT rotary switch in the i position; select the autoranging mode.
+
+3. Connect the calibrator to the COM and 3y terminals on the UUT as shown in
+Figure 9.
+
+4. Apply the values from the calibrator shown in Table 10 and compare the readings on
+the UUT to the acceptable readings shown.
+
+Figure 9. AC/DC Voltage Measurement Test Connections
+
+21
+
+--- PAGE 30 ---
+789
+Calibration Manual
+
+Table 10. DC Volts Test
+
+789 Range Calibrator DC Voltage | Minimum Reading Maximum Reading
+4V do 1V 0998V 1.002V
+
+4V do 3V 2996V 3.004V
+
+40V dc 10V 998V 10.02V
+
+40V do 30V 2996V 30,04V
+
+400 V do 100V 998V 100.2V
+
+400V do 300V 2996V 3004 V
+
+1000 V de 100V 99 101
+
+1000 V de 800V 798 802
+
+AC Volts Measurement Test
+
+A AWarning
+
+To avoid possible electrical shock or personal injury:
+
+Some of the calibration verification tests involve the use of high
+voltages and should be performed by qualified personnel only.
+
+Always place the calibrator in the Standby (STBY) mode between
+tests and before handling the test connections or test cables.
+
+Put the calibrator in Standby (STBY) mode.
+Put the UUT rotary switch in the ¥/ position.
+
+Connect the calibrator to the COM and Y terminals on the UUT as shown in
+Figure 9.
+
+Apply the values from the calibrator shown in Table 11 and compare the readings on
+the UUT to the acceptable readings shown.
+
+Table 11. AC Volts Test
+
+789 Range | Calibrator Voltage and Frequency | Minimum Acceptable | Maximum Acceptable
+Reading Reading
+
+400mVac | 100mV@60Hz 98.9mV 1011 mv
+
+400mVac | 300mV@60Hz 297.5 mV. 302.5 mV.
+
+4Vac 1V @60 Hz 0991V 1.009 V
+
+4Vac 2V @60 Hz 1.984 V. 2016V
+
+4V ac 3V @60 Hz 2977V 3023V
+
+40V ac 10V @60 Hz, 991V 10.09 V.
+
+40V ac 30 V@60 Hz 2077V 30.23V
+
+400V ac 100 V @ 60 Hz 9.1V 1009V
+
+400V ac 300 V@ 60 Hz 297.7V 3023V
+
+1000Vac | 100 V@ 60 Hz 97 103
+
+1000V ac | 800 V@ 60 Hz 792 808
+
+--- PAGE 31 ---
+789 ProcessMeter
+Calibration Verification
+
+Frequency Measurement Test
+1. Put the calibrator in Standby (STBY) mode.
+
+2. Putthe UUT rotary switch in the ¥ (ac volts) position.
+3. Press = ] to toggle to the frequency measurement function.
+
+4. Connect the calibrator to the COM and 7y terminals on the UUT as shown in
+Figure 10.
+
+5. Apply the values from the calibrator shown in Table 12 and compare the readings on
+the UUT to the acceptable readings shown.
+
+Table 12. Frequency Measurement Test
+
+789 Range Calibrator Voltage | Minimum Acceptable | Maximum Acceptable
+and Frequency Reading Reading
+
+199.99 Hz 5V @ 100 Hz 99.98 Hz 100.02 Hz
+
+1999.9 Hz 5V @ 1000 Hz 999.8 Hz 1000.2 Hz
+
+19.999 kHz 5V@ 10 kHz 9.998 kHz 10.002 kHz
+
+CONEDE BB B B @
+ooo oo B8
+0oo 000 00
+000 0EE 00
+o000 oD o0
+
+Figure 10. Frequency Measurement Test Connections
+
+23
+
+--- PAGE 32 ---
+789
+Calibration Manual
+
+Calibration Adjustment
+The Processmeter is calibrated using a closed-case procedure.
+
+Calibrate the ProcessMeter once a year to ensure that it performs according to its
+specifications.
+
+Preparing for Calibration Adjustment
+A AWarning
+To avoid possible electric shock or personal injury:
+Do not use the ProcessMeter if it looks damaged.
+
+« Inspect the ProcessMeter for damage, especially around the input
+terminals. Inspect the test leads and test connections for damaged
+insulation or exposed metal.
+
+«  Look for cracks, missing plastic or damaged insulation. If damage
+is detected, do not continue; contact Fluke to have the
+ProcessMeter serviced.
+
+«  Make sure that the battery compartment door on the ProcessMeter
+is closed and latched before using it.
+
+«  Check the test leads for continuity. Replace damaged test leads as
+necessary.
+
+« Do not use the ProcessMeter if it appears to operate abnormally.
+Protection designed into the ProcessMeter might be impaired. If in
+doubt, have the ProcessMeter serviced.
+
+« Toavoid electrical shock, always place the calibrator in the
+Standby (STBY) mode between tests and before handling the test
+connections or test cables.
+
+«  Some of the calibration adjustment procedures involve the use of
+high voltages and should be performed by qualified personnel
+only.
+
+24
+
+--- PAGE 33 ---
+789 ProcessMeter
+Calibration Adjustment
+
+Note
+The calibration adjustment procedures assume that the person performing
+them knows how to use the ProcessMeter and the required equipment. Do
+not attempt to calibrate the ProcessMeter unless you are qualified to do so.
+Throughout the following, “UUT” (unit under test) refers to the
+ProcessMeter; the word “multimeter” is reserved for the digital
+multimeter identified in the required equipment listed in Table 2.
+
+Calibration adjustment should be performed in an RF field < 1 V/m such
+as alaboratory environment.
+
+To prepare for calibration adjustment, do the following:
+1. Make sure that you have the required equipment available (see Table 2).
+
+2. Make sure that both fuses in the UUT are intact. See “Checking and Replacing the
+Fuses” earlier in this manual.
+
+3. Turn on and warm up the calibrator as required by its specifications.
+4. Remove all input cables from the front of the UUT.
+
+5. Make sure that the UUT is in an ambient temperature between 18 °C and 28 °C
+(64.4 °F and 82.4 °F).
+
+AC Voltage Adjustment
+Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+2. Turn the UUT’s switch to V.
+
+3. The calibration button is located on the backside of the Processmeter, under the
+Calibration Seal. Use a small probe to break the seal.
+
+4. Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+Note
+Pressing the Calibration Button puts the Processmeter into and out of
+
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+
+mode.
+
+Apply the voltages listed below as prompted by the Processmeter.
+
+B
+
+Press [_o ] after each sourced value appears. Do not alter the sourced value while
+the display reads Busy.
+
+Applied voltages:
+
+4mV @ 60 Hz
+
+40 mV @ 60 Hz
+
+400mV @ 60 Hz
+
+4V @60Hz
+
+40V @ 60 Hz
+
+400V @ 60 Hz
+
+1000V @ 60 Hz
+
+7. When Store is displayed, press (=] to store the calibration value.
+
+25
+
+--- PAGE 34 ---
+789
+Calibration Manual
+
+Calibration Button
+
+it
+Figure 11. Calibration Button Access
+
+Frequency Adjustment
+
+1.
+2.
+3.
+
+7.
+
+26
+
+Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+
+Turn the UUT’s switch to .
+Push [CwJ.
+Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+Note
+Pressing the Calibration Button puts the Processmeter into and out of
+
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+mode.
+
+Apply 4 V @ 5000 Hz.
+
+Press (o] after the sourced value appears. Do not alter the sourced value while the
+display reads Busy.
+
+When Store is displayed, press (=] to store the calibration value.
+
+--- PAGE 35 ---
+789 ProcessMeter
+Calibration Adjustment
+
+DC Voltage Adjustment
+1. Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+2. Turn the UUT’s switch to .
+3. Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+Note
+
+g the Calibration Button puts the Processmeter into and out of
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+mode.
+
+4. Press (=] after each sourced value appears. Do not alter the sourced value while
+the display reads Busy.
+
+Applied voltages:
+
+e 0V
+e 4V
+e 40V
+e 400V
+e 1000V
+
+5. When Store is displayed, press (o] to store the calibration value.
+
+27
+
+--- PAGE 36 ---
+789
+Calibration Manual
+
+DC Millivolts Adjustment
+Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+
+2. Turn the UUT’s switch to my -
+4. Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+Note
+
+g the Calibration Button puts the Processmeter into and out of
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+
+mode.
+3. Apply 0 V. Press [_o ] after the sourced value appears. Do not alter the sourced
+value while the display reads Busy.
+4. Apply 400 mV. Press (e ] after the sourced value appears. Do not alter the sourced
+value while the display reads Busy.
+5. When Store is displayed, press o ] to store the calibration value.
+Ohms Adjustment
+
+1. Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+2. Tumn the UUT’s switch to g
+
+3. Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+
+Note
+
+Pressing the Calibration Button puts the Processmeter into and out of
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+
+mode.
+
+4. Apply the resistances listed below. Press (= ] after each sourced value appears. Do
+notalter the sourced value while the display reads Busy.
+Applied resistances:
+
+e 0Q
+
+e 400Q
+. 4kQ
+
+o 40kQ
+* 400kQ
+. 4MO
+o 40MQ
+
+5. When Store is displayed, press (o] to store the calibration value.
+
+28
+
+--- PAGE 37 ---
+789 ProcessMeter
+Calibration Adjustment
+
+Diode Adjustment
+
+2.
+
+3.
+
+©
+
+B
+
+7.
+
+Connect the Processmeter to the volt/ohm output of the 5500A calibrator.
+Turn the UUT’s switch to "™
+Press O (blue) to enter the diode function.
+
+Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+
+Note
+g the Calibration Button puts the Processmeter into and out of
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+mode.
+
+Before applying 0V de, the 5500 must be range locked in the 3.3 V range.
+Impedance of 330 mV range changes the 0 V point.
+
+Apply 0 V de. Press [_= ] after the sourced value appears. Do not alter the sourced
+value while the display reads Busy.
+
+Apply 1 V de. Press [_= ] after the sourced value appears. Do not alter the sourced
+value while the display reads Busy.
+
+When Store is displayed, press (=] to store the calibration value.
+
+Milliamps DC Adjustment
+
+2.
+
+ks
+
+©
+
+6.
+
+Connect the Processmeter to the mA output of the 5500A calibrator.
+
+Turn the UUT’s switch to A. Make sure the test leads are in the mA
+inputs.
+
+nd COM
+
+Press and hold the Calibration Button for approximately 2 seconds. The unit will
+beep (see Figure 11).
+
+Note
+ing the Calibration Button puts the Processmeter into and out of
+calibration mode. The Processmeter will remain in calibration mode until
+the unit is turned off or the calibration button is pressed a second time.
+
+CAL appears in the bottom display when the Processmeter is in calibration
+mode.
+
+Apply 0 mA de. Press (e ] after the sourced value appears. Do not alter the
+sourced value while the display reads Busy.
+
+Apply 30 mA de. Press (e ] after the sourced value appears. Do not alter the
+sourced value while the display reads Busy.
+
+When Store is displayed, press (=] to store the calibration value.
+
+29
+
+--- PAGE 38 ---
+789
+Calibration Manual
+
+Amps DC Adjustment
+
+6. Store calibration constants by pressing [ ].
+
+1. Connect the Processmeter to the A output of the 5500A calibrator.
+
+2. Tumn the UUT’s switch to 7. Make sure the test leads are in the A and COM jacks.
+
+3. Press and hold the Calibration Button for 2 seconds (see Figure 11). The unit will
+beep.
+
+4. Apply 0 A dc. Press (=) after the reading stabilizes.
+
+5. Apply 1 Adc. Press (=] after the reading stabilizes.
+
+/\Caution
+Remove 1 A from UUT promptly after storing calibration constant.
+Fuse will blow after 30 seconds.
+
+Amps AC Adjustment
+
+1. Connect the Processmeter to the A output of the 5500A calibrator.
+
+2. Tumn the UUT’s switch (o 5.
+
+3. Press O (blue) to enter the A ac function.
+
+4. Press and hold the Calibration Button for 2 seconds (see Figure 11). The unit will
+
+beep.
+
+5. Apply 0.05 A ac @ 60 Hz. Press [ ] after the reading stabilizes.
+6. Apply 1 A ac. Press (o ) after the reading stabilizes.
+7. Store calibration constants by pressing [ ].
+
+/\Caution
+Remove 1 A from UUT promptly after storing calibration constant.
+Fuse will blow after 30 seconds.
+
+Milliamps Output Adjustment
+
+30
+
+1. Connect the Processmeter A output to the 3458 input.
+
+2. UUT will output approximately 4 mA. Use the fine and coarse adjustments on the
+
+UUT to get a4.000 mA reading on the 3458.
+
+3. Press o ] after 4.000 mA reading is reached on the 3458.
+
+4. UUT will output approximately 20 mA. Use the fine and coarse adjustments on the
+
+UUT to get a 20.000 on the 3458.
+
+5. Press (o ] after 20.000 mA reading is reached on the 3458.
+
+6. Store calibration constants by pressing [ ].
+
+--- PAGE 39 ---
+789 ProcessMeter
+Replacement Parts and Accessories
+
+Replacement Parts and Accessories
+
+A AWarning
+To avoid personal injury or damage to the ProcessMeter, use only the
+specified replacement fuse, 440 mA 1000 V fast-blow, Fluke PN
+943121,
+
+Note
+
+When servicing the ProcessMeter, use only the replacement parts specified
+
+here.
+Replacement parts and some accessories are shown in Figure 12 and listed in Table 13.
+Many more DMM accessories are available from Fluke. For a catalog, contact the
+nearest Fluke distributor.
+To find out how to order parts or accessories use the telephone numbers or addresses
+shown in "Contacting Fluke".
+
+]
+Figure 12. Replacement Parts
+
+31
+
+--- PAGE 40 ---
+789
+
+Calibration Manual
+
+32
+
+Table 13. Replacement Parts
+
+ftem Reference
+Number | Designator Description Fluke PN or Quantity
+Model n
+[0) MP14 Knob Assembly 658440 1
+[0) MP1 Top Case with Lens 1622862
+Protector
+® MP8 Decal, Top Case 1623923 1
+[0] MP6 Keypad 1622951 1
+® MPS5 Top Shield 1622924 1
+[0) MP47 Top Shield Contact 674853 1
+@ MP4 Contact Housing 1622913 1
+MP28-31 RSOB Contact 1567683 4
+® AFIF2 Fuse, 440 mA, 1000V 943121 2
+fast-blow
+H7,8 PCB Screw 832220 2
+[©) MP9 Bottom Shield 1675171 1
+[&) MP12 IR Lens 658697 1
+® MP40,41 LCD Connectors, 1641965 2
+Elastomeric
+@ MP7 Backlight/Bracket 1622960 1
+(1) P1 LCD Display 1883431 1
+MP3 Mask 1622896 1
+[©) MP50 Shock Absorber 878983 1
+MP11 Bottom Case 659042 1
+MP20 Battery Contact, Negative 658382 1
+BT1-4 Battery, 1.5 V, 0-15 mA, 376756 4
+AA Akaline
+@ H1-2 Fasteners, Battery/Fuse 948609 2
+Access Door
+® MP13 Tit-Stand 659026 1
+® MP15 ‘Accessory Mount with 658424 1
+Probe Holders
+MP2 Access Door, Battery/Fuse 1622870 1
+® MP45 Shock Absorber 674850 1
+MP16-18 Battery Contacts Dual 666435 3
+@ MP19 Battery Contact, Positive 666438 1
+H3-6 Case Screws 1558745 4
+® MP21 Calibration Label 948674 1
+MP22 Calibration Keypad 658689 1
+Notshown | TL71 Test Leads 1274382 1 (setof2)
+Not shown |  AC72 Aligator Clips 1670095 1 (setof2)
+Not shown | 789 Product Overview 1627890 1
+Not shown | CD-ROM (Contains Users 1636493 1
+
+Manal)

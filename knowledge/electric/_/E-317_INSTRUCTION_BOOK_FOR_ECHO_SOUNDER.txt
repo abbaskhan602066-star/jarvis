@@ -1,0 +1,4681 @@
+FILE: E-317 INSTRUCTION BOOK FOR ECHO SOUNDER.pdf
+FOLDER: .
+DATE: 2026-03-06 21:39:28.949454
+==================================================
+
+
+--- PAGE 1 ---
+Fil@wnee
+
+--- PAGE 2 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+Fr
+
+INSTRUCTION BOOK FOR
+ECHO SOUNDER
+
+Kawas. s, L. UKHI) and may
+wot be copied, nor disclosed ta any third party
+
+without KHUs prior written consent
+
+DWG N
+
+- 317
+
+E
+
+MANAGER
+
+CHIEF £ ’_énz 6i7L‘V~
+
+CHECKED :7)44; s Jp A
+
+SCALE —_ JUBNO. ——
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+L
+DRAWN _,,5,,WVA!7§1:‘;§$6“ 3= SHIP DESIGN DEPT, SHIP GROUP
+DATE  J A Y st 1456
+
+--- PAGE 3 ---
+FINISHED PLAX
+
+MESSRS, KAWASAKI HEAVY INDUSTRIES,LTD.
+
+SNO.1456
+NAV. ECHO SOUNDER FE-680T
+DEPTH INDICATOR ED-222
+
+FURUNQO ELECTRIC CO., LTD.
+
+No2911-1473-KHL
+
+--- PAGE 4 ---
+— FUBRWNG
+
+SPECIFICATIONS OF FE-680T-1 NAVIGATIONAL ECHO SOUNDER
+
+Type approval by the
+Hinistry of Transport Japan
+
+Hodel : FE-680T-1
+Approval Ho, + 2500
+Date of Approval: Jan. 29, {985
+
+1. Recording System Belt straight line recording system
+
+2. Recording Paper fry electrosensitive pager
+Type; PD-15208W {150nm x 20m)
+(Effective width : 130ma)
+
+3. Dopth Range, Sounding Rate
+Pulsc-Length and Paper Specd
+
+Depth Range|Sounding RatelPuise Length:Paper Speed
+I (na/nin)
+) ( /min) (nsec)
+i P s
+f
+- 10 336 0.5 3| 4
+- 20 336 0.5 [
+0- 4 168 0.5 8 |
+0100 84 1.0 [
+0- 200 | 42 2.0 4|2
+0 an | It 2.0 7|
+4 Frequency 2008112
+5. Qutput Power 3008
+6. Transducer & Tank
+Transducer Tank
+2008-38 | TTF-2000
+T15-2000
+102000
+-34
+
+-
+Specified : TTF-2000
+
+2911140701020
+
+--- PAGE 5 ---
+— FRRAIDD
+
+7. Power Suplly & 100/110/115/220/230%AC. 14, 50/60Hz. SOVA Approx.
+Power Consumption
+Ship's Mains : 220VAL
+8. Coating Color Front door NS.0 leather Tonc
+
+Cabinet 6.0 tewtone No.§
+
+Specificd - 7.5867/2
+
+2911140701020
+
+--- PAGE 6 ---
+FUWRWBND
+
+3
+COMPLETE SET NAV. ECHG SOUNDER
+% ¥ & i ] x & B & W E3
+MASS
+Na NAME TYPE (kg Q Ty REMARKS
+@ & ) T T eww
+1IRECORDER UNIT 10 1 BULKHEAD MOUNT
+REBERCTRE Y ¥ 7 = o
+2 |TRANSDUCER & TTF-2000 19 2
+TRANSDUCER TANK SET
+T ¥ ] H ’ S
+3 |INSTALLATION 1
+MATERIALS SET
+i = & BIEEETE
+LjACCESSOR!ES | 1 BULKHEAD MOUNT
+SET |ONLY
+T [] & | N o
+5|SPARE PARTS 1
+SET
+BEEEEREE ER kS
+6ATRANSDUCER SWITCH BOX [EX-8 2.7 1 BULKHEAD MOUNT
+w & TE | l200knz
+7 |[MATCHING BOX IMB-504 2.6 2 FOR 200KHZ
+) | ]
+i
+| _
+
+FURUNGC ELECTRIC CO.. LTD
+2911140701020
+
+--- PAGE 7 ---
+=~
+o &
+HS
+Mz
+e
+) g K
+1 3§ i
+t a 1
+4 N |
+SPEED Ik LTTYES =1 H g
+Log i 3 g |
+' & 2
+¥ o S5 |
+1) g !
+17 4
+17 DIGITAL L
+15 DEPTH IND| §[ |
+1 ) 2
+2LITIEES €0-222 24vpe
+! 1
+: L e weso 1
+! 1
+I
+! :
+! Sov.pYs-20 |
+! 5 1
+! PR '
+i D P !
+1 L ¢
+[ 3 '
+! 3 4 i
+220VAC, t F? % 1
+s, s87b0ne — ! £ o |
+& & '
+| % %
+! '
+i
+1
+SHIP 5 ¢ SHIP'S
+MAINS T | MAINS
+[ P 1
+1By Bag '
+t 2% 4l 2% |
+;o EES &85 !
+S e .
+1 (AFTY {FORE} t
+~_ 7
+: TRANSDUCERS I
+__________________________ |
+FE-6B0T NAVIGATIONAL ECHO SQUNDER
+NOTE
+.t SHIPYARD SUPPLY
+T7: connecror (W: FaCTORY-FITTED)
+s criwp-on tug (P FACTORY-FITTED)
+- GROUNDIKG COPPER STRAP
+T- tRoum kG WIRE 1v-Bse FE-680T
+T eanie swrLy sioe
+i OPTLONAL SUPPLY NAVIGATIONAL
+0D 2x5P 1 CO-SPEVY-5B-CO. 2¥5P, 413, 5 ECHO SOUNDER
+
+2911140701020
+
+--- PAGE 8 ---
+OO OO o D
+
+=UIIQUII »
+
+o
+
+—— 2
+> 152
+\ 29 Ly
+146
+/180 54 o
+00 1S
+— “I T )
+T
+o
+S|
+NI |:
+i R
+
+230
+
+MOUNTING _DIMENSION
+
+&
+TERMINAL BOARD
+
+b
+
+AR AT F ck
+
+@@@
+
+P
+7 170
+7 )
+2
+3-drz I 4 U
+2[ 8§ FIRING HOLE
+A &
+P 370 ] -
+34
+P S
+557} .80
+z 2
+-
+PowER Cante Ewiny s i
+R 3
+
+NEE *
+SR s
+
+TIWELAMII);(J/! AR
+THAREADED ROD FLAT WASHER
+P & 5 ’s’iﬁ?’iv’% 2 "l
+cwwc caum 5"“””““ X
+Pl oo 7.586 772 n"éﬁ& e ER
+KA 753(;/22%&':;. **** 3 . R E @ s | @& =
+| casiwer 2 T8 Kl NAME | mareriac Tary | owano, ' FIEMARKS_‘!
+P P F— P
+APPROVED ‘g@/ [ THIRD ANGLE PROJECTION | TITLE 7 % B (# s
+7| FE-68 -
+cHeadh |O‘ / Tl EaE N RECORDER (BULKHEAD MOUNT)
+" & deto- 16 - 84 ) T = DN B
+kL b4 el
+Shawl | ooy J waent | 10 %|gwvens. C2280-030-A
+
+FIIRIING FI FOTRIC. O
+
+I TD.
+
+--- PAGE 9 ---
+Y - T}
+
+FURUNO
+
+NOTE :
+
+L-m-n-0:P-R A 1) % > TERRER L E— TREE S A
+SECTION L-M-N-0-F-Q DRIZERELTT S,
+
+THE TRANSDUCER TAKK SHOULD BE ¥ELDED FLUSH
+s TITH SHIP'S BULL PLATE.
+
+4-0ISTE 2) BEWRS > L EMERK UFRBR ISR 38
+
+FIING HOLE CHERBTY S -RES LSy F U ERALT
+H PHEILTFEL,
+
+TENPORARILY. SEPARATE, TRANSDUCER, DAMPER AND
+
+RIB3ER PACEING FROM TANK ASSEUELY DEFORE
+
+3) KB E & ) 2B £8513 2 > 7 AR ORE
+PEE—BHIBNLTTE,
+!’rﬁk OFF SURFACE PLATING OF WELDING PART OF
+
+4) X vy ORER TIS 0
+STPG370 T°%.
+MATERTAL OF TANK IS- STPG370 (15D
+
+e
+EELite —  5) BEMEECEIIEER T Y V25— 20 (HER
+) LEEEATEILEMRLES.
+17 1S RECOMMENDED TO APPLY ANTIFOULING PAINT
+TMARINE STAR 207 OK TRANSDUCER FACE,
+
+6) HWETRMICHANADET,
+
+Se4 FATER COMES 1NT0 THE PARTS 3¢ INSIDE THE
+5 "
+HULL PLATE D yvrEERY I 0d A X FLE (FEAER,
+2 D SRR 2(TU-TOEd, 2
+S OPIH, HNBBICRRT SR EIEH & ORE
+HEFEEEER, AL ROV a 2 FT5A
+I-REH T EOHBET T
+THE TRANSDUCER TAMK IS FINISHED BY ZINC,
+FLARE/CHROUATED DISPERSION COATING, 1T IS
+RECOMMENDED 70 APPLY EPOXY SHOPPRINER OF
+HIGH-ADRESION WHEN COATING.
+
+8) @O S 5 1 Kik, @I EE~L0mmiz LS
+KIRBAGTTEN,
+
+TIGHTEN GLAND NUT ® SO THAT GAP ® BECOMES
+FITHIK 1. 0N
+
+1
+SRR wagpn ¥ [sUsa0d
+(IR P w25 | susgoa
+
+JhrizFg —
+RUBBER Packing |OR TPB-11-08
+€36048 TPB-11-07
+IS AT
+C36048 &
+
+BE
+SR U O T S BT £ 1, AR
+
+{HECK THICKNESS T ACCORDING 70 THAT GLAND NUT
+OF HULL PLATE. b‘AleFERK CR TTF-2000-03
+
+O [ 11| 20mm | sTANDARD TR Foar - |stisaos TIF-2005-02
+
+1zmm [ AL B Eh ranx| STPGATO TF-2000-01
+EERE 2006-85
+25mm 200k TRANSDUCER {18m)
+
+R 7 R EE BE | B E
+NAME [MATERIAL| Q" . . IREMARKS
+
+MAY » 25+ 83 E3 & L] . o I
+
+K KARASAKT TITLE mRsy v o RER
+
+T _ INNER — HULL
+TR | 1 TTF = 2000 e ALLATION
+. . T=12 155
+?AT:)YL?DABS weiah TR R swedo 2001 ~332-H
+
+FURUNO ELECTRIC CO.. LTD.
+
+--- PAGE 10 ---
+B )
+
+el § G —]
+
+7
+
+30
+
+80
+
+=—35
+
+] i
+| i
+| i
+| i
+. I P
+rhae od o eecomoer -
+#28 (38>
+R NP 7
+7| swItcH !
+KD 3 \
+HINGE
+# i i
+3 : S5134D 7]
+PANBL i ! i
+s - 2z & 5534 i
+2 | casmwmr DooR 33348 !
+* i s
+1 CABINET §S34D b |
+T % K| W & WG
+M Q' TY | DWG NO. | REMARK
+R =® £ %
+SCALE e @ RH BRI S (g #HA)
+i % | py.p TRANSDUCER SWITCH BOX
+
+CHECKED orawNG | TRIGON | (BULKHEAD MOUNT)
+
+w o Pyt ElE o, &
+DRAWN | /. Jazpds] WETGHT | ks ] DWG. NO
+
+€2009-002-D
+
+FURUNO ELECTRIC CO,, LTD.
+
+--- PAGE 11 ---
+2852
+[
+190
+170
+
+Il
+
+B3
+
+FURUNO
+
+152
+
+©
+
+FE-880/880T
+
+2]
+
+THTESM
+CABLE GLAND
+
+100 IS Fo801= 300,
+* i
+4-44.5 FI)UN‘;r H;Lg
+
+%
+
+NOTE 1 RRBIRY-TA W Ko B3R AE X3
+
+T BA
+CABLE GLAND
+
+$iE FAEST
+
+EE:3 N
+
+D | 70 RECORDER
+
+ERR B
+
+TO TRANSDUCER
+
+RIABEEBTL Ty,
+
+MATCHING BOX IS NEEDED WHEN THE
+TRANSDUCER CABLE EXCEEDS THE
+FOLLOWING LENGTH,
+
+FREQ, LENGTH
+
+200 kHx 15a
+
+2 B R A5 EKe Vren -9kt
+TETS, WHAR, x-0-FTF)
+CHANGE JUMPER ON TX/RX PC
+BOARD, REFERRING T4 OPERATOR'S
+MANUAL. (DONE BY MAKER)
+
+2 71 T2 BAE RS RS,
+
+Tt AND T2 VARY ACCORDING TO
+SYSTEM FREQUENCY.
+
+FREQ. T T2 XOR
+
+200kHx[T~205AT | T-206A | 2008-88
+
+BKHEABGOA TE R TF VY =4
+WRRATS, .
+CAPACITOR 1§ EMPLOYED FOR 28kHE SET
+onLy.
+
+4. £ TRBS -FRUSn) W BP0 2L,
+PLACE THIS BOX AT THE END OF
+TRANSDUCER CABLE OF I5M.
+
+s BoH B ALz rarndy, |
+TYPE OF MATCHING BOX IS LISTED BELOW,
+
+FREQ, | XDR TYPE OF M.8.
+
+200kHE| 2008 -88 M8 - 504
+
+BN LG
+
+[ %"
+MATERIAL| OQ'TY 3 REMARKS
+
+4 5 s 40 K
+MATCHING BOX
+OUTLINE DRAWING
+
+OO OO - ©
+
+2Q11192280101N0
+
+e C2006006D0O0A4
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 12 ---
+ONO — OO o
+
+CODE No.
+TYPE  1CPO2-01110
+
+NAVIGATIONAL ECHO SOUNDER
+
+LR LN
+
+Ll
+
+i - B
+INSTALLATION MATERIALS
+
+ks B * B B E BB BE
+No. NA K E QUTLINE BESCRIPTIONS oY
+
+FE-680/680T
+
+z
+
+=3
+
+=4 % i 7 17 f2-83.3 &
+1 = BLUE 10
+CRINP-ON LUG s[ &1
+
+[ CovE No, [ 000-538-117
+
+7 - 2 #® T #EA-1004-0
+COPPER STRAP e
+
+L=1.2m; | CODE No. | 500-310-040
+
+CODE No.
+
+CODE No.
+
+CODE No.
+
+TOBE No.
+
+CODE No.
+
+CODE Mo,
+
+CODE No.
+
+CODE No.
+
+e
+BULKHEAD MOUNT
+
+--- PAGE 13 ---
+COGE M.
+TYPE
+
+FLERLINC
+
+1+ = B == s B B =X B BOX No.
+
+FE-680/680T
+ACCESSORIES N
+
+S
+
+WIGATIONAL ECHO SOUNDER
+
+i B o © & BE /BB HE| A /@I
+Ho. NoA W E QUTLINE DESCRIPTIONS QY| R ARKS
+
+£ 8 H N - 02-046-0001-0
+
+VINYL COVER
+
+C00E No. | 000-¢
+
+CODE No.
+
+COOE No.
+
+CODE Mo
+
+CODE No.
+
+CO0E No.
+
+CODE No.
+
+CODE Mo.
+
+COE No.
+
+CODE No. !
+
+=
+0¥G. No. C2280-010-A 171
+
+8% ()
+
+CN O OO @
+
+FURUNO ELEGTRIC CO.. LTO.
+
+--- PAGE 14 ---
+O G — OO ——
+
+LN [cace o ] 80X Mo r
+|__tvee [ spo2-o0700 e
+[ . SETS PER
+SHIP No. SPARE PARTS LIST FOR u N
+ERE )
+FE-g80T o 1R
+NAVIGATIONAL ECHO SOUNDER
+QUANTITY REMARKS/CODE No.
+DHG. No. - ..
+ITEM NAKE OF ouTLINE o HORKING
+No. PART PER SPARE
+TYPE No. | SET
+ERE 4 s 15,548
+1 s : )
+v 89 60A
+e 000-101-424,
+R e 13.8
+2 o 4 2
+PIL T gy Gom
+or Lawe 000-540-180
+BEAOE2L-X 2 FGBO-A 24
+3 1 ?
+FlsE € actesy
+000-549-062
+4 ;55 PD-1520N 1 2
+RECOROING PAPER s
+000-878-455
+sRRR<Y
+5 0201521902 | 1 2
+RECOROING STYLUS \%
+05~ — T
+8 5 | f210
+SAND PAPER
+|
+HFR'S NAME | FURUNO E1LECTRIC CO.. LTOD. |WMG.No. | C2280-005-4
+
+--- PAGE 15 ---
+OO OO @
+
+LTI =30 ] . CODE No. | 000-024-703 o o .
+TYPE | SPO2-00700 )
+SETS PER
+SHIP Ho, SPARE PARTS LIST FOR U s E VESSHE
+5 & B 7 #
+FE-G80T
+NAVIGATIONAL ECHO SOUNDER
+QUANTITY REMARKS/CODE No.
+HG. No.
+ITEM NAME OF ORKING
+QUTLINE 08
+No. PART per | peg | seare
+TYPE No. SET | VES.
+A AL F o FFD1.5am
+7 | SOGRET SCREW @% 1
+HRENCH HEX, SIZE TR
+} fre)
+1A Ty 2P
+8 _I PS001T 1
+PIPE WRERCH pi=—— 000-830-140
+F A B F7108
+1
+SPARE PARTS BOX FOR F71
+OR 110 000-831-610
+F B & B J1SF0902-23-20
+1
+SPARE PARTS 80X 7,586 7/2 —
+L 000-831-627
+HFR'S NAKE | FURUNO ELECTRIC CO.., tTD. |O#G.No. |G2280-006-8 Lz/z
+
+--- PAGE 16 ---
+13
+
+7oy MRER
+
+DIGITAL DEPTH
+
+[NDICATOR i3
+
+ED-222 !
+2
+3
+i
+5
+o
+7
+3
+o
+
+TawER
+
+2050120, 3n
+
+pe 24y
+
+f
+
+P
+
+PR . [==)
+RECORDER UNIT ke LAy K2¢sts ey
+FE-660 on [H b dagke
+- sie 5] [ iidan
+FE-880T sowER [} 2 LTTrC~4S s m e H
+N 55 L L¥
+TRAKSOUSER FLOV (1) O Do —ee Prk—Y] i
+NEE .
+7 RE !
+NT :4 wlv-ts3 ALTTYCS _SPEED
+L0G
+g |
+- -
+14, 0Kz
+il2f3 11213 |
+(-5 ) smpyarp suppt L
+R {
+g ! ~
+3 ;
+3
+gas I o [h :
+MATCH{ NG -[Uzizeldal} aTCHi NG iLakialia
+Box rhr| 2% TR, (
+!
+
+NOTE 1:
+ke3¢ o
+e
+
+£
+TERM{NAL BOARD
+
+: IV-8sq. MURASRCTED
+= GROUNDENG WIRE (V-3aq.
+
+Fravke
+: ERFBER
+
+QPTIONAL SUPPLY
+
+SHIPYARD SUPPLY
+
+w/H FRONT IND. PANEL
+
+FE]
+APPROVED
+
+7 @
+CHECKED
+
+Mar. 08, 34
+K.Ota
+
+K.Kusunaki
+
+B
+
+TITLE TR
+&R
+
+FE-580
+
+FE-GROT NAVIGAT { ONAL
+
+ECDIS
+CNMEADIB3)
+
+4RO-H
+4RO-C
+
+P
+
+ECHO SQUNDER
+
+L]
+BRAWN
+
+Mar.08,” 94
+C. Nakai
+
+B % ¢2280-C08-C
+
+WG, .
+
+--- PAGE 17 ---
+— FUWRLING
+
+SPECIFICATIONS OF £D-222 DIGITAL DEPTH [NDICATOR
+
+The digital depth indicator ED-222 receives depth information from the echo souader
+and displays stesly clear digital readouts af hottom depths. It is capable of relcasing
+alares audibly and visually at a preset depth. Loss of signal and poor /% condition
+are also alerted with the No Signal indication
+
+i. Dopth Indication
+
+Disptay 3-digit LED-display
+
+Bepth Range 0-99.9, 100-999
+Auto range in Feet, Meters or Fathoms
+
+Depth Readings True depth or relative to transducer instatlation
+position
+
+Resolution 0.1(0-99.9) or 1(100-999) in each uni
+
+Min/Max Readouts Subject to capahility of combined echo sounder
+
+2. Alaras
+Bepth Alarn: Alara lanp Iights and buzzer sounds when reading becomcs
+
+shallower than presel depth,
+Preset by 2-digit thumbwheel switch, (-99 in each unit
+
+Signal Waraing ¥o Signal lamp blinks and then 1ights il echo sounder is
+subject to no ar poor nchoes Iron seabed
+
+3. Output Data Depth and alara {in Furuno CIF ar NMEAD1B3 data format)
+
+4. Environmental Conditions
+
+Ambient Temperature -15 te 455t
+Relative lumidity Less than 85%
+Vibration Less than 16 (750-3000 c.p.m
+
+5. Power Supply & 24¥BC, 10W
+Power Consuaption
+
+Ship's Mains 24v0¢
+
+6. Coating Color Panel: 3.0
+Cabimet: 2.36Y 5/1. 5 Hew Tone #5{not changcd)
+
+Specified Coating Color 7.5867/2
+
+2911140702020
+
+--- PAGE 18 ---
+FURWENS E—
+2
+COMPLETE SET
+% 5 z [ 2l EENGEIERE] [ %
+MASS
+N NAME T Y PE {kg) QoTY REMARKS
+& R & (AR 73422393 bF
+1}INDICATOR UNIT ED-222 2.8 1 F-TYPE
+CFLUSH MOUNT)
+T 5 # B '/
+2 INSTALLATION 1
+MATERIALS SET
+[ # ® B Y B )
+3}ACCESSORIES 1
+SET
+|7 it & & |
+4 | SPARE PARTS 1
+i SET
+H
+H
+FURUNO ELEE‘TRIC Co., LTD
+
+2911140702020
+
+--- PAGE 19 ---
+N e~
+
+“WSIRUIN » 3
+! L 2 3
+BERSSNCASSIESRNENSNNENY
+w
+o]
+N g
+=)
+ol w
+& S
+* g
+&
+._—m
+o o]
+& B3
+&
+B iz
+]
+® wd
+8 j \\\ %
+\vr Il
+2
+N 3
+NS SN NU RN RN SR
+< e g [ Z90
+(48 i
+\ 433 ‘
+|
+F : + N
+% 46
+¥ vl
+ol o @
+asd A
+RS
+B
+«2
+=2
+! EH
+: ¥
+&
+'&,w" ‘nx "l{m&'mg
+ITEM| NAME MATERIAL | Q'TY DWG.NO. REMARKS
+i vl ©oCa) = A & g H
+APPROVED 7 4/A AL (5| THIRD ANGLE PROJECTION | TITLE BIAL A F -
+i LB G R g | - _
+cfeodo | ysyos | Son® | 5 |EDE22 FLUSH MOUNT F-TvPE
+
+Jue 70 8 g o
+
+N @
+DRAWN TomirA | WEIGHT |
+
+28
+
+Wl daens  C2333-G05-A
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 20 ---
+OO D D — o o
+
+SUURUNO
+i .
+
+2 -
+curuNo
+NO SIGNAL,
+| e B R
+I R N I
+R §
+DRAFT ADJUSTED
+onAFT T
+Roame unit
+A et
+GATE ALARM DIGITAL DEPTH INGICATOR ED-223
+3 I RES m =& | B =
+NavE MATERIAL! ©'Tv | DWGNO. | REMARKS
+= a % lz_ %
+NGLE PROJECTION | TITLE F s EEE S
+=T .~ | ED-222
+L AR ‘ DIGITAL DEPTH TNDICATOR
+N @ = e . N
+Sl Ly Bousin “ Feald b dhend  €2333-608-A _J
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 21 ---
+Hovovowoe——— o0
+
+FURUNOC
+
+CODE No. { 000-014-273
+
+12AD-X-8401
+
+TYPE | CP12-00900
+
+O mE R sk 2F:
+
+FUENRERTE
+
+ED-222
+INSTALLATION MATERIALS DIGITAL DEPTH INDICATOR
+&S & # ] & HE /RN RE AEEE
+No. N A W E OUTLINE DESCRIPTIONS ¢TY| REMARKS
+z & 2 - K 00s0120
+1 1
+POWER CABLE ASSY.
+CODE No. | 000-104-058
+= ES z E4 SRCN6A16-10P
+2 Z
+CONNECTOR
+CODE No. | 0D0-508-663
+a ES 4 Ed SRCN6A16-108
+3 1
+CONNECTOR
+CODE No. | 000-503-668
+CODE No.
+CODE No.
+CODE No.
+CODE No.
+CODE No.
+CODE No.
+CODE No.
+
+M &
+DifG. No.  (2333-MOl-A 171
+
+CHEGKED |\ L
+
+FURUNO ELECTIRIC CO., LTD:.
+
+--- PAGE 22 ---
+C NG N O G D b
+
+FLIRLENO CODE No. | 000-014-269 \2AD0-K-9504
+TYPE FP12-00630
+1+ = s == FUPNEERRE
+ED-222
+ACCESSORIES DIGITAL DEPTH INDICATOR
+&5 & 3 BY BME /R HE| AR/ Wz
+o NoAME QUTLINE DESCRIPTIONS  [Q'TY| REMARKS
+0
+[CIS-S PRS2 F & r‘—j_r 5 %20 SUS304
+1 4
+TAPPING SCREW ies
+CODE No. | 000-802-340
+AAKFALE 2y#E [—— M8X 12 SUS304
+2 2
+HEX, BOLT {SLOTTED) s
+fsuoteD) O R T
+N R B & ' M8 SUS304
+3 2
+SPRING FASFER =
+CODE No. | 000-864-262
+P [ 12-003-2301-0
+FRONT PANEL b\
+CODE No. | 100-152-750
+CODE No.
+CODE Mo.
+CODE No.
+CODE o.
+CODE o.
+CODE No. i
+@ &
+BHG. No. C22! 1/1
+
+® X
+LCHECKED
+
+FURUNO ELECTRIC CO.,
+
+--- PAGE 23 ---
+12AD-X-9301-1 7
+
+FuRiyNo CODE No. | 000-014-272 . ,
+0.
+TYPE | SP12-00600 e —
+SETS PER
+SHIP No. SPARE PARTS LIST FOR U S E VESSEL
+798 NRE TR
+ED-222
+DIGITAL DEPTH INDICATOR
+QWANTITY REMARKS,/CODE Ro.
+DG, No.
+M| NAME OF YORKING
+N PART QUTLINE " PER | PER | SPARE
+o TVPE Mo, {SET |VES.
+T€ybba-X | FGHB 34
+1 ; 1 3
+FUSE C=Tes 1oy
+000-104-909
+MFR'S NAME [ FURUNO ELECTRIC €O0., LTD. DHG. No. (C2333-P01-Bi/
+
+T omwomwowom———on
+
+--- PAGE 24 ---
+—F . R . NO
+
+TEST AND EXAMINATION SHEET
+
+2500 (FE-B80T-1)
+Cquipment  Navigational Echo Sounder Type Approval No. 2801 (FE-630T-2)
+Model FE-680T- /_ Approval Date idanuary 29, 1985
+
+673 Inspected at  _Kiki Factory
+
+Secial Ro. 8680-2
+
+Manuf Furuno Electric Co., Ltd. Inspected on
+
+Povier Supply /0 O VAC J’Zéonz 14 Inspected by ;é ge@/ﬂ .
+Date Hfd. ZZQ? / ng
+
+No. Ttem Method Rating Result
+T {Appearance {17 Check dimensions {17 As per approved
+and weight. drawing,
+(2) Check coating and |(2) No crack or dirt. goad
+plating for crack. )
+2 [Sounding range|Check provision of As per approved specifi- OOd
+_|sounding range. cations. 24
+3-1|Display Check recerding system, [Graphical recording on Ves
+paper. _ _ _ _ L _ - _ J
+Minute marks should be
+plotted on the recording.| g00d
+37 |[Record showing |Check the record Longer than 15 minutes. .
+time showing time at paper
+speed "F' in 0-400m good
+range,
+3-3 [Paper end mark [Measure the length Paper end mark shauld
+between paper end and |appear around lm. form good
+e its mark. the paper end.
+4 [Sounding CTheck sounding accuracy [+im on the shallow range J(1)
+accuracy on cach range referring [scate, +5m or the deep  [(2)
+to the depth calibratorrange scale on +5% of (3)
+the indicator depth (4)
+whichever is the greater.(5)
+(6)
+5 [Insullation Measure insulation More than 10Mohms.
+resistance resistance across Mahms
+supply input terminal
+and ground using 500V /00
+: megger,
+6 [Withstand Apply 1500VAC between |Abnormaiity doas not -l
+Voltage supply input terminal |happen.
+and ground for one d
+minute with the noise 800
+filter disconnected.
+T 7 [ater pressure |Apply water pressure Mbnormatity does not
+test of Skg/cm2 to tank happen.
+with transducer for good
+30 minutes. —
+
+214-0255
+
+--- PAGE 25 ---
+TEST & EXAMINATION SHEET
+
+Secial Nonber _8870-1398
+Date Hanufactured 49,/;% /7 fi
+5 X
+
+Date Tested /
+
+Check Ttems Ratings’ Results
+1. Seft-chock BLL LED-lanps shall tucn on and off seauentially.
+: good
+Mumeral corresponding Lo the pressed key shall be "
+disptayed, - g00
+2. Operation Depth shall be normaily displayed by the signal applied d
+Test fron echd sounder. 0o
+When ED-2200 is oonnected, depth reading shall be sane
+on both £0-2200 and ED-222, good
+
+Key setting shall be stored in the memory while the
+
+unit is off. good
+
+fhen external dimuer is connecked, the external dimmer d
+shall conlrol brilliance in synchronism with KP input. 004
+
+Hhen external dimmer is not connecled, the DIMMER key
+shall contral brilliance . good
+
+3. Power Supply The equipment shall operate normally with 10vDC input,
+Vacialion Test good
+
+The cquipment shall operate nermally with 40vDC inpul. ~
+
+214-0384=1 £ ED-222
+
+--- PAGE 26 ---
+FURURN®
+OPERATOR'S MANUAL
+
+NAVIGATIONAL ECHO SOUNDER
+
+MODEL FE-680T
+
+ﬂ' FURUNO ELECTRIC CO., LTD.
+NISHINOMIYA, JAPAN
+
+--- PAGE 27 ---
+WARNING AGAINST HIGH TENSION
+
+The operation of this equipment involves the use of high voltage, which endangers human life.
+Although the design of the equipment has hesn made in due consideration of measures to insure the
+operator's safety, adeguate precaution must be exercised when reaching inside the equipment for
+the purpose of maintenarice and service. Do not change a component or inspect the equipment
+
+with the voltage applied. A residual charge may exisl in soma capacitors with the equipment turned
+oll. Always short all supply lines to the chassis with an insulated screwdriver or a similar tool prior
+10 touching the circuit
+
+FIRST AID IN CASE OF ELECTRIC SHOCK
+
+When a victim struck by electricity is found, first switch off the equipmen via the main switch
+on the equipment or the ship’s distribution hoard. 1f ibis is noi possible, protect yourself with dry
+isulating malerial (@ wooden plate or rod, cloth, your belt, etc.) and pull the victim clear ot elec
+tricity. If the viclim is not breathing himsel, apply artificial respiration according to the "Method
+
+ol Artiliciat Respiration”. Do not give up halfway. Perseverance and continual efforts are important
+i srtificial respiration
+
+METHOD OF ARTIFICIAL RESPIRATION
+
+Lay the victim on his back. Position yoursg!f beside the victim's
+read and pinch his nose by your thumb and forefinger to prevent
+air leakage. Insert the 1thumb of your ather hand between the
+victim's teeth and 1ill his chin up, Then, place the arm (the one
+closing the victim’s nase} an the victim’s forchead and press the
+head down so that the victim'’s haad is given a maximum backward
+tilt with the chin prominent and the neck bent back. Scal the
+victim's mouth with your mouth and blow therein about half of
+the deeply inhaled air every time. After exhaling, tura your head
+lowatch for a chest contraction, whilst inhaling deeply in readiness
+for the-next blowing. Repeat the movements faster for the first
+
+1 to 2 minutes and 12 times per minute therealter
+
+--- PAGE 28 ---
+This echo sounder measures the depth to the seabottom by means of an ultra-
+sonic puise emitted from the transducer fitted on the ship's hull plate and
+returned from the seabottom. Because the transducer is easily damaged if
+subjected to strong mechanical shock, you are requested to take the
+following safety measures to avoid damaging it when the ship is put on wood
+blocks during docking.
+
+1. lay the woood blocks under the ship's hull according to the docking plan,
+which shows the layout of the ship's hull structures including the trans-
+ducer.
+
+2. Have a diver check that the transducer does not touch any blocks prior
+to pumping out water from the dock.
+
+--- PAGE 29 ---
+CONTENTS
+Page
+Chapter 1. OPERATION 1 thru 9
+1-1. OPERATING CONTROLS wm-mwmmmammmmmmm oo mmmmmm oo 1
+1-2. HOW TO LOAD RECORDING PAPER --------c-omooommmoomenn 2
+1-3, OPERATING PROCEDURE -wm=-ev—mommocacaman i mnmanan 3
+1-8. GLOSSARY —ommm oo e 5
+
+1-5. NOTES ON READING WATER DEPTH BY DIGITAL INDICATOR -- 6
+
+1-6. HOW TO INTERPRET ECHOGRAM ----momomommmmaemo e 7
+Chapter 2, MAINTENANCE wwioommemame e oo e e e e 10 thru 14
+2-1. GENERAL CAUTIONS ----mmmmmmm oo 10
+2-2, HOW TO REPLACE RECORDING STYLUS =vv-c--mmcmoocaaeoan 1t
+2-3, FUNCTIONAL CHECK —--mmmmmmmmm oo m oo 12
+Chapter 3. INSTALLATION —---emommmmm o m o e oo m oo 15 thru 18
+321, RECORDER UNIT mwemmmmmssmmmmmmmm o mmm e e mm e e 15
+3.2, CABLING —--meemmm oo oo oo oo 15
+3-3. TRANSDUCER -- 16
+Chapter 4, SPECIFICATIONS =-cmommomc oo oo e e 19 thre 29
+SPECIFICATIONS OF FE~680T~1/2 wmmmemmemaaa oo 19
+CABLING DIAGRAM = - a oo oo oo o e e 23
+QUTLINE DRAWING (BULKHEAD MOUNT} =-==esm-mmmaacameo oo 24
+OUTLINE DRAWING (FLUSH MOUNT) ~sm-co-mmemommeeemmcccaas 25
+
+SCHEMATIC DIAGRAMS = - - o mommmmeomomme o mommmm oo mmammenmames 5.1 thru $-2
+
+--- PAGE 30 ---
+Chapter 1. OPERATION
+
+1-1. OPERATING CONTROLS
+
+DEPTH
+
+Indicator
+
+Depth
+Scale Plate
+
+PHASE
+Indicator (FE-680T-2)
+MARKER
+
+Switch END RANGE
+
+Indicator
+POWER
+
+Switch
+
+F Photo Ne.1438
+
+ILLUMINATION
+
+DEPTH RANGE
+Control
+
+Selector
+
+PAPER SPEED
+W Switch
+
+F Photo No.l4do
+
+Potentiometer
+
+--- PAGE 31 ---
+1-2. HOW TO LOAD RECORDING PAPER
+
+®
+pd
+
+Open cabinet door.
+
+Pull recording plate forward.
+
+Making sure that the recording stylus
+positions at the back of the recorder
+cabinet, pull the handle on the
+recording plate toward you.
+
+© s
+
+| Al
+
+now paper rof |
+
+Spoot
+
+Insort the paper-
+to the slot and
+wind 2 or 3 turns,
+
+®
+
+Manual Fead
+Roller
+
+/
+
+LSet a new roll of paper and spool.
+
+Load paper into recorder cabinet.
+
+Insert the paper end to the slot of spool
+and close the recording plate.
+
+Check paper for proper tension and
+positiening.
+
+Thighten paper, if slackened, by turning
+the manual feed roller leftwards. Check
+that the paper is not one-sided.
+
+Paper End Mark °
+
+-2~
+
+The paper end mark appears.
+
+An end mark dash will appear when the
+paper remaining becomes approximately 10%
+of the total length of the roli, i.e. at
+about 2m from the end. When a continuous
+line appears, the remaining paper length
+is Tess than 1m.
+
+--- PAGE 32 ---
+1-3. OPERATING PROCEDURE
+
+Note: Terms marked with "*" are
+explained in “Glossary" on
+page 5.
+
+O)
+
+lTurn POWER switch on.
+
+Note: Make sure that the recarding paper
+is in position. Operation without
+the paper will impair the paper
+feeding roller.
+
+necessary.
+
+Turn ILLUMINATION to 1, 2 or 3 as I
+
+The switch adjusts the illumination
+for control panel and the recording
+paper.
+
+ISelect recording range.
+
+The recording range starts from Om except
+for range #6 of FE-680T-2, that starts
+from 300m,
+
+The recording end depth is digitally
+indicated on the lower indicator.
+
+Adjust DRAFT control.
+
+If depth from the sea surface is
+required, turn DRAFT knob so that the
+upper edge of zero line measures ship’s
+draft on the depth scale plate.
+
+Adjust Gain*.
+
+Clockwise rotation of the control increases
+the sensitivity. When the gain is praperly
+set and seabed echo is sufficiently strong,
+sea depth is digitally indicated on the
+upper indicator.
+
+[Press MARKER switch on demand. ‘I
+
+Press this button, and vertical line
+appears on the recording paper.
+
+It 1s used to examine the condition of
+the recording stylus. It is also used as
+an event mark for future reference.
+
+-3~
+
+--- PAGE 33 ---
+lchange PAPER SPEED switch if necessary.w
+
+The paper speed changes in two steps
+as listed below.
+
+PAPER SPEED  (mm/min)
+
+DEPTH
+RANGE
+
+IS FN RIS
+
+[Adjust TVG* potentiometer.
+
+S
+
+Clockwise rotation of the potentiometer
+suppresses surface nofse.
+
+-
+Y4
+g
+Ny
+033dS ¥3dvd
+Fl
+&)
+
+V(/ 4
+
+UTMOST CARE SHOULD BE TAKEN TO HIGH VOLTAGE WHEN GAINING ACCESS TO INTERNAL
+CONTROLS OR SWITCHES,
+
+--- PAGE 34 ---
+1-4, GLOSSARY
+
+GAIN
+
+GAIN
+
+Too High
+
+little noise
+Praper
+
+distinct
+seabed echo
+
+Too Lo
+
+| Excessive
+
+In short, the gain determines the minimum
+echo level which is received and recorded
+on the echo sounder. Clockwise rotation of
+the GAIN control increases the receiver
+sensitivity and enables reception of
+weaker echaes.
+
+However the setting should be determined
+considering the followings.
+
+Gain Yoo High
+Unwanted naise is excessively marked
+and wanted terget echoes are obscured.
+
+Gain Too Low
+The seabed is not positively recorded.
+
+The function of TVG is to suppress the
+sensitivity of the receiver for the
+echoes coming back earlier and gradually
+restores it with time for those coming
+back tater. Changing the sensitivity in
+this manner helps reduce surface noise
+and provides clear and uniform recording.
+
+&
+3
+p
+&
+3
+2
+§
+]
+o
+<
+
+--- PAGE 35 ---
+1-5. NOTES ON READING WATER DEPTH BY DIGITAL INDICATOR
+
+Stability of digital depth indication depends on how distinctly seabed
+echo is recorded. The following points should be taken into account for
+safe navigation when reading the water depth.on the DEPTH indicator:
+
+(1} The seabed should be represented on the recording paper to obtain
+correct digital depth readout.
+The DEPTH RANGE must be changed according to the sea depth.
+
+(2) The depth below the transducer (bottam clearance) should be more than
+2m. If 1t is less than 2m, the readout 1s locked at 2m.
+
+(3} The seabed echo should be strong enough or not interrupted by air
+
+bubbles.
+If the recorded echo s unreliable, the digital readout flickers to
+
+alert the operator.
+
+(4) The value set by the DRAFT cantrel is included in the depth on the
+
+DEPTH indicator.
+Shown below is the relation between the DRAFT control and digital
+
+dreadout.
+
+DRAFT Om
+
+)
+
+Sea Surface
+
+L
+
+Seabed Depth Om
+
+Transmission Line
+
+4]
+
+€nd Range Depth
+Scale Plate
+
+DRAFT_4m
+
+Sea Surface
+
+Seabed @ Depth
+End Range Scale Plate
+
+--- PAGE 36 ---
+1-6. HOW TO INTERPRET ECHOGRAM
+
+What is provided on echogram.
+
+Transmission Line{zero line)
+
+The transmission line is a trace of acoustical
+signal emitted into the water. It indicates
+the position of the ship's hull bottom where
+the transducer is installed.
+
+This means the recordings show clearance
+between ship's hull and sea bottom.
+
+To know the water depth below the sea surface,
+ship's draft should be added to the measured
+depth unless the DRAFT control is set to ship's
+draft,
+
+Seabed
+
+The seabed is racorded as comparatively
+dark trace with some width. Its intensity
+and width vary with the nature of the
+seabed and characteristics of the echo-
+sounder (frequency, pulselength and
+receiver characteristics).
+
+Fish School
+
+Fish school may sometimes be recorded between
+the transmission line and seabed, If the fish
+schools disturb correct digital depth indica-
+tion or tracking of the seabed, try to reduce
+the gain.
+
+Minute Mark
+
+Minute marks are plotted every minute but their
+spacings will vary with the range setting and
+paper speed.
+
+Recording Range
+
+The recording range {end range) selected with
+the DEPTH RANGE switch is indicated on the
+Tower digital display.
+
+In the DEPTH RANGE #6 of FE-680T-2, the range
+is phased to 300-700m and the PHASE indicator
+Tights up. The transmission line is not pre-
+sent in this setting.
+
+-7-
+
+Sea Surface%,«
+
+SmhedW
+Wiaute Mark
+
+T%_Line} -
+
+Fish School
+
+Seabed
+
+RRECORDING RANGE|
+Crr
+
+Seabed Depth
+
+End Range
+
+EL
+Seabed Depth
+
+PHASE
+Indicator
+G
+End Range
+Phasad hare
+
+--- PAGE 37 ---
+Multiple Reflection
+
+The echo sounder plots zero line, first echo, second echo, etc. as shown
+below. To read the sea depth, an interval between the first echo trace(seabed)
+and zero line should be referred to. The second or third echo appears at the
+same interval and is able to be identified easily.
+
+In a comparatively shallow water aor over the hard seabed, muitiple reflections
+may occur if the gain control setting is too high. This is because the
+sounding pulse is reflected at the seabed and sea surface{or ship's hull)
+repeatedly.
+
+Therefore, ignore the second and third echo traces, etc. for depth
+measurement.
+
+Minute
+Mark
+
+Marker/
+
+Sea Surface Noise
+
+Sea surface noise is mainly caused by the air bubble created by ship's
+cruising, rough sea conditions, rain, wake, etc.
+
+If this noise spoils seabed echo trace, readjustment of the TVG poten-
+tiometer behind the front panel is required for clear echo trace.
+
+See nage 4.
+
+Surface
+Noise
+
+--- PAGE 38 ---
+— FURUNO
+
+Interference and Induction Noise
+
+Various types of interference and noise may arise.
+Turning the gain control counterclockwise will moderate the naise for
+
+easy observation of seabed aecho trace.
+Interference from other echo sounders will be plotted with parallel
+inclining broken lines. Electric induction noise from a motor or genera-
+
+tor will be plotted with dots appearing at random.
+
+Blocking by Aeration
+
+When making a turn.or going astern, the propeller screw causes a lot
+of bubbtes, which interrupt normal sounding. Blocking by aerated water
+also takes place in a rough weather. This is an incurable problem in
+the equipment using acoustical signals.
+
+lllITIIIIIIIIIIIIIIllIIIIIlllIlIllI
+
+Fs
+
+I\ Screw Noise
+~
+
+A Interference from W )
+i\ other Echo Sounders W :
+
+Indyction Noise
+from Motor, etc.
+
+--- PAGE 39 ---
+Chapter 2. MAINTENANCE
+
+2-1, GENERAL CAUTIONS
+
+Free from water splash and stain?
+» the cabinet!
+G
+B
+
+Do not use thinner and benzine
+for cleaning!
+
+Wipe oft staln and salt on the surfaca
+Ith @lst duster and than rub with dry
+cloth, Put on vinyl cover when the sef
+1s rot used,
+
+Heater is not placed
+in the vicinity?
+Well ventilated?
+
+Electranic equipment
+does not like high
+temperature!
+
+Transducer face is kept cleant
+
+Do not paint transducer face!
+
+Oysters and other shells attached to the
+fransducer face deterlorate the trans-
+ducer performance, Gently remove them
+when dry-docked
+
+-10-
+
+Be careful not to hurt
+
+Flaw will cause corrosion!
+
+--- PAGE 40 ---
+T ———
+No abnormal nise fram mecha-
+nical part?
+
+Paper Cloth
+
+R
+
+Do not jam rubbish in the
+gears.
+
+Bo careful not to jsm paper,
+thread or rubbish In. the gears
+when replacing recording paper
+or claanlng Insida.
+
+No carbon. chips
+accumulated inside?
+
+Carbon accumulates with
+time. Clean the inside
+with the brush supplied.
+
+No stain on collector rail
+or paper feeding roller?
+
+Callactor Ratl
+
+s Paper Feading
+iler
+
+!
+Stain on collector rail and
+flaw of paper feeding roller
+deteriorate quality of echo=
+gram,
+
+Record| ng
+Stylus
+Worn stylus obscures
+echogram!}
+
+2.2, HOW TO REPLACE RECORDING STYLUS
+
+@ Turn belt by hand along arrow.
+until recording stylus  comes
+out.
+
+@ when only the stylus nib is
+
+worn, pull
+
+10mm. If it is too long, the
+recording becomes weak.
+
+Cottactor sandpaper
+
+Brush
+
+-~ Recording
+Stylus
+
+. out the nib and,
+cut off the worn part. The 4—‘
+proper length of nib is about |
+
+worn, take out the whole
+stytus assembly by pushing
+it along arrow (4} and
+replace it with n& one.
+
+Making sure the recording
+paper is in position, put
+sandpaper as shown and
+turn the belt about 20
+times to round the stylus
+nib.
+
+BEFORE OPENING CABINET DOOR
+TURN OFF POWER SWITCH FIRST!
+
+11-
+
+--- PAGE 41 ---
+2-3. FUNCTIONAL CHECK
+
+*Please perform following check before making a service cali.
+
+When the setv is found faulty, do not attempt further troubleshboting
+
+but call your local service agent for repair.
+
+Careless check of internal circuitry may lead more serious trouble.
+
+No recording {Belt not rotating)
+
+Nothing at all with power on.
+Fuse is 0K?
+
+1f the fuse Is blown, re
+place It with new one.
+In case It blows again,
+call for repalr,
+
+Supply voltage is normal?
+
+Chock the supply voltags
+
+The fuse is
+Tocated at the
+Tower right bottom
+
+at TB-1,
+inside the
+recorder cabinet.
+Ship's Mains Ratings
+
+100VAC 90 - T10VAC
+
+TIOVAC 99 - 127VAC
+
+115¥AC
+
+Z20VAC 198 - 242VAC
+
+2Z3OVAC Z07 - 253VAC
+
+I1umination lamps light
+darkly but belt does not
+rotate.
+
+[Check that the rated volfage
+{Isted above is present
+[batween #9 and #10 of pawer
+supply terminal TB-1.
+
+Fuse blows shortly after
+power on.
+8elt is jammed?
+
+Check tha beft for
+strange matsrials (scrap
+of paper, rubhish) which
+will overload the motor,
+leading a fuse to blow.
+
+12-
+
+--- PAGE 42 ---
+Abnarmal Recording
+
+Belt rotates but no recording.
+Recording stylus is set in
+position?
+
+Refer fo MHow fo replace
+recording stylust on page
+1o
+
+Transmission line plotted but
+no echa trace.
+
+No Toose connection in the
+transducer terminals?
+When the comnection Is
+loose, Tighten It firmly
+
+to evoid further loosan=
+ing.
+
+Faint seabed trace.
+Sea is not rough?
+
+The recording condl+tlon may
+bacome poor at the rough sea.
+Turn GAIN controf a littla clock-
+wise.
+
+Weak recarding over the paper.
+Recording stylus is worn
+away?
+
+Rofar to "How fo replace recording
+stylus™ on page 11,
+
+Uneven recording,
+No strange material on the
+stylus nib?
+No stain on the collectar
+rail?
+
+Stylus,
+NIp
+
+The recordlng  stylus,
+collector rall and paper
+teeding roller should be
+kept clean all the times
+
+13-
+
+--- PAGE 43 ---
+Intermittent recording.
+Sea is not rough?
+Ship is not under way of
+quick turning.
+
+In addition fo above, the
+Internittent  recording
+wIIT rosult when the ship
+Is golng astern or
+crossing over a wake of
+other boat, Alteration
+of transducer installa-
+tion site may be required
+it the recording s
+Intarmittent all  the
+time.
+
+Bottom contour recoerded zig-
+zag.
+Sea is not rough?
+
+1t 1s an effect  of |
+pitching  and  rolling.!
+This is only remarkable with |
+|2 nmarrow besn transducer,
+
+Excessive surface noise.
+TVG s adjusted properly?
+
+—
+Amount of surtace nolse
+
+depends on sea condition
+trough or calm). VG
+shauld be kept adjusted In
+accordance with existing
+sea conditlon.
+
+Irregular noise appears at
+times.
+
+It comes from other électric
+= equipment.
+
+Turn off_suspected electric
+oqulpment one by one, espe-
+cially the anas with brush
+such as rotary Invertar and
+generatar, fo locate notse
+generating sourca. Kaap the
+scho_soundsr and its wiring
+otf _the noise sourc
+
+i Minute mark interval irregular.
+Recording paper is set in
+position?
+
+Correct sefting of the recording
+paper, referring ta "how to lcad
+racording paper” on page 2 and
+
+check paper feeding condlticn by
+turning menual feed rol fe
+
+14—
+
+--- PAGE 44 ---
+Chapter 3. INSTALLATION
+
+3-1, RECORDER UNIT
+
+The recorder unit can be installed on the bulkhead or built
+in the bulkhead or instrument panel.
+
+BULKHEAD MOUNT
+
+Refer to the outline drawing C2280-002-A on page 24.
+Make three fixing holes {3-§12), and then fix the unit
+with MLO threaded rods and nuts.
+
+PANEL_MOUNT
+
+Refer to the outline drawing C2280-024-A on page 25,
+
+Cut out the mounting panel by a dimension of 292mm wide by
+340mm high and then fix the unit by using the mounting bracket
+The mounting bracket is supplied as an installation material.
+
+2\ M0 threaded
+rods and nuts
+
+wood
+screws
+
+BULKHEAD MOUNT PANEL MOUNT
+
+3-2. CABLING
+
+Cabling to the recorder unit includes the connection of the power
+and transducer cables on the terminal board.
+
+Refer to the cabling diagram C2280-001-C on page 23,
+
+As for the optional equipment such as Digital Depth Indicator
+ED-202, refer to the installation diagram in each operator's
+manual.
+
+~15-
+
+--- PAGE 45 ---
+3-3. TRANSDUCER
+
+The installation of the transducer and the tank should be accomplished by a
+dockyard referring to the installation drawings on pages 28 and 29,
+An example of transducer installation method is also shown on page 18.
+
+Note: Discussions should take place and agreement reached with the dockyard
+for sufficient reinforcement and watertightness of the hull to comply
+with the regulations concerned,
+
+To decide the location of the transducer, the following points should be taken
+into account.
+
+{1). The most important matter is where the transducer is installed.
+The position should be free from aeration possibly occurring beneath
+the hull and also not affected by engine and propeller noise.
+
+(2). It is known that air bubble stream starts approximately from a quarter
+Tength from the stem, and spreads over the hull bottom approximately
+to three quarters.
+
+Air bubble stream varies in farm and intensity according to ship's
+speed, draught, trim, shape of bow and hull, as well as a sea state.
+
+(3). In a Taden ship, a position somewhere near a quarter of the ship's
+Tength from the stem often gives satisfactory results. As for
+vessels such as ofl tankers whose fore draught is especially shallow,
+an after position about three quaters of ship's length from the stem
+is often suitable.
+
+(4). It is recommended to install the transducer on the keel Tine or
+between 600mm and 900mm fram the keel to minimize the effect of aerated
+water.
+
+(5). Siting near obstructions such as the forward propeller, bow thruster,
+
+water intake pipes and speed lag sensor should be avoided.
+(6). Select a place giving minimum mechanical vibration.
+
+{7). Do not lay the transducer cable near or in parallel with other electric
+cables.
+
+(8). To extend the transducer cable, a junction box and an opticnal shielded
+2C cable (ex. 660V DPYCS-2.0) are required.
+
+(9). When the transducer cable length exceeds 100m on system frequency of
+
+50KHz {FE-680T-2) or 15m on 200KHz (FE-680T-1), a matching box is
+
+required, Make the following change on matn p. ¢. board (02P5949)
+
+when the matching box is used.
+
+-16-
+
+--- PAGE 46 ---
+— FURUNO-
+
+a
+(2
+(3
+
+{4
+(5
+
+(s
+
+)
+)
+)
+
+)
+
+Turn the power off.
+
+Open the frant door.
+
+Remove three screws retaining the dust cover, then unplug the six con-
+nectors and disconnect a crimp-on lug connected to the main p. c.
+board D2P5949,
+
+Remove four screws to take out the main p. c. board.
+
+Change a jumper connection from A-C to A-B on the soldering side of
+p. c. board.
+
+Fit the p. c. board for normal operation.
+
+Normal
+Connection
+
+when matching ]
+box is used. ]
+=
+
+02P5949 MAIN PRINTED CIRCUIT BOARD
+
+5550,
+H
+
+Funs o e o =
+
+-17-
+
+--- PAGE 47 ---
+EXAMPLE OF TRANSDUCER INSTALLATION (TTF-5600)
+
+{1}. Never fail to remove the transducer and rubber gasket prior to welding
+the transducer tank to the hull.
+
+(2). Install the transducer tank on the hull. The tank bottom should be flush
+with the hull bottom. Feed the transducer cable through the cable gland.
+
+(3). Apply seal tape to the threads of the gland nut for watertightness.
+(4). Pass the cable thru the gasket, washer and gland nut.
+(5). Fix the transducer to the tank with the transducer fixing flange.
+
+(6). Apply a coat of grease to the gaéket and washer and settle the gland nut.
+Note: Use silicone grease to prevent the rubber gasket from deterioration.
+
+(7). Screw up the gland nut tightly.
+
+{8). It is recommended to enclose the transducer cable in a conduit pipe
+for waterproofness and electrical shielding as well as for protecting
+the cabie from mechanical damage.
+
+The conduit pipe should be fixed with the flange on the transducer
+tank, The pipe should be of such a length to clear the water level
+when the ship is fully loaded. The pipe end should be finished with
+filling compound. It is recommended to fill sand in the pipe between
+the transducer and the junction box {or matching box). This will pre-
+vent the transducer from vibration and eventual damage.
+
+s6p 17"
+
+Transduser {50B-6B}
+Transducer Tank
+Fixing Flange
+
+Gland Nut
+
+Washer
+
+Rubber Gasket
+
+Hex, Bolt (M6x25)
+Spring Washer (For W6)
+
+0of~i| o] el o] e o]
+
+% Sea water comes into the area
+£LUSH FinisH marked with " inside the
+
+G‘) tank.
+
+DOVBLING PLATE
+
+CSHIPYARD SUPPLY)
+
+HULL PLATE
+
+Transducer Yank for 50B-68 Transducer
+
+-18-
+
+--- PAGE 48 ---
+— FURUNO
+
+SPECIFICATIONS OF FE-680T-1/2
+NAVIGATIONAL ECHO SOUNDER
+
+1. DEPTH RANGE, SOUNDING RATE, PAPER SPEED, PULSE LENGTH, FREQUENCY
+
+woet | pepTH ranGe [ sounpn Rare | PToER SPSEV | puLse LenaT | FreuENCY
+(m) (*) r:-‘"' """S (msec) (KHz)
+710 336 5 F .5
+0- 20 336 8 | 4 0.5
+Fe-6g0T-1 | O - 40 e HE s 200
+0 - 200 2 4 | 2 2.0
+0 - 400 2 2 | 1 2.0
+D - 20 336 5 4 0.5
+0- 40 336 8 | 4 0.5
+FE-680T-2 | 0 - 80 168 8 | 4 0.5 50
+0 - 200 8 8 | 4 1.0
+0 - 400 @ 4| 2 2.0
+300 - 700 42 2 |1 2.0
+* Pulse repetition rate per minute
+
+~
+
+RECORDING SYSTEM
+
+Belt straight line reco
+
+w
+
+RECORDING PAPER
+
+Dry electrosensitive pa
+Type; PD-152084 (150mm
+
+4, DIGITAL READOUT
+
+nu
+
+a) Depth 1=
+b) Range [¥}fe][a]
+5. OUTPUT POWER
+
+3004
+
+6. TRANSDUCER & TANK
+
+rding system
+
+per
+
+X 20m; 5.9" X 66'), Effective width (130mm; 5.1")
+
+: Seabed Depth (Im step)
+
+: Depth Range
+
+FREQUENCY- | TRANSDUCER B%fgdginT” TANK REMARKS
+TTF=2000 ] Standard
+20004z | 2008-88 5.40 175-2000-2. | Option
+TT0-2000 | Option
+TTF-5600 Standard
+S0kHz 508-68 280 175-5600-2 | Option
+T15-5600 | Option
+
+-19-
+
+--- PAGE 49 ---
+—— FUBEREASERED
+
+7. POWER SUPPLY
+
+100/110/115/220/230VAC £10%, 50/60Hz 5%, 19, 50VA Approx.
+
+8, COATING COLOR
+
+Front Door N5.0 Leather Tone
+Cabinet N6.0 New Tone No.5
+
+8. EQUIPMENT LIST
+
+Standard Supply
+
+No. NAME TYPE ] Q'TY W%ig')” SI"‘ENSéON ("'g) REMARKS
+1 Recorder FE-680T 1 10 292 x 350 x 152 |BuTkhead Mount
+Unit -1/2 11 350 x 410 x 152 |Panel Mount
+2008-88 3.6 110 x 65 x 110 Jwith i5m cable
+2 | Transducer 508-68 1 1 90 x 90 x 90 i
+3 Transducer  |T1F-2000 1 19 216 x 154 x 216 [20mm thick
+Tank TTF-5600 17 190 x 154 x 190 "
+Tnstaliation
+4 Materials . 1set
+5 | Spare Parts 1 set
+Optional Supply
+WETGHT DIMENSTON (mm)
+rNo. NAME TYPE R W o REMARKS
+1 Matching MB-504 2.6 120 X 111 x 252 | for FE~6807-1
+Bax MB-502 : 120 x 111 x 252 | for FE~680T-2
+2 Transducer £X-8 2.7 174 x 150 x 85 | Bulkhead Mount
+Switch Box 3 224 x 200 x 80 | Flush Mount
+11 400 x 210 x 245 | Table-Top Mount]
+3 Digital Depth " 400 x 210 x 245 | Bulkhead Mount
+Indicator ED-202 400 x 210 x 245 | Overhead Mount
+" 380 x 210 x 245 | Flush Mount
+Watertight
+4 Junction Box JIS F8821-1| 1.6 @105 x 60
+TTS-2000- 28 260 x 294 x 260 | for FE-680
+5 Transducer TTD-2000-3 300 x 342 x 300 | for FE-680T-1
+Tank TTS-5600-2 26 260 x 294 x 260 | for FE-6807-2
+TTD-5600-3 300 x 342 x 300 | for FE-680T-2
+
+_20-
+
+--- PAGE 50 ---
+— FURUNO
+
+Accessories
+No. NAME TYPE CODE No. | Q'TY | OUTLINE | REMARKS
+1 |vinyl Cover | FP02-00300  (000-800-076 | 1 1 Bulkhead Mount
+L1]
+
+%
+Installation Materials
+No. NAME TYPE CODE No. {0'TY |OUTLINE | REMARKS
+1 | Crimp-On Lug {FV2-53.3 Blue | 000-538-117] 10 1 [Bulkhead Mount
+2 | Copper Strap |MEA-1004-0  |500-310-040| 1 2 "
+3 | Plastic Rivet [#1150 000-515-881| 3 3 {panel Mount
+
+Wex. BoTt P
+4 | (Stotted Head|18X20 SUS304 | 000-862-147| 4 4
+5 | Hex. Nut x3 sus304 - [ 000-863-110] 4 5 "
+6| Flat Washer |Mx8 SUS304 | 000-863-130{ 4 6 .
+7 | Spring Washer [Mx8 SUS304 | 000-864-262| 4 7 .
+8 | Crimp-On Lug |Fv2-53.3 Blue | 000-538-117| 10 1 '
+9 | Copper Strap [WEA-1003-0 | 500-310-040| 1 2 "
+
+02-046-0006 f
+10 | BRACKET P 100-043-320( 1 8
+F1] 127 3 4]
+7 rﬁJ 1 1 h._;aAT
+5 6 77 2 —
+15 . Is
+=1, 217 57]:1;:::§§:\LK
+
+_21-
+
+--- PAGE 51 ---
+Spare Parts
+
+DWG. No.
+No. NAME TYPE No. CODE No. 1 Q'TY | OUTLINE REMARKS
+T-5.5MG
+1 | tamp 8V, 60mA 000-101-424 | 3 1 L
+: T3.8 C
+2 | Pilot Lamp 8V, 60mA 000-540-180 | 2 2
+FGBO-A ZA
+3 | Fuse 125VAC 000-549-062 | 2 3
+Recording
+4 Pager PD-1520NK 000-878-455 | 2 4
+Recording
+5 Stylus 02-015-2190-2 [201-521-902 | 2 5
+6 { Sandpaper #240 000-835-666 | 1 6
+Socket Screw| WEX. SIZE
+7 \irench 1. 5mn 000-830-112 | 1 7
+8 |[Pipe Wrench + PS0017 000-830-130 | 1 8
+-t
+9 | poa Farts Tr710 000-831-610 | 1 9
+1
+Spare Parts | JISFQY02-Z3-20]
+10 Box 7.588 7/2 000-831-627 1 10
+1 [Z] 3 7
+i8 52 36 155
+== :
+935 ! S | I 58
+(5 [ 7 3 -
+50 3 E -3
+N p 182,
+& wmmar| AR |
+3 EUR
+13 10
+=
+e — 11
+
+-22-
+
+--- PAGE 52 ---
+RECORDER UNIT
+
+FE-660
+FE-660T
+
+stas
+P i
+
+ron
+i
+
+S2itn o—p)
+o a4y O—p 23k
+
+GLa
+'%‘ﬂ
+g
+i
+
+[2d
+HATCHING
+
+I
+
+e
+
+aRs |
+s TR
+TR
+
+[BDE
+
+NOTE 1:
+
+Al R a soane
+
+T 1 1 V=-85q, RUASRC TR
+
+—-- A Tve KR OPTIONAL SUPPLY
+*: BHONRFE
+
+SuIPvARD SureLY
+
+NOTE 2:
+
+DO B0 15 REQUIRED WeY
+TRASIIIR CUALE EXEEDS 16
+(i mar,
+
+RTEY [ e
+ez | T
+TR | T
+
+AC109/110/1157
+
+B!
+[V
+
+7oy MRS
+DIGITAL DEPTH
+THDICATOR
+
+ED-227
+
+BCtovsny
+
+0,50
+
+va it
+73 Dk
+
+YE—FF AT LA
+REMOTE DEPTH
+
+s
+
+ov ‘thl * YEL INDICATOR
+
+s ke L GRN
+
+an fapd-
+
+coyh s
+
+m.w:@I 2o wHT UE=tFAAT LA
+To-c ke 70 Bk REMOTE DEPTH
+av Kb £ YEL DICATI
+
+o dED S
+
+an food-
+
+® B B &
+arproveol. Tme R
+® B [ver0e, 3¢ |CE-E08. NAVIGATIONAL
+oneekto | xuewnaki | TE~680T ECHa"SOUNDER
+
+EC
+o |coumeay e, C2280-C03-D
+
+2
+
+--- PAGE 53 ---
+#H F 8
+TERMINAL BOARD
+
+MOUNTING DIMENSION
+
+e ]
+PoweR casie entay =
+EaR S
+EXAMPLE 0F MOUTING 4 KEIES M50
+RSB ML 1 - Serine UAHER
+
+e
+
+. oL FLAT WASHER
+2 £ F Entadefyl FL 808
+
+COATING COLOR -
+
+TRTI nsobib
+FRINT DOOR " ™>-% \EATHER TONE
+TR gp zahi .S |
+
+¥ ’éf‘ms iy
+CABINET " W TONE Ne.S|
+
+£
+APPROVED
+
+= ® & |&8_#
+THIRD ANGLE PROJECTION | TITLE
+
+8 & FE-680T
+0ot + /5 -‘M
+
+@ 4k B (2 an)
+
+RECORDER (BULKHEAD MOUNT)|
+
+Bk | 10 w|BeE C2280-002-A
+FURUNO ELECTRIC CO, LTD.
+
+--- PAGE 54 ---
+L 3 & "o
+TERMINAL BOARD.
+
+§- $7 HOLE(R)
+
+WATR
+PANEL 'CUT— ouT
+
+200
+
+COATING COLOR
+
+X
+| v CASLE EWTRY FORED-202
+FRONT booR *N5-0 LEATHER ToNE
+
+— AT
+ANTN TERMINAL
+
+7 -7 N0 SATRYNOE
+
+CABINET
+
+Br-7LEAD
+NEW TONE No.§ | S8 SABLE ENEY
+
+E] E] k3
+MATERIAL| Q'TY [ OWGNO
+
+j = A & B_® R
+oo 1277 s ol Zen® RECORDER (PANEL MOUNT)
+Shawn CL Vel | | S
+
+e, C2280-025-A
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 55 ---
+FUIIQUIIO
+
+BT ELm
+CABLE GLAND
+_JISFE801-20b
+
+o
+8948 B ;g‘ggs
+
+NOTE 1. REBBY-Th v KoK SR 3 HE
+KA EA TS e
+MATCHING BOX /S NEEDED WHEN THE
+FURUNG TRANSDUCER CABLE EXCEEDS THE
+FOLLOWING LENGTH,
+FREQ. LENGTH
+28, $0_kHz 700m
+200 kHz 1S,
+
+B RAEER o Srt- e
+LT, MEAR, x-0-FF)
+© CHANGE JUMPER ON TX/RX PC
+
+& BOARD, REFERRING T0 OPERATOR'S
+MANUAL. (DONE BY MAKER)
+
+o THFBL
+— %’erzsfﬁ'é?:; L 71, T2 ARy 03,
+
+TI AND T2 VARY ACCORDING T0
+SYSTEM FREQUENCY.
+FREQ.] 7! 72| %DR
+28kHz |T-205CT| 0,068uF | 28F —18
+S0kHz | T-20387 | T-2048 | 0B -68
+SOKHz | T-2058J | T-2068 | S08-98
+200KkHZ | T-205AT | T-206A |2008-88
+
+COKHE# 3B @ 0H T2 RIXF VY -]
+AT,
+
+CAPACITOR 1S EMPLOYED FOR 28KHE SET
+oLy,
+
+K ERBYy T S} BT 0 S X,
+PLACE THIS BOX AT THE END OF
+TRANSDUCER CABLE OF 15M.
+
+BT TR eV LI DR
+TYPE OF MATCHING BOX IS LISTED BELOW,
+E4:3-3N EREBA FREQ_| XDR TYPE OF M.8,
+TO RECORDER TO TRANSDUCER 28KHE 28F - 18 MB-501
+$0B-68 MB 502
+SOMHE | 508 98 ME-503
+200kHz | 2008 -68 | MB 504
+
+LI
+MATCHING 80X
+OUTLINE DRAWING
+
+C2006-006-D
+FURUNO ELECTRIC CO. LTD.
+
+--- PAGE 56 ---
+=
+APPROVED
+
+EEAALH
+CABLL GLAND
+
+I mFE
+TERMINAL
+
+AR
+
+('s Feso1}20
+
+418 Feg12 0203
+
+Biy =
+CLAMPING SCREW
+
+NEQDRENE.
+
+[
+PET mesin
+
+Bl
+B regin
+
+= = 3
+»{ THIRD ANGLE PROJECTION
+
+% &
+CHECKED
+
+L
+
+SCALE
+
+W "
+
+MATERIAL
+
+)
+TITLE
+
+JIS F88211
+
+Bk TR/ BUSR e tE
+WATERTIGHT JUNCTION
+BOX
+
+®OE
+DRAWN
+
+K Kusuwoks|
+
+T 2 , N
+WEIGHT 94 R owaNo
+
+FURUNO ELECTRIC CO., LTD.
+
+C0002-GO1-A
+
+--- PAGE 57 ---
+: 1) & 2 FEMIER L ET. BERL DUBAE 20
+LITHML TSN,
+
+D L L. - THE TRANSDUCER TANK SHOULD BE WELDED PLUSH WITH
+
+SECTION L-M-N-0-P-Q . SHIP'S HULL PLATE,
+
+SGP 1Y
+2) HREBS 2 LTS L CHBRICAET 28
+373 82220 $X-42 & EBHEY o —BRUL LSy FEALTH
+(B SILLTL K&,
+
+(SHIPYARD SyPPLY) TENPORARILY SEPARATE TRANSDUCER. DANPER AND
+%EEEE;RIGPAC“"G FROM TAHK Y BEFORE
+
+3) MERE Y v EBRT B EFR. 5 V) ARORE
+WEBE—EIIBLTLREE D,
+‘T’gﬁlli OFF SURFACE PLATING OF WELDING PART OF
+
+4) X7 > 7 OMER NK (BRBRBE) BHO
+KSTPGB70 (B4 KSTPG38, KST138) T¥,
+
+HATERIAL OF TANK 1S KSTPG370 ACCEPTED BY NE
+CHTPPON KALTT RYOKAT).
+
+St O L ALERT SHOSGN. SRNETCTE
+
+AR B Y3720 CREEBEAED 2T ATLE
+HELET,
+
+VESSEL WHO TEND TO ANCHOR FOR MORE THAN
+
+FOR THE
+1 MONTH, [T 1S RECOMMENDED 7O APPLY ANTIFOULING
+PAINT"MARINE STAR 20" ON TRANSDUCER FACE.
+
+B PR ¥ )
+{SHIPYARD SUPPLY) 8) #ETRBTRIBRNANE T,
+SEA WATER COMES INTO THE PARTS 3% INSIDE THE
+5 A THRE.
+
+HULL PLATE T S oBERY I oY 4 X FUE EHHAER 70
+ARIRRBME) TR TOET, & ¥ 7 FHhD
+PIS, AAENCIREE S & 23, BH2 OEENLEL
+FEBRDINFLROY 2y T T4 7 REHE
+NBOHBBETY
+
+THE TRANSDUCER TANK IS FINISHED BY ZINC, FLAKE/
+CHROMATED DISPERSION COATING.
+RECOMMENDEDTO APPLY EPOXY SHOPPRINER OF HIGH
+ADHESION WEEN COATING.
+
+8) @Oty 5 > Fid, @I EE~LOmmIc 5k
+SR TL RS L,
+TIGHTEN GLAND NUT & SO THAT GAP @ BECOMES
+FITHIN 1. 08,
+
+RRER
+LPRRE wasnen ¥[5U5304
+[EFEGEPT x5 [susaoa
+
+RV —
+AUBBER PAcking |OR TPB-11-08
+C38048 T*B-11-07
+315 FER0T
+36048 P
+
+£3
+REREUTRE T 28R 3 0, @*’ =
+CHECR THICKNESS T ACCORDING 70 THAT LAND NUT
+OF HULL PLATE. BY TR T4 R 200003
+
+DAMPER _
+T1] 20mm | STANDARD %ﬁﬁé“gﬂz& 7 |sus3oa TTF-2000-02
+12mm N ANk KSTPGITO TTF-2000-01
+OPTIONAL 200Kz BZEE 200885
+26mm TRANSDUCER (5m)
+EWWE] W A B E EF (B B
+NAME MATERIAL|G" _No [AEMARKS
+MAY - 25 - 63 # E & N -
+K KARASAKI % TITLE MY v o REE
+Y -
+MAY-18-83 | R TTF — 2000 INNER —HULL
+7. KODA INSTALLATION
+mav-18-63 | & m |T1-22 185 B % _ _
+7. TOYODA I-0 19 wpwato €2001-332-J
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 58 ---
+L-M-N-0-P-Q%R + 1) § vy TEGHER SE—T. BERL ) MiAE
+SECTION L-M-N-0-P-Q Bk IBMLTIRED,
+Sop 17 THE TRAYSDICER, TANE SHOULD BE WELDED FLUSH
+7 TH SHIP"S UL P
+
+w5 - | 91552020 st-32 2) EBWES 20 RIS S UMBIIAES 5
+
+FIONG AOLE (T AT §:zu\ %%ﬁﬁ' AR I EIVEFESS
+LThe, LTLAED,
+
+TEMPORARILY SEPARATE TRANSDUCER, D/
+
+RUBEER PACK!NG FROM TANK ASSEMBLY BEF()RE
+
+3) MEBRE » ¥ 2 RBET 5L 2}, § Y IFGD
+REAEE— S LT HEE N,
+%ﬁ OFF SURFACE PLATING OF WELDING PART OF
+
+4) %8y > 7 OHBRNK (BXEERS) Higo
+KSTPG370 (IB§#EKSTPGA8, KST138) T7,
+
+HATERIAL OF TANK 1S KSTPG370 ACCEPTED BY NR
+NTPPON KALJT KYOKAI).
+
+5) 17 AU SROBAI. ERRBECHS
+B ) 2y - 20 (WEBHEE) £89T5
+CERHBLET.
+
+FOR THE VESSEL ¥HO TEND TO ANCEOR FOR MORE
+
+(38 95 P7 ¥ BE) THAN 1 HONTE, IT 1S RECOMKENDED TO APPLY
+
+{ SHIFYARD SUPPLY) AHTlFOULING PHNT "HARINE STAR 20" ON
+Py TRANSDUCER F#
+
+BRI
+s iy
+FLvsH PN
+
+HuLL PLATE 8) W ETHHICHERSA D F T
+$EA WATER COKES 18O THE PAXTS % 1NSIDE TiE
+
+T & oAEES o0y A X I G, 7
+
+O LREBEBIE) £ - ToEd, ¥
+FEOWES, AMICHET 5 & &1, BRLOTE
+HEHLEEE D IRF VRO 2w TT 54
+T—RERENLONRETT,
+THE TRANSDUCER TANK IS FINISHED BY ZINC,
+FLARE/CHROKATED DISPERSION COATING. IT IS
+RECONNENDEDTO APPLY EPOXY SHOPFRIMER OF HIGH
+ADHESION WHEN COATING.
+
+8) ®ofE Y 5 Fit, @HYEH~1.0mmITix S
+KD BT FEE G,
+
+TIGETEN GLAND NUT & SO THAT GAP ® BECOMES
+FITEIN 1. OMH.
+
+PRt i3
+
+i%ﬁgfmsusa ¥ |SUS304
+A
+
+IEOEERIE ez | sUs304
+
+Thtu kT R T8
+SR L T ERITE g e 36048 TPB-11-07
+CHECK THICKNESS T ACCORDING TO THAT WASHER
+
+BATIYE JIS F8B0T
+OF HULL PLATE. &8 WiT €36048 P
+
+T1] 20mm | STANDARD 23an FLAZG’U 5US304 TIF-5600-02
+EERES V7 v
+AR T KSTPGST0 TTF-5600-01
+SOkHz TRANSDUCER
+] WK ¥
+NAME MATERIAL DWG. NO.
+MAY - 25+ 83
+
+K KARASAKI Finat S MAy v 2 RERR
+
+MAY + 18+ 83 — INNER — HULL
+Troon | 5 TTF —5600 | ST ALLATION
+
+waviiooe | e Belh €2001-362-J
+
+FURUNO ELECTRIC CO., LTD.
+
+! OPTIONAL
+
+--- PAGE 59 ---
+3 4 - 5 —_
+D2PST49| ke A4 L E B ke . nl_—u ¥ 7 B F6. |02PS 5L
+I 185 L .<1(‘l5amwn DISPLAY 184
+MAIN Birrery
+1 [ m—th H
+' E“’”S‘ PR A B
+B /B3 I A
+Bre 22 eofn ,zulu
+& 14, T OUT I 3 H 31
+wemaa [ ;ui;' o Eaer ] Kff,/’f,,,. H
+o euDvCeR 2 i —hice |
+BTl A 5 e 153l 134/ out
+i {Fcs 183
+i | T :
+] H H
+I : I
+A relos 52 ene-20ze s s
+T t wnr ¢ ¢l X 13
+o [T 36 8% @‘*{5 {M,J(i(, @ 00
+so. o ¥ Surgh e
+T2 . za 3%
+I i
+i Trery 1 .
+POWER SUPPLY CHASSIS)  —t—
+] LSS e | T ——r
+6 TRIGGER GENERATCRY
+—
+I g A
+i H
+I owssas |_oveaas_ H
+>
+Ol &ATE
+S warws
+Ay = s e o stusns
+s/220/200 S rEnm _ e i
+SEE THE TABLE BELOW Pbroitol Croy | Timg w6 e wn
+LT 57 | FE-680T o
+FE-g#0T- 1 {07594y p0ia (B 0PS7SE oo i SCHEMATIC DIAGRAM | ¢
+FE-6807-2 02579 &0z |l D2PsysE - = " -
+. B o|E& C2280-011-A
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 60 ---
+ac "
+2scasen-c i
+
+ox__penstor
+
+a2 crr
+208 Eng-stes
+
+¥
+
+NOTE 1. FHAZE 3 K H,nlid (L (vaw), 1,7 0B Fizuf.
+ALL RESISTANCE IN OHMS {1/dW) AND CAPACITANCE IN MICROFARADS UNLESS NOTED QTHERWISE.
+
+[ | B S T o,
+& e warems g
+
+| e Jimzmim wf o, ERDB
+Sonf FE-680T POWER SUPPLY
+Feolt &8 C2280-012-A
+
+FURUNO ELECTRIC CO.. LTD.
+
+--- PAGE 61 ---
+© FURUNO ELECTRIC CO., LTD.
+
+9-52, Ashihara-cho,
+Nishinomiya, Japan 662
+Telephone: 0798-65-2111
+Cable: FURUNO NISHINOMIYA
+Telex: 5644-325/326 FURUNO J
+Telefax:  0798-65-4200 (GII)
+
+Al ights reserved.
+
+Printed in Japan
+
+PUB. No. OME-22801-L
+(KAK)  FE680T
+
+® Your Local Agent/Dealer
+
+Initial Version: April 1985
+Version L: September 19, 1995
+
+*BUU&HGG!AUUI
+
+¥
+
+--- PAGE 62 ---
+[FURUNRNIO®
+OPERATOR'S MANUAL
+
+DIGITAL DEPTH INDICATOR
+
+MODEL ED-222
+
+FURUNO ELECTRIC CO, LTD.
+NISHINOMIYA, JAPAN
+
+PRMIED W 4P
+
+--- PAGE 63 ---
+CONTENTS
+
+1. FOREWORD . ... .. ... .. . ... 1
+Features .. .....viiiiiii i 1
+2. SYSTEMCONFIGURATION .......................... 2
+3. DESCRIPTION OF CONTROLS ....................... 3
+4. READING THE DISPLAY WINDOW .................... 8
+5. OPERATING PROCEDURE ...................... ... g
+6. ERRONEOUS DEPTHINDICATION . ................... 10
+Just After Tuming The Power ON (Within 1 minute) ...... 10
+Large Fish School 10
+Second Reflection Echa . 10
+Heavy Surface Noise 11
+7. INSTALLATION ... s 12
+Mounting Site 12
+Mounting Method 13
+Cable Gonnection . . 15
+Power Cable Connection 15
+Grounding 15
+Check after Installation 16
+Gain Adjustment ... 20
+SPECIFICATIONS ... ... ... ... .. ... ..ciiiiiiiinninn 21
+OUTLINE DRAWING D-1
+INTERCONNECTION DIAGRAM . ........................ S-1
+SCHEMATICDIAGRAMS . ... ... .. .. .................. S-4
+
+APPENDIX ..
+A. Connecting with Navigational Echosounder FE-880T ... AP-1
+
+--- PAGE 64 ---
+1. FOREWORD
+
+Congratulations on your choice of the FURUNO ED-222 Digital Depth Indicator! We are confident that
+you will enjoy many years of operation with this fine piece of equipment.
+
+For over 40 years FURUNO Electric Company has enjoyed an enviabie reputation for quality and
+reliability throughout the world. This dedication to excellence is lfurthered by our extensive global
+network of agents and dealers.
+
+The ED-222 is the newest addition to FURUNO's Navigational and Color Video Sounders family. This
+new indicator repeats at a distance the depth indication of the connected Navigational Echo Sounder
+or Color Video Sounder. It's light-weight and compact size make it suitable for most off vessels.
+
+We would appreciate fesdback from you, the end-user, about whether we are achieving our purposes.
+
+Thank you for considering and purchasing FURUNO equipment.
+
+FEATURES @ Compact cabinet can be mounted on a table top or in an instrument
+panel.
+
+Clear 3-digit readouts with 0.9 resolution in meters, fathoms or feet.
+Autornatic Range switch covering 0 1o 999 {meters, fathoms or feet).
+Audible and visual alarms for preset alarm and gate depth.
+
+Depth and alarm data output In FURUNO CIF or NMEAQ183.
+
+--- PAGE 65 ---
+2. SYSTEM CONFIGURATION
+
+« Navigational
+Echo Soundsr
+FE-880T, 6807,
+FB5IT
+
+* Color Video
+Sounder (CIF/NMEA)
+FCV-500/501
+
+550/551
+200/201/2018
+220 serios.
+250/260 sefies
+360 series,
+3715, 381, 282
+10, 780782
+
+Digital Depth Indicatar
+
+ED-2200
+Remote Display Unit
+
+- Dimmer Unit
+
+Eb-222
+
+---4
+
+ED-2200
+
+Remote Display Unit
+emnote PP V™ Dimmer Unit
+
+Dimmer Unit
+
+N
+'
+! PR-62Rectifier
+
+T
+1
+
+24 Vde 100/110/220/230 Vac
+
+Fig.21 System Configuration
+
+Notes:
+
+1) ED-222 supplies power to remote display unit ED-2200 (max two
+units)
+
+2) ED-2200's alarm depth and dimmer controls operate independently of
+these on the ED-222.
+
+3) Interface board 02P5691{option) is required for the following condi-
+
+tions.
+M renam
+g:\ﬁfﬁd‘s And the length of a Then the interface
+° i connection cable is ... | board 02P5691 is
+with .. i
+FE-880T more than 10m required.
+F-851T [ less than iom not required.
+FE-G80T | any length not required.
+
+--- PAGE 66 ---
+3. DESCRIPTION OF CONTROLS
+
+Depth Window (D POWER
+I - - __ switch
+i ruruNo
+i KosiGNAL |
+| q @ DRAFT
+D, control
+ORAFT ADJUSTED @ DIMMER
+1‘ i e control
+il 204w @ DEPTH UNIT
+ii‘ ’ | GATE  ALARM selector
+.
+i ® GATE
+& L control
+fratoTor - on Setting Window I ® ALARM
+control
+Fig. 3.1 Control Panel
+(O Power switch The POWER switch tums the equipment on and off.
+Press PWR to tum on the equipment.
+Press PWR and OFF simultaneously to tum off the equipment
+@ The combined echo sounder can tum onoff the ED-222 simul-
+taneously. Connect the remote ON/OFF line referring to the In-
+terconnection Diagram. In this case, the function of PWR and
+OFF keys is disabled.
+@ DRAFT control Sets ship's draft when you require the depth indication from the sea
+
+surface rather than the transducer. Press DRAFT[ +Jor [] key fo set draft
+{"DRAFT ADJUSTED" lights in the display window when these keys are
+pressed.)
+
+‘We recommend setting the draft to zero to avoid grounding the vessel in
+shallow waters.
+
+@ 1) The depth indication of the ED-222 is not affected by the
+deatt control of a navigational echo sounder.
+
+--- PAGE 67 ---
+3. DESCRIPTION OF CONTROLS
+
+Depth detected | True Depth
+by echo sounder]
+
+‘ Seubed (MMt -
+
+Fig. 3.2
+
+@ Dimmer Control The DIM key adjusts the briliance of the keyboard and display in the
+following sequence.
+DIM Bright
+
+d-8
+
+r a1 ... d2 43
+
+@ The DIMMER unit controls the briliance of ED-222, if con-
+nected. In this case, DIM key function is disabled.
+
+@ Depth Unit Selector The UNIT key selects the depth unit. To change the current unit, press the
+key until desired unit fights.
+r M (meter) FT{feet) - - ~ FA (fathom)
+i
+uNIT (once): Current unit blinks.
+UNIT UNIT ... : New unit is indicated.
+® Gate Control When a dense DSL {Ptankton layer) or a farge fish school is between
+
+surface and seabed, the depth ta the DSL or large fish schocl may be
+shown. The gate controf Is used to restore the true depth indication in such
+case.The Gate control functions only when the navigational echo sounder
+is combined. The connection of the color video sounder disables this
+function.
+
+GATE Depth setting
+1. Press GATE[+] or [] 1o set the gate depth. The echoes within the
+gate depth is ignored.
+
+--- PAGE 68 ---
+3. DESCRIFTION OF CONTROLS
+
+@ The gate depth is always set from the ship's hull (transducer
+position) irrespective of DRAFT seftings
+
+[ |
+
+| |
+
+i - e |
+
+i Gate Setting Depth 2 00| auew !
+
+| =2 g |
+
+“ ;
+
+] i
+i
+
+i Gale | ® Disables depth indicatinn.
+
+Deplh| g pisables alacm function.
+Fig. 3.3 Gate depih setting
+Gate ON/OFF
+
+Press ON/OFF key to activate the gate function and “GATE" lights. The
+operation terminates automatically in three minutes. You can alsa tum off
+the gate function by pressing the ON/OFF key.
+
+1f you tum on the gate function. The echoes within the gate
+
+@ depth are ignored. In the figure below, for example, seabed
+echo Ts intenrupted by aeration at a and depth to the fish
+school is showninarea b . However the true depth indication
+restores inarea ¢ because the gate function is turned on and
+the fish echo s ignored.
+Note that there i no depth indication nor audible alarm in area
+e since the seabed s located within the gate depth. The gate
+depth should be set 10 exclude the seabed 10 solve this incon-
+venience.
+
+--- PAGE 69 ---
+3. DESCRIFTION OF CONTROLS
+
+GATE Depth - - - -
+
+ALARS Depth === -
+
+Seabed
+
+e
+
+Soabod chot’
+[
+
+GATE GO ]
+
+ALamn
+
+Depth dicnion TN _L__ e Do & esoradby GATE comuly o] e st
+
+g i e
+Fish Scwal '
+e esnctans
+Fig. 3.4 Gate Function
+® ALARM The alarm sounds when the ship enters inta the specified depth (shallow
+
+alarm mode). In waters where the depth is known to dramatically and
+suddenly rise without warming, it may be a good idea to urn on the depth
+
+alarm.
+
+Alarm zone setting
+1. Press ALARM] +] or [-] o set the alarm zone.
+
+The alarm will sound f the ship enters waters shallower than the preset
+depth. Note that the alarm zone is set by the depth from the transducer
+
+irrespective of the DRAFT seeting.
+
+> slarm 0N~
+
+Fig. 3.5 Alarm zone setting
+
+--- PAGE 70 ---
+3. DESCRIPTION OF CONTROLS
+
+Alarm OFF
+Press ACK kay ta cease the audible alarm.
+
+@ The alarm restores Itself automatically when the depth goes
+deeper than the presst depth and again goes shaflower than
+the preset depth.
+To restore it manually, tum off the equipment and turn it on
+- agaln.
+
+aLars
+Serting
+
+Atawn g s ey
+e :
+
+Awra
+
+(ACKI keypressed.
+
+Fig. 3.6 Alarm Operation
+
+--- PAGE 71 ---
+4. READING THE DISPLAY WINDOW
+
+NO SIGNAL
+
+" DAAFT ADJUSTED emermemit
+
+o
+2 0.0
+
+GATE
+
+Fig4.1 Display Window
+
+Display item Descriptions
+
+“NO SIGNAL" blinks when the echo signal is interrupted.
+
+1 | NO SIGNAL It there is no signal for 30 seconds, the depth indication disappears and
+“NO SIGNAL" lights. No alarm sounds.
+The seabed depth. Depths appear in increments of 0.1; above 100 in 1
+
+2 | Depth ‘ S app
+unit steps. (I case of FT; | unit steps)
+
+3 | Depth unit The depth unit selected by the UNIT key lights.
+
+4 | DRAFT ADJUSTED This indication lights to show that draft has been adjusted.
+This window displays DRAFT, ALARM or GATE setting when changing
+
+s | Setiing Window :;r;:: settings. Also, ane of the three indications 10 the right of setting
+The default indication is alarm depth.
+When the ship enters waters shallower than the preset depth, “ALARM"
+
+G | ALARM (RED) blinks and the buzzer sounds. The indication "ALARM” lights
+continuously after initial 30 seconds.
+
+7 | GATE (RED) “GATE" lights when the gate function is turned on.
+
+--- PAGE 72 ---
+5. OPERATING PROCEDURE
+
+L]
+
+Adjust the GAIN control of the combined navigational echo
+sounder (or color video sounder) o obtain a clear and steady
+seabed echo.
+
+Adjust $TC and TVG if required.
+
+If the combined navigation echo sounder has white line or grey
+line, turn them off.
+
+Turn the ED-222 on and the depth appears.
+
+Adjust the briliance by the DIM key if necessary.
+
+Adjust the DRAFT depth if necessary. If the draft is already set,
+“DRAFT ADJUSTED” is lighting. Press DRAFT key once and
+confirm the current draft setting.
+
+Adjust the ALARM and the GATE depth if necessary. Note that
+the GATE should be set shallower than the ALARM depth.
+
+@ The control panel seftings are backed up by the memory; the
+
+equipraent starts with the last settings when you turm the power
+on.
+
+--- PAGE 73 ---
+6. ERRONEOUS DEPTH INDICATION
+
+JUST AFTER When a dense DSL (plankion layer) or a farge fish school is between
+TURNING THE POWER  sutfacs and seabed, the depth to the DSL or large fish school may be
+ON (Within 1 minute) shown. To get the depth 1o the seabed do one of the following.
+
+1) Reduce the gain setting of the combined navigational echo sounder
+to obtain a steady seabed echo only. Confirm that the depth indicates
+the true seabed, then restore the previous gain setting.
+
+2) Set the GATE depth deeper than the DSL or large fish school. Press
+ON/OFF key 1o tum on the gate function. Confirm that the depth
+indicates the true seabed then press ON/OFF key agaln to terminate
+the gate function.
+
+e Tl ovciime
+
+Fig. 6.1 DSL/Large fish school
+
+LARGE FISH SCHOOL  when a large fish school comes below the awn ship, the depth sometimes
+does not indicate the seabed but the fish school. This phenomenon tends.
+1o oceur in rough seas.
+
+Follow the procedure In the paragraph “JUST AFTER TURNING THE
+POWER ON” to solve this problem.
+
+SECOND REFLECTION  The depth reading is taken from the second refiection echo.
+
+ECHO
+(For example, the first reflection echo enters the gate control zone in
+shallow waters.)
+The indication is almost twice as deep as true seabed.
+
+--- PAGE 74 ---
+6. ERRONEOUS DEPTH INDICATION
+
+4 Surface
+Ist Reflectian
+
+/ Echo (seabed}
+2nd Reflection
+
+/ Echo
+
+Fig.62
+
+The indication can be corrected by one of two ways:
+
+1) Reduce the gain setting of the combined navigational echo sounder
+10 obtain the first reflection echo only. Confirm that the indication is
+corracted then to rastore the previous gain setting.
+
+2) Turn off the equipment and turn it on again. (If the seabed is deeper
+
+than the gate control depth.)
+HEAVY SURFACE Emaneous depth indication due 1o heavy surface noise may occur though
+NOISE the combined navigational echo saunder plots a clear and steady seabed.
+
+1) Readjust the GATE control depth to half of the seabed. Press ON/OFF
+key to activate the gate function. Confirm that the indication shows the
+correct depth then turn off the gate function.
+
+--- PAGE 75 ---
+7. INSTALLATION
+
+MOUNTING SITE
+
+The ED-222 may be mounted in the following methods.
+
+&)
+
+®;
+
+{©)
+
+@
+
+(&)
+
+Tabletop Mount
+
+Overhead Mount
+
+Bulkhead Mount
+
+Flush Mount (F- type)
+
+Flush Mount {S- type)
+
+Fig. 7.1
+
+Necessary Considerations
+
+* A dry and well-ventilated place.
+
+* A loss vibrated place.
+
+* A shaded place from direct sunlight,
+
+* A place not exposed to rain or water-splash.
+
+Tz
+
+--- PAGE 76 ---
+7. INSTALLATION
+
+MOUNTING METHOD
+
+Tabletop, Overhead and Bulkhead
+
+Paste mounting
+nlate (1) supplied
+in accessories.
+
+Bulkhead Maunt
+
+Slat.shonTd hie
+Raced upward
+for bulkhead mount.
+
+Fig.7.2
+
+femarks: 1) - Unit in mm,
+2) Use bolts and nuts if the base plate is thin as shown in
+figure surrounded by broken lines.
+3) Allow the service space at bath sides and the rear of the
+unit,
+
+--- PAGE 77 ---
+7. INSTALLATION
+
+FLUSH MOUNT {S-TYPE)
+
+Fig.7.3
+
+Fig. 74
+Remarks: 1) Unit in mm.
+
+--- PAGE 78 ---
+7. INSTALLATION
+
+CABLE CONNECTION  Cable connactions to the ED-222 indicator unit are made at the connectars
+jocated at the rear of the unit. Refer to the interconnection diagrams on
+pages S-1, $-2 and $-3.
+
+Combined Equipment | Interconnection Diagram | Page
+
+Navigational E/S C2333-Co1 $1
+
+Echo Sounders and Color
+
+Video Sounders C2033.002 2
+
+Remote Display ED-2200 C2333-C03 $3
+
+A 2P connector for "remote onfoff* line locates at the toflowing position.
+
+2Pconnector
+forRemote ON/OFFline
+
+FE-880/T and 881
+
+POWER CABLE The ED-222 is designed to operate normally at any voltage between 10
+CONNECTION and 40 Vde.
+Use the rectifier unit PR-62 (optional supply) when the power is taken from
+1006/110/220/230 Vac.
+
+GROUNDING Grounding should be made from the ground terminal using the copper
+plate.
+As the ED-222 produces pulse signals, poor grounding may cause inter-
+ference to the direction finder, radiotelephone receiver {especially 27 MHz
+band).
+
+15
+
+--- PAGE 79 ---
+7. INSTALLATION
+
+Check after Installation
+
+DIP sw Setting
+
+After the complete instaliation, check the items below to ensure the correct
+and refiable operation according to to your system configuration.
+
+(1) DIP switch settings
+
+(2} Data format selection(CIF/NMEA)
+
+(3) Minus Draft Ajustment
+
+(4) Display window test
+
+{5) GAIN Adjustment
+
+{6} Stabilizing Depth Reading in Adverse Weather
+
+{7) Remarks for Changing Depth Unit
+
+Refer to Fig. 7.5 for the location of §1/52 on the MAIN board.
+[S1, $2 Setting]
+
+/
+
+Setting ltems oN OFF
+#1| KP Polarity Nagative | PG
+
+1| #2 | Dratt Contrl
+#3 | Alarm Modo
+#4 | Input Signal
+
+ol 75 5V Output (43)
+#6 | +5VOutput (J4)
+
+Disable
+Shallow
+
+Analog -
+
+{Description]
+
+*KP Polarty  selects a posltive or a negative polarity of appfied
+keying pulse. When connecting with FE-880T, 680T
+or F-851T, select negative.
+
+* Draft Control ~ When OFF is selected, the draft control of ED-222 is
+disabled and DRAFT key does not function.
+
+* Alarm Mode  selects shallow or deep alarm operation. Shallow
+alarm sounds the buzzer when the bottam becomes
+shallower than the preset depth and deep alarm
+sounds the buzzer when the bottom becomes
+deeper than the preset depth.
+
+* Input Signal  selects the made of depth signal, digital or analog.
+Select digital for color video sounder and analog for
+navigational echo sounder. When selecting digital,
+neither DRAFT nor Gate functions.
+
+* +5VOulput  When ED-222 supplies +5V to ED-2200, select ON.
+Refer to Interconnection Diagram G2333-C03.
+
+--- PAGE 80 ---
+7. INSTALLATION
+
+Open the panel loosening
+4 fixing screws.
+
+S
+
+~
+1
+
+&l
+i
+
+Figzs
+
+Data Format Selection
+(CIF/NMEA)
+The data communication format can be selected either CIF or NMEAD183.
+
+This is performed by 1) jumper wire connection on the MAIN board
+(hardware setting) and 2) selection on the depth window (software sefting).
+
+1} Jumper Connection (JP1 - 4)
+
+NMEA CIF
+JP1 and JP3 short open
+JP2 and P4 ! open short
+
+Factory setling
+
+2) Selection on Depth Window
+Turn on the power while pressing ACK key. The depth window shows the
+current settings of the data format. Select the same setting designated by
+jumper connection by UNIT key.
+
+--- PAGE 81 ---
+7. INSTALLATION
+
+Minus Draft Adjustment
+
+NO SIGNAL
+
+L
+
+DRAFT
+
+(-
+
+ADJUSTED
+
+Data Format Selection
+
+CIF :CIF
+183 :NMEA (40183)
+
+CATE.
+
+ALARM
+
+Minus Draft Adjustment
+
+— 0.0~-99
+
+Fig. 7.6
+
+To start with the new setting, turn off the equipment and tum on again.
+
+This is compensation of depth emor caused by the time delay of signal in
+the amplifier. {The indication is slightly deeper than true depth.) Correct
+setting is typically -0.3m.
+See Fig.7.6. The minus draft setting appears on the setting window. Setting
+can be changed by the DRAFT key. To start with the new setting, tum off
+the equipment and turn on again.
+
+--- PAGE 82 ---
+7. INSTALLATION
+
+Display Window Test Turn on the equipment while pressing DIM ke to start the display (LED)
+(LED) window test. Display is checked In the following sequence.
+
+1) Al LED lamps light.
+
+2) Al LED Jamps blink three times.
+
+3) Al LED lamps reduce the brightness and restore again.
+
+4) LED lamp lights sequentially from top left to right as shown in Fig. 7.7.
+The numeral segments display figure of eight.
+
+Fig. 77
+
+5) Al numeral segments display from "0 to '9" in succession.
+6) Test termirates with showing the DIP sw S1 setting on the Setting
+Window. See Fig.7.9.
+
+oRrT
+
+=y ALARM
+58 o
+
+| 1| settings
+w4
+— #2 ?s[:ble
+
+Fig.7.8
+
+7) To exit from the test, tumn off the equipment
+
+--- PAGE 83 ---
+—_————
+
+7. INSTALLATION
+
+GAIN Adjustment
+
+When the £0-222 does not display the depth though the combined echo
+sounder {or colar video sounder ) displays seabed echo clearly, the GAIN
+adjustment is required. Take the procedures below.
+
+1) Check "NO SIGNAL" lamp blinks or lights on ED-222.
+2) Turn off the ED-222 and turm on while pressing UNIT ke;
+
+window shows the "DEPTH" at where the output of ampli
+3) When "NO SIGNAL" lamp biinks or fights;
+
+a. Adjust the depth on the setting window to some target (seabed echio
+etc.) by ALARM [-] or [+ ] key, observing the combined raviga
+tional echo sounders (or color video saunders).
+
+b. Adjust the gain of the comblned navigational echo sounder {or cofor
+video sounder) so that the target echo is plotted in the medium
+density (orange color).
+
+c. Depth window indicates the output of the amplifier at the selected
+depth in step a. The Indication should be between 200 and 254. If
+not, adjust R28{GAIN POT) referring to the Fig. 7.5.
+
+. The setting
+ris checked.
+
+When the ED-222 is connected to the recorder unit of an echo sounder,
+
+bias level of echo signal changes due to characteristic variation of the I/F
+
+amplifier of the recorder unit. To offset this variaticn, adjust the ED-222 as
+
+follows after the installation.
+
+1. Turn the GAIN control fully counterclockwise and set the RANGE
+between 50m and 100m in the recorder unit.
+
+2 Turn the ED-222 on whils pressing the UNIT key.
+
+3. Adjust the depth on the setting window of the ED-222 to where no
+seabed echoes exist by ALARM [+] or [-] key. The depth window
+shows the amplifier output voltage.
+
+4. Check the depth window indication. The indication should be between
+1and 10. If not, adjust R27. (Wher connected to some model, reading
+will be zero. This also does not require adjustment.)
+
+--- PAGE 84 ---
+7. INSTALLATION
+
+Stabilizing Depth Reading
+in Adverse Weather
+
+Remarks for Changing
+Depth Unit
+
+When the depth reading often disappears due to aeration in an adverse
+
+weather, change the setting as follows, and the effect of the aeration may
+
+be reduced.
+
+1. Turn the ED-222 on while pressing the GATE ON/OFF key. The depth
+window will read "L-1".
+
+] !
+
+L I
+
+2. Press the UNIT key 1o change the reading to "L-2". The ED-222 s set
+10 the operating mode for an adverse weather.
+
+L - :"7
+3. Turn the unit off and then on to restore normal operation.
+
+Note
+
+1. Since the setting is stored in the backup memory. further sefting is
+unnecessary.
+
+2. Use "L-1™ when strong DSL layers exist. Otherwise the ED-222 may
+occasionally recognize the DSL as a bottom.
+
+The ED-222 incorporates three units: "M", "FT* and "FA", and preset
+values (DRAFT, ALARM, GATE) set in a unit are automatically con-
+verted when the unit is changed. However since some conversion
+ertor may be introduced, check the values and re-enter if necessary.
+
+21
+
+--- PAGE 85 ---
+SPECIFICATION OF ED-222 DIGITAL DEPTH
+
+INDICATOR
+
+The digital depth indicator ED-222 receives depth information from the echo sounder and displays steady clear
+digital readiouts of bottom depths. It is capable of releasing alarms audibly and vistially at a preset depth. Loss
+of signal and poor S/N condition are also alerted with the no signal indication.
+
+1. Depth Indication
+Display
+Depth Range
+
+Depth Readings
+Resolution
+
+Min/Max Readouts
+
+2. Alarms
+
+Depth Alarm:
+
+Signal Warning:
+
+3. Input/Output Data
+= CIF only}
+
+4. Environmental Conditions
+Ambient Temperature
+Relative Humidity
+
+Vibration
+
+5. Power Supply &
+Power Consumption
+
+6. Standard Coating Color
+
+adigit LED-display
+
+0-89.9, 100-999
+Auto range in Feet, Meters or Fathoms
+
+True depth or relative o transducer installation position.
+0.1 (0-99.9) or 1 (100-999} in each unit
+
+Subject to capability of combined echo sounder.
+
+Alarm lamp lights and buzzer sounds when reading becomes shallower
+than preset depth.
+Preset by control panel key, 0-99 in each unit.
+
+The signal famp blinks and then lights if echo sounder Is subject to no or
+poor echaes from seabed.
+
+Input: Navigational E/S;  KP and Echo signal
+Colar Video Sounder; Depth and alarm* (in Furuno CIF or
+NMEAQ183 data format}
+Output: Depth and alarm* (in Furuno CIF or NMEAD183 data format
+
+-15to +55°C
+Less than 95%
+Less than 1G (750-3000 c.p.m.)
+
+24 VDC, 10W
+100/110/115/220 VAC (with optional rectifier PR-62)
+
+Control Panef N3.0 (not changed)
+Cabinet 2.5 GY 5/1.5 New TONE #5
+
+22
+
+--- PAGE 86 ---
+SPECIFICATION OF ED-222 DIGITAL DEPTH INDICATOR
+
+STANDARD SET
+
+No. [ Name Type Qty Code Number
+
+1| Digtal Depth Indicator ED-222 1
+
+2 | Spare Parts SP12-00600 1| 0014272
+
+3 | Instaation Materials CP12:00900 + | 000014273
+
+4 | Accessories FP12-00600 [ | 000014272
+
+i :
+SPARE PARTS (SP12-00600)
+No. Name Outline Type ! Qty | Code Number
+20 H
+1| Fuse =t | a | o0o-toao0e
+INSTALLATION MATERIALS (CP12-00900)
+
+No. Name H Outline Type Qty Code Number
+i
+i
+
+Power Cable |
+1| Assembly @ 0050120 1| 000-104-058
+L=3m
+
+|
+
+2 | CONNECTOR SRCNEA16-10P 2 | 000-508-663
+
+3 ‘CONNECTOR SRON6A16-10S 1 000-508-668
+
+--- PAGE 87 ---
+SPECIFICATION OF ED-222 DIGITAL DEPTH INDICATOR
+
+ACCESSORIES (FP12-00600)
+
+No. Name Outiine Type Code Number
+: KG-B2 ]
+1 + Knob Bolt MB8x20 sus 2 000-801-738
+2 | KnobWasher 05-029-0135-0 | 100-100-390
+o
+3 ! Tapping Screw 520 sus 304 000-802-081
+
+4 Flat Washer M5 sus 304 4 000-864-128
+
+5 Mounting Plate 20-005-2018-G ; 2 100-151-840
+
+6 | Hanger Assy FP12.00607 1 {001-338-700
+
+t
+20-005-2021-0
+
+7 | Dust Cover | 008-027-910
+OPTIONAL SUPPLY
+No. Narme Type Code Number Remarks
+1 | Remote Display ED-2200
+! MF-22L1A 000-069-405 Flush mourt type
+2 | Dimmer Rl - S Bibesi it Lo
+MF-22L-2A 000-069-406 Bulkhead mount type
+3 | Rectifier PR-62
+! FP12-00610 (N-3.0) 000-014-267
+4 ; Flush mount F* FP12-00620 (2.5G7/2) 000-014-268
+FP1200630 (7.58G7/2) | 000-014-269
+5 Flush mount $ ! FP20-00610 001-337-730
+6 | Interface Board | 02Ps601 001-323.680 ;
+
+| For dimmer box. Refer to
+Junction Box JB-6 000-044-920 1 Note 6 of interconnection
+! diagram on page S-1.
+
+|
+70!
+
+* Depending on the coating calor of the front panel, three kinds of accessories are prepared. Specify the type
+when ordering.
+
+24
+
+--- PAGE 88 ---
+FURUNO
+
+RFAR v.EW
+
+e e
+
+FIXING HOLES
+
+Le-ph B {T 7
+
+T UAKALD
+
+X
+A Hfm,;’ - TABLE TOP MOUNT TYPE
+
+T | dea | 3 w3 C2333-G03-A
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 89 ---
+FUI’QU“O
+
+£ SFRVICE SFACE
+
+OMMENDE.
+
+#HEE T RERY
+RE
+
+= A & HE- T 3
+7. ZJALAL) g THRD ANGLE PROJECTION | TITLE 1AL R S B
+
+TWCF, 9 R & )
+
+Hwsups| SCAE ED-222  FLUSH MOUNT S-TYPE
+87971 ~
+
+J';OM/7A [ mee N (2333-G04-A
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 90 ---
+FURUNO
+
+NG HCL
+
+Nh-eb BT R
+
+& m pel § = om % & #
+APPRQVED\T(/}‘ vf‘A(,o THIRD ANGLE PROJECTION ‘Ei&& g‘ﬁ F - ﬁ
+el 8 % T ¥
+b Ty g | ok D222 FLUSH MOUNT F-TYPE
+A ';'5 b £2333-G05-A
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 91 ---
+FURUNG
+
+H150
+
+RV - %R
+RECOMMENDED SERVICE SPACT
+
+23w ado ok BIRGR
+FIXING HOLES
+EABARTE
+TN NG DIMENSION
+
+7@ [t ¥ PN = o N
+APPROVED | 7 ¢ JA [CALJO] THRD ANGLE PROJECTION VE—NTYRTLA (A )
+s w P& I/ R ! . REMOTE DEPTH INDICATOR
+CHECKED }F”. ”Sl/p’{j 3 ED-2200 {FLUSH MOUNT)
+
+v @ |Jvb-8 77
+Bhawn 7”17/14/ TR weeH 2 | e ng, €2333-G01-8
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 92 ---
+FUI?UIIO
+
+”
+487 B3R
+T RGeS
+
+"’ B(nu
+
+RIEMT - AN
+RECOMMENDCT SERVICE SPACE
+
+M & n K
+MATERIAL . Q'TY.
+
+& m |PoLs ¥ 9 .~ — —
+APBROVED Txm\owo | THRD ANGLE SROVEE £y UE—RF2°L1 (& £ B
+® 9. 59 R ED-2200 REMOTE DEPTH INDICATOR
+
+CHECKED | 17 1/, ,,p,, (TABLE-TOP MOUNT)
+« @ Mt 8 79/ ;
+Shawnt | ToMITA et | oG C2333-G02-B
+
+FURUNOQ ELECTRIC CO., LTD.
+
+--- PAGE 93 ---
+FURU“O
+
+KA1
+COVER
+
+& K
+NAME PLATE
+€
+
+Ko s
+
+Bushmwa | RuBBER
+
+AC7AF
+
+“HTM
+MATERIAL
+S e F A s ¥ =y .
+VED 7o (4 KALQ % 2 AR
+
+ui- g " 1 OUTLINE OF DIMMER BOX
+o B e 8 T MF22L1A g
+CHECKED | 47 yyepipf) | 12AZY) (FLUSH MOUNT)
+PR R 7 ) s e @ #
+
+DRAWN | 0 41 174 : ¢ | owG.
+
+& €2333-G07-B
+FURUNO ELECTRIC CO., LTD.
+
+QTY
+APPRO
+
+--- PAGE 94 ---
+FU!?U“O
+
+© 4 4& ot #5
+
+DETAIL OF NAME_PLATE
+
+o
+
+\ I-7¢ % Mb RITEALLR)
+HOLE FOR Mb SET BOLTS
+
+G ogn SuLe kG = f P =@y ge
+AP;’ROVED‘}I‘[/VAU(A(}O THIRD ANGLE%ROJE%:T(ON | TITLE ARSI
+
+S == MF22L-2A OUTLINE OF DIMMER BOX
+1. wspeg | SALE EZHITY (BULKHEAD MOUNT)
+
+. o |ovL —
+Brawn }VnM/TA weeh 1.3 g D%GM‘, . C2333-G06-B
+
+FURUNO ELECTRIC CO., LTD.
+
+1%
+CHECKED
+
+--- PAGE 95 ---
+b 3 3
+
+weloHr: | K8
+I
+o TR -
+e Angust, 1976 I T T I
+Checked é) JUNCTTON BOX OUTLISE
+et DWe N0 4210-004-4
+
+FURUNO ELECTRIC CO. LTD.
+
+--- PAGE 96 ---
+FURUNO ) ‘
+: . 2 : : .
+
+FusuAY
+£0-222 DIGITAL BEPTH o-son0 AT
+D1 GATOR 0 Gz
+MBS STANDARD WIRING gare | i
+I 2250021 (5m) a2 orTichy
+s RO i
+ECHO SOUNDER dro-e i
+Jov i
+_ o
+L) (s i
+e s e i
+deno
+i !
+s |
+iompover M2V DY ATARM S LGNAL T .
+roST]  oobiosy 8T | e LR pum ' i
+T P RELAY CONTAGTS RATING - T
+. O30V, 20 1oAX Ev-2200 famly
+eras - AOTE
+e mnz | s oiselay
+carsss 5] A azéoo2t (5w e
+2o 5 2o onsore b ’ 2 oFTren
+nme REGTE OhgDFF
+e ! (5e10~50%)
+oesorzecam | 4
+| s oniesuains TR
+WA 373 2B (25 ) DCIo~40V 2 e
+ECHO SOUNDER+INTERFACE 02P5091| |
+pTion | |
+o (S 0 slo00
+7] WrErace T |
+[Eeei] "Igpast e Lo L s ]
+[z T I s Te ]! 1l
+T i
+Beeer
+ETER
+B 01wz, b
+newere ongorr $20 7S LR Y U AGIILS UEHT S, AT B-LAICIC S
+P il ¥3. REABRIRHLTERLIVITI LT, UT- FNOREREADT 6,
+PR oary ar il SNEEnTELL wumunsn‘%nvq,fxﬁ/;s?ﬂn 3!
+; o, N5 TRGRR SR 5D G- KRBT £, (RBR . BRI 0D
+et | EREEOT o
+R 61 ERO7 Ik PCHALS UL SERRBAS (57222 $RATE.
+KO+ 1 - S S
+e 2 AL S UTRUT 15 RCH-00D AU EXTERIAL AW DEVIES, FELAY €055 ok
+3 K0T N/ LI O ECR SR WX F3-ET e 14D SOCNOER KO T
+R ST L) P
+57, e RS 5T A A 44 VIR D6 DI Sm1itH 57 0N 076323 BINED T3 0101 &Y | APPROVED TiTLE TEEfERE (1,2
+RN M . 10 80 WRGS P29 AR 0 2P COMELTOR, LECATED: JEOVE IS ® oz |- TNTERCONNECT i N
+
+3050 51 BR/AADI/B8T>
+
+(PG 47 THE_EF 0F TRAISCEIV
+
+SE-EEIT 0 S-HOT PEIFE WTHFLCE SDD (27681 Wik T o TOF TR o . onEorsp | DiAGRAM ¢
+LENERY CF T GIMNECT IO C4RLE #E:UE T e G FOR 3 WIER 5 TEICK a3 GIFFICUT TO A M (/P
+w1 w 3 [
+AL - o IRAWN fo €2333-C01-F
+
+FUAUNO ELECTRIC CO..
+
+--- PAGE 97 ---
+rurUNe T
+
+a9 TomReH yE-rFaaTL
+DameEh ED-222 DIGITAl OEPTH E0-2200 tagiais
+(OPT oM 1ND |CATOR REDTE
+
+LAy
+
+sasi 2280021 (3m) » (OPT oM
+TR e S bt B e
+
+b P 2 gro-o
+
+§ T —-p
+
+i O S
+
+eee0022 431G00)
+s
+. I
+Pry dsv
+P Som ot
+
+JTamrsianaL ouTeuT
+Py f
+RELAT CONTACTS RATtNG: |
+030w, 24 oAk
+
+13
+
+J3-+ onore
+REWOTE GngOFF
+tbar0~aavs o
+I
+3
+
+]
+COLOR VIGEO SOUNDER
+
+comseev-ss-o o.2salfZila)
+
+080120 (3w
+KARE SHIP'S MAINS
+
+DE1D-agv
+
+BRI, K PYARD SUPPLY,
+3-LARE L MAOMEORAT 5. MAKTS—AHZBLE,
+ALARM SIGNAL OUTPUT (S PROVIGED FOR EXTERNAL ALARM
+DEVICES, RELAY CLOSES UNDER “ALARM® CONDITION,
+e $3: 73 ABERAIL TRREON OF FF 52 11, JE=1OK,/OF HIREAAT 5,
+Borer CONNEGT REMOTE ON/OFF LINE T0_EGHO
+Hisa SOUNDER WHEN E0-222 ANS EOHO SOUNDER
+NEED BE TURNED ON/OFF S IMULTANEOUSLY,
+147 SVERATICUREOD2P0  ITHELOT. Y TRV SERRONGT S,
+TURN ON D1P SWITGK 52 ON G2PE133 BOARD
+TO OUTPUT 5V,
+
+® B R G g &
+
+[aprroven mApb o, 0| Fimie PERRE 22
+
+W m (%5 £p-ppp INTERCONNECTION
+oncone | #7. 15 | = DiAGRAM (22
+
+w5 e 77 T
+
+orann | 7eei7d_|ovgno,  C2333-C02-A
+
+FURUND ELECTRIC CO., LTD.
+
+--- PAGE 98 ---
+.
+
+FURUNO
+
+L 3 - 4 " s
+.2
+fe I w T
+£0-222 Bi6ITAL dERTH £0-2200 (375200 B £0-2200 (179203
+tEicaTon RERoTE Fibetts et
+e orriom Sern
+sae azsmaz com) 5 Tha(sator = Thotnaton
+R (OFTIONG | e N
+“
+
+P
+
+AT 34
+
+25— RERSR
+COLOR VIDED SOUNDER
+
+ook 1
+To-of 2
+
+PR
+
+SKIP'S MAINS
+
+DC11~a0v
+
+JE 7Tt
+ED-2200 (17433
+BEMOTE
+DEPTH
+2250021 13w 2 INDIGATOR
+§ogp WD WG 1 gmow  (OPTIONY
+— 8o er——%2cros
+i k3 dov
+— g dse
+310 £0-22203801 ACHINERY SE0-22C0003, {49
+3V FIRROMAERIANT. ) LCRARTE AL D TL R,
+WUEN ED-2200 IS CONNECTED TO 13/J%
+OF Ep-222, CONNEGTION OF SHIP'S WAIHS
+TO ED-3500 IS UNNECESSARY.
+€25 ED-ZR00GMETAETLNT? 3. 1. RUD2KELIIKARIS AT 322,
+2250018 Cam) ED-3300° CAN BE CONNEGTED IN SERIES
+
+EARE SHIP'S MAINS
+
+AS HANY 43 YOU WANT, PROYIDED THAT SHIP'S
+WA NS ARE SJPPLIED 70 TKEM EXCLPT FOR
+TeE FIRST ONE,
+
+£3: SVERRTICURBOT.w JA055 (D281 33052) EONCT D
+TuRr ON 307 SWITGH S2 ON 02P6133 BIARD
+
+_
+
+2C11~40vV TO OUTRUT 5V, b
+. Ea Te =
+<orzoves | T ERRY
+ERE] LD- INTIRCONNICT!ION
+otz | 15072200 5 s GRan
+2 Q 2%
+buaw | Tom7d {fwsh  C2333-C03-3 ]
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 99 ---
+i PWE, BAMAINT - 82 LED)]
+[ozeetiE 02P6533 ol oo fuzieine]
+ssia |Feon w6 i
+1 e
+. o ” s [ S
+s ey i o sdbiern 3 L o
+AR B @ i paey b ©emeo
+L ! — 3
+| resw { be s i
+pa Lo d BRI b 7 s
+@ P | i o
+o e e oo bk @ duse a0
+=4 o ¢ [ R— Y=Y
+St b smnn JRE—Y P [$ m—
+Tt Rete RSN S —E T
+3 e M — 5ot bt~ dom
+PP isand b i sy
+EEeY oty led 17 —kuin
+et fcad fo—
+S J R T axeges
+3 st e | oy s Vo
+Jppi . B |
+b2 — k2 e
+H {3 4mH L pogt 1
+I ¢ g
+[ L5 ésvea
+b %6 dw
+> i1 den
+S s la
+B s e |omon
+e 11 Gt
+22y Sz dm "
+73 i - > dron et
+| t poRT
+| Sl hpped T2 .
+[ 5 dv e EXE
+13 & gov wes
+o 7 w0 i
+e A BT
+1t somene wentf [ i J
+e <2 qsiamac PY R m——
+[ —— L1 dsamoc . 1
+O %3 deen s
+i L L doo
+= #1
+E L we'3 Bmoe
+¢ " qaisan
+s 1 12 Jien
+PR — At
+3 e i by
+o N SaRL
+
+T3 dw
+
+e e
+APPROVED[™, At'A, O | TITLE FYRLRE
+W m P77 ED-222 p1GITAL DEPTH INICATOR
+cneen@D [ oo ann
+" e @ w
+£0-222 ORAWN | 720 5. | OWG.NO. (2333-K02-B
+
+FURUNO ELECTRIC CO. LTD.
+
+--- PAGE 100 ---
+o
+
+0253906
+
+0U0TIAL DEPTH PIDICATIR ED-B22
+
+0263907
+
+v
+DRAFT | [pwr  orF
+—nt
+
+ataam
+
+2 ack ||| oM
+n
+
+UNIT
+
+OGTAL DEPTH WOICATOR ETI-222
+
+hRove e KEY %4
+e T, KE
+w 025390547 ey BoaRD
+crecnto | 4 vty | ) 2
+R "
+| Sl Fenra lowmgs  C2333KOA
+
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 101 ---
+i
+
+sy
+
+Brsso
+
+- s
+
+s com
+
+o e 3
+o
+
+w
+
+s e
+
+[SEe
+
+S— ——3 7 e
+
+o i
+
+T R
+
+0
+V] TS gopes DWREM
+
+CER PWR BCARD
+N T ¥ oy
+ERC RSN ER] (2333-K03-8
+
+FURUNO ELECTRIC CO. LTD.
+
+--- PAGE 102 ---
+3 I 4
+02P6134
+1 emans
+AU b Y
+1 BB ] g b
+g [t e g
+s D 0 g o, o +
+4 s % e 3 &
+€2 Soiw s o 2 jos. 3 T
+ice ROSPES O g %nn R0
+s s pg £ : e ¥ E
+DR b w cfd L TN ]
+) Shsia 3 N L L ) wE 50
+Ty — T o i
+DISP A2 3. * s éﬂl
+:
+D vt ety e
+v 1 2 Vic Lk s TOR EC 2 FREET -
+o g vmmmi 1]
+e—Th Y, & T B els o 8 ]
+3 g S 8| N 38 HR] @
+i Rl T ot g S % i B
+TSl 4 e P o iy 3 & !
+Hoo o e3[Rl s SEESTSE & (heb oy
+sl w = il ATI0RH ws [ !
+oo = i
+i
+i Sy g ve e +5
+O el B s
+B e
+F] e ;
+rhl RIS § |
+3 3 o
+N hmeh ¢ v
+£ S 3 +
+B Ham = gEen 2
+e oz i e
+it
+& wo =
+o
+i vy S
+o
+o b ;
+RE o e -
+% L 2
+N e 3 e 5 bo )
+I i i [ o
+s 2 o o :
+e S g 3 s
+X s
+] gt aw :
+. mn g
+o o ;
+/
+
+S ERASERE /NS A T,
+HOTE AL RESISTORS ARE 1/20 TYPE UNLESS QTHERWISE NOTED.
+
+ARTRN D LED B &
+PR M £p BOARD
+
+oo [ sk "
+] ‘J;‘mf”” Sl C2333-K04-A
+
+FURUNQ ELECTRIC CO. LTD.
+
+--- PAGE 103 ---
+FUIIIUIIO
+
+AEG KA
+$iG. 0UT
+
+€§ g.047
+
+AN
+W/L IN
+
+Q7
+25A4956G-Y
+
+[¢21
+151588
+
+RN
+§ TRIG. OUT
+
+A=A n
+TRIG. 1N
+
+Q7
+25A495G-Y
+Fhas
+
+® oo ! 8 % & %
+APPROVED TITLE ALG-Tr -2
+
+02P-569(-1 ED-202 INTERFACE
+
+CHECKED
+Bl | Bt Sk C2232-028-A
+FURUNO ELECTRIC CO., LTD.
+
+--- PAGE 104 ---
+APPENDIX
+
+A. Connécting with Navigational Echosounder FE-880T
+
+s Brassame
+
+002 B 4.,
+
+2P7
+
+eIt
+
+FURUNG MADE IN JAPAN
+
+1017y o
+
+‘When connecting to FE-880T with the distance of more than 10m,
+the interface board 02P5691 (option) is required.
+
+The connection is made as follows.
+1) Mount the interface pe board onto the transceiver module,
+2) Connect the lead wires as illustrated in figures 1 and 2.
+
+3) Short-circuit R13 and R30 with jumper Jeads.
+
+TRANSCEIVER
+MODULE
+
+020706272
+
+802
+SRCRIMP ON LUBS
+
+Figure. 1
+
+AP-1
+
+--- PAGE 105 ---
+dv
+
+NAVIGATIONAL ECHOSOUNDER FE-880T
+
+TRANSCEIVER INTERFACE
+
+""""""" 1 P
+
++12Y O—————0Vec
+
+TO
+ED-222
+
+50V - TPYCS-1.25
+250V~ MPYCS-5
+
+Figure. 2 Connection Diagram

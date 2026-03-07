@@ -1,0 +1,1392 @@
+FILE: Ship Guard Manual Edn A_2 - IDP600Series - Final 23-04-2013.pdf
+FOLDER: E-72 SSAS
+DATE: 2026-03-07 10:29:07.048439
+==================================================
+
+
+--- PAGE 1 ---
+RO5
+
+SHIPGUARD V4
+
+IDP600 Terminal Series
+(EDITION A, REVISION 02)
+
+TECHNICAL/USER GUIDE
+
+Page 1 of 34
+
+--- PAGE 2 ---
+1.0  Revisions history
+
+Date Edition | Revision | Comments Approved
+28/12/11 A 01 Initial issue PM
+13-04-11 A 02 Editing POR
+
+R05 Page 2 of 34
+
+--- PAGE 3 ---
+2.0 Table of Contents
+
+1.0  REVISIONS HISTORY
+
+20 TABLE OF CONTENTS
+
+3.0 EXECUTIVE SUMMARY AND REGULATORY AUTHORITY
+
+3.1 EXECUTIVE SUMMARY ..
+Regulatory Authority.
+Principal Rules Governing SSAS
+
+4.0 SYSTEM OVERVIEW
+
+4.1 SYSTEM DESCRIPTION.....
+
+4.2 TRACKING AND ALERT MESSAGES..
+4.3 VESSEL EQUIPMENT ..
+
+Terminal Function
+
+SHORE EQUIPMENT
+VESSEL INITIATES AN ALER
+
+© xNNNNOOO® @ Lua O W N
+
+5.0  SYSTEM DESCRIPTION AND INSTALLATION
+
+5.1 GENERAL...
+.1.1..... Power Supply 10
+Power Consumption
+
+Control/Junction Box
+Security Alert Buttons & Cabling
+Initial Power-Up
+.1.9..... Anti Tamper Label
+52 QUICK INSTALL GUIDE ..
+
+6.0 SYSTEM COMMISSIONING 16
+
+6.1 GENERAL.....
+
+6.2 TERMINAL REGISTRATION
+
+6.3 COMMISSIONING PROCEDURE
+6.3.1..... SSAS Initial Test
+
+6.4 RILLS AND TESTS.
+
+6.5 RECOMMENDED TEST INTERVALS
+
+6.6 PERIODIC TESTING OF SHIP SECURITY ALERT SYSTEM
+
+7.0 SAFETY WARNINGS 18
+71 GENERAL SAFETY WARNINGS ...
+
+8.0 MAINTENANCE AND SUPPORT INFORMATION 19
+8.1 CLEANING 19
+
+8.2 TECHNICAL SUPPORT AND INFORMATION
+TEL: +46 771460 100 ..
+SERVICE@TRANSAS.COM
+
+9.0 REGULATORY AND TYPE APPROVAL INFORMATION 20
+9.1 LIMITATIONS ON INTENDED OPERATING ENVIRONMENT .....
+
+R05 Page 3 of 34
+
+--- PAGE 4 ---
+9.2 COMPLIANCE...
+10.0 TERMINAL SPECIFICATIONS 21
+
+10.1 PHYSICAL DIMENSIONS
+10.2 ENVIRONMENTAL.....
+103 RF SPECIFICATIONS ..
+
+104  GPS...
+10.5  COMPASS SAFE DISTANC
+11.0 APPENDICES 23
+
+111 APPENDIX | - STANDARD SCOPE OF SUPPLY.
+
+11.1.1... Optional Items...
+11.2 APPENDIX Il - SCHEMATIC AND WIRING DIAGRAL
+Control Box Connection
+
+APPENDIX IV - MSC CIRCULAR 1072....
+11.5  APPENDIX V - MSC — RESOLUTION 147/77 ..
+11.6  APPENDIX VI — INMARSAT SATELLITE COVERAGI
+11.7  GL CERTIFICATE OF CONFORMITY.....
+
+R05 Page 4 of 34
+
+--- PAGE 5 ---
+3.0 Executive Summary and Regulatory Authority
+3.1 Executive Summary
+
+The Transas ship security alert system (SSAS) — Ship Guard - has been designed to comply
+with all relevant legislation and provide a means whereby a vessel can raise a discrete alarm
+to the required shore authorities when its security has either been compromised or is thought
+to be under threat.
+
+3.1.1 Regulatory Authority
+
+On board security alert systems are governed by various internationally agreed rules and
+regulations as promulgated by the International Maritime Organisation — IMO, as
+recommended by its” associated sub-committees, principally the Maritime Safety Committee
+(MSC).
+
+Where individual Flag States or Administrations have particular requirements specific to that
+organisation these requirements are taken into account but within the terms of reference of
+the preceding paragraph.
+
+3.1.2 Principal Rules Governing SSAS
+
+International Port and Ship Security (ISPS) Code.
+SOLAS XI-2 Regulation 6 — as amended
+
+MSC - Resolution 136/76 — Performance standards.
+MSC - Resolution 147/77 — Performance standards
+MSC Circular 1072
+
+R05 Page 5 of 34
+
+--- PAGE 6 ---
+4.0 System Overview
+4.1  System Description
+
+The system offered consists of an independent SkyWave IDP 600 Series Terminal and
+associated equipment. It is a self-contained unit with integral GPS and satellite modem for
+communicating with Inmarsat satellite therefore requires no interfacing with ships equipment
+(other than power supply) to operate in full compliance with SOLAS requirements.
+
+SkyWave IsatData Pro network is used with Internet-based application to provide a
+seamless link between the vessel and shore-side authorities.
+
+4.2 Tracking and Alert Messages
+
+In addition to satisfying the SOLAS security alert requirements, the terminal is capable of
+data position report transmission for day-to-day tracking purposes that can be monitored on
+the service provider's web tracking site www.fleetviewonline.com , while at the same time it
+will respond instantly to the activation of any one of the SECURITY ALERT buttons located
+within the vessel.
+
+4.3  Vessel Equipment
+On board equipment consists of:
+
+IDP 600 series terminal with integral GPS/antenna/modem and processor
+Terminal mounting kit
+
+Power/data cabling
+
+Function control/junction box
+
+Security alert buttons (2)
+
+Security alert button cabling
+
+The above listed equipment is supplied in kit form, the aim being to provide a modular kit
+that will enable the ship operator to easily fit and commission a system with the minimum of
+disruption to the vessel and a low crew training requirement.
+
+4.3.1 Terminal Function
+
+The IDP 600 Series terminal is a self-contained unit that is supplied pre-programmed. It has
+an internal GPS and apart from power supply and the alert buttons requires no interfacing
+with any other ships equipment. The power/data cable connects directly the control/junction
+box to the Inmarsat IDP 600 Series terminal.
+
+In addition to providing an alert transmission capability, the terminal also enables automatic
+sending of scheduled data position reports (DPRY); offering a day-to-day commercial ship
+tracking benefit to the ship operator in addition to compliance with regulatory requirements.
+
+The default setting of the terminal is alert functionality only, while tracking functions can be
+remotely enabled according to customer requirements.
+
+When used for tracking, ship positions are updated without any user intervention and can be
+viewed on the Transas web tracking service FleetViewOnline — www.fleetviewonline.com,
+using the provided user access details. In addition the terminal can be “polled” to provide
+individual position reports on demand.
+
+Viewing of security alert messages and sending of polling and reset alarm messages are
+also performed via the same Internet FleetViewOnline user interface.
+
+R05 Page 6 of 34
+
+--- PAGE 7 ---
+The user login and password ensures that only vessels from the registered company can be
+viewed. It is not possible for other companies to view ships that are not registered to them.
+
+Control of login and password is with the registered user and can be changed at any time.
+
+4.3.2 Control and Junction Box Function
+The control and junction box serves two purposes as its name suggests, namely to:
+
+« Provide user interface for system control and,
+« Provide connectivity to the terminal, Security Alert buttons and power supply
+
+4.3.3 System Control
+
+System control is managed via a three position key control, the key can be removed for
+security purposes and should be under the control of the Master of the ship.
+
+The function of each position is as follows:
+
+Position 1- OFF
+Off, logically disconnects the Security Alert buttons from terminal. Power supply to the
+terminal is maintained. System does not stop any tracking function.
+
+Position 2-ON
+Operational, in the case of pressing of Security Alert buttons the system will generate
+security alert to both ship operator and flag state.
+
+Position 3 -TEST
+Test mode, alert messages contain a flag “test” and sent only to ship operator. Used for
+system commissioning and as part of scheduled tests.
+
+4.4  Shore Equipment
+
+FleetView Online is web based and can operate on any pc with an internet connection. The
+website uses Java VM, therefore a current version of Java must be installed on the
+designated PC or network.
+
+Under normal circumstances users will be logged onto FleetViewOnline in order to monitor
+their vessels on a day-to-day basis.
+
+4.5 Vessel Initiates an Alert
+In the event of a vessel generating an alert, a number of actions are automatically initiated: -
+
+« Afixed message alert is notified to the flag state/operator of the vessel every thirty
+minutes via email/sms/fax/telex — as specified
+
+« Alert messages are automatically generated every thirty minutes with positional
+information until the alert is cancelled.
+
+*  On FleetViewOnline the coloured background place holder displaying the vessel
+name changes to red
+
+R05 Page 7 of 34
+
+--- PAGE 8 ---
+4.5.1 Actions Upon Receiving an Alert
+
+In the event of receiving an alert, a plan of action, as detailed in the ship operators’ security
+plan, will be implemented. This plan will have been inspected and approved by the relevant
+Recognised Security Organisation (RSO) as part of the operators’ compliance with the ISPS
+Code.
+
+Although not specific to or within the scope of the SSAS service in general, it can be
+expected that the flag state of the vessel and ship operator will enter into dialogue to discuss
+the alert.
+
+In addition, if the vessel is in waters adjacent to a coastal state of a country different to that
+of it's flag, the flag state of the vessel sending the alert is obliged to notify the administration
+of the adjacent coastal state.
+
+R05 Page 8 of 34
+
+--- PAGE 9 ---
+5.0 System description and installation
+
+Transas Ship Guard is a simple modular system that can either be installed by a Transas
+trained engineer or by suitably qualified member of the ships’ crew. Full guidance on
+physical installation and wiring is included in this chapter.
+
+Transas engineers or ships’ crew can also conduct system commissioning; full details of this
+are also included in system commissioning section.
+
+5.1  General
+
+Before starting any installation work check contents against detailed order/packing list — any
+discrepancies must be reported immediately.
+
+For convenience installation instructions are broken down into module sections.
+
+It is expected that a site survey will have been conducted prior to ordering the system in
+order to supply the correct kit version and ensure adequate cabling has been supplied to the
+vessel. Your kit will consist:
+
+Figure 1 - Standard Equipment Supply
+
+« Polycarbonate concealment enclosure containing IDP600 series terminal with
+attached multi-core power/data cable ( 25m)
+
+Mounting bracket with securing fasteners
+
+/ABS control/junction box enclosure, part wired connector and fittings
+
+Security Alert button enclosures and fittings
+
+Security Alert button cabling
+
+Anti-tamper labels
+
+Technical/user manual
+
+Optional items available
+« Power supply unit
+* Pole type mounting bracket
+
+RO5 Page 9 of 34
+
+--- PAGE 10 ---
+IMPORTANT — THIS UNIT MUST BE CONNECTED TO AN UNINTERRUPTIBLE POWER
+SUPPLY UNIT TO ENSURE COMPLAINCE WITH SOLAS REGULATIONS.
+
+Ifin doubt ships’ crew carrying out installation should seek guidance from their technical
+managers with respect to fastenings and cable routeing to ensure compliance with any Flag
+State or Classification Society requirements. Transas cannot be held liable for such errors or
+omissions.
+
+Prior to making any connections or drilling it is recommended to lay out all components and
+cabling in the approximate positions in which they will finally be installed.
+5.1.1 Power Supply
+
+The security alert system requires a clean/smoothed uninterruptible 24 to 30 VDC supply
+with a minimum of 2A current; this must be provided to site of the control/junction box prior to
+installation.
+
+Note that the actual power supply and any cabling for running the power to the
+control/junction box is for owners supply and is not included as standard.
+5.1.2 Power Consumption
+
+Typical power consumption at 12 V and at temperature 22°C:
+
+Average current on receive = 45 mA
+
+Peak current on transmit =1 A
+
+5.1.3 Wire Terminations
+
+All wires must be terminated in accordance with good practice and any Flag or Class
+requirements. It is recommended to use spigot ended crimped ferrules or leave the soft wire
+end. Soldering wire ends is not recommended since over time solder flows and a previously
+tight connection may become loose and may cause a system malfunction.
+
+R05 Page 10 of 34
+
+--- PAGE 11 ---
+5.1.4 Terminal
+
+The terminal comes fully pre-programmed in compliance with SOLAS ISPS Code SSAS
+regulations. It is certified to IEC 60945/2002, carries the CE approval mark and has an FCC
+certificate. It is suitable for above decks installation (IP56), has its own onboard GPS and
+receives power via the power/data multi-core cable.
+
+Figure 2 - Skywave IDP-690 Terminal
+
+The terminal will be supplied with a pre-wired 25m multi-core power/data cable and
+connector which has been attached to the terminal base entry connection socket.
+
+To aid disguise, the terminal is housed in a polycarbonate plastic enclosure. The enclosure
+is attached to a raised base plate that permits attachment to ships rail.
+
+The terminal must be situated where it has a clear view of the sky.
+
+The upper bridge (monkey island, flying bridge) is an appropriate choice for positioning the
+terminal and it is not necessary to mount the unit high up on mast structures. This serves to
+reduce the length of power/data cable required minimising voltage drop and speeding the
+installation process.
+
+However appreciation of shadow/blind sectors needs to be given from mast or funnel
+structures.
+
+The terminal must be sited as far away as possible from other radiators
+
+Distance to HF antennas > 5 metre
+
+Distance to VHF antennas > 4 metre
+
+Distance to other Inmarsat transceiver > 1.5 metre
+Distance to magnetic compass > 0.3 metre
+
+R05 Page 11 of 34
+
+--- PAGE 12 ---
+The terminal must be installed in the horizontal plane as far as is practicable within the
+normal seagoing trim of the vessel.
+
+CAUTION - The polycarbonate enclosure must not be painted with any paints containing
+metallic elements. This will screen the antenna and prevent signal reception/transmission
+and render the system inoperative.
+
+The terminal is fully tested prior to shipment.
+
+« Open the enclosure and attach mounting plate to enclosure using bolts provided. Do
+not unplug terminal from power/data cable and ensure cable gland is slack. Leave
+cover off until installation is completed
+
+» Position enclosure containing terminal in its approximate final location
+
+» Run power/data cable from bridge top into wheelhouse via appropriate deck
+penetration gland, do not secure at this stage
+
+« Ensure adequate cable available to connect to control/junction box situated on
+wheelhouse
+
+* Attach plastic enclosure to ship’s rail using the mounting plate and clamps provided.
+
+« Ensure top of enclosure is in horizontal plane within normal seagoing trim range of
+vessel
+
++ NEVER APPLY POWER UNTIL POWER/DATA CABLE IS FULLY AND FINALLY
+CONNECTED
+
+5.1.5 Power/Data Cable
+
+The power/data cable is delivered in 25m length (other lengths available to special order).
+The terminal end of the cable is fitted with a pre-wired connector and is supplied attached to
+the terminal. The "blunt” end of the cable is pre-prepared for connection to the
+control/junction box and must be adequately protected during installation.
+
+Any additional deck penetrations/glands or associated welding work required to pass the
+antenna cable is the responsibility of the vessel.
+
+UNDER NO CIRCUMSTANCES SHOULD THE POWER/DATA CABLE BE CUT OR END
+FITTINGS RE-ATTACHED, AS THIS WILL VOID ANY GUARANTEE AND MAY CAUSE
+SYSTEM FAILURE. Once the installation is completed the cable can be secured, with any
+spare cable being coiled and fastened.
+
+Minimum Bend Radius 7.5 x Cable Diameter (approx @ 10.5mm)
+In order to prevent possible damage to the terminal it is essential to ensure all connections
+
+are secure and in accordance with manufacturers instructions BEFORE connecting power
+supply and turning on power. Failure to follow this guidance may invalidate any warranties.
+
+R05 Page 12 of 34
+
+--- PAGE 13 ---
+5.1.6 Control/Junction Box
+
+The control/junction box is supplied with all internal wiring but will require the connection of
+the power/data cable, alert button cabling and power supply wiring (green connectors). All
+cable glands etc are attached.
+
+Figure 3 - Control Box Details
+
+Control box enclosure must be sited to ensure access to the key control.
+
+It is recommended that the control box is loosely positioned prior to final fixing to ensure all
+cabling is of adequate length to ensure proper connections.
+
+A wiring diagram is provided in this manual and is also stick to the inside of control box lid.
+The usage of cable glands (left side to right side) is following: power cable, primary alert
+button, secondary alert button, terminal’s power/data cable.
+
+The DB plug inside the control box is for service purposes and not used in normal
+operation.
+
+The braided out screen of power/data cable is connected to terminal connector #2 . The
+braided screens of alert cables are connected to pins #4 and #6.
+
+When alert cables and power supply cable have been connected and all connections double
+checked mount control/junction box; nip up glands and secure enclosure after testing.
+
+R05 Page 13 of 34
+
+--- PAGE 14 ---
+5.1.7 Security Alert Buttons & Cabling
+
+The standard supply is two complete security alert button assemblies plus 30m two core
+braided cable.
+
+Itis a SOLAS requirement that one of security alert buttons is positioned in the wheelhouse
+area. The location of the second security alert button is to owners’ choice.
+
+Aflip cover is fitted to prevent inadvertent activation of security alert button; this is a
+mandatory SOLAS requirement and must not be removed.
+
+Figure 4 - Alert Button Assembly with Flip Covers
+
+The alert buttons are passing contact/momentary type and do not physically indicate status
+of the alert system. They are suitable for installation on vessels of any flag.
+
+« Remove front cover of enclosure leaving the pre-assembled alert button attached
+
+« Referring to planned position of security alert buttons, knock out appropriate entry
+disc in alert button enclosure to accept cable gland, attach cable gland accordingly
+
+» Pass free end of previously installed alert cable through gland and make connection
+to security alert button contact block.
+
+Having double checked connections and continuity with control/junction box close up
+enclosure and tighten cable gland. All cable terminations must be to Class standards
+
+5.1.8 Initial Power-Up
+Installation is now complete and when satisfied with all connections and fastenings the
+system can be powered up.
+
+After powering up the system for the first time (this is known as a cold start), and may take
+up to 5-10 minutes to ensure GPS and Inmarsat satellite acquisition. Subsequent starts will
+be much quicker.
+
+The single LED located on the IDP 600 series terminal will begin flashing every 2 seconds.
+
+Once a GPS position is acquired the system will ransmit a “Start Up” message to FleetView
+Online, which can be confirmed by your office.
+
+R05 Page 14 of 34
+
+--- PAGE 15 ---
+5.1.9 Anti Tamper Labels
+On completion of installation, please attach supplied anti-tamper labels:
+
+Figure 5 - Optional Anti-tamper Labels
+
+2 x across the join of each of the security alert buttons; 2 x across the join of the control box.
+
+Remaining labels should be kept in the Master’s safe with the key
+
+5.2
+
+Quick Install Guide
+
+See Section 6.3.1 for description of start up sequence.
+
+Attach mounting bracket to terminal enclosure
+
+Run power VDC cable from power supply to the location of control box
+Secure polycarbonate enclosure containing terminal on bridge top/monkey island, do
+not close up enclosure
+
+Run power/data cable down from terminal to control box
+
+Run alert button cables (bridge plus other location)
+
+Mount bridge and other alert button enclosures, attach alert button cables
+At control box connect power/data, alert button and power supply
+
+Check all connections, and power up
+
+Do not close up enclosures until system is commissioned
+
+AFTER commissioning close up all enclosures, apply anti-tamper labels
+Set system to ON, stow control key in safe location
+
+RO05
+
+Page 15 of 34
+
+--- PAGE 16 ---
+6.0 System commissioning
+6.1  General
+
+The IDP-600 series terminal in the Ship Guard kit is supplied as a pre-programmed unit and
+requires no user intervention to be fully operational. Any variance from this must be specified
+at time of ordering.
+
+A service engineer may be required to attend the vessel if alteration to programming is
+required.
+
+6.2 Terminal registration
+
+Before the terminal can be tested/commissioned it must be registered with Transas, this is
+the responsibility of the ship operator. A registered terminal upon being powered up is
+capable of being tracked and delivering alerts to the shore user interface FleetViewOnline.
+
+6.3 Commissioning procedure
+
+6.3.1 SSAS Initial Test
+
+For convenience the bridge security alert button is called the primary alert button, the other
+button(s) are called secondary alert buttons
+
+To commission system always select TEST MODE, this will prevent an alert message being
+accidentally sent to Flag Administration, but will none the less test the whole system fully
+from end to end as if it were in operational mode. (Technical note - messages sent in Test
+mode differs from those in Operational mode by one bit - this allows them to be filtered and
+only sent to the company).
+
+The routine testing by ships crew is detailed in a following section. Co-ordination with ship
+operators office will be necessary to receive and reset alerts.
+
+Locally record all times, dates and GPS positions when operating security alert buttons.
+
+* Switch on the power supply, the LED on the terminal is showing the presence of
+power
+
+* Allow approximately 10 minutes to acquire both GPS and Inmarsat satellite lock
+
+o Activate primary alert button (T=0 mins) — wait approx 35 minutes for initial and
+automatic repeat alert to be sent
+
+* At T+40 activate secondary alert button, at T+60 minutes a primary and secondary
+alert will be automatically sent
+
+« Liaise with shore office to reset system — reset command is sent to terminal from
+ashore
+
+*  When all tests are completed return key to "ON" position —- REMOVE key and stow in
+a secure location
+
+* Testing/commissioning is now complete
+
+It is recommended that the regular tests are initiated into company routines to monitor
+correct function of this equipment. A suggested test routine for ships’ crew is detailed in
+Sections 6.4 - 6.6.
+
+R05 Page 16 of 34
+
+--- PAGE 17 ---
+6.4  Drills and tests
+
+According to your company/flag requirements it is possible to test the alert system without
+alerting the Flag State of the vessel.
+
+YOU MUST SET THE KEY CONTROL TO TEST POSITION TO DO THIS. FAILURE TO DO
+SO WILL SEND AN ALERT MESSAGE TO FLAG STATE AS A REAL ALERT.
+
+6.5 Recommended Test Intervals
+
+« If terminal is being used as a tracking device, test every six months
+« Ifterminal is only being used as an SSAS only device, test every 3 months
+
+6.6 Periodic testing of Ship Security Alert System
+
+These notes are designed to assist with on board testing routines for Ship Security Alert
+System, and are issued as manufacturer’s guidance only.
+
+ACTION RESULT NOTES
+Set control box key to Alert message only | This “blocking” filter is set
+TEST goes to company, | automatically
+
+not Flag State
+
+Activate primary/bridge | Initial primary alert | Alert messages will be
+and then secondary is sent and received ashore by ship
+alert button delivered operator according to
+according to shore | settings and displayed in
+settings in FVO. SSAS log
+
+Primary &
+secondary alert
+repeated
+automatically at
+T+30 minutes
+
+After T+30 minutes System is now System reset message
+shore office to confirm | reset — this should | only appears in shore
+receipt of SSAS alerts. | be confirmed by SSAS log
+
+Shore office resets shore office
+
+SSAS from ashore
+
+Set key to ON, remove | System is now Any further alerts will now
+and stow in secure resetandready to | be treated as real
+location use
+
+R05 Page 17 of 34
+
+--- PAGE 18 ---
+7.0
+
+AN
+]
+
+71
+
+Safety Wamings
+
+BEFORE APPLYING POWER TO THE EQUIPMENT the user must read all
+instructions. If in any doubt, consult suitably trained service personnel.
+
+General Safety Warnings
+
+No user serviceable parts inside. Refer servicing to qualified service personnel.
+
+The equipment should be protected by a suitable fuse.
+
+Retain the safety and operating instructions for future reference.
+
+Observe all warnings on the equipment and in the operating instructions.
+
+Follow all operating and user instructions.
+
+Connect the equipment to a power supply only of the type described in the operating
+instructions or marked on the equipment.
+
+The terminal unit should be located in accordance with instructions in section 4.
+Maximum permissible exposure (MPE) limits — This equipment complies with FCC
+(OET bulletin 65) general population/uncontrolled exposure limits as applied to RF
+energy from a Mobile device. (A mobile device being defined as a transmitting device
+designed to be used in other than fixed locations and to be generally used in such a
+way that a separation distance of at least 20 centimetres is normally maintained
+between the transmitter's radiating structures and the body of the user or nearby
+persons.)
+
+RO05
+
+Page 18 of 34
+
+--- PAGE 19 ---
+8.0 Maintenance and Support Information
+8.1 Cleaning
+
+Dust and finger marks can be removed using a soft damp cloth. Avoid using domestic
+cleaning products.
+
+8.2 Technical Support and Information
+For technical support, product queries and information please contact your Transas supplier.
+
+Transas Marine International
+
+46 771 460 100
+ervice@transas.com
+
+Authorised dealers and general information about Transas products and services can be
+found at:
+
+www.transas.com
+
+RO5 Page 19 of 34
+
+--- PAGE 20 ---
+9.0 Regulatory and Type Approval Information
+9.1 Limitations on intended operating environment
+
+The IDP600 series terminal can be used in a wide range of control and monitoring
+applications. When third party equipment is attached, such third party equipment and all
+cabling must be of suitable design and installation.
+
+Guidance notes for the installation and use of the Ship Security Alert System must be strictly
+followed.
+
+Transas exercise due diligence to ensure that the equipment is suitable for use in stated
+applications, but ultimate responsibility for the compliance of a complete system must rest
+with the prime contractor at a site where local conditions may require additional EMC
+precautions be taken.
+
+WARNING: Changes or modifications to this unit not expressly approved by the party
+
+responsible for compliance could void the user's authority to operate this equipment and any
+written or implied warranties.
+
+9.2 Compliance
+The IDP600 Terminal series obtained the following certifications:
+
+Inmarsat Type Approval
+
+Industry Canada
+
+FCC Part 25
+
+R&TTE Directive 1999/5/EC (CE Mark)
+IEC 60945
+
+SSAS Type Ship Guard IDP690 obtained:
+
+Germanischer Lloyd (GL) Certificate of Conformity
+
+R05 Page 20 of 34
+
+--- PAGE 21 ---
+10.0 Terminal Specifications
+10.1 Physical Dimensions
+
+Overall Size (without mating connector)
+
+IDP-690 126mm x126mm x 101 mm
+
+Weight
+
+460 g
+
+Enclosure Material
+
+Xenoy® 5220U Resin
+
+10.2 Environmental
+
+Operating Temperature Range
+
+-40°to +85° C
+
+Storage Temperature Range
+
+-40°to +85° C
+
+Humidity
+
+90% relative humidity at +85° C
+
+Vibration
+
+SAE J1455, section 4.9.4.2 and MIL-STD-810G
+
+Shock (survival)
+
+MIL-STD-810G, section 516.6
+
+10.3 RF Specifications
+
+Parameter
+
+Value
+
+Frequency Band
+
+Receive 1525 to 1559 MHz
+Transmit 1626.5 to 1660.5 MHz
+
+Modulation
+0QPSK
+Polarization
+RHCP
+Symbol Rate
+Receive 3000 symbols/second
+Transmit 900 symbols/second (maximum)
+Maximum EIRP
+
+Elevation Angle
+
+IDP-690 Antenna 5dBW
+
+-5 10 +90 degrees
+
+104 GPS
+
+Parameter
+
+Value
+
+Receive Type
+
+GPS C/A Code
+
+Frequency
+
+L1 (1575.42 MHz)
+
+Mean Time to First Fix
+
+Cold Start 36 s
+Warm Start 8 s
+
+RO05
+
+Page 21 of 34
+
+--- PAGE 22 ---
+Sensitivity
+
+Tracking -146 dBm
+Acquisition -136 dBm
+
+Accuracy
+
+Horizontal Position 4 m
+Horizontal Speed 0.02 m/s
+
+Heading (50%)
+
+10.5 Compass Safe Distance
+
+Compass Safe Distance, 0.2m —
+
+0.1 degrees
+
+in accordance with ISO 694/2000
+
+R05 Page 22 of 34
+
+--- PAGE 23 ---
+11.0 Appendices
+11.1  Appendix | - Standard Scope of Supply
+1 x Terminal unit comprising:
+
++ 1x Skywave IDP-600 series terminal
+
+« 1x Polycarbonate mounting box
+* 1 x Entry/Exit gland;
+
+1 x Terminal unit mounting bracket (pole mount style)
+1 x 25m Power/data cable with hardwired connector
+1 x Control unit comprising:
+
+1 x Key barrel with 2 keys
+
+1 x Mounting collar
+
+1 x Contact blocks
+
+1 x ABS plastic mounting box
+5 x Entry/exit gland
+
+1 x 30m marine grade 2-core cable for terminal/alert switch connection.
+
+2 x security alert button assemblies comprising:
+* Momentary contact push buttons
+
+Contact assemblies
+
+Mounting boxes
+
+Flip-up push button covers
+
+Entry/exit glands
+
+1 x Technical / Installation manual.
+1x Set Anti-tamper labels
+
+11.1.1 Optional ltems
+1 x Uninterruptible power supply unit - 220Vac in/24Vdc out
+
+R05 Page 23 of 34
+
+--- PAGE 24 ---
+11.2 Appendix Il - Schematic and Wiring Diagram
+
+11.2.1 Control Box Connections
+
+SSAS Control Box
+
+elelefelistolefelsfefels
+
++ VDC
+0 vDC
+- on
+et ()
+e ®
+=il
+o
+E
+o
+L@
+4 (€]
+8
+RSA85 A | 2 RS485 B
+P Y P
+
+SkyWave IDP890 Terminal
+
+D3 femaie
+
+Optional
+
+™
+R
+RS485_h
+
+__ Rs4as B
+
+R05 Page 24 of 34
+
+--- PAGE 25 ---
+11.2.2 Pin Out Connections
+
+oONmw=T7
+
+Functionality Pin  Functionality
+RS-485/J17083 A 2 RS-485/J1708 B
+GND 4 VIN
+
+1/0 02 6 1/0 03
+
+1/0 01 8 1/0 04
+
+RS-232 Tx (Output) 10 RS-232 Rx (Input)
+
+11.3  Appendix lll - SOLAS XI-2 Regulation 6
+
+1 All ships shall be provided with a ship security alert system, as follows;
+
+1
+2
+
+ships constructed on or after 1 July 2004;
+
+passenger ships, including high-speed passenger craft, constructed before
+1 July 2004, not later than the first survey of the radio installation after 1
+July 2004;
+
+oil tankers, chemical tankers, gas carriers, bulk carriers and cargo high-
+speed craft, of 500 gross tonnage and upwards constructed before 1 July
+2004, not later than the first survey of the radio installation after 1 July
+2004;.other cargo ships of 500 gross tonnage and upward and mobile
+offshore drilling units constructed before 1 July 2004, not later than the first
+survey of the radio installation after 1 July 2006.
+
+2 The ship security alert system, when activated shall;
+
+RO05
+
+initiate and transmit a ship-to-shore security alert to a competent authority
+designated by the Administration, which in these circumstance may include
+the Company, identifying the ship, its location and indicating that the
+security of the ship is under threat or its has been compromised;
+
+Page 25 of 34
+
+--- PAGE 26 ---
+2 not send the ship security alert to any other ships;
+3 not raise the alarm on board the ship, and;
+4 continue the ship security alert until deactivated and/or reset.
+
+The ship security alert system shall;
+
+1 be capable of being activated from the navigation bridge and in at least
+one other location, and;
+
+2 conform to performance standards not inferior to those adopted by the
+organisation
+
+The ship security alert system activation points shall be designed so as to
+prevent the inadvertent initiation of the ship security alert.
+
+The requirement for a ship security alert system may be complied with by using
+the radio installation fitted for compliance with the requirements of chapter IV,
+provided all the requirements of this regulation are complied with.
+
+when an Administration receives notification of a ship security alert, that
+Administration shall immediately notify the State(s) in the vicinity of which the
+ship is presently operating.
+
+when a Contracting Government receives notification of a ship security alert from
+a ship which is not entitled to fly its flag, that Contracting Government shall
+immediately notify the relevant Administration and, if appropriate, the State(s) in
+the vicinity of which the ship is presently operating.
+
+RO05
+
+Page 26 of 34
+
+--- PAGE 27 ---
+11.4 Appendix IV - MSC Circular 1072
+
+Ref. T2-NAVSEC/2.11 MSC/Circ.1072
+26 June 2003
+
+GUIDANCE ON PROVISION OF SHIP SECURITY ALERT SYSTEMS
+
+1
+
+The Sub-Committee on Radiocommunications and Search and Rescue
+(COMSAR), at its seventh session (13 to 17 January 2003), taking into account
+the urgency and importance of implementing SOLAS regulation XI-2/6 on Ship
+Security Alert Systems adopted by the Conference of Contracting Governments
+to the SOLAS Convention, 1974 (7-13 December 2002) to be used in the
+enhancement of Maritime Security, prepared the guidance on provision of ship
+security alert systems.
+
+The Maritime Safety Committee, at its seventy-seventh session (28 May to 6
+June 2003), agreed to the proposed guidance regarding Ship Security Alert
+Systems, as set out in the annex.
+
+Member Governments are requested to bring the annexed guidance to the
+attention of Maritime Administrations, shipmasters, port authorities, port facility
+security operators, national authorities responsible for security, shipping
+companies, system manufacturers and designers.
+
+I1N\CIRC\MSC\1072.00C
+
+RO05
+
+Page 27 of 34
+
+--- PAGE 28 ---
+MSC/Circ.1072
+
+ANNEX
+GUIDANCE ON PROVISION OF THE SHIP SECURITY ALERT SYSTEM
+
+1 Regulation 6 of SOLAS chapter XI-2 requires ships to be provided with a ship
+security alert system. Section A/9 of the International Ship and Port Facility
+Security (ISPS) Code requires ships to carry a ship security plan. Performance
+standards for ship security alert systems are given in resolution MSC.147(77).
+This Circular gives guidance on the design of ship security alert systems provided
+to comply with the SOLAS regulation.
+
+2 The intent of the ship security alert system is to send a covert signal or message
+from a ship which will not be obvious to anyone on the ship who is not aware of
+the alert mechanism. It is of use therefore in circumstances where a ship wishes
+to inform a person ashore of a problem with a minimum number of the persons
+onboard aware of the action. The procedures for the security alert are agreed
+with the ship.s Administration as part of the ship security plan and ideally should
+be individual to the ship. It is not intended that the ship security alert procedures
+should be to an internationally agreed standard or conform to any particular
+format for all ships.
+
+3 Possible methods of achieving the alert are as follows:
+
+A a system may employ proprietary tracking equipment provided by traffic
+service providers. The ship then carries a concealed equipment box
+working over a satellite system on its upper deck which transmits a
+position report at, typically, 6-hourly intervals. Interruption of power to the
+equipment or arming of the equipment by means of sensors or manual
+buttons causes the equipment to transmit a different format of position
+report. The tracking service providers monitor the transmission reports and
+inform the Company when the transmission format changes;
+
+2 a system may utilise modifications of GMDSS equipment.* Some GMDSS
+equipment is not very suitable for modification as it is optimised for .all
+station. calling and may involve manual setting of frequencies etc and
+provides confirmation on the ship of messages sent. In these types of
+systems the ship security alert contains identifiers to ensure that it is not
+possible to confuse it with a GMDSS distress, urgency or safety alert; and
+
+3 a system may utilise the exchange of messages containing key words
+between a ship and, typically, the Company. These messages may be by
+speech or data communications. Ship equipment which may be used
+includes cellular phones in coastal areas and satellite services away from
+coastal areas. It may be possible to use GMDSS VHF/MF/HF equipment in
+areas where there are coastal facilities for receiving addressed calls.
+
+This list is not intended as exhaustive and is not intended to inhibit future developments.
+
+(* Inmarsat is developing modifications to existing equipment that will allow for this service to
+be implemented.)
+
+I1N\CIRC\MSC\1072.00C
+
+R05 Page 28 of 34
+
+--- PAGE 29 ---
+MSC/Circ.1072
+ANNEX
+Page 2
+
+4 The ship security alert system requires two activation points, one of which should
+be on the bridge. These will typically be fixed or portable telephone handsets,
+fixed or portable keypads or fixed or portable buttons.
+
+5 Measures should be incorporated in the activation points to avoid their
+inadvertent operation and the generation of false alerts.
+
+I1N\CIRC\MSC\1072.00C
+
+R05 Page 29 of 34
+
+--- PAGE 30 ---
+11.5 Appendix V - MSC - Resolution 147/77
+MSC 77/26/Add.1
+
+ANNEX 7
+
+Page 1
+
+ANNEX 7
+
+RESOLUTION MSC.147 (77)
+(Adopted on 29 May 2003)
+
+ADOPTION OF THE REVISED PERFORMANCE STANDARDSFOR A SHIP SECURITY
+ALERT SYSTEM
+
+THE MARITIME SAFETY COMMITTEE,
+
+RECALLING Article 28(b) of the Convention on the International Maritime Organization
+concerning the functions of the Committee,
+
+RECALLING ALSO resolution A.886 (21), by which the Assembly resolved that the functions
+of adopting performance standards for radio and navigational equipment, as well as
+amendments thereto, shall be performed by the Maritime Safety Committee on behalf of the
+Organization,
+
+RECALLING FURTHER the provisions of the new chapter XI-2 of the International
+Convention for the Safety of Life at Sea (SOLAS), 1974, as amended, and the requirements
+of regulation XI-2/5, that all ships shall be provided with a ship security alert system,
+
+RECOGNIZING that, for security reasons, a ship security alert system is necessary on board
+for initiating and transmitting a ship-to-shore security alert to a competent authority
+designated by the Administration,
+
+HAVING CONSIDERED the recommendation on revision of resolution MSC.136 (76) made
+by the Sub-Committee on Radio communications and Search and Rescue at its seventh
+session,
+
+1. ADOPTS the Revised Recommendation on Performance Standards for a Ship
+Security Alert System, set out in the Annex to the present resolution;
+2. RECOMMENDS Governments to ensure that a ship security alert system:
+(a) Ifinstalled on or after 1 July 2004, conforms to performance standards not
+inferior to those specified in the Annex to the present resolution;
+(b)  Ifinstalled before 1 July 2004, conforms to performance standards not
+inferior to those specified in the Annex to resolution MSC.136 (76).
+
+R05 Page 30 of 34
+
+--- PAGE 31 ---
+MSC 77/26/Add.1
+
+ANNEX 7
+
+Page 2
+ANNEX
+
+REVISED RECOMMENDATION ON PERFORMANCE STANDARDS
+FOR A SHIP SECURITY ALERT SYSTEM
+
+1
+
+Introduction
+
+1.1 The ship security alert system is provided to a ship for the purpose of
+transmitting a security alert to the shore to indicate to a competent
+authority that the security of the ship is under threat or has been
+compromised. It comprises a minimum of two activation points, one of
+which is on the navigation bridge. These initiate the transmission of a ship
+security alert. The system is intended to allow a covert activation to be
+made which alerts the competent authority ashore and does not raise an
+alarm on board ship nor alert other ships.
+
+1.2 Asrequired by its Administration, the competent authority receiving the
+alert notifies the authority responsible for maritime security within its
+Administration, the coastal State(s) in whose vicinity the ship is presently
+operating, or other Contracting Governments.
+
+1.3 The procedures for the use of the ship security alert system and the
+location of the activation points are given in the ship security plan agreed
+by the Administration.
+
+1.4 The ship security alert system may utilise the radio installation provided for
+compliance with chapter IV of the SOLAS Convention, other radio systems
+provided for general communications or dedicated radio systems.
+
+General
+
+2.1 Inaddition to complying with the general requirements set out in resolution
+A.694 (17/1), the ship security alert system should comply with the:
+following performance standards.
+
+2.2 The radio system used for the ship security alert systems should comply
+with relevant international standards.
+
+Power supply
+
+3.1 Where the ship security alert system is powered from the ship’s main
+source of electrical power, it should, in addition, be possible to operate the
+system from an alternative source of power.
+
+Activation points
+
+4.1 Activation points should be capable of being used on the navigation bridge
+and in other locations. They should be protected against inadvertent
+operation. It should not be necessary for the user to remove seals or to
+break any lid or cover in order to operate any control.
+
+(17/1 Publication IEC60945.)
+
+RO05
+
+Page 31 of 34
+
+--- PAGE 32 ---
+MSC 77/26/Add.1
+ANNEX 7
+
+Page 3
+
+5 Operation
+
+5.1
+
+52
+
+The activation points should operate a radio system such that transmission
+of the security alert does not require any adjustment of the radio system,
+i.e. tuning of channels, setting of modes or menu options. Operation of the
+activation point should not cause any alarm or indication to be raised on
+the ship.
+
+The operation of the ship security alert system should not impair the
+functionality of the GMDSS installation.
+
+6 Transmission of security alerts
+
+6.1 Inall cases, transmission initiated by security alert system activation points
+should include a unique code/identifier indicating that the alert has not
+been generated in accordance with GMDSS distress procedures. The
+transmission should include the ship identity and current position
+associated with a date and time. The transmission should be addressed to
+a shore station and should not be addressed to ship stations.
+
+6.2 The ship security alert system, when activated, should continue the ship
+security alert until deactivated and/or reset.
+
+7 Testing
+7.1 The ship security alert system should be capable of being tested.
+
+RO05
+
+Page 32 of 34
+
+--- PAGE 33 ---
+11.6 Appendix VI - Inmarsat Satellite Coverage
+
+[EEEEREEREER)
+
+P s P e P eneencic
+
+11.7 GL Certificate of Conformity
+
+RO5 Page 33 of 34
+
+--- PAGE 34 ---
+BpeAprowd Grtficte
+
+Germanischer Lloyd
+
+This is to certfy that the undemoted product(s) has/have been tested in accordance with
+the relevant requirements of the GL Type Approval System.
+
+Ceftficate No.
+Company
+
+Product Description
+Type
+
+Environmental Category
+Technical Data
+Range of Application
+
+5972813 HH
+Transas Marine International AB
+
+Datavigen 37
+43632 Askim, SWEDEN
+
+Ship Security Alert System
+Ship Guard IDP630
+C;F (transceiver); EMCT
+
+Ship Security Alert System (SSAS) equipment with an integral GPS recelver using
+the Inmarsat Machineto-Machine service consisting of:
+
+- Skywave transceiver IDP-690 (IsatData Pro);
+~terminal box Transas type 18 088 0
+- control box Transas type 18 088 001;
+~securlty alert button Transas type 16 083 002.
+
+Power Supply : 9V DCto 32V DC
+
+Degree of protection: IP67 (transceiver)
+
+.0.7 or later; Script version: 1.02 or later.
+
+Tests and evidence according to Requirement Class 1.
+
+Test Standard IMO Res. MSC.147(77), A.694(17); IMO MSC/Circ.1072; IEC 60345 (2002);
+Guidelines for the Performance of Type Approvals, Chapter 2 (2012-08).
+
+Documents Test report : Nemko 17609-1R2TRFEMC, 179609-1TRFSAF, 179609-1TRFWL;
+Mariner Systems TL1585, TL1585-ENV; Inmarsat Cert. IDPSWI003, IDPISWI004.
+Documents: TechnicallUser Guide, Ed. A, Rev. 01.
+
+Remarks None
+
+Valid until 2018-01-14
+
+Page 10f1 Type Approval Symbol @
+
+File No. LE03
+
+Hamburg, 2013-01-15
+
+Germanischer Lloyd Marco Rinkel Hartmut Kuhn
+
+s corfcate s s on he basis of‘Regulaons o he Perfomance f Type Tests,Part 0, Procadur.
+
+Intamet Publicaton: GLApprovals
+
+RO05
+
+Page 34 of 34

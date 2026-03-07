@@ -1,0 +1,3726 @@
+FILE: M-41 AUXILIARY BOILER (COMPOSITE TYPE).pdf
+FOLDER: BOILER
+DATE: 2026-03-07 10:23:42.785435
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+AUXILIARY BOILER
+(COMPOSITE TYPE)
+
+i
+.
+
+i lechiienl ietntent 1 Uhs SGne Ly o ‘
+
+Kawasaki Lleavy Industries, Ltd (K11 and may
+
+not be copied, nor diselased Lo any third party
+1 without KIT's prior written consent
+
+CHECKED
+
+CWG Na
+
+MANAGER ___
+
+G Er vZL&:A e
+
+— SCALE ik JOBNO =
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+W2 sm e E@
+
+KAWASAKI HEAVY INDUSTRIES, LTO SHEETS mcL coven
+
+--- PAGE 2 ---
+Al
+% G N
+N D [
+
+g4 t18 (MIN 13.8) ' L .
+
+g2 . 3 bl NOTE
+
+S i E. 1
+o 1 Qeg.o b 1. MATERIAL AND WORKMANSHIP SHALL BE CONFORME
+i esecorate te) E - L
+5 2R 3| TO NY RULES.
+
+2. QUANTITY OF MFG OME BOILER PER ONE SHIP.
+
+1
+f
+1
+|
+i
+T
+\
+|
+|
+]
+|
+|
+ro
+~
+=
+DO
+50
+2264
+
+" 50 i 34 3. DETAIL OF WELDING PART. SEE DNG ND. ( A-.... )
+5 ]
+14 #2400 I 22 Crrs)
+4 285 NS LIST OF MATERIAL
+2 2
+. 5 | corc[BOTLER PLATEl ROt LER Tuge [BOIEER, ] sTeEL pipe
+° :Ha 100
+< | 30 105 T3 $50 o8 | 08 @
+i SECTION
+= DODINTTE sy i 13 ato-on  |rs3e0|Twsen| 410-1 FN STPT 370
+E3 3V
+
+TUBE OF EXHAUST GAS SIDE
+
+TUBES TO BE EXPANDED LIGHTLY
+BEFDRE AND AFTER WELDING
+
+1 1207_T0 BE REWQY
+/———EIL BOILER
+37{FURNACE MANHDLE PLATE 1
+
+36[R (B 36) FB25x16
+36[R1B FB3Bxt6
+34|RT8 witp sTEeL{98] FBSOxts
+33|rie SHs00 3] FB50xtS
+32|R1B FB50xtE
+31frip FB50xt6
+: 30
+3 29 41D SreeL
+28]BASE PLATE
+27[DOWNCOMER TUBE | §TAT 370
+26[STAY BAR BOILER
+25[8TAY BAR STEEL BAR
+[24|WATER TuBE 208
+23[STAY TUBE BOILER
+°? 22[WATER TUBE TUBE
+= 12 21]8TAY TuBE
+DOWNCOMER TUBE 20{MUDHOLE PAD
+19]MANHOLE RING BOILER
+18[STAY WASHER PLATE
+17]GAsSET 2¢
+16[SIDE PLATE 1
+15[SIDE PLATE WiLD sTeEL| T
+14]SIDE PLATE 58400 1
+13[si0E PLATE
+12[TUBE PLATE
+11 TUBE PLATE
+10[TUBE PLATE
+9 [CONNECTION RING
+FIRE HOLE PLATE
+FLUE HOLE PLATE
+FURNACE SHELL PLATE]
+FURNACE END PLATE
+LOWER SHELL PLATE
+WIDDLE SHELL PLATE
+UPPER SHELL PLATE
+END PLATE
+
+PTEN HATERTAL [aUAl REMARKS
+
+DES 16N SECTION JEVDNK WO 2328
+APPRUYEL op ABUSTOMER KAYASARI HEAYY INDUSTRIES CN., LTD,
+
+- cRECKE! il I 1456
+TUBE OF FIRED SIDE I‘ el DEVC2-200/140-24%
+B
+A
+
+22
+
+2190
+2200
+
+8034
+
+»@n <
+
+690
+
+22
+
+g’ i
+
+1 GO
+
+500
+
+305x405
+
+430
+
+BO3LER
+PLATE
+
+TUBES TG BE EXPANDED LIGHTLY - ———{PRAWN | T. KONDOH
+POSITION OF BEFORE AND AFTER WELDING FB.23. 85 1c20 BAILER PROPER
+LONGI. JOINT 180 FiB. 10 95]scALE Mo
+
+1 N
+i DATE size| Al Jormwine mo.| A-33708
+
+REyISion  [DATE |0CT.30.'94]| OSAKA BOILER MFG. CD.. LTD.
+
+--- PAGE 3 ---
+COPY
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+
+*%kx% FACSIMILE  *kakx
+
+ABate_Apri 7, 2000 No. of Pages (nd, cover): 5
+To: TECTO From:
+Att'n: Gilbert REUSE A. Ooi
+Superintendent Machinery Outfit Designing Sec.
+Ship Design Department
+Ship Division
+1 Kawasaki-cho, Sakaide
+Fax No.: 32 3247 5093 Kagawa, 762-8507 Japan
+Fax No.. 81877 46 8035 or 0144
+Re: S.No. 1456 FLANDERS TENACITY
+Inner Drawing of Aux. Beiler EGE Section
+
+in reply to your request, we are sending the inner drawing of the aux. boiler EGE section by
+fax. We also have sent it to you by courier service.
+
+Best regards
+
+--- PAGE 4 ---
+16(R18 36] FB25xt6
+
+35}R18 8 FB38xt6
+
+34[R1B MILD STEEL| 98| FB50xt§
+
+33[RIB SM400 FB50x16
+
+32|R1B FB50xt6
+
+oo feo
+
+31{RIB FB50xt6 |
+
+29 MILD STEEL
+
+55400
+28|BASE PLATE 1
+~ 27| DOWNCCMER TUBE STPT 370 1
+~ 26[STAY BAR 501 LER ]
+
+25|STAY BAR STEEL BAR |y
+24|WATER TUBE 206
+
+. 23|STAY TUBE BOILER  [127
+B 22| WATER TUBE TUBE 544
+w==de | 21[STAY TUBE 118
+
+) 20|MUDHOLE PAD 4
+
+19[MANHOLE RING BOILER 3| 305x405
+
+181STAY WASHER PLATE 1
+
+17]GASSET 24
+b 16[SIDE PLATE 1
+16{SIDE PLATE MILD STEEL
+
+|14]S1DE PLATE 554
+
+12{TUBE PLATE
+
+i1]TUBE PLATE
+106[TUBE PLATE 2
+
+1
+
+1
+
+13|310E PLATE 2
+i
+
+1
+
+2
+
+9 |CONNECTION RING 25 USE
+
+FIRE HOLE PLATE
+
+FLUE HOLE PLATE
+
+FURNACE SHELL PLATE] BOILER
+
+APPROVED
+
+MIDDLE SHELL PLATE!
+
+20 APR 1995
+
+UPPER SHELL PLATE
+
+1
+8 1
+7 1
+5 . PLATE !
+5 | FURNACE END RLATE !
+4 | LOWER SHELL PLATE i
+3 1
+2 1
+| 1
+
+END PLATE
+
+Approve i T E M MATERIAL [0Ua] REMARKS
+ppro
+
+il DESIGN SECTION [WORK NO. 12326
+
+—] apPROVED
+
+D/ s CUSTOMER KAWASAKT HEAYY INDUSTRIES €D.. LTD
+=
+
+% CHEGKED - SHIP Noo pomeln 1456
+DES!GRER]
+
+prawn L 7. KONDOH
+
+OEVC2-200/140-24w
+
+B 17EB 23.° 86 20 BOILER PROPFR
+A LFEB. 1C. " 95 [SCALE 123
+[T LATE S126 | A1 JDRAWING NO. A-33708B
+
+REVISION CATE "|0CT.30.'94| OSAKA BOILER MFG. CO.. L7D
+
+--- PAGE 5 ---
+3.8
+
+44
+
+270°
+
+=
+f i
+o 2 s 2
+_ o a B .ff\ B U\ ne
+— TS <o 2o
+sT'ev] "= =
+o 01
+. EETA N .
+£
+£~
+™
+(=
+AN o
+Py [=3
+S~ P
+8
+& R N
+mM = gol] o8 @
+A o I
+= ==
+== ) o
+o > <
+%H IO —
+& O
+o [FEjE=o
+S [Sp 1Y
+o
+-
+o - %
+. <
+(=]
+- =
+=
+P <
+2 YA
+-
+@
+o
+
+--- PAGE 6 ---
+- }oez
+o | | pud
+! L o A
+N $s & ]
+T
+s w0
+515 Mole 515 fhote
+8, 3-8 | MATERIAL AND WORKMANSHIP SHALL BE CONFORMED
+251 TO NV RULES.
+— 10 NV RY
+g0
+—_ , | 3. QUANTITY OF HFG ONE BOILER PSR ONE SHIP
+* o -
+P 4 - P4
+3 2 2
+BN S = 3. UETAIL OF WELDING PART. SEE DWG NO. ( A-. ... )
+1 H I
+21
+ws || 1 s LIST OF MATERIAL
+10 K A =
+b ffole flepele 801 LER PLATE| Bolcer Tupe | BOLLER o d sTeeL pipe
+RULE EL A
+ke v e | A= O~E0~B8) 2T @
+i ' P ! T
+— — Ny 410-0N | T3360|Tw360| 410-1 FN STPT 370
+- \_T
+Ry, 36
+TUBE CF EXHAUST GAS SICE
+120° 70 BE _REMOVED
+= BOILER
+* | 37| FURNACE MANHOLE PLATE 1
+SR ' 1 FHE . 36 FB25xtE
+N . / 35078 P 3 | FB38xto
+it - i T [ - . T - N -
+
+--- PAGE 7 ---
+8034
+
+LI
+1
+!
+
+L1 (MIN 13.8)
+
+2 8]
+< Tl o b
+4 52400 ]
+z (O sos ]|
+E @ﬂ 10 0
+h L 3¢ 40t
+a1
+F
+_ 5 :al QP Il ) \@
+[n] S,
+| M
+B S % =
+14 82400 .
+& @ Q RO ' ¢ee@ g@ -t
+; g7 M C‘ H 7 > Y
+i} _J,_ D D | 2| = J@ Glla g%L, \Z, _‘L
+LI} — = =
+
+--- PAGE 8 ---
+DRAYIRG LIST
+OSAKA BOJLER MPG. CO.. LTD.
+
+FINISHED PLAN
+
+. KAWASAKI HEAVY
+SHIP YARD:  TNDUSTRIES CO.,LTD.
+
+SHIP KO, : 1456
+
+RORX NO, * 12326 96 1 17
+
+COMPOSITE SYSTEM VERTICAL
+
+RAMWE © OBVEZ  yumpp qupr BOILER
+
+¥o. RANE DRARING 0. |
+1 | seEcTFICATIONS A-33718
+
+2 | FLOW SHEE? A-33668
+
+3 | GENERAL VIEW OF BOILER o
+
+4 | PosITION OF EXTERMAL FITTINGS 2-3367 B
+
+5 | FURNAE 3-3375
+
+& | LAGGING OF BOILER -—' 2-3377
+
+8
+
+9
+
+10 | sarmry vaLve c-1776
+
+11| LIST OF VALVES & FITTINGS o
+
+12 | WATER LEVEL GAUGE 02-1008N
+13 | PORTABLE WATER WASHING TOOL R-5365
+
+1 4 | TUXED TYPE STEMR SOOT SIOVER FOR A3370m
+
+16 | VATER LEVEL CONTROLLER —
+
+17 | WATER columy R-5775¢C
+
+18 | MANOMETER. & FITTING R 8, Ro6865A
+1 9 | EXPANSION BELLOES §8-C20131-130
+20 | OIL BURNING APPARATUS __
+
+21
+
+F Ko,N5-1-3-6
+
+--- PAGE 9 ---
+o ot 0 e ]
+SPECIFICATIONS
+or
+AUXILIARY BOILER
+
+(OEVC2 ¢ 2400)
+
+|
+
+YARD @ KAWASAKI HEAYY INDUSTRIES €O, LTD,
+
+SHIP Ko, @ . 1458
+
+DATE: OCT. 31.1994_
+
+OSAKA BOILER MRG, CO,, LTD.
+
+| DRAWTNG 0. [ A—33718B ]
+
+F No. uB-3012
+
+--- PAGE 10 ---
+ol
+
+Type - Composite system Vertical Water Tube Bailer (OEVCZ ¢ 2400 )
+No. of Mamufacture : 1 set / Ship (Total 1 set)
+Rules Dy
+DESIGN PRESSURE
+OB T A (GAUGE) | kef/en® 8.0 B
+NORMAL WORKING PRESSURE
+% B h (GAUGE) | kef/en® 6. 0
+OPENING PRESSURE OF SAFETY VALVE -
+EERRHE D (GAUGE) | kgf/cn® 8. 0
+IIVDRAULTC TEST PRESSURE
+| AJEF 2 P AH (GAUGE) | kef/en® | . 12.0
+STEAM TEMPERATURE SATURATED TEMPERATURE
+%A B c |#wm B E
+TBED WATER TEMPERATURE ;
+# K W < 60
+EVAPORATLON OIL BURNING SIDE | EXHAUST GAS SIDE
+ke/b [ QCR) 90 % HCO[MCO SUMMER
+[ % % =2 1 2000 1400]| 2140 |
+HEATING SURFACE |
+= #H m R n? 40 233
+YOLUME OF COMBUSTION CHAMBER ABOUT
+BB o= oE B w 3.4 -
+VOLUME OF STEAN SPACE ABOUT
+kXA oW Om W . - 3 8. 6 _ |
+ATER CONTENT ABOUT
+kW o W @rwwLy | wt | 12,14
+WEIGHT OF BOILER (OHLY PRESS. PART) ABOUT
+KA T RKGER WES® | v | 24,18 |
+WEIGNT OF BOILER WITH ACCESSORY ABOLT
+BATEWERE  (ORY) t 36.3
+VAIN ENGIN
+= BB — -
+VOLUME & TEWPERATURE | kg/h 90% |
+EXIAUST GAS | & 2 B A& X HCO 89870 X 233
+CONDITION | (BOILER INLET) c 100%
+KA F A _ Mo 109200 X 254
+| HEWAGEE | DRAFT L0SS 100%
+fim B R %k | omda | MO < 190
+{ TYPE OF BURNER
+S = F B R Rotary cup burper,
+FIRING SYSTEM OIL BURNING AT FORCED DRAFT
+[ AN Mo ® B o %
+i KIXD OF FUEL REAVY FUEL OIL. DIESEL OIL WASTE O1L
+B o @R & 3 600 St cthIT F4—¥ i R
+DESIGR SECTION WORK NO. i 12326 N
+OWNER | KAWASAKT HEAVY TNDUSTRIES CO., LTD.
+‘APPROVED
+STIP 0.
+CHCEKED . 1456
+T. KONDOH ©BVCZ 6 2400)
+DRAWN PARTICULARS OF BOILER
+o K. YAMASRITS i KA TEH
+DRAWING RISTORY DATE DRAWING DATE_ISSUED DBRAWING NO. i
+OCT, 31, 1994 A - 35724
+
+OSAKA BOILER MFG. CO., LTD.
+F No. ¥B-3012
+
+--- PAGE 11 ---
+P2
+1, Test and Inspection,
+Test and inspection shafl be made pursuant to classification society’s rule under
+the presence of orderer and surveyor of the classification society and shall succeed
+in such test and inspection,
+
+2. Constructionms and Materials.
+
+2-1 Boiler preper,
+The boiler proper shall be weld construction consisted of upper drum, intermediate
+drum, lower drum, furnace, water tube section on exhaust gas side, water Lube ang
+downcamer section on oil burning side.
+Water tube group sections on both the upper exhaust gas side and on the lower oil
+burning side shall be completely separaled from each other,
+Water tube shall be inserted into the plate and both ends of the water tubc shall be
+weld before expandiag the tube.
+Mazhole shall be provided to afford entry inte the Inside of the boiler.
+
+Following materials for boiler proper shall be used :
+Shell plate, End plate, Tube plate and furnace.
+~ Boiler steel plate,
+Kater tube and Stay tube. —- Boiler steel tube.
+Downcomer tube. ~—— Carbon stecl pipe for high tempercture service.
+
+2-2 Internal fittisgs of boiler.
+Inside of the boiler shall be equipped with the following [itlings.
+
+Baffle plate of stean outlet L set
+Fecd water internal pipe. 1 set
+Surface blow off interaal pipe. ——— 1 set
+
+2-3 Smoke box.
+The smoke boxes on both the exhaust gas side and oil burning side shall be stecl
+plate made casing provided with cleaning hole to facilitate check and cleaning.
+Refractorics shall be provided around each water tube group seclion.
+
+2-4 lagging.
+Outside of the boiler shall be provided with weans for Tagging protecled with
+galvanized sheet.
+
+3. Accessories,
+
+3-1 Valves.
+Details are shown as attached 7 List of valves & fittings” .
+
+3-2 Water level gauge.
+Type  Reflex type with cocks,
+Quantity @ [ set
+
+3-3 Pressure gauge.
+
+Type * Bourdon pipe type.
+Quantity : 1 set.
+
+F No.¥B-3012
+
+--- PAGE 12 ---
+3-4 Soot blower.
+Type 2 1) 0il burning side ——— Fixed position type.
+2) Exbaust gas side —-— Stationary rotary type
+Manual operation. (Steam jet)
+
+3) Commom use ~—-— Portable type water jet system.
+Quantity @ 1) Qil bureing side —— 3§ set
+2) Exbaust gas side -——— 2 sets
+3) Common use —==1 set
+
+3-5 0il burniog apparatus.
+Maker © Sunfiame CO., Lid.
+Type  SSR-2 Rotary cup burner
+Quantity @ 1 sel
+Details are shown as attached " Specifications of oil burning apparalus” .
+
+3-8 Water level controller.
+Maker + Yamatake - honeywell Co., Ltd.
+Type © Poneumatic differential pressure Lype.
+Control : Piston valve ON-OFF control
+Quantity © 1 set
+
+3-7 Floatless switch
+Quantity @ I set
+Transmitter signals are used for high / low water level alarms and the lowest
+water level fuel oil cut - off,
+
+3-8 Manometer of Boiler Draft.
+011 burning side @ 1 set
+Exhaust gas side @ 1 set
+
+4. Spare parts and tools,
+
+To be supplicd accordance with classification socicty and maker’s standard.
+Details are shown as attachcd ” List of spares & tools” .
+
+F No. MB-3012
+
+--- PAGE 13 ---
+OPEN/CLCSE SIGHAL
+
+PISTON VALVF
+
+T0 ENGINE TO BURNER TO DUMP
+CONT.” ROOM CONT. SANEL VALVE
+PRESS. CONTRO
+=
+WATER. STEAM, O1L P1PE LINZ S " z SAFETY VALYE 4 ok
+N SHE ot sE PRERN . CHESF ITEMS ARE SUSPLIEL BY 3MIPBJ'LLE2
+mmmmmmm—m—eweee  CCNTROL AIR PIPE | INF z < “ MoPOALARM —— 7. 8K
+4 B E ot PRESSURE TRAWSMITTES | 1 | Wik TLST CBCK
+—————————— POWER ELECTRIG WIRING = s g IR PRESSURE TRARSMITIES | 1 | W1 F 1£51 CicK
+—— - CONTROL FLECTAIC WIRING = E w B |PF3/4| RENTTE “HERMDNETER ]
+w z 2 B DUME VALY -t
+@ EH B 2 SET PRFSS. 7.0
+- =j\ 2 =
+100 FQ’S/ e BURNER OFF —— 5%
+STCAM 8z LOW COMBUST. —— 5. 3K
+MR, PRFSS.——— 6. CK
+3 4 - WiG- COMBUST "
+o 5 et T BLRNER ON - EK THESE ITEWS ARZ SUFPL ED 3Y CSAKA BUILLR
+Exp FIPANS AN JOINT ]
+2 win “ VP ALAIN—L— 5 0K 6 Sowar ket coix 5
+° S STIFND. D ¥AivE 1
+. 6 I
+HoLo& 1oaal c5 PEESSURE SWITCH b
+> B Gkl EARIEA] ca roTion vaLvE ]
+3 PRESSURE DAvGE ]
+N cz LEVEL CONDENSER [
+<t
+ci /P TRANSKITER .
+- v7 —-E¥EL CONTEOL
+vie ! o’ F B2 PRESSURE 5¥1-TH 2
+(A J4 WioE LEvE B D1 BURNER 1
+pad o T 4100
+1z V3 Vi V7 v1
+< T V. v1-1 0> v7-1 Q<G @ M1 |FT3/8[MINIATURE vALYE 3
+- = d - w3 [ NaNCALTER ?
+TO BURNER CONT. PANEL - i A =z FEED VALVE P TUERMIMETER :
+& & z X TLOSE 5
+N = _ Y eLose F waTER Co.unn) ]
+w T N N 7 N O N N SR R R R o 5 F—irs 1=
+S B - Y
+H T o= 3 - vigz 75 [waite wasving ToaL I {M42xP2
+o TEY £XB =2 NW L —— + & 70 [ETER STor TALvE 3
+=5| =g s 5 - Ero"5001 B etk ]
+o= = j‘> Ly 40 {5007 BLOWER 2
+o o o STER STOY TALTE
+N = iz Fn g oo R 2
+= o 2 FSED VALVE
+H S = : OPEN -8
+wl | 40 @
+=S WT\ > 03 100 | SHDCE BCH DRAIN SUlckl | 2
+o 5 = CD N o nJ 40 |sMOtE Box ORAIn DUT. [
+J KRE z JOW LEVEL - ; 3
+=\ X 5 E IR 169 U1 | 80 | FURNACE ORAIN CUT £1
+S ERE x
+E = oW LEVEL .
+£ Facut 32
+-~ < We ] Ty | snesrr o .
+- W14 | 2% | FLOATLESS S¥ T0H 200 /hLSE| 2
+REE V3 | o [wAveR Lever comtmoter | -
+z| | E lapnr wive Giia siul
+E TTe [ AR CONELE
+ERE ) viz | b L300t vavEdire S ing)
+z| |& V1[0 AR vENT vens
+ENE 10 | 6 |esire eata sepii me |
+AR SUPKLY M42x2P = T T - - i Ve PRESS Switch 00T va vE| !
+o l va- PRESSUSE aAvDE :
+ERESH WalfR LINT 08 . o ' VR~ [2F:72]purssue GauGe cock |
+W, LS ,PD“UWJRE‘ v 1¢_|eress. aavar_Ront vaivr | 1
+FURNACE SRNEL e Saa % coes 2
+- MANHOLE f———— !
+Ly I I WATER GAUGE Z
+007 - ¢ vi ! WATER GAUGE 50TK 2
+. OIL LINE ‘ ; TS
+Yo ¥ Y ! ; varre Guice tear tiv [ ¢ |
+A A A j VG W01 T0v BLON-0FF vAvE | |
+A A A __ Bl . SEE BURNER FLDW s+ o Vs | 25 |susrace sLow-crr vaLve | 1
+Ve 1| £0 | ave reeo warer cusox vave | 1
+[P Ve | 40 [ rreo narzn stos vaue | 1
+V31| 40 | WaiN eres warer curch vatve | 1
+AR SET PRESS n s
+SUSBLY 7 Ke/omt 7 R - V3 | e [wamreer wre ster wavr | |
+e ey 3 3 V2 00 [sTeam 2 op varvr 7
+! f - Vi 40 [sarerr vave 2
+4 © 7
+ce { - - o [soRE [ Qunt|  REMARKS
+£y i
+DESIGN SECT au[XORK MO aat
+S<—{A—> <DL avogey] _ JSUSTOMER KaAsAC) HERY INIUSI IS CO LTO
+A T BIEED T a5
+s
+D<) > D<) QEYCZ  GDMPOSIIL BOILIR
+s | T KONDOH
+EN KTERTRET FIOW SH
+FFFD WATER PUMP ST e seate o il
+PP YeTS S17E] Al [erawivg nO | A-33658
+Frvicin [BATE | 0C1 26.°04] USAKA BOI(IER MFG CO . LTC.
+
+--- PAGE 14 ---
+M/EZ GAS
+INLET
+
+SMOKE BOX
+MANHOLE
+
+N.W. L.
+
+R
+
+INSULATION
+
+M/E GAS
+OUTLET
+
+WATER TUBE
+
+H MANHOLE
+0
+
+k| SMOKE BOX
+
+[| ©OTL BURRING
+
+V’ =1 GAS OUTLET
+e= CLEANING HOLE
+
+I-DOWNCOMER
+
+TUBE
+
+\MANHOLE
+
+FRACTORY MATERIAL
+
+prawn | T, KONDOH
+
+SCALE 4:30
+
+DESIGN SECTIONT |WORK NO.
+approveD] CUSTOMER
+CHECKEDL/Jé B
+o5 16ER]
+
+OEVC2 GENERAL VIEW
+COMPOSITE BOILER
+
+oF
+
+DATE
+
+s)zg
+
+Al IDRAWINE No. |
+
+REVISION
+
+DATE | 48 JAN. " 93
+
+OSAKA BOJLER MEG, CO.. L7D.
+
+--- PAGE 15 ---
+J15 F1805
+
+A-TVPE #1350
+
+2989
+
+789
+
+[KEE
+
+350
+
+F7805
+YPE #1300
+
+gy S —
+
+@ 1-¢5
+AR HDLE
+
+.o d 1420 - it |
+[ TENGI. JaINT !
+n 0° LCWER !
+1
+= g B | \ =
+= 7 - - - 90
+270 380 278 !‘ deTa L cF §3
+i
+h
+il |
+i— :
+~hoL18 5K 40DA
+REED
+)
+NOZZLE H
+40
+39
+se HUNG ING LG 3 |50 610 126
+37 IPF3/4) FOSS FOR ®EMDTE THERMOMETCR 1 -
+‘ 33A71HG 7 [ 200 FBI00/
+GRATING 5 - 1 55%f5x6
+I NAME PLATE [
+=4 CARRING BASFE 2 9
+© T _FOR MANOMETER 2 MANTHE £ R
+1 T BOSS “0R MANUMETLR 3
+T BOSS R _THFRUYDMETER 2
+- =| 5001 BLOWER D033 2
+‘e = 0.0.1497 -l = SD0T ELOWER SEAT 3
+= Is 2 5007 RLOWFR sTal 2
+i~ D@k” | - FJINACE $30f CRAIN NDZILE] |
+= Q DRAIN HD77LE !
+N x o ot DRAIN NOZILE 7
+300%400 CLIANING H 3
+h — SURNAGT WANHOLE [ e
+= BURNER Sti PLATE !
+= HANGING LG 2 |50 P
+#'30 HUBKDLE P I A
+| ole 18 [ --- |205x405 MANKDLE T -
+e 7 ROLLING 5147 5 150 ---- RN
+- T - i - - T 15
+o 2 = 2 15
+e ,“;; 45 T4 ] 25 [-LOATLESE SWI°Ck ROQT ¥ SEAT| 2 [ 1205 5 0K
+@ | =) [EN I LT T_R09TY SEAT| | | 2E0 |Ji8 10K
+Z WATER ENE: COMT. RIDT V. SEAT I 120 [J15 1¢x
+= g 1| vo JArR vEWr vALvE SFAT | 1 | 135 |SCRIACD
+1 - /3\ 2t 1C [ 16 [ BUILER WATCH SAMFLING V. STAT 110 [SCREWED
+z 9 1o | pe*e S¥:TCH ROOT vALVE SEAT |10 [SCREWFD
+7 -~ s | 1o [eeess Gas6r s00 vatve seac| 1 |10 |scoewkn
+o - ;@ . - o o 7|20 Jwaiew sauae pacs vave seat| o [ 120 [0S ok
+=l P p 2| I & | 25 [8cTT0N s1es-0%F vatve staT| 1 | 120 [:18 1ok
+e | (26 . S NN 5 | 25 [suRract ecaw-orr veuws sear} 1 | ec| .15 1e%
+Vel » Q‘é of | | 4 | ae favx freg vk soe v sent] 1 Jrec |ty 16
+Lo - GB 25 ol 5 3 | ac Jwan rrro werRsior v sear| ¢+ | 2oy s sk
+B I i — of @l ™ 2 | 102 [warN siEsM sTOP ¥ T Tieolurs 1ok
+% @ 455 I 1| 45 [GAFETY VALVE 3En 7 Jiao [T
+2 - ) = " BORE NoANE e ReNarks |
+| EE. (,‘ - @ ! bEsiGn SFeTion [WDRE NE 12326
+| 2ls S,I _ ,@ \\,‘y | - = i weed 2 £USTOMFR EANRSACH HLAVY INDUSIRIZS (0 LT3
+t t o _ | 1 CHFCRFO| . 1P K5 1455
+o I o TESGNER|
+hd 0.0.2428 i b 00V02-200/143-24w
+_15-%#25 HOLES [_ 52520 J oR reN
+T AL ’J»\ ] - POSITION Ul LXTERNA_ FATTINGS)
+. 3 FETIEIIRETY NS Y
+T T s12€ | Al fomaw v6 vo. | 4-33678
+VIEW "B -"B" xevrsion |24Te sl 30, 94| 05AKA BCILER MFG. CO. t1D
+
+--- PAGE 16 ---
+DRAWING LIST IR
+Yo, DRAKING NEUE DRAYING Ko REMARKS
+w5 BE 4% % 0mE 5 oW
+':}LJRNA;:; A-3376
+
+2 | REFEFVA I AN
+
+FURNACE SOOT DRAIN MOZILE | g_g43q
+
+BURRER SET PLATE
+5 | A R-6194
+SUPPLY SCOPE : FOLLOWI NG NOS.ARE SHOWK TN FURNACE.
+Bl FTRESRAFHMIEINLS.
+HAKER SHIPYARD
+A Y
+MATERIAL
+¥ o
+PROCESS
+m T O
+FITTIRG WORK
+B 4 o
+LTiEtnEE
+
+1. FEFEMTERAOEVWENBSIC, TEORIFDS HAEBMHE , BB
+
+THEPHIETOLHITOZ L,
+
+2. RYERIVS R 7REFBBER->THBOE
+
+CAUTION FOR WORK
+
+1. The work of some parts of whiteh na detailed demestions are shown
+
+in the drawing shail be appropriately excuted in the field so that
+
+such work wiil not interferc with other works.
+
+2. Screw parts and gasket are to be fasiened after sufficigntly
+
+coating the graphite,
+
+OSAKL BOTLER WFG. 0. LT0. oyep KAMASART HEAYY . :_wom\' Ko. 12326
+SECTION HEAD | SHIP o. 1456 (um DRAVIKG | NOV.1.1994
+CHECKED BY OEVC2 IoaTE s55UE0
+
+DRAKIRG BY T . KONDOH FURNACE SCALE
+
+TRACING BY P &= [DRAHING Ko. | A-3375
+
+F RO.MB-2-2-5 QSAKA BOTLER MFG CQ.,L7D.
+
+--- PAGE 17 ---
+| EXPANSIDN GROOVE
+
+k]
+
+140{200)
+
+100(160)
+r
+)
+&
+&)
+
+215
+
+1 4 | SUPPORT SUS 15 FB25x
+] 3 | surPORT SUs 24| rFBasxe
+i
+
+2 | INSULATING MATERIAL [SIL1CA BOARD| 28 [ 910x150x'50
+
+75 #1663 . T
+_ . - 1 [ReFracToRY wATERIAL| PLASTIC i3 pivigs cereE
+2 =
+‘» [ “%;‘ FTEM MATERIAL jaua REMARKS
+
+W DESIGN SECTION [WORK KO 12326
+¥ 4 L spRten] CUSTOMER AMASAKE ULAYY INDUSTRIES CO., LTD.
+
+19
+
+50
+
+T : T PR SHIP Ho. 1456
+3 0gsIGuER T. KONDOH
+
+QEVC2-P00/140-24%
+ORAWN
+
+FURNACE
+1: 3 3 3
+T DATE SIZE | A3 |ORAWING NO A-3376
+REvisioN |OATE | NOV. 1.°94| OSAKA NOILER MFG. CO.. LTD.
+
+120
+
+SCALE
+
+--- PAGE 18 ---
+THE PLUG DETACHABLE TYPE
+
+1
+
+q t
+—|
+
+3 | FLavseE SS oo /. \T2ssk - Sph
+2 | Svprer s 400 s As3xxtd &
+/| PIPE SUS z S0A seh o
+Ne. 1 USE [SPARE|TOTAL| WEIGKT
+
+o | USE [SPARE[TOTAL
+
+MA;N ITEM | MATERIAL quavniTy | (o | REMARKS
+ENGINEERING DEFARTMENT WORK No.
+DEPT. |
+
+EF
+
+DRAWER ]
+
+TRACER |
+
+SCALE FURNACE S00T DRAMW #0ZZLE
+
+[ T A VIN P
+e mistory | RATRnG [rae 25 799 | R DRAVEGT S _ g3
+
+919, 000N OSAKA BOILER MFG. CO. LTD,
+
+--- PAGE 19 ---
+¢ 200
+
+Lo
+el
+
+[ 27)
+
+2| wrE wEr
+
+SYUS /
+
+/| pLUs
+
+PejCasT
+CASTAlE 3/ oR ERUIV,
+
+T,
+oF
+MARK
+
+ITEM
+
+USE [seane|ToTaL| wic
+MATERIAL QUANTITY | ) REMARKS
+
+ENGINEERING DEPARTMENT
+
+WORK No.
+
+DEPT.
+CHIEF
+
+SECTION
+ChigF
+
+I T CHARGE |
+
+ENGINEER
+
+M«-y—f-
+
+DRAWER
+
+TRACER
+
+SCALE
+
+i
+i
+1
+
+PLUSG
+
+DRAWING HISTORY
+
+DATE |
+DRAWING LY 9 <923
+
+ey [Pl e_ 4552
+
+ARAKA RATTER MFEA OO 1T
+
+--- PAGE 20 ---
+22
+
+$500
+
+16-915 HOLES
+
+BURNER
+
+3 | PACKING ! MAKER SUPLY T
+2 | BOLT & NUT e e 165etsuizxast
+
+1 | BURNER SET PLATE |MLR STEEL ]
+
+ol N [ USE PO NI
+N TEN | MATERIAL o immy | s o REMARKS
+ENGINEERING DEFARTMENT | ORF Mo 5
+BT
+
+CHIEF OWNER
+
+o SHIP NO
+— 2
+
+DRAWER | .
+
+TRACER |
+
+SCALE ] BURNER SET PLAT=
+
+eawing mstory | PATE G lpecs e | B | [DRANING [ R 5194
+
+OSAKA BOILER MF
+
+CO. LTD.
+
+--- PAGE 21 ---
+1¢ { 100
+
+SUPPLY SCOPE
+TAPPING SCREW HEER
+
+i
+
+INSULATION
+
+MAKER SHIPYARD
+#-n B
+MATER 1AL o .
+i 1 SET
+
+EEEM
+
+PROCESS - o
+nr . -
+
+FITTING ORK N .
+ot @ @
+
+QUANTITY OF MATERIAL
+
+OF AR
+O H LRI LT e AR
+2426{5034|2136(2090(8_ 4l | 76m| 130 [15811set
+
+376x475
+
+8 | HEXAGONAL WIRE | HX-G #0.5x910
+% ' MANHOLL MUDHOLE
+1 7| PP RIVET ALUMIN]
+EEEneE Y T
+i _6- TAPPING SCREW SWCITTBA = J‘)'ATM!LM
+T T POP RIVET 5 |RON WIRE SWM-G1 o w4
+o O 7 [ wsuat ol [re B TEm
+i 3 | LAGGING COVER CGCC21 z STUYER ToLow
+4|0 2 ©
+| 1 | LIGHT GAUGE 5T S5C400 [75x45415x2. 3
+—t— A_ k3 1 TEM MATERIAL|QUANT. | REMARKS
+t DESIGN SECTION |VORK O 12326
+6] i © NOZZLE APPROVED] CUSTOMER KAWASAKI HEAVY [NOUSTRIES CQ.. LTI
+cHECKeD| SHIP o, 1456
+DEstGHER| T. KONDOH
+OEve?
+DRAWN
+LAGGING OF BOILER
+scaLe
+e oare s1ze | A3 [orawing o | A-3377
+REVIsioN  [DATE | NOV. 1.° 94| OSAKA DOILER MFG. CO.. LTO.
+
+--- PAGE 22 ---
+~®
+
+FULL BORE TYPE
+SAFETY VALVE
+
+2EXR£H
+
+OWNER KAWASAKI HEAVY
+“ A * INDUSTRIES CO.,LTD.
+SHIP NO, 1456
+#mOE
+SPECIFICATION
+B B
+SET PRESS.
+BUHLED 8.0 kg/cG
+GAPACITY (ONE se;) 2417 Ke/hr
+SUNTITY 2 eets
+
+TOA VALVE CO. ,LTD.
+
+AMAGASAKI, SAPAN,
+
+DWG NO.| C—1t776
+
+66. 10 200 (S)
+
+--- PAGE 23 ---
+TR
+3
+12
+3 TIEY 13
+N =)
+o) K A sus_don
+> 2: 3: awovsren, |
+< " i Swocv-v
+61 u] 159
+- - 12 (R e ]
+] < ToF even [Sair corn {
+5 - 3 3% B a2
+| Q cap o
+H |- el e v oo T rops o
+= Tl ephulee 3
+< = ©
+5 2 7 ]
+f
+g U ; B e S
+H ﬁ;—
+& I
+Sz <17 \
+|- 1
+A
+! 7
+‘ B
+3
+Lz Qaz -
+5
+SEAL WELDIN
+e
+R
+NN I==E VaARN
+- I ]
+S APPROX. 3~§
+8999
+FLANGE_ DIMME NSION SEE. 1-29“240" T1.68945)
+75y ST ¢8R (111 T-68945)
+ER T T T TRA
+sie fomesnien| S vdce [loay” [ omAY s
+¥ry LI N i
+e e 2 Jmeel| TOA VALVE ¢
+T cxe 127|977
+iy L N E¥
+wAs oty L 3
+A Tsnplsne] 142 L w [0 6 | laifes| o) [@eTEa] 0 ko TYPE Na. 1627
+205l S 86 [ 50 1270|325 | 75 nadyles fanslels| 15 [20]3 | 3 FULLBORE SAFETY VALVE
+sl oy .5 rell Y
+e o TRT e
+25 [3elais| 93 | 55 {200 [350] 82 lsly|en a2 liate] 19 |2 s0] & wEIT
+SERT
+0 [oneare[ 12| 70 a5 [3as [120 otlonslorsedbleas|sal 5 | 1 SIZE_20~50mm
+50 ",’;’um;f, 132 | 85 [39s [a4s {140 bokt) 02 |71 pedh]3a [calen] 10 |uw5,ua.| 4-06824A
+
+--- PAGE 24 ---
+s
+
+pT. 2
+
+[pr.2%! m; 4o | 22
+
+(2228 Hvrss" fl55* 2 705
+
+a
+3
+>
+$
+:
+<
+m
+T ial
+< 1 LE — ke
+[
+tion Force : 354 k
+HOMIAL S1ZE ‘MQL;WECO{'Q;*T CENTER TO FACE TOA VALVE Co., LTO.
+L ScRew, | ., SCREW
+'-u;dé “J\;,,a weEet @ ki | TYPE no. 1627
+i St sz |t L2 FULL BORE SAFETY VAL
+Q 1 25, G s Py
+® P £s, 1 36 5 T R7EEHR
+25 pT e | po tl too o2 o
+1ZE ~ 50mn
+40 p1.2 | ps.2 108 s SIZE 20-5
+L350 2% les2e | 140 160 MAN| 7. go520 L
+
+--- PAGE 25 ---
+ver { 5 ke/on
+
+RELIEVING CAPACITY OF SAFETY VAILVE
+By NV rules ( 1981 ) article &4 - 3 - 6 ~ B.106
+
+1. Designed evaporation.
+
+Heating Based %1 Evaporation | Peak load
+surfgece evaporation evaporation
+(n?) ( kg/m? ) ( ke/n ) (ke/n )
+
+0il firing side 2000
+
+l(?ixhaust gas side
+
+Exhaust gas
+economizer ) 2140
+Total _ —_— 4( / Lo
+
+#1 By IR rules ( 1978 Notice No.11 ) article 5 - 10 - 15.2.9
+
+2. Relleving capacity.
+
+Ay x(P+1
+
+E= T xa
+LBk P8E.1)
+2.5
+s 4534 kefh > 4 )40 ke/n
+Where
+E = Relieving capacity. kg/h
+A1 = The ageregate area of the orifices through 2
+the throat of the valve. £53 mn
+
+K = Coefficient.
+. { According to your specially approved value )
+P = Design pressure. Z &S var
+
+n = Quantity of safety valve.
+
+3. Particulars of safety valve.
+
+Type + Full bore type.
+Quantity : o2
+
+Nowinal bore : { mm ) 40
+Throat dta. : ( mm ) 29.5
+
+Yaker & Type : Toa Valve Co., Ltd, ( Full bore 1627 )
+
+0SAKA BOILER MFG. CO.. LTD.
+
+--- PAGE 26 ---
+R
+
+LIST OF VALVES & FITTINGS a NOV. 2.1994
+BT L
+KAWASAKI HEAVY INDUSTRIES CO.,LTD. 1456
+R WA G AT
+OEVC2-200/140-24% 12326 NV(EO) ,JTS
+J HYDRAULIC YEST PRESSURE
+unT DESIGN FEED WATER BOTTOM BLOW
+(GAUGE} PRESSURE LINE LOFF LINE OTHER VALVES
+var 1 8.0 20.0 20.0 16.0
+Kt/ -
+NO. NAME BORE | auat.| MATERIAL | 1S NO. | JiS MaRK REMARKS
+|
+' ! | |
+2 | steaw sTop vawve 00| 1 [0 Teos| Thioo i
+3| MAIN FEED WATER STOP VALVE 5 40| 1 | F7303|re1640
+317 MAN FEED waTen cueck vawve | 40| 1 | 8§ ¢ b | 7410 [FN1540L
+i | £3n |_schew pown creck
+o | aux o wartnstor wave | 40[ o | 228 ez FG1640 |
+2z
+- - 70 3E5
+o1 | ax e waren evex vawe | \ FALOFNIGA0L | e
+T oome hsT
+5 | SURACE BLOW-ORF VaLVE ’ 25| 1 | T | Fraoe 625 1
+- T
+6 | soriom erow-ot vawve 25| 1 | oo | epsokfrrases | PEAT s
+7 WATER GAUGE ROOT VALVE 20 Do. J( F7303 |FG1620
+: 2 | roreeo SPERATS ON UNDER FLOGR.
+-1 WATER GAUGE COCK } 20 Lkel st | F5900 | R L | WATH EACH 4 m WIRE
+7-2 | WATER GAUGE —Fés 0. J o | B9 x 1) R 550 wm
+[ CasT AT 7
+8 | PRESS. GAUGE RODT VALVE 101 1 | Growze l‘ F1289 | Gopvec |
+8-1 " PRESSURE GAUGE COCK PRl 1 DO. F7343 FCG20-% }[
+a ] [ T BV} |
+8-2 | PRESSURE GAUGE PR% | 1 | #7505 | T8Ecxo | sounoon ere |
+o T oness swmon moor e | 10 | 1 | Saove | 7% | Tooe |
+10 | soue varen swnc e | 10 | 1 | 900 |z | 000 ]
+1| v e SRR
+VATER LEVEL CORTROLLER
+12| RooT VAIVE pweren b6 L I G i R
+AE] DO. {STEAM SIDE} 15 1 DO. 5 F7304 FLig15 r
+- 3 T
+| BSEIES SN | 25| 2| co | e | s )
+11| BLOW OFF VALVE s || oo [ eaes | rees  OSCRSBT
+| I
+| ! 1 ]
+i ! "s0T-40
+102 | S0OT BLOWER 40 | 2 Josstonl —— : VITE TUBE ELEKENT
+STEAN_STOF VALVE FOR AST | H
+103) SooT srowsR o | 3| Ga8%ud vrson | FLAGKO |y Tupe mLmwERe
+] ]
+i | !
+
+DSAKA SOILER MFG. CO.
+
+--- PAGE 27 ---
+T -5
+
+Lree Lo pipe_[Sus s |
+
+3
+o howenizan rive
+
+s Jsoming wasnen [ Sn e
+*
+
+.
+
+nuT, gy
+el sour ﬁm.m‘
+
+e
+[cussion packm | T
+
+S
+
+s
+
+5 ]
+
+4+ [Packing T ||
+
+3Joavss giass [Renner(y
+
+2 {oaver_coven [P —
+K- 1 {oauee @ony g7
+————t
+
+78 b Eropor-syrf” ELES |6
+2
+
+25lwire_cLip Eath
+25lwine counse [k |6
+[Czasmcries s e
+zsune none T8 [s
+20}uwoit storsin 2]
+[ztimcxms_ | !
+20jpacxing
+[ ioleackms Fer1oo ] 1
+. |8JoLan packme P
+6T OF GAUGE BLASS(S) T/ IS A Sl N W
+1 5]seRinG waswes | Sip g |
+18] wo T “‘:"‘5 ~
+Vi [onee pree [egil ]
+10]cLEanive revs [
+slemcring GLan '
+8[oumo_wur 2
+ek Bais 31
+cleover wur | oo |
+» [rioutnine wut 3
+4lcoer_pive ]
+3[eLanee 2.
+2o cotk ooy |41 (1
+28 Joauce cock popy [T IR0t |2
+TABLE OF LEVEL GAUGE No. | PaRTs wame _purenmia T80 howes
+@ ] v | e m o] [P e peerex wareh
+1M WEIGHT| [ERSE | LEVEL GAUGE
+335 | 295 | 320 |107.5]7 h4ji4oke| FERRLFFPE G ee R-2Z_
+355 | 515 | 340 | o7 507 haleaug| ool ¥ N- ABS
+» [ OSAKALIONI JALYE IHD. co.LTp
+s 2 o
+
+--- PAGE 28 ---
+PORTABLE WATER
+WASHING TOOL
+
+OWNER
+
+SHIP NO
+
+WORK NO
+
+SPECIFICATION
+
+USE OF FLUD FRESH WATER
+MAX.WORKING PRESS: 50  Kg/om's
+BLOWING PRESS. 2 ~ 5 Kg/en'G
+CONSUMPTION 75 \/min
+QUANTITY 1
+
+ATTACHMENT : HOSE JOINT.
+
+HOSE. BALL VALVE., NOZZLE.
+
+OSAKA BOILER MFG, CO,LTD
+
+.1
+
+00 3
+
+DWG NO
+
+5. Cc. 172
+
+--- PAGE 29 ---
+. \
+- -
+(‘:') T = G H L
+bo® | qomenciarume warerar - [fhonied ™ memanxs
+10,000 { 78
+]
+- S IR . o mowenclatRe  londuemt]
+A L { HOSE JOINT Md2262. 1_|a3s kg
+2 3 , L3 laomT _25a i_lozz el 3
+- -- - -- 4 4 | BALL VAIYE  25A [ _|n.as kel
+S | COUPLING 254 {045 4a|
+1 6 | NOZZIE 258 1 ]0.30_ %8|
+260 _ | A — — [ kg
+\ | & | vARIABLE SPRAY | I Joza ksl -
+A - — La lcuppe nozzie osa ]
+
+: - @ .,!?.mfm WATER WASHING TOOL
+1570 ‘ QP25-10 TYPE
+®A B % |
+H4.4.10_! ‘S KJNOTOL,,)(.H L INOUE.
+- o o] — 920410
+
+NSRS T ERRXERE
+
+TR Ry OGAWA_FUMP INDUSTRY CO.. LTD.
+
+--- PAGE 30 ---
+OVERALL(£K) 851.5
+100, 751.5
+4 346.5 P95x4-380
+
+25
+l 25
+
+o)
+
+|
+
+i
+
+i 15-48 NOZZLES |
+/ - e _,_J NOZZLE ARRANGEMENT
+
+-
+
+2140
+
+B3
+= T = b = Iz z
+w 4E
+I STEAM CONSUMPTION:ab. d5Ka/min at 6KQ/ome
+130 $2428 (FOR ONE BOILER}
+5 [GASKET 7l I I
+7 {STOP_VALVE SNrE 3 “’J;a”
+5 [GASKET R I N
+5 [M16x55L BOLTRNUT} 55400 |125ETS
+4-¢13 HOLES, A 4 [FLANGE 55400 3
+3 [FLANGE 55400 3
+2 [END PLATE SUS304 | 3
+1 |ELEMENT PIPE 505304 | 3
+6
+o © 48} ¥ ITEM MATER I AL|QUANT. | REMARKS
+=
+ol { S DESIGN SEGT)ON |WORK NO. 12326
+by
+- i aepRovEcl. SH EM | ZU[CUSTOMER KAWASAK! HEAVY [NDUSTRIES CO.. 10
+o, 1k cecked] SHIP No. 1456
+id
+: oestwied] T KONDOH | ey o0
+oRawn [ S. MINO FIXED TYPE SOQT BLOWER
+L t 4-¢19 HOLES . OIL SIOE
+ey gt e «—=—> [A]JAN.20 95scate [ 1:10 - =
+15-NOZZLES T e 51zE | A3 |ORAWING NO.| A-3379A
+REVision _|DATE | NOV. 2.794| OSAKA BOILER MFE. CO.. LTD,
+
+--- PAGE 31 ---
+)
+
+SOOT BLOWER
+B W &
+
+OWNER  KAWASAKI HEAVY
+
+# A % INDUSTRIES CO.,LTD.
+?\‘“P N§~ 1456
+
+4]
+
+SPECIFICATION
+B
+
+MR, WORKING PRESSTT ™ /i
+
+TYPEXQUANTITY
+i X »
+
+B oA XH SOT-40x2sets
+
+OSAKA ZOKI VALVE IND. CO.,LTD.
+
+OSAKA  JAPAN.
+
+DWG NO.| OM— 280
+
+53 6. 200(8)
+
+--- PAGE 32 ---
+~
+
+355
+
+WEIGHT | 23 kg
+
+4=19% HOLES (MIGBOLT})
+
+1o mzo_NUT !
+a| HANDLE ) [THIS TABLE IS SHOWN REQUIRED FOR 1 SOOT BLOWER
+PACKING 61 0.5% [io] PACKING VB, [ ] 550
+7| w6 SET SCREW [LOSTEEI Ty 18] Lock nuT  [MILGSTEEL
+5| M po. Po] 7] SPLIT PN oo e] 1
+5| PACKING HOLD | o] 1 16| NAME PLATE o] |
+4| GLAND A rW | 15l - STOPPER MH;E‘USTEEL_ 1
+3|_NECK BUSH ?nf i 1] _STOPPER PLATE |- aiioon |
+2| NLET TUsE &ﬁ'rs%:?l ) 13| seat packing [¥84800 | 1
+1| BODY eczon 1 t2| mio SET SCREWM'L”SSE,;EEL 2
+CITEM ATERIAL [ 30| RemAnks | 11| SOCKET e e
+- [
+/ OWNER w&gr::
+[SECTIONHEAQ SHIP No. orAwNe | 25 —8 - 1993
+DAT!
+leHECKED BY ﬂ! [ SOT— 40 SSUEC
+[DRAWING BY SCALE
+{TRACING BY ky' M SOOT _BLOWER DRANWJNG 0Z —280
+
+DSAKA ZOKI VALVE IND. €O, LTD.
+
+--- PAGE 33 ---
+264
+
+2572
+100°x20=2000
+
+5
+100
+
+1214
+
+100°%21=2100
+180°
+
+BLOWING ANGLE
+BHA R
+
+STEAM CONSUMPTION:8b. 70Kg/min at
+
+OUTLET
+
+)
+4
+I
+-
+®
+=z
+I
+3
+o
+
+EXHAUST GAS
+
+T
+5
+a
+3 |BLIND PLATE 2
+2 [ELEMENT TUBE 2 40A schB0
+2
+GUANT. | REMARKS
+OESIGN SECTION 12326
+[CUSTOMER kavASAKE HEAYY INDUSTRIES CO..L1D.
+1456
+
+OEVC2-$2400
+STATIONARY ROTARY 500T BLOWER
+EXHAUST BAS S1DE
+
+(50T-40)
+
+DRAYING NO.
+
+4-3380A
+
+OSAKA BOILER MFG. CO.. LTD.
+
+--- PAGE 34 ---
+OWNER
+
+SHIPYARD
+
+SHIP NO.
+
+SHIP NAME
+
+WATER LEVEL CONTROLLER
+
+H
+Yamatake-Honeywell Co,Ltd. ’
+|
+T
+
+| Asohi Mechatronic Corporation
+
+DATE
+
+PROD. NO.
+t
+
+--- PAGE 35 ---
+ARRAHGE PIPINGUI5A)
+
+DOCK YARD
+
+R
+
+EQ.Cut 2, 26K SYMBOLS.
+- ! STEEL PIPINGS
+e ke L AIR PIPINGS
+AP/P o! SE'{!LI‘VJ—{*—-‘_——' ELECTRIC CABLES
+2 FoA.S § FILTERED AIR SUPPLY( 7 ey
+DETAIL oF @& . l
+i
+|
+o, KaME MODEL No. AND SPEC. | WT. (x) |0'TY| Dwa. Ho. |PacE
+|
+21t | evel cowpenszr LCH-16 50 | R- 6272 | 3
+AP/P TRANSMITTER
+2 | wiTHiaIR SET, KDP22Y-1122-67 12.0 ;| o1 .
+MAKIFOLD VALVE .
+o | #a0 rREss. cauce wA JoINT - c.z i B-oec-oos@ s
+- o J
+4 RESTRICTION VALVE —_— o1 1 ©0-084- 00 EEE
+- 1
+4| s | PRESSURE  swiTeH RT - 112 2 T | 3 e s
+- i
+:| 6 | 3-way TEST Cock 1/4 DBVT-12B 3 |azco-010 | 7 |
+; i |
+7| 7| 3-WAY SOLENOID VALVE 3L8-1 === 11 |3Ls1-1108 8§ |
+g | PIsTon vaLve | $25 TYPE CP85-FS| --- | | |R-5881 9 ‘
+PI -
+K LTER REGULATOR ] S 1301 ooqu » l
+- MODIL KO. ’
+DIAGRAM AND SPECIFICATIONS (ro)
+
+@
+
+Asohi Mechaironic Corporetion
+
+[ox
+
+[Fee-
+
+|OF £WING WO,
+
+| ATToEs-0011 A
+
+--- PAGE 36 ---
+LEVEL CONDENSER
+
+e 205 S
+160 _ 45
+60
+[ o
+Dl _
+- =1
+P i - U N
+! -2
+O A R & | e _
+» @
+a <
+Loy 3 =
+3
+pae T - | s
+@ i ¢24. 7 e
+~ { |15A 50h80< > N
+tel T B
+! ! J1516K=15A
+v | |
+b i 1
+J1S16K=15A
+INSTALL A
+
+PECIFICATIONS
+
+1. MAX USING PRESS : 16 ko/cm?
+o 2. USING TEMP. 203 ‘C
+= 3. WEIGHT 140 kg
+==
+= No DESCRIPTION MATER | AL
+ég 1] PIPE 80A schaQ STEEL PIPE STPG3TD
+we 2| PIPE 15A SChB0 STEEL PIPE STPG370
+Sy [3] 8LIND PLATE MILD STEEL 54400
+ZE 4| FLANGE  16K-15A STEEL BAR 525C
+o 5| NEEDLE VALVE (M[0) STAINLES STEEL SYS304
+DESIGN SECTIONT |WORK NO.
+CUSTOMER
+
+|
+: sppROVED]
+|
+
+i 0EsIGe|
+
+“ﬂcnscxznl P is, ASHIP HO.
+7.
+
+LCR-16
+
+orawN | H, Ohtan!
+
+|
+|
+| SCALE 112
+|
+
+HARY] DATE
+
+LEVEL CONDENSER
+
+sizz | A4 |oravine o |
+
+REVISION
+
+DATE | 2. JUN. " 87
+
+OSAKA BOILER MFG. CO..
+
+R-62T2A
+LTD.
+
+--- PAGE 37 ---
+do
+
+NG, 21 n Lo
+
+WITH COMPANION FLANGES £ BOLTS, NUTS
+
+LOW PRESS.CONNPTHNIGH PRESS. CONN.PT &
+
+CONDENSER SIDE | WATER SI0&
+
+MANIFOLD VALVE (MODEL No. KZI3)
+154" STEEL PIPE
+
+222 Max
+
+"IN BA(OPEN;
+
+\\ SSHUT)
+I 4
+
+OUT pUT PT 3 J %L 254
+
+il Tk
+
+204 e
+2 Exs=Nr;
+T Eran Ny
+
+7
+/ AIR_SuppLy prd s
+265 b 67 2 pIPE
+
+\eorrou coumeerion
+MODEL No, 32
+AR SET KZO3 ~1a
+
+]
+
+SFECIFICATIONS RING_ JOINT DETAIL
+& INSERT COPPER TUBE UP TO HERE
+- SUPPLY AIR PRESS. ! .4£0. ke/emt THEN TIGHTEN THE NUT.
+2. QUTPUT PRESS. 102.10%4,2
+3. AR CONSUMPTION 15 Aty
+4. WEIGHT P12 kg
+5. WITH MOUNTING
+BRACKEY
+6. MEASURING RANGE 10.250,0.-5500mmHz0 COPPER Tu
+(MIN ) (MAK)
+BT FE"
+PNEUMATIC DIFFERENTIAL PRESSURE TRANSMITTER | (poow 11oo ol
+Yamatake Honeywoll Co.Ltd. ad R o
+ToKve uARAR €3RI 08-101
+
+N — 5 T T . B T T
+
+--- PAGE 38 ---
+hu.24
+
+RS
+
+z
+INSERT COPPER
+TUBE UP TO HERE
+THEN TIGHTEN
+THE _NUT
+3
+» “
+PT 4
+ad’:] |
+No| PARTS NAME MATERIAL o‘rv]
+1 NIPPLE BsBM 1
+<
+N | i9) @)
+; 3| CAP BsBM I
+P14
+PRESSURE RANGE - 4 | NEEDLE PLUG BsBM L
+. 021" fim? = -
+: 55 1 u|r§£z~7m 5| o-Ring NBR t
+FRESSURE 4
+TRANSMITTER & | BODY BsBM 1
+pkorzay) aomm
+WEIGHT: 0,3kg 7 PRESS, GAUGE !
+8| T JOINT B3BM ]
+5
+MOOEL NO.
+RESTRICTION VALVE & 40mm PRESSURE GAUGE
+kN . . Y OATE DRAWING NO.
+l Asahi Mechatronic Corporation G-084-0064A
+A T [ T
+
+E
+
+--- PAGE 39 ---
+No.25 P.&
+
+GPPRJoRE TERAR,
+[merd] REVISION - M08 R e ToaTE
+o
+L tod .37
+- a3
+
+885
+
+ALY
+
+Yu
+0
+
+Setting [ Differential {Bchmiggiple | Welght 1
+Type iCode No, | '°"9° range Pressure
+bar bar bar Ko
+RT 110 |oi7-5202/0.2 ~ 3_Jo.0B~025] 7 L2
+RTI12 |or7-5193[0.1 ~ 1.1 0.07~016] 7 2 |
+RT 5 Joiz-5283[4 ~ i7 [1.2 ~4 25 11
+RT 116 _[017-5200] | ~ 10 |03 ~13| 25 Iz
+RT117 [07-5296]10 ~ 30 | | ~ 4 35 vz |
+RT200 |017-6240(0.2 .. 6 |0Z5~ 2| 25 [
+
+Wirlng
+2 3(N.0.)  Contoct belwean 231
+
+NG} Turned on due fa Pressure increase.
+Contacts between 2+ | ¢
+
+Turned on due to Pressure decrecse.
+Conlact 27 Common
+
+Roted Capocity
+
+A.C Non-Inductive 380V, oA
+Inductive 1104380V, 44
+[ 0-¢ 220V (2w, 24y, 1A MAKER : DANFOSS (JAPAN)
+
+MOGEL NG,
+PRESSURE CONTROLS TYPE RT RT TYPE
+TRAWING NO,
+
+Asahi Mechatronic Corporation - 17-1013
+
+--- PAGE 40 ---
+ia)
+
+MATERIAL LIST
+[l
+
+with joisd for ont6cyp
+LIMENSION
+
+PRESS. 5
+NITCH D1 [meee] D | ¢t
+Vg
+
+NOMINAL DIAYS. Y4
+
+--- PAGE 41 ---
+4 2 e e
+El 7T T L T )
+(S ey
+U{vALve SERTGiT
+3 [ Stal 1 [ ¥ 1)
+€ VAL _seRug hixeE )
+{7 Py Csemn Gl xeny (a1
+icae 1 ALT
+[Flcar izy 1t ur
+[ioleue 5T
+T{3MarT ]
+12lshar Tive G | v ik
+
+LCYeR
+
+Bres
+
+ruukein
+
+BASC_SCRCK
+
+PLONCLR_cupe
+
+Fote_moce
+
+[
+
+con_oast
+
+CoveR
+
+BOLT
+
+MAMC_PLATC
+
+[rasued
+
+[chsaer
+
+[13[1tmmat sox
+
+Toee{inn 190y
+
+TeAToHAL
+
+CLAKD
+
+7ooF |asire T
+
+Ls-1 qree
+SLLNOD_VAYE
+
+L, A-¢ sror
+Py aen ernn
+tntrsiiee)
+
+--- PAGE 42 ---
+Packing HALLYS
+Lock Nyl [O-77«+ [SPCC. 1
+1 B h
+0 N -
+163604 | 1 16 { K
+i 3604 |+ 1 fwith SW | 17 3
+Machine Serex 5us304 | 4 18 ! z
+Ciang v _lasoszB | 1] TS =
+Tolwasher Grve-_|AS0SZP | 21 20 | n
+
+WEREETE
+(5157 88014M%)
+
+Asahbi Mechz
+
+TB-11 TYPE
+- TERMINAL BOX
+
+ENFCK
+5] 4
+
+n_
+
+TR Eok L 5 ad MRS b 2
+
+(Ba& ] 0 14 e {ASSHMELY of COIL CAST)
+2 ) F-42 42 1133
+15‘% b Jpr V2 1]11)_ prs 55%}"5 TE-1iE BFEWE
+) -5 | N APPEOVED DWG. m
+E] 124 S
+AR ] A 0 1
+20 b [Pr 4l 13 ]
+) | DG e Ji Asai Mechaiont Caporalon
+
+| tai1-1018 |1
+
+T =
+
+--- PAGE 43 ---
+. - ' e NAME OF "PARTS <, {MATCRIAL o tY|REMammS
+’ V{VALVE BOGY Li94 " Jreo 430 | v
+2 1p0vvom raE |2 121 fro 430 |
+Y0P rUAMGE 5079 IFeb s |1
+Cade sear{asy st |1
+5 ivaLve AT [S15304 [l
+R ERTS sussor 1]
+7 VALVE ROg 1Ceaa, b |908 504" 1
+B lcasscy B3y [Nom AT E2 I
+3 Teouy M 3 By
+10JPACRING. BOX 163604 1
+J 1 T1{SPRING_SEAT (PITE [
+. a 2] Paune SPRING S350 s
+13ISPACLR 3604 )
+Q:ﬁg} e Y0 08 A Yo QT e )
+@ B AR SUPPIY_PORT_ 13 rocwowen 3607 i
+o TC[CAP T | 3N [
+iiock wr sy i
+@y Vet st v
+@2y mn an [ialvoxe aT 1
+@ T [ 20[CYLINDCR. [T AcicTe T 0
+& 1 ' [ tinsion €5 ooy Jussor Ia
+72ld- Rinc T T )
+D 23[Prsion eary  [si0y {1
+o [24[GLY - PACRING. [IVETIPE [T V_jar-i
+73| Pision sPRUE_[etis ek _[swra .
+B3I [ 5541 1
+0, 17 WOIGTOR. SCALE] Y2 1 K1801F 1
+o 78]IMDMCATOR A:T-9- [secc ]
+[73f600T - T Bf pur [SSUL [}
+D5 SO{EOLT- T, Wt tort J5SAT il
+&) 30) o 5T
+o) 2 A
+()
+& !
+G
+®
+-
+_FLANGE COOE:1s 16%%al RE
+) S
+0 L CPBS-FSTYPE (Rt flGmt
+Lt CLINCER VALVE | o 2 Aihed
+@) { CILUER VALYE  [5a7e
+O] g o
+0 Socti acoon
+
+--- PAGE 44 ---
+Q@Q&
+
+:
+
+i
+
+6
+
+PANLL pMooTING,
+
+/
+
+| Jddd
+
+SIS
+PALALOMEC PSS 157 A 30mE210
+2 S5 i 99 ORI
+SLCOMARY PRSE, 02 ~ 2 |10 oo (3 “Thvea]
+BiPt St EEIN -
+hvet o FLvs
+A0 TEATAE OCRAIG AR JEF S ~S0 O TNALL
+BECRC o T iRRioNn H .
+T3[T581202 _ [WanC AL FRAR LK. ]
+31{1301205 |sivsi s0EV {Buss aak I
+o[ 1301130 |rinnc O )
+b} o0-reg [Tt
+28] 1301206 |5usk ap it A
+~ pii Fooq e menbAASS DAL
+b3 s oAkl
+3] " Junolt Jxz3_csor
+4 i TrC e CASTTR
+o 23] ~Heckwr s aan
+3y 1) jSrRs 1GLETR_ [2r OF SR
+kN 2 s e k™ BEEL
+R 7o {iosust SPrbg bmcrss SELv
+i o11runsen 31ty _hamorizyort casivd
+it o wa
+i ReLics VAV Jeiss AR,
+ic - &
+) i e
+RN 1
+BN 3
+1 iz}
+ki I
+FEH < Tol s T o o T
+i 3 (301011 Jruesct T
+! ] 3 01T00  foot SPRIMG — fonotis Sl e
+| — (4] T 1301107~ [TRet AT __ NXirmm X
+‘ 301207 reor vt 753 _SEL
+[ 1301108 _jeslvesia
+\ 13911 EGET ke b castint
+» (1301105 Jeonr ot s
+Lotth DY PaRi b0 | maT et | haghi
+TITLE  FILTER REGULATOR
+<> - SHOKETSY KINZOKU KOGYD €0, LTD.
+Bimv ] v ueisd | WORK We, l 7
+il [
+=t (SHIE N § ERRICTE AN
+/@ [erecss 7] seace | owe.wa.
+s ) ® 1301- 026G
+
+--- PAGE 45 ---
+WATER COLUMN COBERD
+BY ALMINIUM TAPE.
+GLAND 20b GLAND:20 b
+
+ELECTRODE ELECTROQDE
+(EL2) L. L. A I (EL1) H.L.A.
+
+CONTROL PANEL
+
+FLOATLESS
+
+EARTH TERMINAL |_ELecrooe | L AT
+(ELS) 150 {(EL4) F. 0. CUT
+
+Hola [ S
+o
+Nw LS 1 olo
+o‘ S ! | 212 —
+F. 0. ® H T
+duy ek A D) o j °
+EARTH | I [
+¥
+g s
+(3}
+- (. ]
+[=Z
+/ 2 WATER COLUMN
+J1S 10K-15A 7 JIS 10K-25A
+S842
+1 [WATER COLUMN R 1| 100A
+NO. USE |SPACE|TOTAL]
+e I TEM MATERIAL iy 1 REMARKS
+DESIGN SECTIONT [WORK NO
+APPRQVED) CUSTOMER
+CHECKED
+DES(GNER
+oreen | T KONDOH TYPE EL4-10K-450
+C [Ian.28.775 WATER COLUMN
+8| ’91.8 8 [scALE 1:10
+VARK TATE SIZE | A4 |DRAWING NO.| R-5775C
+REVISION DATE | " 91.6. 17| OSAKA BOILER MFG. CO., LTO.
+
+--- PAGE 46 ---
+2:99.6
+
+210 ~ £250mm 1mm H.0 500 630 660
+w1 | O ~ £150mm 1mm H0 300 430 460
+NO. SCALE MIN. SCALE[LIQUID] & L P
+
+>
+85
+e -
+T
+«
+S
+3
+o
+N
+Ur—
+.
+T
+9 | FRONT COVER ‘ ACRYL 1 |TRANSPARENT
+8 | CONNECTOR C3604 a $10
+7| SETTING PLATE SPHC 2 PULACK PAINTE(
+6 [ DRATN COCK £3604 1
+5 | GROUND NUT £3604 a]ce PLATING
+4| SCALE A1050P 1
+3 | GAUGE GLASS pPC 2
+2 | BLOCK pvC 2 GRAY
+1 | CASE ABGB3S 1 [GRAY PAINTED|
+MEE‘ 1TEM MATERTAL [oual REMARKS
+DESIGN SECTIONT |WORK NO.
+APPRONE CUSTOMER
+i cnecxe
+DEsGnER]
+orave | S MinO MANOMETER
+(] uB-80
+SCALE
+Ty OATE SIZE| A3 |DRAWING h. R-6869
+SEVISION _|UATE j1B. 1iOV. 84 OSAKA BOILER MFG. CO.. LYO,
+
+--- PAGE 47 ---
+MANHOLE
+
+OSAKA BOILER WILL BE J
+
+yoo
+EXECUTED FITTING A PIPINGS. [
+S| Mg Bty NUT_ | __ss . ‘\_ 21setd
+4| BITE JOINT RN
+3|7 MINIATURE. vaLVE [ I I
+- 2| MANOMETER 1 I letsepmmtt]
+1| seqT ss | 2] [umrrwxz
+:v: 1T ENM MATERIAL lu_s_gmgnzm REMARKS
+" sy 1 o
+o[ s 12326 i
+owweR  KAWASAKI HEAVY INDUSTRIES CO.,LTD. B
+
+.
+
+SHIP ~No |
+
+1456
+
+SCALE |
+
+MANOMETER. AND. FITTING
+R)AE)— v FR AT
+
+{ FURNACE DRAFT)
+e )
+
+[ —
+
+vAlna|0c 7,31, 1994 | i
+
+[PMENel & - s564 A
+
+OSAKA BOILEK MFG. CO. LTD.
+
+--- PAGE 48 ---
+2 DSAKA BOILER WILL BE EXETED OF
+FITTINGS NO OF MARK
+
+0SAKA BOILER WilL BE EXETED OF
+] FITTINGS & PIPINGS WITHOUT PIPING BETWEEN
+2200 ! 2200, SMOK BOX [NLET AND SMOKE BOX DUTLET
+H No OF MARK (D~(® ARE SUPPLIED BY
+500 f D 4 0SAXA BOILER.
+L R P (. _ 1o
++ i —+ A
+| 2 E
+' 7
+| 0
+i 5 |MB_BOLT&NUT \
+a[BITE OINT 2
+3 |MINTATURE VALVE 2
+2 |MANGMETER 1| D&150mmAQ
+1 [SEAT ss 2 [L100%100%7
+K 1 TEM MATERIAL [aual REMARKS
+DESIGN SECTIDN |WORK ND. 12326
+APPROVEL CUSTOMER  KAKASAK| HEAVY INDUSTRIES CU.. LTD.
+cwecke SH1P o, 1256
+oesiues] 7. KONDOH
+Fywm MANOMETER & FITTING
+GAS SIDE
+A |JAN.28. 95 [scalE | 1:30
+) 5126 | A3 [oRaviNG N0.| R-6865A
+REYISION DATE | NOV. 1.°Bd4| DSAKA BOILER MFG. CO.. LTD.
+
+--- PAGE 49 ---
+540(SET 550)
+
+MARKING
+
+BRLLOAS 543304
+
+2D PIPE SGP
+
+FLARGE &841 4004 Ji's 5K FF
+
+5US304
+
+63541 016
+
+841
+
+TITTING 6841
+
+/16 -p5HOLES
+
+LI ! T E AT TREoTi0 AT 00T
+AFTER FURMING AND TUEN 10 6E AL T3CALED,
+
+“GUTSIDE G5 FART
+F{CORROSIVE PAINT (HEAT PRCOF)  2COATS
+SILVER  PAINT (MEAT PROCE) 2 COATS
+
+W11
+
+' W21A8
+7
+
+~ OSAKA BOILER MFG.CO..LTD.
+
+12328 ¥ S 1486
+
+EXPANSION BRILOWS
+PR S A B ELS
+OKUDA SOGI\BE Co., LTD.
+
+.pﬂ//;\/p-
+
+--- PAGE 50 ---
+BOILER
+
+i232
+W - HNo. 3 6
+BURNER
+
+3 7 0 6
+L
+
+0IL BURNING APPARATUS
+E B B £ 5 B
+
+TYPE: S$SR - 2
+
+FINISHED PLAN
+
+USED FOR:
+
+Messrs., KARASAKT TEAVY INDUSTRIRS, LTD.
+SHIP No. : 1456
+ORDER:
+
+MessTs. | 0OSAKA BOILER MFG. CQ., LTD.
+
+Swagflame (fkk.-éﬁ////
+
+T613 Kitahata, Hayash)
+Kumyama cho, Kuze RUT,
+TR, /TR 0774-~44- 3361/07"4 44 3360
+TELEX. : 5153-670 SUNFLM J
+
+REGULATTON
+
+_CHECKED CHANCED
+! 1. G0To
+
+A
+
+--- PAGE 51 ---
+BOJLER
+
+DRAWING LIST | % 132
+BURNER
+§0 NAME DG, No- REMARKS
+ki 4R 5 i d
+SPECIFICATION. T
+1 i ® = 0 B~ 3416 04-HOV. - 94
+RCTARY-CUP BURNER FLOW SHEET
+2 I MFR - 1414
+o-4U-Hy 7 eN-t-70--9 -}
+[ . | RoT4RY-CUP BURNER 0UT-LINE - T
+B g o ARE R
+FORCED DRAFT FAN o )
+1 ATy Mf- 1733
+1GNITIO BURNER/D. 0. PUMP ASSENBLY R - 1005
+S| mAw-t/ADME TR MWp-us | ]
+F. 0./¥. 0. COMPOUND-SET
+° FOW 0. 37Ky F-ky} R
+TOIL STRATNER © Ns-is12
+! FANeab - M- 1498 |
+[ "o pow wnit T
+i Pfve¥r7T AR Mo - s
+OIL EEATER - ] T |ror AT 0.
+97 wom s | Mh—17{3 L cmmm
+o | WELIEF VAL g | TOR OILERESS. 4D),
+Y -7NwY It 8
+THERMOSTAT & PRESSURE S¥1TCH Mth - 1132 FOR OIL
+PU kst B Wos - 1188 | i A
+STRAM PRESSURE SKITCH
+12 KAE AT M A - 1022
+13 RURNER CONTROL PANEL MER-34682L
+[EEEE N ~
+14 1 ST-0P-SPARES- &—T08LS-
+| BB e
+15
+
+-
+
+--- PAGE 52 ---
+§PHL. THPE - SR SUNPLAE BURVING APPARATUS hcﬁngr —
+
+1, General specification
+1-1. Rule
+1-2. Control system of burner
+
+1-3. Fuel oil
+1; For cold-starting
+For usually
+
+Calorific value
+Viscosity
+
+3) For wastc oil disposal
+Water content
+Calorific value
+
+1-4. Electric source
+lg Bower cireuit
+Control cireuit
+& alamn/indicator
+
+1-5. Air temperature
+1-6. The others
+1) Unit
+27 Name plate
+Caution plate
+3) Painting colour
+2. Boiler specification
+
+Type
+
+Number
+
+EBvaporation { 0il fired section )
+
+Steam pressure
+
+Stean temperature
+Feed water temperature
+Furnace pressure
+
+F. 0. consumption
+
+3. Burner specification
+
+Type
+
+Number
+Combustion capacity
+
+Rurner motor
+
+Rotary-cup
+
+F. 0. pressure
+
+NV-E0
+
+Full automatie, ON/OFF &
+BIGH/LOW control system
+
+Marine diescl oil
+Marine heavy fuel oil
+fon calorific valus. 9700 keal/kg 10.7 Mi/ke)
+Under 600 eSt, /50
+Waste oil fron ship
+Less than 80%
+Wore than 7,000 keal /kg [29. 8 M)/kg]
+
+ACH40V 608z 38 $Yard supply
+AC220V 60kiz 18 (By down-transformer)
+AC220V 60Kz 19 & DC 24V
+
+38 C
+
+Metric
+English
+English
+Munsell Yo. 7.5 BG 7/2
+
+OSAKA ROILER MFG. CO., LTD.
+OEVC 2
+
+1 Boiler/1 Ship
+
+2,000 ke/hr
+Design 8 keg/cmz 1 0.79 Wa ]
+Nornal 6 ka/cnz { 0.53 WPa }
+Saturated temperature
+
+60 °C
+
+60 nmdq [ 0.59 kia ]
+
+171 ke/hr
+
+§0§CERD DRA;T ROTARY-CUP ATOMIZING SYSTEM
+
+1 Set/1 Boiler
+180 keshe
+
+M[TSUBISHI ELECTRIC CORP.
+4 k¥ 2P Insulation class = "F" (0.9 4)
+
+627 x 951 SUS-304
+Max. 3.0 kg/en2 [ 0.29 WPa ]
+
+--- PAGE 53 ---
+F. 0. viscosity
+For atonizing
+For in-let of equip.
+
+4. Tuel oil pump unit
+
+Type
+Yedel No.
+
+Capacity
+Delivery pressure
+Suction pressure
+
+Prime mover
+
+5. Forced draft fan
+
+Type
+Model No.
+
+Capacity
+Statie pressure
+
+Prime mover
+
+b. Ignition cquipment
+
+b-1.
+
+8-2.
+§-3.
+6-4.
+
+7. 0il
+
+Tenition burner unit
+Capacity
+
+Ignition transformer
+1G. burner solenoid valve
+
+lgnition burner punp (B. 0. punp)
+Type
+
+Capacity
+
+Gil strainer
+Prine mover
+
+heater
+Type
+Model No.
+
+Heating capacity
+Heating temperature
+Electric capacity
+
+Accessories
+
+Under 50 cSt [ZOD sec. /Redwood No. 17
+Under 250 ¢St [1,000 sec. /Redwood No. 1]
+1 Set
+TROCHOIDAL GEAR TYPE
+NIPPON G-ROTAR MFG. €O.. LTD.
+TOP - 210 - 08
+
+600 keg/hr
+5 kg/en2 [ 0.49 MPa ]
+0~ 0.3 kg/en2 [0 ~ 0.029 Wa ]
+
+MITSUBISHL ELECTRIC CORP.
+0.
+
+4 kW B Insulation class = "F" (1.2 4)
+
+1 Set
+COMPOUND TURBO FAN TYPE
+
+0SC - 4 - 50
+Primary side / Secondary side
+4 Nm3/min /50 Hm3/min.
+
+1,000 mmdq [ 9.8 kPa 3 / 250 mmdq [ 2.45 kPa ]
+
+MITSURISHT RLECTRIC CORP.
+7.5 kF 2P Insulation class = "F"
+
+(Assembly to burner) 1 Set
+
+[B-264 (Marine diesel oil usc)
+6.5 kg/hr (Atomizer = 2 G/45°)
+
+10, 006V x 210vA
+0 - 03 - 218
+
+{Not asscably to_burner)
+TROCHOIDAL GEAR TYPE
+
+GPE-V3I,
+
+100 kg/hr & 7 ke/en2 [ 0.69 WPa )
+154 150 mesh
+
+MITSUBISHI ELRCTRIC CORP
+
+0.4 kKW 2P Insulation class = "F" (0.9 A)
+1 Set
+
+RLECTRIC HEATING TYPE
+
+TOYO NEATER MFG. €0., LTD.
+
+NI -8
+
+180 ke/hr
+
+Tleater in-lct 60 °C (70 °C up)
+
+3 k¥
+Thernister & thermosial 1 Set
+Thernoneter {0 - 200°C) 1P.¢
+Relief valve 1P¢
+Drain/air vent valve 1 Set
+
+--- PAGE 54 ---
+8. 0l strainer
+Type
+Bore & Mesh
+
+9. Burner accessories
+9-1.
+9-2.
+9-3.
+9-4.
+
+F. 0. flow regulator
+Thermometer
+P. 0. prossure gauge
+Solenoid valve
+
+For main salenoid valve
+
+For diesel oil solenoid valve
+-5,
+9-6.
+9-1.
+9-8.
+
+Air pressure switch
+Air/0i1 Ilow control motor
+Flane-eye
+
+Junetion box
+
+10. Retief valve for combustion F.0. press.
+
+Model Yo.
+Fitting
+1i. Thermostat & Pressure switch
+
+11-1. Thermostat
+
+11-Z. Pressure switch
+
+12. Steam pressure skitch
+
+12-1. For BNR. ON/OFF control
+
+12-2. For BAR. HIGH/LO¥ control
+13. Equipment for ¥. 0.
+
+13-1. K0
+ype
+Bore & Mesh
+
+disposal
+
+strainer
+
+13-2. ¥aste oil pump
+Type
+Model No.
+
+Capacity
+Del. & Suc, pressure
+Prime mover
+
+13-3. Change-over 3-¥ay valve unit
+Bore & type
+Kunber
+Aceessories
+
+e
+
+adjust.
+
+irc
+DUPLEX BASKET SCREEN & FLANGE TYPR
+JIS 10K 250 &  S0mesh
+(Assenbly to burner) 1 Sot
+SFQ-1 1 Set
+0~ 150°C x 1/2° 1P.¢
+BT1/4" ¥ 604 x 10/15K [.98/1.47 MPa] 2 P.cs
+1 Set
+GHVE-604G ZPes
+B0-03-215 1pe
+16¥ - 50 2P.cs
+CM-101T H/L 1 Set
+FE-01 (CdS) 1he
+With manual switeh 1 Set
+1P
+HTGX-15 (15 &)
+JIS 10K 204 P.F.
+1 Se
+NIPPON DAKFOSS MFG. CO., L1D. 3 P.es
+Kps - 81
+NIPPON DANFOSS MFG. CO., LTD. 2lces
+KPS - 35
+1 Set
+WIPPON DANFOSS MFG. (0., LTD. 1P
+RT - 116
+NIPPON DANFOSS MEG. CO., LTD. 1P
+RT - 116
+1 Sef
+Set
+SINGLE AUTO.-CLEANER WITH MOTOR
+JIS10K 324 & 60mesh
+1 Set
+TROCHOIDAL GEAR TYPE
+NIPPOK G-ROTAR MPG. €0.. LTD.
+0P - 210 - 0S
+600 ke/hr
+5Kefem2 & 0 [0.49MPa & 01
+MITSUBISHI ELECTRIC CORP.
+0.4 k¢ 6 Insulationclass = "F" (1.2 A
+JIS ‘IOK 204 & DBALL VALYE (L-PORT)
+L)m)t switch (7E-QA2-2) 2 P.cs
+
+--- PAGE 55 ---
+18-4. Relief valve for F.0./W.0. cire. line 2Pes
+Model No. HTGX-15 (15 A)
+Bore JIS 10K 208
+
+13-5. Thermostal for W.0. pump control 1P.c
+Model No. {(!}I)gPONgll)ANFOSS MFG. CO., LTD.
+
+14, F. 0./, 0. conpound-set 1 Set
+15. Burner control panel 1 Set
+System Por drip proof system
+
+See TABLE 1 about indicator and alarms. (Page = §)
+
+16. Spare parts and tools See "LIST OF SPARES & TOOLS" 1 Set
+
+#x¢ NOTE ®bk
+See "TABLE 2" about setting value of pressure and temperatur. (Page = 7)
+
+—5-
+
+--- PAGE 56 ---
+T A B L E 1
+
+INDICATOR AND ALARMS
+BURNER TRIP . EX._TERMINAL
+tre . 0| MPICATOR TOR_(ND. 7ALARN
+Source fallurc oR__ - o1 V52 - 511 |
+Flane-eyc abrormal oR | o o 41 -
+Mis-ignition Flanc failurc oR ) o+ i
+F. 0. temperature too low ! oR o o #1 N
+F. 0. prossire too lov ok o od -
+BLR._DRM. level too low ok o o # 52 - sii
+F. 0 tonp. high ( HIR. trip} HR_uip | oR_ o W71 - 108
+[BLR. DRM. lovel high alarm 1= - P B T
+BLR. DEM. Tevel low alam - - - o NI - 714
+F. 0. pressure low_alam - - ) ¥TL - 710
+F. 0. tenperature high alam - - o WL - 112
+Y. 0._tenperature loy alarn _ - [ - | o W71 - 708
+Emcrgency stop _oR o o H N52 - S11
+Source - - -
+Thornostat_by-pass - ) - -
+F. 0. use 3 - o | - -
+¥ 0__use i - o - -
+Burner stand-by - o Y ez - 611
+Durner-acto. - - =
+R ruming) _ o o Noz - 711
+D. (. purging _ -
+F. D. fan_ruming - o 65 - 61z
+Tan stop oR o o #1 N5z - 511
+D._fan abnor. slop o NE1 - 608
+0. punp Tunning - o o ! Ne3 - 613
+0._punp abnor._stop - o N61 - 609
+0._punp running - N o N63 - 614
+. 0._punp abnor._stop , =] o N6 - 610
+44 NOTE #4%
+oR mark = Manual reset, Abnormal = b contact, Running = a contacl.
+o+ mark = One(L} common contact. o#2 mark = Yard supply sign.
+¥ mark = Tluninated switch.
+STARTER NUMERR CAPACITY [
+T oA wiacp T2
+1 0.4 ¥ x 6P 12
+Burner motor 1 0.4 KW x 2P 09
+Forced drafl fan 1 7.5 K x 2P 2.6
+Digsel oil pump (IG. BNR. pump). 1 0.4 k¥ x 2P 0.9
+Oil heater 1 W =11
+
+--- PAGE 57 ---
+1 &
+
+T A B L E
+
+2
+
+SETTING VALUE OF PRESSURE AND TEMPERATURE
+
+etting valte of oil pressure. (ka/em2 [MPal)
+
+MARK ITEH
+
+MODEL No. '
+
+SETTING PRRSS.
+
+ADJUSTING RANGE
+
+2. S
+
+[ R104 | Safety valve of F. 0. pump
+
+TOP-210_|_ 5.0 (0.44]
+
+4_- 7 [0.39-0.69]
+
+(116 | Safety valve of ¥. 0. pump
+
+8 S
+
+| RL03 | Relief valve of oil heater - 6.5 [0.54] 4 -7 [0.39-0.63]
+R237T !F. 0. pressurc adj. valve | HTOX15 5.0 [0.29] 2.6~ b [0.25-0.43] |
+RZ3TC.W | Citc. line pressure adj. valve '~ 5.5 [0.34] - N
+RIL4_ | Reliet valve of D. 0. pump [ oPEVL 7.0 10.69] 5 15 [0.49-1.47]
+etting value of oil temperature. ( 'C) ... Diff. sett. = Min.
+SETTING TEWP, | ADJUSTING RANGE
+MARK 1TEY MODEL Mo. | {600 €5t/50°C) C
+© RAYGE DIFE.
+RBIZ | BNR. inlot thormometor - 115 0 - 150
+RET4_ | Thermo-controllor TOR-5B_| 720 50 - 200 11
+R610_| Thernostat for high (HTR.FRIPY T-5H 150 50 - 320 7
+R603_ | Thernostat for Tow (BNR. TREP 5, 80 30 - 110 [
+R61Z | Thormostat for F. O. pump control | KPS—61 | ON-110,7OFF-116 | 60 - 150 | § - 25
+R626 | Thernosiat for W. 0. pump control v TK.C - 10 C v -
+R620 | Thernostat for low (ALARN) - 50 i
+R628 | Thermostat for high (ALARM) i 140 i
+otting value of pressure switeh. (Air = nadq [kPal. 0l & stean = ke/en2 [MPal)
+
+SETTING PRESS.
+
+ADJUSTING RANGE
+
+RANGE DIFF.
+MARK ITEN MODEL Yo - il
+B o Kg/em? kg/en? | ke/enl
+Pa ta Pa
+L O 25 - 500 10
+BRI | Prinary air pressure svitch LGH-50 500
+Lo 25— e8| 01
+R712 | Secondary air prossure ssitch - 100 -
+; 0.98
+RE05 | F.0. press. sv. for low i GFF 0-38
+KPS-35 18720
+R629 BAR. trip & low press. alarm 0.18 /0.2 | 0-0.78
+STH. press. k. for ! OF | OFF | 1-10
+R7DZ RI-116 | 5.5 6.5
+| BB ON/OFF control : 050 | o064 |-1-.%81.08-.13
+STH. press. sv. for ! HIGH | LoW
+R703 - 5.7 5.3 -
+BNR. HIGH/LOK control 0.5 | 0.62
+
+-
+
+--- PAGE 58 ---
+RSTE 01, 7
+T
+22l
+
+f
+
+-1 —— JEATIG
+
+E
+
+crgse:
+E§r;<§;§’
+
+—
+
+HIGH TERSION CAULE
+
+GG IS 108
+
+158
+
+B
+
+»%mza;gsgg
+i
+
+s}
+
+ALY+
+PESS_SEITH
+
+AN i
+10 ol G 0
+
+1] QIoK-CLISTHG VALYE o O PRES S (00100 [ R03 | 1 [STH PRESS S (MGHACY) [Vorba] 1 | 3-98Y VALVE CIN-S10E)
+DIESEL OIL, STRAINR RIS | 1 | TEANSTAT (NOLOW | R0z | ( (S PRES S (OVOF) | Vorfh{ L | O-6AYVAVE (RIV-SIE)
+F.0_ STRAINER Lef | 1 [LNToW .0 S . DISTARGE SHOULD BE &S SORT S RISSIELE
+17 | 1 [ OL prPING TRCE R | P29 | 1 [F.0 P S Q04 ADD| (s | 1 LTS o SiD YA MIST £ DONE R ALL PIPHG LIVE EXGEPT 0.0, LIE
+T_[F. 0_copoRD-SET R4IG | 1| BRHNGE-UCK SPITCK | Raos | 1| TERMSTST GUGHAAR) | O | 2 |oMPOCD-GUE COLOURED PAFTS AR SIPPLIED BY SINFLAEE 00, 1D
+1| FOROED DRAFT EAY 8408 | 1 | ARAIL FLO UONL WOTOR | R626 | 1 | THERMSTAT (P CONTROL) 5 | PRESSAE GALGE -
+1| Wo e i1 w1 AAR-ERE _ [ 1 [memesny oo wm _ P
+1 (D0 mw Rags | 1 | GWITION TROGPORER | 14 | 1| THERMISTER MR cOMROL) | Rt | 1 | e TILE THCTED BY
+1 WRAER 91N Ber |1 [ mRWR wonR Ri13 | 1 | DRAIN OIL SENOID VY| W01z | 1 | IERATER D - ROTARY-CUP BURNER
+1| IGT100 BLEKER (HIT ROI2 | 1 | THERYSTAT 4%, CONTRL) =] = — ;‘-}j"“ S ";*“-/ L >
+1 BCTION 8K BT | 1| GRGCVAYE_ BB )[R0 SRR T 1 [ARSLYVER BRON] SRE o AT
+1RO PPN #2381 | AIR SEPARATGR . [mow | 1 [remestyr qoowan s | 1| e o o8, sese B —
+| 1 {or aten R | 3 |F.0 PRESS AN. VANE | AR | 1 {D.0 SOLENOID VALVE K2 | 1 | SECOND._AIR PRESS. . B ff | 04- W9 -8 F MFR - 1414
+1| AOTAR-CEP BORGR UNIT | Resd | 1 | ROTARY-ClP A8 |z VAIN SOLENOID VALSE | 11| 1 | PR AIA PRESS S FAIRTING OOLOR & % & SUNELAME CO., LTD.
+1 { BURNER QONTROL PAVEL R2% | 1 [0 FLOW REGALATOR B0 111G BMR SOLPOID VAME | R03 | 3 | MR DR LEVE SR WNSHL A . o "
+TV NAE OF PARTS K | T | MO OF PARTS D | € T[R9 F PARTS SR T | N o PR k%24 k44t 2L A
+
+--- PAGE 59 ---
+R102 (R120)
+—
+o
+
+A FoO N o JIS 10k 204
+B. F. 0. RETURN - JIS 10k 204
+C.....D O IN © JIS 10k 154
+
+WEIGHT : BNR. + F.D. FAN = 240 + 245 = 485 kg
+ORDERER & S-Ho.
+EXERUME
+
+TYPE : SSR -~ 2 7 2.5
+_ ROTARY-CUP BURNER OUT-LINE
+
+Th V.7 T ARE
+
+M P R — 1 75
+
+& 1
+SUNFLAME C0., LTD.
+Xm0 7 L A
+
+Dmﬁ 18 - JaN. -9
+DRAYING HISTORY PATNT NG COLOVR T8
+i % R
+
+--- PAGE 60 ---
+R120
+
+SODEL fo.
+
+SPRCIFICATION 08C-2-24 | 08C-2-34 | 0SC-4-50 | OSC-1-60
+
+CAPACTTY 2.3 [ 2 2.3 31 [ 4050 | 4060
+g m[ SECORBARY ___Mn3/nin.
+STATIC PRESS. | PRIMARY 1000 mmAq 9.8 "kPa
+5 FE | SECONDARY 250 mmAg 2.45 kPa
+REVOLUTION 3,600 H.P. M
+B & X SYNCHRONIZING ([E] 3 )
+MITSUBISHI ELECTRIC CORP.
+
+PRIME MOVER EERLE L]
+‘] W R
+
+__INSULATION CLASS = "F"_x 2P
+5.5 K | 55K | T.5 K0 | T.5 KK
+
+504 -
+
+| sep T
+
+730
+
+MARK :
+MoEL No] A B C D E F G )i s I K L
+
+05C-2-24 | 585 | 400 | 185 | 375 , 160 | 685 | 450 | 120 | 120 | 420 | 155 ; 270
+0SC-2-34 | 585 | 400 { 185 | 375 | 160 | 710 | 450 | 130 | 130 | 420 | 175 | 270
+
+0SC-4-50 | 700 | 460 | 240 | 435 | 215 | 803 | 488 | 160 | 155 | 458 | 230 350/
+0SC-4-60
+
+MODEL_No.»)
+
+05¢-2-24
+0SC-2-34 | 320 | 550 { 888 | 348 | 175 | 528
+0SC-4-50 | 400 | 60C | 843 | 323 | 155 | 478
+
+05C-4-60
+ORDERER & S—No.
+EXHEROHE
+
+FORCED DRAFT FAN
+WA 7y
+
+RULE
+E )
+CHECKED BY
+i I <
+
+DRAWING No.
+& z
+
+SUNFLAME CO., LTD.
+BraReek T L A
+
+jz]
+
+£
+DRANTG HISTRY PATRTING COLOUR B
+B i 3k B
+
+--- PAGE 61 ---
+R108
+
+s i @ O
+?017 b a\ Gﬂlﬂnﬁe Qy) G/QV
+/ / {
+/ /
+
+{
+!
+
+/
+
+R108 | 1G. BNR. GUIDE !
+
+WS | v ey AF 1404 S6P
+
+108 | ELECTRODE HOLDER 1
+
+04 | EBRERSE R |
+
+108 {OIL PIPE R108 | ELECTRODE
+
+ws | ® oW = 1o festrosno | |0 e, 7 |R3T5
+
+R108 | NOZZLE HOLDER 1 | pmsr R108 | ASS"Y HOLDER WUT !
+
+002§ ) AN-ANT - W1 | 72ty kY]
+
+R108 | ATOMIZER 1 | gas R108 [ ASSEMELY HOLDER 1
+
+001 | 7 by {H- 006 | 7oty T N RES
+
+KAMR OF PARTS Q7Y | REVARKS NANE OF PARTS O TY | REWARKS
+
+b1 & He #
+
+ORDERER & S-No.
+EXERUME
+
+CRECKED BY
+o I
+DRAWN BY
+
+IGNITION BURNER ASSEMBLY
+KKV -1 H X
+
+VigNING X 6 R - 1 0 0 B
+
+SUNFLAME 0., LTD.
+#HreNsek Y v 7 U A
+
+10 - FEB. - "86
+
+B__ {1
+DRAWTNG HISTORY PAINTING COLOUR PRt
+Exe | ]
+
+--- PAGE 62 ---
+Rit4 (R203)
+
+IN & 0UT FLANGE
+JT8 10k 158
+
+A SUCTION PORT  (1/17)
+B DILIVERY PORT  (1/47)
+c AIE VENT PORT __ (1/47)
+D RELIEF VALVE
+
+E RETURN PORT a7y
+
+WEIGHT : 22 kg
+
+RULE ORDERER & S-No.
+
+| B
+CHECKED BY
+E
+
+D. 0. POWP_(IG. BNR. PUMP) .
+A ENMFEYT (1G r—F - F¥)
+
+DRAVING No.
+X %
+
+M p - 1 4 9 5
+
+£ | 10 -t - a8 SUNFLAME €0., LTD.
+‘ PATRT NG GOLO0K peker ¥ v 7 L A
+
+--- PAGE 63 ---
+ST
+
+T6Z6 [T 1 KPS - 81 "7 [ SET-DRAIK i T30S sk asa
+R620 1 JKPS - 81 1 BTL RELIEF O1L QUT 1 [ J1S Sk 164
+R614 1 _[PF - 4B g [D. 0. QUF 1 | JIS 10k 184
+1 |KP§ - 81 G (b C 1IN 1 [JIS 8k 154
+1 [ 3824 604 F RRN . 0 OL] (T0 TK.STDE) | T [ TS 10k 204
+i E 1 [ J1S 5k 324
+\F 0. _PRESS, SWITC)( oWy [ 1 [KPS - 35 D RRN F 0 OVT {TO_SUC. SIDE) 1 [ 1S 5k 204
+R603 | THERMOSTAT (LOW BNR.TRIP)| T [T = SL C | RRN. OLL [¥ (FRM. BURNER) 1 I8 10k ZUA4|
+. o } E[0IL OUT (TO BURNER) T 1185 10k 20
+R237”OIL PRESS. ADJ. VALVE 3 | HTGX-15 A |EO. IV i 1 [ IS 5k 254
+R203 | D. 0. STRAINER 15 4
+Vo6 | 3-WAY VALVE 2| 204 OKK
+R115 | W, 0, PUMP 1 {T0P-210-08 | & s [LIMIT SWITCH 2} ZE-QAl-2
+[R114[D.0. PUMP_(1G. BNE_PP )| T |GFH - V3L <
+FRI04 | F, Q. POMP 1| TOP-210-08 F.0. PRESS. SWITCH {LOW) | I | KPS — 35
+R102 | OIL HEATER 1 [N -84 THERMOSTAT (HIGH ATARM) 1 [KPS - 81
+¥ o. | NAVE OF PARTS " TY) REMARKS FAME OF PARTS T TY| REMARKS
+|
+RULE QRDERER & S-No.
+: 18 - | ExERURE
+C!{ECKED BY
+. — - EDJ;gAWNg - — F. 0. /W. O COMPOUNDfSET
+P % BH BT Y e v Fod oy b
+SCALE o ;
+R ® i DRARIRG lg G R - 12 4.4
+DATE Q1-NOV. - 94
+] i SUNFLAME 0., LTD.
+
+DRAWING HISTORY
+
+Sk A
+
+PAINTING OOLOUR
+
+et 471 a
+
+--- PAGE 64 ---
+BLED [AEIGHT | FILTRING
+RATI | 27! ke
+]
+JIs 1 17165 | 9
+
+IS 106 B m w wo o
+
+S5 10K 26|25 1% 1% 215 nlw| 2
+
+1S 1061104 1654 20 | 419 |20, 257 {20 | {215 15 zvilss\zz
+i | i
+oL, THE FILTERING 4385 JEAKS OF PLMCHING FLATE TDES
+PERGENTAGE OF IT'S SPACE SBEA gg;}"‘:
+TSI T LT
+GASKET
+O-RING
+BLAIND FLUG
+DRAIN PLLG
+| SCREEN
+DUNCHING PLA
+SPRING
+| LORER ELEMENT RING
+TUPPER _ELEMENT_RING]|
+0-RING
+O-RING
+NDLE
+| THRUST WASHER.
+GUT
+TPACKING GRAND
+COCK
+COCK_CASE
+COVER
+
+o
+
+WAFN oo
+
+!
+
+STAINLESS STEEL
+CARBON TR
+j CARBON STEFL
+HEBER
+5
+ST
+Lcoeven s
+sy e
+- ST I
+Tcast [hoy
+ST 80
+
+HHNHHHJNNNN
+
+‘NN—‘
+
+RERES 1o
+GRS
+
+DUPLEX BASKET SCREEN
+& FLANGE TYPE STRAINER
+
+Wy - - TI MR —F
+
+e, M s - 1512
+
+SUNFLAME CO., LTD.
+K : SPACE FEY'D FOR ELT FEATAL A4 4 MV RN
+
+--- PAGE 65 ---
+RE11
+
+! LER WEIGHT = 12 Kg ... WITH FLANGE
+- | 7 2
+EE N
+H >
+Il !
+A |
+ol o—. BLACK
+\X BROWA
+L GRAY M{, 2
+\ | Y KHITE -
+Bl e
+|
+=
+¢ 5 B -4
+g 8
+! _ .
+[ L ®
+8 4 | PRAIN-COCK i -
+I Le AR T B T V2]
+", | FILTER PLATR .
+18 |y | 1T S0
+SCRAPER PLATE T
+Ty e | | T e
+! . SQUARF RAD C!
+58§
+a1 1 fsese
+CITTANK
+ROV T R
+VATN SHAFT
+: 9 b w| 1 |sme
+- [ COVER
+[ /@) 8 el 1 rcm?n
+— = ATR BLITDUR
+= A 7 e Lo |t
+"0 RING :
+[ Ty v g [
+SHAFI STOPPER ]
+AP 5 ETE 1 isupe
+N COLKMANDLE CABLE GLAND |
+~LosK-atOL N Bik 75 » F ! 15
+INLET & OUT-LET FLANGE [, | TERMINAL COVER L lssio
+115 10K 4dmer 324 W~ !
+——— 5 | REDUCTION GEAR HEAD R
+NANI¥A ZUTO-CLEANER i ey o K Himn L
++HBE=E 110BM 1 1o
+AT = HIES R G R {25¥)
+N o.| VAN OF PARTS i REMARKS
+] g &
+RULE ORDERER & S-Yo.
+M _ EXERUBE
+CHECKED BY
+B A
+- AUTO. ~CLEANER W1TR ELECTRIC MOTOR
+DRAWN BY e L s -
+w ® BWEHA - - 79— F
+SCALE [
+No
+RoE TRAVIRG rg M s - 1 4 5 8
+MW | 2 - we e
+0] SUNFLAME Co., LTD.
+
+PAINTING COLOUR BRoeE; _J Fresrr 3 7 L A
+
+--- PAGE 66 ---
+R104 & R116
+
+‘GAUGE_BOAD
+SUC. FLANGE BITE TYPE JOINT FUR 10% 0D CuT
+e Al ry | U1 10K 254 1 ‘ 2xo
+DEL. FLANGE | ” \—}
+WO JIS 10K 204 [= ]
+2150 120
+
+173¢
+
+TYPE TROCHOTRAL GEAR TVPE
+® E: [CEYASE e
+NIPPON G-ROTAR MFG. €0., LTD.
+
+MODEL Llo. BAY—o— st e
+[4 & TOP-210-05 | ToP-2te-03 | TOP-216-0S | TOP20-68
+CAPACTTY
+
+= ke/br 500 s 066 k289
+
+2
+DELTVERY PRESSURE -
+§ kg/em2 7 0.49 MPa
+
+0~ 0.3 kg/ea2 /0 ~ 0.029 WPa
+
+IR
+SUCTION PRESSURE
+;3
+
+1,200 R.P.M.
+MTTSUBISHT ELECTRIC CORP. INSULATION CLASS = F
+B A s
+
+REVGLUTION {STNCERONTZING)
+[ (FL
+
+2
+] 0.4 K4 x 6P [ m il
+
+STZE ) 145 H51 Eird 7
+F % B 82.5 85 35 el
+
+WEIGHT : = 26 Kg
+
+RULE | ORDERER & $-No.
+b A ] EXHARURE
+CHECKED BY
+W&
+DRAWN BY
+o
+
+- 4]
+02 - ST, -85 SUNFLAME C0,, LTD.
+
+PAINTING COLOUR 2Raes
+
+Bt Y v 7 L A
+
+--- PAGE 67 ---
+80 ‘m‘ g0
+
+R103
+
+s
+
+SOURCE
+
+N CAPACITY 4 B ¢ b WEIGHT | IN/OUT FLANGE
+Olu & | B B | AL OF
+T| 5K | 960 | 470 | 550 | 580 | 5l kg 20 A_
+T e | YT ees | 7| sikg 04
+| s T 7T |1.280| 780 | 150 S0 kg | 204
+W |- " sse ] 67 ke 20 A
+51 9K - T 64 ke_ 20 4
+8 10 k¥ " " 550 86 kg 204
+. B @
+AIR VENT VALYE DRAIN VALVE
+5 P o 1% 5 1 [PT 1/4 10 Sy y 5 1 PT 3/8
+f —~ HEATER SHELL
+e o w | P00  Tnom o am |
+QIL OUT-LET FLANGE OIL IN-LET FLANGE
+3 H n 1 JIS 10K F.F. 8 M A o 1 JIS 10k F.F.
+THERMOSTAT & THERMISTER - SHEATH-HEATER ELEMENT 13 10 k¥
+2 y-opambep-gxg)| O THAREL T T Ty 3 |5~k
+TERMINAL BOX RELIEF VALYE
+1 i# e & 1 6 Y oy - 7 1 PT 1/2
+MARK [ NAME OF PARTS Q' TY | REMARKS MARK | NAME OF PARTS Q' TY | REMARKS
+B ) EAGE] 5 ! &
+
+ORDERER & S-No.
+EXER O
+
+30 - AN -8 SUNFLAME CO., LTD.
+
+AI GOOLOUR ~
+
+--- PAGE 68 ---
+k237
+
+NAME OF PARTS Q TITY | MATERIAL
+% o | HE A
+BODAY 1 FCD 450
+2t _
+VALVE SHEET 7
+I LI
+VALVE BODY
+f’ 7@ 1 BCE
+ADJUSTING RING
+Wy sy b |PCE B
+GUIDE i
+oy 4 ov| U |pes
+SPINDLE
+by v | e
+SPRIG SBATS
+%3 B ™ )1)% 2 C3604BD
+SPRING
+‘1, i h7 1 Sus 3047
+APISTING SOREW
+E Y L 17 C3604BD -
+PACKING BOX
+Ny iy H 1 BCE
+GASKET o
+,,,1' 2 h e b 1 ,,ASBLST[,)S FREE
+RATCHET PN s
+I DR A O S A R
+Tock 7T
+PR R 1 SUS 304 o
+TAP K0T
+m F o4 b 1 C3604BD B
+GLAND
+I 1| csodm
+ADJUST. SPINDLE
+P w® r 1 C3604BD |
+HAND KHEEL N
+Ny Py E ! sre |
+SPRING WASHER .
+Wb e | 1| |
+X, WUT
+oA R
+SIZE | VALVE SHEET | IN-LET ; QUT-LET L1 L2 i ¥EIGHT | IN./OUT FLANGE LA 1B
+o D o @ ®F [JIS 104K F.F
+154 17 1/7 3/4 35 48 (1938 5 ke 204 3 110
+204 21 3/ 1 40 19 (200 5 ke 254 40 150
+BEA] 28 T Tl [ 17 [ 55 [247] ke ) 50 | 150
+324 36 1-1/2 60 62 ;290 10 ke 404 100 | 180
+
+NO
+
+DRAVING HISTORY
+sk B
+
+22 - MAY - "89
+PAINTING COLOUR PREEE,
+
+RELIEF VALVE {0]L PRESS. ADJ. VALVE)
+Y- (MEHEER)
+
+URAYING No. gy T 4 1 9
+
+SUNFLAME 0., LTD.
+Bkt Y v 7 L A
+
+--- PAGE 69 ---
+R612, R620. REZ6 & REZ_
+
+o
+
+*;
+
+LoW T0 OFF
+CANAON
+
+HISH TO OFF
+
+TVPE
+
+CODE No.
+
+T wax. PERM. TEMP.
+ke
+
+DIFF.
+RANGE
+
+KPS79
+KPS-30
+
+e
+UGOLEIZB
+
+50 - 100 |
+
+[ B
+0 - 120
+
+e
+
+kps-§1
+
+056018108
+
+§0 - 150 250
+
+Kps-83
+
+0603108
+
+100 - 200 300
+
+#
+
+RULE
+
+WEIGHT : 1.2 Kg
+
+CHEX
+5
+
+L
+CRED BY
+#
+
+TR:
+2]
+
+AWN
+
+Y
+12
+
+THERMOSTAT
+H - EFRZF v
+
+M t h 11 38 2
+
+DANFOSS DHG.
+
+No._60-0047
+
+DRAVING HISTRY
+T
+
+17 - OCT. - " 80
+PAINTING COLOUR
+
+%
+SUNFLAME C0., LTD.
+Rt 2 7 L A
+
+--- PAGE 70 ---
+RBOS & R62%
+
+7 PE 3/8
+) s
+H 35
+/—A—l
+/
+15k /
+o LOX 10 GF1
+COMKON 1 o=
+HIGH 10
+NIRING
+JODEL o RARGE VECHANICAL DIFF. | NAX. PERISSIBLE PRESS.
+B om| N ENEER FBEE | BawBESN
+Wa ke/ond Wpa ke/cn2_ | WPa ke/cn2
+
+XPs - 33 0603103 D- 8.5]0.02 FIXED| 0.2 FIXED'| _ 0.98 10
+
+KPS - 85 | 060-3100 0- 8 [0.04 015 0.4-15 s |1z W
+%5 - 37 | 050-3101 518 |0.0T4- 0.25 | 0.75- 2.5 3.6 | 12
+[XPs ~ 39 [ 060-3102 | 0,96~ 3.48 (10 = 85 [0.16 - 0.58 1.8 ~ 6 _ T T
+
+KPS - 45 1 000-3121 [0.39- 3.92| 4 - 40 |0.22 - 10822 -1 |
+
+WEIGHT : 1.2 ke
+~
+ORDERER & S-No.
+
+| BXERORE
+TYPE KPS
+
+PRESSURE SWITCH
+IEh 24 5 F
+
+DKAWINGNgg. M ps 11 3 3
+
+SUNFLAME 0., LTD.
+wREERE Y U L U
+
+“DANFOSS DNG. Yo.
+60 - 0053
+
+1;
+DRAKING HISTORY PAINTING COLOUR et
+B & % B
+
+--- PAGE 71 ---
+R702 & R703
+
+LE N
+
+2
+
+PRESS. ADJ. KNOB
+
+15 b
+
+i
+
+FEhSER L
+mn -
+%f 4
+
+100
+
+FITTING HOLE
+AR
+
+VT EAEATAL
+o
+PRESS._SETT. SCALE DIEP. ). S0l
+EAHEEB S fEWBRE &
+RANGE VECHANTCAL DITF. 3
+YODEL Ho.
+po e (ENeTER 15 B b 1) E ) A
+" WPa_ | ke/cn2 WPa kg/ca? Wa kg/enz
+RT-5_ [02-167,2-17/012-038| 1.2-4 | 24__ | 28 | 415
+RT — 116 |0.1-0.98 [1-100.03 ~0.15{0.3 - 1.§ 245 25 39.5
+WEIGHT : 1.2 Kg
+RGLE ORDERER & S-Yo.
+| HSHRORE
+TYTE RT
+4 STEAM PRESSURE SWITCH
+ASRENZA 5 7
+~ R I)RAWI\GN M A - 10 3 2 "I
+L IR
+DRAWING HISTRY EPAINQMG IOk ERE | SUNFLAME ¢0., 11D —I
+I ok ek ¥ VT LA

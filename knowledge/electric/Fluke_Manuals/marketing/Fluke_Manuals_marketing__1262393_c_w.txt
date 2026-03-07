@@ -1,0 +1,832 @@
+FILE: 1262393_c_w.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 10:31:29.990524
+==================================================
+
+
+--- PAGE 1 ---
+Transmitter Calibration
+
+with the Fluke 700 Series
+Documenting Process Calibrator
+
+The precision sourcing and measurement
+
+capabilities of the rugged Fluke Documenting
+Process Calibrator (DPC) make it an ideal choice
+for the calibration of process instrumentation.
+
+The following examples show how to address
+transmiltter calibrations quickly and effectively
+using the Fluke 701, 702, 741 or 743 Documenting
+
+Process Calibrator.
+
+Calibrating a 2 Wire Thermocouple
+
+Transmitter with the Fluke 700 Series
+
+Documenting Process Calibrators
+The transmitter in this example is a 2 wire
+transmitter (needs loop power). The input
+
+stimulus for this device is from a type
+mocouple with an input range of 100-300°C at
+0% and 100%. The output drawn against loop
+
+K ther-
+
+power is 4-20 mA at 0% and 100% with a
+tolerance of 0.25%. The steps below show
+how to: 1) perform a three point ascending
+(31) As Found (pre-adjustment) test at 0-50-
+100%, and Tag the results, 2) adjust the zero
+
+and span (span = 100%) o
+
+e transmitter,
+
+then 3) perform a three point ascending AS
+
+Left (post-adjustment] test at 0-50-100%, Tag
+
+those results and review them in memory.
+
+Connect a type K mini-con-
+nector into the *TC” input of
+the DPC and connect to the
+thermocouple input of the
+transmiltter (Figure 1. tis
+necessary that you use the
+correct type of mini-connec-
+tor for this connection to the
+DPC.
+
+Connect the center two ter-
+
+" minals of the DPC to the
+
+connections on the transmit-
+ter where loop power is
+applied (Figure 1).
+
+Rosemount 444
+
+Fluke DPC
+
+Fgure 1
+
+FLUKE.
+
+Application Note
+
+Note: If you prefer to use house
+loop power rather than supply-
+ing loop power from the DPC,
+connect these two leads in series
+with the loop supply to the
+transmitter.
+
+3. Once your connections are
+made, starting from the DPC
+power up state (or measure
+screen), select the *mA” but-
+ton to measure milliamps
+(Figure 2).
+
+0.000mA
+
+e g
+I Rt
+
+S e
+
+S o |
+IErs T}
+
+Fgue 2
+
+--- PAGE 2 ---
+4. Nextdepressthe "MEAS/ 6. Next, depress the "SETUP* 8. Select “Auto Test” and
+SOURCE" button; now you button on the DPC. The cur- watch the DPC take 0, 50
+are in the source screen. sor should begin on loop and 100% measurements of
+
+D “ENTER," nt (4, 12 and 20 mA
+Since you want to source a B own antow until the DPC nmz:rx;?nal)( wh)lea:numng
+thermocaupls, press “TC/ cursor is on Enable 24V and 100°, 200° and 300°C.
+RTD" once. Use the down T oA et U
+arrow to move the cursor to mf‘mh s “Dore* softh 9. Once the DPC has completed
+“K” and then press "ENTER." (F;.] o 5) ey this evaluation, it will dis-
+(On a 741 or 743, select qure 5). play the post test summary
+*Linear T and press ENTER,) screen with the SOURCE,
+The DPC will respond with MEASURE and ERROR col-
+72777 asking for a tempera- A unns. Failures in the error
+ture to source. Depress *100” 4176 m column will be in reverse
+and “ENTER” (Figure 3). video (Figure 8). Depress
+e Tpe K] “Done.*
+e 1000 °C o
+TC Type I - SIURCE ESSURE | ERROR %
+Rt s e s i
+1000 C e | o s | dBS 157
+: Figure 5
+Wome sace  mver a1 Atthis point depress
+" o | e *As Found” and fill in the
+i | croes template as follows e
+Raue 3 Figure ), (On a 74 or 743, [ S I
+select "Instrument” and _ Figue 8
+SOURCE" button once and e Ve 10. Now you are presented
+you will be in the split e e it with the Tag entry screen
+Screen mode (Figure 4). Deioyd seconds ) {Pigure 9).
+S : S
+~0.001 mA e oo [ETT—
+Tolerance. 0.25% Tor
+. e R
+1000 °C 1005 Yo, 300 ¢
+bt Ref. 24.C T3 CC 3 20my Thsl Slralvgy
+Pgued Figure 6 Hgure 8
+Note: SKip to step 7 if you are D “DONE.” You should Press the "ENTER" key to
+measuing curtent in series Sng o ape tho spiitscroem and St 20 entres. Depress
+the house loop power source are presented with soft key Done” when complete until
+mentioned in step (2]. choices of “Abort,” “Auto the split sareen reappears
+st ot el e with the soft key options of
+flpisie *As Left,” “Adjust,” “Save”
+qure 7). and *More Choices” on the
+display of the DPC.
+T B 11. At this point, select "Adjust”
+
+2 Puke Corporation 700 Series Documenting Process Calibrators
+
+4184 mA
+
+and the DPC will source 0%
+and measure for 4 mA to
+0.25%. As long as the error
+exceeds .25% the error win-
+dow in the measure half of
+the screen will be in reverse
+video. Adjust the zero on the
+transmiltter until the error is
+less than 0.25%. Next, select
+*Go to 100%" and adjust the
+transmitter span in the
+same way. You may also
+*Go to 50%" to check linear-
+ity at mid-span.
+
+--- PAGE 3 ---
+12. After adjustment is complete,
+select *As Left,” "Done” and
+“Autotest.” Watch the 0-50~
+100% evaluations. If the
+adjustment was successful,
+all the errors in the post run
+summary should be in nor-
+mal video (or less than 25%)
+{Figure 10].
+
+VRS AR
+401 ma o
+
+a0
+a0t
+
+Figure 10
+
+13. Select “Done,” *Done,” and
+*Done” again and you are
+done!
+
+To review your results
+
+in memory, select the *More
+Choices” Soft key, the *Review
+Memory” soft key and move your
+cursor to the applicable result.
+(On'a 741 or 743, select "As
+Found” or “As Left” then
+"ENTER.”) Press "ENTER" and
+review the setup for the test,
+select “Next Page” for the results,
+and press “Tag” for its associated
+label. Select *Done” and “Done”
+and you should be back at the
+results screen. Next, move your
+cursor to the applicable "As Left”
+result and press "ENTER" and
+review the setup for the test.
+Select “Next Page” for the results,
+and press “Tag” for its associated
+label. When you are finished
+reviewing results, press “Done”
+until right-most soft key label
+changes to *More Choices.”
+
+FLUKE »
+
+3 and 4 Wire RTD Sourcing for the
+Fluke 700 Series Documenting Process
+Calibrators
+One of the most frequently asked application
+questions pertaining to the 700 Series Document-
+ing Process Calibrators is, "How do I hook up the
+test leads to the DPC to source 3 and 4 wire
+RTDs?" For 3 and 4 wire RTD measurement, the
+DPC has embedded hookup diagrams that easily
+show you how to connect the DPC. However, for
+3 and 4 wire RTD source, the DPC does not offer
+that assistance.
+
+The example shown below g‘ig'ule 11) depicts
+the hookup for a 3 and 4 wire Rosemount
+RTD Transmitter. You will need an additional pair
+of TL22 test leads and AC20 industrial test clips to
+complete all the connections necessary for this
+application. In order to double the available
+connections to the source terminals on the
+DPC, you also will need to utilize the short black
+jumpérs supplied with the Documenting
+Process Calibrator.
+
+Rosemount 444
+
+Fluke DFC
+
+Fguee 11
+
+1 Firstinsert the black jump- 4. Once the connections are
+ers, J1 and 12 into the pro- made as per the diagram in
+cess calibrator's RTD source Figure 11, enable the loop 24
+terminals. volt power from the setup
+
+screen, source the pertinent
+
+2. Egsge‘;‘&‘]‘jsﬂ“sel Rg source, RTD for the specific transmit-
+S4 (omit $4 for 3 wire RTDs; ter being evaluated, and sst
+i oy Sbaded i a wirs the measure mode fo mA.
+KID sourcing). 5. At this point, enter the split
+
+Soreen mode of the DPC and
+ki el v and As Left tests as you did
+g g in the previous thermocouple
+‘transmitter example.
+
+Pluke Corporation 700 Series Documenting Process Calibrators 3
+
+--- PAGE 4 ---
+Calibration of an I to P (Current to
+Pressure) with the Fluke 700 Series
+Documenting Process Calibrators
+A common device in the Fluke DPC workload is
+the I to P. The I to P device is used to convert
+electrical loop analog control of 4-20 mA to
+gﬂeumatic analog loop control of 3-15 PSL
+
+e device in this example is an I to P with
+current input values of 4-20 mA for 0% and
+100% with output range of 3-15 PSI
+for 0% and 100%, -+/- 2%. This step-
+
+by-step example describes how to:
+1 perform a three point asoending
+(3312 Found (pre-adjustment test
+at 0-50-100%, Tag the results, 2
+Adjust the zero and span
+(span=100%) of the I to P, then 3)
+perform a three point ascending
+As Left (post-adjustment) test at
+0-50-100%, Tag those results and
+review them in memory.
+
+1. Connect the pressure module
+to the DPC. Connect the out-
+put of the I to P to the input
+of the pressure module. If you
+are using a differential pres-
+sure module, make sure {for
+
+this example) that it is a 15
+PSI module and connect to Figuee 12
+the input labeled "H"
+{Figure 12).
+
+2. Connect from the center two
+banana type connections of
+the DPC {o the input of the [
+to P where control current is
+supplied (Figure 12).
+
+3. Once your connections are
+‘made, assuming you are in
+the power up state (or mea-
+sure screen], select the *Pres-
+sure” button (directly above
+the “Range” button]
+
+(Figure 13).
+
+4. Next depress the "MEAS/
+SOURCE" button; now you
+are in the source screen
+
+(Figure 14,
+[ e
+vt Fwe 13
+Off
+o —
+Sare | Choizs.
+
+Figure 14
+
+4 Fluke Corporation 700 Series Documenting Process Calibrators
+
+Since you want to source a
+current, depress “mA.* Depress
+“ENTER" which chooses “Source
+mA” when given the choice of
+“Source mA” or “Simulate Trans-
+mitter.” When the DPC responds
+with 7727 asking for a current
+to source, depress *0" and "EN-
+TER"
+
+5. Next depress the "MEAS/
+SOURCE" button once and
+you should be in the split
+screen mode (Figure 15).
+
+3.0 psi
+|
+0.000 mA
+
+&
+For
+
+e
+Creices
+
+S
+
+Figure 15
+
+--- PAGE 5 ---
+At this point depress *As
+Found” and fill in the tem-
+plate as follows (Figure 16].
+(On a 741 or 743, select
+*Instrument” and press "EN-
+TER,” then fill in the tem-
+plate. In place of “User-
+Entered Value=Disabled,”
+use the default "Delay=0
+seconds.”)
+
+9. Now you see the Tag entry
+screen (Figure 18).
+
+Procs ENTER  Chanpo
+
+e FLIRE-700P05|
+T
+
+Figure 16
+
+Press "DONE.” You should
+now see the split screen,
+with soft key choices of
+*Abort,” *Auto Test” and
+“Manual Test.”
+
+Select "Manual Test,” and
+watch the DPC start at 0%.
+Once the reading has
+settled, depress “accept
+point.” Perform the 50 and
+100% measurements the
+same way.
+
+Once the 701/702 has
+completed this evaluation,
+it will display the post
+test summary screen with
+the SOURCE, MEASURE
+and ERROR columns. Fail-
+ures appear in reverse video
+in the Error column (Figure
+17). Depress *Done."
+
+abort e
+
+Fgue 18
+
+Press the “ENTER" key to
+edit the entries. Depress
+*Done" when complete until
+the split screen reappears
+with the soft key options of:
+*As Left,” “Adjust,” “Save,”
+and “More Choices.”
+
+10. At this point, select *Adjust”
+and the DPC will source 0%
+(4 mA) and measure for 3
+PSI to 2%. As long as the
+error exceeds 2% the Error
+window in the measure half
+of the screen will be in
+reverse video. Adjust the
+zero on the I to P until the
+error is less than 2%. Next
+select "Go to 100%" and
+adjust span in the same
+way. Select *Go to 50%" and
+evaluate linearity.
+
+11. After adjustments are com-
+plete, select *As Left,” “Done”
+and *Manual Test” and re-
+peat step (8). If the adjust-
+ment was successful, all the
+errors in the post run sum-
+‘mary should be in normal
+video [Figure 19).
+
+SIRE  WERSFE ERIRT WEASIRE
+aooma *aesp aoxme s
+1200 3067 059 Z0dknn  Cai7Ted
+N 13RS AMrme - dnvm
+
+e A e | TET
+ot e | e | owe v | T | b [ oo
+
+Figure 17
+
+Fgue 19
+
+12. Select “Done,” *Done,” and
+*Done” again and you are
+done!
+
+FLUKE »
+
+To review your results in memory,
+select the “More Choices” soft key, then
+the "Review Memory” soft key. Move your
+cursor to the applicable result. (On a 741
+or 743, select "As Found” or “As Left,” then
+“ENTER.) Press “ENTER.” After reviewing
+the setup for the test, select "Next Page”
+for the results, and press “Tag" for its as-
+sociated label. Select "Done” and “Done”
+and you should be back at the results
+screen. Next move your cursor to the ap-
+plicable "As Left” résult and press “EN-
+TER.” Review the setup for the test, select
+“Next Page” for the results, and press
+“Tag" forits associated label. n you
+are finished reviewing results, press
+“Done” until right-most soft key label
+changes to *More Choices.”
+
+Pluke Corporation 700 Series Documenting Process Calibrators  §
+
+--- PAGE 6 ---
+Calibration of a P to I (Pressure to
+Current) with the Fluke 700 Series
+Documenting Process Calibrators
+A common device in the Fluke DPC
+workload is the P to L. The P to I device
+is used to convert pneumatic analog
+loop control si of 3-15 PSI to
+electrical loop analog control signals of
+4-20 mA. The device in this example is
+aP to [ with pressure input values of
+3-15 PSI for 0% and 100% with output
+range (drawn from loop power) of
+4-20 mA for 0% and 1 ), +/- 2%.
+In this step-by-step example we will:
+1) %emm a three point ascending (31)
+As Found (pre-adjustment) test at 0-50-
+100%, and Tag the results, 2) adjust the
+zero and span (100%] of the Dol then
+3] perform a three point ascending As Left
+(post-adjustment) test at 0-50-100%, tag
+those results and review them in memory.
+
+6
+
+Hand Pump
+
+Figure 20
+
+Connect the pressure
+module to the DPC. Connect
+the input of the P tol and
+the output of a pressure
+hand pump to the input
+
+of the pressure module
+using a “T* connector (Fig-
+ure 20). If you are using a
+differential pressure mod-
+ule, ensure (for this ex-
+ample) it is a 15 PSI mod-
+ule and connect to input
+labeled *H"
+
+Connect from the center 2
+banana type connections of
+the DPC {o the input of the P
+to where loop power
+
+is supplied (Figure 20).
+
+Next, depress the *SETUP"
+button on the DPC. The cursor
+should begin on loop power.
+Depress "ENTER,” down ar-
+row until the DEC cursor is
+on Enable 24V and depress
+*ENTER." Next depress the
+*Done” softkey.
+
+Once your connections are
+‘made, assuming you are
+
+in the power up State (or
+‘measure screen], select the
+mAbutton.
+
+Fluke Corporation 700 Series Documenting Process Calibrators
+
+. Next depress the "MEAS/
+
+SOURCE" button; now you
+are in the source screen
+
+Figure 21).
+
+7. Next depress the "MEAS/
+SOURCE” button once and
+you should be in the split
+screen mode (Figure 23).
+
+0.000 mA
+Oft (-
+0.0 psi
+Figue 21 Figure 23
+Since we wish to source
+a pressure (using a hand
+pump) depress the pressure
+button, (directly above the
+range button) (Figure 22).
+Eﬁmm Buton
+Rgue 22
+
+--- PAGE 7 ---
+8. At this point depress "As
+Found” and fill in the tem-
+plate as follows [Figure 24).
+(On a 741 or 743, select
+*Instrument” and press
+“ENTER " then fill in the
+template. In place of “User-
+Entered Value=Disabled,”
+use the default "Delay=0
+seconds.”)
+
+acnnma
+
+Figure 24
+
+Depress “DONE.” You should
+
+now see the split screen and 10,
+
+are presented with soft key
+choices of “Abort,” *Auto
+Test,” and "Manual Test.”
+
+9. Select Manual Test, and
+watch the DPC for the
+prompt: *Go to 3 PSI"
+{Figure 25).
+
+e
+
+[Go 1c e
+
+0.000 psi
+
+e
+Tt
+
+e
+
+Figure 25
+
+At that point using the hand
+‘pump, pump until the DPC
+display is reasonably close
+to 3 PSI and depress *Accept
+Point.” Now the DPC should
+display “Go to 9 PSL” Again,
+using the hand pump, pump
+up reasonably close to 9 PSI
+and depress “Accept Point.”
+When the DPC responds with
+*Go to 15 PSI" pump to that
+value and "Accept Point.”
+
+1L
+
+It is important to understand
+a key feature of the DPC at
+this point. When the error is
+being calculated on the mea-
+sured mA by the DPC, it will
+make the calculation based
+on the deviation of the
+amount of pressure being
+sourced. What this means i,
+if you are sourcing 3.120 PSI
+(1% of span above nominal),
+the DPC will look for a mA
+reading of 4.160 mA (also
+1% of span above nominal).
+In order to make a proper
+evaluation o the device you
+need only to get reasonably
+close to the nominal pres-
+sure values with the hand
+pump. The remaining
+source pressure error is
+compensated for by the
+DPC during mA measure
+calculations.
+
+Once the DPC has completed
+this evaluation, it will display
+the post test summary screen
+with the SOURCE, MEASURE
+and ERROR columns (Figure
+26). Depress “Done."
+
+12.
+
+13.
+
+FLUKE »
+
+Press the *ENTER” key to
+edit the entries, press “Done”
+when complete until the split
+screen reappears with the
+soft key options of: *As Left,”
+“Adjust,” “Save,” and "More
+Choices.”
+
+At this point, select "Adjust”
+and the DPC will source 0%,
+instruct you to *Go to 3 PSI"
+and measure for 4 mA to 2%.
+As long as the error exceeds
+29% the Error window in the
+measure half of the screen
+will be in reverse video.
+Adjust the zero on the P to
+until the error is less than
+2%, Next select *Go to 100%"
+and adjust span in the same
+way.
+
+After adjustment is complete,
+select *As Left.” "Done” and
+“Manual Test" and repeat
+step (9). If the adjustment
+was successful, all the errors
+in the post run summary
+should be in nomal video
+{Figure 28).
+
+Now you are presented with
+the Tag entry screen (Figure
+21).
+
+Press CNTLR fc Change
+
+abort N
+
+Fgue 27
+
+14.
+
+o
+com e rel
+
+o Ve e [
+s e flacitac s N
+Ukt
+D aBine
+
+won | G | o | ome
+
+T
+
+Ao Page Tax Zone. Figure 28
+hgue 26
+
+Select "Done,” “Done,” and
+“Done” again and you are
+done!
+
+To review your results in memory,
+
+select "More Choices” soft key, “Review
+Memory” soft key, move your cursor to the
+applicable result. (On a 741 or 743, select
+
+“As Found” or "As Left,” then "ENTER.") Press
+“ENTER" and review the setup for the test,
+select "Next Page” for the results, depress
+“Tag" for its associated label. Select “Done”
+and “Done” and you should be back at the
+results screen. Next move your cursor to the
+applicable *As Left” result and depress
+“ENTER" and review the S:;uuf for the test,
+select “Next Page” for the results, depress “Tag”
+for its associated label. When you are finished
+reviewing results, press “Done” until right-
+most soft key label changes to "More Choices.”
+
+Pluke Corporation 700 Series Documenting Process Calibrators 7
+
+--- PAGE 8 ---
+Note on Uploading Results to Your PC
+
+If you are using a Fluke 702, your results may be uploaded to your PC
+using Fluke PMLink* Software. If you are using a 702 or a 743, you may
+choose an instrumentation management software package from this
+lst:
+
+* Fluke DPC/TRACK™
+. @ Cornerstane  Cal Station and Base Station
+
+« BESMBE QM6 Quality Manager Calibration Software
+
+Blue Mountain Quality Resources
+
++ Honeywell Loveland” InstruMint and DocuMint
+
+* DPL Group CalTrax and CalTraxPro
+
+Additional information is available on these products
+
+« Fluke 700SW DPC/TRACK Data Sheet (A0576)
+
+« Beamex QM-6 Quality Manager Software (A0598)
+
+« Cornerstone Software (A0528)
+
+« Honeywell Loveland InstruMint and DocuMint Software (A0603)
+« Pressure Module Application Note (BO300)
+
+« Custom Units Application Note (B0322)
+
+« Limit Switch Application Note (B0321)
+
+« Process Tools Accessories (A0602)
+
+FLUKE »
+
+Fluke. Keeping your world
+up and running.
+
+Pluke Corporation
+PO Box 8080, Everett, WA USA 98206
+Pluke Europe BV.
+
+PO Box 1186, 5602 BD
+
+Eindhoven, The Netherlands
+
+For more information call
+
+In the USA. (800) 443-5853 or
+
+Fax (426) 356-5116
+
+In Burope (31 40) 2 678 200 o1
+
+Fax (31 40) 2 678 222
+
+In Canada [305) 830-1600 or
+
+Fax (905) 890-6866
+
+Prom other countries (42) 356-5500
+Web access: htps/fwrww.fuke.com
+
+51998 Fluke Corporaton, All ightsreservec.
+Priiod InU'S A 98 BCZOTUEH Rev ¢
+
+Printod on ecyclo paper

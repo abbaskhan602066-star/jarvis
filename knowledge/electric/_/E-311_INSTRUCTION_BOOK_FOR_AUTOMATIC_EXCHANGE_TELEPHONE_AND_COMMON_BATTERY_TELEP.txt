@@ -1,0 +1,155 @@
+FILE: E-311 INSTRUCTION BOOK FOR AUTOMATIC EXCHANGE TELEPHONE AND COMMON BATTERY TELEPHONE.pdf
+FOLDER: .
+DATE: 2026-03-06 21:22:51.000575
+==================================================
+
+
+--- PAGE 1 ---
+HEADSET (0DZ—8207-—1)
+
+| 8 IBRACKET |
+I 8
+
+7 \BELT cLip__ -
+
+|
+I
+e ICDNNECHUN 80X
+|
+I8 \SEL‘CTOR SKITCH |
+| |
+| 4 \BEQEPIACLE t
+I lvgdzzm |
+|8 [MEADSET |
+
+[ S|
+} 2 |RECEIVER |
+. i
+Pt ITRANSMITTER |
+[T S
+1™ |COMPONENT PARTS |
+L 1%s |
+
+SUB RECEIVER (0DZ—-95302-1)
+
+HODULAR
+PLUG
+
+--- PAGE 2 ---
+MAINTE!
+
+As far as each equipment is properly handled and operated
+
+WNCE
+
+almost no trouble
+
+occurs. However, should any trouble or malfunction in equipment be found, the
+
+foltowing listed informations
+
+equipment.
+
+1 be helpful for shoot
+
+ing it and repairing the
+
+It should be noted that disassembly of transmitter unit, reeciver unit, and dial
+
+will require replacement with new ones if they never restore the proper function
+although reassembled after repairing.
+
+Symptoms
+
+Probable location
+or cause of trouble
+
+! Troubte shooting
+
+Repairing
+
+{ Incapable
+
+of calling
+
+Rotary switeh
+
+Push-bution switch
+1
+
+Check
+
+contacts of switeh
+visually or
+
+with a tester.
+
+7
+|
+J
+i
+
+Clean contacts
+or
+
+i Change the switch
+o new one
+
+| Disconneetion
+
+Check continuity
+
+Selder broken wire
+
+"with serew driver.
+
+tof eireuit pof eireuit or change it
+| to new one.
+e e _
+Screws loosened ! Cheek Tighten
+
+with serew driver
+
+Lamp, buzzer
+and bell do
+not function
+
+T ! Defective lamp Check lzmp | Change the lamp
+H or by replacing it to new one or
+poor contact with new one or clean rontact portion
+of connector cleaaing conncotor. | such 45 connector
+L0y [ Poor contact ! Check Clean contact and
+; of hook switeh viswally or I adjust contaci spring
+: with a tester Or change the switeh
+I I Disconnection Cheek continuity Solder broken wirce
+! of of circuit. or cthange 1t
+! circuit network to new one
+I Poor contact Detach relay ; Clean contacts :
+By { of relay out of vircuit or
+1 or disconnection | and check continuity | change the relay
+| {of relay coil of coil with tester | to new onc.
+Disconneetion Detach | Change the coil
+of bell or huzzer of bell or buzzer
+U bell or huzzer | out of circuit | to new one.
+| j and check continuity
+[ with tester !
+[ A— . i I N
+| : Shart of circuit : Check continuity | Change the parts
+i | for terminating [of cireuit [such a5 Cransistor
+1 | E—
+! Serews loosened | Cheek Tighten
+Twith screw driver
+
+fwith screw driver
+
+Al Telephone set
+
+B} Signal
+Ca—
+
+relay box
+
+€) Others
+
+--- PAGE 3 ---
+

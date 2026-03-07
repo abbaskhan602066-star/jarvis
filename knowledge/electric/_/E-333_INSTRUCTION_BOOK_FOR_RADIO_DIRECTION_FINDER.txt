@@ -1,0 +1,487 @@
+FILE: E-333 INSTRUCTION BOOK FOR RADIO DIRECTION FINDER.pdf
+FOLDER: .
+DATE: 2026-03-06 22:09:03.375524
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+RADIO DIRECTION FINDER
+
+|
+Kawasaki Heavy Industries, Ltd. (IKI1) and may
+not be copied, nor disclosed to any thivd party
+
+| without KKHI's prior written consent )
+
+MANAGER SCALE — J0BNO.
+
+CHIEF .,//ﬂ L B
+
+onecxen 2. 2/@7*4’ s KAWASAKI HEAVY INDUSTRIES, LTD.
+
+DWG M
+SR~ 333
+
+RRAVH SHIP DESIGN DEPT, SHIP GROUP
+
+DATE K A 1456
+
+--- PAGE 2 ---
+Messrs. KAWASAKIT HEAVY INDUSTRIES LTD.
+
+S.Ko. 1436
+
+MODEL : jLD-204
+AUTOMATIC DIRECTION FINDER
+
+FINISHED DRAWING
+22 DECEMBER 1995
+
+Maritime Conmuaications Section I
+Engineering Depattment 1
+Marine Electronics Division
+
+TEL 0422-45-9538
+FAX  0422-45-8957
+
+2TH-8836 checked by in charge
+
+5021151 BN
+a3
+
+--- PAGE 3 ---
+o
+
+TABLE OF CONTENTS
+
+COMPOSITION
+
+SPECIFICATIONS
+
+INTERCONNECTION DIAGRAY
+
+MODEL JLD-204 DIRECTION FINDER GUTLINE DRAWING
+
+MODEL NAW-104 LOOP ANTENNA ( WITH GLAND TYPE FLANGE ) QUTLINE DRAWING
+
+INSTALLATICN
+
+SPARE PARTS LIST
+
+--- PAGE 4 ---
+1. coOMPOSITION
+
+HNa, COMPONENTS
+
+$ODEL oty NOTE WEIGHT
+-
+1. | DIKECTION FINDER JLD-20A 1 |source voltege : 228 VA | APPROX.
+colaring of cover 10,5k
+Wunsell 2.5G7/2 or 7.5BG7/2
+2. [ LO0P ANTRNNA NAY-104 1 |coloring : Munsell N7 APPROY.  Thg
+] WAINTE | — | svandard scdal APPROX. . 3k
+3. | Fawe
+Qo TeE | { option modal APPROX,  6kg
+4, | AT CABLE 5 cores | ssloet the cable lenglh APPROX. 13kg
+m-v 208, 25w, 30s, 35w or 40w Lo 25kg
+longth 35
+50 | HEADVIIONES §T-12 1 80 APIROX. 4008
+6. | ERROR RECORDING PAMIR | mpXPOI412 | 5
+7. | FRROR CORWICTION GURVE | Wexporasd | 2
+PAPIR
+8. | CARD CASE. A4 size t
+ENGLISIE é
+9. | INSTRUCTEON MANUAL —1
+JAPANESE -
++ -
+10, | INSPECTION DATA English only b
+L -
+11, | SPARE PARTS 71i4A005 t APPIDE. 100%
+12. | TRUE BEARING UNIT infore JRC Lho madal mumbor of | 1kg or lass
+( Zyro repeatar motor.
+wodel . P}‘7£~A/4—(CME~3:.5X )
+supplied by : KHAHL
+13, | DF SIGNAL BOX MCD-1647 - APPHOX. 4008
+
+--- PAGE 5 ---
+2. SPECIFICATIONS
+
+2,1 Rule and Approvat
+
+HMeets the 1874 SOLAS regulations and Radio Regulations of MPT Japan.
+
+2.2 Performance
+1) Bearing meastrement method:
+2) Receiving nethod:
+3) Prequency range:
+1) hpproved frequency range:
+
+5.
+
+Spot reception:
+
+6) IF
+7) Reception mode:
+
+8
+
+Selectivity:
+
+8
+
+Spurious response:
+
+10) Signal~to-noise ratio:
+
+11
+
+Bearing accuracy:
+
+12
+
+Bearing fluctuation:
+
+13
+
+Aural mull resolutien:
+
+14) Sense reverse ratio:
+
+15) Bearing indicator fluctuation:
+
+Autonatic or Manual aural-null
+
+Double superheterodyne
+
+200kHz to 4998.8kHz
+
+MF  285kHz to 526.5kHz
+
+MHF  2050kHz to 2200kHz
+
+500kHz, 2081kHz and 2182kHz for emergency
+
+and 100 channels for user memory
+
+First IF: 10.7MHz, Second 1F: 455kHz
+
+ALA, A2A, HZA, A3E, H3E and J3E
+
+{ J3E is excluded from the type approval )
+
+6dB bandwidth: 2kHz or more
+
+66dB bandwidth: 13kHz or narrower (MF)
+
+16kHz or narrower (MHF)
+
+MF: 40dB or better
+
+MHF: 30dB or better
+
+MF: 10dB or better at 50uV/m field
+
+MHF: 104B or better at 30 V/n field
+
+MF: +1° or better at InV/nm field
+
+MHF: £2° or better at 300xV/m field
+
+( measurement at ideal location )
+
+MP: 6 or better at 50uV/n field
+
+MHF: 6 or better at 30uV/n field
+
+MF: Qutput ratio of mull point and *5° point
+is 18dB or more at 5mV/m field
+Output ratio of null point and £90° point
+is 35dB or more at 5mV/m field
+
+MHF: Qutput ratio of null point and *5° point
+is' 18dB or more at 3aV/m field
+Output ratio of aull point and +90° point
+is 35dB or more at 3uV/m field
+
+{ measurement at ideal location )
+
+MF: Qutput ratio of minimum point and 180° off
+point is 15dB or more in SENSE mode at
+saV/m field
+
+MHF: Qutput ratio of minimum point and 180° off
+point is 10dB or more in SENSE mode at
+2aV/n field
+
+( measurement at ideal location )
+
++0.5° or less at laV/m field
+
+1" or less when BFO is activated
+
+( Automatic measurement at ideal location )
+
+--- PAGE 6 ---
+2,
+
+18
+
+AF output:
+
+17,
+
+Source voltage:
+
+18) Warm-up pericd:
+18) Vibration compatibility:
+
+28
+
+Shock compatibility:
+
+21)
+22)
+
+Temperature range:
+Humidity compatibility:
+23) Continuous operation:
+24) Loop antenna:
+
+25) Wind compatibility:
+
+26) Antenna cable:
+
+.3 Other functions
+
+1) Frequency / chaomel input:
+2) Frequency resolution:
+
+3) Frequency / chennel display:
+
+4) Tuning iadicator:
+§) Bearing error correction:
+
+&) Disturbance compensator:
+7) Dimmer:
+
+8) SENSE adjustment:
+
+9) True bearing unit:
+
+10) DF signaling:
+
+Rated output 0.25¥
+
+Maximum output 1¥ or more (8Q speaker)
+Headphones available
+
+AC 100V, 110V, 115V, 200V, 220V or 230V £10%
+50/60Hz 60VA max.
+
+1 cinute
+
+0 to 500 cpm, 3 =n amplitude, 30 minutes for
+each 3 axes
+
+500 to 1800 cpn, 1 #n amplitude, 30 minutes
+for each 3 axes
+
+Falling onto woody floor three times from 5 cm
+height
+
+-10°C to 450°€
+
++35°C, 95% R.H. for 4 hours
+
+8 hours or longer
+
+$800nn, include matching unit and arrester
+Up to 60n/s
+
+5-core 3D-2V coaxial cable, 30m typical
+
+Keyboard or ¥ A keys
+
+0.1 kHz ninimum
+
+Frequency: 5 digits by green LEDs
+
+Chennel: 2 digits by green LEDs
+
+"S” meter on the front panel
+
+Quadrantal error corrector for MF band
+Correction angle 3", 5°, 7° and 6, 127, 18°
+( total 25° ), reverse correction available
+“NULL CLEAN” knob on the front panel
+Continuously adjustable
+
+level and phase, reversible SENSE polarity
+fGyro compess repeater available
+
+"DF READY" indicator provided on the front
+panel
+
+--- PAGE 7 ---
+. NAW-104
+. LOOP ANTENNA
+
+ANTENNA CABLE ( 0.D. 21%)
+
+JRC SUPPLY
+JLD-20A
+DIRECTION FINDER
+N§ E WV G
+TB2 ) e
+a/R1 o}y LHFOD ¥4
+b ¢ Dookyard sepply
+TB3 /380 s s
+O GND 2 52
+< 5/51 fol 5/81
+TBY GND
+aac 2K 430
+[s]
+
+L-DPYC-1. 25 .
+) = 010
+Dackyard supply - RAI
+T Dl LU e
+1 Dc24Y |
+L-DPYC-1.25
+
+Daskyard supaly AC 2207 bolz 4
+
+INTERCONNECTION DIAGRAM
+L #EEE
+
+Drawing No. D A 0 O —
+[k J L D
+
+--- PAGE 8 ---
+P . 2 1
+
+25023
+
+D )
+BRI memms
+
+hiEl REvifion: Tivet
+
+s
+=
+
+E-—
+
+20043
+
+T3
+
+--- PAGE 9 ---
+REVISIONS
+
+YTLED)
+
+Z
+
+$24023 ‘SLAND TYPE FLAGE
+FIFRTIY
+ANTERNA WEIGHT: APPROX. Tkg
+FLANGE WEIGHT : APPROX. Gkg
+
+COLORING 1 MINSELL KT
+
+TITLE
+g 2 9 -
+% il NAW-{04 (WITH GLAND TYPE FLANGE)
+
+APPROVED
+v RS i oo LOOP ANTENNA OUTLINE DRAWING
+|8 Lipido st 52—
+Fapan Radio Co, Lid.
+
+3ra Ansis Syatem
+N
+
+Disension we
+
+--- PAGE 10 ---
+Installation
+
+The bearing accuracy of the direction finder is affected by metal
+structures near the loop antenna. Especially in high frequency bands such
+as the 2 MHz band, the accuracy is particularly affected by metal
+structures and cranes toward the bow.
+
+To minimize bearing error, consider the followings when selecting the loop
+
+antenna installation site.
+
+1. Selecting loop antenna installation site
+a) Install the loop antenna on the radar mast, referring to Fig. a or
+
+Fig. b.
+
+When installing on a new-building ship built on or after Feb. 1995
+and not requiring direction finding in the 2 MHz band, the loop
+antenna may be installed on the compass deck., However, compass deck
+installation may cause a larger bearing error than installation on the
+top of the radar mast.
+
+4 loop antenna installed on the compass deck should be positicned
+
+approximately 2 m above the deck, utilizing a mast.
+
+o
+
+INMARSAT~C antenna must be positioned higher than the loop antenna,
+to the extent that the depressien angle is equal to or greater than
+the angle specified in the INMARSAT-C installation manual.
+
+c.
+
+The loop antenna installed near the MF / HF antenna should be
+installed at least 2 m higher than the MF / HF antenna. If the loop
+antenna cannot be installed at least 2 m higher than the MF /- HF
+antenna, it should be positioned over 4 m distant horizontally from
+
+the MF / HF antenna.
+
+--- PAGE 11 ---
+d) Install the loop antenna above the keel line.
+If the loop antenna cannot be installed above the keel line, it
+should be installed so that the N-S tube is parallel to the keel line
+(refer to Fig. c).
+
+e) Positien the tube labeled "BOW" so that the "BOW" label faces the bow
+
+of the ship.
+
+depression angle
+
+insulator
+
+Fig-b
+
+loop antemns installad above keel line
+
+-~ 1oop sntema
+
+imel Ene and loop antemnz aigned { in bow—stern plane ).
+
+bow
+
+Ioop antemna rot installed shove kel Ine
+
+stern
+
+/
+
+keel line and loop antemna paraleled (in the bow—stern plane ).
+
+--- PAGE 14 ---
+

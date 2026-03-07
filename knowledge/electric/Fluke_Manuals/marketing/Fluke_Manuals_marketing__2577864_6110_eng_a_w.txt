@@ -1,0 +1,276 @@
+FILE: 2577864_6110_eng_a_w.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:17:57.081314
+==================================================
+
+
+--- PAGE 1 ---
+Fluke Pressure
+Calibrators
+
+Fluke 718 Pressure Calibrator
+
+FLUKE.
+
+Technical Data
+
+The complete solution to pressure calibration (T 718 1000
+
+The Fluke 718 pressure calibrator family (4 models)
+provide a total pressure calibration solution for
+transmitters, gauges and switches. This compact
+pressure calibration solution is about a third of the
+size of comparable instruments and weighs just one
+kilogram (two pounds). The unique, easy to clean
+out access ports built into the pump protect the
+pump from fluids and provides the ability to service
+the pump without disassembly.
+
++ Pressure Source and Milliamp Measurement to
+calibrate and maintain almost any pressure device
+
++ Integrated pump is easily cleaned when
+accidentally exposed to fluids:
+- reduces cost of ownership and repairs
+~ service the pump in the field
+
+« Error % calculation for quicker pass/fail decision
+‘making in the field
+
++ Bestin class mA accuracy of 0.015 % for better
+‘measurement confidence and workload coverage
+
+« Min/Max/Hold to capture changing measurements
+
++ Switch test feature for quicker and more accurate
+pressure switch testing
+
++ New 1 and 300 PSI pressure ranges mean fewer
+extra tools required
+
++ 1,30, 100 & 300 PS ranges now available
+
+General Specifications
+
+Maximum voltage: 30 volts: Non-operating
+Temperature: -40 °C o 60 °C
+
+Operating temperature: -10 °C to 55° C
+Relative humidity: 95 % (10 °C to 30 °C); 75 % (30 °C to 40 °C};
+45 % (40 °C to 50 °C}; 35 % (50 °C to 55 °C)
+
+Operating altitude: 3,000 m max
+
+Shock: 1 m drop test
+
+Vibration: Random, 2 g, 5 Hz - 500 Hz
+
+Safety: CSA C22.2 No. 1010.1: 1992
+
+EMC: EN50082-1: 1992 and EN55022: 1994 Class B
+
+Size/weight (717 with holster): 201 mm x 98 mm x 52 mm
+
+(293 in x 3.86 in x 2.06 in) 600 g (21 0z)
+
+Size/weight (718 with holster): 216 mm x 94 mm x 66 mm
+
+(8.50 in x 3.72 in x 2.60 in) 992 g (35 0z)
+
+Power: 9V battery ANSI/NEDA 16044 or IEC 6LR619V alkaline; two
+batteries in 718
+
+Battery Life: 4 to 20 hours typical, depending on functions used
+Warranty: Three years (one year on pressure pump in Fluke 718)
+Display: LCD, 5 digit pressure and current simultaneous
+
+Accuracy: 0.05 %
+
+Note: For use with non-corrosive gasses
+
+--- PAGE 2 ---
+The New 718 Calibrator Pump
+
+The new Fluke 718 is a uniquely protected pneu-
+‘matic pressure calibrator and pump. The new pump
+design uses protective check valves that allow air to
+pass through the pump for calibration but inhibits
+fluids from entering the pump and causing damage.
+These two check valves allow the bi-directional
+flow of air into or out of the 718. Even after drain-
+ing the process fluid from the calibration port of the
+device under test, minute amounts of process fluids
+‘may often still be lurking behind. In the event these
+fluids enter the 718 pump cavities, the new pump
+design enables quick cleaning and maintenance,
+evenin the field.
+
+Pump valve assembly cleaning instructions
+1. Using a small screwdriver, remove the two valve
+retention caps located in the oval shaped opening
+on the underside of the Calibrator.
+2. After the caps have been removed, gently remove
+the spring and o-ting assembly.
+3. Set aside the valve assemblies in a safe area
+and clean out the valve body using a cotton swab
+soaked in IPA (isopropy! alcohol).
+4. Repeat this process several times using a new
+cotton swab each time until there is no remaining
+sign of residue.
+5. Pump the unit several times and check again for
+residue.
+6. Clean the o-ring assembly and o-ring on the
+
+Functional Specifications
+
+retention caps with IPA and inspect the o-rings
+closely for any cuts, nicks, or wear. Replace if
+needed.
+
+7. Inspect the springs for wear or loss of tension.
+They should be approximately 8.6 mm long in the
+relaxed state. If
+they are shorter
+than this, they
+‘may not allow
+the o-ring to
+seat properly.
+Replace if
+needed.
+
+8. Once all
+parts have
+been cleaned
+and inspected,
+reinstall the o-
+1ing and spring
+assemblies into
+the valve body.
+9. Reinstall the
+retention caps
+and gently
+tighten the cap.
+10. Seal the output of the Calibrator and pump up
+the unit to at least 50 % its rated pressure.
+
+11. Release the pressure and repeat several times to
+ensure that the o-rings seat properly.
+
+The Calibrator is now ready for use.
+
+Cleaning the hid trap in the Fluke-TI8
+Calibrator i quick, easy and only requires a
+slotted screwdriver and cotton swab
+
+Model Range Resolution Over Pressure Functions
+
+7816 -1 PSto +1PSI,-68.9 mbarto | 0.0001 psi, 0.001 mbar | Over Pressure 5xFS Zero, Min, Max, Hold, Damp
+68.9 mbar (-6.80 kPa to 6.89 kPa)
+
+718 306 -12PS1 1030 PSL, (-850 mbarto | 0.001 psi, 0.1 mbar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+2 bar, -85 to 20684 kPa)
+
+7181006 | -12PSIto 100 PSL, (-850 mbar to | 0.01 psi, 1 mbar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+6.895 bar, -85 to 689.48 kPa)
+
+718 300G -12PS1 t0 300 PSL, (-850 mbarto | 0.01 psi, 1 mbar Over Pressure 375 PSI Zero, Min, Max, Hold, Damp
+20.68 bar, -85 t0 2068.42 kPa ) 25 bar
+
+7116 -1 PSlto 1 PSL, (-68.9 mbarto | 0.001 psi, 0.001 mbar Over Pressure 5xFS. Zero, Min, Max, Hold, Damp
+68.9 mbar, -6.89 t0 6.89 kPa)
+
+712 306 -12PS1 1030 PSL, (-850 mbarto | 0.001 psi, 0.1 mbar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+2 bar, -85 to 206,84 kPa)
+
+712 1006 -12PS1 to 100 PSL, (-850 mbar to | 0.01 psi, 1 mbar Over Pressure 2xFS Zero, Min, Max, Hold, Damp
+6.895 bar, -85 to 689.48 kPa)
+
+717 300G -12PS1 t0 300 PSI, (-850 mbar to | 0.01 psi, 1 mbar Over Pressure 375 PSI, Zero, Min, Max, Hold, Damp
+20.68 bar, -85 to 2068.4 kPa) 25 bar
+
+717 5006 0PSIto 500 PSI, (0 mbar to 001 psi, 1 mbar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+34.47 bar, 0 to 3447.4 kPa )
+
+7171000G [ OPSIto 1000 PSI, (Ombar to 0.1 psi, 1 mbar Over Pressure 2xFS Zero, Min, Max, Hold, Damp
+68.95 bar, 0to 6894.8 kPa |
+
+71715006 | OPSIto 1500 PSI, (Ombar to 0.1 psi, 0.01 bar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+103.42 bar, O to 10342 kPa)
+
+7123000G | OPSIto 3000 PSL, (0 mbarto 0.1 psi, 0.01 bar Over Pressure 2xFS. Zero, Min, Max, Hold, Damp
+206.84 bar, 0 to 20684 kPa)
+
+71250006 | OPSIto 5000 PSL (0 mbarto 0.1 psi, 0.01 bar Over Pressure 2xFS Zero, Min, Max, Hold, Damp
+344.74 bar, O to 34474 kPa)
+
+2 Flske Prossurs Calbrators
+
+--- PAGE 3 ---
+Range: 29 pressure modules, 0 - 1 in H,0 to 10,000 psi, 2.5 mbar to
+700 bar. Over pressture per pressure module specs
+
+Resolution: Per pressure module specs
+
+Accuracy: T0 0.025 % of full span, per pressute module specs
+
+Functions: Zero, Min, Max, Hold, Damp
+
+Note: media compatibility per pressure module specs
+
+Range: -12 PSI or -850 mbar to full scale, Supparted Pressure Units; ps, in H,0 (4 °C), in
+H.0 (20 °C), cm H,0 (4 °C), cm H,0 (20 °C), bar, mbar, kPa, inHg, mmHg, kg/cm
+Loop Power: Range: 24V dc
+Accuracy: +/-10%
+
+Note: Drive; 20 mA into 1000  for battery > 6.8V; 700 Q
+for battery 5.8 10 6.8 V.
+
+Rang OmAto 24 mA
+Resolution: 0001 mA
+Accuracy: 0018 % + 1 count
+
+Range: 29 pressure modules, 0 - 1 in H0 to 10,000 PSI, 2.5 mbar to
+700 bar ranges over pressure per pressure module specs
+
+Resolution: Per pressure module specs
+
+Accuracy: 0025 9% of full span, per pressure module specs
+
+Functions: Zero, Min, Max, Hold, Damp, error calculation
+
+Note: Media compatibility per pressure module specs
+
+For additional detail on the 718, see the application note "Pressure calibration with the 718."
+Literature code: 2577485 at www. fluke.com/library
+
+3 Flske Prossurs Caltrators
+
+Fluke. Keeping your world
+up and running.
+
+Fluke Corparation
+PO Box 9090, Everett, WA USA 98206
+
+Fhike Burope B.V.
+PO Box 1186, 5602 BD
+Eindhoven, The Netherlands
+
+For more information call:
+In the U.S.A. (800) 443-5853 or
+
+Fax (425) 446-5116
+
+In Burope/M-East/Africa (31 40) 2 675 200 or
+Fax (31 40) 2 675 222
+
+In Canada (800) 36-FLUKE or
+
+Fax (905) 890-6866
+
+From other countries +1 (425) 446-5500 or
+Fax +1 [425) 446-5116
+
+Web access: http://www fluke.com
+
+52006 Pk Corporton. All s reserved.
+Priniodin US A 42006 2571861 D-BN-N Hovw &

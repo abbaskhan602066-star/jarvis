@@ -1,0 +1,8619 @@
+FILE: M-302 INSTRUCTION BOOK FOR AUXILIARY BOILER.pdf
+FOLDER: BOILER
+DATE: 2026-03-07 10:11:09.100736
+==================================================
+
+
+--- PAGE 1 ---
+F|NISHED PLAN
+
+FLANDERS TENBCITY
+
+INSTRUCTION BOOK FOR
+AUXILIARY BOILER
+
+11!
+
+This technical document is the properly of
+Kawasaki Heavy Industii Ltd. (KHE) and may
+ot be copicd, nor disclos any thivd party
+without KKHI's prior written consent.
+
+MANAGER
+
+CHIEF
+
+CHECKED
+
+DWG %
+M - 302
+
+DATE
+
+— SCALE —_— JOBNO =—
+
+7, /f/% = Lceml KAWASAKI HERYY INDUSTRIES, LTD.
+SHIP DESIGN DEPT, SH P GROUP
+
+1456
+
+N wm eED
+
+KAWASAII HEAVY INDUSTHIES, LTO SHEETS el CoveR
+
+--- PAGE 2 ---
+DRAWING LIST
+OSAKA BOILER MFG.CO.,LTD
+
+INSTRUCTION BOOK
+He % Bk BH ¥
+
+SHIPYARD KAWASAKI HEAVY 96 1
+% # P °  INDUSTRIES CO.,LTD.
+i:“’ g : 1456
+¥ORK NO
+WEER 12326
+NAKE o COMPOSITE SYSTEM VERTICAL
+& & WATER TUBE BOILER
+XO. DRAWING NO. REMARKS
+HE NAME 3 # Rm#E ) ¥
+soILeR  _ | _______
+1 & Z
+OIL BURNING APPARATUS
+2| E W o# B E® 000000 | 0 -
+WATER LEVEL CONTROLLER
+3 X ® # B Ok ®
+SAFETY VALVE
+4| % = £ |
+WATER LEVEL GAUGE
+5| % i # |
+6
+7
+8 |
+9
+10
+11
+12
+13
+14
+15
+16
+
+--- PAGE 3 ---
+COMPOSITE SYSTEM VERTICAL
+WATER-TUBE BOILER
+
+SERVICE INSTRUCTIONS
+
+OEVC TYPE
+
+OSAKA BOILER MFG. CO,, LTD.
+
+3-35 5-chome, Takeshima,
+Nishiyodogawa-ku, Osaka Japan
+Telex:524-2777 OSABLR-J
+
+1. APR. 1982
+
+--- PAGE 4 ---
+¥
+
+AUX. BOILER
+
+LIST OF MAINTENANCE ITEMS
+AND STANDARD MAINTENANCE
+
+controller
+
+o
+
+Cleaning of differential
+pressure transmimitter and
+strainer
+
+c. Leak of air from air piping
+
+INTERVAL
+ITEMS OF WORKS ITEMS OF MAINTENANCE INTERVAL REMARKS
+-
+1. Water Control | a. Boiler vater blow once/2 days
+b. Blov of float switch and pipe | once/2 days
+vater Once/2 days
+c. Analysis of boiler vater tnce/2 days
+d. Proper dosing of boiler
+compound
+]
+2. Maintenance of a. Check of furnace Once/month
+boiler outside | |, check of smoke box Once/month
+c. Steam leak from pressure joint | ALl times
+3. Soot removing | ;, Steam blow Once/day
+of o0il burning
+side b. Water washing Once/two months
+4. Soot removing | a. Steam blow Once/day
+of oxhaust 93s | 4 yater vashing Deposit on the
+tube plate is to
+be vashed off at
+thickness less
+than 50 mm.
+<. Safety valve | a. Raising valve Once/month
+b. Adjustment and fitting Once/year
+6. Attached valve Ensure the airtightness of valve Once/2 days
+body, valve seat, and other
+important parts.
+a. Discharge vater and steam from | Once/2 days
+Zs ‘('}:;:ieg“‘t’gee) inside of water gauge
+P b. Maintenance care, and repair of | Once/day
+leaks
+c. Leaks from glass and gasket Once/day
+8. Water level a. Blov of pipe vater Once/é months
+
+Once/year
+
+All times
+
+--- PAGE 5 ---
+1.
+
+Maintenance
+items &
+maintenance
+interval
+
+WATER CONTROL 1/2
+
+Boiler water blow Once/2 days
+
+Blow of Float switch & pipe water Once/2 days
+
+(if float switch provided)
+
+Analysis of boiler water Once/2 days
+
+Proper dosing of boiler compound Once/2 days
+
+Controlling
+procedure
+
+Boiler water blow
+
+Blow the boiler water during low load.
+Perform blow £illing water up to H.W.L. in advance.
+
+It is effective to discharge by intermittently opening
+
+and closing the blow valve.
+
+Perform water surface blow to N.W.L.
+Again fill water up to H.W.L.
+Perform blowing of water bottom.
+
+As for quantity of water to be discharged, it is proper
+to discharge about 150 - 200 mm by the height of gauge.
+
+Pay attention that water level after blow will not fall
+below dangerous level.
+
+Blow of float switch and pipe water.
+
+1.
+
+2.
+
+3.
+
+Perform blow during low load.
+
+Perform cleaning of water passage
+by closing(®@) , and simultaneously
+opening(@®and @ . (for about
+
+10 seconds)
+
+Clean the steam passage by closing
+
+and simultaneously cpening@®&(@© .
+(for about 10 seconds)
+
+--- PAGE 6 ---
+WATER CONTROL (Continued) 2/2
+
+4. By closing ©and simultaneously opening
+® «(® ensure that water level appears quickly,
+in case it doesn't repeat step 2 above.
+
+Analysis of boiler water.
+Correctly measure value of PH, PO,, P-Alkalinity and Cl
+according to Instruction Book of respective tester.
+
+At least PH must be sufficiently controlled.
+
+(Even when measuring of all data mentioned above in
+
+difficult, at least PH value must be measured).
+
+Standard of Water Quality
+
+PH (25°C) 10.5 - 11.5
+Hardness CaCos ppm
+
+M-Alkalinity CaCos ppm 300 - 200
+P-Alkalinity CaCos ppm 150 - 100
+
+Total solid Ppm 2500>
+
+Prm 300>
+
+ppm 20 - 40
+
+Proper dosing of Boiler compound.
+Kind of chemicals to be dosed and way of dosing is to be
+determined by water conditioning agent according to the
+
+result of chemical analysis of raw water and of boiler water.
+
+--- PAGE 7 ---
+AUX. BOILER MAINTENANCE OF BOILER
+OUTSIDE
+
+a. Check of furnace inside once/Month
+
+1. Maintenance
+
+Item & b. Check of smoke box ° once/month
+st c. Steam leak from pressure join ALl tines
+2. Name
+Main engine side
+= 011 burning
+side
+Exhaust gas
+outlet.
+3. Required con- Suspension of firing ’ 7
+dition far RS N Y
+opeaing Cooling of refractory [JSYN\INWW\WY]
+5 a. Remove burner and utilize fire hole
+4. Opening
+method b
+5 Open the door at front smoke box.
+
+5. Check method a. If no foreign matter or solids are seen from burner tile
++ Lheck metho hole it's all righf. When falling of refractories are
+found, re-check inside of furnace by removing burner tile,
+
+Check the inside of furnace to see if the refractories
+have come loose, or fallen or cracked.
+
+c. Check for abnormalities such as distortion or crack, etc.
+due to vibration, heat and exterior force. Also check
+
+b
+
+for condition of soot deposit.
+-
+5/ Remedies a. Abnormal state of refractory structure should be mended
+as early es possible.
+b. - same as above -
+c. Abnormality should be corrected as early as possible.
+If soot is deposited to a large extent,-it must be
+removed and readjust the combustion equipment.
+I
+
+--- PAGE 8 ---
+e
+
+equipments
+
+Instructions
+for operation
+
+77. 13. 2,000 (N)
+
+Soot blowing Once or more
+during operation / day
+
+Soot blower
+
+1. Soot blowing to be carried out at maximum combustion
+of burner.
+
+2. Open the drain valve and drain sufficiently from steam
+piping, Warm up piping at the same time.
+
+3. Open the steam stop valve of No. 1 soot blower.
+( see fig. below )
+Carzy out the soot blowing of No. 2 and 3 soot blower.
+
+4, Carry out the soot blowing from No. 1 to No. 3 once again.
+Operating time : 1 minute per soot blower
+No.1 soot blower
+
+No.2 soct blower No.3 soot blower
+
+Note.
+
+Pipe the soot blowers as shown in the figure below,
+“drain the piping throughly and Perform soot blowing.
+After soot blowing is completed, close the main valve
+and the soot blower valve, and open the drain valve to
+
+prevent water from dripping off the soot blowers.
+
+s/3
+$/3 val: Root valve
+————<}——=— Stean
+X Drain valve
+
+GBARA OLER MPG. CO. LTD
+
+--- PAGE 9 ---
+AUX. BOILER SO0T REMOVING OF OIL BURNING
+SIDE
+b
+1. Maintenance a. Water washing © Once/two months
+t
+Atesk A (Check to ascertain once a
+maintenance
+e month the condition of
+deposit of soot)
+2. Name of a. Portable type uater washing tool
+equipments
+
+w
+
+Instructions | a. Water washing
+
+fertoperaticn Open the cleam: door amd
+
+likeuise open the cleaning hole of the smoke box.
+Check to ascertain that the drain line is kept open.
+Connect unit with feed water equipment.
+
+Working pressure of at least more than 2 Kg/ca’ is
+to be applied.
+Turn the lever of ball valve and directly apply the
+injected water to soot deposited inside the boiler and
+other layers.
+washing water is to be poured and sprayed paying ~
+
+. ‘attention that the water may not flow out through the
+boiler. ’
+
+Repeat flushing to wash off the deposit on the tube
+plate.
+
+®@ & ©® © 600 ©
+
+On completion of work, perform ventilation and dry the
+washed zone, and the burner may be used, if need be,
+to expedite drying.
+
+@
+
+Close the cleamimg. door and cleaning hole to comple
+soot removing.
+
+4. Cautions a. Where water washing by portable type is insufficient,
+deposit is to be washed out by use of other general hose.
+
+--- PAGE 10 ---
+41
+
+AUX. BOILER
+
+S00T REMOVING OF EXHAUST GAS SIDE
+
+(a)
+
+1. Maintenance | a. Steam blow More than once a day
+items and . : while the aux. boiler
+aintenance (durxngi;p;ratxcn of exhaust e
+intervals gas side
+
+2. Name of a. Stationary type soot blover
+equipment
+
+3.~ Instructions
+for operation
+
+a. Stationary type soot blover
+
+1 Slightly open the valve attached to the scot blover so
+that the pipe is varmed, then fully open the valve.
+
+2. Immediately get the blaver handle to revolve at the
+speed of about 1 revolution per 60 seconds.
+
+3 Keep revolution for the period of 2 to 3 minutes in
+average.
+
+4. Forthuith close the valve of soot blover on completion
+of cleaning.
+
+5 Operate the soot blowers at each part pursuant to the
+foregoing methads.
+
+Note.
+Pipe the soot blowers as shown in the figure below,
+
+drain the piping throughly and Perform soot blowing.
+After soot blowing is completed, close the main valve
+and the soot blower valve, and open the drain valve to
+prevent water from dripping off the soot blowers.
+
+s/3
+
+Root valve
+Steam
+
+4. Cautions
+
+a. Soot bloving
+
+When revolution becomes heavier, take out injection tube and
+get it straightened.
+
+--- PAGE 11 ---
+AUX. SOOT REMOVING OF EXHAUST GAS
+SIDE
+(O]
+
+1. Maintenance | a. Water washing © Soot deposit on the boiler tube plate
+items and is to be removed by thickness of less
+maintenance than 50 mm.
+dntervals (Check to ascertain once a month the
+
+condition of deposit of soot)
+
+2. Name of a. Portable type water washing tool
+equipment
+
+3. Instructions
+for
+gperation
+
+® & 0 0 © oo 6
+
+Open all cleaning holes of smoke box.
+
+To prevent entry of splashed water into the exhaust gas
+introduction tube, cover the tube end with canvas.
+
+Check to ascertain that the drain line is keot open.
+Connect the unit with feed water equipment.
+
+Vorking pressure of at least more than 2 Xg/ca® is to be
+applied.
+
+By pulling the ball valve lever, water is to be directly
+injected from the nozzle to soot and other deposit in the
+boiler.
+
+Washing water is to be poured and sprayed paying attention
+that the water may not flow out through the cleaning holes.
+Wash out the deposit on the tube plate by repeating water
+washing.
+
+Wnen washing is finished, remove the canvas to effect
+ventilation thoroughly. Burner may be operated to expedite
+drying, if need be.
+
+Close the cleaning holes to complete washing.
+
+4. Cautions
+
+AQ-2542
+
+4
+
+Where water washing by portable type soot blower is insuffi-
+cient, deposit is to be washed out by use of other general
+
+hose.
+
+--- PAGE 12 ---
+AUX. BOILER
+
+Maintenance
+Items &
+
+Maintenance
+Intervals
+
+b.
+
+Raising valve once/month
+
+Adjustment & Fitting once/year
+
+spring casing
+
+valve stem
+
+valve case
+
+valve seat
+
+3. Adjusting
+Procedure
+
+%
+
+Raising the valve
+When scale is caught by valve seat resulting in leakage,
+or when function of valve is to be checked, perform
+
+manual blow by using valve raising lever
+
+Adjustment and Fitting.
+
+Since the safety valve has been tested and its adjusting
+Point blocked, leave the adjusting point as it is.
+
+In case where blow-off doesn't stop satisfactorily repeat
+raising of valve until foreign matter is removed.
+
+If it still fails to stop well, make it fitted and
+
+adjusted by specialist.
+
+--- PAGE 13 ---
+AUX. BOILER
+
+Maintenance
+
+Maintenance
+
+ATTACHED VALVE
+
+and other important part.
+
+Confirmation of airtightness of valve body, valve seat
+
+once/2 days
+
+grand securing nut
+cover fitting nut
+valve body
+
+S
+
+_valve seat rubbing tool
+
+handle securing nut
+
+handle
+
+valve stem
+
+packing
+cover
+
+valve guard
+
+T—
+
+valve seat replacing spanner
+
+valve body lockin
+
+valve body
+valve seat
+
+S
+
+valve body rubbing tool
+
+Valve is to be disassembled paying attention to pressure
+
+exerting to part disassembled, fluid, and temperature.
+
+and repair the f£low.
+
+[Put matting mark on valve casing and cover to facilitate
+reassembling. Then remove nuts of cover fitting bolts and
+with draw the cover from valve casing, when any flaw is
+
+found on valve body, remove the valve body from valve steam
+
+--- PAGE 14 ---
+AUX. BOILER
+
+ATTACHED VALVE (continued) 2/3
+
+Spanner, hammer, vice, fitting tools, setting tools for
+setting valve body locking device (flat chisel shaped)
+
+Repair
+Method
+
+tting of valve body and valve seat:
+When leak of fluid occurs due to flaw resulting from scale
+and other dirt caught between valve body and seat, take any
+one of following 3 steps according to the extent of flaw.
+
+A. When flaw on the valve body and/or valve seat is small
+and shallow and can be repaired by fitting, perform
+
+fitting by using above mentioned tools.
+
+When flaw is slightly deep but can be repaired by
+
+grinding with lathe, make mechaning and after that make
+fitting as A above.
+
+When repair by A and/or B is impossible, and requires
+replacment, take steps as follows:
+
+By using valve seat spanner shown above, anscrew the
+valve seat and take it off from valve casing. Then
+screw-in new valve seat with rail packing or the like
+wound on the threaded part. After that fix the valve
+seat by coaking.
+
+NOTE: Use following compound for fitting:
+
+For Rough finishing: No.500 (kneaded with machihe oil)
+
+For finishing No.1200 ( - - .- )
+
+Finishing Brass polishing liquid
+
+Besides, avoid fitting by spotting valve body &
+
+valve seat together.
+
+--- PAGE 15 ---
+7.
+
+AUX. BOILER
+
+Method of
+Restoration
+
+5-3
+
+ATTACHED VALVE (continued) 3/3
+
+Prior to disassembling the valve. matting mark should be put
+on respective valve cover, and reassemble it according to
+respective mating mark after ensuring their being fitted with
+
+gaskets.
+
+Since discharge valve and gauge valve are particularly liable
+to have leakage, caution must be paid to abnormal decrease
+of boiler water as well as to the leakage of steam from valve
+
+end and perform fitting or replace as early as possible.
+
+--- PAGE 16 ---
+WATER GAUGE
+
+AUX. BOILER
+(Reflex Type)
+
+Maintenance Discharge water and steam
+Items & from inside of water gauge
+Maintenance
+Interval
+
+once/2 days
+
+Maintenance care and
+repair of leak once/day
+
+Leaks from glass and gasket once/day
+
+tightening nut
+
+sleeve packing
+replacing tool
+
+Releasing Close shut-off valve when gauge glass and gasket are replaced
+condition in order that boiler pressure will not be applied.
+
+Maintenance procedures:
+
+1. Clean the water passage with(®)closed, (B)cpened and ©
+opened. (for about 10 seconds)
+
+2. Clean the steam passage with (@) closed, (&) opened and ©
+opened. (for about 10 seconds)
+
+3. With(©closed, (®)opened and(B)opened, make sure that water
+level appears quickly. If it doesn't, repeat step 1 above.|
+
+Leaks of steam from upper or lower cock, or from threaded
+part:
+
+1. Tighten cover nut or tightenfng nut. If leak doesn't
+stop yet, replace packing.
+
+How to replace sleeve packing:
+Withdraw the handle lever from upper and lower cock, or
+from drain cock, and remove cover nut and tighfening mut.
+Withdraw the plug. If it sticking and will not move,
+remove it by applying sleeve packing removing tool shown
+above to the lower part of the plug, and driving it out
+together with sleeve packing.
+
+3. By using the replacing tool, drive in new packing from
+upper.
+
+4. By using same tool insert plug from beneath.
+
+5. Finish re-assembling in the order from tightening mut,
+cover mut and handle lever.
+
+Replacing the gauge glass & gasket:
+
+Close boiler shutoff valve and upper and lower cock and
+open drain cock and discharge from water gauge.
+
+Remove frame of water gauge. From both upper and lower
+end slacken every other nut with left and right alteraatel
+Insert glass and gasket taking care that no dregs are
+left air tight surface and tighten the nuts uniformly.
+
+--- PAGE 17 ---
+AUX. BOILER
+
+Maintenance
+Item and
+Maintenance
+Interval
+
+WATER LEVEL CONTROLLER
+
+Blow of pipe water once/6 months
+
+Cleaning of differential
+‘pressure transmitter and
+strainer
+
+one/year
+
+Leak of air from air piping all times
+
+Temote level
+indicator
+
+pressure
+transmitter
+
+zero
+adjusting screw
+
+Blowing
+Pipe Water
+
+After blowing pipe water, make re-adjustment according to 4.
+
+How to Adjust|
+Differential
+Pressure
+Transmitter
+
+To make zero adjustment, follow the steps given below.
+
+1.
+2.
+32
+4.
+
+Pressure inside the drum should be kept at normal pressure.
+Water level inside drum should be kept at normal water level.
+Open both the valve @ and valve(® .
+
+Op:n the valve (©)and (D) and blow off .foreign matters in piping.
+n thoroughly blown off the foreign matters, close the
+
+©ud@va1ve.s.
+
+After opening valves @ +@©,-close valve® , and open
+
+the vent drain plugs(H) , (D) to drain and purge air. Upon
+
+completing drain and purging, close the plugs® , @ .
+
+Purge air from upper zone which is appurtenant to level
+
+condenser, and open (@) to purge air from piping inside.
+
+Close(@ to effect purging of air again, while lightly
+
+tapping piping. Steps covered by this item 6 must be
+
+repeated 2 or 3 times so that air collected in the piping
+
+will be thoroughly purged.
+
+Thoroughly fasten the valve ), and after that, open the
+
+valve ® -
+
+Then, on ensuring that the water level in the drum is resting
+
+at normal water level, adjust the zero adjusting screw of the
+
+transmitter so that the indicated pressure of the préssure
+
+gauge P2 will become 0.6 kg/cm?.
+
+1. Where valves © , ® are to be operated, whole steps
+given above should be taken starting from 1. -
+
+2. Pressure on Pl of pressure gauge is 1.4 - 1. skg/cn .
+
+3. Even by the steps above, should the transmitter fail
+
+to operate, clean the strainer net of the
+
+--- PAGE 18 ---
+BOILER L
+e 12326
+BURNER
+¥ - No. At
+0IL BURNING APPARATUS
+E b O # K % g
+TYPE: SSR — 2
+INSTRUCTION BOOK
+USED FOR:
+Messrs. , KAWASAKI HEAVY INDUSTRIES, LTD.
+SHIP No. : 1456
+ORDER:
+Messts. , 0SAKA BOILER MFG. C0., LTD.
+T613 Kitahata, Hayashi,
+Kumiyama-cho, Kuze-gun, Kyoto. Japan
+TBL. /TEL-FAX. : 0774-44-3361/0774-44-3360
+TELEX.": 5453-670 SUNFLM J
+REGULATTON CHECKED CHARGED
+B GO0
+
+] s
+
+--- PAGE 19 ---
+INDEX
+
+ITEM PAGE
+Specification 2
+Indication and alarm 6
+Setting value of Pressure and Temperature 7
+0il Burner and Accessories Kot
+
+Outline of Burner "
+2. Burner Control System o
+
+3. Control Equipment (3-1, -6) A-2
+
+Preparation for Operation B =il
+A. Inspected prior to Burner Operation "
+B. Initial Operation "
+
+C. Operating Procedures and Cautions Items "
+
+Operation c-1
+A. Manual operation "
+
+B. Automatic Operation )
+
+o
+
+Ignition Burner c-2
+D. Stopping signal "
+E. Abnormal "
+
+F. Waste oil combustion c-3
+
+Adjustment D-1
+1. Rotary-cup Burner "
+A. Primary Air nozzle and Rotary-cup "
+B. Burner Belt i
+2. 0il Quantity and Air control D-2
+A. 0il control is ...... "
+
+B. ON/OFF combustion control Burner "
+
+(aA)
+
+--- PAGE 20 ---
+C. Stracture of damper consists of ......
+D. Operation is carried out by .........
+
+E. Guide Line for Combustion Adjustment
+
+THE OTHERS
+
+( BB )
+
+--- PAGE 21 ---
+. |
+
+T
+
+SR SUNFLAVE BURNING APPARATUS
+
+1. General specification
+
+o
+1-2.
+1-3.
+
+1-4,
+
+1-5.
+1-6.
+
+Rule
+Control system of burner
+
+Fuel oil
+
+1) For cold-starting
+
+2) For usually
+Calorific value
+Viscosity
+
+3) For waste oil disposal
+Water content
+Calorific value
+
+Electric source
+1) Power circuit
+2) Control circuit
+& alarn/indicator
+
+Air temperature
+
+The others
+
+1) Unit
+
+2) Name plate
+Caution plate
+
+3) Painting colour
+
+2 Boiler specification
+
+Type
+
+Number
+Evaporation ( 0il fired section )
+
+Stean pressure
+
+Stean temperature
+Feed vater temperature
+Furnace pressure
+
+F. 0. consumption
+
+3 Burner specification
+
+Type
+
+Number
+Combustion capacity
+
+Burner motor
+
+Rotary-cup
+
+F. 0. pressure
+
+-
+
+NV-E0
+
+Full automatic, DN/OFF 3
+HIGH/LOW control system
+
+Marine diesel oil
+Marine heavy fuel oil
+Low calorific value. 9,700 keal/kg (40.7 M/ke]
+linder 600 cSt. /50 “C
+Waste oil from ship
+Less than 30%
+¥ore than 1 000 keal/kg [29.3 Mi/ke]
+
+AC440V 60Hz 37
+AC220V 60Hz 1#
+AC220V 60Hz 1#
+
+8 °C
+
+Yard supply)
+By down-transforner)
+& DC 24V
+
+Metric
+English
+English
+
+Munsell No. 7.5 BG 7/2
+
+OSAKA BOILER MFG. CO., LTD.
+OEVC 2
+
+1 Boiler/1 Ship
+
+2,000 kg/hr
+
+ot B AT S
+Saturated temperature
+
+60 °C
+
+60 mmAq [ 0.59 kPa ]
+
+171 ke/hr
+
+gogcgb DRAPZ‘T ROTARY-CUP ATOMIZING SYSTEM
+
+1 Set/1 Boiler
+180 ke/hr
+
+MITSUBISHI ELECTRIC CORP.
+0.4 k¥ 2P Insulation class = "F"
+
+624 x 951 SUS-304
+Max. 3.0 kg/cn2 [ 0.29 WPa ]
+
+0.9 4
+
+--- PAGE 22 ---
+F. 0. viscosity
+For atomizing
+For in-let of equip.
+
+4. Fuel oil pump unit
+
+Type
+Model No.
+
+Capacity
+Delivery pressure
+Suction pressure
+
+Prime mover
+
+5. Forced draft fan
+
+Type
+Model No.
+
+Capacity
+Static pressure
+
+Prime mover
+
+6. Ignition equipment
+
+6-1.
+
+6-2.
+6-3.
+6-4.
+
+1. 0il
+
+Ignition burner unit
+Capacity
+
+Ignition transforner
+IG. burner solenoid valve
+Ignition burner pump (D. 0. pump)
+Type
+
+Capacity
+
+0il strainer
+Prime mover
+
+heater
+Type
+Model No.
+
+Heating capacity
+Heating temperature
+Electric capacity
+
+Accessories
+
+Under 50 cSt  [200 sce. /Redwood No. 1]
+Under 250 cSt [1,000 sec. /Redwood No. 1]
+1 Set
+TROCHOIDAL GEAR TYPE
+NIPPON G-ROTAR MFG. C0., LTD.
+TP - 210 - 03
+600 ke/hr
+5 ke/cm2 [ 0.49 WPa ]
+
+0~ 0.3 kg/ecm2 [ 0 ~ 0.029 MPa ]
+
+MITSUBISHI ELECTRIC CORP.
+0.4 k¥ 6P Insulation clas:
+
+T2 A
+
+1 Set
+COMPOUND TURBO FAN TYPE
+
+0SC - 4 - 50
+Primary side / Secondary side
+
+4 Nn3/min /50 Nm3/min.
+
+1,000 mmAq [ 9.8 kPa ] / 250 mmAq [ 2.45 kPa ]
+
+MITSUBISIII ELECTRIC CORP.
+5 kW 2P Insulation class =
+
+(Assembly to burner) 1 Set
+
+1B-250 (Marine
+6.5 kg/hr  (Atomiz
+
+10, 000V x 210VA
+1o - 08 - 215
+
+sel oil use)
+=2 G/M5")
+
+(Not assembly to burner)
+
+TROCHOIDAL GEAR TYPE
+
+GFH-V3I,
+
+100 kg/hr & 7 kg/em2 [ 0.69 MPa ]
+
+154 150 mesh
+
+MITSUBISHI ELECTRIC CORP.
+
+0.4 kKN 2P Insulation class = “F" (0.9 A)
+
+1 Set
+
+ELECTRIC HEATING TYPE
+TOYO HEATER MFG. CO.. LTD.
+NJ - 8A
+
+180 ke/hr
+Heater in-let 60 °C (10 °C up)
+LR
+Thermister & thermostat
+Thermometer (0 - 200°C)
+
+Relief valve
+Drain/air vent valve
+
+pmma
+
+--- PAGE 23 ---
+8. 0il strainer
+Type
+Bore & Mesh
+
+9. Burner accessories
+> 81,
+9-2.
+9-3.
+9-4.
+
+F. 0. flow regulator
+Thermometer
+F. 0. pressure gauge
+Solenoid valve
+For main solenoid valve
+For diesel oil solenoid valve
+9-5.
+9-5.
+o -9-1
+
+Air pressure switch
+
+Air/0i1 flow control motor
+
+Flame-cye
+
+Junction box
+
+10. Relief valve for combustion F.0. press.
+
+Model No.
+Fitting
+
+11 Thernostat & Pressurc svitch
+
+11-1. Thernostat
+
+*11-2. Pressure switch
+
+/12, Steam pressure switch
+
+12-1. For BNR. ON/OFF control
+
+12-2. For BNR. HIGH/LOW control
+
+13. Equipment for ¥. 0. disposal
+13-1. . 0. strainer
+Type
+Bore & Mesh
+
+13-2. Waste oil pump
+
+ype
+Model No.
+
+Capacity
+De
+
+1. & Suc. pressure
+Prime mover
+
+13-3. Change-over 3-way valve unit
+
+Bore type
+Number
+Accessories
+
+o
+
+adjust.
+
+1Pc
+DUPLEX BASKET SCREEN & FLANGE TYPE
+JIS 10K 254 &  60mesh
+(Assembly to burner) 1 Set
+SFQ-1 1 Set
+0 - 150°C x 1/2° 1Pe
+BT1/4" x 607 x 10/15K [.98/1.47 ¥Pal 2 P.cs
+1 Set
+GMVE-604G 2 P.cs
+H0-03-215 1Pec
+LGH - 50 2P.cs
+CH-101T /L 1 Set
+FE-01 (Cds) 1Pe
+¥ith manual switch 1 Set
+1Pc
+HTGX-15 (15 4)
+JIS 10K 204 F.T.
+1 Set
+NIPPON DANFOSS MFG. CO., LTD. 3 P.cs
+KPS - 81
+NIPPON DANFOSS MFG. C0., LTD. 2 P.cs
+KPS - 35
+1 Set
+NIPPON DANFOSS MFG. 0., LTD. 1P.c
+RT - 116
+NIPPON DANFOSS MFG. 0., LTD. 1Pe
+RT - 116
+1 Set
+1 Set
+SINGLE AUTO. -CLEANER WITH MOTOR
+JIS 10K 324° & 60mosh
+1 Set
+TROCHOIDAL GEAR TYPE
+NIPPON G-ROTAR MFG. CO.. LTD.
+0P - 210 - 03
+600 ke/hr
+5Ke/em2 & 0 [0.49MPa & 0]
+MITSUBISHI ELECTRIC CORP.
+0.4 K¢ 6P Insulationclass = "F* (1.2 A)
+ng 10K 204 & BALL VALVE (L-PORT)
+. €S
+Limit switch (ZE-QA2-2) 2P.cs
+
+--- PAGE 24 ---
+13-4. Relief valve for F.0./N.0. circ. line 2P.cs
+Nodel No.
+
+HTGX-15 (15 A)
+Bore JIS 10K 204
+13-5. Thermostat for ¥.0. pump control 1P.c
+Model No.
+
+NIPPON DANFOSS MFG. CO., LTD.
+KPS - 81
+
+14. F. 0./¥. 0. compound-set 1 Set
+15. Burner control panel 1 Set
+Systen For drip proof system
+
+See TABLE 17 about indicator and alarms. (Page = 6)
+
+16. Spare parts and tools See "LIST OF SPARES & TOOLS™ 1 Set
+
+¥4k NOTE 4%
+See "TABLE 2” about setting value of pressure and temperatur. (Page = 1)
+
+--- PAGE 25 ---
+T A B L E 1
+
+INDICﬁAﬁTOR AND ALARMS
+
+BURNER TRIP EX__TERMINAL
+rre . o._cony | "PINTOR o T, /aama
+Source failure oR - 0 #1 N52 - 511
+Flane-eye abnornal o ok o o041 -
+Mis-ignitionFlane failure oR o ol -
+F. 0. temperature too low ok o o ¥l i
+F. 0. pressure too low oR "o o041 B
+BLR. DRM. lovel too low o oR | o o0 #1 N52 - 511
+F. 0. temp. high (HTR. trip) HIR. trip oR o NT1 - 708
+BLR__DRM. level high alarn - - o 7L - 713
+BLR. DRM. level low alarm - - o ML - 14|
+F. 0. pressure lov _alarn - = o | Ni-100
+igh alam | - - o ML - 712
+- - o NT1 - 708
+Energency stop oR B o #l N52 - 511
+Source = - -
+Thermostat by-pass - [ I ~ -
+F. 0. use - o - -
+W 0. use - 3 - -
+Burner_stand-by = A o N62 - 611
+Burner-auto. E = 3
+Fire (BLR_ruming) _ o " [ w2 - 1
+D. 0. purging
+F. D._fan running = 0 N63 - 612
+F. D. fan stop ok o o #l N52 - 511
+F. D. fan abnor. stop o N61 - 608
+F. 0._pump running - E 0 | o N63 - 613
+0._punp_abnor._stop E ° N61 - 609
+0. punp running B R o N63 - 614
+. 0._pump abnor._stop = ° N61 - 610
+
+#4% NOTE 4%
+oR mark = Manual reset, Abnormal = b contact, Running = a contact.
+o#1 mark = One(1) common contact. o¥2 mark = Yard supply sign.
+o043 mark = Iluminated switch.
+
+STARTER T NOMBER | CAPACITY [
+Fuel oil punp 1 0.4 KN x 6P 12
+Waste oil punp 1 0.4 KN x 6P 162
+Burner_notor — 1 04 KN x 2P 0.9
+Forced draft fan 1 7.5 KN x 2P 12.6
+Diesel oil punp (1G. BNR. pump) 1 0.4 KN x 2P 0.9
+0i1 heater 1 ] =11
+
+--- PAGE 26 ---
+T A B
+
+L E
+
+2
+
+SETTING VALUE OF PRESSURE AND TEMPERATURE
+
+1. Setting value of oil pressure. (kg/cm2 [MPa])
+
+ARK TTEN WODEL No. | SETTING PRESS. | ADJUSTING RANGE
+R104 | Safety valve of F. 0. pump ToP-210 5.0 [0.49] 4 -7 [0.39-0.69]
+RII6 | Safety valve of ¥. 0. pump - o %
+R103 | Relief valve of oil heater - 6.5 [0.64] 4 -7 [0.39-0.69]
+R237 | F. 0. pressure adj. valve HTGA-15 | 3.0 [0.29] 2.6- 5 [0.25-0.49]
+R237C, W | Circ. line pressurc adj. valve | - 3.5 [0.54] i i
+RI14 | Relief valve of D. 0. pump | GRi-VSL | 7.0 [0.69] 5 15 [0.49-1.47)
+2. Setting value of oil temperature. ( °C) .... Diff. sett. = Min.
+SETTING TEWP. ADJUSTING RANGE
+MARK ITEM MODEL No. | (600 ¢St/50°C) °c
+C. RANGE DIFF.
+R812 | BNR. inlet thermometer = 115 0 - 150 d
+R614_| Thermo-control ler TCR-5B 120 50-200 | 4
+R610 | Thermostat for high (HTR.-TRIP) -5 160 50 - 320 1
+R603 | Thermostat for low (BNR. TRIP) |  T-5L 80 30 - 110 0
+R61Z | Thermostat for F. 0. punp control | KPS-81 | ON-110,7OFF-116 | 60 - 150 | 5 - 25
+R626 | Thernostat for W. 0. pump control ki TEC - 10 C - g
+| R620 | Thermostat for low (ALARM) - 90 3 I
+R628 | Thernostat for high (ALARM) - 140 2 E
+
+3. Setting va
+
+lue of pressure switch. (Air = mmAq [kPa], 0il
+
+& steam = kg/en2 [WPa])
+
+SETTING PRESS.
+
+ADJUSTING RANGE
+
+RANGE DIFF.
+MARK ITEN MODEL No. st "ol
+Pa Pa Pa
+OFF 25 - 500 10
+R71L | Primary air pressure switch LGH-50 500
+19 L25-49] 01
+OFF
+R71Z | Secondary air pressure switch - 100 - g
+0.98
+R605 | F.0. press. sw. for low OFF 0-8 [0.4-15
+KPS-35 1.8/20
+R629 BNR. trip & low press. alarn 0.18 /0.2 | 0-0.7|.04-.15
+STH. press. sw. for ON | OFF | y-10 [.3-13
+R702 RT-116 5.5 6.5
+BNR. ON/OFF control 0.5 | 0.64 1-.98|.08-.13
+STM. press. sw. for HIGH LOW
+R703 - 5.1 6.3 ) ¥
+BNR. HIGH/LOW control 0.5 | 0.62
+
+--- PAGE 27 ---
+0il burner and Accessories
+
+2.
+
+2.
+
+Out-line of Burner
+
+This burner consists of rotary-cup, Wind-box, Ignition system and safety
+control devices for combustion. The fuel oil is led to rotary-cup burner
+and it is spread-out inside of rotary-cup. By high speed rotation of
+rotary-cup, fuel oil is spread-out equally, and it makes very thin oil
+film from cup-edge to 90 degree angle.
+
+High speed air from primary air nozzle rotates opposite direction of
+rotary-cup collides into thin oil film and it makes atomization.
+Secondary air (For combustion) is distributed equally by wind-box and it
+is supplied from out-side of primary air nozzle for easy mixing of oil
+particles.
+
+Ignition is made by flame of diesel oil pilot burner. Atomization of
+main burner is done around rotary-cup. Therefore, oil pressure is
+relatively low and atomization is equal. And complete combustion and
+
+low load combustion with excess air rate can be done
+
+Burner control system
+This burner is ON/OFF controlled by steam pressure of boiler.
+
+For High.Low controlled burner, ON - LOW — HIGH - LOW combustion controls
+
+are made.
+=
+|| \IGNITION,
+=]
+a
+s
+" BOILER DRM. PRESSURE
+ON/OFF_COMBUSTION CONTROL
+CHANGE OVER TO
+HIGH LOW COMBUSTION
+coMEUsTIoNg ' CHANGE OVER TO
+2 :7HEH COMBUSTION
+= STOP FIRE
+5
+LOW
+COMBUSTION
+BOILER DRM. PRESSURE
+
+ON/OFF & HIGH/LOW COMBUSTION CONTROL
+
+(A-1)
+
+--- PAGE 28 ---
+3.
+
+Control devices
+
+3-1.
+
+3-2
+
+3-3.
+
+Flame-eye (Monitoring of combustion) (RA07)
+
+The flame is monitored by CdS, and safety circuit consists of
+semi-conductor rectifying circuit.
+
+Thermostat (R612)
+
+Control use for F. 0. pump circulation.
+
+When oil temperature is lowered in pipe-line during burner st-by
+condition, F. O. pump is operated by this thermostat.
+By circulation of high temperature oil at pipe-line, oil temperature
+
+is monitored and is maintained at constant temperature.
+
+Thermostat (R626)
+
+Only for waste oil combustion use. Same as Para 3-2 & control W.0.
+pump.
+
+Diesel oil solenoid valve (R609)
+
+This valve is opened at certain time from the time of burner stop
+
+signal by boiler steam pressure and then D. 0. pump is started.
+
+Heavy oil remained in pipe line between main solenoid valve (R608)
+
+and rotary-cup (R234) is replaced to diesel oil.
+
+However, this function dose not operate when emergency stop and
+
+diesel oil use.
+
+0il/Air flow control motor (R408}
+
+(Motor is not included with ON/OFF control specification)
+
+This motor is set for rotation of 80 degree. 0il flow control valve
+and secondary air damper are connected with control motor and it
+is stopped at certain position of boiler steam pressure. (High or
+
+low combustion)
+
+0il heater control system (R614)
+
+This is electric oil heater which consists of relay and sensor part
+of oil temperature control system. Sensor part is located in the
+terminal box of oil heater and relay part (Thermo-controller) is
+located burner control panel as indicated 23QCX.
+
+When reading scale of relay part differs’ from actual measurement
+value, setting should be done again by loosing of screw for relay.
+
+Morever, sensor part is used for thermister.
+
+(Aa-2)
+
+--- PAGE 29 ---
+Presentation for Operation
+
+A. Ther following items are inspected prior to burner operation.
+
+5.
+6.
+
+Inspection of pipe line and open/close of valve for water supply.
+Inspection of electricity and control air for water supply control.
+Inspection for water level of boiler drum.
+
+Inspection of oil piping compared with flow sheet.
+
+a) In case oil flow-meter is installed in, please inspect whether
+line is correct or not. (0il flow measurement can be correctly
+or not.)
+
+b) position of Relief Valve is correct or not. (oil is enough
+circulated at close position to burner or not.)
+
+c) Position for return line connection is correct or not. (Air
+can be taken out enough.)
+
+d) Inspection of heating steam trace and inspection is complete
+done or not. (Whether blowing air in engine room may cool off
+pipe line or not.)
+
+Inspection of oil quality for service tank.
+Inspection of open/close and leakage for valves oil pipe line.
+
+(Especially, ignition burner, suction line, air removal and oil leak)
+
+B. Initial Operation (Including boiler is stopped for a long period of time)
+
+)
+
+s w
+
+@
+
+In case service tank can not be heated, operation is done by diesel.
+0il. (In case boiler is stopped for a:long period of interval, pipe
+line should be changed over to diesl oil for operation.)
+
+Please take out air remained in oil pipe line. (When test operation
+is done after hydraulic test, it is necessary to remove complete
+water confirm that oil is reached at level of pump suction.)
+Inspection of wiring for control panel and junction box.
+
+Inspection of rotating direction of each motor.
+
+. While boiler is at cold condition, burner is operated at low combus-
+
+tion. After boiler is warmed up (Boiler pressure is over 1 Kg/cm2),
+
+then it is switched over high combustion.
+
+C. Operating Procedures and Cautions Items
+
+1.
+
+Burner operation is generally Automatic operation but it can be also
+operated Manually. In case, flame detection is done by flame-eye
+
+and oil burner is cut off at low water condition.
+
+(B-1)
+
+--- PAGE 30 ---
+But burner cut off by boiler pressure increase will not be one.
+
+Please be caution. When ignition is done, solenoid valve switch must be
+"ON'" after confirmation of pilot burner flame. Morever, in case High/Low
+combustion control system, oil control is done by change over regardless
+
+automatic or manual combustion.
+
+By oil control change over switch, manu. low - auto. - manu. high combus-
+
+tion can be made at each position.
+
+In case two (2) F. O. pumps, please select No.l or No.2 F. O. pump by
+control panel. At the same time, please confirm valve open/close for
+
+pipe line.
+
+. Before you put on power source, please confirm that each switch of
+
+control panel is "OFF" position.
+
+. Kindly open/close of valve for oil piping system in order to use differ-
+ent kind of oil and thermostat by-pass switch (By thermostat for lowering
+of 0il temperature) must be set by various using oil. (In case diesel oil
+
+is used for combustion, thermostat by-pass switch is "ON" position.)
+
+(B-2)
+
+--- PAGE 31 ---
+Operation
+
+A. Manual operation
+
+1. Main source is turned on after confirmation of every item for operation
+
+proparation.
+
+2. Please confirm open/close of valve on each fuel oil supply line for
+using fuel oil.
+
+3. In case diesel oil used, Oil heater switch (3-QH) is "OFF" position and
+Thermostat by-pass switch (43Q) is set at "ON" position. (Cancel sw.
+for F. 0. temperature low)
+
+4. In case burner is High/Low combustion control, 0il flow control switch
+(43-QC) is operated at combustion position after firing of at low
+combustion. When burner is cold start, 0il flow control switch should
+be set at "MANU. LOW" position.
+
+5. BNR. operation switch (43-B) is set at "MANU." position and press Igni-
+tion manual switch (3-IG) after lighting of Ignition ready lamp (OL).
+(It normally takes 3 second for ignition. In case ignition fails for
+5 second, turn off switch and investigate cause of faillure.)
+
+Pre-purge is set for minimum 30 second by timer (2MPG).
+
+6. After firing of ignition burner, press 0il solenoid valve manual switch
+(6-MV) together with pressing of Ignition manual switch.
+Please release your hand from each switch after firing main burner
+
+7. After stable combustion, MANU. HIGH/MANU. LOW/ AUTO. change over is made
+by 0il flow control switch (43-QC) for changing of load. (In case BNR
+is ON/OFF combustion control only, oil capacity is fixed.)
+
+8. Change over from diesel oil to heavy fuel oil is made by valve operation
+during oil burning. Whenever, heavy fuel oil reaches more than half of
+fuel oil in the pipe line, 0il heater switch (3-QH) is turned "ON".
+
+In case oil temperature exceeds setting value, Thermostat by-pass lamp
+starts blinking and then turn off Thermostat by-pass switch.
+
+In case change over is made from heavy fuel oil to diesel oil, please
+follow reverse procedures accordingly.
+
+9. For stopping of High/Low combustion control burner, 0il flow control
+switch (43-QC) is set at "MANU. LOW" position and 0il solenoid valve
+manual switch (5-MV) is pressed "OFF".
+
+B. Automatic operation
+
+1. Initial operation procedures are same as Para 1-3 of manual operation.
+In case heavy fuel oil is used, 0il heater switch (3-QH) is turned "ON"
+position and other switches are set at "AUTO." position and Burner-auto.
+switch (3-B) is turned "ON" position.
+
+Whenever operation condition meets, burner is operated automatically by
+progress control. (Morever, please see flow-chart details as per
+enclosed.)
+
+2. Burner auto. switch is "OFF" position for burner stop and it is stopped
+after completion of post-purge. (Please do not cut off Main source
+until completion of post-purge.)
+
+3. Auto.-operation time table for operating procedure 1 & 2 and operated
+for program control sequence which is listed in the next page.
+
+(c-1)
+
+--- PAGE 32 ---
+OPERATION SEQUENCE
+
+STOP = PRE-PURGE = IGNITION ~=— AUTO. —COMBUSTION CONTROL-== STOP-FIRE == POST-PURGE == STOP
+
+START SIGN. STOP_SIGN.
+PRE-PURGE 1G. TIMING NOR. RUN. POST-PURGE
+05 15 30 35 45 50 0 0 10 15 30
+T T T T T T T = T T
+TIME (sec.) e TIME (sec.)
+BURNER (F.D. FAN/F.0. PUMP/BNR. MOTOR)
+
+- ALR DAMPER OPEN SICN. S R
+
+IGNITOR
+
+SOLENOID VALVE
+
+1= 14 sec.
+D.0. PURGE-TIME
+
+D.0. PUMP & D.0. PURGE SOLENOID VALVE
+
+= |
+
+| FLAME-MONITOR o [
+
+'LAME-EYE_ABNORMAL —
+
+##% MARK #1 & T1 ... D.0. PURGING dose not work after D.0. burning or EM CY STOP.
+
+C. Ignition burner
+1. Regardless of manual or automatic operation, ignition burner is a important
+equipment. Please be aware of electrodes clearance and crack. In case crack
+and removal of wire from electrodes, please replace it.
+Setting position of electrodes is refered attached drawing.
+
+D. Stopping signal
+1. Burner "OFF" signal by boiler drum pressure. (635 = R702)
+2. Burner-auto. switch (43 - B) "OFF" signal on Burner Control Panel.
+3. Burner emergency shut-off (oR mark) signal in atached "TABLE 1" of this
+specification exept Flame-eye abnormal, Mis-ignition and Source failure.
+
+E. Abnormal
+
+1. Flame-eye abnormal
+In cace flame is caught within 15 seconds after burner start from stand-by
+condition, burner is locked.
+
+2. Mis-ignition
+In case ignition system become failure, main solenoid valve dose not operate and
+ignition system gives alarm.
+Then it stops after post-purge.
+In case ignition system is normal condition, ignition action is carried out and it
+gives alarm and stops after post-purge.
+
+(c-2)
+
+--- PAGE 33 ---
+F. Waste 0il Combustion
+
+1.
+
+Preparation for Operation
+
+a. Water and solid including waste oil may cause problems for oil pump
+operation or cloging of strainer. Of corse, combustion becomes poor
+
+and cause black smoke or un-burned waste oil may stick to the furnace
+wall.
+
+Therefore, enough drainage id done in waste oil service tank and
+clean strainer proir to operation.
+
+b. Waste oil has characteristics for not easy flow when waste oil temp.
+is low and it is very difficult for atomization.
+In case waste oil is bellow flash point, it never be burned.
+
+Therefore, waste oil is heated proir to combustibn.
+
+Heating temperature is normally 80 to 100 degree C but necessity of
+waste oil heating is depend on condition of waste oil.
+
+Please adjust by combustion condition. Of corse, water content can
+be evaporated by heating.
+
+c. Even water is drained from waste oil which has some water content.
+And it is very easy to make layer of water and oil by gravity and
+temperature difference in waste oil service tank. Before you supply
+to burner, waste oil is enough agitated in order to make equal
+quality and water evaporation is also easy.
+
+. Operation
+
+After completion of pre-operation check, burner is stopped momentary
+and three(3) way valve unit is changed over to waste oil combustion and
+operate waste oil pump.
+
+Itis also necessary to change oil pressure by characteristics of waste
+oil. 1In case waste oil has low carolific value, oil pressure is
+decreased and oil flow is increased.
+
+In case waste oil has high carolific value, oil pressure is decreased
+
+and oil flow is finally decreased in order to prevent black smoke or
+flame failure.
+
+. Stop
+
+For stopping, burner is stopped and waste oil pump is also stopped.
+Suction line of waste oil is changed to diesel oil, and then waste oil
+pump is operated 2 or 3 minutes.
+
+After waste oil line is changed to diesel oil, 3-way valve unit is
+canged over C heavy oil.
+
+(c-3)
+
+--- PAGE 34 ---
+Adjustment
+
+1. Rotary-cup burner
+
+A. Primary air nozzle and rotary-cup
+
+B. Burner belt
+
+(P—130)
+
+(P—113)
+Y
+(P—132) L
+
+\
+I
+
+(p-1)
+
+Distance "A" is adjusted by
+movement of air nozzle.
+(0.5>A Z 0)
+
+In case distance becoms more
+than 0.5, atomized particles
+become more larger size and
+cause carbon stick. In case
+distance become less than 0,
+fuel oil collide into the air
+
+nozzle and cause oil leakage.
+
+After pulley is disassembled
+assembly procedures will be
+obtained in order to set pul:
+ley exact position. In case
+surface of belt is not properly
+adjusted, it causes belt problem
+or cutting belt.
+
+At first, main shaft pulley
+(P-132) is installed and "A"
+distance (33mm) is set.
+
+Then "B" distance (26mm) from
+flange surface ob burner body
+(P-113) is set accurately.
+
+Then belt is adjusted for
+certain tension properly.
+
+Belt is adjusted with proper
+tension in order to transfer
+energy and to keep reliability.
+
+Belt tension is checked by
+your thumb.
+
+In case belt is not adjusted
+properly, it may cause abnor-
+mal wear out of belt thread
+and cause abnormal noise.
+
+(T = 3n/m)
+
+DJUSTING BOLT
+
+--- PAGE 35 ---
+2. 0il quantity and Air control
+A. 0il control is carried out by oil flow control valve.
+This oil flow control valve is adjusted
+in accordance with viscosity of specifi-
+
+cation before shipment.
+
+Please refer to next paragraph Mv-1771
+
+for structure and adjustment.
+
+B. ON/OFF combustion control burner
+
+0il flow is set as constant by throttle control valve.
+
+(EXAMPLE)
+Setting pressure of relief valve....
+
+1.5 Kg/cm2
+
+Valve rotation is returned 2.7 times
+from position of valve full closed.
+
+Name plate is installed at burner body.
+
+therefore, please do not adjust carelessly "Screw for adjustment".
+
+However, when using oil has so different viscosity for example diesel
+oil for test running or waste oil, flow rate should be adjusted with
+pressure control by relief valve for oil pressure.
+
+For low viscosity oil (Diesel oil), oil pressure should be decreased.
+
+For high viscosity oil (Waste oil), oil pressure should be increased.
+
+(p-2)
+
+--- PAGE 36 ---
+C. Structure of damper consists of two (2) butterfly which are operated
+together in order to adjust air.
+
+Air volume for burner is.as follows:
+
+125 Kg/hr capacity of oil burner
+At low combustion® 18 - 20 degree open
+
+At high combustion 50 degree open
+
+‘Morever, opening angle for high combustion is slightly varied by
+maximum 0il quantity and furnace pressure
+
+After adjustment of maximum combustion at site, damper should be set
+slightly open side from the position of black-smoke.
+
+D. Operation is carried out by air/oil flow control motor.
+
+0il control valve and secondary air damper are connected with linkage
+system.  Control motor angle is 80 degree.
+
+Damper adjustment (a) loose rod-end when air volume is small.
+(a) Loose rod-end when air volume is small.
+(b) It should be adjusted to lower position and damper angle will
+be greater.
+If your adjust at upper position, damper angle becomes smaller
+and supply less air.
+
+Adjustment can be also made for angle by turn buckle.
+
+AIR/OIL FLOW CONTROL MOTOR
+
+ROD-END (a)
+
+COMBUSTION AIR
+
+DAMPER OPEN INDICATOR
+TURN-BACKLE
+
+OIL FLOW CONTROL VALVE
+
+AA:  LOW COMBUSTION (Notch 9 )
+BB: HIGH COMBUSTION  (Notch 1 )
+
+(D-3)
+
+--- PAGE 37 ---
+E. Guide Line for combustion Adjustment
+
+Our burner is adjusted oil quantity, oil pressure and air volume
+before shipment.
+However, it is necessary to make final adjustment with various
+
+condition such as oil characteristics and other factors.
+
+First of all, please set proper oil temperature at heater for fuel
+oil.
+For example (115 degree C at RW.#1 3,500 sec. at 38 degree C) oil
+
+temperature must be confirmed by thermo-meter at inlet of burner.
+
+In case there are some errors, please adjust oil temperature by dial
+at temperature setting. Then, please confirm setting pressure of
+
+relief valve should be 3 Kg/cm2. (1.5 Kg/cm2 depends on type of BNR.)
+
+Under this condition, oil flow control switch is turned at "MANU.-
+LOW" combustion and damper opening is made at 18 to 20 degree.
+After confirmation of o0il flow control valve at No.9 position, then
+
+ignition is made.
+
+After ignition, flame condition and smoke condition from chimney
+should be checked and 0il quantity measurment should be also carrid
+
+out.
+
+Then, "MANU.-HIGH" combustion can be obtained by oil flow control
+switch.
+
+Air/0il flow control motor operates, oil quantity/air volume will be
+
+increased by linkage system.
+
+After oil quantity is adjusted, please confirm smoke from chimney and
+
+adjust for air volume.
+
+Proper position for air damper is slightly forward position which is
+
+opening position of air damper (2 or 3 degree) and please set.
+After comletion of high/low combustion adjustment few time, please
+
+confirm flame becomes more stable and no smoke from chimney.
+
+For ON/OFF control adjustment, oil quantity/damper (air) are both
+fixed.
+
+Please refer to attached Dwg for relationship between oil flow :
+
+control valve .openning and oil pressure.
+
+(D-4a)
+
+--- PAGE 38 ---
+CAUTIONS FOR HANDLING OF SUNFLAME ROTARY-CUP BURNER
+Yrova-a—2Y) - hy T S—FINBAEIIA
+
+In case diesel oil is used, heater switch should be turned "OFF" and
+thermostat by-pass switch (cancell of low oil temp. ) should be turned
+wONY.
+
+A T HIEE MBB R A 2 F 97 R $—TA Ly b -S43 QIR
+Farver) 249 F “A" CLTEMLTTFE N,
+
+In manual ignition, ignition flame should be inspected visually before
+solenoid valve switch is turned "ON'
+
+FRHRGCTAKTEEE A Z=y v ay - "—FORELT AR THEHCTHS
+A4y FE A" KLTTFI N,
+
+Set temp. of thermostat
+
+LU -SRI A (1Y
+
+Standard For this ship
+B # x 4o+ oy b
+
+[F-o. temp. too high (burner cut)
+
+W BB R (5= A b) 1s0°¢
+
+F.o. temp. high (alarm)
+
+VR 1a5%¢
+
+0i1 heater control o
+
+Wom % B8 R
+
+‘Pump control (F.o. circulation in
+
+# 7 B8 (WRETHER low oil temp. 100%
+
+F.o. temp. low (alarm)
+
+WEET (B 8 Aose 1
+
+F.O0. temp. too low (burner cut) &
+
+WEE T (S—F-Hhoh) ki
+
+Heating temp. of tank ”
+
+2 ¥ 2 BB S0°¢
+
+Interval for inspection and maintenance
+
+SEOM O R OB R
+
+—— Standard For this ship
+& b3 * # k v b
+
+Cleaning of rotary cup Weekly
+
+o2 -5y 7K —33 1./ —1d
+
+Maintenance of ignition burner Week/Twice or more
+
+A7 =y S SRl — 18 B
+
+Cleaning of flame cye glass Weekly
+
+7 Vv— a7 A Nl — M —
+
+Cleaning of strainer screen Weekly
+
+R b v— kY - — B/
+
+Fixing nut of rotary cup is counter clock wise rotation.
+R—ZzY - ny TMHF s PAEF TS,
+
+--- PAGE 39 ---
+11 4 90 9T O R IT )
+
+the ship.
+
+** Set pressure of F, 0. pressure adj. valve
+
+Kg/ cm2
+
+** Adjusting screw of oil flow control valve should not be re-adjusted by
+
+Flow rate had better be re-adjusted by press. adj. valve.
+It is increased in proportion to pressure.
+
+ALY ISP ORI A BN ICR BB LEZNT T3 N,
+
+MO HIKDLETUETH>TTE N,
+WRER D 2,
+
+** Purpose and set time of timer
+
+A4 < MBI E LR M
+
+MWIEE L hdwlidm Ly Foae
+
+=
+
+Symbol Purpose
+L5 il &
+
+Standard [For this ship
+8" L A K o b
+
+- S Tow {Burmer
+2u-1 Boiler level too low (Burner cut
+
+)
+
+MR ee O # )
+
+A5 AMBT (S—F 5y b) e
+2W_p | Dotrer—L - WM% ~Y0"Sec.
+e Fon7of—eontral_af_feed water pump
+- 2 B B— 5e¢
+| gkt 2 753 45ty =
+2 X rect start
+eplaceing of pipe Iine with D.0. ¥1)3 sec.
+A TKUICHCD BT -5 — 05 ) *2)30sec.
+2qc |Change-over to high combustion o il
+
+eyel sensor in
+
+W.0. TR.
+
+i U RS |
+
+;R L X SEE OB K
+
+** Adjustment of combustion rate and damper opening
+
+Item
+
+L] 53 U3 5 By
+011 flow rate
+l e
+
+At delivery |Final set for| o
+our works this ship
+
+R ame | T §
+
+[0iT press.
+] E
+
+Oil temp.
+il B
+
+®
+€
+o
+
+Opening angle of damper
+£ AR
+
+[OIT fTow rate|
+] A
+
+8 [0l press.
+hi] E
+
+¥ 011 temp.
+b
+
+= B
+
+[Opening angle of damper
+AR
+
+g
+[}
+o
+i
+)
+3
+a
+E
+o
+[}
+x
+-1
+3
+)
+S
+a
+pe}
+)
+£
+K
+E
+S
+o
+=
+@
+i
+
+** Before finishing of burner for long interval of boiler running, diesel
+
+0il burning must be carried out for replacing of pipe line.
+FATOBRAUCERBICHETHEICE ZTRRIA ik A T YHL THRELT
+
+A=FEMBELTFIN,
+
+--- PAGE 40 ---
+CONSTRUCTION AND FEATURES
+
+This valve is a oil flow control valve for proportional cosbustion control of oil burner.
+When it is used in cosbustion with proportional pressure controller and control motor, it
+controls Flow amount of oil in proportion to stean pressure of the boiler.
+
+The first advantage of the valve is that ; it is provided with three special Flow amount
+adjusting mechanisas, one of thea is a spindle () which rotates according to an operation
+of a control wotor. Such flow amount adjusting mechanisas make it possible to change opti-
+onally flow characteristics of the valve, thus maintain an air-fuel ratio fitted for any
+air supply characteristics.
+
+FLON_AMOUNT ADJUSTING MECHANISK
+
+Adjustaent of flow amount is made by changing an opening area between the spindle and a
+sleeve (2) as the spindle has a rotational and reciprocating motion.
+Flow amount adjustment is made in following manner.
+
+1) Adjustaent by a rotation of the spindle
+
+The spindle is connected to control motor and flow amount is adjusted proportionally
+according to a change of load. Rotation angle of the spindle is max. 100° between 0
+to 10 positions of thrust cam scale. When the spindle is turned toward scale position
+10 from 0, Flow amount decreases.
+
+2) Adjustment by an. adjusting bolt
+
+By turning the adjusting bolt (3) , a clearance betueen spindle (cutted portion) and
+sleeve can be changed. When the adjusting bolt is screwed-in, flow amount of the
+valve increases and flow charactristics is also changed.
+
+3) Adjustaent by an adjusting screw (thrust cam mechanisa)
+Flow anount can be 2djusted more strictly with adjusting screw (¥) of the thrust cas
+in accordance with an air supply charactristics of burner. When the adjusting screw
+are screwed in, flow amount of the valve increases.
+
+ORDERER & S.NO.
+
+ANERUME
+
+F. 0. FLOW CONTROL VALVE
+
+ki e 0 I
+
+&
+
+DRAWING NO.
+M v
+
+B -1 771
+
+SUNFLAME CO.,LTD.
+A Y Y T L L
+
+PAINTING COLOUN 3B %2 @
+
+MUNSELL
+oA
+
+DRAWING HISTRY
+
+B @ * &
+
+--- PAGE 41 ---
+R108
+
+#108) (R10d 0By (R108) (R
+(unD \ODD ﬂo‘nz) \oos (
+7T -
+
+/
+
+1
+
+108) (R108 @s ®108
+
+05/ \oos) \ao7) \oos
+
+/ /]
+/ /
+
+R108 | IG. BNR. GUIDE
+o5 | W -3-3 4K
+
+1 | 40A SGP
+
+R108 | ELECTRODE_HOLDER
+004 | BEBBRERKESA
+
+R108 | OIL PIPE
+
+R108 | ELECTRODE
+
+DRAWING RISTORY PAINTING COLOUR te
+& i Sk B
+
+003 Ey i & 1 6A STPG370 008 Ty beag ¥ 2 | R3MTS
+R108 | NOZZLE HOLDER T R108 | ASS'Y HOLDER NUT "
+002 | JXN-d KT 001 | 7oy yuktat
+R108 | ATOMIZER 1 | s R108 | ASSEMBLY HOLDER
+001 | 7hy4¥- 06 | T4ty T ) RES
+MARK | NAME OF PARTS Q' TY | REMARKS MARK | NAME OF PARTS Q' TY | REMARKS
+i 5 BEEH M| W % L5 B8 EH it
+“RULE ORDERER & S-No.
+- B HEXERUHE
+CIIECKED BY.
+L «| IGNITION BURNER ASSEMBLY
+DRAWN BY — e
+® ¥
+SCALE
+R & LIS DRAWTNG To.
+i 10 - FEB. - "86
+8_ff i SUNFLAME 0., LTD.
+
+Bttt B v 7 VA
+
+--- PAGE 42 ---
+=
+S
+
+[
+
+WASTE 011 /"
+K
+
+HIGH TENSION CABLE.
+
+b
+BEEES
+
+53]
+
+oo2o!
+
+25!
+
+E
+
+-
+
+{00 108 T RING-JOIKT)
+
+o ®
+= e | | Ealzss
+
+y——
+
+1
+QICK-CLOSING VALVE F.0_PESS SI_(T00 LOW) | R0 STHPRESS. . (IGHALOR) AV VALVE (IN-SIDE)
+DIESE, OIL STRANER TERSTAT (00 10D | R STH_RESS. K. (OV0FF) 3NAY VALVE_ (R, -S106)
+F.0__STRAINER LINTSt_(.Q_SID)
+OIL PIPING TRACE HTR___| Rozs F.0PES SI_(U0YAM LTS (LQ_SIDE) T -
+F._0_COPUND-SET BNR_HINGE-LOCK SKITCH THERSTAT (HIGH AL COPIN>-GAKE COLOURED PARTS ARE SIPPLIED BY SURFLAE 0., LTD
+FORCED DRAFT FA AIROIL FLOY CON. WOTOR THERMSTAT (7. CONTRL) PRESSURE GALGE
+%O INIT FLUE-EE THERMSTAT (LOW ALARY
+0.0_PUP INIT TGNITION TASFORER THERMISTER (TR_COVTROL) BRNER TILE
+BURNER WIND-BOK HRER WOTR DRAIN O1L SULENDID VAV THERDETER L ROTARY-CUP BURNER
+IGNITION BURNER INIT THERMOSTAT (PP, COKTROL) i — FLOW SHEET
+ANCTION BOK CHECK-VALVE W.0_STRAINER "AIR SOL.V/V FOR FD. W CONT) G A
+F.0_POP INIT AIR SEPARATOR. THERMSTAT (100 HIGH) ELEC. DAL LEVEL SENSER X S 2 b
+OIL FEATER F.OPESS A VALVE 0.0_SUPOID VALVE SECOND._AIR PRESS_SK # % MFR-141a4
+ROTARY-CP BURWER INIT ROTARY-CUP MAIN SILENOID VALVE PRIK_AIR PRESS. .
+HURNER COVTROL PANEL F.0__FLOY REQULATOR 1G_BR_SOLENOID VALVE BR_DRLLEVEL St # ﬁSAUgFLAME C0., LTD.
+
+z
+
+ik TQ'TY NAE OF PARTS NAKE OF PARTS
+
+--- PAGE 43 ---
+oo (MO L, [0 [susac
+1ou | PR ST RV M R A 1 [ssmt 1 1|1,
+u - S 1 |sasc 128 WL AT 1
+[P TN 854 N P
+M) 19 @ ™ (@
+
+oroeaes & 30
+AXERUEE
+
+s PR oo B S
+TLEN, SEE_SPECIFICATION
+
+TYPE : SSR- 1.5 £ 2
+ROTARY-CUP_BURNER SECTIONAL DRAVING
+
+™S MPR-1088
+
+SUNFLAME CO,,LTD,
+BAEH 4 ¥ T L L
+
+e R R 11"
+
+RN ]
+
+--- PAGE 44 ---
+I e N T
+] v T s
+-
+- o s
+LEFT-HANCED SCREW [T RS S
+N o L A T
+w08 [T o v e
+s [,
+107 [T T | s
+P
+109 4' P 1 [mace |
+o [T, T o
+[T -t e
+o ] \
+v :
+[0 °'¥"‘ . n 1|56 senmo
+T7Y B PP N EY T
+w1 [
+T 0 I P
+s [T s 5 Teue
+122 | Y F 4 R
+[TE) e 25 S
+P e 4 N
+o T
+T b el I
+T i i Y
+1Y ML N R
+ke 5 3 Jisas
+o | s | 1 June
+|
+[T R 1 Jsasn
+o [ N
+
+T
+
+onrexto o |
+m x
+
+o
+
+o ROTARY-CUP_BURNER
+88l s R 7
+R Vx — 4b w 5 il
+
+ororaer » 5.,
+EXERUEE
+
+SEPARATING WETHOD FOR
+
+8" |17-HaR. 18y
+
+8™% MPR-1140
+
+PTG cotons I W &
+
+HPR-1088
+orxene i
+
+Ty
+2=z |vven
+
+SUNFLAME CO,,LTD.
+wREH 4 ¥ T L A
+
+--- PAGE 45 ---
+SCREEN
+
+WEIGHT (kg)
+
+} ------- + 152 (6 = Motor..... + 72 kg)
+
+*6
+
+el ORDERER & 5.NO.
+
+B SENERUBE
+
+CHECKED BY
+
+‘SEPARATING ORDER FOR
+oRAWN BY il
+FY] @2 H g FORCED DRAFT
+ScALE — T
+R " D. 7 s WO
+g % | 16Mar.—vee | BN M f
+
+DRAWING HISTRY FAUSTING: COLOVR 28 B €' SUNFLAME CO.,LTD.
+
+BB RE LU MRERL 4 > 7 L b
+
+--- PAGE 46 ---
+@O
+
+§ (210
+161 (216)
+
+WATN SHAFT
+P E Ve
+
+13| 797-0—z | 1 |27 ”°ﬂ5’} a1
+
+12 |TNERROTAR . | 1 | 26 40
+
+11 25 39 [CILTAL sy e A
+10 PPORET 1 |24 EE 2
+o [PUPRUSING Ty |55 R VALTE SRl | | 5, PiLsEAL [
+o [T0F COVER FRCKTNG , |5, T 36 [PALL BEARTHG 3
+7 21 3s |PALL SEARNG o 01'h
+s [EFFPATE 11 [0 34 [PVPRING,
+3 19 |FIXING BoLT 2 |35 [SPRING VASHER | 4
+o [SWPTREY T 78 [FRUNG,BOLT 2 |32 [SPRIG WASTER | 4
+PR B IR BT G,,E“E 2 |31 [V L 2
+2 [PEARTIG HOUSTAG| | ;¢ |PLPE KNOCK — B
+
+1 |PUMP BODY R A e | & |29
+
+NAME OF PARTS NANE OF PARTS
+b ¢ £ ¥
+
+ORDERER & $.NO,
+
+ENERURE
+
+CHECKED BY|
+
+3
+
+ol Z /,f_fgz SECTIONAL DRAWING OF OIL PUMP
+
+ca w ok 7 omox
+o
+
+R ®
+
+DATE
+
+PAINTING COLOUR R 3 @
+
+MUNSELL
+A3
+
+ammchp_7544A
+
+SUNFLAME CO.,LTD.
+s I T N
+
+DRAWING HISTRY
+B ® R 2
+
+--- PAGE 47 ---
+WAIN SHAFT
+A L
+PFgaoe s [ 1 |27 PR QT 4 a1
+IOERSROTAR 4 | 1 [ 26 a0
+11 ! 25 8.9, |OLBRAL i
+BRACKET TR
+10 [FRPCKET 7 11 [ ea 38 B 2
+BUNP HOUSING RELTEF V)
+TOP COVER PACKT g 36 [PALL BEARTNG
+P SACKIN R T 1
+7 21 35 [PALL BEARING 1
+NAVE
+s [MEPLATE [ 1 feo & 34 SNAPRING, | 1
+s 1o |FIXING BOLT 2 |55 [FPRING VASHER ,,
+STAFT KEY X 7
+4 [SPRTRY | 1 |1 [FLURCPONT 2 | a2 [SPgNG VASHER 7
+3 b o e Hot— 1 17 F,,; 3 2 31 Er 2
+2 [BEARING HOUSTNG | ; | ¢ |PIPE,KNOCK . e
+17 [FIF POy x|t |15 [POEX v 1 | 29
+NAME OF PARTS WAME OF PARTS NAME OF PARTS
+£ No. & No %,
+
+DISASSEMBLING DRAWING OF OIL PUMP
+
+NO
+
+31-08-'87
+
+#o
+
+b
+
+DRAWING NO.
+=2 &
+
+M p - 1
+
+7 o8 W M
+
+PAINTING COLOUR 3% % £
+
+MUNSELL
+N
+
+DRAWING HISTRY
+
+8\ R B
+
+SUNFLAME CO.,LTD.
+
+HAEE Y
+
+Y 7 Ll
+
+--- PAGE 48 ---
+ROTATION
+
+18) (20) (i5
+T
+z ‘M
+CAUTION
+PLUG_SHOULD BE RENOVED FOR
+RENEWING,
+
+SPECIFICATION
+
+MODEL NO. GFH-3L
+DELIVERY PRESSURE 7Kgf/cm2
+
+12 [o1C SeAL | 2 W_RATE 60Kgf/hr
+11 HORIRING ! = REVOLUTION 1700rpm
+10 | THRUST SUPPORTOR 1 22 [PLUG 3 [s5 41 [hsTH A3
+o [ SHAFT_SEAL RING | [SUS 304 |AISI 304 | =1 [AIR VERT SCREW 1 [s20C RIST 1020 ELUID DIESELTOIL
+4 | STRAINER COVER | S 41 [ASTH A3 | 20 |"0" RING | MOTOR 0.2Kw, 4P
+7 | STRAINER HOLDER 1 19 |ADJUSTING BOLT 1 [s20c AISI 1020
+e I arotacs + 1
+STRAINER SUS 304 [AIST 304 | 18 |ADJUSTING HUT 1 [seoc st 1020 e ion
+s | INNER ROTOR T JscH 415 [(AISI 4118) | 17 |CONTROL SPRING 1 [sup3 JaIst 1078 S A
++ [ ouleR RoTOR 1 JfcD 40 |asTK AS36 | 15 [pIsToN 1 [s45C IST 1045 DIESEL OIL PUMP
++ | RoT0R_HOUSTHG 1 lrep 40 astk as3s” | 15 [ewp pLUG 1 [s200 11 1020
+> [suarr 1 Jscu a1s(azst ens) [ 14 [rLance 1 [ancs 151 518.0 ==
+1| 80DY 1 JFco 40 [asth As36 [ 13 [SHIELDED OIL SEAL 1 547 [os-san.-re7 = TiB.45
+o Tane IR 15 [EQUIV. U.S. | HO.| NAKE by 115 RS- SUNFLAME CO..LTD.
+ISTANDARD ARY 2 e i
+HATERTAL HATERTAL #ASH Y~ T L A
+
+--- PAGE 49 ---
+shatt
+
+=34 | ring, thryst
+
+valve 8 piston set
+
+2
+3
+
+adjust, screw seb, pressure
+
+- 4| rower set, toochoidal
+
+5 casing, rotor
+
+coyer, rotor
+
+cover, strainer
+
+plug PTY
+
+valye set, vant
+
+1 .
+Prcking, Stroiner covar
+
+CHECKED BY
+
+DRAWN BY
+3 ®
+SCALE
+
+R "
+
+IGNITION BURNER PUMP
+(DIESEL OIL PUMP)
+
+bATE
+
+15-DEC.-'82
+
+[T VIS 12 28
+
+PAINTING CoLourR B & B .
+
+MUNSELL
+vt
+
+DRAWING HISTRY
+
+@ @ ® B
+
+SUNFLAME CO.,LTD.
+e S A T
+
+--- PAGE 50 ---
+wo.| nawe or vawts B & 4 |t [uarenia] wo. | nae or eanTs ®_ & & [t [marenian
+|t T [vn [ e [ rrrmn i 7 [Susas
+7| SewIRG wASHER THIRD SPRING
+5 wane piRTe - T
+& [ coTT HousTRG T v
+oRE T T
+cotl T ¥ 2
+PLANGER TUBE 1 [sussor i
+RETURN PIN T [suss0s | T
+Bz T [SUSE30 26 | SEAT HOLDER T
+I 75y e a7V v 1 [sis30a |20 | sooker Mur T
+- AT Nt FL T — 3]
+bOTTON PLATE 3 vET i TSPec |20 [ PARALLEL PiN T
+COTL_PACKING T w L 36| TERAITAL Box’ T
+BoMNET T cae0m |3 box CovER | W~ 77— T
+UPPER PACKING 1 fcrzzor —
+16 | soor ) 1806 S el -
+17 | SeconD SPRING KeEPe T
+
+|
+
+pa—
+
+7L
+
+PPPP?@
+
+o8
+CHECKED BY
+B n
+DRAWN BY,
+¥ ®
+SCALE
+
+R E
+
+DATE
+B8 19 | 27-AuG.-'86
+
+ORAWING HiSTRY
+MURSELL
+
+9 ® ® B2 5229
+
+ORDERER & S.NO,
+
+AXERURE
+TYPE :
+
+GMVH-604G  (N. C.)
+OIL SOLENOID VALVE
+
+W’ OB S
+
+(il 8 ()
+DRAWING NO,
+
+BN My -1 2 0
+
+SUNFLAME CO.,LTD.
+sREE 9 v T L A
+
+--- PAGE 51 ---
+R606 & R609
+
+. OIL FLOW
+>
+
+2-a1s 10° 15"
+
+V_L‘&‘ﬂ sgyv 7 4 B8N
+
+WO RING
+1 Y >
+PLAKGER J
+75 i 5US30¢_+ TEFLOI
+RING CORT
+
+N8R
+
+spC1
+
+110
+
+SUS304
+
+VISCOSTTY
+kil
+
+100 est 2 sPe1
+TORT
+
+3s?
+Disel € Reavy 031
+
+b
+
+0~ 15 Kgfea ¢ spC)
+
+505304
+
+AC 100/110Y,50/60k £ s (X3
+3 WATERTAU REWARKS.
+
+RULE
+- R B
+CHECKED BY|
+
+Pt SOLENOID VALVE
+
+SCALE
+R ™ = B kid
+
+DATE DRAWING NO.
+
+g8 {4 |0o1-Jun.-'85| @ E M A - 10 4 2
+BRAWING HiSTRY PAINTING COLOUR B % @ SUNFLAME CO.,LTD.
+ww=n [¥H 2 |exaw vy v I L A
+
+--- PAGE 52 ---
+12
+
+TS
+GUNER (VMNHG)
+
+"3 UL i
+)
+
+300~ 600 n
+
+>20ka
+
+=
+IS
+
+RELARKS.
+
+Cds
+
+/8
+
+/e
+
+oi~|o|o|s|w|n|=|f
+
+AT ETE
+
+HXER Y
+
+JL-A-T1
+
+SUNFLAME CO. LTD.
+
+e 2 L b
+
+--- PAGE 53 ---
+Lo
+3 9
+
+[——1
+SOURCE
+
+FLAME-EYE
+cds
+
+FU—aT
+
+RULE
+
+B
+
+CHECKED BY|
+
+DRAWN BY
+
+SCALE
+
+R ®
+
+L
+|““|“““‘|I g
+
+DATE
+B {3 |10-APR.-'84
+
+MUNSELL
+
+i ] _
+
+523
+
+ORDERER & 5.NO.
+ENERUBE
+
+TYPE : FE-61R
+FLAME-EYE
+
+RELAY
+
+FU—aTA - YU—
+
+pNNSTA. - 10 4
+
+SUNFLAME CO.,LTD.
+
+HREt o v 7 L L
+
+--- PAGE 54 ---
+FLAME-EYE FLANE-EYE SOCKET
+Tv—aeTA Fv—n-74 P
+
+E-678-2C
+
+LEAD WIRE
+
+e ey~ 300~ 600 o £
+g
+. %
+CONSTRUCTION
+" &
+
+2T LIk
+
+ORDERER & S.NO.
+ANERUME
+
+FLAME-EYE AND SOCKET
+
+ZV—a+T4 R V5 v b
+
+Bwxr [WeE
+
+o3-aG.—'s4| @ " ® A - 1 0 4 5
+SUNFLAME CO,,LTD.
+s ¥ > T L LA
+
+--- PAGE 55 ---
+BACK_CONNECTING TYPE (PL11)
+
+A (PL11) SAm e Ay b
+PANEL CUTTING
+
+(BOTTOH VIEW)
+
+TRACK MOUNTED TYPE (PF113A)
+*® W R (PF113A)
+
+WIRING
+(T0P VIEW)
+
+ORDERER 4 5.NO
+i AXERURE
+-3
+Pl %/‘ SOCKET FOR FLAME-EYE RELAY
+SCALE Fv—4a T4 -V VEHYT 2
+R = 1/1
+g " |os-auc.ea | BN A - 7 0 4 8
+
+DRAWING HISTRY SUNFLAME CO.,LTD.
+owxe |[¥WH 20 | mtes 4 v I L A
+
+--- PAGE 56 ---
+250
+
+PLIBRICO SUPER ALAB
+50 - 65 kg
+(Max. 1760 °C)
+
+RULE
+
+B
+CHECKED BY
+
+ol o
+EXERUHE
+
+T T L e S
+
+g ] DETAIL OF BURNER TILE
+
+/» REEEERD I ]
+
+&
+SUNFLAME CO., LTD.
+PRREEE o5 A
+
+--- PAGE 57 ---
+Lok i1 ()
+
+RW.NQ 1 (secy
+
+P
+Lo
+
+»
+
+¥
+
+0.
+
+3 W 8 610 B W 100 1o 130 130 148 IS0 160 110 10 19 10 110 110 1 100
+
+=
+= = == P
+i T
+=
+i i i
++ i 3 T
+.
+
+TEMPERATURE - VISCOSITY
+2
+
+BRTIER TS
+
+|====E
+
+=
+WETBE
+
+2 ®(T)
+TEMPERATURE
+
+--- PAGE 58 ---
+(D0 USE = O0F)
+
+(D.0. USE = OFF )
+
+OIL IEATER STUP
+
+AA
+
+o QrRUMP  (E. O TEMP. )
+CONTROL _FOR' ST-BY OR BB
+W. 0. COMBUSTIGN.
+
+W. 0. PUMP_ W. O. TEMP. )
+CONTROL _FOR ST-BY OR
+F. 0. COMBUSTION.
+
+BURNER _CONTROL MEF — 1501
+FLOW DIAGRAM
+
+n - > @ oaow | SUNFLAME CO., LTD.
+Za--Fx-F A v I2L A
+
+--- PAGE 59 ---
+FROM *1
+
+0L FLON COIT,
+430 or 43
+
+FRM. %4
+
+RE-PURGE FINISH
+
+-
+
+RE-IGUITION START
+
+*4 & %6
+
+"
+B OPERATION
+158
+
+T
+
+TGRITION SPARK
+
+TCNITION TP
+LT (a03)
+
+0, or
+
+W. O. PUMP
+
+"SIGN.
+
+70 Ruk ST
+TEBR V. CLOGE
+2008 (RG)
+
+WAIN VALVE CIISE
+21
+
+TO *3
+(NORMAL COMBUSTION),
+
+-
+OPERATION " OFF" & DRM. PRESS. HIGH)
+
+BURNER CONTROL
+FLOW DIAGRAM
+
+No— F
+0 = -y ik
+
+--- PAGE 60 ---
+FROM *3
+
+4
+
+NORMAL COMBUSTION
+
+BNR, HIGH/L.OW
+& ON/OFF CONTROL
+
+D.0 PURGING STOP
+BT P ST
+
+b0 S, Qi
+WAIN VALVE CLOSE
+
+ABNORMAL %1
+BNR, EM_CY, SHUT-OFF SIGN. (oR)
+ATTACHED ~ TABL| SN 8% pil 1 F1cATION
+AR RLAMAEY e ABNORMAL
+
+ABNORMAL %2
+SOURCE FAILURE & F. D. FAN STOP.
+
+ABNORMAL #%3
+IN AN OPTIONAL CASE OF LEVEL SW. EQUIPPED.
+
+AT BNR. OPERATION SW.” OFF" : TO x4
+TO *5
+
+ABNORMAL
+BLR. DRM. PRESS. HIGH : TO *6
+
+TO *4, *5 & *6
+~—
+
+-
+
+No-
+
+>
+
+BURNER CONTROL
+FLOW DIAGRAM
+
+LU
+
+MEF — 3400
+
+N &
+SUNFLAKE C0.., L.
+
+Zu—--%%-F
+
+--- PAGE 61 ---
+‘SOURGE
+( B CY STOP ) | (BNR -AUTO.)
+FLAME-EYE
+. Q USE
+ABNORMAL
+MIS-IGNITION
+FLAVE FAILLRE
+
+W0 USE
+
+oN
+
+(o)
+
+P A2
+WP ASN122
+$CL__ ASNI22
+
+OFF oN MAN. LOW
+
+R
+
+MAN HIGH __ AUTQ.
+
+50 x 250 COAMING
+4- 150
+MG EARTH BOLT 1 WEIGHT : 150 kg
+
+W 0. STRAINER
+
+THERMOSTAT BY-PASS
+
+DR LEVEL HIGHLOR ALY ) ) OO ! _
+ORON C20-50072 EVERGENGY STOP ( RED )
+
+BLR DRM LEVEL T00 LOR GIF-GPN I c20-81222
+
+SINFLAYE CO0, LD LAP B\ TRIP
+
+FLAME CHECK-UPS SUNFLAME CQ., || | AC/DC CONVERTER SOURCE FOR "BRC™ OMRON -1
+= iz H e, BURNER SOUICE BN OPERATION
+RTINS 2J-6524
+O, TEATER CONTROL SINFLME CO, - CIRGUIT PROTECTOR | PILOT LAWP CIRELIT 1M E SEOSAL S T
+
+TOR 5B - NRF110-0. 54
+
+0. STRAINER INTERVAL 0 FOR STRAINER, PIPING HEATER F. D. FAN SOURCE
+ST-4PA (60u) [F7 & F9 TN E
+
+DELAY OF RELAY "FR" ST (10s) P10 & 11 OPERATION SOURCE 3 A (e-1) LA FLICKER OPERATION SOURCE
+
+MANU. PRE-PURGE -4 (39) HES FOR OPERATION SOURCE m?JTAm('IkV:ADL | E. 0. FLOR CONTROL. DR L. SENSER SOURCE
+
+2 OIL HEA S 3 0. PP
+ETRCCRCIC N ey T FOR OIL HEATER Ln?;mﬂlcvfne BURNER CONTROL PANEL
+
+011, HEATER STARTER I ATR/OIL, FLOK CONTROL, N MM PLATE NAE PLATE
+
+OIL HEATER
+
+DELAY RELAY
+
+THX
+W.0. PUW STARTER MAIN SOLENOID V. OPEN ORVER & S-No.
+i fwn LN et
+
+F.0. PUMP STARTER ) TGNITION OV/OFF SROS0-2F /X
+. E ITX | <% BURNER CONTROL PANEL
+
+F.D. FAN STARTER K BLR DR LEVEL T00 LOW g — OUT-LINE
+1 N—THBE %BE
+
+[D.0. PUWP STARTER ; P BN MANL. OPERATION
+
+B HOTOR STARTER SORE O PG Yo MER - 34680
+
+Ik PAINTING COLOLR 2 %€ SUNFLAME CO., LTD.
+
+NAME OF PARTS USED FOR POSITION USED FOR
+
+k) ki i 3 Y 3 i & Lo SPECIFICATION ﬁi%ﬂ: ¥ 7L A
+
+®
+
+MAGNETIC S¥.
+
+--- PAGE 62 ---
+%OURCE AC440V 60Hz 3s
+
+(308 (12)
+
+528
+
+WS
+
+FUEL OIL PUMP
+0.4 kW
+
+BURNER MOTOR
+0.4 kW
+
+FORCED DRAFT FAN
+3 7.5 kW
+
+DIESEL OIL PUMP
+4 0.4 kW
+
+OIL HEATER
+8 kW
+
+WASTE OIL PUMP
+0.4 kW
+
+33
+
+(R104)
+
+(R401)
+
+(R120)
+
+(R114)
+
+(R103)
+
+(R116)
+
+P
+MHRMISTR €3] G
+
+F.Q IEATER CONTROL
+
+[L1 34 62
+a
+
+e G
+
+FLAVE CHECK-UP
+
+BIR DRM LEVEL T00 LOW
+
+R
+
+05, 10 B 05"
+
+10 BPC "m%;g)
+
+[
+LAy
+
+(13)
+
+Tra, @
+
+k1] —Hmw"w
+T o> MR
+
+o
+
+)
+FR IGNITION
+(1), MANU. CONTROL
+
+& 6 IGZ‘ TGNITION READY
+
+0BG " FREO. PR
+@ MANU. CONTROL,
+
+FR 0. PP
+
+T0 BPC "510”
+> ()] MANU. CONTROL.
+
+¥.0. STRAINER
+
+AUTO. -CLEANER
+
+Q)
+
+TO BPC "506”
+= (53)
+
+ELECTRIC
+LEVEL SENSER
+
+BRAVOVRE S
+
+& F1
+| G
+o
+
+i1
+
+10 1 61
+
+SWPI 12 g
+
+T
+888
+
+AC220V_60Hz 3¢ (YARD SUPPLY)—————>
+
+a|Bx3
+
+19 67
+
+)
+17X
+
+Cid
+(51)
+o
+
+o
+(50)
+
+b
+
+IGNITION
+
+SOLENOID
+
+V. FR
+
+0.0 ARGING
+
+BURNER CONTROL PANEL
+INTERNAL WIRING DIAGRAM
+
+N—THER - BEEER
+
+PAINTING COLOR % %% 2
+DRAWING HISTRY
+R
+
+MER - 3469/
+
+SUNFLAME CO., LTD.
+kst > 7L A
+
+--- PAGE 63 ---
+000 BNR TRIP RESET t———o0 C50 500 ‘ T B8P : Ax36477
+N Y X
+001 LAW FLICKER STOP 501 7_—0,(@7@ o] Al;iutg\m
+5%ax g3 51B 3
+002 LA TEST 502 5o 3D x 312 66
+[ O O * [
+|
+003 | TERISTAT BY-PASS 503 o o (B : Dx31d
+004 BR ATO. OV | 504 o - ~ a8 : :é i
+| | BPC | W (508 Y M]INFU =
+BNR. MANU. "ON" CHS 00— — o """
+008 U ® Oi o 00w SOLENOID VALYE
+006 F. O P/P AUTO. -MODE 506 ()‘, - == T0 ADDRESS No. "33" FOR PURGE ORDER
+BPC 2008 3
+007 €1 | E 0 pp e 5070‘ 0“5)27 o
+0 Y
+008 W Q P/P AUTO. MODE ——0 C51 508 ®613) o} SILENOID VALVE,
+‘ @ FOR DRAIN
+009 W0 /P AN HODE 509 e‘ G0aT ; B
+52Max S1WP
+010 OIL HEATER "OV" 510 I 7([;)53“ o Gp— e
+N52 511
+011 ¥.0. STRAINER AUTO. "ON" 0—0 C52 511 o———o BURNER TRIP
+e ]
+Ly ] 'S 8 WPy i F. 0 PIPING
+e 130 = > @ TRACE HEATER
+013 BAR. AUTO. -MODE
+ONER & S-Yo.
+014 BLR. DRL LEVEL T0O LOW ECERAE
+£4a BURNER CONTROL PANEL
+015 co1 SOURCE "ON" INTERNAL WIRING DIAGRAM
+L 24V DC o CPU SOURCE ST R R
+[l e o]
+PN, MER-347 04
+
+SUNFLAME CO. , LTD.
+
+--- PAGE 64 ---
+64
+
+65
+
+66
+
+87
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+101
+
+102
+
+103
+
+& o— 0 100
+
+§ o—0 101
+
+& o———0 103
+
+ozﬁ)——o 104
+0mT
+
+o—o0 112
+
+0102
+
+0113
+
+114
+
+0—o0 201
+
+o—o 205 |
+
+100 -
+
+104 —
+
+115 Cl1 g
+e
+
+FG C20 o—
+
+200
+
+°
+
+0202
+
+204
+
+206
+
+207 CH
+
+0208
+
+© 209
+
+0210
+
+0211
+
+0212
+
+0213
+
+0214
+
+215 C21 o—J
+[ e A el
+
+°
+
+F O PP RINNING
+
+0 PP RUNNING
+
+BURNER MOTOR RUNNING
+FIRE (BLR RUNNING )
+
+¥ 0. AUTO. -CLEANER INTERVAL
+
+F.0.TBW.LOK ( P/P CONT.)
+F.O.TEWP.LOW ( BNR TRIP )
+
+W, 0. TEWP. LOW ( P/P CONT. )
+
+Sﬂ% PRESS, HIGH
+BNR.ON/CFF CONTROL ) |
+
+BLR. DR LEVEL T0O LOW
+
+D. W VALVE OPEN )
+
+OPERATION SOURCE "ON"
+OPERATION SOURCE "OFF"
+F. O PRESS. LOW ALARM
+F. O TEMP. LOW ALARM
+
+F.0.M.0. PRESS. LOF
+
+o OV 24V o—
+
+PP, ce0 600 —
+
+601
+
+B2 o ti——
+
+603
+
+THERMOSTAT
+
+BP
+CH®6 604 o
+
+F 0. USE
+
+W0 USE
+
+606 o—
+
+FIRE (LR RN)
+(D0 PURGE )
+
+607
+
+F D. EAN
+
+N61 608
+0—0CB1 608 o———oF D FANABMR STOP
+
+|
+| 609
+609 o——oF. 0 FMP ABNOR STOP
+
+610
+610 o——o W 0 FMP ABNOR STOP
+
+| ne2 811
+0 0C62 611 oo HRER STAD-BY
+
+N63 888 612
+o04—0 © 0(45)—0 F. D FAN RUNING
+613
+
+{5 o—————oF O MNP RINNING
+1)
+
+L5
+
+m
+0—0 C72 711 o———o FIRE (BLR FNNING )
+
+L= 1
+k] 3
+R e ogs o BR DAL LEVEL HIGH ALARY
+(G008 o )
+o ol o WA D LEEL L0V A
+IR . —"# AC/DC_CONVERTER o1
+[§ 7] ncz4v§z.15 =1
+- % SRJ-6671
+~———— SOURCE (AC 220V, 60Hz 18 ) ———
+Xo01 ADD. No." 1
+
+)
+Wy s ool
+(®)
+1
+o 0V 24V -
+7 P 4
+0c70 7000 {a)
+701 o @
+s
+702 (N
+A
+703 o w2
+> A
+BPC
+CHT 7040 ()
+(out)
+705 o ’i:%
+706 RS
+A
+707 0 —_@—
+N1 708
+0 C71 708 o——oF. (0 HR OVER-HEAT
+19
+709 0—oF 0 TR LOVA
+0
+710 o—oF. O FRES. LOV AW
+N2
+
+W%‘{ STOP )
+
+BNR  STAND-BY
+
+BURNER AUTO.
+
+BY-PASS
+
+F. 0. WP
+
+W0 PP
+
+FLAE-EYE
+
+ABNORMAL
+
+MIS-IGNITION
+FLAME-FAILURE
+
+FO
+
+F.O.TEP. LOF
+
+BLR_DRM.
+
+LEVEL 100 LOW
+
+F. 0.HTR
+
+OVER-HEAT
+
+‘SOURCE UNIT
+FOR "BPC”
+
+DRARING HISTORY
+
+INTERNAL WIRING DIAGRAM
+
+I 3
+RANING o
+S)g“"; um@tw BURNER CONTROL PANEL £ ME 34714
+
+DATE
+B
+
+N—THAR - BAZEHR
+
+SUNFLAME CO., LTD.
+Bty >~ 7 L A
+
+--- PAGE 65 ---
+R IO
+
+FIREEE
+
+FORCED DT FAY
+DIESEL OIL PP
+
+L PRI AR PSS, %
+
+—_—
+SEON. ATR PRESS.
+
+0L EATER
+
+6L
+
+[EE]
+
+3R
+
+WASTE OIL PP
+
+ROTARY—CUP BURNER
+
+R0, RSO3 & 514
+
+B~
+
+[FH
+
+B
+
+TIEROSTAT & TEMISTER
+
+mh
+
+(R102)
+|<Ri07__ANCTION BOX
+
+17 | TTTION TROSTORER
+
+(e | OEODWE |
+
+2% | op 1c wen
+SLEWID VALVE
+
+26 | Yoy
+
+TPILOT LAP
+
+LB§
+
+O | Cooumon )
+
+7 M| ATRIL FLOF
+924 CONTRAL.
+
+513 [y | SLE0ID VALVE
+
+DR LEVEL SENSER
+
+25 | 0D VALVE
+
+o [ Lz'é'ml. O
+
+S PRES. S FOR
+
+D.0._PURGING
+92D
+
+5
+
+LA AIGAR OONTRO.
+
+W 0. STRADER
+
+T AINGELOCK T
+w17 T3
+une [P IEATER
+
+cLM
+
+ARSI VAV FOR
+ED W_CONT. VAVE
+i
+
+0,
+
+T 0 PSS St PR
+™ 1P
+
+TIERMTAT FOR
+[Ty
+
+WY VALVE UNIT
+
+N2 —
+
+— 511 — (TRIP T0 0FF )
+
+— N1 708 ~ 714 CIMN
+708 —F. 0. R OVER-HEAT
+708~ F. 0. THP. LOVALAM
+710 —F. 0. PRESS LOW ALARM
+712 —F. 0. TP. HIGH ALY
+— 713 — DAL LEVEL HIGH ALAMM
+— 714 — DAL LEVEL LOV ALAR
+
+R TEVEL S FOR
+FEED W VALVE CONTROL.
+
+L 512 ~ 614 COMON
+— 612 —F. D. FAN FMNING
+[ 613 —F. 0 PP MNING
+[ 51— ¥ 0 P RNING
+
+(— N&2 — 611 & 711 COMN
+~— 611 — BURNER STAND-BY
+
+711 — FIRE 8 AR AK)
+— X0 — A2V SIURCE
+Yo
+
+DRAWING HISTORY
+B4 mn sk EE
+
+FE | N
+
+BURNER CONTROL
+WIRING DIAGRAM
+
+MER - 34728
+
+RATN: o.
+W ¥
+
+DATE,
+
+-1 -y
+
+2N — 9 fHI B
+
+SUNFLAME CO. , LTD.
+
+--- PAGE 66 ---
+P—ma- Y r—
+
+(a) 8 %
+KT, WALIATE, UM A A £ AT E
+— F3E, MAHSE) CINELTHY E T,
+PEEIEIZE, O 24 o FRUNKIELY A v
+NN A IF A b, R A TR,
+F Bk JiiE & B £,
+0 AL T
+
+ MEISIRWOMIM 5 & VRIS G He T,
+
+DRAA 7 FOIATNERIIENREL
+TCEEV, FATLODRE, hEivd
+FRAFTA NS T2 TR E Y,
+(2) RikgE
+CTWABE ¥4 T A DBE ERBROE BT
+SEhe T L EV, BRBER, 74v0
+EFT4 - TEMEE XTI — AR SR
+EEBT -7 wIADEET,
+*WHEBERCAZARALTVET,
+*MARBBEIE Y4 TLIRAZATYS
+WABAA T > T L&D,
+
+(b) Ve b
+1) ARFRGFOEBEHIEETT,
+CBFH T L—HUEL L 212, HOX
+E— FRIZLEDA'SAT L2 4o SPREE &M
+NROTHS, b7/ Uty bOELE
+
+BETHEFLAATY £y FLTLEEY,
+
+*HME—F OL I&BRAH
+Rev : R4
+SP : &l
+*ERE
+
+CBRFRURATHEL - & &, BiFkHL
+SMEEY 2 TTY—dAANEFOT, b
+VT /Uy MIERLTE Y £y B LE
+A,
+
+CRIETHMEL L &, HBRE (KINRLE
+BWHF) HOFFIZ23ETHY 2771 =40
+EELE SN
+
+CHWBBOFF IS4 8, Y570 —1
+mBERET,
+
+(2) BRHEBHIE TEXCINMELES,
+*ABIHE
+
+CARFTIMEL & &, MR 5HRICY
+s bLETF,
+
+o RETHIEL L L &, BMWRBEOFFIIL3E
+TULy FLELA, BL, BIELESEH
+1 HEBRIEFMTL Y £y PTEET,
+
+< RIATHEL 2 & &, BIRHOFF 245 %
+TUEs bLERA,
+
+* BRI OFF 124>k &Yty b LET,
+
+OVER LOAD RELAY
+
+(a) Setting
+(1) Selector switch
+Set the dial of the switch as in Table 1 accord-
+ing to the kind of motor protection and start time
+Use a small blade-edged screwdriver for turning
+the dial.
+(2) Current setting
+Set the current setting dial to the rated current
+of the motor. Turn the dial with a screwdriver
+and align it with the reference mark ¥ on the
+case.
+*Use the RC scale for current.
+*Set the current within the range indicated on
+the dial.
+
+(b) Resetting
+(1) Manual resetting is standard.
+©The LED corresponding to the fault mode lights
+up when the electronic thermal relay operates.
+Alter removing the cause of the fault, push the
+trip/reset button lightly and fully to reset the
+relay.
+*Fault mode  OL : overload
+
+*The trip-free status continues for about 1 minu-
+te after the electronic thermal relay operates.
+50 reset cannot be done with the trip/reset but-
+ton during this period.
+(2) Automatic reset can be provided on request.
+© The reseting is made about 1 minute after the
+relay operales.
+
+Vo TRR ORAA 47
+Tip mdcation Selector switch
+
+wxmri<va | [Fuo7/mes 0
+Curront sottog dio | | Tro/reset bution
+Y L~ SEHD
+
+Front panel of rolay
+
+1€ | 26 | 3e
+Ouckoparstion2 | A | 0 | 8
+EZ OB 1
+Quick oporation 1 8% | use
+c|lz2|2
+REREY
+Sow operstin2 | €|
+
+LA TS —/ﬂmta%
+Tablo 1 Selactor swilch setting symbols
+
+--- PAGE 67 ---
+\ .| switctinG
+TYPE POWER SUPPLY
+
+INSTRUCTION MANUAL
+
+M Overvoltage Protection
+(100W Type only)
+
+« The power supply is also provided with an over-
+voltage protection function that protects the load
+from possible damages by overvoltage. When the
+output voltage of the pawer supply rises to about
+120% of the rated value, this function is effected
+and the output voltage is shut off. To clear the
+protection function, turn off the input voltage
+once, wait for at least 1 minute, and then turn on
+the input voltage again.
+
+Note: Be sure to remove the cause of the overvoltage
+before turning on the input voltage again.
+
+Overvoitage protection
+function effacted
+
+About +20% -+~
+
+P -
+
+Rated
+oulput vottage
+
+Variable
+
+M Overload Protection
+
+= The power supply is provided with an overload
+protection function that protects the load and the
+power supply from possible damages by overcur-
+rent. When the output current rises above a set
+value (105% of the rated output current). the pro-
+tection function is effected, decreasing the output
+voltage. When the output current falls within the
+rated range, the overload protection function is
+automatically cleared. However. if the power
+supply has been short-circuited or supplied with
+an overcurrent for a long time. the internal cle-
+ments of the power supply may be degraded or
+even damaged.
+
+M Output Voltage Adjustment
+
+« The output voltage of the power supply is set at
+the rated level as a factory-set condition for
+shipment, but it can be adjusted to a desired level
+within £ 5%of the rated output voltage by using
+the V. ADJ adjuster.
+
+Note: Although it is possible to adjust the output vol-
+tage in 3 wider range than = 5%, do not adjust
+the voltage ta 3 level exceeding or falling below
+the % 5% range, utherwise, the oulput power may
+
+shove that rated.
+
+0
+rrewo-L%° [ v
+o L e T
+Liewo Lo-d
+#FUSE
+{icow sn)
+1] CNTREL 3 0.L. CETECT
+f CIRCUTT
+L ot—
+oL p =
+0.1 CETECT SE 0.1
+PHITO-COUPLER
+
+0., CETECT
+
+--- PAGE 68 ---
+Introduction to the C20
+
+CPU
+
+i
+
+1 Console screws
+These stud screws are removed with  flat-bladed screwdriver to open
+the cover for inilial setiing and maintenance purposes
+
+2 Input terminals
+These terminals are used to connect the wiring carrying input signals
+from the devices of the controlled system
+
+3 Inpuboutput indicators
+These LEDs show the state of the signals (by turning red when ON and
+dark when OFF) for each of the input and output terminals.
+
+4 LED indicators (POWER, RUN, ERROR/ALARM)
+
+These LEDs light up to show the state of the main power supply
+(ON/OFF). when the C20 is in the RUN mode, and if any error has
+occurred
+
+5 Power terminals
+These term connect the AC or DC power source and are grounded at
+s than 1000
+
+6 Output terminals
+These terminals are used to connect the wiring carrying output signals
+from the CPU to the output devices
+
+7 Connector for expansion 10 units
+This is available only on the expandable type CPU and is used to connect
+to expansion 110 units to increase the number of 1O points.
+
+8 Connector for peripheral devices
+This connects the programming console or another peripheral device.
+
+--- PAGE 69 ---
+-an be removed
+Jocated
+1 board-
+
+poard,
+
+re_set terminal
+
+When you
+it is pressed strongly -
+e
+
+ey
+
+TR
+R
+it
+
+your fing!
+of connector
+
+put
+
+o be remove
+
+v”avftﬁvn
+G umr«n‘qgt‘
+
+--- PAGE 70 ---
+o
+|=
+IS
+
+nit Cover
+
+removal of 2 Pcs bolt by screw driver,
+outside of I/O Channel Side(LED Light)cover
+is strongly pressed,and clips at cover end
+can be removed.
+
+When you re-set,it is pressed strongly
+and installed with 2 Pcs of bolt.
+
+I/0 Unit Cover
+
+1/0 Unit Cover can be removed by pressing
+of clips towards inside at four(4) corners
+by screw driver.
+
+In case you removed one side,it is removed
+by thumbs of both hand same as CPU Unit Cover
+
+Structure for Two(2) Stories
+
+Please refer to Dwg on right hand
+
+Wenee srograrmming console 15 mounted
+
+--- PAGE 71 ---
+Serew drivers are inserted into the clearance of socket and it is
+
+lifted
+gradually in order to pull pins by equall
+
+force from the socket.
+
+In case you do not remove pins equally,it may be broken.
+
+When you re-set,openning is at top side and all pins are inserted into pin holes
+correctly,and then it is pushed gradually by equal force.
+
+Screw Driver
+
+Dip Switch
+
+Screw Driver
+
+Setting of Dip Switch
+
+Please confirm setting of Dip switch located at left lower side of ROM Socket.
+
+Tn case housed RAM is in use,ROM is removed.Setting of RAM is made.
+
+ROM in Use Housed RAM in Use
+
+15988 Ll
+
+2
+
+1]2{3]4a 1234
+
+l0FF | ON JoFF
+
+lore | onJorr[on on
+
+--- PAGE 72 ---
+Output Relay
+
+Screw drivers are inserted into underneath of relay power side with pressing
+
+of relay upper surface by thumb and it is lifted slightly,and then it is pulled
+by your fingers.
+
+Total four(4) Pcs of clip consists of two(?) Pcs of each side are not interrupted.
+
+In case you do not hold relay by your thumb,pins may be broken by excess force of
+Jifting by screw drivers.
+
+When you re-set,please insert all pins into the correct pin holes and press from
+top side by equal force.
+
+Relays located at far back and it can not be removed by screw drivers are removed
+after removal of relays which are surrounding ones.
+
+Arrangements between relays and terminal are as following Dug.
+
+White Line:Power Side
+
+113578 10[12[1aEoHov
+[oT2T%T 6 kod a[i1]13[15pa
+[ tivhan}
+x12| i
+(1) cu
+0
+(2) ch 5 G
+- erstacT
+x16) xis| [xief xag
+— x17] I —
+x24|x23|x22(x21{¥20[x19x18 STl
+
+1]3[s[7]8]10[12]14FoH
+[oT2T4]6 koo [11]ra[1spevfo]
+
+--- PAGE 73 ---
+AVAILABLE TYPES
+
+SYSMAC-C20
+
+Soesiaion: ]
+Clsitcaion [ — o o o [ | e | T
+o o R
+il o e aGzcr Rz |
+Dy | - Sontoet o 3G2cICPUBIE
+ves FeacTCrUBAE
+ocaay (VW] 16 | Tommor | ves o |
+new I v |
+Ves
+cry AC 10010 120V . Comet | 33 WG
+(BPC 1) ves 36267 CPUzeE |
+Yes GacT.CPUIAE
+peiqteaoy [ ves 3G2C7-CPUIBE
+— T N6 | zamex, [IGETCRURE |
+ves I62CTCPUAAE
+AC 20010200V | 0C 28V 6 | comon
+-~ No 3G2cTCPUSYE
+ves GaCTCRUSeE
+- i s [ scacraicen |
+new
+R I U aG2cTMCz
+© 2 36201 MC227
+Deav PV s E] sGacTMCEE |
+o o © 1 36267211
+B Ho, e ine | NPN | Transistor { e
+(BPC 2) [T P s Fiiais
+(BPC 3) Ac 1000 120v |22 SCICTNCIC
+T = SeaCTMAZ
+| ) 620TMAZE
+G ikt | AG 1001390V | Mo of mput 16 No-of ompurs 16 T
+e P o S |
+s 2000 max, [ JS2CTONET
+Cable ength: 32cm 36207 ON311
+Mounting e | £t RBYENK sraeamert o GPU and expanion 0 it vt e e
+Optionn [ | G se s et ercruns.ercrusa.ercrumer Sogmax. | RAMG
+[E7mon] ror cr [
+
+the factory.-set condition for shipment.
+
+#** Model No. for oversea use is as the above mentiond.
+
+“The RAM chip is mounied in the expandable type CPU (1. Typs 3G2G7GPUTA €/ CPUS £/ CPUTA E/-CPU4-E/-CPUBA-E/-CPUBAE] 25
+
+SYSMAC-C20 is always on stok at Network indicated on next page.
+
+%% NOTE **%
+€20-5C072 .
+C20-s1221 ..
+C20-5I222 .
+
+<4eis.. 3G2C7-CPU7A-E
+
+ceee... 3G2C7-MC223
+
+ceve... 3G2C7-MC224
+
+--- PAGE 74 ---
+OMRON’S WORLDWIDE
+SALES NETWORK ¢
+
+-
+
+When you buy from OMRON, you are buying a world of control components..If you manufacture in your
+country for export to anywhere else in the world or if you import equipment, it makes sense to buy from
+OMRON. Whenever the need arises for additional control components for your products, chances are good
+that there will be an OMRON sales organization nearby to serve you.
+
+S7AY . 5
+S—Oy/¥ 777 4e7=7
+T R [ WO AT T e T
+A¥- OMRON ELECTRONICS NA/SA. 7I7RAEAR DEIA GENERAL MARKETING IO T L
+ol = 7 w R oy i
+73K QMmN BLECTGNIGS OY e AMMAR & PARTNERS ELECTRICAL GO memm——
+R R e wam e .
+T5n oo BN Tt = mmon s emea o FALTAUH
+g N ) TR SRON HEETONE
+el OMRON ELECTRONICS SpA.  tho - o 0 8 P e
+= Emaate T T T
+T NN SECONEE Y T e oot fat
+e T
+I oumoNeEcmomcseA i G G T
+IRON TAIWAN ELECTRONICS INC.
+T G e wiaame,
+i R B RES e e ————
+T, SeEmme i I RASGTROTNIE Sl
+
+7 LEoMOTOR &S,
+
+i SR v
+
+T o PREcisioN conTmots 6o TREGicon son enD
+
+P SN oy PO OMEON
+KALAMARAKIS & SAPOUNAS. SA  moowica o a2, e
+
+oS e i S
+
+A P
+
+e AR
+
+NOTE: Sales organizations subjet 12 change without notic.
+
+--- PAGE 75 ---
+11
+
+IIT
+
+vI
+
+VII
+
+OPERATING INSTRUCTIONS
+FOR
+
+DRUM WATER LEVEL CONTROLLER
+
+MOUNTING THE FIXED LEVEL CONDENSER
+
+MOUNTING THE DIFFERENTIAL PRESSURE
+TRANSMITTER
+
+PIPING WORK OF DIFFERENTIAL PRESSURE
+CONDUIT
+
+PREPARATION FOR OPERATION
+ADJUSTMENT
+MAINTENANCE AND REMEDY AGAINST TROUBLES
+
+LIQUID LEVEL INDICATOR
+
+wWAMCO
+
+11
+
+13
+
+--- PAGE 76 ---
+I. MOUNTING THE FIXED LEVEL CONDENSER
+Mounting Position
+
+In order to detect the water level of drum by com-
+paring the level head inside the condenser with that of the
+drum , the condenser should be mounted so that it will
+maintain a fixed level of water.
+
+To prevent erroneous indication arising from change of
+relative position between drum , water level and the fixed
+level, the change resulting from inclination of ship's hull
+(heal trim), it is desirable to mount the condenser above
+the center of the drum water surface.
+
+As shown by Fig. 5 & 6, it is necessary that dimension
+of R toward stern should be less than 1500mm, and toward
+
+both sides of the ship should be made shortest.
+
+2. Piping Works
+
+2-1 Piping to condenser should be in rising gradient or
+horizontal straight piping. However, as shown by Fig. 4,
+the dimension A should be less than 400mm, If it exceeds
+LOOmm, or if bend is used, downcomer should be provided.
+
+2-2 In case of length of condenser piping is over 400mm,
+
+lagging should be provided to decrease amount of condensation.
+
+3-1 In case of glove valve is used on the condenser side as a
+shut-off valve as shown by Fig.3, its handle should be fitted
+facing sideways to provide smooth return of drain to drum
+
+.
+
+because if it is fitted turning upward, drain may fill to the
+
+--- PAGE 77 ---
+condenser giving rise to a change of water level position
+with subsequent errorneous indication.
+
+3-2 In case of the shut-off valve on condenser side is of
+elbow type valve as shown by Fig. 1 and 2, the flange on the
+outlet side should be fitted to face sideways or upward,
+because if it turns downward drain may be collected inside the
+
+condenser.
+
+II MOUNTING THE DIFFERENTIAL PRESSURE TRANSMITTER
+
+l. Mounting Position and Mounting Method
+
+1-1 The transmitter should be mounted lower than the shut-
+off valve on the water side and close to the drum as much as
+practicable so as to facilitate adjustment.
+
+In order to minimize the error due to rolling of the
+ship, it should be mounted so that its front faces to ship's
+side.
+
+1-2 In order to secure the transmitter free from vibration
+of low frequency (less than 10HZ), it should be mounted on a
+
+sturdy stand or on pipe of S50A.
+
+IIT PIPING WORK OF DIFFERENTIAL PRESSURE CONDUIT
+1. Connect the conduit (15A) on fluctuating level side
+
+(water side) with HP side of the differential transmitter.
+Also connect conduit (15A) on fixed level side (steam side)
+
+with LP side.
+
+--- PAGE 78 ---
+2. Each conduit on HP and LP side should be installed
+parallel to prevent error due to difference of ambient
+temperature.
+
+3. 1In order to prevent air pocket generating in the conduits,
+care must be taken to install each conduit with inclination
+
+of more than 1/10 up to the differential transmitter.
+
+4. To assimilate the ambient temperature, each conduit should
+
+not be lagged.
+
+IV. PREPARATION FOR OPERATION
+
+1. Sealing Conduit against Water
+
+In sealing the conduit, care must be taken so that no air
+is allowed to remain in the line.
+
+Difference of temperature between HP and LP conduits
+may result in difference of specific gravity leading to wide
+error in level indication.
+
+Before sealing conduits, remove the differential trans-
+mitter from manifold valve and fill the djaphragm chambers on
+both the HP and LP sides with water to extract air. Upon
+restored, perform sealing of the line.
+
+1-1 Sealing Method after Filling Water to drum.
+
+Open the HP and LPside valves as well as the pressure
+equalizing valve of the differential pressure transmitter.
+Open the respective shut-off valve attached to drum on
+steam and water sides,
+
+After allowing them to stand under this state for few
+
+hours, close the shut-off valves on steam and water side and
+
+--- PAGE 79 ---
+also close the pressure equalizing valve, then fill the water
+by removing plug on the top of condenser. When water is
+filled to the full, close the plug. Then open each shut-off
+valve on steam and water side.
+1-2 Sealing method after drum pressure is built up.
+Close each shut-off valve attached to drum on steam
+and water side, then loosen the bolts of flange of conduit
+
+of the shut-off valve on water side to provide air vent.
+
+Open HP and LP side valves as well as the pressure
+equalizing valve of the differential pressure transmitter
+
+and feed the water by removing upper plug of the condenser.
+
+Upon confirming that water is coming out from the conduit
+
+flange of the shut-off valve on water side, tighten the bolts.
+
+When condenser is filled up with water close the plug, and
+
+close the pressure equalizing valve too. Then open each shut-
+
+off valve on both steam and water side.
+
+NOTE: After sealing is done as mentioned above, start adjuste-
+ment upon confirming HP, LP and temperature difference
+of conduit and that condenser is filled up with water.
+
+2. Operating the draft
+
+2-1 Draft
+Air supplied to each instrument should be dry and clean.
+
+After opening drain plugs of reducing valves with filter
+
+attached to both differential pressure transmitter and pressure
+
+regulalator, open the air supply valve to release drain and
+others. Then plug up the drain plug and set supply air pres-
+
+sure to 1.4 kg/cm2 (% 0.1 kg/cm?) before starting operation.
+
+--- PAGE 80 ---
+3. Setting the Measuring Instrument
+
+3-1 Differential Pressure Transmitter
+
+Although fundamental adjustment of the transmitter had
+been made before shipment, if it is necessary to make field
+adjustment dependent on mounting position of condenser and other
+circumstances, adjustment should be made in accordance with items
+of Section V, ADJUSTKENT of the fcllowing page.
+
+When test under attendance is to be made in short
+time after completion of aforementioned sealing, or when
+there is any discrepancy with plan of condenser, suppression
+spring of the transmitter should be adjusted so that output
+of the differential pressure transmitter will coincide with
+actual water level. Besides, when coincidence with actual
+water level is difficult to obtain on account of temperature
+difference of conduits or due to residual air, it is necessary
+to re-correct actual level (water gauge) and indication under
+stabilized condition 2 ~ 3 davs after starting operation of
+the drum.
+
+3-2 Pressure Switch
+
+In order that the indication of water level will be
+of desired value, supplied air pressure from the differential
+pressure transmitter should be adjusted so that the pressure
+switch will operate at the value obtained by such adjustment.
+
+Besides, ON/OFF performance of the switch should be
+
+confirmed through operating sound, tester and buzzer, etc..
+
+--- PAGE 81 ---
+3-3 Pressure Regulator
+Setting should be made in reference to normal/reverse
+action, proportional action and integral action.
+a) Change-over of normal/reverse action
+Normal/reverse action is determined by action of
+diaphragm valve. Dependent upon change of water level of
+, the action in connection with the supplied air
+
+pressure from the differential pressure transmitter is:
+
+rise of level - increase of output - valve closing (air
+
+to shut) - normal action
+
+rise of level - decrease of output - valve closing (air
+
+less shut) - reverse action
+In each instances above, turn the proportional band dial and
+change the stopper as follows:
+Normal action - to lower hole
+reverse " - to upper hole
+b) Proportional action
+In‘fﬁeduatar control, set proportional band (PB) to
+about 15 - 40%. )
+c) Integral action
+Set the reset rate dial to 4 - 0.5 R/M . Besides,
+
+in case of feedwater control, cycling seldom occurs, and hence,
+
+if sharp action is desired (in such case as large size drum )
+
+set PB to 15 and resetting to 4.
+
+--- PAGE 82 ---
+4. Cautions during operation
+
+4-1 Water Level Indication
+Generally speaking, the output signal (water level indication) of
+the differential pressure transmitter varies to some extent with times of
+operation, i.e. operation after adjustment and operation in a few hours
+afterward starting normal operation. The size and the time required
+for stabilization are dependent upon the following factors.
+
+a)  Time required for assimilation of temperature of each conduit
+with amb ent temperature,
+
+b)  The size of error dependent upon difference between the gravity
+of water in the pipe at the time of adjustment of water gauge and differ-
+ential pressure transmitter, and the gravity at normal temperature,
+
+¢)  Amount of air remaining in the pipe and the time of escape.
+
+Accordingly, adjustment of level indication in connection with actual
+level should be made, for the best result, at the time when temperature
+at each part is stabilized in a few hours after starting normal operation,
+Thence no error in indication will occur.
+
+4-2  Confirmation of Pressure Switch Action.
+
+Confirm the actions for each purpose.
+
+Besides, in case timer is assembled in output line, also confirm the
+action of timer.
+
+4-3  Pressure Regulator and Diaphragm control valve
+
+a) By raising the water level set point (green indication) of the
+pressure regulator, confirm that the diaphragm valve does open thereby.
+
+b) By applying hydraulic pressure with diaphragm valve closed,
+
+check for leakage of water.
+
+-7-
+
+--- PAGE 83 ---
+v ADJUSTMENT
+
+1. Adjustment of Range of Differential Pressure Transmitter
+
+In case of standardized instrumentation, measuring range of instru-
+ment and suppression, etc. are predetermined, and hence, adjustment of
+them are made in our workshiop before shipment. But adjustment on
+board the ship should be made in the order of following procedures:
+
+* Adjustment of range on shipment from workshop are:
+
+Measuring level 300mm x gravity of 0.9 = 270mmHZ0
+
+Suppression - rough adjustment
+
+--- PAGE 84 ---
+{ S,
+
+hand pump keep
+
+drain
+plug
+open for
+releasing to at-
+mosphere
+
+e
+
+12ra™™
+
+1-1 Preparation
+
+Close the manifold valves on HP, LP sides as well as
+pressure equalizing valve, connect $PT hose joint with plug
+at the lower part of the meter body on LP side to form U-
+shaped tube as illustrated above and fill it with warter.
+Then remove plug on HP side to effect releasing to atmosphere
+1-2 Adjusument of Measurment Range (Span)
+
+Adjustment range ! 150mm x Specific Gravity 0.9
+
+= 270mmH0 (¥ 133mm x Hp0)
+
+Set the span rider to 270mm of secondary beam scale of
+
+the measuring instrument under the state where no differential
+
+pressure is applied as shown by Fig.A above. Also make adjust-
+
+ment by zero-adjustment screw so that output of the measuring
+
+--- PAGE 85 ---
+instrument will become 1.0kg/cm?. Then make fine adjustment
+of span rider with 270mmH20 of differential pressure applied
+as shown by Fig. A, so that output is adjusted to 0.2 kg/cm?.
+Repeat adjustment in this way till A time 1.0kg/cm? and A' time
+0.2kg/cm? is reached.
+Simultaneously with the above steps make confirmation of
+indicator pointer and set the pressure switch (high/low alarm).
+Upon completion of the above mentioned adjustment, close
+the drain plug. With each shut-off valve on steam and water
+side kept open, and with the manifold valves on HP and LP sides
+kept open while pressure equalizing valve kept closed, operation
+may now be started.
+At this phase, keep the actual water level of drum at
+NWL, and make adjustment through suppression spring so that
+output of measuring instrument will become 0.6 kg/cm?.
+Adjustment of Pressure Regulator
+A constant deflection generating during continuous
+operation is due to disorder of equilibrium of the measuring
+instrument. As a permanent deflection this causes a fixed
+amount of difference on red pointer and blue pointer.
+2-1 Adjustment of Equilibrium
+a) Correctly lap over the red and the blue pointers and fix the
+b) Fully open the reset dial, open and close nozzle flapper
+to make output 0.6kg/cm2, and close the reset dial.
+c) Adjust the screw on the end of flapper so that output
+will be invariable when proportional dial is changed from 5
+
+to 500%.
+
+--- PAGE 86 ---
+d) Adjust the screw at the middle of bellows so that output
+will be invariable during 30 seconds of time when proportional
+dial at 40% and reset fully open.
+
+e) Repeat c) and d) above.
+
+2-2 Confirmation of proportional action
+
+After checking and adjusting accuracy of proportional
+action of the measuring instrument, reconfirm the equilibrium
+described under 2-1 above.
+
+a) Close (minimum) the reset dial.
+
+b) Observe the variance of output by moving the setting
+knob.
+
+c) When proportional dial is at 100%, variance of ouput
+will prove to be 0.8 kg/cm? with knob moved to the full range.
+With dial at 50% and knob moved by 50% of the range, change of
+output by 0.8K will result
+
+d) If there is error in variance of output, adjustment should
+
+be made by moving bellows holder up and down.
+
+VI MAINTENANCE AND REMEDYING AGAINST TROUBLES
+
+1. Differential Pressure Transmitter
+
+1-1 Maintenance of Differential Pressure Transmitter
+a) Check for leakage from piping between meter body and
+detector section, and re-tighten loose connection if any.
+b) Meter body and piping should be kept clean. Any preci-
+pitates or deposit of foreign matters in pressure chamber of
+
+meter body will cause incorrect measurement.
+
+-11-
+
+--- PAGE 87 ---
+Pressure Regulator
+
+2-1 Periodical check of pressure regulator.
+a) Check air pipe and joint for leakage of air and re-tighten
+the connection.
+b) Check filter and restriction for stain. Replace stained
+filter. If restriction is found stained, clean it with wire.
+2-2 Maintenance of nozzle and pilot valve
+When measuring instruments fails to make normal function,
+there is necessity of cleaning nozzle or to investigate pilot valve.
+a) Nozzle
+Cut off the supply of air. Remove connecting link. Turn
+about 5mm of end of wire in right angle, carefully raise flapper,
+and clean the nozzle by inserting the wire into the hole of nozzle.
+b) Pilot Valve
+Cut off the air supply. Holding pilot valve, remove
+3 pieces of set screw and washers, then remove gasket and
+
+pilot valve. Disassemble the pilot valve and draw out valve
+
+stem and wipe the stain of valve seat.
+
+- 12 -
+
+--- PAGE 88 ---
+VII Liquid Level Indicator
+This indicator receives what is converted into air pressure
+signal of 0.2 to 1.0 kg/cm? through differencial pressure trans-
+
+mitter as its input and indicate it.
+
+Installation
+
+Unscrew the set screws used for shipment on the top of
+instrument case. Select mounting place which is free from
+vibration. As to ambient conditions and mounting angle,
+observe the scope given by specification of instrument.
+
+Insert the instrument into panel hole. As shown by
+Figure, fit the attached mounting brackets by inserting its
+supporting bolts into bracket hole of the instrument, and
+
+fix it to panel by tightening it with screw.
+
+—]1 83—
+
+--- PAGE 89 ---
+Mounting brackets (one each
+at top and below)
+
+——
+
+2. Piping
+
+Connection of air pipe on the back is by PT}
+screws. Remove red blank cap for shipping use, b
+and make piping work by connecting to the
+
+specified connection parts. Pipings are of
+
+copper pipesor equivalent hard plastic tubes
+
+having standard outside diameter of 6mm.
+
+Before piping connection of measuring instrument,
+
+allow the dry air to pass through them. Upon
+completion of piping work, make leak test by use
+of dry air of 1.hkg/cm? and less
+3. Operation
+The liquid level indicator should be subjected to operation
+as soon as the piping work is completed according to item given
+under (1. INSTALLATION).
+4. Maintenance
+
+The liquid level indicator needs no maintenance.
+
+5. _Adjustment
+
+mercury
+manometer
+
+precision
+
+reducing reducing indicator
+valve with  ajye
+filter
+
+—14—
+
+--- PAGE 90 ---
+Order of Adjusting Steps.
+
+)
+
+@
+
+Give input of 0.2kg/cm? by operating the precision
+reducing valve.
+
+By turning O-adjusting nut, make adjustment so that
+
+0% is indicated at the above(D) mentioned condition.
+
+Give input of 1.0 kg/cm? by operating the precision
+reducing valve.
+
+By turning the span adjusting screw, make adjustment
+
+so that 100% is indicated at the above(3)mentioned condition.
+Repeat steps from(@ to (®)until correctness is
+
+obtained.
+
+=jrae
+
+--- PAGE 91 ---
+CAUTIONS FOR MOUNTING DETECTOR
+
+Fig | Figd
+
+NW
+
+Mount pot horizontally
+Fig2 or at upper position
+
+Figd
+Where A is400 & over fit
+downcumer £
+
+downcomer
+
+Connect pot inlet on steam side with
+outlet of take-out valve with T piece.
+
+Fig s
+)53 R should be 1500
+and less toward
+1
+; stern, and
+g shortest toward
+P's'.
+
+Mount take-out valve on steam side horizontally
+with axis.
+
+Water conduit should be set in falling gradient
+of not less than 1/10 toward transmitter.
+Install conduit HP, LP as far as possible.
+
+Where downcomer is installed, pot should be
+positioned freely in the range shown by
+Fig.d4, 5.
+
+Steam pipe over 400mm should be provided witl:
+Ingging.
+
+— b
+
+--- PAGE 92 ---
+O0M2-5220-1101
+
+Yamatake-Honeywell OPERATOR'S MANUAL
+
+PREX3000
+PNEUMATIC DIFFERENTIAL PRESSURE
+TRANSMITTERS (MODEL: KDP)
+
+Yamatake-Honeywell Co, Ltd. Oct, 1986 (H)
+Tokyo, Japan
+
+--- PAGE 93 ---
+TABLE OF CONTENTS
+
+1
+1. Delivery Check 1
+2. Spacification Cheok ,..csmvessvsvovssasovren [ :
+3. Transportation of Instrument ..... T 1
+4. Storing of Instrument ........... PR (RO |
+= Place Of Installation ........eseeeeeeseeseeennns 2
+6. Pressure Application .......... BV R d i e i 2
+GENERAL ..uussssssanaasaaacasasananansnsnnns cssesenssaea ceeee 3
+1. General ..ceveeencessses B R RPN 3
+2. SPECIifiCAtiONS +eeeeennneeaaanns O NI
+3 Model Number Table ............. [SRSSRR A
+4. S i e e 13
+OPERATING PRINCIPLE «uuuuusssssunnnnnnnnnnnnnnnnnnsnesssnesn 20
+INSTALLATION .... oo 21
+2 Place of Installation s 2L
+2, Installation Method . cessssesns 21
+3. T T 21
+4. Installation of Regular-type Meter Body ......... 22
+5 Installation of Model 61/62 and 71/72 .uuev.eeesss 23
+6. Installation of Remote-Sealed diaphragm Type
+Meter Body oo 23
+
+--- PAGE 94 ---
+7.  Mounting Attitude .........ee..
+
+8.  Air Supply CONNECEION ..u.eeeeeeneneeeenenennnnns
+
+9.  Pressure PIDING ....cecesssennsssanansnsssnanennn
+10.  Elevation and Suppression
+
+OPERATION METHOD ...vocusacans PR EEER R cesecssaciannnas
+1.  Differential Pressure (Flow) Transmission .......
+2. Liquid Level TransmisSion .........eeeeeeesecanss
+INSPECTION AND MAINTENANCE .........e PR R
+1. Check for Lead from PiPNg ....eeuseeeseeneeinnes
+2. Blow and Cleaning of Meter Body and Piping ......
+SERVICE AND UNIT REPLACEMENT ....cccvvveercccscocaccncananns .
+
+1.  To Replace the Pilot Relay ..uueeusseesienseennss
+
+2. To Service the Pilot Relay ......... vies s uw b
+
+CALIBRATION AND ADJUSTMENT
+
+1. General 5
+2. Calibration of Differential Pressure
+
+Transmitter ......e.eevn.. aiian e 5 g ains 0 b R B
+<k Setting of Elevation/SUPPression ................
+
+- ii -
+
+24
+
+25
+
+25
+
+32
+
+35
+
+35
+
+36
+
+37
+
+37
+
+37
+
+40
+
+40
+
+40
+
+42
+
+42
+
+a2
+
+a4
+
+--- PAGE 95 ---
+SCOPE
+
+This manual covers the operation instructions for the PREX3000 Differ-
+ential Transmitters. Be sure to read this manual before starting operating
+the instrument.
+
+This manual has been written for the instruments of the standard
+specifications. Note that some items may differ for the instruments of
+modified specifications.
+
+GENERAL PRECAUTIONS
+
+1.  Delivery Check
+
+Upon receipt of the instrument, immediately check it for any damage
+which might have been sustained when in transportation. If any signs of
+damage to the instrument or missing accessories are found, immediately
+notify the transportation company and your Yamatake-Honeywell agent.
+
+2. specification Check
+
+Major specifications are indicated on the nameplate posted on the
+instrument case. Check that the specifications conform with the one shown
+in the model number table. (When making any enquires on the instrument,
+indicate the model number and serial number.)
+
+£ Transportation of Instrument
+
+When transporting the instrument to the place of installation, it is
+most recommendable to transport the instrument being protected -in the
+packing in the state in which the instrument was delivered, with a view to
+prevent damage to the instrument.
+
+4.  Storing of Instrument
+(1) Store the instrument in a place where the instrument is not
+exposed to rain or other adverse weather or to mechanical
+vibration or shocks. Although the "specification" storing
+
+temperature range of the instrument is -40°C to +85°C (that of
+the instrument with indicator is 0°C to +55°C), it is most
+recommendable to store the instrument at normal temperature and
+normal humidity (approximately 25°C and 65% RH).
+
+(2) It is most recommendable to store the instrument in the packing
+in the state in which the instrument is delivered to you.
+
+(3) When storing the instrument which has been used, be sure to
+drain out liguid from both high and low pressure sides of the
+meter body and thoroughly clear the instrument.
+
+(4) When the measured fluid is toxic, handle the instrument care-
+fully even after the pressures are released from the instrument.
+
+--- PAGE 96 ---
+5. Place of Installation
+
+To let the instrument maintain its performance and reliability for a
+long period, pay attention to the following which selecting a place of
+installation of the instrument.
+
+1)
+
+(2)
+
+(3)
+
+Ambient Temperature
+
+(a) Select a place where rapid or slow temperature change is
+as small as possible.
+
+(b) When it is unavoidable to install the instrument in a
+place where it is subjected to radiation from a source of
+heat (such as process plant itself), provide a heat
+insulator and select a well ventilated location in order
+that ambient temperature of the instrument is made as low
+as possible.
+
+(c) when there is a possibility of freezing of the measured
+fluid, provide a heat insulator or other means to prevent
+freezing.
+
+Atmosphere
+
+Avoid, whenever avoidable, installing the instrument in a
+corrosive atmosphere.
+
+Vibration and Shock
+
+Select a place where the instrument is not subjected to mecha-
+nical vibration or shock.
+
+6. Pressure Application
+
+Regarding application of pressures to the instrument, pay attention to
+the following:
+
+1)
+
+(2)
+
+3)
+
+The instrument is delivered with the clamping-bolts of the
+adaptor flanges in a loosened state. Be sure to tighten them
+before using the instrument.
+
+Never apply pressures higher than the rated pressures. (See
+Section 1.2.)
+
+Be sure to completely release the pressures form the instrument
+before tightening or loosening its clamping-bolts.
+
+--- PAGE 97 ---
+1. General
+
+GENERAL
+
+The PREX3000 is a pneumatic transmitter which converts a process
+
+differential-pressure or a pressure into pneumatic signals
+
+(0.2 to 1.0
+
+kgf/cm?). The transmitter consists of the transmitting section and de-
+tecting section (meterbody).
+
+TRANSMITTING
+SECTION
+
+DBETECTING
+SECTION
+(METERBODY)
+
+Figure 1. Overview of PREX3000
+Transmitter
+
+--- PAGE 98 ---
+. SPECIFICATIONS
+
+Standard Specifications
+
+Items
+
+Speci Fications
+
+Measuring range Regular Type
+(continuously Rexobe:
+adjustable) Range e g:e"ge seal Measuring range
+— | pressure Type
+Type
+High AP KDP11 | KDP81 KDP61 KDP71 [0-2500 to 0-50000 mmH,0
+Medium AP KDP22 | KDP82 KPP62 KDP72  [0-250 to 0-5500 mmH,0
+Low AP KDP33 —_— —_— -_— 0-50 to 0-600 mmH,0
+Very Low AP | KDPus = = — |0-10 to 0-120 mmH;0
+Process KDP11/22/33/44, KDP61/62 (Flange); Rc1/2 (PT1/2 internal thread)
+connection KDPB1/82; Rel/d (PTL/4 internal thread)
+KDP71/72 Flange
+Extended diaphragm Type: JIS 10K, 20K-100A (RF) equivalent/
+ANST150, 300-4B (RF) equivalent
+Flash diaphragm Type: JIS 10K, 30K-80A (RF) equivalent/
+ANST150, 300-3B (RF) equivalent
+Alr supply Rel/4 (PTL/4) or 1/4NPT internal thread
+connection
+Air supply 5 2
+pressure 1.4 £ 0.14 kgf/cm
+Output 0.2 - 1.0 kgf/em
+
+External load
+
+ID 4 mm x Length 3 m + 20 cc or over
+
+Afr supply
+capacity
+
+20N2/minute or over, with SOmHg change
+
+Afr consumption
+
+SN&/minute or less (when balanced at output 100 %)
+
+Accuracy KDP11; %025 %FS (For span 0 - 5,000 to 0 - 50,000 mmH,0)
+#0.5 %FS  (For span 0 - 2,500 to 0 - less than 5,000 mmH;0)
+KDP22; £0.25 %FS (For span 0 - 500 to 0 - 5,500 mnH,0)
+#0.5 %FS  (For span 0 - 500 to 0 - less than 500 mmH,0)
+KDP33; #0.5 %FS (For span 0 - 100 t0 0 - 600 mmH,0)
+£1.0 %S (For span 0 - 50 to 0 - less than 100 mmH;0)
+KDP44; $0.5 %FS (For span 0 - 20 to 0 - 120 mmH,0)
++1.0 %FS  (For span 0 - 10 to 0 - less than 20 mmH,0)
+KDP61/71/81: 0.5 %FS (For span 0 - 5,000 to 0 - 50,000 mmH;0)
+£1,0 %FS (For span 0 - 2,500 to 0 - less than 5,000 mmH;0)
+KDP62/72/82: 0.5 %FS (For span 0 - 500 to 0 - 5,500 mmH,0)
++1,0 %FS (For span 0 - 250 to 0 - less than 500 mmH,0)
+Dead band 0.1 %FS
+
+Damping (KDP44)
+
+Time constant: Minimum 2 sec. or less, Maximum 25 sec. or over,
+continuously variable.
+
+--- PAGE 99 ---
+Items Specifications
+Operating Cover Mate
+pressure range Mode1
+Carbon steel, SUS Monel
+(Tt xaEleal) arbon stee ne: PVC
+KDP11/22 -0.5 to 100 -0.5 to 100 0.1 to 15
+KDP33 -0.5 to 35 -0.5 to 35 0.1 to 10
+KDPUL -150 to 5 mmH;0 — —
+-0.5 to maximum flange rated pressure | -0.1 to 15
+JISIOK:  up to 14
+JIS30K:  up to 51
+ANST150: up to 14
+ANST300: up to 37
+KDP71/72 -
+KDP81/82 -0.5 to 420 — —
+Operating Meter body (process fluid): =40 to +120°C
+temperature
+Transmitter (ambient): -30 to +80°C PVC Cover: 0 to 55°C
+Operating -
+nni gty 10 - 90 %RH
+Construction Dustproof and waterproof, meets IEC IPS4, NEMA TYPE 3R,
+JIS F 8001 Class 3 splashproof,
+JIS € 0920 rainproof
+Materials Meterbody cover - Carbon steel (SFLSA), SUS316 ... (KDP11/22/33/u4/
+61/62/81/82)
+
+Monel, PVC ... (KDP11/22/33/61/62)
+
+Flange - Carbon steel (IF45A), SUS 304 ... (KDP61/62/71/72)
+
+Measuring element: SUS316 (diaphragm: SUS316L), SUS316L, Monel, Tantalum
+
+Wet part gasket:  Teflon
+Centerbody: SUS304 (KDP44 is AR)
+
+Transmitter case: Aluminum alloy
+
+Capillary tube
+length
+
+2.3 .5m (Remote seal type) SUS316
+
+Mounting KDP11/22 ..... On vertical or horizontal 2-inch pipe
+KDP33/44 ..... Horizontal 2-inch pipe
+KDP61/62 Directly flange mounted to process flange
+KDPT1/72 Directly flange mounted to process flange
+(Transmitter body is mounted on vertical or horizontal 2-inch pipe)
+Net weight KDP11/22 ..... Approx. B kg, KDP33 ..... Approx. 14.6 kg,
+KDP4G Approx. 17.5 kg
+KDP61/62 ..... Approx. 13 kg (80A - JIS 10K Flange)
+KDP71/72 Approx. 17.5 kg (80A - JIS 10K Flange)
+KDP81/82 Approx. 15.0 kg
+Finish Acryl baking finish Color: Light beige (munsell 4Y 7.2/1.3)
+
+--- PAGE 100 ---
+Optional Specifications
+
+Liquid:
+
+Gas:
+
+s°c, 1 atmy
+
+(0°c, 1 atn.)
+
+1.3 - 2,000 E?lhr water equivalent
+0,04 - 50 Nad/hr air equivalent
+
+Items Specifications
+
+L, e - Rl =
+KDP11 2,500 to 50,000 50,000 47,500
+KDP22 250 to 5,500 5,500 5,250
+KDP33 50 to 600 600 550
+KDPU4 10 to 120 120 110
+KDP61 2,500 to 50,000 50,000 47,500
+KDP62 250 to 5,500 5,500 5,250
+KDP71 2,500 to 50,000 50,000 47,500
+KDP72 250 to 5,500 5,500 5,250
+KDP81 2,500 to 50,000 50,000 47,500
+KDP82 250 to 5,500 5,500 5,250
+(Note: elevation + span S maximum span
+
+Alr-set (filter |Primary pressure: 2 - 9.9 kgf/cn A1l Models
+
+and pressure Secondary pressure: 1.4 kgf/cm
+
+regulator Filter mesh diameter: 5 microns
+Connections: Rel/s (PT1/4) or
+
+1/4NPT internal thread
+Integral orifice | Flow measuring ranges KDP11/22/33
+
+--- PAGE 101 ---
+.1
+
+Model Number Table
+
+KDP11/22
+
+Basic
+Model
+No.
+
+Cover Mat'l
+
+Measuring Ele-
+ment Mat'l
+
+e w W
+
+P
+
+AMr
+
+Piping
+Con-
+
+nection
+
+Preunatic
+Signal,
+Gauge Scale
+
+Unit
+
+Options
+
+Description
+
+KDP11
+
+0 - 2,500 to 0 - 50,000 mmH;0
+
+KDP22
+
+0 - 250 to 0 - 5,500 mmH,0
+
+Carbon steel (SF45A)
+
+SUS316
+
+Monel
+
+PVC
+
+Carbon steel (SF45A)
+
+SUS316
+
+Monel
+
+PVC
+
+SUS316 (diaphragn: SUS3L6L)
+
+Monel
+
+Tantalum
+
+SUS316L
+
+SUS316 (diaphragm: SUS316)
+
+Monel
+
+Tantalum
+
+SUS316L
+
+Rel/4 (PT1/4) internal thread
+
+1/UNPT internal thread
+
+0.2 - 1.0 kgf/en”
+
+3 - 15 pst
+
+No option
+
+Elevation
+
+Suppression
+
+Adr-set
+
+Integral orifice
+
+--- PAGE 102 ---
+3.2
+
+KDP33
+
+Basic
+Model
+No.
+
+Cover Mat'l
+
+w
+
+P
+
+Measuring Ele-
+ment Mat'l
+
+53
+
+Air
+
+Piping
+Con-
+
+nection
+
+Preunat ic
+signal,
+Gauge Scale|
+Unit
+
+Options
+
+Description
+
+KDP33
+
+-
+
+0 - 50 to 0 - 600 maH;0
+
+Carbon steel (SF45A)
+
+sUs316
+
+Monel
+
+PVC
+
+Carbon steel (SF45A)
+
+SUS316
+
+Monel
+
+PVC
+
+SUS316 (diaphragm: SUS316L)
+
+Monel
+
+sl
+
+Tantalun
+
+SUS316L
+
+SUS316 (diaphragn
+
+SUS316L)
+
+Monel
+
+S S
+
+Tantalunm
+
+SUS316L
+
+PT1/4 internal thread
+
+1/4NPT internal thread
+
+0.2 - 1.0 kgt/cn’
+
+3 - 15 psi
+
+No option
+
+Elevation
+
+Suppression
+
+Air-set
+
+Integral orifice
+
+--- PAGE 103 ---
+3.3 KDP44
+
+1 | Measuring Ele-|  ase Preunatic
+
+saate | cover mar | "RE Piping Signal,
+
+”: - Con- Cauge Scalel
+i e 54 HP P nection Unit
+
+Options Description
+
+KDP44 0 - 10 to 0 - 120 maH,0
+
+-1 —{ Carbon steel (SF4SA)
+
+-2 sus316
+
+1 Carbon steel (SF45A)
+
+2 SUS316
+
+2 SUS316 (diaphragm: SUS316L)
+
+2 SUS316 (diaphragm: SUS316L)
+
+A PT1/4 internal thread
+
+B 1/4NPT internal thread
+
+1 0.2 - 1.0 kge/en®
+
+2 3- 15 psi
+
+=X [no option
+
+-5 |Elevation
+
+-6 |Suppression
+
+Adr-set
+
+--- PAGE 104 ---
+3.4
+
+Raste
+Fodel
+No.
+
+Length of [ Atr
+
+Extended | Piping
+Part of | Con-
+
+Flange | nection
+
+Preumatic
+
+Pescription
+
+KDP61
+
+0 - 2,500 to 0 - 50,000 muH,0
+
+KDP62
+
+0 - 250 to 0 - 5,500 mmH;0
+
+Carbon steel (SFuSA)
+
+SUS304
+
+Carbon steel (SF4SA)
+
+SUS316
+
+Monel
+
+PVC
+
+SUS316 (diaphragm: SUS316L)
+
+WoneT (excTuding extended
+
+diaphragm type)
+TantaTon (ereToaTrg exEended
+diaphragm type)
+
+SUS316L
+
+SUS316 (diaphragm: SUS316L)
+
+Monel
+
+Tantalun
+
+SUS316L
+
+FTush dfaphragn type
+
+[ FTush dlaphragn type
+
+80 mm-JIS 10K(RF) equiv. flange
+80 m-JTS 30K(RF) equiv. flange
+
+TTush dTaphragn type
+3"-ANST150(RF) equiv. flange
+
+TTush dlaphragn type
+3"-ANST300(RF. equiv. flange
+
+[ Extended diaphragm type
+100 mn-JTS 10K(RF) equiv. flange
+
+Txtended dlaphragr ype
+100 mm-JIS 30K(RF) equiv, flange
+
+“Extended diaphragm type
+ANST150(RF) equiv. flange
+
+Txtended dlaphragn type
+4"-ANST3I00(RF) equiv. flange
+
+00
+
+Flush diaphragn type
+
+10
+
+Extended diaphragn type 100 am |
+
+15
+
+Extended diaphragn type 150 mm
+
+PT1/4 internal thread
+
+1/4NPT internal thread
+
+0.2 - 1.0 kgf/en®
+
+3-15 psi
+
+- 10 -
+
+No option
+
+Elevation
+
+Suppression
+
+Adr-set
+
+--- PAGE 105 ---
+3.5 KDP71/72
+e
+Flange Element Length of Ar e
+paste Ll a1 Frange (IO Eittnded | piping | STEL ey o
+i w | | | o | (e | A | neceion | St e
+it
+P71 0 - 2,500 to 0 - 50,000 maH,0
+KDP72 0 - 250 to 0 - 5,500 mmH,0
+-1 Carbon steel (SF45A)
+B sUS306
+1 | Carbon steel (SFuSA)
+|
+7 SUS304
+2 SUS316 (diaphragm: SUS316L)
+5 TioneT (excTudlng extended
+diaphragn type)
+4 TantaTon TexeTudlng excended
+diaphragn type)
+8 SUSI16L
+2 SUS316 (diaphragm: SUS316L)
+5 Forel (ewcluding extended
+diaphragn type)
+A Tantalum {excluding extended
+diaphragn type)
+] SUS316L
+i TTush dlaphragm type
+B0 m-JIS 10K(RF) equiv. flange
+3 TTush diaphragn type
+80 mn-JIS 30K(RF) equiv. flange
+5 FTush diaphragn Eype
+3""-ANSI150(RF) equiv. flange
+9 ush dlaphragm type
+3"-ANSI300(RF) equiv. flange
+e Txtended dlaphtagm type
+100 mm-JTS 10K(RF) equiv. flange |
+g Tytended dTahragn type
+100 mm-JTS 30K(RF) equiv. flange
+e Txtended dlaphragm ctype
+4"-ANST1S0(RF) equiv. flange
+& Txtended dlaphragm type
+4"-ANST300(RF) equiv. flange
+02 2n
+03 3im
+05 S
+00 Flush diaphragm type
+10 Extended diaphragn type: 100 mm
+15 Extended disphragn type: 150 nm
+A PT1/4 internal thread
+B 1/4NPT internal thread
+1 0.2 - 1.0 kgE/en’
+2 3 - 15 psi
+-X |MNo option
+=5 Elevation
+s | Suppression
+-7 [Alr-ser
+
+-11 -
+
+--- PAGE 106 ---
+KDP81/82
+
+Basic
+Model
+
+Measuring Ele-
+Cover Mat Sent Mottl
+
+HP P HP 53
+
+Ar
+
+Piping
+Con-
+
+nection
+
+Pneunatic
+Signal,
+lCauge Scatel
+Unit
+
+Options
+
+Description
+
+KDP81
+
+0 - 2,500 to 0 - 50,000 mmHz0
+
+KDPB2
+
+0 - 250 to 0 - 5,500 mmH,0
+
+Carbon steel (SF45A)
+
+SUS316
+
+Carbon steel (SF4SA)
+
+sUS316
+
+SUS316 (diaphragm: SUS316L)
+
+Monel
+
+Tantalun
+
+SUS316L.
+
+il
+
+SUS316 (diaphragm: SUS316L)
+
+Monel
+
+Tantalum
+
+SUS316L
+
+PT1/4 internal thread
+
+1/4NPT internal thread
+
+0.2 - 1.0 kgt/en?
+
+3-15 pst
+
+No option
+
+Elevation
+
+Suppression
+
+- 12 -
+
+Afr-set
+
+--- PAGE 107 ---
+. Structure
+
+The housing and base plate of the transmitter themselves make up
+
+pneumatic circuit boards.
+
+tubes are needed.
+4.1 Nozzle and Flapper
+
+The nozzle
+
+4.2 Ppilot Relay
+
+The pilot relay boosts the back pressure of the nozzle.
+
+is mounted on the base plate
+mounted at the end of the beam.
+
+As the componential blocks of the transmitter are
+installed in respective positions on the base plate,
+them are automatically accomplished.
+
+air connections for
+
+No comnections at all of pipes or
+
+side
+
+and the flapper is
+
+The pilot
+
+relay is mounted on the manifold which is structured in a unit-structure
+
+with the case.
+
+4.3 Feedback Mechanism
+
+The feedback mechanism
+receives the output pressure
+balancing three forces, and a
+the flapper is mounted is also
+
+is comprised of a feedback bellows which
+of the pilot relay, a floating pivot for
+span arm fixing element. The beam on which
+included in the feed mechanism.
+
+FLOATING
+PIVOT
+
+FEEDBACK
+BELLOWS
+
+NOZZLE AND BASE
+FLAPPLRY
+
+SPAN CHANGE
+CLAMP
+
+MANIFOLD
+
+Figure 2
+
+-~ 13 -
+
+--- PAGE 108 ---
+4.2 Meter Bodies
+
+(1)  External Views
+Although external views of meter bodies differ by models as
+shown in Figure 1, the bracket mounting section and instrument
+connection section are identical for models 11/22, 71/72, and
+for models 33/44, 81/82.
+[MODELS 11/22] [MODEL 33] [MODEL 44]
+
+WETE s00Y CoeLeD PG
+70 TRANGMITTER.
+
+Flance
+
+TO TRANSMITTER!
+
+[MODELS 71/721
+
+FLush extaunen
+Tire FLANGE
+
+INSTRUMENT
+case
+
+FIXING SCREW
+FLance LoLE
+ noarToR 3
+
+BRACKET
+MOUNTING
+HoLe MOUNTING.
+SCREW
+ToRaUE
+oRai i
+
+[MODELS 61/62]
+
+[MODELS 81/82]
+
+REMOTE
+SEALED
+TUBE
+
+(METER BODY COUPLED
+TO TRANSMITTER]
+
+DAMPING CONTROL
+(FOR MODEL 44
+ONLY. OPTIONAL
+FOR OTHER
+MODELS)
+
+_FLANGE
+ADAPTOR
+
+Figure 3. External Views of Meter Bodies
+
+- 14 -
+
+--- PAGE 109 ---
+The meter body consists of the center body, flange cover, nuts and
+bolts (Fig. 4-3). As shown in Figure 4 to 7, the process differential-
+pressure is introduced from the high-pressure side (on the right facing the
+transmitter) and low-pressure side (on the left facing the transmitter) and
+low-pressure side (on the left facing the transmitter) and operate on the
+pressure receiving bellows through the diaphragm and sealing liquid (silicon
+©0il). consequently, movements proportional to the magnitude of pressures
+are conveyed to the torque tube. The torque proportional to the pressure is
+conveyed by the torque tube to the input beam of the transmitting section.
+
+Overload Protection Mechanism
+
+Where pressure higher than the measured pressure is applied from the
+high-pressure or low-pressure side, the measuring bellows moves and the
+movement of the sealing liquid becomes zero between the inside of the
+bellows and the high-pressure chamber due to the O-ring seal. After sealing
+by the O-ring, over-pressure is received by the whole part of the center
+body due to the incompressible nature of the sealing liguid. Consequently,
+the measuring bellows etc. are not subjected to unreasonable force.
+
+- 15 -
+
+--- PAGE 110 ---
+(2)
+
+Structures and Operating Principles
+
+The structures and operating principles of the meter bodies are
+covered in this section.
+
+1 Models 11/12, 33, and 81/82
+
+(a)
+
+(b)
+
+The high and low process pressures (HP and LP) are fed via
+diaphragms (1) and (2) to the center section (oil filled
+section) of the meter body. The HP acts on the differen-
+tial pressure detecting bellows from the right hand side
+(3) and the LP from the left hand side (4). When in the
+equilibrium state (zero differential pressure state),
+identical forces are exercised on both sides of the
+differential pressure detecting bellows (5).
+
+As the pressure of the HP side rises thereby increasing
+the differential pressure, the differential pressure
+detecting bellows moves leftward. The movement of the
+bellows is fed as a torque via the torque arm to the beam
+of the transmitter.
+
+w v
+
+7
+
+o
+
+HP SEAL DIAPHRAGM
+LP SEAL DIAPHRAGM
+
+LIQUID FILL OF PH SIDE
+LIQUID FILL OF LP SIDE
+
+DIFFERENTIAL PRESSURE DETECTING BELLOWS
+DAMPING CONTROL (OPTIONAL!
+
+TORQUE ARM
+
+®00e®eese
+
+TORQUE TUBE
+
+Figure 4. Operating Principle of Meter Body
+
+- 16 =
+
+--- PAGE 111 ---
+2)
+
+Model 44
+
+(a)
+
+(b)
+
+The high and low process pressures (HP and LP) are fed via
+the diaphragms and supports (1) to the center section
+(silicone filled section) (2) of the meter body. The HP
+acts on the pressure detecting diaphragm from the right
+hand side and the LP from the left hand side. When in the
+equilibrium state (zero differential pressure state),
+identical forces are exercised on both sides of the
+differential pressure detecting diaphragm
+
+As the pressure of the HP side rises, the support moves
+leftward. The liguid fill flows through the damping
+control (3). The movement of the diaphragm is fed as a
+torgue via the torque arm (4) to the beam of the trans-
+mitter.
+
+1%§2>
+
+$©
+
+DIAPHRAGM AND SUPPORT
+LIQUID FILL
+
+DAMPING CONTROL
+TORQUE ARM
+
+@0 eeno
+
+TORQUE TUBE
+
+Figure 5. Operating Principle of Meter Body
+
+-17 -
+
+--- PAGE 112 ---
+3)
+
+[SRONCNCNCNCNC)
+
+Models 61/62
+
+(a)  The high and low process pressures (HP and LP) are fed via
+diaphragms (2) and (11) to the center section (silicone
+filed section) of the meter body. As pressure which is
+proportional to the liquid head in the process vessel is
+fed via the seal diaphragm (2) and liquid fill to the
+
+bellows (5) at the center section of the meter body.
+
+(b) The bellows (5) moves in proportion to the liquid head
+pressure. The movement of the bellows is fed as a torque
+via the plunger (6) and torque arm (7) to the beam of
+transmitter.
+
+Flush Diaphragm Extended Diaphragm
+
+PROCESS CONNECTION FLANGE TORQUE TUBE
+
+SEAL DIAPHRAGM ® OVERLOAD SEAL
+
+DAMPING CONTROL (OPTIONAL) @@ LP LIQUID FILL (SILICONE)
+HP LIQUID FILL (SILICONE) @  SEAL DIAPHRAGM
+
+BELLOWS @  CENTER BODY
+
+PLUNGER @  LP COVER
+
+TORQUE ARM
+
+Figure 6. Operating Principle of Meter Body
+
+Models 71/72
+
+(a)  The high and low process pressures (HP and LP) are fed
+
+the
+
+via
+
+diaphragms (2) to the center section (silicone filled
+
+section) (11) of the meter body. The HP is fed via
+seal diaphragm (2) and liquid fill (4) to the bellows
+at the center section of the meter body. The LP is
+via the seal diaphragm (2) and liquid fill (10) to
+bellows (5).
+
+the
+(5)
+fed
+the
+
+(b)  The bellows (5) moves in proportion to the differential
+pressure between HP and LP. The movement of the bellows
+is fed as a torque via the torque rod (8) to the beam of
+
+the transmitter.
+
+-~ 18 «
+
+--- PAGE 113 ---
+ICRCNONCRONC)
+
+(Extended Diaphragm)
+
+PROCESS CONNECTION FLANGE (@  TORQUE ARM
+SEAL DIAPHRAGM ®  TORQUE ROD
+DAMPING CONTROL @ OVERLOAD SEAL
+HP LIQUID FILL (SILICONE) @ LP LIQUID FILL (SILICONE)
+BELLOWS @  CENTER BODY
+PLUNGER
+Figure 7. Operating Principle of Meter Body
+
+- 19 -
+
+--- PAGE 114 ---
+OPERATING PRINCIPLE
+
+The input for the transmitter is applied as a torque through the
+torque tube. The torque causes the gap between the nozzle and flapper to
+change. The gap change causes the back pressure of the nozzle to change.
+The back pressure is boosted in both pressure and capacity by the pilot
+relay in order to be used as an output air pressure.
+
+The output air pressure of the pilot relay is converted into a mecha-
+nical force by the feedback bellows. The mechanical force is fed as vector
+Fl to the beam through the strap as shown in Figure 8, thereby making up a
+negative feedback loop to balance the output air pressure at a valve propor-
+tional to the input.
+
+For elevation (or suppression), a force is applied to the beam by the
+elevation (or suppression) spring.
+
+Span change an be accomplished by changing the direction of vector F3.
+As the direction of vector F3 is changed, the effective force exercised by
+vector F1 changes and consequently the feedback gain changes, thereby
+realizing span change.
+
+L
+
+FLAPPER SPAN_CHANGE
+AIR SUPPLY _ NOZZLE i e CLANP
+
+Fmd
+
+LEVATION =
+;ém (OR SUP- Fl j
+PRESS ON) [ | BEAM
+
+SPRING
+
+A\ STRAP
+
+F2
+
+FEEDBACK BELLOWS
+
+OUTPUT-
+
+- 20 -
+
+--- PAGE 115 ---
+INSTALLATION
+
+1. Place of Installation
+
+When selecting a place of installation for the instrument, take into
+consideration the matters related to instrument inspection, maintenance,
+longevity, and operation safety as follows:
+
+(1)  select a place where temperature change is small (within the
+limits of -30°C to +80°C). Avoid a place where the instrument
+is exposed to high temperature by radiation from a source of
+heat.
+
+When water is measured, pay attention to freezing which may
+cause damage to the meter body. Provide appropriate means to
+guard against freezing.
+
+(2) Select a place where is reasonably free from humidity and
+vibration.
+
+(3)  Be sure to provide spaces for inserting a screwdriver for
+adjustment and span change.
+
+2. Installation Method
+
+Install the meter body in such attitude that its diaphragm or bellows
+planes are made vertical.
+
+3. Bracket and Bolts
+
+There are two types of mounting brackets. The bracket and bolts for
+installation are supplied accompanying each meter body.
+
+For 11/22 and 71/72 Models For 33, 44 and 81/82 Models
+
+Figure 9. Mounting Brackets
+
+- 71 =
+
+--- PAGE 116 ---
+4.  Installation of Regular-type Meter Body
+
+The meter body, together with the transmitter coupled to it, can be
+installed ineither one of the following method:
+
+o Pipe stanchion mount
+o Process pipe mount
+
+In either case, fix the meter body to a 50 mm vertical or horizontal
+pipe using the mounting bracket and U-shape bolt. Fix the pipe securely to
+a foundation so that the pipe does not sway. (See Figure 11.)
+
+To install the meter body in a process pipe line, prepare brackets for
+mounting the 50-mm pipe to the process pipe. (See Figure 10.)
+
+When installing a remote-sealed type of meter body, exercise care not
+sharply bend or twist the capillary tube and not to damage the diaphragm.
+
+PIPE (50 mim)
+
+Figure 10. Example of Line Mount Bracket
+
+Note: When installing the transmitter (meter body) on a 50-mm
+pipe, note that the order of mountings (transmitter,
+bracket, and 50 mm pipe) differs depending on the
+mounting direction.
+
+Figure 11.  Installation Examples
+
+-22 -
+
+--- PAGE 117 ---
+5. Tnstallation of Model 61/62 and 71/72
+
+Connect the detector flange to a process flange. Tighten the bolts
+
+uniformly.
+
+The center of the flange represents the zero point of the liquid
+
+level. (See Figure 13.) If the zero point is raised, the head increases by
+a corresponding amount.
+
+(FLUSH TYPE) (EXTENDED TYPE
+
+Figure 12.  Connection to Process Vessel
+
+No flange gaskets accompanies the transmitters.
+
+Gaskets should be supplied by the customer. When using semi-
+metallic or rubber gaskets, use gaskets of shapes such that
+gaskets are not contacted with the detector diaphragms. (95 mm
+dia.)
+
+6.  Installation of Remote-Sealed Diaphragm Type Meter Body
+
+This type of meter body can be fixed to a pipe stanchion in the same
+manner as in the case of the regular type of meter body. For connection to
+the process, proceed as follows:
+
+(1)
+
+(2)
+
+(3)
+
+Connect the tapping flange to the process flange with the bolts
+and gasket. Evenly tighten the bolts to prevent leak. Lay the
+capillary tube so that it is less subjected to temperature
+change and fix it so that it does not move.
+
+It is recommendable to install the transmitter at a location
+lower than the flange.
+
+If the zero point shift has been caused by the head pressure of
+the seal liquid due to the difference in height between the
+center of the flange and the center of the pressure receiver,
+adjust zero by means of the ZERO control (or ELEVATION or
+SUPPRESSION control). The specific-gravity of the seal liquid
+is ).935 at 20°C (For temperature compensation, use a factor of
+0.008/10°C) .
+
+For installation of the button diaphragm, refer to its dimension
+drawing.
+
+When the installed button diaphragm is required to be pulled
+out, set the collar available as an option to the groove at the
+rear end of the element (capillary tube side) and retract the
+screw.
+
+=23 =
+
+--- PAGE 118 ---
+75 Mounting Attitude
+
+When the meter body is incorporated with a vent provision, imstall it
+in such attitude that vent can be fully done. Entrapped drain and other
+foreign matter remaining in the meter body will adversely affect measure-
+ment.
+
+It is ideal to install the meter body so that its diaphragm or bellows
+planes are made vertical.
+
+After installation is over, perform ZERO adjustment*,
+
+* Refer to the section for calibration.
+
+When a diaphragm pressure receiver type of meter body (Models 61/62,
+71/72) is used for liquid level measurement, the zero point will be as shown
+
+in Figure 10. Calculate the output referring to the dimensions and cali-
+brate the instrument accordingly.
+
+1009
+
+Note: For the portion from the
+minimum liquid level
+(0% level) to a height
+of 25 mm, the output is
+not linearly proportional
+to the liquid level. H
+
+Figure 13.  Zero Point of Diaphragm
+Note: For the portion from the minimum liquid level (0% level)
+
+to a height of 25 mm, the output is not linearly propor-
+tional to the liquid level.
+
+- 24 -
+
+--- PAGE 119 ---
+8. Air Supply Connection
+
+When no Airset (a Combination of regulator and filter) is used, connect
+the air supply to the air supply connection port (internal thread) which is
+marked "SUP". The port marked "OUT" is the output air connection port.
+
+When an Airset is used, connect the output port of the Airset to the
+air supply connection port of the transmitter.
+
+The transmitter is shipped with its "SUP" and "OUT" ports protected by
+red vinyl plugs. Remove these plugs when connecting the pipes.
+
+OUTPUT AR
+CONNECTION PORT
+
+AIR SUPPLY
+
+CONNECT 10N
+PORT
+Figure 14. Air Connections
+9. Pressure Piping
+2.1 Models 11/22/33/44/81/82
+(1)  Piping method (tapping pressure connection method) may differ
+depending on the installation position of the instrument and the
+conditions of the process pipe line. In general, a manifold
+
+piping method or a manifold valve method is used. (The manifold
+valve is available as an option.)
+
+- 25 -
+
+--- PAGE 120 ---
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+-STOP VALVE
+
+— EQUALIZER
+VALVE
+
+Figure 15. Manifold Valve
+
+When in flow measurement and the meter body is installed lower
+than the pipe line, it is recommended to provide below pipes.
+
+BLOW VALVE
+
+MANIFOLD VALVE
+——(PIPING)
+
+——BLOW PIPING
+
+Figure 16. Blow Piping
+
+For the pressure connection piping from the pressure tap posi-
+tion to the transmitter, provide a gradient so that drain is
+returned through the tapping position to the process line.
+
+Regarding the process pressure connection ports of the meter
+body, the high pressure side (HP) is located to the right and
+the low pressure side (LP) to the left as viewed from the front
+of the meter body (transmitter).
+
+If the high pressure side and low pressure side are required to
+be used in the reverse from the viewpoint of piping, use a
+Reverse Unit*.
+
+* The Reverser Unit is available as an option. This unit
+cannot be used for Model 81/82.
+
+For the pipes for pressure tapping from the process pipe, use
+pressure pipes of appropriate schedule number and nominal
+thickness. A typical example in 1/2-inch Schedule 80 steel
+pipe. For measurement of water or steam, copper pipes are used
+in general.
+
+Examples of pressure piping are shown in Figure 17.
+
+- 26 -
+
+--- PAGE 121 ---
+A. LIQUID OR STEAM B. GAS
+
+VENT PLUG
+| TEE
+A SLOPE ”
+MAIN VAS/E?K‘T\ "‘4 H‘A'FEE IEEI\Y(E/ELS
+(GATE VALVE) ©
+
+FLANGE OR UNION
+(NOT REQUIRED_FOR \\g\smps
+MAIN VALVE WITH
+
+FLANGE) 1
+FLANGE OR UNION
+
+TEE
+
+MANIFOLD
+VALVE
+
+DRAIN PLUG
+(GATE OR GLOVE
+VALVE) 1
+AP
+C. LIQUID (meter body located D. GAS (meter body located
+above tap) above tap)
+VENT PLUG q VENT PLUG
+SOCKET-]
+MANIFOLD VALVE
+SLOPE
+iy g
+Figure 17.  Pressure Piping for Flow Measurement
+(6) To change connections to process:
+
+If it is required to change process connections (vent and drain)
+between upper and lower positions, remove the two flanges of the
+connection ports and also the plugs of vent and drain, and
+change the positions between upper and lower. (Refer to the
+overall dimension drawings.)
+
+- 3T
+
+--- PAGE 122 ---
+7
+
+Pressure tapping methods:
+
+For tapping methods of process pressures, refer to the illustra-
+tions given in this section. The "H" is the high pressure side
+of the meter body an the "L" is the low pressure side. They are
+marked on the meter body.
+
+2 oas
+3
+= ™
+sez X IMUM
+2o~ LIQUID LEVEL
+Bzz
+E-g MINIMUM
+1 =82 LIQUID LEVEL
+L ER)
+iR L] ELEVATION
+MARKS ON CENTER BODY CENTER BODY MARKING
+A) Open tank B) Closed tank, without seal
+P
+MAXIMUM
+LIQUID LEVEL
+SEAL |_MINIMUM
+REGULAR LOW LEVEL
+PRESSURE SIDE
+LT
+SENSOR BODY MARKING (ASSEMBLY
+FOR REVERSE ACTION)
+C) Closed tank, with liguid seal
+Figure 18. Connections of Pressure Pipes for
+
+Liquid Level Measurement
+
+The liquid level corresponding to the difference between the 0%
+level and the center of the meter body is given from the begin-
+ning. In the case of A or B shown in Figure 18, make compensa-
+tion (provide an elevation) for the corresponding amount and set
+the output at 0.2 to 1.0 kqf/cmz for liquid level 0 to 100%. 1In
+the case of C, a pressure corresponding to the head of the seal
+liquid is applied to the low pressure side to the state of A or
+B and consequently the high/low relationship between the H side
+and L side of the meter body is in the reverse. Therefore,
+compensation (suppression) should be made for the seal liquid
+head for the difference between 100% level position and 0% level
+position.
+
+For "elevation" and "suppression", refer to Section 10.
+
+- 28 =
+
+--- PAGE 123 ---
+9.2  Connection of Flange Type Meter Body to Process
+
+RELEASE
+
+T (s TANK
+ATMOSPHERE |
+
+[ |
+
+BLOW VALVE
+
+BLOW VALVE
+
+DRAIN POT|
+
+STOP_VALVE
+
+| —
+
+5
+
+TANK .
+
+STOP_VALVE
+
+AN
+
+Figure 19.
+
+Process Connections of Model 61/62
+for Liquid Level Measurement
+
+HAX THUM
+T Liouin
+LEVEL
+
+MINIMUM
+LIQUID
+LEVEL
+
+Figure 20.
+
+Process Connections of Model 71/72
+for Liquid Level Measurement
+
+- 29 -
+
+--- PAGE 124 ---
+T0 METER BODY TO METER BODY
+(HICH PRESSURE (LOW PRESSURE
+CHAMBER)
+
+CHAVBER)
+
+PRESSURE RANGE
+
+FOR_UPSTREAN-SIDE
+
+DIAPHRAGH
+
+STATIC PRESSURE
+
+|
+& DISTRIBUTION CURVE
+PRESSURE RANGE FOR
+| DOWNSTREAM-5 1DE.
+DIAPHRAGH
+
+Pipe diameter:
+Differential presusre:
+Diameter ratio:
+
+3 in. or over
+1000 muHz0 or over
+0.30 to 0.70
+
+For Flow Measurement with Orifice Plate
+
+1
+'
+
+¥ TO TRANSNITTER
+(HIGH PRESSURE
+CHAMBER)
+|
+
+70 TRANSHITTER
+(Low PRESSURE
+CHAMBER]
+
+STATIC PRESSURE|
+
+PRESSURE TAPPING PRESSURE TAPPING | DISTRIBUTION
+RANGE FOR RANGE FOR QwRvE
+UPSTREAK-S 1DE DOWSTREAH-S1DE
+DIAPHRAGH DIAPHRAGH
+Venturi tube throat diameter: 3 in. or over
+Differential pressure: 1000 mm or over
+Diameter ratio: 0.7
+b. For Flow Measurement with Venturi Tube
+Figure 21. Pressure Tapping for Model 71/72
+for Flow Measurement
+(1) Fix the flanges of the meter body to those of the process side
+
+(2)
+
+by using gaskets and bolts. Be sure to uniformly and securely
+tighten the bolts in order to prevent leak.
+
+Lay the capillary tubes in such manner that they are less
+subjected to large temperature change. fix them so that they do
+not move.
+
+Regarding the flange of the low pressure side when in level
+measurement of an open tank, fix it securely at a position where
+it will be less subjected to temperature change and mechanical
+
+vibration,
+that of the
+
+Position the LP side flange at a height lower than
+minimum liquid level.
+
+- 30 -
+
+--- PAGE 125 ---
+Regarding the seal diaphragm, protect it so that it is not
+damaged and pay attention so that no drain is intrapped on it
+and no dust is collected on it.
+
+(3) For flow measurement, tapping for the differential pressure must
+be done in the "pipe tap" system. Therefore, locate the high-
+pressure-side tap at a location of 2.5D (D denotes the inside
+diameter of the process pipe) from the upstream side of the
+orifice and locate the low-pressure-side tap at a location of 8D
+from the downstream side of the orifice.
+
+The tapping connection is of a 3-inch flange connection type. The
+
+flanges of the extension seal type of meter body can be directly used as the
+tapping flanges.
+
+-3 -
+
+--- PAGE 126 ---
+10.  Elevation and Suppression
+
+10.1 Definitions of Elevation and Suppression
+
+The terms “"elevation" and "suppression" as used in this publication
+
+are defined as follows:
+
+Elevation:  Synonymous with "suppressed zero range"
+An input range whose low end value is higher than zero.
+For example, a range of 20 to 100
+
+Suppression: Synonymous with "elevated zero range"
+
+An input range whose low end value is lower than zero
+For example, a range of -20 to 0.
+
+10.2  Setting of Elevation/Suppression
+
+For setting of elevation/suppression, refer to Section "CALIBRATION AND
+
+ADJUSTMENT",
+
+Note: The specific-gravity of the liquid fill of Models 71/72 is
+ture compensation, use a factor of
+
+0.935 at 20°C.
+0.008/10°C.)
+
+(For tempera
+
+kgt/em
+
+0.2
+
+IELEVAT\ON
+
+0%
+
+100%
+
+SUPPRESS 0N
+
+Figure 22.
+
+Elevation
+
+=37 =
+
+and Suppression
+
+--- PAGE 127 ---
+Closed tank (without
+
+Close tank (with
+
+Hodel Open Tank seal liquid seal liquid
+
+11, 22, | Provide suppression corresponding to Provide suppression by
+
+33, 44, | differential level between zero liquid |amount corresponding
+
+81, 82 | level and center of pressure receiver  |to measuring liquid
+nultiplied by specific-gravity of level multiplied by
+1iquid measured. specific-gravity of
+
+Fig. 23-® |measured liquid (seal
+liquid).
+
+61, 62 | No elevation/suppression is needed if  |Subtract from sup-
+the imaginary zero liquid level* con-  |pression the differ-
+forms with center position of diaphragm |rence between zero
+of flange connection section. liquid level and
+
+center position of
+* Refer to Section 7 diaphragm as eleva-
+tion.
+If the zero liquid level is higher than
+center position of diaphragm, provide
+elevation by an amount corresponding to
+the height multiplied specific-gravity
+or liquid measured.
+Fig. 23-® Fig. 23-©
+71, 72 | Provide elevation | Provide suppres-
+
+by an amount cor-
+responding to
+difference between
+center positions of
+HP and LP flange
+diaphragms multi
+plied by specific-
+gravity of seal
+liquid.
+
+When zero liquid
+level is higher
+than center posi-
+tion of HP flange
+diaphragm, add as
+elevation an amount
+corresponding to
+the height multi
+plied by specific—
+gravity of measured
+liquid.
+
+Fig. 23-©
+
+sion by an amount
+corresponding to
+difference between
+center position
+of HP and LP
+flange diaphragms
+multiplied by
+specific-gravity
+of seal liquid.
+
+when zero liquid
+level is higher
+than center posi-
+tion of HP flange
+diaphragm, subtract
+from the above
+suppression an
+amount correspond-
+ing to the height
+multiplied by
+specific-gravity
+
+of measured liquid
+as elevation.
+
+Fig. 23-®
+
+No applicable
+
+= 33 <
+
+--- PAGE 128 ---
+0. m: Specific-gravity of
+® measured liquid
+
+| ;i Specific-gravity of
+
+ZERO LIQUID LEVEL seal liquid
+
+oss: Specific-gravity of
+seal liquid
+
+H L (ATMOSPHERE)
+
+Provide elevation by s ¢
+
+ZERO LIQUID LEVEL
+L
+1
+
+Provide elevation by ot
+
+ZERO LIQUID
+
+ZERO LIQUID LEVEL
+
+Provide elevation by (0.935+sE:) Provided suppression by (0.s15—of)
+Figure 23. Calculation of Elevation/Suppression
+Values
+
+- 34 -
+
+--- PAGE 129 ---
+OPERATION METHOD
+
+The meter body, together with the transmitter coupled to it, starts
+operating as the air supply and process input are fed to it. (It is recom-
+mendable to check the operation of the transmitter before starting the
+running operation.)
+
+1; Differential Pressure (Flow) Transmission
+
+The operation method (start up procedure) here is described assuming
+that manifold valves and below piping are prepared as shown in Section 5.1
+of Part "INSTALLATION." Of Model 71 or 72, operation is ready when its
+installation is over.
+
+(1) Check that piping is correctly done.
+
+(2)  Unless self drain or self vent piping is done, liquid or gas
+will be entrapped in the measuring chambers and pressure connec-
+tion pipes, thereby causing measurement errors. Be sure to
+drain out or vent out such liquid or gas. The same applied
+regardless of whether manifold valves are used or manifold
+piping is done. For the procedure, refer to Part "INSPECTION
+AND MAINTENANCE.
+
+(3)  Zero point check:
+
+When the instrument has become the measuring state, set a
+receiver instrument and check and adjust the zero point as
+follows: Of the manifold valves, close the stop valves of both
+high and low pressure sides and then open the equalizer valve.
+Next, open the stop valve of the high pressure side alone so
+that the process pressure of the high side alone is applied to
+both high and low pressure chambers of the meter body. Under
+this state, check the zero point. After the zero point check is
+complete, close the equalizer valve and then open the stop valve
+of the low pressure side.
+
+(4) Operating procedure: (Refer to Section 9.1)
+To start operating the meter body from the state that all valves
+are closed, open or close them in the due order as noted in the
+following:
+
+(1) Open the equalizer valve.
+
+(2)  Open the stop valve of low pressure side tapping-pipe and
+the stop valve of low pressure side of manifold.
+
+(3)  Open the stop valve of high pressure side tapping-pipe and
+the stop valve of high pressure side of manifold.
+
+(4) Close the equalizer valve.
+
+- 35 -
+
+--- PAGE 130 ---
+2. Liquid Level Transmission
+
+The operation method (start up procedure) here is described assuming
+that the meter body is installed as shown in Sections 9.1 (6) and 9.2 of
+Part "INSTALLATION". No operatior procedure is needed for the process
+connections with flanges (diaphragms). Of Model 71 or 72, operation is
+ready when its installation is over.
+
+(1) Check that piping is correctly done.
+
+(2) Unless self drain or self vent piping is done, liquid or gas
+will be entrapped in the measuring chambers and pressure connec-
+tion pipes, thereby causing measurement errors. be sure to
+drain out or vent out such liquid or gas. For the procedure,
+refer to Part "INSPECTION AND MAINTENANCE."
+
+(3)  2zero point check:
+
+When the instrument has become the measuring state, set a
+receiver instrument and check and adjust the zero point.
+
+(4)  Open the stop valves and start operating the instrument. When
+
+seal liquid is used, full the low pressure side tapping-pipe
+with seal liquid.
+
+- 36 =
+
+--- PAGE 131 ---
+INSPECTION AND MAINTENANCE
+
+For routine inspection and maintenance, pay attention to the fol-
+lowing:
+1. Check for Leak from Piping
+
+Check that there is no leak in the piping from the pressure tap points
+to the meter body. If any loose connections are found, tighten them se-
+curely.
+2. Blow and Cleaning of Meter Body and Piping
+
+To maintain constantly the instrument at its best performance meeting
+its specification accuracy, keep clean the meter body and its piping. If
+sediment or other foreign matters are entrapped in the pressure chambers of
+the meter body, measuring errors may be caused. To blow and clean the meter
+body and piping, proceed as mentioned in the following:
+2.1 Blow Procedure
+
+2.1.1 When No Blow Pipes are Provided
+
+(1) Close the stop valve of the high pressure side tapping pipe and
+that of the high pressure side of the manifold valve.
+
+(2)  Check that the equalizer valve is closed.
+
+(3)  Close the stop valve of the low pressure side tapping pipe and
+that of the low pressure side of the manifold valve.
+
+(4)  slowly open the both side vent plugs to release pressure. And
+shut them.
+
+(5) Open the stop valve of the high pressure side of the manifold
+valve and that of the high pressure side tapping pipe.
+
+(6) Open the equalizer and blow the piping via the high pressure
+side vent plug.
+
+(7)  Close the equalizer valve, the stop valve of the high pressure
+side of the manifold valve, and that of the high pressure side
+tapping pipe.
+
+(8) Open the stop valve of the low pressure side of the manifold
+valve and that of the low pressure side tapping pipe.
+
+(9) Open the equalizer valve and blow the piping from the low
+pressure side vent hole.
+
+(10)  Close all valve.
+
+(11)  start operating the instrument following the procedure explained
+in Part "OPERATION METHOD."
+
+- 37 -
+
+--- PAGE 132 ---
+2.1.2 When Blow Pipes are Provided (See Figure 16 of Section 8, Part
+
+"INSTALLATION.
+
+1)
+
+(2)
+
+3)
+
+(4)
+
+(5)
+
+(8)
+
+Close the stop valve of the high pressure side of the manifold
+valve.
+
+Close the stop valve of the low pressure side of the manifold
+valve.
+
+Slowly open the blow valves of both high and low pressure sides
+to drain out sediment or other entrapped substance.
+
+Close the below valves of both high and low pressure sides.
+
+Open the stop valve of the low pressure side of the manifold
+valve.
+
+Open the stop valve of the high pressure side of the manifold
+valve.
+
+2.1.3 Blow of Model 61/62 Liquid Level Meter
+
+(1)
+
+(2)
+
+(3)
+
+For an open tank liquid level meter, drain out liquid by loos-
+ening the drain plug at the bottom of the low pressure side
+cover at appropriate intervals.
+
+For a closed tank liquid level meter of gas sealed type, and
+first close the stop valve of the low pressure side tapping-pipe
+and then open the blow valve to vent gas at appropriate inter-
+vals.
+
+For a closed tank liquid level meter of liquid sealed type,
+check the seal liquid level and replace seal liquid at appro-
+priate intervals.
+
+To replace seal liquid, proceed as follows: Close the stop
+valve of the low pressure side tapping-pipe, open the blow
+valve, and loosen the drain plug to drain out seal liquid.
+Next, tighten the drain plug, feed seal liquid from the valve
+for blow until seal liquid overflows from the blow valve, close
+the blow valve, and then open the stop valve.
+
+2.2 Cleaning of Meter Body
+
+After the blowing of the piping as described in 2.1 is over, clean the
+meter body as described below. Of Models 71/72 and 61/62, clean only the
+diaphragms outsides of flanges.
+
+(1)
+
+(2)
+
+Remove the covers of the meter body by removing their clamping-
+bolts.
+
+Clean the diaphragm and the insides of the covers using soft
+
+brush and detergent. When doing this, be extremely careful not
+to deform of damage the diaphragm.
+
+- 38 =
+
+--- PAGE 133 ---
+(3)  When reassembling the covers
+required.
+
+replace gaskets with new ones as
+
+(4) Fix the clamping-bolts of the covers with the specified tight-
+ening torques as shown in the following table.
+
+Tightening torque (kgf-cm)
+
+Material of Clamping-bolts
+
+Model When new
+gasket is e aaskor Bolt Cover
+is re-used
+used
+11/22, 61/62 450 300
+33 450 300
+carbon
+Chrome molybdenum
+Steel,
+steel e
+4 400
+81/82 1,400
+
+2.3 notes for Use in Freezing Season
+
+When the transmitter used for measurement of water or other freezable
+
+liquid is paused in a freezing season or area
+drain out liquid from the pressure chambers to prevent freezing.
+
+-39 -
+
+loosen the drain plugs and
+
+--- PAGE 134 ---
+SERVICE AND UNIT REPLACEMENT
+
+The only component which calls for service is the pilot relay. When
+malfunctioning of the pilot relay is suspected, service it as mentioned
+below. When the pilot relay is found to be defective, replace it with a new
+one.
+
+When the meter body is required to be modified due to specification
+change or application change or due to failure, order your Yamatake-Honeywell
+agent. If it is required to be modified for yourself, order the service
+tools and Service Manual SM2-5220-0000 "Replacement Procedure of Meter
+Bodies."
+
+1. To Replace the Pilot Relay
+Remove the pilot relay by removing the three screws shown in Figure 24.
+
+If the gasket has been deteriorated or damaged, replace it also when
+replacing the pilot relay.
+
+To install the pilot relay, place the gasket in the correct position,
+set the pilot relay on the manifold by setting the guide pin at the bottom of
+the pilot relay to the guide hole, and tighten the screws evenly.
+
+2. To Service the Pilot Relay
+
+Remove the pilot relay as described in 1 above, service it as described
+below, and then install it in the original position.
+
+(a)  Remove the three assembly screws (1) and nuts (19). (See Figure
+5.)
+
+(b)  Parts (3) to (17) will separate in order. It is not necessary to
+separate parts (2) to (6) unless they are to be replaced.
+
+(c) Clean metal parts with approved solvent such as petroleum naphtha
+or Clorothene. Depress the valve stem (2) against the conical
+spring (5) to allow the solvent to penetrate through the seat
+which is hit by the port section of the valve stem.
+
+(d) Examine the inner exhaust ring (13) and valve stem (2). If
+dirty, clean them with a cloth. Do not use any solvent to clean
+them.
+
+(e) Dry all parts thoroughly with clean compressed air.
+(£)  Replace diaphragms (16) and (11) if worn or damaged.
+
+(9) Reassemble the pilot relay by rejoining all parts in order with
+assembly screws (1), and nuts (19). Tighten the screws evenly.
+
+- 40 -
+
+--- PAGE 135 ---
+Name Quantity
+
+3
+1
+1
+6
+1
+1
+1
+k §
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+SCREW
+VALVE STEM
+
+HOUSING
+
+GUIDE PIN
+
+CONICAL SPRING
+WASHER
+
+SPRING
+
+NOZZLE
+
+WASHER
+
+SEAL
+
+DIAPHRAGM (LOWER)
+EXHAUST RING (OUTER
+EXHAUST RING (INNER)
+AREA PLATE
+
+WASHER
+
+DIAPHRAGM (UPPER
+COVER
+
+NUT
+
+Figure 24. Pilot Relay Assembly
+
+- 41 -
+
+--- PAGE 136 ---
+CALIBRATION AND ADJUSTMENT
+
+25 General
+
+The detector (meter body) feeds a torque, which is proportional to the
+measured process variable, via the torque tube to the transmitting mechanism
+Of the transmitter. Therefore, regardless of the type of the meter body,
+the transmitter should be adjusted so that it transmits and output signal of
+0.2 to 1.0 kgf/cm? linearly proportional to the 0% to 100% measuring range.
+
+If the transmitter is incorporated with an elevation/suppression
+spring assembly, remove the assembly in order to calibrate the measuring
+range of the transmitter without zero-point shift.
+
+Connect a precision pressure gauge of a range of approximately 0 to 1.5
+kgf/cm? to the output port for calibration when checking the transmitter
+operation or adjustment when replacing meter bodies or changing ranges.
+
+a. Calibration of Differential Pressure Transmitter
+
+(1) Release the low pressure connection port (marked L) to atmos-
+phere.
+
+(2) Connect to the high pressure connection port (marked H) a
+variable pressure source (such as the air supply via a regu-
+lator) corresponding to the measuring range and a precision
+pressure gauge covering the measuring range. (For a flange type
+meter body, prepare a piping adaptor.)
+
+(3)  Apply to the high pressure connection port a pressure corre-
+sponding to 100% of the measuring range by adjusting the vari-
+able pressure source.
+
+(4) If the output pressure is largely shifted from 100% (1.0
+kgf/cm?), adjust the SPAN CHANGE boss using a plain screwdriver
+so that the output pressure becomes approximately 100%. As you
+turn the boss clockwise, the output pressure rises and the span
+becomes narrower. As your turn the boss counterclockwise, the
+output pressure falls and the span becomes wider.
+
+(5)  Release the high pressure connection port to atmosphere.
+
+(6)  If the output pressure is shifted from 0% (0.2 kgf/cm?), adjust
+the ZERO ADJ screw so that the output pressure becomes 0%. As
+you turn the screw clockwise, the output pressure rises, and
+
+vice versa.
+
+(7). Apply to the high pressure connection port a pressure corre-
+sponding to 100% of the measuring range.
+
+- 42 -
+
+--- PAGE 137 ---
+ELEVATION/SUPPRESSION SPRING
+ASSEMBLY MOUNTING SCREW HOLES
+
+£l \ CHANGE BOSS
+
+—FINE SPAN
+ADJ.PIN HOLE
+
+\ FINE SPAN
+ADJ. BOSS
+ZERO ADL SCREW
+Figure 25
+
+(8)
+
+(9)
+
+If the output pressure is shifted from 100%, adjust the SPAN ADJ
+boss at the bottom of the feedback bellows as follows:
+
+If the output is higher than 100%, turn the boss so that the
+output becomes lower than 100% by an amount of 1/4 of the shift.
+(For example, if the output is 104%, turn the boss so that the
+output becomes 100 - 1/4 x 4 - 99(%)).
+
+If the output is lower than 100%, turn the boss so that the
+output becomes higher than 100% by an amount of 1/4 of the
+shift. For example, if the output is 98%, turn the boss so that
+the output becomes 100 + 1/2 x 2 = 100.5(%)).
+
+The span can be adjusted also by turning the feedback bellows by
+inserting a pin in the SPAN ADJ PIN HOLE instead of adjusting
+the SPAN ADJ boss. As you turn the feedback bellows, the span
+changes as follows:
+
+Clockwise turn of bellows: Output increases. (Span becomes
+wider.
+
+Counterclockwise turn of bellows: Output decreases. (Span
+becomes narrower.)
+
+Repeat the procedures of (5) - (8) until the required accuracy
+is attained.
+
+- 43 ~
+
+--- PAGE 138 ---
+3. Setting of Elevation/Suppression
+
+Elevation/Suppression can be realized by providing as actually re-
+quired the zero shift which has initially been eliminated as mentioned in
+Section 1.
+
+After setting an elevation/suppression, apply an input corresponding
+to 100% of the measuring range and,if the 100% point has been shifted,
+perform the SPAN Adjustment, In this case, the zero point and 100% point
+should be of the values with the elevation/suppression taken into considera-
+tion.
+
+3.1 Setting of Elevation
+
+When all adjustment (without elevation) is over, install the elevation
+spring assembly on the bass plate and input beam.
+
+Apply an input corresponding to the required zero point shift and turn
+the spring adjustment screw with a wrench so that the output pressure
+becomes 0.2 kgf/cm?. As you turn the screw counterclockwise (the wrench
+moves upward), elevation increases.
+
+3.2 Setting of Suppression
+Suppression can be set in the same manner in the case of elevation.
+
+As you turn the spring adjustment screw clockwise (the wrench moves down-
+ward), suppression increases.
+
+ASSEMBLY MOUNTING
+SCAEWS ELCVATION/SUPPRESSION
+SPRING ASSEMBLY
+
+SPRING ADJUSTMENT
+SCREW
+
+Figure 26
+
+- 44 -
+
+--- PAGE 139 ---
+C-009
+
+TOA VALVE STANDARD
+
+FULL BORE TYPE 1627 SAFETY VALVE
+
+INSTRUCTION MANUAL
+
+A product of
+
+TOA VALVE CO.LTD.
+
+AMAGASAKI, JAPAN
+
+--- PAGE 140 ---
+TOA VALVE STANDARD
+
+FULL BORE TYPE 1627 SAFETY VALVE
+
+INSTRUCTION
+
+MANUAL
+
+CONTENTS
+
+EXPLANATION OF OPERATION ---
+
+INSTALLATION == ===== === -ommmcmoeom ooom oo
+
+ADJUSTING T oTTTmomTmmmoemmm e
+
+DISASSEMBLY AND REASSEMBLY ----====---=-= -=------—-
+
+LAPPING AND REPAIR -=m=n===sc=—reosssvoicosmoasas
+
+TOA VALVE CO., LTD.
+
+AMAGASAKI,
+
+JAPAN.
+
+2
+
+u
+
+8
+
+72
+
+Data o,
+
+1168794
+
+--- PAGE 141 ---
+Cap (s | s N
+Adjusting - i
+bolt & mt (2 ¢ 1 |
+Setscrew (36 29 | {13) Top lever (easing lever)
+Stem Il N\ (By moving up easing
+|1, A lever,safety valve
+Screw (37\ 1 ° can be blown by hand.)
+M \ |
+Spring (111 — | 7‘ | (30) Upper spring blocx
+mgeopper 7 “ -
+LU ing block (291\ ¥ | é‘
+Disc holder i 2
+WO Fpl| \g
+BodY (1 \ O: ! [6) N
+\ Size 20.25m = P.S. 1/4
+Disc & o)
+40.50em = P.S. 3/8
+Adjusting 6 1 !
+ring T 1
+Set bolt (34
+= 20) Back pressure
+H ] | throttle valve
+2 | (Popping groove susures
+2 r [ sure blowing)
+- -
+5 Sk 24) Adj. ring pin
+Drain boss
+#ize 20.25m = P.5.1/8
+40.50mm = P.S.1/4
+4 /1/(2) seat
+\io no | (In installing safety
+= El valve,fasten mﬁ.
+Set bolt (35) | LDl
+i ]
+) -
+L_SJ_J
+Fig. 1 Dimension : mm
+e Comection |5 Sate | Oeiie Bt Bt [etlurc]
+VU Tniet Joutiet f— —1
+di |S1x &|S2x 82 L|‘Lz H | H {wlai|az|dt|ds g
+20 [pTixts|esix12] 86] 50 | 270|525 |46 65[sasl 15 203 | 5
+
+25 [prkx22lpsikers| 93| 55 290 340[s0[en |az[18]o5]5.0 4
+40 [PT2x26 Ps2x18117) 70 | 345|395 sSarslgszsy Tl7
+50 |prokesolpsobe 20132 | 85]395 (445 80]02]7) |38 l4ala.
+
+L e 1 6BTA 4
+
+--- PAGE 142 ---
+1. EXPLANATION OF OPERATION
+
+This Type 1627 Full-Bore Safety Valve with its flat seat and piston
+type disc features its high relieving capacity.
+
+A safety valve is required to blow off with utmost accuracy and sure-
+ness when the specified pressure (mentioned on name plate) has been
+reached.
+
+The relieving mechanism of this safety velve is charscterized by the
+popping groove provided on the disc which produces an extra 1ift and
+also the adjusting ring for better utilization of the dynamic pressure
+produced by steam flow and hence the valve readily pops (opens quick and clear)
+once the specified blow-off pressure has been reached.
+
+The valve is also provided with a readily adjustable back pressure
+throttle valve which may be set to ensure secure clocing of the valve
+
+aftor well-stabilized relieving of excess pressure. (Ref. Fig. 1 and 2.)
+
+-Spring
+
+force Disc pressed against 1ift
+
+Stopper to allow
+stabilized blow-off.
+
+Blow-down pressure to be
+set by adjusting opeming
+of back pressure throttle
+valve.
+
+Lock nut to be retightened
+on completion of adjustment.
+
+Back pressure through this
+gap acts closing the valve.
+
+Reaction and static pressure
+of escaping steam utilized
+for ensuring stabilized blow-
+off.
+
+LT T, 116894
+
+--- PAGE 143 ---
+Table 1
+
+POPPING PRESSURE TOLERANCE (JIS B 8210 - 1978)
+
+Popping pressure (kg/cm?) Tolerance
+
+0.2 kg/cm?
+
+I+
+
+below 7
+
+above 7 Dbelow 23
+
+1+
+
+pop.pres. x %
+
+Table 2
+BLOW-DOWN PRESSURE (DIFFERENCE BETWEEN POPPING-
+
+AND CLOSING PRESSURE)
+
+Popping pressure (kg/cz?) Blow-down pressure
+(Full-bore safety valve)
+above 1 below 2 below 0.25  kg/cn®
+o2 . 0.3 s
+oy on g . ok .
+o7 v s 0.5 "
+"1l below 7% of pop. pres.®)
+
+*) 7% is our target.
+
+1.1. Lifting lever
+
+JIS (JIS B8210-1978) provide that mafety valve be complete with
+means for enabling manual blow-off.
+
+Top lever --provided as such means with this valve— is so
+designed that when it is raised by hand the nut set on the threaded
+end of the stem is pushed up by the other end of the lever and with
+that is compressed the spring so that the valve can pop or blow-off
+
+at a pressure substantially lower than the specified le
+
+(The covering JIS provisions require that with safety valves
+popping by manual means be possible when boiler pressure is more
+
+than 75% of the valve's specified popping pressure and hence
+
+-3 =
+
+Tt Mo iceTh
+
+--- PAGE 144 ---
+if the specified blow off level is 10 kg/cm2, manual popping should
+
+be possible when boiler pressure has come up to exceed ca. 7 kg/cm2.)
+
+This
+
+manual relieving by means of the lifting lever may be resorted
+
+to, for instance, when a leak caused by scale caught between seat
+
+and disc has to be repaired or it is desired to have valve condition
+
+tested.
+
+2. INSTALLATION
+
+2.1. Installation of safety valve
+
+(a)
+
+(v)
+
+(c)
+
+With safety valve important is to have it installed with the
+stem vertical with the least possible intervening means, i.e.
+as direct to the boiler as possible. Intervening means or
+obstacles presenting undue resistance including longer lateral
+mst be strictly avoided, for such can aeriously interfere
+with proper functioning of the valve.
+The passage aperture of the safety valve fitting laterial
+or receptacle must be invariably larger than the inlet aper-
+ture of the safety valve. Tne overall length of the lateral
+must be as small as possible and the lateral's valve-fitting
+edge finished (rounded) to a sufficiently large radius so
+as to minimize the pressure loss.
+The inlet port of the safety valve must be confirmed clean with
+no traces of dust or foreign matter deposits or thoroughly cleaned
+before the valve is fitted to the laterial.
+With valves of screw-in type (Ref. Fig. 1), the internal thread
+18 to be wound securely with seal tape and then given a thin
+brush-coating of "liquid packing" (for this we specify Compound
+No.4 of Three Bond, Tokyo) before the valve is securely screwed
+
+into the provided lateral or receptacle.
+- b=
+
+LTats M 116pTA
+
+--- PAGE 145 ---
+The valve may then be screwed in with use of a spanner or a
+pipe wrench applied to the hexagonal of the seat (2). No
+attempt shall then be made to grip the cylindrical section of
+the valve housing with a pipe wrench or the like.
+
+(a
+
+With valves of flange-type, the comnection bolts may be tighten-
+ed up uniformly, with the sheet packing inserted with care to
+preclude its being pressed out to disturb fluid passage on
+
+tighting of bolts.
+
+Lt e 11 ara
+
+--- PAGE 146 ---
+___arProx.1000
+500
+
+Standard piping plan (dimensions)
+
+with short exhaust pipe
+
+The distance should
+not be exceeded.
+
+aPProx.Li
+
+T3
+L
+s
+
+|J
+
+Fig. 3
+
+Connection] T
+size it S face Prain
+o SLT (O Ty
+0 [PTITPS {10 T
+- psi¥e 100 1108 |RS ¥
+%0 PT 2158 21 7
+50 [P 2RI PSZW 140 1160
+Standard piping plan (dimensions)
+with long exhaust pipe
+- Exhaust pipe to be fixed,
+Exhaust independent of safety
+pipd valve, to solid struc-
+ture or the like.
+/
+/
+I Ina /
+ni.
+|
+3 = cance of 'tais
+§ clearance.
+L aesraxi:
+-y
+The distance should_ i
+not be sxcesded Li
+
+When exhaust pipe short:
+
+Elbow may be screwed direct
+into safety valve outlet port
+and exhaust pipe connected
+thereto.
+
+This may apply when exhaust
+pipe is up to ca 1 m long,
+by no means longer than 1.5 m.
+B s s o
+*1 ) Exhaust pipe may be |
+ﬁsczured with wire etc.
+stretched from nearby
+structure or the like.
+
+Drain discharge
+indispensable
+
+2 /Elbow to be screwed in
+{securely and set bolt
+(tightened up. A drilled
+{dent to be provided on
+lelbow to receive set bolt
+{ tip.
+
+Exhaust out of back pressure
+relief port may be allowed to
+escape direct into atmosphere.
+Escape pipe,if required,must
+
+/be designed as short as possible.
+The pipe for that may be very
+thin-walled (copper pipe ca.
+
+2 kg/cm? or less) since the back
+pressure is low.
+
+#hen long exhaust pipe is required:
+
+Elbow may be screwed direct
+into safety valve outlet port
+with a drip pan attached thereto.
+
+A piping of desired length may
+then be connected to the pan.
+
+The exhaust piping, independent
+of safety valve as it is, mst
+
+be fixed securely to solid struc-
+ture or the like.
+
+ge
+indispensable
+mectionCenter _prmin] ErEA
+
+size B e "o Femlfirelrt | Fig. 4
+
+LS L2 Dv 1 Del ba] Dy
+
+20 171 P3 1190 95 ins ilesom] 15 267" 2
+
+erirsih 15 2by
+40 w72 3211201135 p3karsYe, El -6 -
+O PT2RS K140 EWETTE
+
+Ll Tle . 116574 4
+
+--- PAGE 147 ---
+2.2. Installation of exhaust pipe
+With safety valves of full-bore type, proper arrangenent of
+exhaust pipe is of particular importance. Care must be exercised
+to ensure secure fixing of the pipe to the valve.
+
+Standard piping plans recommended for our models are shown in
+Fig. 3 and Fig. b.
+2.3. Hydraulic test gag
+2.3.1. When a boiler is subjected to hydraulic test, it is always
+advisable to have the safety valves removed and blind covers ¥
+fitted, for experience shows that the stem of the valve could
+be belt as it i5 kept pressed down during the test or dust or
+other foreign matters could find their way into the valve
+during the test to remain caught over seat face, thus inter-
+feréing with proper functioning of the valve
+
+If it is desired to have the test
+
+conducted without removing safety
+valves, as it may often be the case
+a hydraulic test gag must be fitted
+to have the stem kept pressed down.
+(See Fig. 5)
+
+This tap bolt to be screwed down
+
+(but by mo means forcibly) prior
+
+to hydraulic test or safety valve
+
+readjustment.
+
+Cap (14),  Top lever (13) to
+
+be removed and test gag set on
+
+adjusting bolt (12) by screwing
+
+down.
+
+Fig. 5
+
+LTaka e 114394
+
+--- PAGE 148 ---
+Since the disc of safety valve is pressed down under specific
+spring load corresponding to the specified blow-off or popping
+pressure, a very small application of force may be sufficient
+to have the valve locked against the hydraulic test pressure.
+It is always advisable to fasten the gag slightly after the
+test pressure has reached 80-90% of the safety valve popping
+pressure and remove the gag after the test pressure has come
+down below the popping pressure.
+
+2.3.2. In case more than two safety valves of different popping pressure
+settings are set on a boiler, the gag is to be used to lock the
+one with the lowest or lower poppint pressure.
+
+The procedures and hints given under 2,3.1. may apply in this
+case, too.
+
+3. ADJUSTMENT (Ref. Fig. 1, 5 and 6)
+
+Accidental blow-off of safety valve during edjustment can be hazardous
+and hence prior to adjustment it is essential to have the boiler pressure
+brought down to ca. 80-90 % of the specified popping pressure and, if
+possible, the stem pressed down with test gag.
+
+A. Adjustment of popping pressure
+
+This is normally superfluous, for our valves are delivered precisely
+
+adjusted to the pressure specified on the name plate.
+
+B. The data below may serve as guide for finding the number of turns
+to the adjusting bolt required for adjustment of popping pressure
+
+to the desired level.
+
+Safety valve size mm 20 25 4o 50
+Adj. bolt % turn 12.5%|10% | 7.5%|5 %
+L) 1 turn 25 % | 20%|15 %|10%
+
+- 8 -
+
+LIata T 116854
+
+--- PAGE 149 ---
+It may be understood that the extent of such readjustment normally
+should not exceed * 10% of the value specified on the name plate.
+
+In case readjustment beyond this limit is considered essential,
+please consult us. (Major readjustments far beyond the said limit
+might call for replacement of the spring.)
+
+Adjustment of closing pressure
+
+With this safety valve, the extent of blow-down pressure (difference
+between poppint pressure and closing pressure) is adjusted a little
+broader than specified on the name plate but since the effective
+value is subject to change according to the way it is installed etc.,
+adjustment in this respect has to be done on the spot.
+
+This, however, can be accomplished with ease by readjustment of the
+back pressure throttle valve, if the closing pressure of the valve
+
+not below ca. 1.5 kg/cm?.
+
+20) Back pressure throttle valve
+
+for easy accomplishment of
+minor closing pressure re-
+
+adjustments
+
+Back pressure throttle valve
+
+readjusted, this lock nut to be
+tightened up to ensure against
+displacement of valve position.
+
+can be displaced vertically
+
+by turning it in either
+direction. The ring is motched
+on the outer circumference.
+
+For displacing the ring on the higher
+side, it may be turned clockwise with
+aid of a driver applied to the teeth
+on ring circumference through the hole
+in the plug.
+
+Readjustment.over,the Adj.tiag rie(24) to be
+tightened up with its tip confirmed
+fit in the notch  on ring circum-
+Fig. & ference.
+
+LTaa e 1ibrTA
+
+--- PAGE 150 ---
+Purpose or sympton Condition
+
+(example)
+
+A. Popping pressure to be
+
+lowered
+
+L
+
+Popping pressure to be
+
+raised
+
+o
+
+Valve, blowing off,
+
+v
+would not pop clear. EM
+
+— time
+
+D. Too broad blow-down
+margin (Valve, after
+clear popping, is
+
+too slow in closing.)
+
+Ligt
+
+{\
+—
+rk\,
+
+— time
+
+-10 -
+
+Adjusting procedures
+
+Adjusting bolt (12) to be loosened
+by turning counterclockwise.
+Adjusting bolt (12) to be tightened
+by turning clockwise.
+
+Seal broke, ‘Fiagpu(24) removed
+(Ref. Fig. 6) and adjusting
+
+ring to be turned counterclock-
+wise by 10-20 notches. This
+
+may be followed by further
+advance in the same direction
+
+of 5 notches at a time, if
+
+valve performance could not be
+stabilized.
+
+Valve performance stabilized
+
+and closing pressure found
+approaching the desired level,
+back pressure throttle valve
+
+(20) to be adjusted by equiva-
+lent of 1/b - 1/6 turn clockwise.
+Back pressure throttle valve
+
+(20) to bescrewed in (clockwise)
+(1/2 - 1/6 turn at a time).
+
+If this would not work, adjust-
+ing Ting (6) to be advanced to
+the rignt 5 notches at a time.
+until proper blow-down margin
+
+is attained.
+
+L5t M 11 6BTA
+
+--- PAGE 151 ---
+E. Too narrow blow-down Back pressure throttle valve (20)
+margin to be screwedloose 1 - 1/2 turn
+(Valve is too quick at a time (counterclockwise).
+
+to close after popping, “ /\/\/\/1 If this would not work, adjust-
+
+or blowing unstable ing ring (6) to be advanced to
+despite sufficient lift.) the left (counterclockwise) 5
+notches at a time.
+Valve performance confirmed
+stabilized, blow-down margin to
+be adjusted by screwing back pres-
+
+sure throttle valve clockwise
+
+(1 - 1/6 turn at a time).
+
+-1 -
+
+L5eta e sreata
+
+--- PAGE 152 ---
+., DISASSEMBLY AND REASSEMBLY
+
+Reference is made to Fig. 7.
+
+For facilitating reassembly it is advisable to have the pocitions of individual
+adjustable parts accurately measured and recorded on disassembly.
+
+A. Disassembly procedures
+
+The order of procedures described below
+to be observed for rational disassembly.
+
+1) Unlocked, pin (15) extracted
+and  Top lever (13) dis-
+connected from stem (9).
+
+2) Setscrew (36) loosened, cap,
+(14) removed and nut (18) \
+screwed off stem (3).
+
+S
+\
+3c)Adjusting bolt and nut (12)
+loosened. N
+~
+
+4) Screw (37) screwed off UPsr,
+block (30).
+
+5) Seal broken and set bolts (34)%
+
+(35) removed.
+
+Screw joining seat (2) with|
+Body (1) loosened by knock-
+
+ing on with wooden hammer at|
+
+point (P) of short pipe or
+
+elbow screwed in.
+
+Seat (2) then removed.
+
+[
+
+Secrews are all right-handed.
+
+3a) Counter-marks to be
+applied on disassembly.
+(Relative positions of
+adjusting bolt and
+housing to be marked.)
+
+3b) This distance to be
+measured and recorded.
+
+7) These distances to be
+% measured and recorded.
+
+]
+
+SRR Uit
+
+10
+
+Adjusting ring (6) and
+1ift limiting plate (17)
+taken out. Lift stopper
+can be taken out
+easily with aid of Top
+lever (13). (Ref. Fig. 8)
+
+11) Stem (8) and spring (11)
+taken out to complete
+
+disassembly. ~
+
+9) Disc (4) and disc
+holder (5)
+taken out.
+
+Fig. 7
+
+5 -
+
+LTula e i erTAp
+
+--- PAGE 153 ---
+Drilled hole in lift
+limiting plate:
+
+In reasembling, tip
+of set bolt (34) to
+be fitted into this
+shallow hole.
+
+(17) Lift stopper
+
+13) Top lever
+
+Lift limiting plate
+can be taken out with
+ease by applying the
+forked end of the lever
+to the projections on
+the plate and turning
+the lever counterclock-
+wise.
+
+i
+
+Fig. 8 -
+
+B. Reassembly
+
+For reassembly may be simply reversed the procedures given for .
+disassembly.
+
+Prior to reassembly, all parts to be thoroughly cleaned and repaired.
+Stem tip, spring shoe, spring clamp and stem-adjusting bolt contact
+face to be coated with molybdenum disulfide or graphite (dissolved in
+mineral 0il) for lubrication. Recorded positions of lift limiting
+
+plate, adjusting ring, adjusting bolt etc. to be carefully observed
+in reasembling.
+
+13-
+LI Ao iasgy
+
+--- PAGE 154 ---
+5. LAPPING AND REPAIR
+The disc and seat of this safety valve can be easily lapped on
+a lapping plate with use of a proper type of lapping compound.
+As lapping compound is to be chosen # 600 kneaded with purified
+rape oil ("shirashimeyu") .to non-flowing consistency.
+Hints on lapping:
+1. Both lapping plate and parts to be kept clean.
+2. Excessive application of compound to be avoided.
+3. Lapping to be performed with lapping plate or disc in an alter-
+nate turning motion and pressed on lightly.
+4. Lapping plate be precisely finished and kept well repaired.
+5. Lapping of disc against seat to be avoided.
+Practically, this valve calls for no repair work beyond lapping
+on the part of users and should there be any parts calling for repair,
+
+our service department is to be commanded or such parts mailed to us.
+
+Hys
+
+Llata 7. 116874
+
+--- PAGE 155 ---
+INQUIRY ABOUT THIS SAFETY VALVE
+
+Our safety valves have their Greem-coloured name plates of oval shape
+
+about the center of their valve bodies. The manufacturing namber "Serial
+
+No. R-XX" engraved on these name plates are the idnetification numbers of
+
+these safety valves. -
+Therefore, in making inquiry about these safety valves, be sure to
+
+refer to these R-XX manufacturing numbers.
+
+Identification
+number
+
+TOA VALVE co.
+FULL BORE SAFETY VALVE
+
+SERTAL NO
+
+SIZE mm THROAT DIA,EI mm  SEAT m:l-
+SET PRESSURE :]kg/cnz BLOW DOWK| kg /e
+capacIry [ Jkg/m TEMPERATURE %
+
+e —
+
+-15 -
+
+LTatn T, rrieTA
+
+--- PAGE 156 ---
+HANDLING MANUAL
+
+PEFLEX WATER LEVEL GAUGE
+TYPE: R-Z & N-ABS
+
+OSAKA ZOKI VALVE IND, CO., LTD.
+5-28, Shigino-higashi 3-chome,
+Joto-ku, Osaka 536
+
+Tel. 06 - 961 - 1421
+
+--- PAGE 157 ---
+WATER LEVEL GAUGE (REFLEX TYPE)
+
+INSTRUCTION MANUAL
+
+(TYPE RZ )
+
+This water level gauge (reflex type) is usually sent out from our factory
+in the following packages:
+
+1)
+
+2)
+
+3)
+
+5)
+
+Water level gauge (with lower cap nut)
+
+Upper cock, lower cock and drain cock
+(The drain cock is set with the lower cock.)
+
+Marine parts: Wires
+Wire parts (shackles, wire courses and wire clips)
+Handles (6 handles)
+Handle stoppers (to be mounted to the cock flanges)
+
+Spares : Water level gauge
+Cauge glass (with gasket)
+Sleeve packings
+Gland packings
+Copper sheet packings (for only the lower lead pipe!
+
+Tool : Sleeve packing replacing tool
+
+Water Tightness Test before Operation
+
+A complete water tightness test has been carried out for this instrument
+with the specified water pressure before the shipment from our factory.
+However, checks have to be made for any changes in transit and in handling.
+When this instrument is mounted for a newly imstalled boiler or a boiler in
+shutdown, carry out the following water tightness test for the water level
+gauge including the gauge cocks at the time of the boiler starting test.
+
+1
+
+2)
+
+3)
+
+Open the drain cock and close the upper and lower cocks. First, check
+the gas tightness of the upper and lower cocks (especially the opening
+and closing elements).
+
+Next, close the drain cock and open the upper and lowgr cocks. Make the
+tightness checks for the whole of the water level gauge and cocks
+
+1f any leakage is found in the test, take the corrective actions in
+accordance with Item 4, Maintenance.
+
+Precautions for Operation
+
+1)
+
+In the water level gauge sent out from our factory, there is a balance
+kept between the bolt tightening force and the gas tightness of each
+part by the hydraulic test under the ordinary temperature. Therefore,
+when this instrument is installed to the boiler in operation and also
+when the pressure and temperature are raised from the ordinary condi-
+tions along with the boiler pressure increase, take care to avoid a
+rapid pressure and temperature application to the water level gauge.
+
+--- PAGE 158 ---
+2)
+
+3)
+
+4)
+
+In operation and. in pressure raise, use caution to find out leakage.
+Give a tightening to the bolt and nut of the part where any leakage
+occurs. Also after the pressure is raised to the specified value,
+check for any leakage. Even if there is no leakage, give a slight
+tightening to each bolt of the water level gauge.
+
+At the start-up of the boiler, repeat water blowing until clean water
+is recognized so that the good conditions for the water level gauge
+will be kept in the boiler system. During operation, except when the
+water is polluted, water blowing is not desirable so far as the water
+level is fluctuating.
+
+When the boiler is in operation, always make a leakage check and give
+a tightening when necessary. Thus, parts consumption must be minimized.
+
+4. Maintenance
+
+4=1.
+
+Disassembly and Reassembly of Water Level Gauge
+
+After the lapse of the service'life, the prism surface of the reflex
+type gauge glass wears out and loses reflectivity and as a result the
+water level becomes invisible. As the gauge glass and sheet packings
+are damaged, it becomes impossible to stop leakage with tightening of
+the water level gauge bolts and nuts. In such a case, disassemble the
+water level gauge and replace the worn-out parts in the following pro-
+cedure:
+
+1) Detach the water level gauge from the upper and lower cocks.
+Disassemble the water level gauge preferably when it is still in
+hot condition (this will facilitate the removal of the packings).
+
+2) Place the water level gauge on a working bench, loosen the bolts
+and nuts and remove the cover.
+
+3) As the gauge glass is sticking to the level gauge body through
+packings, slightly rap the side with a wooden hammer to remove the
+glass. If this disassembly is made in an early time, the gauge
+glass may be re-used if only the packings are replaced. In such
+a case, therefore, remove the glass carefully not to break it
+
+4) Remove the packings carefully not to damage the gas tightness of
+the water level gauge body (the surface of contact with the packings).
+Clean out the residual dirts.
+
+For the reassembly of the water level gauge, the above procedure is to
+be reversed. Follow the below instructions, referring to Figure A
+
+1) Attach the sheet packing to the gas tihgt surface of the water level
+gauge, using the following precautions:
+
+a. Be sure to apply graphite paste to both sides of the sheet
+packing. It will facilitate the removal of the packing when
+gauge is disassembled.
+
+b. As the sheet packing is hollowed out in the center part, it is
+likely to deform to narrow the cut-out area. When the packing
+is placed, care should be taken to keep the specified level
+gauge window area.
+
+--- PAGE 159 ---
+2)
+
+3)
+
+4)
+
+On the sheet packing, place the gauge glass with the prism side
+directed toward the liquid chamber.
+
+Then, attach the cushion packing (asbestos plate) to the gauge
+cover and connect the gauge caver to the gauge glass. For setting
+the gauge caver, set the U bolt at the center to fix the cover
+temporarily and then set the other U bolts. As there is some allow-
+ance between the gauge glass and glass groove, carefully center the
+cover, gauge glass, and water level gauge body.
+
+For tightening the bolts and nuts, follow the instructions of Item
+4=2.
+
+Tightening of Level Gauge Bolts and Nuts
+
+Troubles such as gauge glass breakage and early-time leakage from the
+gauge glass in boiler operation are said to be, in most cases, caused
+by uneven tightening of bolts and nuts in reassembly of the level gauge.
+This means that the tightening of the bolts and nuts is the most impor-
+tant of various water level gauge maintenance works. Follow the below
+instructions:
+
+5}
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+Note that the water level gauge contains glass-ware and it belongs
+to delicate measuring instruments. Therefore, the tightening of
+the bolts and nuts must be made with the utmost care.
+
+Set all the bolts and nuts hand-tight with an even torque. It is
+important to tighten them suitably to the extent that leakage can
+be prevented. Avoid uneven tightening.
+
+Tightening is to be repeated several times with light hand motion
+as follows: For the first and second tightening, follow the numer-
+ical order given in the below sketch (the order from the center to
+the ends). For the third and fourth tightening, reverse the numer—
+ical order (i.e. from the ends to the center).
+
+DOOOEE®
+) Y CH— i
+elolelelelel
+
+For the fifth and sixth tightening, again follow the numerical
+order (i.e. from the center to the ends).
+
+In the last tightening, leave some tightening allowance by saving
+the hand force. If any leakage is found after the level gauge has
+been placed in service, give an additional tightening in the manner
+specified above.
+
+In reassembly, too strong tightening can cause the gauge cover to
+bend or cause the gauge glass to break due to pressure application
+heat expansion in service.
+
+--- PAGE 160 ---
+7
+
+In the last tightening, take case so that the tightening torque of
+the uppermost and lowermost bolts (4 bolts) will be kept at half
+
+the torque of the other intermediate bolts. The reason is that,
+
+as seen in the sketch, the uppermost and lowermost bolts (4 bolts)
+are located outside the gauge glass and, therefore, too strong
+tightening may cause the glass ends to break when the gauge is placed
+in service.
+
+Additional Tightening and Replacement of Sleeve Packings
+
+When the inside surfaces of the sleeve packings wear out with the cock
+plug opening and closing motion, leakage will occur from the cover nut
+
+or tightening nut (shown in Figure B). In such a case, give an additional
+tightening or replace the packings in accordance with the following in-
+structions:
+
+1
+
+2)
+
+3)
+
+Tighten the tightening nut. The sleeve packings will be pressed
+toward the cock plug So as to recover the gas tightness and stop
+the leakage.
+
+Every time when leakage is found, immediately give an additional
+tightening.
+
+If such an additional tightening cannot stop the leakage, it indi-
+cates the loss of elastivity of the packings. Replace the sleeve
+packings, following the below procedure:
+
+a. Remove the handle, tightening nut and cover nut.
+
+b. Extract the cock plug toward the handle side. If it cannot be
+extracted by hand, apply an iron bar of about 10mm in length
+to the bottom of the cock plug and rap the bar to extract it
+out.
+
+c. Then, apply the sleeve packing replacing tool (shown in Figure
+C) to the bottom of the packings. Rap out the packings toward
+the handle side.
+
+d. For insertion of new sleeve packings, use the sleeve packing
+replacing tool and drive the packings into the cock body from
+the handle side.
+
+e. Put the packing boss just in the groove of the cock body and
+insert the packings so that the periphery of the packings will
+be located at the position 1lmm deep from the cock body periphery.
+
+f. Mount the cover nut, and keep a clearance of about lmm between
+the cover nut and cock body.
+
+g. Then, the cock plug is inserted. Apply the iron bar (indicated
+in Item b above) to the bottom of the cock and drive in.
+
+h. Mount the cover nut and tightening nut.
+i. Mount the handling.
+
+j. Make an air (or water) passage test.
+
+--- PAGE 161 ---
+Replacement of Gland Packings
+
+When the cap nut tightening cannot stop the leakage from the gauge cock
+and level gauge connecting part, replace the gland packings, following
+the below instructions:
+
+1) Remove the upper and lower cap nuts and packing gland, and push up
+the gland packing.
+
+2) Disconnect the lower lead plpe from the lower cock, and extract the
+upper lead pipe.
+
+3) Smash the gland packings with use of a chisel, and remove them com-
+pletely. Clean the stuffing box.
+
+4) Drive in new gland packings to the position just lower than the
+specified position of the upper lead pipe. Then, plunge the upper
+lead pipe into the upper cock.
+
+5) Gland packings must be replaced every time when the water level
+gauge is disassembled. However, copper packings can be re-used
+after they are annealed.
+
+6) Then, carefully drive the gland packings into the stuffing box and
+mount the packing gland and upper cap nut.
+
+7) Tighten the cap nuts in the order of the lower cap nut and upper
+cap nut.
+
+Other Precautions
+
+At periodical maintenance, disassemble the water level gauge and carry
+out the replacement of consumables and the cleaning of the gas (water)
+passage holes. Apply graphite paste to each threaded part before re-
+assembly. Check the gas tight surface of the water level gauge for any
+distortion or erosion. When necessary, repair or replace them.
+
+--- PAGE 162 ---
+Parts Ordering Instructions
+
+For replacement parts, please place an order with JKK (Nihon Keiki Co., Ltd.)
+or the agent with the necessary information as requested below:
+
+(1) Parts name, material and type
+
+Example: JKK sleeve gauge cock SF45 N-ABS Type
+
+(2) Parts name and size
+
+Example: Sleeve packing 4B/18
+
+Gland packing Inner diameter § 16
+
+Cauge glass
+
+--- PAGE 163 ---
+= Plgure A =
+
+BANDLE STOPPER
+
+CLEANING PLUG
+PACKING
+UPPER GAUGE COCK BODY
+GLAND PACKING
+PACKING GLAND
+
+WATER LEVEL GAUGE
+
+COPPER_SHEET PACKING
+LOWER GAUGE COCK_BODY
+CHECK BALL
+
+CLAND PACKING

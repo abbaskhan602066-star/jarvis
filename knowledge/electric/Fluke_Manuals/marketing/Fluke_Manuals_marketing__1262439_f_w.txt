@@ -1,0 +1,2006 @@
+FILE: 1262439_f_w.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 10:34:25.655680
+==================================================
+
+
+--- PAGE 1 ---
+FLUKE.
+
+HART® Transmitter
+Calibration
+
+Applica
+
+Introduction
+
+In today’s process plants, most
+new field instruments are smart
+digital instruments. Smart im-
+plies a microprocessor-based
+instrument with extra functional-
+ity and digital compensation,
+supporting multiple sensor types
+or multiple variables. These n-
+struments generally offer better
+accuracy, long-term stability,
+and reliability than conventional
+analog instruments.
+
+‘The most common class of
+smart instruments incorporates
+the HART protocol, with more
+than five million HART instru-
+ments in use in 100,000 plants
+worldwide. HART, an acronym
+for Highway Addressable Remote
+Transducer, is an industry stan-
+dard that defines the communi-
+cations protocol between smart
+field devices and a control sys-
+tem that employs traditional
+4-20 mA wiring.
+
+‘Two capabilities are required
+to properly service HART instru-
+ments: precision analog source
+and measure capability and digi-
+tal communication capability.
+Until recently, this required two
+separate tools, a calibrator and a
+communicator. Today, the capa-
+bilities of those two tools are
+available in a single HART Docu-
+‘menting Process Calibrator that
+can help you quickly and effec-
+tively service HART instruments.
+
+From the Fluke Digital Library @ www.fluke.com/library
+
+--- PAGE 2 ---
+HART calibration
+is required!
+A common misconception is
+that the accuracy and stability
+of HART instruments eliminate
+the need for calibration.
+Another misconception is that
+calibration can be accomplished
+by re-ranging field instruments
+using only a HART communica-
+tor. Still another misconception
+is that the control system can
+
+Temotely calibrate smart instru-
+
+ments. These are not true. All
+
+instruments drift. Re-ranging
+with just a communicator is not
+calibration. A precision calibra-
+tor or standard is required.
+
+Regular performance verifica-
+
+tion with a calibrator traceable
+
+to national standards is neces-
+sary due to:
+
+1. Shifts in performance of
+electronic instruments over
+time, due to exposure of the
+electronics and the primary
+sensing element to tempera-
+ture, humidity, pollutants,
+vibration, and other field
+environmental factors.
+
+2. Regulations governing occu-
+pational safety, consumer
+safety, and environmental
+protection.
+
+3. Quality programs such as
+150 9000 standards for all
+instruments that impact
+product quality.
+
+4. Commercial requirements
+such as weights, measures,
+and custody transfer.
+
+Regular calibration s also pru-
+dent since performance checks
+will often uncover problems not
+directly caused by the instru-
+‘mentation, such as soli
+congealed pressure lines, in-
+stallation of an incorrect ther-
+mocouple type, or other errors
+and faults.
+
+A calibration procedure con-
+sists of a verification (As Found)
+test, adjustment to within ac-
+ceptable tolerance i necessary,
+and a final verification (As Left)
+test if an adjustment has been
+made. Data from the calibration
+are collected and used to com-
+plete a report of calibration,
+documenting instrument per-
+formance over time.
+
+Al instruments, even HART
+instruments, must be calibrated
+on a regular, preventive main-
+tenance schedule. The calibra~
+tion interval should be set short
+enough to insure that an in-
+strument never drifts out of
+tolerance, yet long enough to
+avoid unnécessary calibrations.
+Alternatively, the interval may
+be determined by critical pro-
+cess requirements, e.q., calibra-
+tion before each batch.
+
+FLUKE -
+
+How are HART
+instruments properly
+calibrated?
+
+o calibrate a HART instrument
+consistent with its application, it
+is very helpful to understand the
+functional structure of a typical
+HART transmitter. The article in
+Appendix A, by Kenneth L.
+Holladay of Southwest Research
+Institute, describes a typical
+HART instrument and defines
+both proper and improper cali~
+bration practices. Oriinall
+published in Intech, May 1996, it
+is reprinted with permission of
+the author.
+
+Note: I you are unfariliar with HART
+calibration or need a review,tis is an
+excellent poiat tostop and read the artice
+in Appendix A. It coversthe basics of HART
+instrumentation and addresses isses critical
+o instrument maintenance.
+
+HART instruments consist of
+three distinct sections (see
+Figure 1). Proper HART calibra~
+tion may involve either or both
+sensor trim and output trim.
+Adsting range values LRV and
+URV) without a calibrator is not
+calibration. Performing an output
+trim while ignoring the input
+section is not proper calibration.
+Adjusting range values with a
+calibrator may be a practical
+calibration alternative for instru-
+ments operated in 4-20 mA
+analog mode, provided that the
+PV and PVAO are not used for
+process control.
+
+Analog Sensnr» Input PV | Conversion PVAO» Output |4-20 mlx> Analog
+Input Section digtal Section \digtal Section ‘mA Output
+input) 420 mA)
+Sensor Trim LRV/URV Adjust Output Trim
+Figue 1
+
+2 Auke Corporation  Hart Transmiter Calibration
+
+--- PAGE 3 ---
+FLUKE -
+
+Model Number
+
+PV
+(Primary Variable}
+
+PuR0
+(Digial epresertation
+ofthe Primary Variable
+
+‘Analog Output)
+
+Analog Measure Value
+Analog Source Value
+TagID
+
+VLRV
+{Primary Variable
+Lover Range Value]
+
+PV URY
+{Primary Variable
+Upper Range Vale)
+
+Figue 2
+
+New tool speeds
+calibration
+
+Today, instrument maintenance
+is moving out of the shop and
+into the field. This reduces pro-
+cess interruptions and avoids
+the time and expense of return-
+ing instruments to the shop.
+Portable communicators and
+calibrators are often used to-
+
+gether to complete field calibra~
+tions. However, the desire to
+carry less equipment and to
+perform maintenance in the
+field has created a need for a
+new class of calibration tool.
+The new 744 Documenting
+Process Calibrator from Fluke is
+the first powerful yet easy-to-
+use tool for field calibration of
+HART instrumentation. Pressing
+
+3 Auke Corporation  Hart Transmiter Calibration
+
+a single key enters the HART
+mode and displays the essential
+HART information in the Active
+Device Screen, shown in Figure
+2. Additional HART functionality
+is accessed with only a few
+more keystrokes, per the menu
+tree in Figure 3.
+
+--- PAGE 4 ---
+FLUKE -
+
+*View process. +Tag (| Kevpadinput
+variables PV s +Adijust URV, LRV to
+Process +View variable Basic © LRV, URV applied values
+map +Damping
++Re-map process  Transter function
+varables Sensar 1
+(Dusl snser ~Sensor seial mmber
+pee Detailed « Contig Sensor . mﬁf’ and
+evice (coriolis} « Config Output . umspan
+[[| Temperature
+Sensor devices orly:
+~Change Sersor Type
++Change Sensor
+Connections
++Software Version
+o +Final assembly number R—
+Setup Hentifcation [~ +LV-URV +Change Sensor Type
+Damping f— * Change Sensor
++ Manster function Coneions
+(Dual sensor
+temperature devices)
+HART ‘ .
+A Dol senn oy
+| temperature devices)
+Loop teat: *+ Manufacturer
+Service .
+Pressure Model *« Write protect
+zerotrim HART Meeatiitnd « Alamm state:
+Information - Software revision
+* HART poll address
+Outgt trim . jare revision
+® Hardw « HART burst mode
+Sensor trim * Bumbex of preanttles * HART burst command
+Abort
+Fgue 3
+
+No communicator is
+required!
+
+The 744 requires no external
+box or communicator for every-
+day HART calibration and main-
+tenance. It supports many
+popular models of HART trans-
+‘mitters, with more device-
+specific command support than
+any other HART field calibrator.
+
+4 Puke Corporation  Hart Transmiter Calibration
+
+Interrogate HART devices to
+determine type, manufacturer,
+model, tag-ID, PV, and PVAO
+Perform automated HART
+sensor trim and output trim
+for selected devices
+
+Adjust ranging, damping, and
+other basic process-configu~
+ration settings
+
++ Read and write HART tag and
+message fields to re-label
+smart transmitters
+
++ Clone additional transmitters
+with basic HART configuration
+data
+
+--- PAGE 5 ---
+Versatile HART protocol
+support
+The 744 supports the commands
+contained in HART protocol ver-
+sion 5.7. With 2 MB of memory,
+the 744 supports a substantial
+set of HART instructions:
++ Universal commands —
+provide functions that are
+implemented in all field
+devices, for example, read
+manufacturer and device
+type, read primary variable
+(PV), or read current output
+and percent of span
+Common practice com-
+‘mands — provide functions
+that are common to many but
+not all field devices, for
+example read multiple vari-
+ables, set damping time, or
+perform loop test
+« Device-specific commands —
+provide functions that are
+unique to a particular field
+device, for example sensor
+trim. The 744 Version 2.5
+supports these devices:
+
+HART operating modes
+supported
+
+« For Point to Point operation,
+the most commonly used
+
+mode, connects the 744 to a
+
+single HART device in a 4-20
+
+mA loop.
+
+In Multi-Drop mode, several
+
+HART instruments can be
+
+bussed together. The 744
+
+searches for each, identifies
+
+addresses in use, and allows
+you to select the instrument
+
+Tor calibration and related
+
+operations.
+
+« In Burst Mode, the HART
+instrument transmits bursts of
+data without waiting to be
+interrogated by a master unit.
+The 744 can take transmitters
+out of burst mode during test
+or calibration, then later
+restore them to burst mode.
+
+Is there still a role for the
+communicator?
+Commissioning a HART instru-
+‘ment or modifying HART vari-
+ables not supported by the 744
+requires the use of a communi-
+cator. The 744 is designed to
+
+perform the vast majority of
+day-to-day operations you nor-
+mally perform with a separate
+communicator. The HART capa-
+bility of the 744 is comparable
+to that of the model 275 HART
+communicator, with the excep-
+tion of the DD interpreter. While
+the DD interpreter enables the
+275 communicator to read com-
+mand set libraries from any
+HART supplier, it offers capabili-
+ties far beyond these generally
+required for daily HART instru-
+‘ment maintenance.
+
+HART calibration
+applications
+
+The following examples demon-
+strate how the 744 makes HART
+calibration an efficient opera-
+tion. The 744 enables easy
+hookup using its HART cable,
+fast access to the most impor-
+tant HART data, automatic
+branching to appropriate adjust-
+‘ment choices, automatic
+completion of test templates,
+and automatic fetching and
+sending of analog readings
+during tim.
+
+Manufacturer | Pressure Instruments | Temperature Instruments | Coriolis Instruments
+‘ABB/Kent-Taylor 600T 6581
+ABB/ Contrans P,
+Hartmann & Braun| __ AS 800 Series
+Endress & Hauser CERABAR S, TMT 122", TMT 182",
+CERABAR M, TMT 162!
+DELTABAR §
+Foxboro Eckardt TI/RTT20"
+Foxboro/Invensys 1/A Pressure
+Fuji FCX FRC
+FCXAZ
+Honeywell ST3000 STT25T', STT25H"
+Micro Motion, 2000
+200018
+9701
+9712
+9739
+Moore Products 3840
+Rosemount 1151 3044C
+2088 644
+3001C 3144
+3051, 30518 3244, 3144p
+Siemens SITRANS P DS
+SITRANS P ES
+SMAR LD301 TT301"
+Viatran 1/A Pressure
+Wika UNITRANS T32H'
+Yokogawa EIA YIA 110, 310 and 320
+Table 1 “Sensor Trim not supporied
+
+5 Fluke Corporation
+
+Hart Transmitter Calibration
+
+FLUKE -
+
+--- PAGE 6 ---
+6 Fuke Corporation
+
+Calibration of a
+Rosemount 3051 HART
+Pressure Transmitter
+
+Basic connections
+This example assumes that the
+transmiltter is isolated from the
+process and is not electrically
+connected to a loop power sup-
+ply. Make basic connections to
+the 3051 per the diagram in
+Figure 4. Polarity of the HART
+communication connection is
+not important. A separate
+
+250 ohm resistor is not neces-
+sary because the 744 incorpo-
+Tates a resistor in series with
+the 24V loop supply through its
+mA jacks. The 3051 in this ex-
+
+ample is configured for psi units.
+
+Procedure
+
+1. Power on the Fluke 744
+Calibrator. Press the red
+key followed by the Loop
+Power softkey and the 744
+will display the basic HART
+information for the 3051
+
+[Figure 5).
+R e e
+[ e ]
+Sarce  Off
+3051 P13573 3
+PV 01530 poi
+PYAO 44870 mA
+PV LRV 0.0000 i
+PV IRV 5.0001 pa
+
+anort | service Procsss
+
+Figue §
+
+FLUKE »
+
+2.Press the B key again and
+you are prompted to select
+the 744 configuration (Figure
+6). Selecting MEAS mA,
+SOURCE psi will configure
+the calibrator to measure the
+analog mA output and the
+pressure being applied si-
+‘multaneously to the trans-
+mitter input and the pressure
+module. {Selecting MEAS PV,
+SOURCE psi will configure
+the 744 to evaluate the digi-
+tal PV output from the trans-
+mitter Press £z to select.
+
+(027 <733 02305 B
+MEaEe
+Source
+
+Tom 207 3
+4.455mA
+
+[P13s79 3 ort
+
+[Select calbvator mode of operation
+Dor't change c: 3
+
+JERS ma, S
+MEAS PV, SOLRCE psi
+
+abort
+
+Figure 6
+
+10783ma
+
+ool
+
+HART Cannection
+
+= -
+
+‘mA easure, 24V Loop
+
+Figue 4
+
+Hart Transmitter Calibration
+
+--- PAGE 7 ---
+3. Vent the pressure line and
+press () to zero the pressure
+module: Press the As Found
+softkey, and then press (3
+to select Instrument for a
+linear transmitter calibration.
+(If the 3051 is configured for
+square root output, select
+v~ Instrument) Notice that
+the calibration template is
+automatically completed with
+the exception of Tolerance.
+Fill in the appropriate test
+tolerance and press Done.
+
+. Press the Manual Test
+softkey to begin calibration.
+Apply the input pressures as
+instructed in the SOURCE
+screen. Press the Accept
+Point softkey when the cor-
+Tect pressure is applied for
+each point. When the test is
+complete, the error summary
+table is displayed (Figure 7).
+Test errors exceeding the
+tolerance are highlighted.
+When done viewing the
+table, press the Done softkey.
+Press Done again to accept,
+or & to change the tag,
+serfal number or ID fields.
+
+(OB 5758 T3005T i ___Loon 247 T
+SOURCE  MEASURE ~ ERROR
+0.003psi 4.487mA
+250205 1e.382mA
+5.003ps 2D.zEBmA
+
+Frev.
+Page
+
+Text
+
+aport [
+
+Done
+
+Figure 7
+
+7 Fuke Corporation
+
+5. If the As Found test failed
+(ie., there were highlighted
+errors in the error summary
+table), adjustment is neces-
+sary. Press the Adjust
+softkey. Select Sensor Trim
+and press fw). (Do not select
+Pressure Zero Trim. It is the
+same as trimming the lower
+sensor point at zero, which is
+useful for pressure transmit-
+ters that do not offer Sensor
+Trim.) The 744 screen should
+look like Figure 8.
+
+[T27TS730 032077 b Toon 20
+MEaEe
+Source
+
+"
+0.014ps
+
+P13579 3
+[select sensar trim aperation
+i~
+
+Perform user trm  lower
+Perform user trim - upger
+Select factory data.
+
+abort
+
+Figue 8
+
+6. Select Perform user trim —
+both and press fw. Zero the
+pressure module (vented to
+atmosphere) by pressing ().
+Press the Continue softkey
+and you are prompted for the
+Lower Trim value. For best
+results, apply the LRV pres-
+sure and press Fetch to load
+the value being measured by
+the pressure module. Press
+Trim. Then press Continue
+to move to the Upper Trim.
+As before, apply the URV
+pressure, press Petch, and
+press Trim. If the 3051 is
+used with the digital PV
+output, skip to step 8 and
+perform the As Left test. If
+the 4-20 mA analog output
+is used in the process, con-
+tinue on to step 7.
+
+Hart Transmitter Calibration
+
+2. Seleot Output Trim and
+press fe). The value of the
+primary Variable (PVAO) is in
+the upper right comer of the
+display. This is normally a
+4 mA signal. The mA value,
+as constantly measured by
+the Fluke 744, s in the cen-
+ter of the display. Press the
+Fetch softkey to load the
+measured mA value. Press
+Send to send the value to
+the 3051 to trim the output
+section for the 4 mA value.
+Press Continue for the 20
+mA trim and repeat this step.
+
+8. After completing Output Trim,
+press the Done softkey and
+proceed with the As Left
+verification test. Press the As
+Left softkey. Press Done and
+then press Manual Test.
+Apply the requested pres-
+sures and press Accept Point
+when the readings are
+stable. On completion an
+error summary table is dis-
+played. If none of the erors
+are highlighted (Figure 9),
+the 3051 passes the calibra-
+tion test. If errors are high-
+lighted, the test has failed
+and further adjustment is
+required. Return to step 5 for
+adjustment of the 3051.
+
+FLUKE »
+
+(DB SIS (35840 o Lo
+SOURCE MERSURE
+
+3.999m4
+
+EriTen)
+ERROR
+0.001psi
+
+2.500p  11.997m4
+5.000p  19.998m4
+Frev. | Nexl
+et | P | LB | oone
+Figued
+
+--- PAGE 8 ---
+8 Auke Corporation
+
+Calibration of a
+Rosemount 3144 HART
+Temperature Transmitter
+
+Basic connections
+This example assumes that the
+transmiltter is isolated from the
+process and is not electrically
+connected to a loop power
+supply, Make basic connections
+to the 3144 per the diagram in
+Figure 10. Polarity of the HART
+communication connection is
+ot important. A separate
+
+250 ohm resistor is not neces-
+sary because the 744 incorpo-
+Tates a resistor in series with
+the 24V loop supply through its
+mA jacks. The 3144 in this ex-
+ample is configured for a type K
+thermocouple sensor with a
+span of 0~300 °C.
+
+Procedure
+
+1. Power on the Fluke 744
+Calibrator. Press the red
+key followed by the Looj
+Power softkey. Press (= to
+bypass the warning screens
+and the 744 will display the
+basic HART information for
+the 3144 (Figure 11).
+
+(73703733 120045 b __Loon 207
+MEaEe oA
+
+sorce  0.0°C
+
+3144 Temp TT0023
+PV
+PvAO
+PV LRV
+PV LRV
+
+0.2 °C
+3.9900 ma
+0.0
+300.0 °C
+
+aport | service Procsss
+
+Fguee 11
+
+FLUKE »
+
+2. Press the (&) key again and
+you are prompted to select
+the 744 configuration (Fig-
+ure 12). Selecting MEAS mA,
+SOURCE T/C typ K config-
+ures the calibrator to mea-
+sure the analog mA output of
+the transmitter and source
+the correct temperature
+stimulus at the 3144 input.
+{Selecting MEAS PV,
+SOURCE T/C typ K will
+configure the 744 to evalu-
+ate the digital PV output
+from the transmitter) Press
+[e=) to select.
+
+HART Connection
+
+Figure 10
+
+Hart Transmitter Calibration
+
+--- PAGE 9 ---
+3,997
+0%
+
+MEaEe
+Source
+
+Figure 12
+
+3. Press the As Found softkey,
+and then press £ to select
+Instrument for a linear
+transmitter calibration. Notice
+that the calibration template
+is automatically completed
+with the exception of the
+Tolerance. Fill in the appro-
+priate test tolerance and
+press the Done softkey.
+
+. Press the Auto Test softkey
+to begin calibration. Once
+the test is complete, an error
+summary table is displayed
+{Figure 13). Test errors ex-
+ceeding the tolerance are
+highlighted. When done
+viewing the table, press the
+Done softkey. Press Done
+again to accept, or f=3 to
+change the tag, serial num-
+ber or ID fields.
+
+(OB 7798 D738 b ___Toon 247 Tl
+SOURCE ~  MEASURE ~ ERRORT
+0.0°C 3.948mA
+150.0°C  11.97zmA
+300.0°C  22.000ma
+
+-0.17)
+
+Frev. | Next
+
+aport Done.
+
+Page | Page
+
+Figure 13
+
+9 Auke Corporation
+
+5. If the As Found test failed
+(L., there were highlighted
+errors in the error summary
+table), adjustment is neces-
+sary. Press the Adjust softkey.
+Select Sensor Trim and
+press (). Select Perform
+user trim — both and press
+F2=). The 744 screen should
+look like Figure 14.
+
+[T27T778 023 b Toop 20
+[ a—]
+
+Last T -25.8 °C
+744 Sowce 0.0°C
+
+ENTER valie in the range:
+-180.0 to 1372.0 °C
+
+Lower Trin: c
+
+abort Wy | T
+
+Figure 14
+
+6. For best results, press LRV to
+apply the LRV for the Lower
+Trim value. Press Trim and
+then Continue to move to
+the Upper Trim. Press URV,
+press Trim, and then press
+Done. If the 3144 is used
+with the digital PV output,
+skip to step 8 and perform
+the As Left test. If the analog
+4-20 mA output is used in
+the process, continue on to
+step 7.
+
+7. Select Output Trim and
+press [, The value of the
+primary variable (PVAO) is in
+the upper right comer of the
+display. (Figure 18). This is
+nomally a 4 mA signal. The
+mA value, as constantly
+measured by the Fluke 744,
+is in the center of the dis-
+play. Press the Fetch softkey
+to load the measured mA
+value. Press Send to send
+the value to the 3144 to trim
+the output section for the 4
+mA value. Press Continue for
+the 20 mA trim and repeat
+this step.
+
+Hart Transmitter Calibration
+
+e
+
+(N
+A e
+
+oo 217
+VED 40000
+
+744 Measwe  3.961mA
+
+Fetch or ENTER value
+
+i Curtent: GEREREER
+
+Abort | Foten Sond
+
+FLUKE »
+
+Fguee 15
+
+8. After completing Output Trim,
+press the Done softkey and
+proceed with the As Left
+verification test. Press the As
+Left softkey. Press Done and
+then press Auto Test. On
+completion, an error summary
+table is displayed. If errors
+are highlighted, the test has
+failed and further adjustment
+s required. Return to step 5
+for adjustment of the 3144,
+
+(OB7759 025425 i ___Loon 220 ol
+SOLRCE  MEASURE ~ ERROR
+0.0°C 3.988mA 08
+150.0°C  11.395mA 03
+300.0°C  20.008ma 0.04
+i Text
+obort | F to | oone
+
+Hguee 16
+
+--- PAGE 10 ---
+10 Pluke Corporation
+
+Calibration of HART
+instruments using
+universal commands
+
+‘The 744 supports a majority of
+the installed workload of HART
+transmitters ~ see Table I — by
+supporting sensor trim, which
+employs device-specific com-
+mands that are unique to a par-
+ticular instrument. So how can
+you calibrate instruments that
+are not supported by the 7447
+‘The short answer is that the
+744 supports a substantial set of
+the universal HART commands
+and the common practice HART
+commands. The 744 can com-
+municate with virtually any
+HART instrument and, in most
+cases, can complete a calibration
+procedure (except for sensor trim
+for unsupported instruments).
+This example applies to
+instruments used in analog
+mode (4-20 mA). If the instru-
+ment is operated in digital
+mode, Le., its PV is the output
+variable that is used for control,
+a calibration of the Input Section
+is all that is needed. Adjustment
+will require a Sensor Trim, (see
+Figure 17) which means that for
+instruments not supported by the
+44 you will need to use both a
+744 to perform the As Found
+and As Left tests and record the
+results) and a communicator (to
+perform sensor trim).
+For instruments used in ana~
+log mode, i.e., where the 4-20
+analog ottput is used for
+control, the 744 can be used for
+calibration. After performing an
+
+adjustment is required, this
+example first performs an Output
+‘Trim to bring the instrument
+within tolerance, Failing that,
+the example performs an adjust-
+ment to the Lower and Upper
+Range Values (LRV and URV) to
+compensate for input section
+eror.
+
+Note: Appendix A explains that these adjust-
+ments 4o not constitute a proper HART cali-
+bration. While ths s true, these adjustments
+are a pactical calibraton allernaive for
+instruments operated in 4-20 mA analog
+mode if eror comections are not large:
+
+How to determine digital
+or analog?
+
+The transmitter is in digital
+mode if its HART Poll Address is
+set between 1 to 15. An address
+01 0 [zero] sets it to 4-20 mA
+analog output mode. The 744
+will automatically connect to a
+device at address O; if a device
+
+FLUKE »
+
+is not found at O the 744 will
+begin polling addresses 1 to 15.
+The 744 also displays a non-
+zero address with the basic
+HART information.
+
+Basic connections
+‘This example assumes that the
+transmitter is isolated from the
+process and is not electrically
+connected to a loop power sup-
+ply. Make basic connections to
+the transmitter per the diagram
+in Figure 18. Polarity of the
+HART communication connec-
+tion is not important. A sepa-
+rate 250 ohm resistor is not
+necessary because the 744
+incorporates a resistor in series
+with the 24V loop supply
+through its mA jacks. This ex-
+ample assumes a type K ther-
+mocouple transmitter with an
+input range of 0-100 °C, 4-20
+mA output, and a 0.25% test
+tolerance.
+
+As Found and determining that ~ Fi9we 18
+Anslog *"“"' mput | PV | Conversion 1""“‘» Output Andlog
+Input Section [ Section [T Section ‘mA Output
+input] 420ma)
+Sensor Trim LRV/URV Adjust Output Trim
+
+Fgure 17
+
+Hart Transmitter Calibration
+
+--- PAGE 11 ---
+Procedure
+
+1. Power on the Fluke 744
+Calibrator. Press the (&) key
+and the Loop Power softkey
+(if loop power is not already
+supplied). Press (=) until any
+device warnings are cleare
+and the basic HART informa-
+tion is displayed (Figure 19).
+
+ORISR
+
+Vezare
+Saurce
+
+Toop 2V 0
+HET
+orf
+
+644 Terp TT-B44-K
+
+PV 1485.1 °C
+
+PVAO 215000 ma
+PVLRV 0.0 °C
+PV LRV 100.0 °C
+
+Abort
+
+Sorvce Prosose
+
+Figure 19
+
+2. Press the (&) key again and
+you are prompted to select
+the 744 configuration (Figure
+
+3. Press the As Found softkey
+and press b= to select
+Instrument calibration. Move
+the cursor to Tolerance and
+ENTER the appropriate test
+tolerance 0.25% in this ex-
+ample). Verify that the 0%
+Value and 100% Value are
+the proper, nominal operat-
+ing values for the transmitter
+{00 °C and 100.0 °C in this
+example, Figure 21). If the
+Lower (0%] and Upper
+(100%) Range Values (LRV
+and URV) have been previ-
+ously modified for calibration
+pumposes, you will need to
+ENTER the nominal values.
+For example, if a previous
+calibration modified the URV
+t0 100.2 °C, you need to
+‘manually ENTER the nomi-
+
+nal value of 100.0 °C for the
+100% Value. Entering nomi-
+nal zero and span values
+ensures that errors are calcu-
+lated correctly.
+
+A8 A, SoURGE T/c
+
+mA, 0% Value 4.000mA
+typ K, and press (=), (If you 100% Value  20.000mé
+were verifying the digital PV Toerance 025 %
+instead of the mA output, ie., Delay 05
+the transmitter has anon- ~ ESNGEE TC Ty K|
+zero HART poll address, you 0% Value c
+would select MEAS PV, 100% Value
+SOURCE T/C typ K instead.) Test Strategy 3 1
+
+R R VR R [ B e e
+
+Saurce  300.0°C
+
+[TT-644-K
+[Select callvatur_mose of peration
+
+ME
+
+ma, b K
+MEAS P, SOURCE T/C typ K
+
+abort
+
+Figure 20
+
+11 Pluke Corporation
+
+Figure 21
+
+4. Press Done and then press
+Auto Test. Once the test is
+complete, an error summagy
+table is displayed (Figure 22).
+Test errors exceeding the
+tolerance are highlighted. If
+the test passed, 1.e., if no
+errors are highlighted, ad-
+justment is not required.
+
+Hart Transmitter Calibration
+
+FLUKE »
+
+[C2/03733 115525 o Toop 207 0
+TRCE— MERSIFE — ERROR
+0.0°C 3.950m4
+50.0°C  11.352m4
+
+100.0°C  19.96zma  -0.24
+Frev. [ TBRt
+et [ LT IET ] oone
+Figue 22
+
+If errors are highlighted,
+adjustment is necessary by
+performing an Output Trim.
+Press Done to leave the re-
+sults screen, edit the tag,
+serial number or ID fields as
+necessary, and press Done
+again.
+
+5. Pross tho Adjust sotkoy,
+select Output Trim and press
+@=9. The value of the primary
+variable (PVAO) is in the
+upper right corner of the
+display [Figure 23). This is
+normally a 4 mA signal. The
+real-time mA value as mea-
+sured by the Fluke 744, is in
+the center of the display.
+Press the Fetch softkey to
+load the measured mA value.
+Press the Send softkey to
+send the value to the trans-
+‘mitter to trim the output
+section for the 4 mA value.
+Press Continue for the 20
+mA adjustment and repeat
+this step.
+
+(N T e
+FVAD
+
+op 207
+0000 A
+
+741 Measura 3,961 ma
+
+Ftch or ENTER value
+
+Tin Curert: R
+
+aport | Feten send
+
+Figure 23
+
+--- PAGE 12 ---
+6. Now perform an As Left test.
+Press As Left, press Done,
+and then press Auto Test. On
+completion the error sum-
+mary table is displayed. If
+erors are highlighted, the
+test has failed and further
+adjustment is required.
+
+Note: f the failure error s large, sersor trim
+adjustment with a communicalor may be nec-
+essary. Often, however, adjustment can be ac-
+‘complished with a 744 by modifying the LRV
+{Lower Range Value) and URV (Upper Range
+Value) to compensate for Input Section error
+
+7. Inthe case of a pressure
+transmitter that has on-
+board Zero and Span adjust-
+ment buttons, calibration is
+easy. Simply apply a cali-
+brated source at the LRV and
+URV values and press the
+respective Zero and Span
+buttons on the transmitter.
+‘Then verify the condition of
+the transmitter by complet-
+ing an As Left test as in step
+6. Many HART transmitters
+do not have physical adjust-
+ments and need either a
+communicator or a Fluke 744
+to adjust the LRV and URV
+values. For those cases, pro-
+ceed to step 8.
+
+8. The error summary table
+(displayed from step 6} pro-
+vides the data necessary to
+mako LRV and URV changes.
+Write down the ERROR %
+values for the failed 0% and
+100% test points. (If the error
+summary table is no longer
+displayed, you can use the
+Review Memory softkoy to
+recall the As Left data.|
+Return the 744 to the normal
+Measure/Source screen dis-
+playing the As Left softkey
+by pressing the Done softkey
+3times.
+
+12 Pluke Corporation  Hart Transmiter Calibration
+
+9. Calculate the new LRV or
+URV by multiplying the span
+by e ereent and
+adding that to the old value.
+If our example has the fol-
+lowing nominal Source val-
+ues, errors, and old LRV and
+URV values:
+
+-]
+
+O vaie |00 _|084% |oacC
+100%Value | 1000°C | 2.41% [1020C
+Table 2
+
+Calculate the new LRV and
+URV as follows:
+
+IRV, =LRV,, + (Span x Extor,,)
+
+IRV, = 0.4°C+ (100.0°C x 0.84%)
+IRV, = 0.4°C+ (100.0°C x 0.0084)
+IRV, =04°C+08°C
+
+IRV, =12°C
+
+URV,., = URV,,, + (Span x Error ,,)
+URV,_, = 1020 °C + {1000 °C x
+
+2,475
+
+URV,,_, = 1020 °C + 1000 °C x
+~00241)
+
+URV,,, = 1020°C-24°C
+URV_ =996°C
+
+10. Press @) and then press the
+Setup softkey. Select Basic
+
+from the menu and press
+
+to display the basic setup
+parameters shown in Figure
+24, To ENTER the new LRV,
+move the cursor to Lower
+
+Range Value and press pe).
+
+the new LRV and press
+. Also type in the new
+
+and press pz. Press the
+
+Send softkey.
+
+FLUKE -
+
+[T2TE733 12250 b Lom 29V G
+Meamre 4001 mA
+[Press ENTER to change iter
+Tag
+PV Lrit C
+Lower Range Value 0.4°C
+Upper Range Valie  102.0°C
+Damping 000005
+Transfer Function  Linear
+Store [ Recal | el | oo
+Page | Page | Page
+Figue 24
+
+11. Now press Done and then
+press Abort 3 times. Per-
+form a new As Found test
+by pressing As Found. (Re-
+member to make sure that
+the original, nominal zero
+and span values are shown
+as the 0% Value and 100%
+Value,) Press Done and
+then press Auto Test. On
+completion, the error sum-
+mary table is displayed.
+
+I extors are highlighted,
+the test has failed - repeat
+the adjustment or trim
+sensor section with a
+communicator.
+
+Note: If you encounter any difficulty with
+
+any of these examples, you may call 1-800-
+44-PLUKE for assistance (1-800-343-5853).
+
+--- PAGE 13 ---
+Appendix A
+
+Calibrating HART
+Transmitters
+
+ByKenneth L. Holladay, PE.
+
+Calibrating a conventional
+instrument
+
+For a conventional 4-20 mA
+instrument, a multiple point test
+that stimulates the input and
+measures the output is sufficient
+to characterize the overall accu-
+racy of the transmitter. The
+nomal calibration adjustment
+involves setting only the zero
+value and the span value, since
+there is effectively only one
+adjustable operation between
+the input and output as illus-
+trated below.
+
+Figure Al
+Conventional Transmitier Block Disgram
+
+‘This procedure is often re-
+ferred to as a Zero and Span
+Calibration. If the relationship
+between the input and output
+range of the instrument is not
+linear, then you must know the
+transfer function before you can
+calculate expected outputs for
+each input value. Without
+knowing the expected output
+values, you cannot calculate the
+performance errors.
+
+Calibrating a HART
+instrument
+
+For a HART instrument, a mul-
+tiple point test between input
+and output does not provide an
+accurate representation of the
+transmitter’s operation. Just like
+a conventional transmitter, the
+‘measurement process begins
+with a technology that converts
+
+13 Pluke Corporation
+
+a physical quantity into an elec-
+trical signal. However, the simi-
+larity ends there. Instead of a
+purely mechanical or electrical
+path between the input and the
+resulting 4-20 mA output signal,
+a HART transmitter has a micro-
+processor that manipulates the
+input data. As shown in Figure
+A2, there are typically three
+calculation sections involved,
+and each of these sections may
+be individually tested and
+adjusted.
+
+Just prior to the first box, the
+instrument’s microprocessor
+‘measures some electrical prop-
+erty that is affected by the pro-
+cess variable of interest. The
+measured value may be milli-
+volts, capacitance, reluctance,
+inductance, frequency, or some
+other property. However, before
+it can be used by the micropro-
+cessor, it must be transformed
+to a digital count by an analog
+to digital (A/D) converter.
+
+In the first box, the micropro-
+cessor must rely upon some form
+of equation o table to relate the
+raw count value of the electrical
+measurement to the actual prop-
+erty (PV] of interest such as tem-
+perature, pressure, or flow. The
+principle form of this table is
+usually established by the
+‘manufacturer, but most HART
+instruments include commands
+to perform field adjustments.
+‘This s often referred to as a
+sensor trim. The output of the
+first box is a digital representa-
+tion of the process variable.
+
+FLUKE -
+
+variable using a communicator,
+this is the value that you see.
+
+The second box is strictly a
+‘mathematical conversion from
+the process variable to the
+equivalent milliamp representa-
+tion. The range values of the
+instrument {related to the zero
+and span values) are used in
+conjunction with the transfer
+function to calculate this value.
+Although a linear transfer func-
+tion is the most common, pres-
+sure transmitters often have a
+square root option. Other special
+instruments may implement
+common mathematical transfor-
+‘mations or user defined break
+point tables. The output of the
+second block s a digital repre-
+sentation of the desired instru-
+ment output. When you read the
+loop current using a communi-
+cator, this is the value that you
+see. Many HART instrumens
+support a command which puts
+the instrument into a fixed out-
+put test mode. This overrides the
+normal output of the second
+block and substitutes a specified
+output value.
+
+‘The third box is the output
+section where the calculated
+output value is converted to a
+count value that can be loaded
+into a digital to analog con~
+verter. This produces the actual
+analog electrical signal. Once
+again the microprocessor must
+1ely on some internal calibration
+factors to get the output correct.
+Adjusting these factors is often
+referred to as a current loop trim
+
+When you read the process or 4-20 mA trim.
+High and Low Range and High and Low
+SensorTrim  Transfer Function  Output Trim
+1 1 4
+w UL VL L o
+Counts | = ol LWL Counts_
+3
+Counts PV mA
+Input Conversion Output
+Section Section Section
+PV may be mA may be set
+read digitally  and read digitally
+
+Figure A2
+HART Transmitter Block Diagram
+
+Hart Transmitter Calibration
+
+--- PAGE 14 ---
+HART calibration
+requirements
+
+Based on this analysis, you can
+see why a proper calibration
+procedure for a HART instru-
+ment is significantly different
+than for a conventional instru-
+ment. The specific calibration
+requirements depend upon the
+application.
+
+If the application uses the
+digital representation of the
+process variable for monitoring
+or control, then the sensor input
+section must be explicitly tested
+and adjusted. Note that this
+reading is completely indepen-
+dent of the milliamp output, and
+has nothing to do with the zero
+or span settings. The PV as read
+via HART communication con-
+tinues to be accurate even
+when it is outside the assigned
+output range. For example, a
+range 2 Rosemount 3051¢ has
+sensor imits of ~250 to +250
+inches of water, If you set the
+range to O - 100 inches of
+water, and then apply a pres-
+sure of 150 inches of water, the
+analog output will saturate at
+just above 20 milliamps. How-
+‘ever, a communicator can still
+read the correct pressure.
+
+1f the current loop output is
+not used (that is the transmitter
+is used as a digital only device),
+then the input section calibra-
+tion s all that is required. If the
+application uses the milliamp
+output, then the output section
+must be explicitly tested and
+calibrated. Note that this cali~
+bration is independent of the
+input section, and again, has
+nothing to do with the zero and
+span settings.
+
+Calibrating the input section
+The same basic multiple point
+test and adjust technique is
+employed, but with a new defi-
+nition for output. To run a test,
+use a calibrator to measure the
+applied input, but read the
+associated output (PV) with a
+communicator. Error calculations
+are simpler since there is
+
+14 Pluke Corporation  Hart Transmiter Calibration
+
+always a linear relationship
+between the input and output,
+and both are recorded in the
+same engineering units. In gen-
+eral, the desired accuracy for this
+test will be the manufacturer's
+accuracy specification.
+
+I the test does not pass, then
+follow the manufacturer's rec-
+ommended procedure for trim-
+ming the input section. This
+may be called a sensor trim and
+typically involves one or two
+trim points. Pressure transmit-
+ters also often have a zero trim,
+where the input calculation is
+adjusted to read exactly zero
+(not low range). Do not confuse
+a trim with any form of re-rang-
+ing or any procedure that in-
+volves using zero and span
+buttons.
+
+Calibrating the output
+section
+Again, the same basic multiple
+point test and adjust technique
+is employed, but with a new
+definition for input. To run a test,
+use a communicator to put the
+transmitter into a fixed current
+output mode. The input value for
+the test is the mA value that you
+instruct the transmitter to pro-
+duce. The output value is ob~
+tained using a calibrator to
+measure the resulting current.
+‘This test also implies a linear
+relationship between the input
+and output, and both are re-
+corded in the same engineering
+units (milliamps|. The desired
+accuracy for this test should also
+reflect the manufacturer's accu-
+racy specification.
+
+1f the test does not pass, then
+follow the manufacturer's rec-
+ommended procedure for trim-
+ming the output section. This
+may be called a 4-20 mA trim, a
+current loop trim, o a D/A trim.
+‘The trim procedure should re-
+quire two trim points close to or
+just outside of 4 and 20 mA. Do
+not confuse this with any form
+of re-ranging or any procedure
+that involves using zero and
+span buttons.
+
+FLUKE -
+
+Testing overall performance
+After calibrating both the Input
+and Output sections, a HART
+transmitter should operate
+correctly. The middle block in
+Figure A2 only involves compu-
+tations. That is why you can
+change the range, units, and
+transfer function without neces-
+sarily affecting the calibration.
+Notice also that even if the in-
+strument has an unusual trans-
+fer function, it only operates in
+the conversion of the input
+value to a milliamp output value,
+and therefore is not involved in
+the testing or calibration of ei-
+ther the input or output sections.
+If there is a desire to validate
+the overall performance of a
+HART transtitter, run a Zero
+and Span test just like a con-
+ventional instrument. A you
+will see in a moment, however,
+passing this test does not nec-
+essarily indicate that the trans-
+mitter i operating correctly.
+
+Effect of damping on test
+performance
+
+Many HART instruments support
+a parameter called damping. If
+this is not set to zero, it can
+have an adverse effect on tests
+and adjustments. Damping in-
+duces a delay between a
+change in the instrument input
+and the detection of that
+change in the digital value for
+the instrument input reading
+and the corresponding instru-
+ment output value. This damp-
+ing induced delay may exceed
+the settling time used in the test
+or calibration. The settling time
+is the amount of time the test or
+calibration waits between set-
+ting the input and reading the
+resulting output. It is advisable
+to adjust the instrument’s
+damping value to zero priot to
+performing tests or adjustments.
+After calibration, be sure to
+return the damping constant to
+its required value.
+
+--- PAGE 15 ---
+Operations that are NOT
+proper calibrations
+
+Digital range change
+
+There is a common misconcep-
+tion that changing the range of
+a HART instrument by using a
+communicator somehow cali-
+brates the instrument. Remem-
+ber that a true calibration
+Tequires a reference standard,
+usually in the form of one or
+more pieces of calibration
+equipment to provide an input
+and measure the resulting out-
+put. Therefore, since a range
+change does not reference any
+external calibration standards, it
+is really a configuration change,
+not a calibration. Notice that in
+the HART transmitter block dia-
+gram [Figure 2], changing the
+Tange only affects the second
+block. It has no effect on the
+digital process variable as read
+by a communicator.
+
+Zero and span adjustment
+Using only the zero and span
+adjustments to calibrate a HART
+transmitter (the standard prac-
+tice associated with conven-
+tional transmitters) often
+cormupts the internal digital
+readings. You may not have
+noticed this if you never use a
+communicator to read the range
+or digital process data. As
+shown in Figure 2, there is
+more than one output to con-
+sider. The digital PV and
+‘milliamp values read by a com-
+municator are also outputs, just
+like the analog current loop.
+
+Consider what happens
+when using the external zero
+and span buttons to adjust a
+HART instrument. Suppose that
+an instrument technician in-
+stalls and tests a differential
+pressure transmitter that was
+set at the factory for a range of
+Oto 100 inches of water. Test-
+ing the transmiltter reveals that
+it now has a 1 inch of water
+
+zero shift. Thus with both ports
+vented (zero), its output is 4.16
+mA instead of 4.00 mA, and
+when applying 100 inches of
+water, the output is 20.16 mA
+instead of 20.00 mA. To fix this
+he vents both ports and presses
+the zero button on the trans-
+mitter. The output goes to 4.00
+mA, 50 it appears that the ad~
+justment was successful.
+However, if he now checks
+the transmitter with a commu-
+nicator, he will find that the
+range is 1 to 101 inches of wa-
+ter, and the PV is 1 inch of
+water instead of 0. The zero
+and span buttons changed the
+range (the second block]. This
+is the only action that the in-
+strument can take under these
+conditions since it does not
+know the actual value of the
+reference input. Only by using
+a digital command which con-
+veys the reference value can
+the instrument make the appro-
+priate internal adjustments.
+The proper way to correct a
+zero shit condition is to use a
+zero trim. This adjusts the in-
+strument input block so that the
+digital PV agrees with the cali~
+bration standard. If you intend
+to use the digital process values
+for trending, statistical calcula~
+tions, or maintenance tracking,
+then you should disable the
+external zero and span buttons
+and avoid using them entirely.
+
+Loop current adjustment
+Another observed practice
+among instrument technicians
+i to use a hand-held commu-
+nicator to adjust the current
+1oop so that an accurate input
+to the instrument agrees with
+some display device on the
+loop. If you are using a
+Rosemount model 268 commu-
+nicator, this is a “current loop
+trim using other scale.” Refer
+again to the zero drift example
+just before pressing the zero
+
+15 Pluke Corporation  Hart Transmiter Calibration
+
+FLUKE -
+
+button. Suppose there is also a
+digital indicator in the loop that
+displays 0.0 at 4 mA, and 100.0
+at 20 mA. During testing, it read
+1.0 with both ports vented, and
+it read 101.0 with 100 inches of
+water applied. Using the com-
+municator, the technician per-
+forms a current loop trim o that
+the display reads correctly at O
+and 100, essentially correcting
+the output to be 4 and 20 mA
+respectively.
+
+While this also appears to be
+successful, there is a fundamen-
+tal problem with this procedure.
+To begin with, the communica-
+tor will show that the PV still
+reads 1 and 101 inches of water
+at the test points, and the digi-
+tal reading of the mA output still
+reads 4.16 and 20.16 mA, even
+though the actual output'is 4
+and 20 mA. The calibration
+problem in the input section has
+been hidden by introducing a
+compensating error in the out-
+put section, 5o that neither of
+the digital readings agrees with
+the calibration standards.
+
+As published in Intech, May 1996 and also in
+HART Book 8, hly 1998. Reprinted with the.
+‘permission of fhe author
+
+--- PAGE 16 ---
+16 Pluke Corporation
+
+Documentation of results
+
+The scheduling of calibrations, creation of proce-
+dures and documentation of your calibration
+results are facilitated by a number of instrumen-
+tation management software packages:
+
+Honeywell DocuMint™
+
+Fluke DPC/TRACK™
+
+Meridium
+
+Ordering Information
+
+FLUKE-744 Documenting Process Calibrator-HART
+Includes: TL224 Industrial Test Leads (two sets), AC220
+Test Clips (2 sets), TP220 Test Probes (1 set], BP7235
+NiMH Battery Pack, BC7217 Battery Charger, serial port
+cable, HART communications cable, DPC/TRACK
+Sample with free PC communication utility software,
+Instruction Manual, HART User's Manual, NIST-
+traceable calibration certificate and data, three-year
+warranty.
+
+Optional Accessaries
+
+Fluke-700 Pxx  Pressure Modules
+Included with each Fluke Pressure
+Module: BSP-ISO to NPT Adapters)
+(except with P29 - P31, Instruction
+Sheet, NIST traceable calibration
+report and data, one-year warranty.
+
+Fluke-700BCW Bar Code Wand
+
+Fluke-T00PTP  Pneumatic Test Pump, 360 psi/25 bar
+
+Fluke-700TC1 C Mini-Plug Kit, 9 types
+
+Fluke-700TC2 TC Mini-Plug Kit, JKTERS
+
+BE9005 Battery Eliminator
+BC7217 Battery Charger
+
+BP7217 NiCd Battery Pack
+BP7235 NiMH Battery Pack
+€700 Hard Carrying Case
+c781 Soft Carrying Case
+c789 Soft Carrying Case
+
+Hart Transmitter Calibration
+
+FLUKE »
+
+Fluke. Keeping your world
+up and running.
+
+Fluke Corporation
+
+PO Box 3080, Everet, WA USA 96206
+
+Pluke Eutope BV
+PO Box 1186, 5602 BD
+Eindhoven, The Netherlands
+
+For more information call
+US.A. (800) 443-5853 or Fax (426 446-5116
+Europe/Ni-East/Africa +1 (31 40] 2 675 200 or
+Pax-+1(31 40) 2 675 222
+
+Canada 1-800-36-FLUKE or Fax (905) 890-6866
+Other countries +1 (425) 446-5500 o1
+Pax+1(425) 446-5116
+
+Web access: hitp:/vww fuke.com
+
+2004 Puke Compration. Al righs resorved.
+Prnted n US & 12/2001 16243 A-US-1 Rev F

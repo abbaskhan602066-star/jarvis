@@ -1,0 +1,71 @@
+FILE: E-310-2 Fire alarm Change Address_compressed tyco manual.pdf
+FOLDER: .
+DATE: 2026-03-06 21:19:57.239234
+==================================================
+
+
+--- PAGE 1 ---
+7.3.7. Change Address
+
+1. Adetector is faulty and is
+not responding to the loop
+poll. It needs to be replaced.
+
+Note the address (B006) and
+the type (811PH)
+
+2. Replace the faulty detector
+with a new one of the SAME
+TYPE (in this case 811PH
+or 851PH) Note: 811PH = 851PH
+
+After a few minutes a new fault
+will appear as shown here.
+
+Note: Only one detector ata
+time can be re-addressed.
+
+3. Turnthe key, press F3 and
+enter your User ID and
+Passcode.
+
+4. Select 7 —Service
+
+5. Select 3 — Diagnostics
+
+hown are taken from MX version 8.1 firmware. Actual
+lightly depending on firmware version of system in use.
+
+Disclaimer: The screenshe
+screen displays may differ
+
+--- PAGE 2 ---
+7.3.7. Change Address
+
+6. Select 7 — Change Address
+
+7. Select the appropriate Loop
+(in this example Loop B) and
+then enter 255 for Point.
+
+Note: All new detectors come
+with a default address of 255.
+Therefore this is the address to
+be changed.
+
+8. Enter the original address of
+the faulty detector as the
+New Address (i.e. 006 in this
+example).
+
+9. Press F5 (Enter). Display
+will show ‘Successful’
+
+10. Press F1 (Back) to clear the
+display and then Reset the
+panel to clear the ‘No
+Response’ and ‘Unconfigured
+Device' faults.
+
+Disclaimer: The screenshots shown are taken from MX version 8.1 firmware. Actual
+screen displays may differ slightly depending on firmware version of system in use.

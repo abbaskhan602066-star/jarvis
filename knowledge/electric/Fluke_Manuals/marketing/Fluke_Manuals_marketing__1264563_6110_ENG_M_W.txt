@@ -1,0 +1,2737 @@
+FILE: 1264563_6110_ENG_M_W.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:11:46.902286
+==================================================
+
+
+--- PAGE 1 ---
+Electric Pressure
+Calibrator
+
+Selection
+Guide
+
+2008/2009
+
+Loop Calibrators
+Pressure Calibrators
+
+Temperature
+Calibrators
+
+Multifunction
+Process Calibrators
+
+Intrinsically Safe
+Calibrators
+
+Documenting
+Process Calibrators
+
+ProcessMeter™
+Calibration Tools
+
+Industrial Test Tools
+
+Hart Scientific
+Temperature
+Calibrators
+
+Contact and Infrared
+Thermometers
+
+--- PAGE 2 ---
+Process
+
+calibration tools
+
+Working in a
+process control
+environment can be
+dangerous, difficult
+work. Maintaining,
+building and calibrat-
+ing these systems
+takes special exper-
+tise and Fluke is pre-
+pared with not only
+
+Documenting  Multfunction Digital Milliamp Clamp
+the tools, but the Process Calibrators Multimeters Meter
+information you need ~ Calibrators
+
+to keep your world
+up and running. The
+tools featured in
+
+this selection guide
+represent the tools
+designed for you and
+the unique situations
+you may encounter
+in your work life.
+
+ssee
+ProcessMeter- Pressure Intrinsically Safe
+Test Tools Calbrators Calibrators
+
+Intrared Thermal Dry Well Calibrators.
+Thermometers Imagers
+
+--- PAGE 3 ---
+Electric pressure FLUKE
+calibrator
+
+New! Fluke 719 Electric Pressure Calibrator
+Why hassle with a hand pump?
+
+With the innovative, built-in electric pump, the Fhuke 719 provides pressure calibra-
+tion at your fingertips! Now you can calibrate and test pressure devices quickly and
+easily with one hand, saving you valuable time. Use the programmable pump limit
+settings to eliminate over-pressurization, and to set ‘pump to’ pressure values. The
+compact, lightweight form, combined with one-handed use, makes this pressure
+calibrator the ideal tool for busy process professionals.
+
+Features inclide:
+« Best in class pressure measurement « Programmable pump limit allows:
+uncertainty of 0.025 % ~ Protection from damage due to
+« Measure and source mA with best in class over-pressurization
+0.015 % accuracy ~ The user to program target pressures
+« Precision pressure adjust vernier for pumping
+« Variable release rate bleed valve for easy « Extended measurement range with any of
+pressure adjustment twenty nine (29) 700Pxx Pressure Modules
+« Ideal performance for high accuracy « Test pressure switches with built in switch
+transmitter calibration test function
+« Source mA with simultaneous pressure « Power transmitters during test
+‘measurement to test valves and I/Ps « Proven cleanout ports reduce pump failures
+Function
+Measure or Source Range Resalution Accuracy Notes
+Pressute 719-306 12 psi (0 36 psi, 0,001 psi 0.025% of range, 0,035 % of range.
+-850 mbar t0 2.4 bar 0.1 mbar & month spec. for ane year
+Pressure 719-1006 12 psi 10 120 psi 001 pst.
+-850 mbar t0 8 bar 1 mbar 3
+EQ OmAto 24 mA 0001 mh 0,015 % Rdg + 2 counis Hax load, 1000 0.
+750 Q in HART mode
+Toop supply HVa WA 0%
+
+Ordering information
+Fluke-719 30G Electric Pressure Calibrator, 30 psi, 2 bar
+Fluke-719 100G Electric Pressure Calibrator, 100 psi, 7 bar
+
+Each calibrator includes TLTS Test Leads, AC72 Test Clips, push fit connectors, transhu-
+cent test hose, NIST traceable calibration certificate with data, product overview manual
+(print), and users manual on CD in 14 languages.
+
+Recommended accessory: Fluke 71X Hose Kit Accessory
+
+--- PAGE 4 ---
+Process
+
+measurements
+
+Regular process o2l
+instrument maintenance il
+and calibration can
+improve product quality,
+operational efficiency,
+safety, environmental
+compliance and corporate
+profitability. Fluke tools
+are designed to perform
+multiple functions to
+assist you in this effort.
+This diagram shows a
+few examples of Fluke
+tools in use, measuring
+and servicing process
+instrumentation.
+
+Beanng
+tempertare
+
+Prossure
+indeator/
+coninler
+
+--- PAGE 5 ---
+
+
+--- PAGE 6 ---
+Process tools
+
+selection guide
+
+vz
+
+Loop Calibrator
+
+Process Millamp
+Clamp Meter
+
+Pressure Calibrators
+
+Ve
+
+707 755
+
+28V, 25V
+
+731 717
+
+715
+
+715
+
+V ac firue-rms]
+
+Resistance
+
+ndc
+
+2Amh 24mh
+
+oA
+
+24mh
+
+24k
+
+Aac
+
+Frequency
+
+Prequency totalizer
+
+Pressure.
+
+1105000 ps?
+
+110300 psi”
+
+3010 100 st
+
+Tomperature: RIDs
+
+Tomperature: TG
+Source/Simulate
+Ve
+
+20V
+
+Resistance
+
+‘A dof scale
+
+24wk 24mA
+
+24 mh
+
+‘mA source; auto
+step, auio famp
+
+Frequency
+
+Prequency totalizer
+
+‘Temperatute: RTDs
+
+Tomperature: TG
+
+Min/Max
+
+Fold
+
+s Found/As Lot resulls
+
+Tpload data 1o
+PC/log data
+
+Remote operation
+
+24V loop supply . . . . .
+Fart communication
+
+Integrated hand s "
+pressure pump Flect
+Intisically safe (VTEX] 0T TiGE
+
+NIST traceable certifcation
+
+1. luke 700 Presure Modles required
+
+2t the mtomal sensir cr &
+Flilke 100 Prsssrs Mo
+may be wsed
+
+Accessories c /B A/B c c
+Pessweenablea 1 -
+18 18 3 20 20 3
+
+So0 page
+
+3. Aecomories: A Compatible vith LoekPak B. Compatitle with TosPak
+
+ Recopts hanging straps rom ToelPak
+
+--- PAGE 7 ---
+FLUKE .
+
+Multinction Process Calibrator
+
+0k 5k 0k 50Kz
+7 fypes Tiypes Tiypes B iypes Tiypes B iypes
+D 12 types 17t JED 10t JED
+5 7
+Manual 5
+5 5 . 12V . 5
+/B /B /B A/B A/B A/B
+N I N S AN S U
+19 19 13 13 12 15 0 16
+. Fluk Process Caltators n tis guido dislaying the Pressure Bnabied 5. Fhke T00PEx Prosze
+
+aymbol dipay esdings rom the 100 Seres Pressize Modles Mol mqured
+
+--- PAGE 8 ---
+Documenting
+
+process calibrators
+
+With one powerful tool, you can:
+
+« Moritor, control and calibrate HART instrumentation with integrated communication functions
+
+* Generate precision electrical, temperature or pressure signals for analog stimulus or sensor
+simulation
+
+« Simultaneously measure electrical, temperature or pressure signals from transmitter output
+
+« Interrogate HART devices to determine type, manufacturer, model and tag-1D
+
+« Read HART PV, smart transmitter digital output
+
+« Make field adjustments to ranging, damping and other top-level configuration settings
+
+« Change/assign the tag of HART transmitter smart transmitters
+
++ Re-configure HART temperature sensor (e.g., TC to RTD)
+
+« Perform HART sensor trim and output trim
+
+« Perform loop test with simultaneous analog and digital mA readout
+
++ Control selected Hart Scientific Dry Blocks
+
+Versatile HART protocol support (744 only)
+
+The 744 supports these classes of instructions:
+
+« Universal commands—such as "read manufacturer and device type,” “read primary variable
+(PV),” or *read current output and percent of span”
+
++ Common practice commands-such as “read mukiple variables
+“loop test”
+
+* Device-specific commands—functions unique to a particular field device, like *sensor trim"
+or output trim
+
+set damping time,” or
+
+@
+
+744 upgrades available
+Fluke periodically releases
+new internal software for the
+Fluke 744. These upgrades
+include:
+* New revisions of previously
+CHPERETTN, Recommended accessories: 741B, 743B and 744 calibrators
+* Device-specific command
+
+support for new instruments. %
+* New HART communication rid
+capabilty. \ c Sy
+
+cmo P35 M Flake- 2000 sorkas man
+For details of the et nd Fechursatie Pres Nodues Sustrp g Susarp sl
+Seosesry Gee iy Tmperss ribe et o St
+
+latest upgrade, see
+www.fluke.com/744upgrade
+
+For more detailed information, go to www.fluke.com/744
+
+--- PAGE 9 ---
+Summary specifications for Fluke 741, 743B and 744 calibrators (1 year)
+
+Function Measuro Sourcing
+
+Ve 0,025 % reading + 001 % output +
+0.006 % full scale 0,008 % full scale.
+
+Current dc 001 % reading + 001 % output
+0.015 % full scle 0.015 % full scale.
+
+Vac 05 %+ 8
+
+Fosistance 0,05 % reading + 50 m 0,01 % oulput + 40 meL
+
+Froquency 0.06 % 001 %
+
+Thermocouples 037 027
+
+RTDs 037 o1
+
+Prossure "To 025 5 of full scale, per pressure modle specifications.
+
+General specifications for Fluke 741, 743B and 744 calibrators
+
+Toop powsr Seleciable, 24V o1 78 V: 22 mA max
+
+Environmental 741733 specications apply from +18°C o +28°C
+
+Operating tomporature | 10 °C o 50 °C (ypical specs 1o -20 (] Pressure modules re toaly
+compensated and specs apply 0 °C 0 50 °C
+
+Storage mpertwe | 20 10 60°C
+
+Safety Complies with CA/CSA G22.2 No. 10101-62, ATISUSA S&2.01-196%, UL3TTT
+and ENGIO-1:1883. 300 V, Over-Voltage Category I
+
+Size (WD) 150 mm x 236 mm % 61 mm (61 inx 93 mx 2410
+
+Weight 141 B1b 1od
+
+Warrany Three years
+
+Battery Tnersal battery pack WA, 72 V, 1700 A, NaH (724 only 72 V, 3500 Ak,
+ypical usage, greater than § howrs
+
+Application note, literature code 1262439:
+HART" transmitter calibration
+
+‘The need for calibration of HART smart transmitters
+s often misunderstood. What do you calibrate and
+‘when? Here is a step-by-step procedure showing
+how to use the Fluke 744 to perform calibration
+
+and digital adjustments of Rosemount 3051 and
+3144 transmitters and other HART devices.
+
+-
+FLUKE .
+
+Fluke-741B Documenting
+Process Calibrator
+
+Fluke-743B Documenting
+Process Calibrator
+
+Fluke-744 Documenting
+Process Calibrator
+
+Each calibrator includes TL224
+Industrial Test Leads (2 sets),
+AC220 Test Clips (2 sets), TP220
+Test Probes (1 set), BP7217 Battery
+Pack, BC7217 Battery Charger,
+instruction manual, NIST traceable
+calibration certficate with data, 9
+serial port cable (7438 and 744
+
+cnly), DPC/TRACK Sample Version
+‘with free PC communication util-
+
+ity software (7438 and 744 only).
+With the 744 you also get a
+
+HART communication cable, HART
+users manual and a NiMH battery
+finstead of NiCad).
+
+--- PAGE 10 ---
+10
+
+700SW DPC/TRACK
+
+Software
+
+——
+
+Pluke DPC/TRACK is an easy-to-use, single-user, entry-level instrumentation
+‘manager.For more sophisticated software, you may wish to investigate
+‘products from one of Fluke's software partners below.
+
+For more detailed information,
+go to www.fluke.com/software
+
+Ordering information
+Fluke-700SW DPC/
+TRACK Software
+
+Supports Fluke 743 and 744
+Documenting Process Calibrators
+and include software CD,
+instruction manual, serial port
+cable and DBS to DB25 adapter.
+
+Prime
+
+M
+
+aware,
+
+AMS from Emerson Process
+Maragement,
+tormerly Fisher-Fosemount.
+
+Honeywell Loveland DocuMint
+
+1ecﬁnoiog es
+
+DPG/TRACK Software is a specialized database that can help you
+
+‘manage your instrumentation and address the documentation
+
+requirements of quality programs and regulations. With DPC/
+
+TRACK and a 743 or 744 DFC you can:
+
+* Manage your inventary of tags and instuments
+
+« Schedule tag 1Ds for calibration
+
+* Create tag specific procedures, including instruction on how to
+locate an instrument and how to saely isolate and connect
+
+« Load those procedures to your DPC
+
+* Select and execute antomated as found/as left procedures in
+the field, automatically capturing the results data
+
++ Include comments as to Reasons for Work, Problems Found,
+and Actions taken (743 and 744 only)
+
+« Unload your results to a PC
+
+« Print a selection of pre-formatted reports
+
++ Examine the calibration histories of your tags and
+instruments
+
+« Import instrument data and procedures as ASCI text
+
+« Export instrument data, procedures, and results as ASCII text
+DPC/TRACK operates in the same languages as the DPCs:
+English, French, German, Italian, and Spanish
+
+On Time
+Support
+
+&
+
+Cornerstone
+
+T B i s i
+
+Meridium
+
+Pl Resoucs Heroger
+
+PR (Plant Resource
+Manager) from Yokogawa
+‘ectric Corporation.
+
+~INTERGRAPH
+
+--- PAGE 11 ---
+700 Series Pressure FLUKE -«
+Calibration Modules
+
+Best accuracy available in handheld
+pressure modules
+
+* 0,025 % reference uncertainty
+
+* Rugged, chemical resistant packaging
+
+« Temperature compensated using proprietary micro-technology
+linearzed output
+
+« Digital communication to calibratars, no analog losses or erors
+
+* Broad selection of ranges
+
+Roforenco
+Range (approx) | uncertainty
+resolution 233°C) 2
+
+Differential Fluke Process Esbiscy
+Fluke 700P00 | 1in F20/0001 | 025 KPaj0000Z_| 0300% Dy | Dry | 31655 | Calibrators in this
+Fluke T00POL" | 10in. H20/001 | 25 kPa/0.002 0200% Dy | Dry | 31655 |  guide displaying this symbol are
+Fluke T00P02_| 1 psi/0.0001 6900 Pajo.1 0150% Dy | Dry | 31655 | Ppressure Enabled units and dis-
+Fluke 700922 | 1 psi/0.0001 6900 Pa/0.1 0100% | 31655 | Dry | 31655 |  play readings from these Precision
+Fluke 700P03 | 6 psi/0.0001 34 kPajo 001 0050% Dy | Dry | 31655 | 700 Series Pressure Modules
+Fluke 700PZ3 |6 psi/0 0001 34 kPa0 001 0025% | 31655 | Dy | 31655 | Each pressure module includes
+Fluke 700P04_| 15 psi/0.001 103 KPaj0.01 0025% Dy | Diy | 31655 | NiST traceable certficate, metric
+Fluke 100P24* | 15 psi/0.001 103 KPa/0.01 0025% | 31655 | Dy | 31655 | adapter and instruction sheet
+[ Cage
+Fluke T00P06* | 30 psifo 001 207 Ka/00L 0025% | 365 | WA | 3165S
+Fluke 00P06* | 100 psy0.01 690 1a/007 0025% | 3655 | WA | 3165S
+Fiuke 00P21° | 300 psi/001 2070 KPa/0.1 0025% | 31655 | WA | 31655
+Fluke 100P07 | 500 psi/001 3400 a/O01 0025% | 3655 | WA | 3165S
+Fluke 00P0B_| 1000 ps/o.1 6900 KPa/0.7 0025% | 31655 | WA | 31655
+Fluke T00P09" | 1500 psi/o.1 10 1 Paf0.001 0025% | 3655 | WA | 31655
+bsolute
+Fluke 700PA3 | 6 psi/o 0001 34 kPao 001 0050% | 3655 | WA | 31655
+Fluke 00PAG" | 15 psi/0.001 103 KPa/0.01 0050% | 31655 | WA | 31655 1
+Fluke T00PAS_| 30 psi/0.001 2071a/001 0050% | 31655 | WA | 3165S
+Fluke T00PA6 | 100 psi/0.01 690 1a/007 0050% | 31655 | WA | 3i6SS
+Vacuim
+Fluke 700PV3 | -6 psij0.0001_| 34 KPaj000L 0040% | 31655 | Dry | 31655
+Fluke 00PV4 |15 psif0.001 103 kPa/oOL 0040% | 31655 | Dy | 3165S
+Dual
+Fluke 700PDZ | & 1 ps/0.0001 | +6900 Paf0.7 0150% | 31655 | Dy | 31688
+Fluke 700PD3 | & 5 ps/0.0001 | 534 kaj0.001 0040% | 31655 | Dry | 31655
+Fluke T00PD4 | & 16 psi/0.00L | £106 kPajo.L 0025% | 31655 | Dry | 31655
+Fluke T00PDS | ~16/30 ps/0.001 | -100/207 kPa/OOL | 0025% | 31655 | WA | 31655
+Fluke 700PD6_| -15/100 psy/001 | -100/680 kPa/007 | 0025% | 31655 | WA | 31655
+Fluke T00PD7 | ~15/200 psi/OOL | -100/1380 a0l | 0040% | 31655 | WA | 31655
+
+Ty
+i o700 70T ZTH P00 | o5 | e | WA G
+Fluke 700P30 | 5000 ps/01 | 34 M Pai0.00L 0050% | C276 | WA| G
+Fluke 700P31_| 10000 psit 69 M Pa/0.007 0050% | cz76 | WA @
+
+* Intinsicaly safe verion avalabl for use with TI8Ex and 1258
+
+--- PAGE 12 ---
+Multifunction
+
+Calibrators
+
+Fluke 726 Precision Multifunction
+Process Calibrator
+
+‘The Fluke 726 Precision Multifunction Process Calibrator
+s designed specifically for the Process industry with
+broad workload coverage, calibration power and unsur-
+passed accuracy in mind. The 726 measures and sources
+almost all process parameters and can calibrate almost
+anything. The 726 will also interpret results without
+the help of a calculator and stare measurement data for
+later analysis.
++ Precise measutement and calibration source
+pertormance, accuracies of 0.01 %
+« Transmitter error % calculation, interpret calibration
+results without a calculator
+
++ Memory storage for up to eight calibration results, ati
+I e braton 5o e e e )
+
++ Frequency totalizer and frequency pulse train source
+‘mode for enhanced flowmeter testing
+
+* HART mode inserts 250 ohm resistor in mA measure
+‘with loop power and source for compatibility with
+HART instrumentation
+
++ Integrated pressure switch test allows you to capture
+the set, reset and deadband of a switch
+
+* Custom RTD curves, add calibration constants for
+certified RTD probes for enhanced temperature
+
+‘measurement
++ New voltage input protection design for improved
+reliability
++ Three-year wamanty
+Remote programming
+and measuring
+12 uncommon RTDs with
+the Fluke 726
+
+‘This application note explains
+how to use the 726 to measure
+non-standard or characterized
+
+shows how to load custom con-
+stants into the Fluke 726 using
+a Windows PC with an RS-232
+serial part.
+
+--- PAGE 13 ---
+FLUKE .
+
+Fluke 726 and 725 Multifunction Proce:
+and 724 Temperature Calibrators
+
+The Fluke 724, 725 and 726 Multifunction Calibrators are versatil, easy-to-use
+
+eld calibrators. Use them to test and calibrate almost anything with:
+
+* Basy-to-read measure/source back lit screens let you view input and output
+simultaneously
+
+« Perform fast linearity tests with auto step and auto ramp features
+
+« Power transmitters with internal loop supply
+
+« Store frequently-used test setups for later use
+
+* 725EX version available, see page 15
+
+In addition, the 725 and 726 can:
+
+« Measure pressure and frequency to test sensors and transmitters
+
+« Source/simulate mA, frequency and pressure to calibrate transmitters
+
+« Measure pressure using any of the Fluke 700Pxx Pressure Modules
+
+« Source mA with simultaneous pressure measurement to conduct valve and 1/P tests
+
+Specifications for Fluke 724, 725 and 726
+
+Simultaneous function capability
+
+Carneh Ordering information
+
+24000 mh dc m
+
+32000 mA do Wi 72 V oop suppt I Fluke-726 Precision
+
+00 mY & Wors Multfunction Process
+
+30000V dc mewsre W Calbrator
+
+30000V dc mewsure 10,000V d soumce Wors Fluke-725 Multifunction
+
+3200 0 [EH Process Calibrator
+
+T I E TE RS BL UL IKEF Wors
+
+RTD Ri120; PL100 (3026]; PIOO (5], PLIO, 200, 500, 1000 (3851 Tors Fer SR
+
+Pressure (requires Fluke 700Pxx Modules) M M® used as 5"
+
+Frequency; squarewave, 1 CPM t010 Hz; fixed amplitude § V p-p Wors” g:;" ;{:‘1‘(’;7&”“{;«&75
+
+ey o | Pl sk (1] wrors | (SIS ACTOR TS Gl
+M tessure 5~ SourceSimalate 1 ot avatable on 721 it oversiow manual, wsers
+
+‘manuals on CD; NIST-traceable
+
+Recommended accessories: 72x calibrators kg etiom OB and.
+
+N @ i o
+
+Phke-100Pex 220 cizs Toaparc sorkz2
+P Maies Susarp intetral et Case Motr Hangig ki Susly Inetrid
+e Lo St meeatSer S Tperatue Pibe
+
+For more detailed information, go to www.fluke.com/multifunction
+
+13
+
+--- PAGE 14 ---
+Multifunction
+
+calibrators
+
+Measure and source
+
+Function Range or type Resolution Accuracy Notes
+v 010 100mV 001 mv 0.01 %, laxload, 1 mA
+0to 10V fsouce) 001 v 0025
+01020V fsource) 001 v Rdg + 2 counts
+01030 V fmeaswe] 001 v
+mA (124 measwre only] | 010 24 0001 mA 001% 002% Haxload, 1000 0
+Rdg + 2 conts
+Y (7C erminals) 000mV b +T50mY | olmv .01 %, 002 % of range +
+1 count
+a 150032000 0010 o0awion
+501040000 o1n 0.015 %
+Ha - CPML 20CPM 10 10O GPM | 0.1 P £005% Souce: 5V p,
+(128 ana 726) 1Hz 1o 1000 Bz 1t 0055 1Vt020V pp
+10 k2 10 10,0 iz 01l +025% squarewave, -0.1 V ofset
+1001z w0 15.0 itz | 0.1 Kz z05%
+Toop supply 2avac WA 0%
+7/ KT EL LU XK 0101 1007 .10 02°C
+/c RSB oL 17 °C. 112 %
+RIDs Ca (10, 1120 (672] 001, 005 °C
+BL100, 200,500, o.o1F
+1000 (385)
+PLIOO (3916, 01°,01°F 02%
+PL100 (3926
+
+Unique 726 specifications are bolded
+
+General specifications for Thermocouple (T/C) accuracy specifications
+Fluke 724, 725 and 726 calibrators (Fluke 724/725/726)
+Maximum voltage 30V T/C | Measure or source
+Somp et | €I 4 o 0T
+‘Operating temperature 10 G 1055 °C 0°C to 1200°C 01%¢
+14 raiee sy s (0w 0T EREOTE T | | © ET %
+%100t 50 0 58000 Cle 553 | [ _osu st o8
+o o i s sk et B
+Vit Rondom 33 3F 0 OO TE 7 T 75
+oy A CA T na bR Ik ot
+EMC ENG0082-1:1992 and ENS5022:1994 Cass B | 1o pccuracy specticaions include 0.2 C cold jnction unceranty
+= 55 mmx 00 mm 7 mm
+
+(38inx79in x 19in)
+
+Battery Measure
+Batery life 25 bours typical (e | souwce
+Wamanty Three years PI100-385 | 200Cw800C | 033c | 033%C
+
+For more detailed information, go to www. fluke.com/maultifunction
+
+--- PAGE 15 ---
+Intrinsically
+safe products
+
+What is “intrinsically safe”?
+Intrinsic safety is a protection method employed in
+potentially explosive atmospheres. Devices that are
+certified as “intrinsically safe” are designed to be
+unable to release sufficient energy, by either thermal
+or electrical means, to cause ignition of flammable
+‘material (gas or dust/particulates)
+
+e S o e T i o
+e |y oy |y |y s | ey
+= ® ) ) ) ®
+o
+=, e | & | 6 | &
+il 2| & 8.
+
+Div 2, Groups Div 1, Div 1 Divl,
+
+FLUKE
+
+Application note, literature
+code 2096400:
+Making sense of intrinsic
+safety and
+
+intrinsically
+
+safe tools
+
+Want to know
+
+‘what industries
+
+Intrinsically
+
+Safe products
+
+are designed
+
+for? Want to
+
+kmow why
+
+intrinsic
+
+satety s 0
+
+important?
+
+Go to www.fluke.com/ex
+
+Ordering information
+
+Fluke-87-5-EX IS True-rms
+Multimeter
+
+Fluke-707Ex IS Loop
+
+Calibrator
+
+Fluke-718Ex IS Pressure
+Calibrator
+
+Fluke-725Ex IS Multifuction
+Process Calibrator
+Fluke-700PEx Pressure
+Modules (700POIEx, 700POSEX,
+7T00POBEX, 700POSEX,
+700P24Ex, 700P27EX,
+700P29Ex and 700PKAEX)
+Fluke-574-NI Precision Infrared
+Thermometer w/Logging SW
+Nonincendive
+
+Fluke-68IS Infrared
+Thermometer Intrinsically Safe
+
+®
+
+--- PAGE 16 ---
+ProcessMeter
+
+test tools
+
+Multimeter and Loop Calibrator—all in one
+
+12000 Fluke 789 ProcessMeter Test Tool
+L The Fluke 789 has a display that's twice as large as the 787 and adds a 24 V
+loop power supply that the 787 does not include
+Key features:
+
+« 24 V loop power supply
+
+* 20 mA drive into 1200 @
+
+* 0% to 100 % mA Span Check buttons to
+toggle from 4 mA to 20 mA
+
+« Infrared 1/0 serial port compatible with
+PhukeView: Software
+
+« PLUS all the proven 787 features below
+
+Fluke 787 ProcessMeter*
+
+Test Tool -
++ Simuktaneous mA and % of scale readout on mA output
+@8 e.e * 25 % manual step phus auto step and auto ramp on mA output
++ GAT I, 1000 V safety rated DMM
+189 181 + Measure volts, amps, resistance, and frequency
+
+@R £ (G
+& &)
+
+Specifications for Fluke 789 and 787 (18 °C to 28 °C, 1 year)
+
+e ettt ey =
+gl L T s
+e e e e s
+sy e
+e ey ey
+ext. 20V loop supply) | (slectable at power-up] Over-range to 24,000 m. TR
+I87: not available (789 anly)
+
+--- PAGE 17 ---
+Milliamp process
+
+clamp meter
+
+Fluke 771 Milliamp Process Clamp Meter
+Measure 4 mA to 20 mA signals without breaking the loop
+
+Features include:
+
+« Measure mA signals for PLC and control system analog 1/0
+
+Mezsure 4 mA to 20 mA output signals from transmitters without breaking the loop
+Best in class 0.2 % accuracy
+
+Resolution and sensitivity to 001 mA
+
+Hold function captures and displays changing measurements
+
+Dual backlit display with both mA measurement and percent of 4 mA to 20 mA span
+Measurement spotlight illuminates hard to see wires in dark enclosures
+
+Detachable clamp with extension cable for measurements in tight locations
+
+Mezsure 10 mA to 50 mA signals in older control systems using the 9.9 mA range
+
+Range/resolution ARccuracy Features Note
+2099 mA 10-+20.98 mA | 0.2 % of reading | Zero, Hold, backlight | Use for measuring and trouble-
++5 counts ‘measurement spotlght | shooting 4 mA to 20 mA signals
+210 wA (0-85.9 mA T%reading Zero, Hold, backlight | Use for measuring and trouble—
++210mA10+990 mA | +5 counts ‘measurement spotlght | shooting 10 mA to 50 mA signals
+
+Performance specifications (1 year)
+
+Operating temperaure TI0°C o 55°C
+
+Starage emperature 25T 0T
+
+Operating humidity <05% @ <30°C, <15 % @30 C10 55 °C
+
+Size (RxWD] 59 mm x 36 mm x 212 mm (232 inx 1510 x8.35 in]
+
+Weight 2609 @102
+
+Temperature coofficients 00T T
+
+Powex, battery Tife 2] AR 15 V Alkaline, [EC L6, 20 hours typical
+
+Wananty Three years or electionics, one year for clamp cable assembly
+Recommended accessories
+
+wo2 csso cio1
+
+vl gne CamyingCas Hrd Case
+
+FLUKE .
+
+Ordering information
+Fluke-789 ProcessMeter™
+Test Tool
+
+Each process meter includes
+TL7I Premium Test Lead Set
+plus Alligatar Clips, 4 AR 17
+alkaline batteries (installed),
+product overview and users
+‘manuals on CD.
+
+Fluke-787 ProcessMeter™
+Test Tool
+
+Fluke-771 Milliamp Process
+Clamp Meter
+
+Each process meter includes soft
+canrying case, users manual
+
+--- PAGE 18 ---
+Loop
+
+calibrators
+
+All Fluke mA-loop calibrators feature:
+| - Simultancous mA and % readout for quick, easy, interpretation
+{ of readings
+« Push bufton 25 9% steps for fast, easy linearity checks
++ Selectable ramp, step modes to provide smooth outputs for valve
+slewing and loop functional tests
++ 24V internal loop supply
+
+715 Volt/mA Calibrator
+
+« Source voltage o 200 mV or 20 V
+
++ Measure loop current with 0.010 % accuracy and 0001 mA
+resolution
+
+* Measure voltage output process signals
+
+Fluke 705 Fluke 715
+
+@
+
+Summary specifications (18 °C to 28 °C, one year)
+
+rncion N T T N T
+
+Temperaturo costficen, 10 °C to 18 28 °Cf0 55 °C, + 005 % o ng per
+"M lod, 1200 Ohzs; 950 Ohms at 20 mA in HART rmods ax applied voltage o smulaton, 30V
+
+18
+
+Ordering information
+Fluke-207 Loop Calibrator
+Fluke-205 Loop Calibrator
+Fluke-715 Volt/mA Calibrator
+
+Each calibrator includes testleads, ~ Recommended accessories: 707, 705 and 715 calibrators
+test clips, holster, instruction
+
+sheets, NIST-raceable certificate of \‘ %
+e SN Q&8 B»
+as s
+
+nizen man csso vaso
+ey Duty Susonp sl Large Soft e maitag Procsus Vacum
+o 2ad Sk et o St Vi
+
+For more detailed information, go to wwwfluke.com/loop
+
+--- PAGE 19 ---
+Temperature FLUKE .
+calibrators
+
+712 RTD Calibrator
+
+Complete RTD calibration tool
+
+* Measure temperature from RTD output
+
+* Simulate RTD output
+
+* Rosemount pulsed RTD transmitter
+compatible
+
+* Operates with seven types of RTDs
+
+* Auto step and auto ramp output
+function
+
+714 Thermocouple Calibrator
+
+Complete thermocouple
+calibration tool
+
+* Measure temperature
+from TC output
+« Simulate TC output
+« Nine types of thermocouples
+« Auto step and auto ramp output function
+« Calibrate linear TC transmitter
+with mV source function
+
+Summary specifications (18 °C to 28 °C, one year)
+
+Punction Range Resoluion Accuracy Notes
+RTD (712) | Measure/simulate 00 °C to 800 °C 0.1°C 0.1°F 0.2°C, 0.4 °F (Pt 100} | Pt; 100 200 500 1000 (385); Pt 100
+RTD{TI3) 100 (3626); Pt 100 (3916)15: i 120 (672)
+Weasre/mie 08032000 ora SR OI 0
+resstancs 100850
+TE@) | Vewnro/mie | 2000 1800°C, | O1 Car T 05008 |3 Ciypes; ] KTERS B per WGT,
+thermocourle Gependingontype | (1°C or i BRS | (K, -200 Cto 1370°C)| 175 and TS-60 L U per DIN 43710
+K200 to 1310 °0) and 7T5-66
+Wesmire/simulate 0| 10wV to my | 00T mY 06 %+ T oot
+‘General specifications for Fluke 712 and 714 calibrators
+Vasimum votage %V o .
+‘Non-operating temperaturs | 40 °C 10 60°C Ordering information
+Operating temperature -10°C1085°C Fluke-712 RTD Calibrator =
+Relatve bumidity 5 % 10°C 1o 30 T, 76 % (B0°C 1 40°CF 48 % (30 10 80 T
+35 % (50 °C to 55 °C) Fluke-714 Themocouple
+Safety CSA C22.2 Tlo. 101011662 Calibrator
+B ENS0082-11907 and ENGS0ZZ:169% Clas Fluke-724 Temperature
+Size (LxWxD) (with holster) | 201 x 98 x 52 mm (793 x 386 x 2.06 in} Calibrator
+‘Weight (with holster) 600 g (21 02 Each calibrator inclides protective
+yellow holster with test lead
+‘storage, test leads and alligator
+Recommended accessories: 712 and 714 calibrators clips (excluding model 714), single
+
+\ svﬁm hla‘n‘ay and instruc-
+=, tion sheet in 14 languages.
+
+S It )
+
+% 'I
+
+s ma) css0 pr cas sore.2 (ma)
+Hrd fomt maisig setr Hanging K LupiohCoss  Susinp Ar Tanparau
+et load S Probe
+
+For more detailed information, go to www. fluke. com/tempcal
+
+--- PAGE 20 ---
+20
+
+Pressure
+
+calibrators
+
+m
+
+€@
+
+Application note, lterature code 2577485
+Pressure calibration with the Fluke 718
+New design protects
+on-board pump from
+fluid damage. This appli-
+cation note explains how
+to drain pressure lines
+sately before calibration,
+and how to clean the
+pressure pump on the.
+‘new Fluke 718,
+
+‘wwifluke. com/library
+
+Fluke 718 Pressure Calibrators
+
+1 psi and 300 psi models in addition to the
+
+30 and 100 psi models previously available
+
+« Compact size, lightweight
+
+« New buik-in pressure switch test feature
+
+« Built-in pressure/vacuum hand pump, with vernier and bleed valve
+
+* Pressure and vacuum measurement to 0.08 % of full span, using an internal
+pressure sensor dry air only)
+
++ Pressure measurement to 10,000 psi/700 bar using any of 29 Fluke 700Pxx
+Pressure Modules
+
+* Measure mA with 0.015 % accuracy and 0001 mA resohution
+
+* 24 V loop power supply
+
+* Clean out ports minimize the possibility of fluid damage to the pump
+
+Intrinsically safe 718 version available (see page 15)
+
+Fluke 717 Pressure Calibrators
+
+Now with 9 ranges: 1 psi, 30 psi, 100 psi, 300 psi,
+
+500 psi, 1000 psi, 1500 psi, 3000 psi and 5000 psi
+
++ Measure pressure and vacuum to 0.05 9% of ful scale with internal psig
+sensor
+~ Compatible with non-comrosive gasses and liquids
+
++ Measure pressure to 10,000 psi/69 mPa using one of 20 Fluke 70Pxx
+Pressure Modules
+
++ Measure mA with 0015 % accuracy and 0001 mA resolution,
+while providing 24 V loop power
+
+* New built-in pressure switch test feature
+
+* Min/Max/Hold functions
+
+Recommended accessories: 717 and 718 calibrators
+
+e« T L QF
+
+200ur 008121 2 momy) To0ue-1
+[y Sy i R S W o R o 141
+et P
+
+For more detailed information, go to www.fluke.com/pressure
+
+--- PAGE 21 ---
+FLUKE .
+
+Pressure
+
+calibrators
+
+Specifications for 717 and 718 Calibrators
+Ordering information
+
+Range Resion Conment
+77-1 + 1 psi, 225 in H,0, +0.0001 psi, 0.0001 kPa, |Fluke 718 dry air only and Fluke-718 1G Pressure Calibrator
+i 1o+l G000t e (s on bowd | | Fluke-718 3008 Prosans
+717-306 -12 to + 30 psi, 0001 psi, 0.001 kPa, Calibrator
+5306 (63 0 207 kPa) 0001 in ;0 &u:e-? 18 100US Pressure
+T7-100G 12 t0 + 100 psi, 001 psi, 001 kPa, alor
+Te-To0 EE Qo1 o s
+717-300G. -12 to +300 psi,. 001 psi, 0.01 kPa, Fluke-717 1G Pressure Calibrator
+718-300G" (883 o +2070 kPa) 001 in H,0 Fluke-712 30G Pressure Calibrator
+717-5006. [0-500 psi, 0-3450 kPa___|0.01 psi, 0.1 kPa. Compatible with non- Fluke-717 100G Pressure
+TI7-10006 0-1000 psi, 0-6800 kPa__| 001 psi, 0.1 kPa. canosive gasss and finide Calibrator
+717-15006 [0-1500 psi, 0-10342 kPa_|O.1 psi, | kPa L D e
+30006 63600 . 020700 [0 g T .
+50006 6-5000 s, 04500 73 [O1 g 1 b
+[Pressure acouracy 0.05 9% of range Fluke-717 1000G Pressure
+i meseemert 0w 174 mh range 0001 mAeson [ Ramnaor £ 005% Calbrtor
+
++1 count Fluke-717 15006 Pressure
+ooy o e ey £ 0% Calbrtor
+
+Fluke-717 30006 Pressure
+Calibrator
+Fluke-717 50006 Pressure
+Calibrator
+
+Each calibrator includes protective
+halster, test leads and alligator
+
+“Thess rarges/models avallabl a3 Intinsicaly Salo
+
+General specifications for all Fluke 717 and 718 calibrators
+16 fnch NPT female
+
+Prossure imput fiing
+
+clips, 9 V allaline battery ftwo
+
+‘Maximum voltage EQ [
+Non-operating temporaturs 00060 ot ,';‘:qugles‘f‘ﬁ!‘?:"‘ e
+Operating temperature -10°Cto 83 °¢ CD (718 only), NIST-traceable
+Felative humidity 55 % (10°C 1 30 °CJ; 75 % B0 °C 0 40°C) certificate of calibration; CE and
+45% (40°C 10 50°C}; 35 % (50°C t0 55°C1 CSA markings.
+Operating altitude 3000 m max
+Shock T drop test
+Vibrtion Random, 2.5 P 10 500 iz
+Safety CSA 6222 Nlo. 1010.1:1862 (Call Fuke for
+718Ex safety ratings)
+ENC ENG0062-111952 and ENSB022:1604 Class B
+Size (LaWaD) weight 201 mm x 98 mm x 52 mm (163 in x 386 i x 2,06 )/
+(217 with halster) 600g (21 ez}
+Size (LaWD)weight 216 mm x 64 mm x 66 mm (8,50 T 7 372 I x 260 Y/
+(118 with holster) 992 g 35 07)
+
+Power 'SV battery ANSNEDA 1604 A or IEC 6LR61 9 V alkaline;
+two batteries in 718
+
+10 20 hours, typical, depending on functions used
+
+Three years (one year on pressute pump i Fluke 718,
+one year for TI8Ex
+
+Battery life
+Warranty
+
+For more detailed information, go to www. fluke. com/pressure
+
+--- PAGE 22 ---
+Industrial
+
+multimeters
+
+Fluke 87V Industrial True-rms Multimeter
+
+The Fluke 87V has measurement functions, troubleshooting features,
+resolution, and accuracy to solve more problems on motor drives, in-plant
+automation, power distribution, and electro-mechanical equipment
+Features include:
++ Unique function for accurate voltage and frequency measurements
+
+on variable speed motar drives and electrically noisy equipment
+« Measure 20 A for up to 30 sec, 10 A continuously
+* Built-in thermometer
+
+Available in intrinsically safe version as the Fluke 87V Ex (sec page 15)
+
+Specifications
+Function Rango and resolution Basic accuracy
+Ve 600.0m., 6,000V, 60.00 V. 6000V, 1000V 005 6
+Vac 600.0mV. 6,000V, 5000 V. 600,0V. 1000V 07 we-ms]
+Caront de '600.0 A, 6000 ik 50,00 i, 600.0 A, 6000 0205
+000
+Caront ac 600,04 6000 Bk 50,00 i, 6000 mA. 6000 T0% e
+000k
+o porature oxcl.probe] | -200 “C 10 1050 < (326 1o 1904 °T] 0%
+(€ e @ ‘60BK Tomperaturo Probe | 40 € 10 260 “C 40 F 1 500 1) 27 Cazn
+Resistance 5000 0, 6,000 k5, 60,00 ket OGO KEL 0z0%
+@ 6.000 m@, 5000 M
+e €5 Capacitance 10.00 1, 1000 1, L00O B, 1000 . 1000, 0%
+9,990 4F
+Froquoncy 19696 Ha, 16900 Kz, 16,690 ki 190,60 iz [T
+General specifications
+Size (HxWal)/waight | 52 mm x 56 tm 201 mm (206 1 X 366 1 ¥ 793 i/
+2250263150 9
+Battery Single 9 V alkalne batiry
+22 Battery e 400 bours without backigh
+Wamanty Timitod Wotimo warranty
+Ordering information
+Fluke-87-5 Industrial True-rms
+Multimeter )
+Bach multimeter includes potec-  Recommended accessories
+
+tive yellow holster with test lead
+
+storage, TLT5 Tost Lead Set plus
+ACTOA Allgatox Clips, one 9 V =5 )
+alialine battery, users manual. L3 '\\
+
+naz0 cas 100
+Suconp ndusril Lighowaghs St 20 Curent Qamp,
+et e St Racsoy Case
+
+For more detailed information, go to www. fluke.com/87v
+
+--- PAGE 23 ---
+New! Fluke 289 Digital Multimeter with TrendCapture
+
+The Fluke 289 Digital Multimeter is the next generation high performance
+
+industrial logging multimter. With the ability to log data and review it graphi-
+
+cally on-screen you can solve problems and help minimize downtime,
+
+Features include:
+
+* 50,000 count, 1/4 VGA display with white backlight for fast, accurate view-
+ing of measurements
+
+* Logging function with TrendCapture plots measurements as single line to
+help detect anomalies
+
+« New z00m on trend allows you to view analyze TrendCapture data; Zoom in
+up to 14 times
+
+* Logging function with expanded memory for unattended monitoring of sig-
+nals over time. Users can graphically review logged readings without a PC.
+Store up to 15,000 recorded events.
+
++ Saved measurements allows you to name and recall measurements made in
+the field
+
+* Rotary switch memory when switching positions between ac or dc A/mA
+and uA
+
+* Loz low input impedance function helps prevents false readings due to
+“ghost voltage”
+
+Specifications
+
+Function Basic accuracy
+
+Ve 50000 . £00.00 mV, 5.0000V, 50000 V, 0,036
+
+Vac 50000, 10000V 0.5 ftrve-ms]
+
+Current de 500,00 . 5000.0 . 50,000 mh, 40000 A, 0156
+
+Current ac 50000 4 10.000 & 0.7 % [true-ms)
+
+Tomperature (oxcl. probe] | 2000 “C1o 10800  [-3280 F 10 1994.0°T] 100%
+
+Rosistance 50,0000, 500.00 € 50000 k2 50.000 ke 0,05 %
+500,00 ko, 50000 1, 50.00 10, 5000 Mey
+
+Capasitance LO00F10,00 1F 10001, L00D yF. 10.00 1 0%
+100.0pF, 1000 P, 1000 mF, 100,00 mP
+
+Troquoncy 999,99 iz 0005% 11
+
+Recommended accessories
+
+D
+I
+
+®
+
+preey naz0
+It ter Suetp sl 30 Curent Qamp,
+"ot Load o et e St
+
+For more detailed information, go to www.fluke.com/289
+
+--- PAGE 24 ---
+24
+
+Thermometers
+
+Ordering information
+Fluke-54-2 Thermometer
+Each thermometer includes two
+bead themmocouples, batteries,
+overview manual and instruc-
+tional uide on CD. Also available:
+51-2, 52-2 and 53-2 models,
+Fluke-62 Mini Infrared
+Thermometer
+
+Each thermometer includes stor-
+age pouch and instruction sheet
+
+Fluke 568 Themmometer
+
+Each thermometer includes
+Thermocouple K bead probe,
+
+hard case, two AA batteries,
+PhukeView Forms software, USB
+cable, Getting Started Guide, users
+‘manual on CD.
+
+Recommended accessories:
+54 Series II and
+568 Thermometers
+
+T;:! o~
+
+sorks
+P Gamp
+Temperaars e
+
+O
+
+sopk-11
+Type kre
+Thimoonpis
+
+Tmperis habe
+
+sopez2
+Susanp- immerson
+Teaperare ovs
+
+Fluke 54 Series II Contact Thermometer
+
+Lab accuracy in a field thermometer
+
+« Dual thermocouple inputs
+
+« Accuracy: + (0.05 % + 03 °C)
+
++ Large backlit dual display presents all the information
+you need at a glance
+
+* Min, Max, and Avg-with time reference—captures major
+events and logs up to 500 points
+
+* Electronic offset function allows you to compensate for
+thermocouple erors
+
+Fluke 568 Thermometer
+
+The two-in-one infrared and contact ther-
+
+mometer with an innovative graphical display
+
+Quickly and simply adjust emissivity, start data logging;
+
+or tum on and off alams, with just a few pushes of a
+
+button.
+
+« Measure 40 °C to 800 °C [-40 °F to 1470 °F)
+
++ Easily access advanced features with soft-key
+buttans and graphical display
+
++ Measure from further away, with a distance-to-spot
+matio of 50:1
+
++ Compatibility with most type K thermocouples
+
+Fluke 62 Infrared Thermometer
+
+Quick and reliable surface
+
+temperature readings
+
+‘The Fluke 62 pistol grip thermometer offers an
+
+‘easy-to-use solution for temperature measurement in
+
+hard-to-reach, hot, rotating or dangerous situations,
+
+« Measure 30 °C to 500 °C (-20 ¥ to 932 %)
+
+« Rugged, small design with protective boot
+
+* Distance-to-spot ratio of 10:1 is ideal for distances up
+to2m(6h)
+
+For more detailed information, go to www. fluke.com/thermometers
+
+--- PAGE 25 ---
+Thermal imagers
+
+New Fluke Ti25 Thermal Imager
+
+The ultimate tool for process monitoring
+Built for tough work environments, this high-performance,
+fully radiometric imager is ideal for troubleshooting M
+process equipment
+* Patent-pending IR-Fusion: Technology: blends
+
+visual and infrared images in different viewing modes
+
+including picture-in-picture
+* Withstands 2 m (6.5 ) drop; Resistant to dust/water
+
+(IP54 rating)
+« Detects small temperature differences with excellent thermal sensitivity (NETD)
+* Easy-to-use three-button men
+
+TISSET
+
+Ti50 and Ti55 IR FlexCam* Thermal Imagers
+
+Choose the Fluke Ti5x models when you need the best images. They feature 320 x 240 detectors
+‘with industry leading thermal sensitivity (= 0.05 °C NETD for Ti5 models and = 0.07 °C NETD for
+Ti50 models) for high resolution, ultra high-quality images.
+« Comes with patent-pending IR-Fusion* Technology
+« Large display with low-noise VO sensors for high quality images
+* The 180° articulating lens makes it possible to view and capture images in areas with
+
+‘poor accessibility
+
+<>
+
+Specifications
+
+Detecor sensor type) 160x 120 3201240
+Focal plane array, umcooled microbolometer
+
+Fiadof view P
+Min foous istance oism
+Spatia resoluion 25mad 26mad 26 wad
+Multpl tons option o s Yes
+Hotcold spot e o Yes
+“Thormal sensitvity (NETD] | =0.1C a1 30 C (100 mi)_| 20,07 °C at 30 °C (10 mK] | 0.05 % a1 30°C (50 m]
+Temp range 20Cwa0c 20761030 °C 20761600
+Tomp accuracy 2 or 2% whichever is greater
+# of paettes 5 ] ]
+Dighal zoom o =X K X X
+Display 561 high resolution LD  n high resoluion color [CD
+Amnottion Voice o Terl
+Aioulating lors o Yes Yes
+
+For more detailed information, go to www. fluke. com/thermography
+
+-
+FLUKE .
+
+Ordering information
+Fluke-Ti25 9Hz Themmal
+Imager
+
+Each thermal imager includes
+SmartView scftware (free soft-
+‘ware upgrades for life), rugged
+hard canying case, ac power
+supply and battery charger, SD
+‘memory card and USB reader
+and users manual.
+
+Fluke-TiS5FT-20 IR
+Flexcam Thermal Imager 25
+with R-Fusion
+
+Each thermal imager includes
+SmartView scftware (free
+software upgrades for lie),
+
+2 rechargeable battery packs,
+battery charger, ac adapter,
+video cable, 5512 MB compact
+flash card and reader, USB
+cable, users manual on CD.
+
+--- PAGE 26 ---
+120 Series ScopeMeter
+
+ScopeMeter: 120 Series Handheld Oscilloscope
+
+For industrial electrical, electronic and process troubleshooting applications
+‘The compact ScopeMeter 120 Series is the rugged solution for industrial troubleshooting and
+installation applications. It's a truly integrated test tool, with oscilloscope, multimeter and
+“paperless” recorder in one affordable, easy-to-use instument. Find fast answers to problems in
+‘machinery, instrumentation, control and power systems.
+
+‘The ScopeMeter 125 also features Bus Health Test for industrial bus systems and has power
+‘measurement capabilities;
+« Two 5,000-count tue-rms digital multimeters
+« A dual-nput TrendPlot~ recorder
+« Connect-and-View trigger simplicity for hands-off operation
+« Shielded test leads for oscilloscope, resistance and continuity measurements
+
+Specifications
+Function Fluke 125 Flake 124 Flake 123
+Banawion w0 iz % iz 201
+Max. realtimo sample ate 250055
+‘Equivalent time sample rate 25GS/s 2.5GS/s 125 GS/s
+
+125 Max. rocord length (per input) 512 poinis min/max pairs]
+Humber of inputs 2 scope or DM inputs
+lnEm m:umi 5 /vt 50 V/div
+Display Monochvame
+Envelop Hode 0
+T Farmorics mode -
+Edge, single, froe run .
+Video 0
+e} o Video line select 0
+Ordering information Extemal Using optional ITP 120
+Fluke-123 Industrial _
+26 ScopeMeter, 20 MHz Cursors - - -
+Bus Hoall tost mode - -
+Fluke-123/§ with SCC120 Kit Fivsnoed power 5 =
+Fluke-124 Industrial ‘measurements
+ScopeMeter, 40 MHz Save set-ups and screons 20 73 0
+
+Fluke-124/S with SCC120 Kit
+
+Fluke-125 Industrial
+ScopeMeter (40MHz)
+Fluke-125/S with SCC120 Kit
+
+*Maximun input voltage 1000 V CAT Il with VPS40, 40 Mz, 10:1 voliage probe (standard included with
+Pluke 125 and Fluke 124) Detailed techrical specifications and optional accessories can be found in the
+
+technioal datasheet and on the Fluke web sie,
+
+For more detailed information, go to www.fluke.com\scopemeter
+
+--- PAGE 27 ---
+Fluke
+
+more than just great tools
+
+Service
+
+A comprehensive, worldwide network of service
+
+support for your tools
+
+Fuke process calibrators help keep your company’s process accurate and
+online. Keep your calibrators in top shape with annual scheduled calibra-
+tions and factory updates,
+
+Phuke has calibration and factory service facilities located in North
+America, Europe and Asia to make it easy to receive fast, efficient, factory
+level service for your Pluke calibrator. Our European center also has the
+distinction of Ex certification for repair and calibration of your Ex rated
+equipment.
+
+In addition to these Pluke competence centers we have a Fluke CalNet*
+calibration network of service partners throughout Europe to assist with
+your service needs.
+
+Training
+Stay at the forefront of your profession with training
+
+from Fluke
+
+Phike is dedicated to providing programs, training and resources to help
+you stay at the forefront of your profession. Training ranges from applica-
+tion specific hands on seminars, web based training and virtual demos to
+classroom style and onsite training delivered by Fluke topic experts
+
+www.fluke.com/caltraining
+
+--- PAGE 28 ---
+Calibrator
+
+selection guide
+
+Temperature sources
+
+Handhold dry-wells Field dry-wells e
+= 51008 91025 000 G141 9103 S0 9150
+Pag 29 Pag 20 P31 Fage 50 Fage 30 Fage 30 Fage 30
+Tomperatur vange] 36 °Cto 376°C | 10°Cto Z2°C | 6 T1o35°C | B0°CtoG0°C | 75 T 1o 180°C | 35 Co30°C | T80 Cio 00T
+Hoouracy Tazsc Tom< TozC TosC TomT TosT 5
+
+Temperature sources continued
+
+Metralogy wlls. Micro-baths
+
+‘Hodel o142 143 o141 102 7106 418X Serios
+Page 32 Page 32 Page 32 Page 33 Page 33 Page 33 Page 34
+Temperature range |25 °C 1o 150 °C_| 33°C 10 380 °C | 60°Cto 660°C | 35C10200°C | -5-C10 25°C | -30Cw0125C | - BT w500 T
+
+‘Accuracy £02°C £02°C £035°C $025¢ $025¢ TomT TosC
+
+Temperature sensors and indicators
+
+PRT
+
+28 6 —
+Hodol 5625 5615 S621 S6l1T 5230524 Tsa2r 525
+Pago 1 Pago 37 Pago 37 Pago 37 Pago 35 Pago 35 Pago 35
+omperaturs range| 200 C 1o 650 °C| 200 *C 10 420 | 200 C 10 420°C| 0°C 0 100 °C_| 200 C 10 2315 C| 00 C lo 862 °C | -200°C 1 962°C
+Reouacy To0rC To03 ¢ TomsC 001 C 0062 T [G004 1o 027G 0004 1o 0247
+Chasnels Wi Wi Wi WK 2 1 7
+
+Fluke's Hart Scientific is pleased to offer a selection dry-wells and reference
+thermometers made specifically for industrial applications.
+
+See your local Fluke distributor or go to www.hartscientific.com.
+
+--- PAGE 29 ---
+Handheld
+
+dry-wells
+
+Hart Scientific 9100S and 9102S Handheld Dry-Well
+Temperature Calibrators
+
+A temperature source that you can take anywhere
+
+« Fast and easy calibrations of temperature sensars
+
+« Temperature ranges from -10 °C to 375 °C
+
+« Stability during calibrations to + 0,05 °C
+
+« Direct interface to the Fluke 744
+
+Each unit includes RS-232 interface, instrument control scftware and a
+NIST-traceable calibration.
+
+Recommended accessories: Canrying case, additional inserts, reference
+temperature sensor and indicator, and battery pack.
+
+Specifications
+Function 91005 91025
+Range 35010375 C 95 7 10 107 T|-10°C 0 122°C (14 P 0 252 1)
+23 ambient
+
+Tecuracy IO THnCI05 T 05T
+
+100 C: 208 *Cat 35 °C
+Stabilly T00ICal 507G 201 Car Tom T
+
+100 C: 03 °Cat 35 °C.
+eating times “ambient 1o 375 °C: 6,5 minues | ambient o 100 - 10 mimutes
+Cooling times 575 °C to 100°C: 16 mimutes |_amblont 0 °C: 10 mimuos
+Welldepth 102 man (4 ;. 102w 5]
+
+1.6 mm (1/16 in) hole is
+
+89 mm (3. in} deep
+
+Size (WD) ST 125w x 50 mm | 99 mmx 10 mmx 105 mm
+
+(225inx4.9in x 5.9 in) (39inx5.5in x 6.9 in)
+Weight Tkg 2130zl 16kg (610)
+Conputer erface F5-232 included wilh e Inerface-it sotware
+
+9100 fixed-block options
+
+ok ok
+w4 umt sun P
+— ae
+e s
+s oo
+Ramm o -
+e " .
+36" 8 mm) N .
+s w ET=—- som
+
+FLUKE .
+
+Temperatue sensor calibration is easy with
+ahandheld dry-wel.
+
+9100S-V-X Handheld Dry-Well
+9300 Rugged Carrying Case, 9100
+91025-V Handheld Dry-Well, comes with your
+choice of two 3102 inserts
+9308 Hard Carrying Case, 9102/9132
+9320A-156 Battery Pack,
+115V (91025 run time: 4 hrs)
+3102-1 Insert, AL 1/16 in (L6 mm)
+3102-2 Insert, AL 1/8 in (3.2 mm)
+3102-3 Insert, AL 3/16 in (4.8 mm)
+3102-4 Insert, AL 1/4 in (6.4 mm) (Standard)
+3102-6 Insert, AL 3/8 in (9.5 mm) (Standard)
+3102-7 Insert, AL 7/16 in (111 mm) (Standard)
+3102-8 Insert, AL 5/32 in (4 mm) (Standard)
+2514 Dry-well interface cable
+V= voltage.
+
+Specify “1567(115 V 50/60 Hz),
+
+286" (220 V 50/60 Hz)
+X = Fixed-block. Specify "A", "B", "D"
+
+16" 16 ma) (64 mm)
+
+See www.hartscientific.com for additional
+‘specifications and information.
+
+--- PAGE 30 ---
+Field dry-wells
+
+and furnaces
+
+Ordering information
+9103-V-K Dry-Well,
+-25°C10 140 °C
+
+9140-V-X Dry-Well,
+35°C t0 350 °C
+
+9141-V-X Dry-Well
+50 °C to 650 °C
+
+9150-V-K Thermocouple
+Furnace, 150 °C to 1200 °C
+
+30 9316 Camrying Case, 9103
+9308 Carrying Case, 9140
+9308 Carrying Case, 9141
+9315 Carrying Case, 9150
+2514 Dry-well Interface Cable
+
+V= voltage. Specify
+*1567(115 V 50/60 Hz),
+256" (220 V 50/60 Hz)
+
+X = insert [interchangeable).
+Specify X, "B’, "C", "D"
+
+Hart Scientific 9103, 9140 and
+9141 Field Dry-Wells and
+9150 Thermocouple Furnace
+
+Temperature sensor test and calibration
+« Lightweight and very portable
+« Accuracy t0 0.25 °C
+* RS-232 and Interface-it software included
+« Interchangeable inserts
+* 9103 goes as low as 25 °C
+« 9140 is 6 pounds (2.7 kg) and 9141 is 36 kg (8 Io)
+|+ 9140 and 9141 reach max temp in 12 minutes
+
+* 9150 extends up to 1200 °C covering a wide range
+| of T/Ctypes
+
+* Direct interface to Fluke 744
+Each dry-well includes one of four available well inserts,
+an optional camrying case, RS-232 interface, instrument
+control software and a NIST-traceable calibration
+Recommended accessaries: Carrying case, additional
+inserts, reference temperature sensor and indicator.
+
+Application note, literature
+code 2148146:
+
+Eliminating sensor
+errors in loop
+calibrations
+
+The sectet to effective loop
+calibration is in the tempera-
+ture sensor. You can make
+huge gains in accuracy. We'll
+show you how.
+
+9103, 9140, 9141 and 9150 insert options
+
+e et
+
+t
+i
+
+--- PAGE 31 ---
+Field
+
+dry-wells
+
+Hart Scientific 9009 Industrial Dual-Block Calibrator
+Cut your calibration time in half
+
+« Calibrate temperature sensars fast
+
+« Independently controlled cold and hot blocks
+
+« ~15C to 110 °C (cold block), 50 °C to 350 °C (nat block)
+
+« Self-contained in a rugged watertight case
+
+« Four removable inserts
+
+* Direct interface to Fluke 744
+
+Each unit includes four removable inserts, including two with holes that are
+6.4 mm (1/4 in) and two with holes that are 4.8 mm (3/16 in) in diameter.
+Each unit also includes a power cord, insert removal tool, RS-232 intertace,
+instrument control software and a NIST-traceable calibration
+
+Recommended accessories: Additional inserts, reference temperature sensor
+
+and indicator.
+Specifications
+Function Hat block Cold block
+Range 5010350 C “C1o 10C 5T 1o 230 T
+(122 10 662 ) =8 (18 ) wih Dot boakat
+350-C 662 7)
+euacy Ts oz
+Stabiiy To0sC
+Wel-to-well uniformity oI
+Display resolution or”
+Hoatin times 10 minuts from 25 °C o 350 C | 18 minis rom 25 €10 110°C.
+Coolingtimes 30 minutes from 16 minues from
+350°C10 100°C 2571015 C
+Siabilzation times & minutes
+
+Well depth 102 mm (@ in)
+
+Romovable inserts Two 6.4 mum [1/2 i) and two 4.8 mmn (3/16 in) inserts
+
+induded; see Ordering [nformation for other available inserts
+
+‘Computer intorface 'RS-232 included with free Interface-itsoftware
+Power 118 V ac (£ 1096) 3 A or 230 V ac (= 10 %),
+
+2 A, speciy. 50/60 Hz. 280 W
+Size (RaWxD] 178 mm x 267 mm x 248 mm (7 in x 10 i x .76 ]
+Weight 35 kg (10 b]
+
+See www.hartscientific.com for additional
+‘specifications and information.
+
+Ordering information
+
+9009-B-V Dual Block Dry-Well (Black),
+
+~15°C 10 350 °C
+
+9008-Y-V Dual Block Dry-Well (Vellow),
+
+~15°C 10 350 °C
+
+3102-1 Insert 16 mm (1/16 in)
+
+3102-2 Insert 3.2 mm (1/8 in)
+
+3102-3 Insert 4.8 mm (3/16 in)
+
+3102-4 Insert 6.4 mm (1/4 in)
+
+3102-5 Insert 7.9 mm (§/16 in)
+
+3102-6 Insert 9.5 mm (3/8 in)
+
+3102-7 Insert 11.1 mm (7/16 in)
+
+3102-8 Insert 4 mm (5/32 in)
+
+2514 Dry-well interface cable
+
+V= voltage. Specify “156°(115 V 50/60 Hz),
+*256" (220 V 50/60 Bz)
+
+FLUKE -
+
+--- PAGE 32 ---
+32
+
+Field metrology wells
+
+Ordering information
+
+9142-V-E-P Field Metrology
+Well, 25 °C to 150 °C, process
+version
+
+9143-V-K-P Field Metrology
+Well, 33 °C to 350 °C, process
+version
+
+9144-V-X-P Field Metrology
+Well, 50 °C to 660 °C, process
+version
+
+9142-INS[X] Additional insert,
+9142
+
+9143-INS[X] Additional insert,
+9143
+
+9144-INS[X] Additional insert,
+9144
+
+9142-CASE Carrying Case,
+9142-9144
+
+5615-12-A PRT 305 mm x
+6.35 mm (12 in x 1/4 in)
+w/accredited calibration
+5626-15-A PRT 381 mm x
+6.35 mm (15 in x 1/4 in) with
+
+accredited calibration
+V= voltage. Specify *156"
+(118 V 50/60 Hz),
+
+256" (220 V 50/60 Hz)
+
+X = insert (interchangeable).
+Specify "X, "B’, "D", "E"
+
+Hart Scientific 9140 Series
+
+Automate for fast, accurate, documented results: Built-in measure
+capability for a reference PRT, and an RTD/PRT, thermocouple, and
+4 mAto 20 mA transmitter.
+
+Typical automated applications
+
++ Loop calibrations of temperature transmitters
++ Thermocouple calibration or verification
+
++ Calibrations of RTDs or PRTs
+
++ Testing of themostatic switches
+
++ Verification of industrial thermometers
+
+Recommended accessories: Reference PRT, transportation case,
+additional inserts.
+
+Specifications
+
+Function 9142 9143 9144
+
+“Temperature range a1 23 T =25 "C10 150°C 33010350 C 50°C 10 660°C
+
+Display accuracy T02°C hlltange | £02°C llrangs 3035°Ca50°C
+
+057 81680
+
+Stabilty To0I Chllrmge | _Z00ZCaIT $003Cais0%
+003 Cat 350°C_| 2005 Tat 660°C
+
+Environmental 137C10733 ° for allspeciicatons excepl lemperatuze range
+
+condiions
+
+‘mmersion el depih 150 mm 0]
+
+Heating timo 6 min: 23°C 10 140°C | S min: 33 °C to 350 °C | 15 mim 50°C 10660°C
+
+Cooling timo 15 min: 23 C to 25 °C | 14 min: 350 °C 10 100 °C | 25 min: 660°C to 100°C
+
+Siza 1 xWxD] 290 1 x 165 1 x 206 mm (114 x 13 x 116 )
+
+Weight BB kg (18 1) 75 kg (16 1) 77 kg (715
+
+Computer inertace
+
+RS-232 and 9930 Interface-it control software included
+
+9142 insert options
+
+2
+
+9143/9144 insert options
+
+(- e
+
+See www.hartscientific.com for additional specifications and information.
+
+--- PAGE 33 ---
+Hart Scientific 6102, 7102 and 7103 Micro-Baths
+
+Portability and extreme stability
+
++ Temperature sensor calibration
+
++ Stability to £ 0015 °C
+
++ Ranges from -30 °C to 200 °C
+
++ Accepts oddly shaped sensors
+
++ Exceptional bath portability
+
++ Direct interface to Fluke 744
+
+Each unit includes a str bar, power cord, RS-232 interface, instrument
+control software and a NIST-traceable calibration.
+
+Recommended accessories: Fhuid, case, reference probe and meter, exra
+stir bar, tank extension for LIG, MET/TEMP I
+
+Hart Scientific 9938 MET/TEMP II Software
+
+Easy-to-use temperature calibration automation software.
+
+* Fully automated calibration of RTDs, thermocouples, thermistors and many
+heat sources
+
+* Calibrates up to 100 sensors at up to 40 points
+
+* Performs coefficient calculations and generates tables and reports
+
+* Reports conform to ANSI and NCSL standards
+
+Each unit includes: CD-ROM, RS-232 multiplexer box, adapter, and PC cable,
+
+Hart Scientific 9934/9935 LogWare Data Logging
+and Analysis Software
+
+Tumns any Hart Scientific thermometer readout into a
+
+real-time data logger
+
+« Calculates statistics and
+displays customized graphs
+
+« User-selectable alarms,
+delayed start times, and sample
+intervals
+
+« Logging intervals from
+1 second to 24 hours
+
+« User-settable alarm functions
+
+See www.hartscientific.com for additional
+‘specifications and information.
+
+Tip: For improved accuracy use an external reference
+temperature indicator and sensor such as a 1521 and
+5615-12-1 combination.
+
+FLUKE
+
+Ordering information
+7103 Micro-Bath, 30 °C to 125 °C
+(includes a transport lid and test lid)
+
+7102 Micro-Bath, -5 °C to 125 °C
+includes a transport lid and test lid)
+
+6102 Micro-Bath, 35 °C to 200 °C
+includes a transport lid and test lid)
+
+(Specify 110 V or 220 V power)
+5010-L Silicone Oil, 1 liter (-40 °C to 130 °C)
+5013-L Silicone Oil, 1 liter (10 °C to 230 °C)
+9317 Carrying Case, 7103
+
+9310 Carrying Case, 6102
+
+9311 Carrying Case, 7102
+
+9938 MET/TEMP II Software
+
+(specify 110V or 220 V)
+
+9934 LogWare, single channel logging software
+9935 LogWare II, multiple channel logging software
+2514 Dry-Well Interface Cable
+
+“Soltware requires Windows" 98 or higher
+
+®
+
+33
+
+--- PAGE 34 ---
+Precision infrared
+
+calibrators
+
+Infrared Temperature
+Calibration 101
+
+Infrared temperature calibration
+is not so hard when you are on
+the right wavelength. View the
+necessary background informa-
+tion for spot on- calibration.
+
+Ordering information
+4180 Precision Infrared
+Calibrator, ~15 “C to 120 °C
+4181 Precision Infrared
+Calibrator, 35 °C to 500 °C
+4180-CASE Protective
+Canrying Case
+
+4180-DCAS Protective
+Carrying Case with wheels
+
+Hart Scientific 4180 and 4181 Precision Infrared Calibrators
+
+Accurate yet portable
+
+« Infrared display accuracy as good as + 0.35 °C on both units
+
+« Convenient handle and weight of 9.5 kg (21 Ib) or less for portability
+
+Easy to get dependable results
+
+* Each unit is given an accredited radiometric calibration for consistent, reliable, and traceable
+results
+
+« Audio/visual stability indication provided for ease of use
+
+« Stores thermometer configurations including temperature set-points, calibration distance,
+emissivity setting
+
+A superior target
+
+* 152 mm (6 in) diameter target addresses critical size-of-source effect issues for infrared
+themometers
+
+Each unit includes accredited radiometic report of calibration, protective target cover and mamual,
+
+Specifications
+Feature 4180 181
+‘Temperature range (@ 23 °C =I5 C10120°C 35°C 10 500 °C
+ambient, 095 emissivity)
+ot aceuracy T080Ca-BT TomTaBT
+% 040°Cai0C $0.70°C a1200°C
+T0STCa T T160Cas0 T
+Sability To0Ta-BT T0BTaHT
+To0TCHIDT %040 Cars00C
+Tniformity T00Ca-15C T00Ca BT
+(2.0 in dia of conter o target) 010°Ca0C 025 Car200C
+T020Ca 10T %050 Cal500C
+Hoating fims 6 min: 16 Cio 120°C 20min: 35 Clo 500
+Cooling time 20min 23 Clo-18°C 40 min: 500 °C 10 100°C
+Nominal emissivity 085 055
+“Thermometer emissivity 08610
+compensation
+Targot diameter [EXETYG]
+Computer nterface 5232
+Size (HxWxD) 356 mm x 241 mm x 216 mm 356 mm x 241 mm x 216 mm
+(14inx 9.5 inx8.5 in) (14 inx9.5in x 8.5 in)
+Weight kg 20T 95 kg 21 )
+
+See www.hartscientific.com for additional specifications and information.
+
+--- PAGE 35 ---
+Thermometer
+readout
+
+Hart Scientific 1529 Chub-E4 Thermometer
+
+Lab-quality accuracy on four channels
+
+« Four channels for PRTs, thermistors and thermocouples
+
+« Simuaneous measurement on four channels
+
+« Displays eight user-selected data fields
+
+« Logs up to 8,000 readings
+
+« Battery provides eight hours of continuous operation
+
+* Compatible with LogiWare and MET/TEMP Il software
+
+Recommended accessories: PRT (5626-12-L, 5615-12-L, or 5627A-12-1), thermistor
+(8611T-L or 5610-L), rugged carrying case (holds 1529 and four probes), LogWare I
+‘multi-channel logging software
+
+Hart Scientific 15028
+“Tweener” Thermometer
+
+Great price and performance in one package
+« PRT readout with accuracy to + 0.006 °C
+
+« Reads both 100 Q and 25 Q probes
+
+* 0.0001° resalution
+
+« Optional battery pack available
+
+* Compatible with Logiare and MET/TEMP Il software
+Recommended accessories: PRT (5626-12-D, 5615-12-
+D, or 5627A-12-D), 9301 carrying case fits Tweener and
+12 in probe, LogWare Il single channel logging software.
+
+Inputs 4 chiannols PRI/ KD/ hermistor and/or thermocouple 1 channel PRI/RTD
+
+Tomperature | 189 C10960°C | -80Co 190°C | 210 T 10 1800 C 20010 962 °C
+
+range. 1-308F to 1760 “B| [58°F 10 302°F) | [-454 F to 3222°F) 1328 1o 1764 1)
+
+Measwement 00104000 | 0KG10500 K | -10mV i 100wV Gawina
+
+range
+
+Tomperature | £0:006°Cal0C | £00025 Tat0C| B NG BUIC T0006 Cal0C
+
+accuracy, typical [ £0009°Cat | £0025°Cal | Kai 600 C %018 °C: +0.4°C| £0008 “Cat 100°C
+
+(meter only) | 100°C 100°C Tat200°CE01 T+ 037
+
+Tomperatuwe | 0001 C 0:0001 0 001 C16.0001 T G001 C
+
+rosolution
+
+‘Communications | 15237 {twaener and I porls ncluded. |EEE 468 (GPIE] optional
+
+Size (HxWaD) | 102 mm « 191 mm % 208 mm (10 1 % 15 18 X 6.2 1) B x 1y Blmn
+24x56x71 )
+
+Weight Zig (51 L0kg 22 1b]
+
+Calibration “Aocredited NIST Facable reistancs calbratin and NIST- aceable vollage calbration provided
+
+See www.hartscientific.com for additional specifications and information.
+
+FLUKE -
+
+Ordering Information
+
+1520 Chub-B4, 2 TC and
+2 PRT/Thermistor Inputs
+1529-R Chub-E4,
+
+4 PRT/Themnistor Inputs
+1520-T Chub-E4,
+
+47 Inputs
+
+56117-L Flexible Teflon Coated
+Precision Thermistor,
+0°Ct0100°C
+
+5610-9-L Precision
+Themmistor, 0 °C to 100 °C
+2506-1529 EEE Option
+9322 Rugged Canying Case
+15025-156 “Tweener”
+
+PRT Thermometer (110 V)
+15025-256 “Tweener”
+
+PRT Thermometer (220 V)
+9313 Battery Pack
+
+9301 Carrying Case, fits
+Tweenerand 12 in. probe
+9308 Canying Case, fits 35
+Tweenerand 6 in. probe
+
+5626-12-X Secondary
+
+PRT (12 in x 14 in),
+
+200 °C to 660 °C
+
+5615-12-K Secondary
+
+PRT (12 in x 14 in),
+
+200 C t0 420 °C
+
+5621A-12-K Precision
+
+Industrial PR (12 in x 1/4 in),
+
+200 C t0 420 °C
+
+Specify 110 V or 220 V power
+
+X= Lead termination. Specify D"
+for Tweener, *I” for Chub-E4
+
+--- PAGE 36 ---
+Handheld
+
+thermometer readouts
+
+Ordering Information
+1523 Thermometer, Handheld, 1 Channel
+1524 Thermometer, Handheld, 2 Channel,
+Data Logger
+
+'8610-9-P Probe, Thermistor .125 in x 9 in SST
+
+5615-6-P Probe, Secon. PRT, 100 ohm
+(1875 in x 6 in)
+
+8616-12-P Probe, Secon. PRT, 100 ohm
+(25inx 12 in)
+
+5627A-12P Probe, RTD Industrial
+12 in x 25 in OD
+
+9935-5 Software, LogWare I1, Single User
+
+1523-CASE Case, 1523/1524 Readout and
+Probe Carrying
+
+FLUKE TPAK ToolPak, Meter Hanging Kit
+
+2373-LPRT Adapter, Lemo to Mini Grabbers
+(4-wire)
+
+2373-LTC Adapter, Lemo to Universal TC (TC)
+
+Hart Scientific 1523/1524 Reference Thermometer
+
+Visual trending and measurement of PRTs, thermocouples and
+thermistors with 1 or 2 channels
+Use with PRTS, thermocouples, or thermistors to read, document, and visu-
+ally trend temperature data. Smart connectors automatically load calibration
+coefticients for easy and accurate plug and play operation. The single chan-
+nel 1523 records up to 25 readings, and the dual channel 1524 logs up to
+15,000 time and date stamped readings. A free software program makes it
+easy to download logged data and program new calibration coefficients.
+« Accuracy to +0.002 °C with thermistors and + 0,015 °C with PRTs
+
+(Readout only)
+« Simultaneously measures two channels
+« Reads PRTs, thermocouples, and thermistors
+« *Plug-and-play” calibration coefficients with SMART LEMO connector
+« Trends data graphically
+
+Each unit includes NIST traceable certificate of calibration, users guide,
+CD-ROM [contains technical manual) RS-232 serial cable, software for
+computer interface, and power supply.
+
+Summary specifications
+- S
+Channels T 2
+Documenting (icludes 25 readings 0036
+statistics)
+Logging Tone 15,000 readings
+Statistics Terage, Stdev, Vax Min WA
+Environmental conditions 135 10 33°C and 0 1o S0P RH
+for all specifcations
+“Themocouple voltage 0005 % of eading + & BV Hloor/E 035 °C
+accuracy/RIC
+TC measuroment Types) K. TE RS B L UC.Mand N
+capability
+Dimensions (WxHxL)/ '96 mm x200 mm x47 mm/0.65 kg
+weight
+PC communications/ F5-252/2400/9600
+baud ate
+Power requirements 5 AR Bateres (20 hows] do universal power supply
+‘Accuracies of selected readout/probe combinations (£ C)
+TrC) 5616-12 5615-6 5627A-12. 5610-9
+200 [T 0025 o021 i
+0 o0t o2t 0019 0008
+100 0027 0028 0085 0008
+300 0010 0043 0108 i
+a20 0080 wa 0150 i
+Includes readout acaurasy, probe calibation, and drif
+
+See www.hartscientific.com for additional specifications and information
+
+--- PAGE 37 ---
+Temperature FLUKE
+sensors
+
+Each probe include:
+
+« Individual report of calibration
+« Probe linearization coefficients
+« Resistance vs. temperature table
++ Termination to match your themometer readout
+
+see spec chart)
+Tip: Improve the accuracy of your calibration by using an
+external reference thermometer. Calibrated temperature
+sensors and indicators can improve your results by a
+factor of 2 or more.
+Recommended accessories: 2601 probe camrying case
+{for probes up to 12 in long), 2609 probe carrying case
+with handle (for probes up to 20 in long).
+
+Summary specifications for PRT's
+
+Niodl Range Type of Cal | Accuracy w/ Chub-EA or Tweener includes drift |  Dimensions | Unique
+
+— selling point
+5626-12 200°C 10 661°C | Accredited 0031 | 6:35 1305 mm | Best reterence
+S609-2K | 2007 b 610°C | Grder 030477 | £000 Toor TOGG | 635x305mm|  faghest
+
+temperature
+
+60817 | 200 Cro800°C | Graer 10304KT | £000 Too1 TO0A | 3Zx5mm | Eoellent
+Soie-12X | 00T 20T | Travsable oo oo T0055 | 6% 7% mm | Bestwae
+SoI12X | 200010 420°C | Accredied Toon Too TO00M | 635x305mm | Accredted
+oK | 0 ToE0T | Aowedned Toom Toow TooW | axRmm|  Aowedted
+o6 X | 30 TH 3007 | Aowedied Toom Toon To0u | G76x rmm | Smallext
+62T | 200t 420°C | Aocredted 106 T000 T0D5 | 476 %306 mm | Hostrugged
+S67A8 | 300 T30 | Aoedted T66% T60% T0100 | afbxiHmm| Woimged | 37
+S621A6 | 20010 300°C | Aocredied 000 0080 0100 | 476 152mm| Mostrggea
+Thermistor
+S610-6C GTH T Traceaie R To0% T00:5 | 52x70 i | Figh scowacy
+SeTR 0w 1007 Traceable R Toms T0625 | 3w 6100mm | Teflon fexbie
+
+X= Lead termination. Specify A" for §142/9143/9144, "D" for Tweener, "L" for Chub-E4, and "I" for 1621/1522.
+Accuracy calculated at k=2 95 % confidence interval
+{Calibration ordered separately. For individual probe calibration order the 1923-4-7 or 1923-4-R calibration.
+
+See www.hartscientific.com for additional specifications and information.
+
+--- PAGE 38 ---
+Accessories
+compatibility chart
+
+700Pxx Pressure Modules
+‘BPT217 1A Battery Pack <.
+'BP7235 NiMH Battery Pack D
+'BES00S Battery Eliminator <.
+‘BCT217 Battery Charger D
+TPAK Magnetic Hanger e m e [+ e« D 0
+700TC 1 and 100102 Themmocouple PlugKits | » | o | o D 0
+'80C)-M or BOCKM Mini-comnectors RN <. 0 -
+‘80PK Thermocouple Probes (al]) RN <. T [~
+7001V Current Stuunt <.
+700LTP-1 Low-pressure Test Pump RN
+700PMP Pressure Pump R
+700PTP-1 Preumatic Test Pump RN
+T00HTH-1 Hydraulic Test Hose R
+700HTP 1 Hydraulic Test Pump R
+1410 AG/DC Current Clamp. <. 0 0
+11010 AG/DC Current Clamp D . . 0 0
+C10 Holster, C12A Case . RN D 0
+C25/C100 Cases P I N I I S I I 0
+CT81 Soft Carrying Case <.
+G789 Soft Carrying Case D
+G700 Hard Carrying Case <.
+
+3g | O8I0 Leather Case [ I I I S N I R 0
+0530 Leather Accessory Case P RN N R R R R R R D 0
+0550 Tool Bag el el elelelelelelelel=l [=
+HG Infrared Thermometer Holster 0
+PV350 Pressure Vacuum Module <. RN 0
+71X Hose Kit 0
+
+1.20 A ac minimum 2. External pump for 718 required only when using high pressure modules 3. Requires 8OAK adapter
+
+--- PAGE 39 ---
+Accessories—test leads and
+
+FLUKE .
+
+probes, temperature and pressure
+
+£Ar ™
+
+Fluke 700LTP-1 c100
+
+Fluke 700HTP-1  Fluke T00PTP-1
+
+TL224 SureGrip~ Silicone
+
+Insulated Test Leads
+
+* 1.5 m silicone-insulated wire resists heat
+and cold
+
+* CAT I 1000 V, 10 A, CATIV600V, 10 A
+
+TLK-225 SureGrip~ Master
+Accessory Kit
+
+* AC220 phinger style alligator clips
+
+« AC280 phunger style hook clips
+
+« AC283 phinger style pincer clips
+
+* AC285 large jaw alligator clips
+
+* TP220 sharp test probes
+
+* TL224 right to straight test leads
+
+* 6-pocket storage pouch
+
+Fluke-700LTP-1 Low Pressure
+Test Pump
+
+Hand operated pressure pump designed to
+generate either vacuum to - 13 psi/~90 bar
+or pressures to 100 psi/6.9 bar. Ideal for low
+pressure applications requiring accurate low
+pressure testing.
+
+Fluke 700PTP-1 Pneumatic
+Test Pump
+
+‘The Fluke 700PTP-1 is a handheld pressure
+pump designed to generate either vacuum
+t0 116 psi/-08 bar ar pressure to 600 psi/
+40 bar
+
+Fluke 700HTP-1 Hydraulic
+Test Pump
+
+‘The Fluke 700HTP-1 is designed to generate
+pressures up to 10,000 psi/700 bar. Use the
+Pluke 700PRV adjustable relief valves to limit
+pressures from 1360 psi to 5450 psi.
+
+€700 Hard Carrying Case
+(200 Series)
+Hard carrying case with custom-cut foam liner.
+
+Fluke 71X Hose Kit Accessory
+Kit includes 5 hoses and 2 push fit fittings
+with 1/8” NPT cannectors and 1 NPT to BSP/
+150 adapter.
+
+TIK-225
+
+--- PAGE 40 ---
+FLUKE -
+
+Fluke
+more than just tools
+
+Since 1949, the Fluke Corporation has been dedicated
+to the design and manufacturing of innovative test and
+measurement instruments. Fluke also leads the way in
+providing programs, training and resources that help
+you stay at the forefront of your profession.
+
+Electrical Measurement
+Safety Program
+www.fluke.com/safety
+
+Get a free safety video, a summary of safety standards
+and helpful articles on safe electrical measurement
+practices. (Available only in the US.)
+
+Fluke Plant News
+‘wwwfluke.com/flukenews
+
+For electricians, electrical supervisors, field service
+technicians, plant and process engineers maintaining
+industrial equipment in the field or plant
+
+Fluke Education
+Partnership Program
+‘www.fluke.com/education
+
+We've teamed up with colleges, trade, technical, voca-
+tional schools, and apprenticeship programs to bring
+
+FlukePlus
+
+Online newsletter
+
+FlukePlus is a web site for test tool
+
+users who want to learn more.
+
++ How-to information, product details,
+expert tips and case studies
+
+« Preview new Fluke tools
+
++ Q&A with toal professionals
+
++ Special contests and promotions
+
+Find out more!
+www.fluke.com/flukeplus
+
+Fluke. Keeping your world
+up and running:
+
+the latest application information and tools into the Fluke Corparation
+40 classroom. Curently available in USA, Canada, Brunei, | PO BOx 9080, Evercti, WA 93206 UiSA
+Burma, India, Indonesia, Laos, Malaysia, Philippines, Fluke Eurape B.V.
+
+Singapore, Taiwan, Thailand, Viemam, Australia, New
+Zealand and Mexico.
+
+Test Tool Users
+
+Online Community
+‘www.fluke.com/community
+
+See what other test tool users are saying and get your
+questions answered, fast! The Test Tool Community
+online bulletin board is free and open to everyone.
+
+PO Box 1186, 5602 BD
+Eindhoven, The Netherlands
+
+For more information call:
+
+In the USA. (800} 443-5853 or
+
+Fax (425) 446-5116
+
+In Europe/M-East/Afrca +31 (0] 40 2675 200 or
+Fax +31 (0] 40 2675 222
+
+In Canada (800}-36-FLUKE or
+
+Fax (905 890-6866
+
+From other countries +1 (425 446-5500 or
+
+Fax +1 (425 446-5116
+
+Web acoess: hitp:/fwwwr.fuke.com
+
+1994-2008 Fke Corprstion.
+PRM is 2 radematk of Yokiogavwa Hlctic Corpration.
+Spealicaton sbjec o change vt notce.
+Priniod i U SA. /2008 1264563 B-US-1 Rov 1t
+
+Hodificsion of this document is not prmited
+ithow witen pormission from Fluko Corporation.

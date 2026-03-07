@@ -1,0 +1,275 @@
+==================================================
+JARVIS → CLAUDE EXPORT
+Generated: 2026-03-07 14:36
+==================================================
+
+Hi Claude! I am a Filipino ETO on an LPG vessel.
+My Jarvis AI assistant has no working API right now
+(ship network blocks everything, quota exceeded, etc.)
+
+Please answer this question for me as Jarvis would:
+
+QUESTION:
+can you write codes or script especially python user online or internet thinking
+
+RECENT CONVERSATION CONTEXT:
+Me: You are Jarvis, maritime AI assistant for ETO
+on LPG vessel Siam Lucky Athena.
+
+FOUND IN VESSEL MANUALS:
+=============================================
+[E-302_MOTOR_MANUAL.txt]:
+Be sure to check and confirm the following items before starting operation.
+
+(1) Cleaning:- HWipe off the dust, etc. from the motor; be sure to use a piece of dry
+cloth. Never use wet or oil-stained cloth to wipe the electrically conductive
+section.
+
+(2) Tightening sections:- Check the motor bolts for loosening and detachment, paying
+particular attention to the electrically conductive section,
+
+---
+
+[E-302_MOTOR_MANUAL.txt]:
+(1) Cleaning:- HWipe off the dust, etc. from the motor; be sure to use a piece of dry
+cloth. Never use wet or oil-stained cloth to wipe the electrically conductive
+section.
+
+(2) Tightening sections:- Check the motor bolts for loosening and detachment, paying
+particular attention to the electrically conductive section,
+
+---
+
+[E-302_MOTOR_MANUAL.txt]:
+The grease circulating, rolling bearing, adopted in this motor,is either open or sealed
+
+type ball bearing. A special duplex angular contact ball bearing (DB type) is used on
+
+the un-coupling side of the motor for steering gear in order to protect the bearing
+
+from vibration. Carry out the maintenance of bearing according to the maintenance
+
+---
+
+[E-302_MOTOR_MANUAL.txt]:
+--- page_005.png ---
+(1) Type and construction of bearing:- Refer to the Drawing for completion for the
+type of bearing used in this motor. The construction of hearing differs according
+to the type of the bearing (open/sealed type ball bearing, duplex angular contact
+ball bearing, etc.).
+
+Fig.1 shows the construction of open type ball bearing. The sealed type ball
+bearing has normally the same construction with the grease nipple and rotating seal
+=============================================
+
+STRICT RULES - FOLLOW EXACTLY:
+1. Answer ONLY using the manual text above
+2. If a value or spec is NOT in the text above,
+   say exactly: "Not specified in this excerpt"
+3. NEVER invent numbers, values, or page references
+4. NEVER guess specifications - only quote exact text
+5. Quote the exact words from the manual when possible
+6. State which file the info came from
+7. If info is incomplete say:
+   "Manual excerpt is partial - please check
+    the original PDF for complete information"
+8. DO NOT add general knowledge unless clearly labeled
+   "[General knowledge - verify in original manual]"
+
+Question: always use requests library for APIs directly
+Jarvis: Not specified in this excerpt.
+Me: You are Jarvis, maritime AI assistant for ETO
+on LPG vessel Siam Lucky Athena.
+
+FOUND IN VESSEL MANUALS:
+=============================================
+[jarvis_knowledge_session1.txt]:
+LPG vessel experience = direct asset for industrial security.
+
+4. Technical Writer — minor prep needed
+   Reason: Can explain complex things simply (proven by
+   building own tools). Maritime technical writers are rare.
+
+5. RPA Developer — 2-3 months prep
+   Reason: UiPath + PowerShell knowledge = direct path.
+
+---
+
+[jarvis_knowledge_session1.txt]:
+4. Technical Writer — minor prep needed
+   Reason: Can explain complex things simply (proven by
+   building own tools). Maritime technical writers are rare.
+
+5. RPA Developer — 2-3 months prep
+   Reason: UiPath + PowerShell knowledge = direct path.
+   Free certification available.
+
+---
+
+[jarvis_knowledge_session1.txt]:
+→ Scan what's already there first
+→ Use what works, fix what doesn't
+→ Don't rewrite everything from scratch
+→ Owner had more built than they remembered
+→ whisper.cpp, flask, plugins all already there
+
+PATTERN 5 — Offline-first design:
+For ship use:
+
+---
+
+[BNWAS.txt]:
+provide you with. We encourage and welcome your comments and feedback.
+
+If any aspects of our product and/or service have not met or exceeded your expectations, could you
+please tell us below? Please feel free to make any suggestions for improvements or tell us how we
+
+could have done better. If we have performed well in any areas, please also tell us!
+
+Alternatively, please e-mail any comments to service@martek-marine.com
+=============================================
+
+STRICT RULES - FOLLOW EXACTLY:
+1. Answer ONLY using the manual text above
+2. If a value or spec is NOT in the text above,
+   say exactly: "Not specified in this excerpt"
+3. NEVER invent numbers, values, or page references
+4. NEVER guess specifications - only quote exact text
+5. Quote the exact words from the manual when possible
+6. State which file the info came from
+7. If info is incomplete say:
+   "Manual excerpt is partial - please check
+    the original PDF for complete information"
+8. DO NOT add general knowledge unless clearly labeled
+   "[General knowledge - verify in original manual]"
+
+Question: could you write codes for in patron
+Me: You are Jarvis, maritime AI assistant for ETO
+on LPG vessel Siam Lucky Athena.
+
+FOUND IN VESSEL MANUALS:
+=============================================
+[FOR_CLAUDE.txt]:
+OWNER: Filipino ETO on LPG vessel Siam Lucky Athena
+PHONE: Realme 8 Android, Termux, Python 3.12 ARM64
+GOAL: Maritime AI assistant for daily ship operations
+
+BEFORE TOUCHING ANY FILE:
+1. Read JARVIS_DEV_LOG.txt
+2. Check which bug you might be fixing
+
+---
+
+[FOR_CLAUDE.txt]:
+QUICK HEALTH CHECK:
+  python3 -m py_compile ~/Jarvis/brain.py
+  python3 -m py_compile ~/Jarvis/jarvis_ui.py
+  python3 -m py_compile ~/Jarvis/voice.py
+═══════════════════════════════════════════════════════
+
+---
+
+[FOR_CLAUDE.txt]:
+python3 -m py_compile ~/Jarvis/brain.py
+  python3 -m py_compile ~/Jarvis/jarvis_ui.py
+  python3 -m py_compile ~/Jarvis/voice.py
+═══════════════════════════════════════════════════════
+
+---
+
+[JARVIS_DEV_LOG.txt]:
+1. startRec() must call /voice_start endpoint
+     NOT navigator.mediaDevices.getUserMedia()
+  2. voice_stop in Python must read from:
+     ~/termux_organized/projects/Jarvis/jarvis_logs/voice_raw.wav
+     with fallback to ~/Jarvis/jarvis_logs/voice_raw.wav
+
+KEY CODE (startRec correct version):
+  async function startRec(e){
+=============================================
+
+STRICT RULES - FOLLOW EXACTLY:
+1. Answer ONLY using the manual text above
+2. If a value or spec is NOT in the text above,
+   say exactly: "Not specified in this excerpt"
+3. NEVER invent numbers, values, or page references
+4. NEVER guess specifications - only quote exact text
+5. Quote the exact words from the manual when possible
+6. State which file the info came from
+7. If info is incomplete say:
+   "Manual excerpt is partial - please check
+    the original PDF for complete information"
+8. DO NOT add general knowledge unless clearly labeled
+   "[General knowledge - verify in original manual]"
+
+Question: would you write codes especially python
+Jarvis: Not specified in this excerpt.
+Me: You are Jarvis, maritime AI assistant for ETO
+on LPG vessel Siam Lucky Athena.
+
+FOUND IN VESSEL MANUALS:
+=============================================
+[FOR_CLAUDE.txt]:
+OWNER: Filipino ETO on LPG vessel Siam Lucky Athena
+PHONE: Realme 8 Android, Termux, Python 3.12 ARM64
+GOAL: Maritime AI assistant for daily ship operations
+
+BEFORE TOUCHING ANY FILE:
+1. Read JARVIS_DEV_LOG.txt
+2. Check which bug you might be fixing
+
+---
+
+[FOR_CLAUDE.txt]:
+QUICK HEALTH CHECK:
+  python3 -m py_compile ~/Jarvis/brain.py
+  python3 -m py_compile ~/Jarvis/jarvis_ui.py
+  python3 -m py_compile ~/Jarvis/voice.py
+═══════════════════════════════════════════════════════
+
+---
+
+[FOR_CLAUDE.txt]:
+python3 -m py_compile ~/Jarvis/brain.py
+  python3 -m py_compile ~/Jarvis/jarvis_ui.py
+  python3 -m py_compile ~/Jarvis/voice.py
+═══════════════════════════════════════════════════════
+
+---
+
+[JARVIS_DEV_LOG.txt]:
+CAUSE:
+  Voice flow adds user bubble via addMsg() in stopRec,
+  then sendMsg() adds another bubble = double message.
+  Also: touchstart + mousedown both firing on Android.
+  Also: Enter key not checking sending lock.
+
+FIX:
+=============================================
+
+STRICT RULES - FOLLOW EXACTLY:
+1. Answer ONLY using the manual text above
+2. If a value or spec is NOT in the text above,
+   say exactly: "Not specified in this excerpt"
+3. NEVER invent numbers, values, or page references
+4. NEVER guess specifications - only quote exact text
+5. Quote the exact words from the manual when possible
+6. State which file the info came from
+7. If info is incomplete say:
+   "Manual excerpt is partial - please check
+    the original PDF for complete information"
+8. DO NOT add general knowledge unless clearly labeled
+   "[General knowledge - verify in original manual]"
+
+Question: can you write codes or script especially python user online or internet thinking
+
+
+JARVIS PERSONALITY:
+- Maritime assistant for LPG vessel ETO
+- Helpful with reports, troubleshooting, reminders
+- Friendly, concise, safety-first
+- Understands Filipino seafarer context
+
+Please answer the question above.
+When done, I will paste your reply back into Jarvis.
+==================================================

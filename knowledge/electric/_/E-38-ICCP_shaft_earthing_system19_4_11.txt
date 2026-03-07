@@ -1,0 +1,2073 @@
+FILE: E-38-ICCP&shaft earthing system19.4.11.pdf
+FOLDER: .
+DATE: 2026-03-07 07:48:16.750196
+==================================================
+
+
+--- PAGE 1 ---
+CATHELCO: C-SHIELD ICCP
+
+MARINE IMPRESSED CURRENT CATHODIC PROTECT ION
+
+SYSTEM INSTALLATION & INSTRUCTION MANUAL
+
+NICOVERKEN MARINE
+
+VESSEL: FLANDERS TENACITY
+
+CATHELCO REFERENCE: CA 52637/44
+
+Rev: 0
+Issued By: AH
+
+Date: 19-Apr-11
+
+MARINE HOUSE, DUNSTON ROAD, CHESTERFIELD, DERBYS. S41 SNY, UK
+
+TEL: +44 (0)1246 457900, FAX: +44 (0) 1246 457901, E-MAIL: technical@cathelco.com
+
+Section 0 Rev 0
+Page 1 of 3
+
+--- PAGE 2 ---
+C-SHIELD
+MARINE IMPRESSED CURRENT
+CATHODIC PROTECTION SYSTEM
+
+NOTES:
+
+a) Do not attempt to service or readjust the system operating levels without first reading
+and understanding this manual.
+
+b) The system operates at low d.c. voltage levels and may be severely damaged by high
+voltage test equipment such as 500V Megger. Read the relevant section in this manual before
+carrying out any tests.
+
+©) Should any information be required which is not covered by this manual, please contact
+Cathelco immediately. (Address on cover)
+
+Section 0 Rev 0
+Page20f 3
+
+--- PAGE 3 ---
+C-SHIELD MANUAL INDEX:
+
+0.0
+1.0
+2.0
+3.0
+7.0
+8.0
+
+9.0
+
+List of drawings.
+Introduction
+
+General Descriptions.
+
+Installation of Equipment.
+
+C-Shield Commissioning Check List,
+World Wide Agencies.
+
+Diver Change Instructions.
+
+Section 0 Rev 0
+Page 3 of 3
+
+--- PAGE 4 ---
+LIST OF DRAWINGS:
+
+ANODE DETAILS:
+
+LINEAR LOOP
+
+30-1004 SURFACE MOUNTED LINEAR LOOP ANODE DETAILS
+SIUD FIXING & DIELECIRIC SHIELD DETAILS
+
+125-2004 SURFACE MOUNTED LINEAR LOOP ANODE DETAILS
+STUD FIXING & DIELECTRIC SHIELD DETAILS
+
+INSTALLATION SECTION OF 50-2004 ANODE
+
+EXPLODED DIAGRAM OF 350-2004 ANODE ASSY,
+
+REFERENCE CELL DETAILS
+
+ZINC REFERENCE CELL INSERT
+
+REFERENCE CELL ASSEMBLY DETAILS (PLAIN OUTLET)
+EXPLODED DIAGRAM OF REFERENCE CELL ASSY
+
+SHAFT & RUDDER EARTHING DETAILS:
+
+SHAFT EARTHING GENERAL ARRANGEMENT DETAILS
+SHAFT EARTHING BAND CLAMP DETAILS
+
+SHAFT EARTHING BRUSH HOLDER DET: ALLS (STD)
+TYPICAL SHAFT EARTH HOLDER MOUNTING POST (SID)
+SHAFT EARTHING WIRING (SWT. TCHABLE) DIAGRAM
+RUDDER BONDING CABLE DETAILS 61 LONG
+
+GENERAL INFORMATION DRAWINGS:-
+SPARE PARTS LIST
+
+Section 0.1 Rev 20
+Page 1 of 1
+
+DRG NO. M1072
+DRG NO. M1075
+DRG NO. M1073
+DRG NO. M1076
+DRG NO. C1504
+DRG NO. M1109
+
+DRG NO. C1102
+DRG NO. C1162
+DRG NO. M1004
+
+DRG NO. M1191
+DRG NO. Mi1192
+DRG NO. C1181
+DRG NO. C2158
+DRGNO. C1159
+DRG NO. C1165 6M
+
+DRG NO. C1273
+
+--- PAGE 5 ---
+32
+
+SURFACE MOUNTED LINEAR LOOP ANODES,
+
+320
+
+3.1
+
+322
+
+323
+
+324
+
+325
+
+327
+
+There are three (3) types of Linear Loop Anode.
+
+1) 250 Amp to 300 Amp output units to Drg no, M1074 with stud fixing
+and di-electric shield areas shown on Drg. No. M1064.
+
+2) 125 Amp to 200 Amp output units to Drg no. M1073 with stud fixing
+and di-clectric shield areas shown on Drg. No. M1076.
+
+3) 50 Amp to 100 Amp output units to Drg no. M1072 with stud fixing and
+di-electric shield arcas shown on Drg. No. M1075.
+
+For single anode cable type cut a 42mm diameter hole in the hull at each
+anode location or for the double type cut a 102mm diameter hole to receive
+either the single hull boss (Drg. C1 177) or the double hull boss (Drg.
+C1178).
+
+Grind off any surplus metal to ensure that the hull boss will locate flat 1o the
+internal shell plating at the inboard side of the hole and radius the external
+edge of the hole.
+
+Locate the hull boss centrally in the hole, inside the hull, in the case of the
+double boss ensure that the centre line of the two threaded holes are
+Vertical and weld it in place using continuous fillet welds both inside and
+outside. Take care when welding externally to prevent weld spatter
+damaging the thread.
+
+Locate the cofferdam (single type Dre. C1191 or double type C1192)
+centrally over the hull boss and position it such that the cable entry pipe(s)
+is orientated to suit the installation. Secure it in place by a continuous fillet
+weld internally and a full penetration weld externally to give a weld section
+at least equal to the plating thickness.
+
+Extemally in way of the area to be covered by the anode clean off any weld
+spatter from the surface, and grind flat all welds.
+
+Using the stud fixing and di-electric shield arca drawing as noted in 3.2.0
+above. Weld a series of M10 x 1.5p x 37mm long studs directly to the hull
+plate. Protect the stud threads with tape or rubber sleeves.
+
+Before proceeding further, ensure that ALL other welding work, cither
+inboard or outboard has been completed for the entire area to be covered by
+the di-electric shield. Any welding carried out after application of the di-
+electric shield will damage the shield material even if the welding is not
+associated with the cathodic protection system.
+
+The dimensions of the di-electric shield are shown on the drawing as noted
+in instruction 3.2.0
+
+Section 3.2 Rev 1
+Page 1 of 4
+
+--- PAGE 6 ---
+3211
+
+3212
+3213
+
+3214
+
+3215
+
+3216
+
+3217
+
+3218
+
+3219
+
+3.2.21
+
+Inspect the arca to be covered and grind off all weld spatter and surplus
+weld material to a smooth profile.
+
+Remove all oil and grease from the arcas using clean, dry, oil free rags
+soaked in a hydrocarbon solvent such as Xylol, Toluene or white spirit, do
+not use petrol or paraffin. Change the rags frequently to avoid merely
+spreading contamination.
+
+Ensure that the mounting stud protecting sleeves are still in position and
+plug the gland hole in the hull boss to protect the thread. Abrasive blast
+clean the entire area to a white metal finish, SA2.5 Swedish standard SIS 05
+59 00 using shot/grit that contains not less than 50% grit. Check the surface
+profile height using test tape is within range 1o 50 to 75 mieron,
+
+Remove residual dust with a clean dry brush,
+
+Apply a coating of the epoxy mastic where the anode is to be sited, after
+removing the gland hole plug but not the mounting stud protective sleeves.
+Technical details and health protections for the anode mastic are available
+on request from Cathelco.
+
+Thoroughly mix the contents of each can before mixing the two parts
+together. Follow  the mixing instructions on the epoxy mastic material
+packs, using a power driven mixer if possible and then apply by trowel.
+
+Remove the mounting stud protective sleeves and degrease the studs.
+
+Apply thread tape to one anode cable gland. Fit the gland to the inside of
+the hull boss within the cofferdam recess and fully tighten the main body of
+the gland, but fully slacken the compression ring. Two glands will be
+required for the double hull boss.
+
+Apply spare epoxy mastic (as used for the di-electric shield) around the
+mounting studs forming a conical shape 25 mm high and 50 mm wide at the
+base of the studs, working the compound well into the threads of the studs.
+
+The anode must now be fitted onto the studs within ane hour of the sealing
+compound / mastic being applied.
+
+Fit the M 10 threaded cye bolts into the two sockets provided on the outer
+surface of the anode carrier, cnsuring that they are inserted at least 15 mm.
+
+Using the eye bolts hoist the anode to a position just in front of or above the
+stud positions
+
+Ensure that the cable sheath is not damaged at the back of the anode and
+that the neoprene compression ring and slip washer are in the cable gland
+previously fitted to the cofferdam assembly.
+
+Pass the anode cable through the gland
+
+Section 3.2 Rev 1
+Page20fa
+
+--- PAGE 7 ---
+3222
+
+3223
+
+3224
+
+3.225
+
+3226
+
+oo - o 4
+
+3228
+
+3229
+
+3232
+
+Tit the anode into position on the studs taking care to pass the free cable in
+the cofferdam recess without it becoming trapped.
+
+Inside the ship tighten the gland fully onto the cable
+
+Caulk around the mounting studs with the sealing compound so that the
+recesses in the anode are filled up to the bearing surface for the washers and
+muts.
+
+Fit the washers and nuts supplied and tighten the anode fixings evenly from
+the centre. Tighten fixings.
+
+On completion of tightening the fixings, further caulk around the mounting
+studs and the muts and washers with the scaling compound, ensuring flow of
+the compound into the compound previously applied below the muts
+washers und entirely filling the recess in the anode carrier to present a
+smooth, uniform surface.
+
+Form the primary di-clectric shield by applying the epoxy mastic within 4
+hours of blasting and before the formation of any visible rust bloom. After
+mixing the contents (instructions as previously mentioned) apply by trowel
+to produce a film 4mm thick at the edge of the anode tapering 1o 1.0
+minimum thickness at a distance of 850mm from the anode. A one coat
+application is essential,
+
+Inside the ship, remove the blank flange from the cofferdam and check the
+cable for damage.
+
+Pass the cable through the side entry hole in the cofferdam and apply thread
+tape or sealing compound to the second anode cable gland, and pass the
+gland over the anode cable to fit it into position outside the cofferdapn i the
+side entry hole. Note that two glands will be required for the double hull
+exit cofferdam.
+
+Tighten the main body fully into position, then tighten on to the cable
+leaving 400mm of slack cable between inner and outer glands,
+
+Fit a yard supply junction box at some convenient point adjacent to the
+cofferdam and connect the anode cable to the power supply unit via
+shipyard supplied cable (sce power supply unit instructions).
+
+Check the insulation of the anode connection cireuit to the hull using a
+S00V earth insulation test meter. Note, if the anode is submerged then this
+test will show a short circuit.
+
+Disconncct from the power supply unit before this test, or permanent
+damage may occur.
+
+Section 3.2 Rev 1
+Page 3 of 4
+
+--- PAGE 8 ---
+Refit the cover on the junction box.
+
+Make a final visual check of all connections and finally fit the blind flange
+and gasket to seal the cofferdam,
+
+Do not paint over the anode surface,
+
+Section 3.2 Rev 1
+Page dof 4
+
+--- PAGE 9 ---
+34 REFERENCE ELECTRODE CELLS
+
+3.4.01
+
+34.02
+
+3.4.03
+
+3.4.04
+
+3.4.05
+
+3.4.06
+
+3.4.07
+
+3.4.08
+
+3.4.09
+
+3.4.10
+
+3411
+
+3412
+
+Cut a 170mm diameter hole in the hull at cach clectrode location.
+This is to cnable installation of the cell mounting cofferdam as
+shown by drawing C1190
+
+Grind off any surplus metal to ensure that the cofferdam body will
+locate flat to the internal shell plating at the inboard side of the hole.
+
+Locate the cofferdam centrally over the hole, inside the hull,
+
+Secure the cofferdam in the position by a continuous fillet weld
+internally to give a weld section at least equal to the plating
+thickness. Drawing C1162 gives a rough guide for welding and
+clectrode cell installation.
+
+Clean off all weld splatter from the surfaces including the cofferdam
+recess, and grind flat all welds in the arca to be occupied by the
+reference electrode.
+
+Ensurc that the neoprene scaling gasket is on the back of the
+reference electrode assembly and that the inside of the cofferdam
+recess into which the clectrode will fit is clean and dry.
+
+Apply thread tape or sealing compound to the M20 threaded
+mounting sleeve of the reference clectrode. The reference electrode
+cell is shown by drawing C1102. Remove the nut, dished washer and
+neoprene washer from the M20 slecve but leave the neoprene sealing
+ring in place.
+
+From the outboard of the shell thread the cable through the gland
+plate at the back of the cofferdam recess.
+
+Apply sealing compound to the recess and screw the reference
+clectrode fimly into place in the cofferdam using the spanner
+provided to fit the recesses in the front face of reference electrode
+carricr. Do not Over Tighten !
+
+Inside the ship, remove the blank flange from the Cofferdam and
+cheek the cable insulation for any possible damage.
+
+On completion of the inspection caulk the gap between the reference
+electrode carrier and the outer shell with scaling compound, to leayo
+a smooth uniform surface.
+
+From the inboard of the shell fit the neoprene washer within the
+dished steel washer and locate over the reference electrode mounting
+sleeve within the cofferdam. Ensure that the neoprenc washer faces
+outboard and is in contact with the gland plate in the cofferdam.
+
+Section 3.4 Rev 0
+Page 1 0f2
+
+--- PAGE 10 ---
+34.13
+
+34.14
+
+3415
+
+3416
+
+3417
+
+3.4.18
+
+3419
+
+3420
+
+3421
+
+Fit the M20 full locking nut on the reference clectrode mounting
+sleeve and tighten until the neoprene washer is fully compressed and
+the dished washer is in contact with the gland plate.
+
+Pass the cable through the side entry hole in the cofferdam,
+
+Dry Compartment Installation: Apply thread tape to the reference
+
+electrode cable gland, and pass the gland over the anode cable to fit
+it into position outside the cofferdam as shown in the drawing,
+Tighten the main body fully into position then tighten onto the cable
+leaving slack cable inside the cofferdam.
+
+Fit a junction box at some convenient point adjacent to the
+cofferdam and connect the reference electrode cable to the power
+supply unit via shipyard supplied cable see the Power Supply Unit
+instructions in section 3.5
+
+Wet Compartment Installation: Pass the shipyard cable through the
+
+side entry hole into the cofferdam. Any cables, which run through
+tanks, must be housed in heavy walled conduit pipe. Fit the cable
+gland in the same way as before but to the inside of the cofferdam
+over the shipyard cable.
+
+Connect the anode cable tail to the shipyard cable using a cable
+splice kit. Use an industry recognised kit or a C-shield splice kit as
+shown by drawing M1043, After splicing in submerged cofferdams it
+is recommended that the cofferdam recess void be filled with
+paraffin wax or similar. Connect the shipyard cable to the Power
+Supply Unit see section 3.5
+
+Check installation of the reference connection circuit 1o the hull
+using 500 Volt carth insulation meter. If the electrode is submerged
+then this test will show a short circuit.
+
+Disconnect from the power supply unit before this test or permanent
+damage may occur.
+
+Make a final visual check of all connections and finally fit the blind
+flange and gasket to seal the cofferdam
+
+Please cnsure that if the vessel is going to be stood in water for a
+long period of time during the outfitting period, the reference cells
+are NOT 10 be connected (o panel until the ICCP system is
+commissioned.
+
+Section 3.4 Rev 0
+Page 2 of 2
+
+--- PAGE 11 ---
+3.6
+
+PROPELLER SHAFT EARTHING ASSEMBLY
+
+3.6.01.
+
+3.6.02.
+
+3.6.03.
+
+3.6.04.
+
+3.6.05.
+
+3.6.06.
+
+3.6.07.
+
+3.6.08.
+
+The brushgear unit is shown on Drg C1181 or C2144 dependant on the
+¥pe supplied (See Drg list in this manual). Weld into position on the
+Sibport pillar a brushgear support bar of the correct size at the corres
+distance from the centre of the bar to the the outside diumotor of the slip-
+ting (See Drg). The centre of the bar should be parallel to (he axcs of the
+shaft in both planes,
+
+Mark a line around the shaft at approximately 60mm spacing from the
+bearing block, ensuring that this is perpendicular o the axis of the shaft,
+Thoroughly clean the shaft down to bright metal 1o a distance of 80mm
+from this line away from the bearing block.
+
+The slipring is made up of two matching bi-metal strips that are rolled to
+the required shaft diameter. All sliprings are supplied slightly oversized
+to allow some degree of tolerance for final fitting. All excess material
+shall be removed by filing down at the joint faces, see Drg. M1191 for
+details.
+
+Ensure the shaft surface & inside face of the slip ring are clean and frec
+from raised imperfections. Loosely fit the clamps to the shaft and fit the
+2 halves of the slip ring inside the clamps, Ensure the end of one of the
+slip rings is butted tightly to the other half, allowing the other end to
+overlap the adjacent half ring.
+
+Tighten the clamps carefully, ensuring the two halves of the ring remain
+in alignment. Do not overtighten the clamps at this stage. Using the edge
+of the overlapping ring as & guide, mark the cutting line onto the susface
+of the other half ring.
+
+Carefully remove the excess material, taking care not to distort or mark
+the ring, and remove all sharp cdges. Re-assemble and recheck,
+adjusting the fit by filing the ends of the halfings as necessary.
+
+Once completed, thoroughly re-clean the inside of the slipring and shaft
+and immediately fit to the shaft to ensure that no further contamination
+of the cleaned surfaces takes place. Refer to Drg M119], Carcfully
+check that there is no gap between the shaft and the slip ring, as this
+would adversely affect the functioning of the system,
+
+Section 3.6 Rev 0
+Page 1 of 3
+
+--- PAGE 12 ---
+3.6.09.
+
+3.6.10.
+
+3.6.11.
+
+3.6.12.
+
+3.6.13.
+
+3.6.14.
+
+3.6.15.
+
+3.6.16.
+
+3.6.17.
+
+Check the continuity between the shaft and the silver strip inlay with a
+calibrated multimeter. The reading should be a maximum 0f 0.1 ohms,
+
+Fit the brush holder as shown on the drawing to the support bar and
+align the assembly so that the brushes will run centrally on the silver
+track of the slipring. Check that the brushgear assembly will be clear of
+the slipring sccuring brackets when the shaft rotates. Secure the
+assembly in this position by tightening the hexagon headed bolt at the
+top of the brushgear body.
+
+Ensure that cach brush is mounted tangentially to the shaft 1o avoid
+uneven wear. Adjustment is provided by means of alignment bolts - see
+appropriate drg of Brush holder for details,
+
+Pull back the pressure spring on the brush holders and fit the brushes
+into position. Recheck & adjust the brush gear as necessary until the
+brushes sit correctly on the slipring. Ensure the brushes are frae 10 move
+in the holder.
+
+Connect the wires from the brushes to the two hexagon headed bolts on
+the brushgear.
+
+Check the continuity between the shaft and the brush holder body with a
+calibrated multimeter. The reading should be a maximum of 0.7 ohms.
+
+A length of 35mm’ flexible cable may be included in the C-Shield
+Cathodic Protection package for conncting the brushgear to the hull
+Connect one end 1o the brushgear by the large hexagon headed bolt at
+the top of the assembly, then securcly bolt the other down to the hull at
+some convenient point close by, ensuring contact faces are cleaned to
+bright metal before fixing. Full wiring details for the assembly are
+shown on Drg C1159.
+
+Check the continuity between the shaft and the final hull carthing point
+with a calibrated multimeter. The reading should be less than 1.0 ohms.
+
+Section 3.6 Rev 0
+Page 2 0f 3
+
+--- PAGE 13 ---
+3.6.18.
+
+3.6.19.
+a)
+b)
+)
+d
+
+3.6.20.
+
+OPERATION OF SYSTEM:
+
+Upon completion of the installation the complete assembly should be
+checked in accordance with the Checklist in Section 7 Shaft
+Commissioning.
+
+Every weck it is recommended that the following checks are carried out:
+Electrical Continuity between Shaft & Hull earth point <=1,0 ohms,
+Clean and degrease slipring track.
+
+Slipring frec from indentations,
+
+Clean and check brushes for wear and check freedom of movement in
+holders.
+
+Please note that the silver graphite brushes arc a consumable item, and
+depending on the rpm of the shaft, shaft diameter and the Tunning hours,
+the brushes will wear and require replacing on average at 4 to 6 monthly
+intervals. Ensure that the brushes are regularly inspected and replaced
+before they are totally consumed, otherwise the shaft carthing assembly
+will not operate correctly.
+
+Section 3.6 Rev 0
+Page3of 3
+
+--- PAGE 14 ---
+37
+
+RUDDER BONDING
+
+3.7.1  The rudder stock must be grounded using the flexible cable
+provided
+
+3.7.2 Securcly fix one end to the hull or overhead frame work .
+
+3.7.3  Weld or braze a suitable lug to the top of the rudder stock and
+securely fix the other end to this .
+
+3.74  Please refer to drawings C1165 .
+
+Section 3.7 Rev 0
+Page 1 0f |
+
+--- PAGE 15 ---
+7.0
+
+C-SHIELD COMMISSIONING CHECK LIST
+
+7.0.1 Upon completion of the system installation, after allowing a minimum of 48
+hours for the di-electric shield areas to harden, commissioning may now be
+carried out.
+
+702 Follow the attached check list entering readings as requested.
+
+703 Itisrecommended that completed check lists be copied and submitted to
+Catheleo for analysis. Kecp the original copy with the ships manual,
+
+Section 7 Rev 0
+Page 1017
+
+--- PAGE 16 ---
+C - Shield Commissioning Check List
+
+Vessel z
+Shipyard s
+Newbuilding No. :
+System Size 5
+Owner :
+
+1. Check shipyard cable connections to panel fuse terminals,
+
+2. Check shipyard cables to reference electrode inputs.
+
+3. Check ground connection at terminal in panel.
+
+4. Check shipyard mains input cables are connected.
+
+5. Check any auxiliary circuit input cables if applicable.
+
+6. Check panel holding bolts and frame. Make sure panel is rigid.
+7. Locate shipyard mains input voltage supply point.
+
+8. Make a physical check of the unit for any possible transit damage.
+
+Section 7 Rev 0
+Page2of7
+
+--- PAGE 17 ---
+C - Shield Commissioning Check List Cont'd
+
+Before switching unit "ON", Check mains input voltage.
+
+A-B A-C B -C
+A - Ground B - Ground C-Ground
+
+Disconnect Shipyard anode input cables from fuse terminals in panel.
+
+Measure anode open circuit potential. (Anode - ground) =
+
+1
+2.
+3
+
+4.
+For a new installation where the anodes have never had power applied to them readings should
+be in the range of 0.400 V' - 0.600 V. For anodes that have had eerent applied then readings
+will vary but will be in excess of 1.6 V up t0 2.0 V.
+
+Re-connect anode cables to panel terminals / fuses.
+Disconnect shipyard reference electrode wires from panel input terminal.
+
+Measure reference cell Ppotentials,
+
+|
+
+FNER .
+
+These reading will vary in accordance with the state of the hull paint coating adjacent to the
+reference cell location. For a newly painted installation the readings will be n tha range of
+200mV - 300 mY. For a hull in bad painted condition the readings will be higher i.c. 300 mV +.
+
+Re- connect reference electrode cable inputs to terminal block.
+
+Measure -v terminal to ground. ohms (Should be zero)
+
+Section 7 Rev 0
+Page 307
+
+--- PAGE 18 ---
+C - Shield Commissio ng Check List Cont'd
+
+On completion of all the tests as detailed in the above check list you can switch the
+system on.
+
+Watch display and note unit will indicate the following:
+
+CATHELCO CSHIELD
+* % % A SYSTEM
+
+The unit will then automatically go into the standby mode indicating as follows:
+
+STANDBY VOLTS
+
+1 ***my 2 xR qy
+(To obtain refercnce cells 3 & 4 if applicable press "up" arrow. Press "up" arrow to return
+tol&2).
+
+Manual Mode.
+
+Press "CTRL" button once and unit will go into Select mode, Press "Up arrow"
+to choose Manual Mode. When this appears Press "ENT",
+The unit will show the following statement. SELF TEST
+
+PLEASE WAIT.
+
+The unit then does a self analysis of all its circuits and modules checking reference
+electrodes and all relevant electrical data. On completion of the self test the unit
+goes into Manual Mode.
+
+The following will appear on the display panel: MANUAL T %
+EL1 ¥ iKY
+
+The bottom half of the display is a continuous read out of Ref 1&2&3&4
+followed by the voltage followed by the current.
+
+At start up the I % should be "zero",
+
+The unit is now ready for testing.
+
+Section 7 Rev 0
+Page 4of 7
+
+--- PAGE 19 ---
+C - Shield Commissioning Check List Cont'd
+Manual Mode Cont'd.
+
+By pressing the "UP arrow" you will be able to increase the I %. This will result in
+the reference cell readings reducing and the voltage and current increasing. To
+
+test is carried out to a maximum of "I 25%"
+Log the data as follows: I = 5%
+EL1 mV
+EL2 mV
+EL3 mV
+EL4 mV
+Voltage Vv
+Current, A
+I = 10% I = 15%
+EL1 my EL1 my
+EL2 mV EL2 mV
+EL3 mV EL3 mV
+EL4 mV EL4 mV
+Voltage b4 Voltage V.
+Current, A Current, A
+I = 20% I = 25%
+EL1 mV EL1 mV
+EL2 mV EL2 mv
+EL3 my EL3 my
+EL4 mV EL 4 mV
+Voltage A% Voltage Vv
+Current A Current A
+
+This establishes the correct operation of the manual mode. Reduce I % back to
+zero by continuously pressing the "down arrow". When the I % is zero press
+"CNTL" this takes it back to STANDBY then press "ENT"
+
+Scction 7 Rev 0
+Page 5 of 7
+
+--- PAGE 20 ---
+C - Shield Commissioning Check List Cont'd
+
+Automatic Mode,
+
+The unit is now ready for automatic operation.
+
+Press the "CNTL" button once and the unit will go into the Select mode,
+Press the "Up arrow" until Automatic Mode appears. Press "ENT"',
+
+The unit will show the following statement. SELF TEST
+PLEASE WAIT
+
+The following will appear on the display panel: EL1 ¥ my ] 4
+EL2 ***my v =y
+
+By pressing the "Up arrow" You can read EL 3 & EL 4 if applicable.
+
+Record readings immediately. EL1 mV
+EL2 mV
+Amps A
+
+Volts v
+
+After 30 minutes record readings again.
+
+EL1 mV
+
+EL2 mV
+
+Amps A
+
+Volts v
+
+After One (1) Hour record readings. After Two (2) Hours record readings.
+EL 1 mV EL1 mv
+
+EL 2 my EL2 mV
+
+Amps A Amps A
+
+Volts v Volts v
+
+Section 7 Rev
+Page 6or7
+
+--- PAGE 21 ---
+C - Shield Commissionin Check List Cont'd
+~—=————=ommissioning Check List Cont'd
+
+After six (6) Hours record readings. After twenty four (24) Hours record readings.
+
+EL1 mV EL1 mV
+EL2 mV EL2 mV
+Amps A Amps A
+Volts ___ \4 Volts v
+
+The system can now be left Permanently in "AUTOMATIC MODE" and the
+readings should be taken daily. These should be filled in on the C - Shield log sheet
+which has been provided and then returned to Cathelco head office monthly for
+analysis.
+
+Please review the instruction manual for ""Alarm Conditions"
+
+If there are any problems relating to these instructions or else the computer
+control unit does not function as it should then please immediately contact
+Cathelco head office for further instructions.
+
+C - Shield Systems
+Cathelco Limited
+Marine House
+Dunston Road
+Chesterfield
+
+S41 8NY UK.
+
+Telephone ; (01246) 457900
+Fax: (01246) 457901
+
+E-mail: technical@cathelco.com
+
+Section 7 Rev §
+Page Tof 7
+
+--- PAGE 22 ---
+C - SHIELD COMMISSIONING CHECK LIST
+SHAFT EARTHING SYSTEM
+22Ar I FARTHING SYSTEM
+Vessel
+Shipyard
+Newbuilding No.
+Owner
+Confim Slip ring and Brush gear are installed correctly as follows - refer to Drgs M1191,
+CI159 & C1181.
+1. Assembly is clean and free from oil and grease,
+
+2 Slip ring a tight fit o the shaft over its entire length with
+10 gap between ring and shafi,
+
+3. Ensure no bumps or indentations can be felt over the whole of
+the working surface.
+
+4. Joints are a good fit with no gap.
+5. Brush holder is secure on shaft,
+
+6. Brush holder and mounting are solid and will not be affected
+by vibration,
+
+7. Brush faces are tangential (o the Slip ring,
+
+8. Brushes are free to move in their holders,
+
+9. Check Electrical continuity (Shaft-Slip ring track max 0.1 ohms)
+(Shaft-Brush holder max 0.7 ohms)
+
+(Shaft-Hull earth point <=1.0 ohms)
+
+Section 7.1 Rey 0
+Page T of 2
+
+--- PAGE 23 ---
+C-SHIELD COMMISSIONING CHECK LIST
+SHAFT EARTHING SYSTEM
+
+R NGO SYSTEM
+
+OPTIONAL mV METER
+
+1,
+
+2.
+
+Brush holder is secure on shaft.
+
+Brush holder and mounting are solid and will not be affected
+by vibration
+
+. Brush face is tangential 10 the Slip ring.
+- Brush is free to move in the holder.
+
+. Check Electrical continuity (Shaft-Brush holder max 0.7 ohms)
+
+(mV Meter Brush Gear Earth terminal - to Hull carth
+point max 0.1 ohms)
+
+. Check Electrical isolation with Brush removed & mV cable
+
+disconnected. (Brush holder — Mount Post)
+
+I operation, with vessel afloat & shaft rotating, reading showing
+on meter is under 50mV.
+
+- In operation, check across both terminals inside mV Meter with
+
+Multimeter. (Reading same as shown on meter)
+
+Section 7.1 Rev )
+Page2of2
+
+--- PAGE 24 ---
+8.0
+
+WORLD WIDE AGENCIES
+
+8.0.1
+
+8.03
+
+Cathelco Ltd are world leaders in the supply of corrosion suppression and
+control systems to the marine industry. Backed with over 35 years of
+experience the C-Shield marine impressed current cathodic protection
+system is second to none.
+
+In order to meet customers requirements world-wide, Cathelco have an
+extensive agency network of Cathelco trained Enginecrs, These Engineer are
+
+on site instruction for operating staff,
+
+Please contact Catheleo UK in the first instance for details of your nearest
+agent world-wide.
+
+CATHELCO LTD
+
+MARINE HOUSE
+DUNSTON ROAD
+CHESTERFIELD
+DERBYS
+
+841 8NY
+
+UK
+
+Tel: 00 44 (0)1246 457900
+Fax: 0044 (0)1246 457901
+
+E-Mail: technical@cathelco.com
+
+Section 8 Rev 0
+Page 1 of 1
+
+--- PAGE 25 ---
+CATHELCO LIMITED STANDARD TERMS AND CONDITIONS
+
+1. INTERPRETATION
+Ao Cllowing defiiions and rles of nerpretation apply i hose ferms and conditions (*the Conditions'):-
+Authorised Person: any director of Cathelco
+Guyar:the person, i or company who purchases the Goods from Cathelco
+Cathelco: Cathelco Limited, & company registered in Engiany c {Nales under registered company number 562740 ang whose
+Corstered address is Marine House, Dunsion Road, Chetereld $41 by Loy Kingdom.
+
+on: an arbivaton process conducted by (and in accordance it s of) the London Court of infernational
+
+i) consisting of one arbitator;
+i) taking place in London;
+i) conducter
+
+Purchase of the Goods incorporating the Conitions,
+
+242 been filed is comploted and the commissioning report
+clive flings on vossels that aro already operaling, (e Dt of Commissioning will be the
+Pleted or (i the event tht the vesse s in dry dook during g, oo I8 returned to
+
+oforter 1o the Buyer.
+3. DESCRIPTION/PRICE
+
+3y Subject fo Candition 3.4 below, the quantly, description and price of tha Goods shall be as set out in Catheleo's quotation or
+acnowledgement of order subject to availabilty
+
+2 sane Buyer shall ensure that the terms of s order and any specifations are complate and accurate. The specification shall
+i o waters tal tho vesss! will operale n a8 wel a5 3 ul pacifcalion o g snrac. o which the Goods will bo filed along
+
+With any such other delals or information requested by Cathelco.
+33 orless tho quolation speciies olherwise, all quoted pricss for Goods are
+insurance, VAT and all other duties, fees and taxes.
+
+usive of packing, but exclusive of cariage,
+
+4. DELIVERY
+
+exportof the Goods along with Delvery Documents.
+e o s speced by Catheloo for deivery of the Goods are innded t be an eciimate 2nd time for delivery shall not be.
+
+are ready for dellvery.
+raeiapelco may doliver he Goods by separate instalmonts unless olhervise stpulated on the Purchase Order. Each separate
+nateimen shall be invoiced and paid for n accordance wih the provieions o he Geaery Lot instalment shal be 2 separate
+
+T&CRevO
+Page 10f4
+
+--- PAGE 26 ---
+Contract and o cancellaton or termination of any one Contract eleting {0 an instaiment shall enitle the Buyer to repudiate or
+‘cancel any other Contract or instalment.
+
+o hfor any reasan the Buyer als lo acoept dsiivery of any o the Goods wuhen they are ready for delivery, or Cathelco s unable
+oy ever ihe Goods an tme because he Buyer has not prowéed appoame instructions, documents, icences or authorisatione:
+(8) isk inthe Goods shall pass to the Buyer (Inducing for lose o damage caused by Cathelco's negiigence):
+
+(£} the Goods shall be desmed 1o have been dellvereds and
+
+(6], Satheico may siore the Goods untl the Buyer takes possession of the Goods, whereupon the Buyer shall be fiable for all
+
+delivery 1o the Date of he sole responsibiity of the Buyer.
+6.2 Ownership of the Goo 58 Lo the Buyer unti Cathelco has recsived in ull(in cash or clearod funds) all sums due
+Catharcecepect of the Goods and all other sums which are or which bepomee e 1o Cathelco from the Buyer on any account
+Cathelco shall be ent yment fr the Goods notwihstanding that ownership of any of the Gents pa o passed
+from Catheico.
+
+&3 Untiownership of the Goods has passed to e Buyer, the Buyer shal:
+
+(a) hold the Good:
+
+) catore Lhe Goods (at 19 005 o Catheloo) separataly from al otner goods of te Buyer or any third party in such a way that they
+remain readily dentiiabe as Cathelco's property.
+
+&) not destry. deface or bscure any identiying mark or psckaging on or relating 1o the Goods; and
+
+&) maintainthe Goods in salisfaciory condilon and koap (e 5 8 efe e o0 manner.
+
+o1 e Contract and the Buyer's it 0 posaession of (e Goode shal e Immediately it:
+
+@) the Buyer commits a bresch of ny term of any Coniract ant (1 e brecmn 2 Capable ofremecy) fails to remedy it within 30 days
+afterreceipt of notice in wriling requiring 1 fo do so: oy
+
+(6) the Buyer makes any voiuniary
+
+cempany) becomes subject 1o an ach
+
+payment of all outstanding sums
+T o Buyer shall indemniy Cainelco against all costs, charges and expenses (including legal costs) incurred by Catheico in
+0 ring sums owing by the Buyer (Including bul not imited t Seizurs of stessce.
+
+8 QUALITY
+
+starts from the deilvery date. Consumable llems are
+caLiprent ot warranly uniess lhey fail before thei recommanded operatng penec ire conditien and security of the
+2quipment from the date of receipt to the date of commiseioning Is the sole responsivilty of the purchaser. All cther warranties o
+eendlions (whether express or implied)as to qualy, condlin, description. sompimrs sample or fitness for purpose (whother
+
+T&CRev0
+Page2of 4
+
+--- PAGE 27 ---
+Sotutory o cinerwise) oiher han thoss expressly set out i this agreement are excluded from this agreement to the fullest extent
+permitied by faw,
+&2, Sathelco shall not be llable for a breach of the waranty in Condition 6.1 unless the Buyer gives written notice of the defect to
+Sathelco within 30 days of the date of which the Buyer bacame oy ought reasonably to have become aware of the breach ang
+Salnelco i given a reasonabie opportunity afler recening ths nofoe 1okt sueh Goods. The Buyer shall 85 far as possible
+presarve the Goods for inspection by Catheiep.
+82 Catheleo shall not bo liabe for a breach of the warranty n Conciton 8.1 if:
+
+(&) the Buyer makes any furher use of such Goods afr giing suay notice; or
+
+respect of such Goods.
+Bayen"ere Sacds are returned to Catheico, Cathelco wil accept no responibityfor the conditon of the Goods received from the
+Barer s the responsibityofthe Buer to ensure that he pagking o scaent 1 oo o ‘Goods during transit. The Buyer will
+erreduired 10 pay for he replacement of Goods received whieh are darages beyand economical repair or for repairs where such
+damage is caused by ransit
+
+9. INSTALLATION AND TESTING
+
+st the sole responsibily of the Buyer to ensure that the Goods are instaled comectly and in compliance with Cathelco's
+insiructons. Catheico can accept no rasponsibilty for any damage of e 1y caces otherwise arising as a resuit of incorrect
+Installatin. The condizons of warranty may b extended i tns il atee i Supenvised by a Cainelco approved engineer but any
+S, extensions of waranty must be areed in wriling and signo by an Alherord e The supervision wil not apply to the
+Siuctural appicalions involving preparalion, cutting or welding of tne sesse) o e purposes of mounling and securing the Installed
+quipment
+
+&2 Salhelcq acoepts 1o responsitily for testing ana commissioning unless it s carried ot by a Cathelco-approved engineer. In
+e yonses. Catheloo werrants hat the enginser willexercise reasondble sae and s croeys the meaning of the Supply of Goods
+2nd Services Act 1982, This warranty willun for one year from the Date o Commissioning where he Cathelco-approved engineer
+has signed the ccmissioning report and it has also
+
+CENDAMTATION OF LIABILITY — THE BUYER'S ATTENTION 1§ PARTICL Sate DRAWN TO THE CONTENTS OF THIS
+
+CcONDITIOl
+
+{8)for death or persanal injury caused by Cathaico's negligence: or
+{0} fnder seclon 2(3) or any ofher applicable seclon under tha Consumer Protecton Act 1987, or
+{G)forany mator which twowid be iegal for Caihelos t excluce o allemp: o couinie o liabiiy; or
+(@) for fraud or fraudulent misrepresentation.
+10.3 The Buyer will not be entiled to ciaim any damages in contact, lort (including negligence or breach of statutory duty),
+
+(b) Cathelco shall nat be liable to the Buyer for:-
+1) any indirect, special or consequential loss or damage; or
+il loss of data or other equipment or properly, or
+1) economic oss or damage; or
+o) incurting of abity for loss or damage of any naluro whatsoever suffored by thid partes (including in esch case incidental
+ana punitive demages); or
+ny loss of actual or anlicipated prof. interest, revenue, anticpated savings or business or damage 1o goodwill even f
+Cetheleo is acvised in advance of ine possiiltyof any such losses or damsges
+e Buyer acknowtedges and agrees that the price of the Goods refscs the liitations of fabi ty contained in the Contract
+11, INTELLECTUAL PROPERTY
+111 The Buyer acknowiedges that.
+{8)1the Inellectual Proparty Rights are Cathalco's (o s icensor') proparty:
+) noting in iis Conlractshall be consirued as conferring any icines or raniing any rignts in favour of the Buyer in relation to
+the Inlellectual Properly Rights; and
+\c) any tepuaton in any trade marks affxed or appied to the Goods shall accre o the sole benefit of Cathielco or any other
+‘owner of the irade marks from time to time,
+1152 The Buyer shall not remove any copyright nolices, confidentil ar proprietary sgends or igenification ffom the Goods save for
+any removal which s a necessary result of an installatién procese.
+
+T&CRev0
+Page 3 of 4
+
+--- PAGE 28 ---
+claim fighis to anywhera n the worid
+11.4 The Buyer shall promptly and fully notify Cathelco of:
+(a) any actua, threatened or suspected infrngement of any Inteliectua Property Rights which comes t0 the Buyer's nofice: and
+
+10) a0y Siaim by any thrd party that cames to the Buyer's nofice that the eae oy adveriisement of the Goods nfinges the rights
+of any person.
+115 The Buyer agrees (at Catheioo's reques! and expense) to do all such {hings as may be reasonably required to assist Catheico
+7 faking or esising any procsedings in relation o any infringemen or ciam raseres b Condition 11.4.
+
+12 G erminaton ofthe Contract howsoever caused Catheleo's righs contareas o ca, Condition 11 shall remain in effect.
+12. FORCE MAJEURE
+Catheico shall ot be fiable for any delay i poraming or faurs to perform any of its obigations under this Contrect if such defay or
+{aiure results from events or circumsiances ouside is reasonabie ool Wit inelude (without limitation): naturel disesters; war.
+{omorm: scaderts; explosons; incidents; breakdown of equpment of machay: sabolage; strikes. or other labour disturbances
+{egardless of the reasonabienoss of the demands of labout): acts or cciare 2 govemment; port congesiions; and shortage of
+
+2 period equivalent to that. ichever is the shorter, afier the expiry of
+which the Buyer shall be er wilh respect to any Goods undelvered at
+that lime.
+
+13. SEVERANCE
+
+13.1 If any Condition (or part of & Condition) of the Contrac ¥ court or administrative body of competent jurisdiction fo
+
+08 invalid, unenforesable or liegal,
+
+13.2 If any invalid, unenforce i if s0me part of it were deleted, that
+
+Condition wil apply with whatever modification is nacessar legal.
+
+141 13.3 The parties agree, in the circumstances. bstitute for any nvalid, unenforceable
+or illegal Condition a valig he greatest extent possible the same
+sffect a3 Wouid have been achieved by the in
+
+1142 1a,
+
+Failure or delay by Catheloa in enforcin ct shal nol be construed as a waiver of any of
+
+its rights under the Contract. Any waive It uncer, any term of the Contract by the Buyer
+
+shall not be deemed a wai the other terms of the Contract,
+
+7 T attes o the Ganlract do net intend that any tarm of the Coniractshall be enforceatio by virtue of the Contracts (Rights
+eronre Faries) Act 1999 by any person tha s ot a pary o f. Tnis Conditon 8. dnee o LAt any right or remedy of any
+porson that exsts oris available otherwise than pursuary o fhat Act
+e pagce el rompl oty th offe ofany lams brought or contemplad by thi parties i elaton o the Contract o
+oo o Sioado sold Rereunder and shll cormply with . alhr's reasonebie reqapecrbons s oo andlor avoid any
+e v and shalallow the othe conduct o any aclon andor sattement o ressersmre e,
+16. ASSIGNMENT
+Gomerco may assin ihe Conlrat o any partof i withoul the pror witen consant of the Buyer. The Buyer shall not assign this
+TS any g hereunder in whole of i gart 10 any (i party wiout i priorarie ermran o Authorised Person
+17. LAW, JURISDICTION AND DISPUTES
+Tre paryon i, exitence, consucion,performance, vl snd l aspecs of the Coniract shall be governed by Englsh aw.
+Tifanles subit o 2 fral resoluton o any dspute by Commercia Ariaion aihes s croron o English Courls. For the
+e Nl doubl, the United Naton Convention o tha Inermatonsl Salo of Goods snall ag ama o e Agreement,
+Sompatant e Condiien 17 shall mil i gt of Caelco 1 take proceeins Sgame 1y o oy o any ofher court of
+s haaeton, nor shall e laing of prococdings i any ono or more fursiction rectude e ey oY procesdings in any
+' unsdiction, whelber cancurenty or not, 10 he extant permited by he aw of uch o e,
+174 acpterms shll abply o the Coriractbuf where they confict wih ho Cortrac, i Ganae s crvai,
+Ablsaton it ondlon 17.1. any dispules that camnot be resalved betwean 1. sarise st va ered (0 Commercial
+riehagar e e year of oliver (1) the dale of hs Cortract,or () the end of i wareney pavas o oy SO 83,
+whichever s he latr.
+18. COMMUNICATIONS
+Jaas possomunieaions botween th paries about tne Coniractshalbe i wrilng and delivere by hand or sent by pre-paid first
+class post or aitmal f sant from outsice the UK) or sent by fax o e.mmbl
+
+{2 i case of communications o Catneleo) to he Saies Team at Catheicas regstered offce; or
+
+(5] it case ofthe communicatons fo the Buyer) o any address of e Buyer a3 s b perfed o Cathelco by the Buyer.
+18.2 Communications shll be deemad to have boon rece ved.:
+
+() f delivered by hand, at the me of delivery:
+
+{0)1fposted first-ciass within the United Kingdom, 48 hours after posing;
+
+() posted by airmail, five days after the date of posting: and
+
+(€)1 sentby fax or e-mall on 3 working Say pricr t24.00 pm,at e tme o transmission and othenise o the next working day.
+
+T&CRev0
+Pagedof4
+
+--- PAGE 29 ---
+P NOUYIO0N E] AW yn £ 1 (136-)
+T IR AT Er e ey S— S mal kb o)
+) R LR WY 0 06 73S d
+s am ww i QHLINIT 0ITHHLY)
+NOWVIISdONT NS | ofo ez f 051 % |
+% a0~ 05 4 -
+_A i FI8X774
+i 05 gz 5 < “. A
+] 4 !_ |
+I~ NI L T
+5 1 _
+¢ NN v , QYIS ISMYFHIO SSTINN
+HIONIT T98Y0 We X | Him e
+Y= NOLLOTS 305 1Y INYOOT HIN G371ddNS 38 0L 300Ny Hov3 U3 No 00T A
+MIV0 1 ANOOTIND 03T ST T
+NS
+NOLYInSdYoNT
+
+INITTOH 300Ny
+
+SLOIN9YO 73S STVL30
+VY GTIHS DMLOTTHT
+ONY (440 %) SO 0niS do4
+
+/0 08
+
+380 0/MLL
+
+--- PAGE 30 ---
+! owvseon T 1 g 17 HESIGT UHAEIS3H) [feo] g
+a/scom b i | JIOW 4007 m\@z “%\ N\a&m 97 25 S 00is | eeos] g q@g@\ h@&m&\%@%% e M
+135 SRUNGD T0H GIONGWY | 666041 ] 9
+T o kil hs sk @E s 3on] coorsr—a | (TALIATT 0)TIHLY) @
+TTHS NLITT-10 AVONODTS 40 vy
+) ! 8
+| = VA A « Ml x NOHL AW 01 Kzﬁ%ﬁ:ﬁm ﬁ&w
+%.:E\_L - W _lgﬁsa["
+SI30 NI TGl NI 0o VR TTIHS Q81077710
+P + [
+NSO G J41 1) 8 — _— —
+LS 404 WALYG ¥ S NoWLSoq H L/
+5508 TINH 40 SIN 34INTD 350
+T & & /O
+1500 W3 |
+1V ISINO3H NOdN U¥id INUNON ‘
+0300NIS ¥ 3004084 AviW 17 OOTHIYD
+UYId TIH 0L 19340 anis
+WAL GLH ONY M08 01 QoA L ~—IiF 0
+NHOHS SV SNOLLSOS GNLS o X s
+LL117°940 ¥ 09
+A8 NHOHS S SS08 TINH F19MS
+40 NOUVTIISNI %04 370H #0¥
+IF 069
+
+W0 0f A3y
+
+STRIINID ONIXLS GNLS 107910
+
+--- PAGE 31 ---
+L o W w0 T ] s T b L g 175 TS0 T ) sy
+1 mﬁ@bs ol s ﬁm@«@@@@ﬁﬁ@ w @Y 130 5 1153 et a0y woIsng snon Juam | ﬁj\
+3108 01 10N 01/s0/1s Ao a3aay 1H9m 0L/50/ee H ¥ N ph
+AT £ T QILAIT 00T | D)
+,
+ES:&SE,, NiSTY 78v) - 0r b r = 06} - — 061
+06— l 8314 | | ‘ 05 wg yogz-gsy
+‘ I 08 wuge yogy-Gzy
+| 4 o e y— /‘ »‘ 2 28V 18304
+I «/.@WW/ NI —t U -, ' S T - /
+| = ' 300NV L/ \ / o \
+, . ANV — | ‘ T V7 i
+AT y - IS IS0 ST
+\ —_— T3 — HIONTT 37gv0 AG x | HIIM —_—
+V=V NOIJ35 “30S 1Y INNO0T Ml 03TddnS 38 01 Jgomy HOYI ‘NI NG INIYOOT M
+
+\
+
+‘v XOdddy 9 061 = yopy
+\ NIS3Y
+
+NOLLVINSdYINT
+INITOH 300NV
+
+INILYOD 4 440931V
+O0T3HIYD 40 INIIY0)
+I AH0931vD 0073H1y)
+
+SINIATIT 300NV
+
+¥ (410
+
+SL0IN'940 335 STIVLIG
+VI8V OT3IHS O1037310
+14) SONII3 0niS b0
+
+NOLLYTIVISNI
+ONY INILIT 300Ny
+404 5907 1706347
+
+#0138
+SHIIA 01 43334
+SUVI30 318v) d04
+
+=380 o/ALL - —— |
+
+00§
+
+—0%% —
+
+/0 0511 —
+
+--- PAGE 32 ---
+ot | TR g 155 BRSBTS s
+e otz s e H0Y NOISNNG TS0 I @
+THLINIT 0)TAHLY)
+
+4
+M O£/ oM 0751 | Se14%01
+7 HADHS 38y
+Y300 'SSINNIHL MM SNOXIW 00
+01 INUYOD TIH OWWONVLS 350 “MUSHH
+
+a/scom gl ol B o g m
+
+SIESEY
+
+il 035301 £ 310N | £0°019]
+T3S DRUITTHG AMINO3S 40 3wy
+
+KHOHS VRIY 440 X0ty
+
+YOHL L OL MW MOMI NS 01 SMIIVOD
+HINS HO ALLN Lid OML ISIVIO3S 350
+S TTIHS DUTTF0 4 J0 Vi
+
+g
+S
+
+STVIA GNLS kAL = Rvawaoas oozs
+
+V3V ATIHS 91031310
+
+g
+g
+5
+
+—
+a4 T [O
+
+gmmwgsmeta\:masx: ‘_ [—iFoe
+¥ 089 ——|
+L1120
+48 NHOKS SV S508 TINH 31w @ L
+
+40 NOUYTVISNI 401 F10H $0% —r— |
+¥ 0291
+YN0 0L ATY ¥ 091
+
+“STUINID ONIXIH ONLS 103810
+
+--- PAGE 33 ---
+a #0619 u,.«i Sy “ van
+
+NAlYSQ
+
+AR NOIH)
+WS o1 108 96:NVIZ1
+IS v
+
+ON ¥
+
+00 4001 43 iz o 1 a0y
+NOLI3S KOLKTIIS Tt
+
+Ul
+
+“NOLVLITON
+
+BT
+
+Q300K S3iow
+
+10l
+
+300N STIYL30
+
+Ko80°11
+
+340N S3L0N
+
+00z
+
+Slel=(g
+
+008 195 SSIGHA0 OISR el cs
+
+TY04 NOISNNG ‘351K vy
+(ALINIT 0JTAHLY) @
+
+(¥002-521) 52W/16412 g
+(v051~08f 0zn/16119 94 04
+AV0¥31100 408 WON 9 g
+
+G3LVIS ISIMYTHLO SSTTNR
+INOT WS X X08 NOLLONAI 01 318v0 £
+
+3 TinH 9
+
+J18v2 1inS 01 Sanv9 T8V Ssv¥g ¢
+
+QSN-BW STW/1L112 940
+(v051~05) 0zn/1211) o o,
+SS08 TIH A¥IN T19NIS ¥
+
+53034 318Y2 NI TIINY usww t
+
+£LOIN "ON 940 o/
+JA0NY d00T ¥vINT Yooz-sz/
+
+ZL0IA "N 94q 01
+JA0NV d007 a¥INT ¥001-05 z
+
+9L0IN Y00z-57)
+SLOIN V00i-05
+~N 940 0L VY aTImHS 1977310 )
+
+‘SW3LI ONIMVYG 01 A3y
+
+®
+
+o
+NN
+
+AN
+
+VA 48 ST
+AUVid TIOH 01 AYa¥31100
+
+%4
+
+a4V A8 SQ1IM
+
+3IYId TIH 01 sSog Tin
+
+--- PAGE 34 ---
+g o do | Hy ATANISSY MO SWT Ty e 155 iG] UTLAISH) ol sy
+o1 |_ PV ] o] ' 00N o007 Y37 vooz LN {IRVE LT 00 woishng ok e @
+W o] Vg || 915 0 M50 G001ty QALINIT 0JTAHIF)
+NI 0
+
+NOLOTISNI WYOw31100 504 9nTd S | OF
+ASSY WYGHT100 H05 p
+
+43100 dOL 403 0L W74 v .9
+ASSY WV043400
+404 L3NSV9 INITIS INTIOIN
+MISIOH MY0831400 8/ .9
+MVO31400 404 8 X ASSY IMLTog oz
+aNV19 TI8%9 Ssvg
+M9 3NTTS INUNNOR VT T
+ONVT9 F18V3 SV Czis
+TI8YIINS /9 5508 TINH ANING T1oM
+SSOF TIH 30
+NOUYISN! 404 SS3034 Him vl T | ¢
+OJTHHIVI A8 GrTdans NOFTIVISHT
+J0ONY H04 SYIHSYM B SinN ()
+TS 41931310 (9] 7
+
+© |o |~ o
+
+~
+
+GSVA A8 31¥Td o -
+TINH 0L AU3H0 G307 Sanis (v nmmwﬁ aw%wm%mmmm%km% .wmm < \
+INLNNON FqoNy 01§33 SI00NY 00T H¥NT 40 STVIIa w04 7 @
+J18Y0 3400 T18IXT14 WS M/ T30M08d TNV NOIINMISNI
+(S3UON 335)" 300NV 4007 3 ! (0T3H5~9) 03HLY M1 11080 SAVHTY
+A99 50 W20 3dAL V002 01 Y05 NOLVTIZLSNI 300NY ANY IMUAHILLY 340438 )
+
+NOUINIS3a N 31! SION
+
+--- PAGE 35 ---
+G wou 8T YOI | 7343 545 175 aHSigu T Ve
+s T T oM | Y 5D UL 3l T v o2 {010y NOISNA TN0H o @M
+e 0w e oo s |wwwee |5 | (LT OJTAHLY)
+
+/0 Miar
+
+ISMESHIO G3LAS SSTINN GUVaNVLS S¥ 1w
+T 40 WG X OS WYL HIM G3Tddns @
+
+1 TS o1 oo s ()
+
+OHHIIONSNO 01 w3k kst s (9)
+S0130K 940 o1 W35 Ao (5)
+
+LOHTONSYO 01 31335 Mo 135 () B0HHTON NI 0L NS T3S sl ®
+
+NN
+INDIOOT 401 STT0H d330 WHSZ
+X NL X 2 IAVH 01 AG08 NISTY
+
+VdS Nid
+
+1
+
+SOLITON'9HA 01 HOL0INNOD TG @
+1001 N0 A8 TINI0S S¥ %0078 NIS3Y @
+
+£0LLTON'940 0L Y0078 INIZ 300410373 @
+
+S
+
+£
+
+SN
+TV 1V N¥310
+0% T d33Y
+
+%
+
+—
+
+1108
+
+50 -88
+
+091
+
+--- PAGE 36 ---
+Sy AL o || s S O] it
+
+P e AL ] 0 TN W0 ST 04 NOLSNNG TSNOH I J
+mom ] e 1 QALINIT 09TAHIV) | D)
+
+T30 J0NFY3134 anv V0434400 50 30v4nS 0L AX0d3 HIOONKS (/ AXOdT NI T30 FNIMT43 40 X0V ¥3A00(r
+
+V0431400 FAISNI 10N ININIVLZY ONY YTHSYH Pk «m WVQYTHH00 HONONHL T18vD T30 INFHIA3Y I Td mm
+
+WAH31400 HInowH! N1 T30 IONFHI43Y M340S % NOWISOd OINI WYOY31400 aim «N
+
+XO0dddY 058 HIQHO NOUYTTVISNI
+
+3vid TIH 100 (1
+9587 _ \
+
+06110940 01 = 3vid
+
+‘‘‘‘‘ m TM. S3TTOH WVG¥21100 T
+
+I
+168.30
+
+(<— 1108 CELL j
+
+ZPEN 0119940 01
+/] 130 INH
+
+o 1 3015 oo
+]
+
+ATddNS 01 QOTIHIV “JUSWW ¥TITH
+AXOd3 HIM TTVH 43TT0H AVONT00
+
+NN O3S Yova
+
+00T3HIYD Hith GTIH NOVHLINGG 104 350
+L ONY 1435NI T30 FON343438 11 A8 QIaM0yd SI0T0H WYGHI100 NI G13H ONY
+MTIMLIE GIoA FHL Tl AT8RISSY Nng ONV19 31870 NHOHS SY 3lvid TIH N1 310M 100
+
+--- PAGE 37 ---
+dd
+HIH)
+
+Har
+
+/oo e
+
+SIN 6017
+TS I
+
+OV ¥
+
+NOLYTLISNY 300419773 I0N3343
+WOldAL 40 4910 030073
+
+NOUYILAGON
+Q0N N1 NI
+
+0w | v
+
+A1 108 115 TSI (LT o] s
+
+008 NOLSWG ‘IS10H 3N
+(ALINTT 0JTAHLY)
+
+INTd SSvyg
+NOULITASNI / INITILS Wey34400
+
+ATBNISSY WY0Y31409
+404 L3ASY9 INITYZS INTHAOIN
+
+3915 INUNOW W19 T7v) 035400
+
+JIFIS INUNNOW AVOYT3H00
+HilM 0371ddnS Sy aNv19 716v) SSvig
+
+r1dVd 859 'SE
+Ol NOISNILXT Wey 378D 300 gy
+
+VTS 9 43100 dO1 ASSY WVQy34400
+
+AN INNZIHOLL 02 7 33HSwH
+WIHSIO "HIHSH INFIOIN INISISINOD
+L4 NOWVTUISNI 300412373 FONFHTA7
+
+WHO3400 ¥3d GIdN03Y
+SIS X8 JION AT8WISSY WyGy34100
+A0 SYIHSYM % S1T08 “SInw oz
+
+JLV1d_ININNOW
+GH0VISHL 300810313 IONTH2435
+
+8/N .9 \IanIssy Mr0434400
+NV F004I9TT FINTNT43Y
+
+WHOH3400 40 NOIYTILSNI
+404 SS303 INIMOHS 3UV1d TInH
+
+ITTS / TIONIAS INLINAOW
+T331S 300819373 IONISF434
+
+INIY ONITYIS
+INISHOIN F00819713 FONFHT3%
+
+ININTTT 300410773
+HIM 9NISNOH 300815713 JONFH139
+
+L NOULdIOS3a
+
+ON H3L
+
+WONAH 0TIHS-0
+O0T3HLYD 3HL LINSNOO SAHMTY 3l 300Ny
+SHL 404 SNOLLONYLSNI NOLYTILLSNI 1934400 04
+
+29110 “ON 940 335
+ATBNISSY 300419313 FONTY3434
+TOIAL ¥ 40 STVII0 43HISNS Hod
+
+“S3UON
+
+--- PAGE 38 ---
+161N v s o eiton | 00T T g 1S %EE TTHIS3H) Voo w50
+Fry T e %ﬁ%&@% %&\\\% m LWL 00 Nosshing o T @
+s a0 T AALIRIT 0)TAHLY)
+6SHIIONM 335 NIHOLINOH L4¥HS “ON1 RSN INIM HILSAS 4 18IIOON'9Y0 335 STHL30 135 HSNUG INIHLVE LVHS Nl z
+Z6LIHON M0 3735 STVLIA dAVTD aNvg 2 LSHION'YE 73S SWIIg 35 HSNYE LT0A-ITIN Hisd LIS (1
+/ # 380034 1N 01 @108 ~ SdmIs M- (f SILON INIMYHT
+087 (8) ONY (¥) 40 NOWLTIAH0D Ly IXIAND NIVHZY
+5%_\“,% sy ONY HSIT4 38 1San SN WL3N-18 40 STHVAHNS ININNY
+
+HSI0d GNY 430705 1405 Hum TINE ASYSSTO 4 (5
+LAVHS OL G3LL1 N3HM Hnd TUND SdMIS 40 SONT F7if [
+NOUYTIVISNI NO
+
+~ISNOLVIAO ONILLY vl 04 HOTIY
+
+OL 8 LivHS Nl 439471 AUHITS
+
+G3014aNS 34y SIS THIIM-1g
+
+?
+1+
+
+SIS0 INUNNOW Thgvins 3lwevdIs
+30iA08d 1S0m vk ATULWNG3LTY
+
+[T NOLLISOd OINI G3GT3M 38 Nvo Sdve
+
+140ddNS IVHL 05 AvmYTVH 40 X018
+Y38 0L 35070 IM~diis nnow |\
+
+T T
+
+7
+
+UNIF ot o1 SaHvT)
+{ NS HI08 N3LHOU
+SVLQ dAYVID anvg
+
+VI LIS I 10
+YILINVA TN 1S
+OL GITI0Y Sd4LS TiIN-g
+
+T TNRRY YRR SRRy AL i
+
+mmﬂmwwm/mw/wmu
+
+LHVHS ~d0dd
+
+AlddNS TiNOULJO
+SI WSS §213K
+AU B 135 HSnye
+INHOLNOW LAHS
+
+--- PAGE 39 ---
+IS 0L 10N
+IS el ON v
+
+C5LIN gul Sonol  suma| ATINISSY WHISET LS
+i 404 ST MVTD g
+T
+
+NOLVILIGON
+
+e
+
+S0 108 155 THHSIB50 TR [ gme )
+0904 NOSNIG ‘350K ey @M
+TLLNIT 0JTIHIV)
+
+SYINOISNIL dAVTD
+ONVE 360 HioM - ¢
+
+(S3071d 2) a1 NasHou
+01 JSIHN90T0 Nl
+AV wag Oy oy
+
+HOLIINNOI dHYTD ONve
+
+(615 %08 - 0/6'5)
+
+VO£ ISl J0049 T3S SSTINILS
+NI 37 SININOJWOD TIY = veiaivn
+
+INONVE T33LS
+SSTINWLS
+
+&
+&
+
+é'//////////////////////g
+
+GIFKIVY SI 0 V1) a3ST0
+JHL TN SH3H0S 3HI INML
+
+A8 OINILHOUL T HOIHM® SYINOISN3L
+OML 3HL 40 HOV3 OIN 034 SI NIV
+
+40 HIONTT N0 AT8YINS ¥ 40 ONT HOv3
+
+--- PAGE 40 ---
+o 1910 30 el e 00 3 e iy | s |1 ) 10 AT T ﬁ
+i el I L w3 17 15 QALINTT OJTARLY) | D)
+
+ATGNISSY ING~dITS ¥3ddoo
+
+INY
+
+IS ITBHISSY 40 3ovns d0L
+ONY 4V8 140ddNS ¥v39 Hsnyg
+H0 JINID NFIMLTG FONVISIG
+
+QIUNNON S1 135 Y314y
+8VINI01 HUM 390935 % NILHIIL
+SI08 INIWNOMTY 4739 HSng
+
+SIVIIA I
+
+S3HLINS 401 65110°0N'940 335
+INS 40 318v2 0S WwGe owisn
+3YId TINH 01 193NN09 TN 3L
+1108 318v0 INHINYI 135 HSNYg
+
+0-0LLLIH8XD “oN [avd
+HSNYE UIHdve9 Y3nTis
+FONVISISTY MOT “AuiSNTa HaH
+
+NOLISOd N1 135
+
+HSNE 3HL dWYID 01 SiHE 350
+
+IEAT 9L 40 yvg 140ddns
+¥ NOLISOd NI GT3# “Avat vt 30
+Ho0T8 INY3E 01 N 24
+LIVHS VAN 1L No 135
+HSNY8 % IN~dI1S FHL iNnow
+
+SWIL ONIMYHG 01 ATy
+
+®
+©)
+
+®
+®
+@
+
+XOYdd¥ OM £°0 = IHOIIM
+
+QYYA A8 03QT1IM ® a3qIA0Yd 183y
+ODT3HLYD A8 99 ¥ '€ ‘Z ST L LON
+
+XO¥ddV 8ST
+
+HvavIg 9l
+
+©
+
+L4VHS OL AT1vILNIONYL
+Q3LNNOW 38 1SN S3HSNyg
+
+ol
+
+ZEET
+
+--- PAGE 41 ---
+[v 3 oo [95 T W 41 T 155 RSigein T3S s
+3y g | 1509 ININAON 430704 IOV B e o0/ V] g0 NoLShg 810K Ny
+| NHINYT LVHS Wi 3 @
+s | oy T AALINIT 0)TAHIV)
+
+AND 3INVAING ¥04 ST oyg
+ATddNS QdYA ST WALT sIHL gn
+
+w2z
+2330 0L q3m \\\
+
+Pyl
+
+|
+
+‘
+
+"LAVHS 3HL
+40 NIT-39IN30 3HL SY LHOIIH Juvs L
+38 ATVIAL CINOHS NOISNIWIT STHL EN
+
+|
+
++ CLSTID 940 0L y343
+HICWH HSNJE ATLIA AW FIONIS 09
+
+| 102 T33LS QILVINSNL wia wuor (g
+€819 940 0L ¥343)
+
+¥ HIav3 378n00 o035
+a0y T33LS wig wuor y
+
+1/‘ HICOH HSN;
+
+TYNIHON WaiGxa0]
+
+NOILI3S T3NNVHD 133LS @
+
+NOILO3S T3INNYHO OINT
+L4vHS T33Ls 1Ins 01 s30)
+
+NADHS sy
+T13A Ny
+H-2 110
+
+--- PAGE 42 ---
+6940 S8 val s | ASSY HHLHT L0 T g ] ] 1 W 1S WS T e
+IMS oL 10N ¥6:
+
+: i = 0104 NOLSNNG 510K I
+o Mp e T1HS-) 404 Wrvomg Qsh..\u\“ﬁ QIONIY S35 318v0| /658092 TILINIT 0 DTHHIV) @J
+
+©
+
+N T3S0 00T 311
+%@@% %ﬁ%w OL 43534 S SWOLINALSNY ATBN3SSY g dod (2
+/ STH30 LIWING) 01
+LS SNICH090Y 410015 TNLLG0 38 48 G vl (1
+TN S3uow
+) N ]
+w
+N A
+OJT3HIV) /
+09T3H1¥9 49 135 A8 135 Hsnug
+0ITHIVD 48 33
+HSNY8 SNHLHYT LS MBOINOW L # WEOINOH L1 ¢
+- OOTHIV A9 Q30U0My 00TIHIND 48 G30M0nd 00THLY) 48 G3ON0NS
+SSTN WIS 40 1650 Wil SSTIN SIS 40 T8V SSTIN SYINS 40 T9) SN
+~SdHS 3409 05 1SE 351 Tnionus =SS 3400 05 WSS 30 135 HSnyg =SdHS 3400 05 WS 350 TNLOnMIS
+
+TI0H NIYH ScHS 01 NOUOINNOD Hisy HOLNOW LAVHS 0L NOLITWNOD 760 # TINH NV SdHS 01 NOUOINGD Hidv 7
+
+--- PAGE 43 ---
+L ] e GHZONYBY ONO. o QILRTT 0073HIY) | D)
+(37795 10N 00)
+
+(325 4 : 7705)
+INFHIINVIRY 90T Tg7)
+
+HIONTT 97 wuigg
+
+wwyz
+
+INT OIN
+U3dNIdD 3760
+
+YA A9
+....... NOLISOd N1 9nT 1708
+40 G 01K 1S 01 F10H
+
+wwg /|
+
+INT Y3dd00 q3LYId
+
+TIgv) |, wuigy
+
+NFNIINVGEV INIONOE Y0IS 53007
+
+Nt 31av0
+
+/0 mhz/|
+¥ 1d 89 59
+
+0L 789 TG
+— L] 49 wg
+
+\ ant 318w
+
+G
+
+aY3HX030
+
+--- PAGE 44 ---
+CATHELCO (~SHIELD 1P STSTRN: SPARE Pugrs ¢ o st
+
+DRG No. €1273
+REMARK
+No. i SKETCH / WEIGHT AT
+
+o. NAWE, / Tl WorkG spare P76 NolREMARI
+
+s
+
+SHAFT L
+
+1 | ARG Assy, |5 | enm 2
+
+BRUSH 0144 15 GRAPHITE| 5
+
+" N
+
+PART No.CXBRC1170-01
+
+</ a5 8
+
+PIN SPANNER TOOL: L é
+
+2| FOR INSTALLATION OF S 1| - o] 8
+
+REFERENCE CELL (0325 k) g
+
+. S
+
+CLAW FOOT SPANNER cur OUT FOR 8
+
+3 |TooL: For m. o N st | 4 | - el B
+
+INSTALLATION OF 3
+
+REFERENCE CELL (0.225 K6) 70mm g
+
+MARNE 0Lt DUNSTON o, |20 £ gy %EW W7 vk
+ST, DS, 51 b, W | A REH MODIFICATION JRH | DP
+
+G
+
+(5481 i)

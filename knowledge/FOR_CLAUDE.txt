@@ -1,0 +1,33 @@
+═══════════════════════════════════════════════════════
+INSTRUCTIONS FOR CLAUDE — JARVIS PROJECT CONTEXT
+═══════════════════════════════════════════════════════
+If you are Claude helping with Jarvis on this phone,
+read JARVIS_DEV_LOG.txt first before making any changes.
+It contains all known bugs and their fixes.
+
+OWNER: Filipino ETO on LPG vessel Siam Lucky Athena
+PHONE: Realme 8 Android, Termux, Python 3.12 ARM64
+GOAL: Maritime AI assistant for daily ship operations
+
+BEFORE TOUCHING ANY FILE:
+1. Read JARVIS_DEV_LOG.txt
+2. Check which bug you might be fixing
+3. Verify file contents before patching
+4. Test with py_compile after every change
+5. Never patch blindly — read first
+
+CRITICAL RULES FOR THIS PHONE:
+- NEVER pip install pymupdf (compile fails)
+- NEVER pip install pdfplumber (Rust needed)
+- NEVER pip install groq package (Rust needed)
+- ALWAYS use requests library for APIs directly
+- ALWAYS check termux mic saves to wrong path
+- ALWAYS read file contents before replacing text
+- Double message fix = skipBubble flag in sendMsg
+- Voice path = ~/termux_organized/projects/Jarvis/
+
+QUICK HEALTH CHECK:
+  python3 -m py_compile ~/Jarvis/brain.py
+  python3 -m py_compile ~/Jarvis/jarvis_ui.py
+  python3 -m py_compile ~/Jarvis/voice.py
+═══════════════════════════════════════════════════════

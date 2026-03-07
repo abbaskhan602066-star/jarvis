@@ -1,0 +1,44 @@
+FILE: E-36-2 New DC 24 volt power supply and battery charger.pdf
+FOLDER: .
+DATE: 2026-03-07 07:44:12.178981
+==================================================
+
+
+--- PAGE 1 ---
+DC (24V) POWER SUPPLY AND BATTERY CHARGER UNT
+
+Oo0OO0O0O0
+
+PsU1 Psu2
+CHARGER
+
+r-—--1
+| |
+i |
+1 |
+(I
+1 — N L
+1 + + 4 < <
+thﬁLLLrl_AﬂnT [ a0 ]
+INSIDE VIEW
+ERONT VIEW SIDEVIEW
+i ks * b 0| BATIERY CAHARGER & PSU UPGRADATION G20
+a No. DESCRPTION DATE | SioN|
+Vessel Name: LPG/C ATHENA IMO No. : 9113379
+- UQUEFED GAS CARRER| Cioss : (RS
+£ THALAND Shipyard :KAWASAKI/JAPAN
+GOODWOOD SHIP MANAGEMENT |
+20 Science Pork Road,§02-34/36,
+TeleTech Pork,Singopore 117674
+i q ' BATTERY CHARGER & DISCHG BOARD
+ToP VIEW e e ey
+- oow | 10 [wnn
+= os| & [wnn | | mmor
+1. Tl arowng I mode n efrsce wih s etoed anboor & doto rovded. o | & [ems MSG
+BT 7 s ez i gt dremings el EaN » % o | [wo-tomeer
+3 40y coreciots ot moitad o portes
+o 4055021 43-B0-36-1000 | w0 | s v o 1
+
+TV DN, SOV IR, B0 SHEOTEADOG o PPy o T SHGPOBE P O L TUBYSED O X COODYI S5 Wi A eSSt OCRSTIEHG T 7 VUL N0 5 COED o A VAR 20 08 WA, S5, TG, o8 058 1 I 0. 01 T OSSO 0 FECPRN FRVE: s WT 10 DS TS GTDN'S FHEGY 10 A GO PRTES DY 0k WG SPCR PAFES 08 WA TS DTG W 510>
+
+BATTERY -

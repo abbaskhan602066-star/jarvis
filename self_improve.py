@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/termux_organized/scripts/self_improve.py

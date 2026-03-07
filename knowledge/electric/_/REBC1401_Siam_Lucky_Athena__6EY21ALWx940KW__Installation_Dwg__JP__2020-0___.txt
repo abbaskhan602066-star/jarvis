@@ -1,0 +1,6111 @@
+FILE: REBC1401 Siam Lucky Athena (6EY21ALWx940KW)(Installation Dwg)(JP)(2020-0....pdf
+FOLDER: .
+DATE: 2026-03-07 10:00:08.138419
+==================================================
+
+
+--- PAGE 1 ---
+MESSRS : SIAM LUCKY MARINE COMPANY LIMITED
+S.NAME 1 ATHENA
+
+BEY21ALW x 940kW
+
+MAIN GENERATOR DIESEL ENGINE
+
+FOR INSTALLATION
+
+26, Jun., 2020
+
+YANMAR
+
+Application Engineering Division
+
+Development Division
+Large Power Products Business
+YANMAR POWER TECHNOLOGY CO., LTD.
+
+LR-UMS
+2 SETS/VESSEL
+REBC1401
+
+--- PAGE 2 ---
+CONTENTS _ W.NO: REBC1401
+_ NANME REHARKS
+
+SPECIFICATIONS R 1AL W
+THE LIST OF LUBE OIL BRANDS
+OUTLINE
+
+P3-47633-0160| PIPING LAVOUT (GXH. & AIR) o ;
+P3-47633-0220 | PIPING LAYOUT (COULTNG WATER)  __ oris, e
+
+P3-47633-0180 | PIPIKG LAYOUT {LUB. OIL)
+——--——-_ | LTB. OIL PURIFICATION SYSTEM (1/2~2/2)
+| 3-47633-0190 ° PIPING LAYOUT (FUEL 0IL) N |
+— FUEL OIL SUPPLYING SYSTEM EXE)
+
+E3-47633-0040 | CONNECTION DIAGRAM (1/3-3/3) n3/19, 6526
+
+£3-46670-6930 | CONKECTTON DTAGRAM FOR GOVERNOR MOTOR
+
+Y4-00008-2153 | THE REQUEST & COSIDERATION FOR MALK SPITCHGOARD OR WONITOR SIDE  |FOR REFERENCE |
+
+| B4-00009-7710 | SPEED RELAY (1/2-2/%) i Y
+F3-00000-076A | TIME SCHEDULE FOR ENGINE CONTROL _ FOR REFERERCE
+32002013 | /G CONTROL & L0 PRINING PUMP PAKEL i HCLL FITTING As/-s
+B4 000031242 | LUB, O1L PRIMING PUNP - EXG, MOUKTING 2510
+N36-00K-0157 | TACHOMETLR FOR MET-SKC TURBOCHARGER 5519
+
+14-46600~2340 | CLEANING DEVICE OF TURBINE — _
+14-00000-0054 | _SETTING OF THE EXPANSION JOINT [FOR REFERENCE _
+B4-00001--0980 | EXPANSION JOINT FOR EXHAUST GAS 3004 FOR T/C OUTLET
+
+B4-00001-1040 _EXPARSION JOINT FOR EXHAUST GAS 3504 FOR EXH. PIPING
+B4-00009-7230 | NOZZLE TESTER . sy
+D3-47633-0111| THE CALCULATION OF HEAT BALANCE 15, 8728
+
+D3-47679-397A| THE CALCULATION OF TORSIONAL VIBRATION (1/4-4/4)
+T3 47633- THE-REPORT-OF - TORSTONAL-VIBRATHON
+
+[ YAQ-QC-13-002  Storage & Maintenance Manual for Engincs during Oulljtiiug ez
+
+#xt SPARE PARTS & TOOLS xx
+
+= —— | LIST OF SPARE PARTS
+
+€3-47633-0020 : LIST OF TOOLS (j/8-8/8)
+- — [ LIST OF SPECIAL TOOLS
+C3-46673-0451 LIST OF HYDRAULIC PUMP (1/2-2/2)
+
+3-47673-0150 | LIST OF MYDRATLIC TACK (1/2-/2) B
+
+€3-00080-6120 | LIST OF SPARE PARTS FOR TURBO-CHARGER
+
+€3-00000-9130 | LIST OF TOOLS FOR TURBO-CHARGER
+
+€3 00000-9091] LIST OF SPARE PARTS FOR LUB. 0IL PRIMING PUMP
+€3-00001-0440] L1ST OF SPAKE PARTS FOR LUB._OIL AUT. BACK-FLUSHING FILTER
+
+SET/SHIP ~a71s
+
+SET/SHIP aae
+SET/SHIP 2310
+SET/SHIP ~azis
+
+FOR CONFERENCE SALES DEPT 1T BESIGNER T HAINTWA
+FUR SPECIFICATION COPY 11 CHECKED NN S
+FOR INSTALLATION, 2 _|TOTAL 4 . _._SPECIALIST
+
+FINAL DRARINGS SPARL PART (12E) MARAGER
+
+--- PAGE 3 ---
+SPECIFICATIONS FOR DILSEL GENERATOR ENGINE
+
+it. No. REBC1401 {(1/9)
+
+SHIP OWRER
+
+SIAM LUCKY MARINE COMPANY LIMITED
+
+SLIP YARD
+
+SHIP NAME
+
+ATHENA
+
+AKIND OF SHIP
+[ NAVIGATION OlF AREA
+
+"OCEAN GOING
+
+Usk
+
+| MAIN GENERATOR DIESEL ENGINE
+
+RU ILFw 1. R-UMS ~ ]
+QUANTITY 2 SETS / VESSEL -
+1. PRINCIPAL DATA OF DIESEL ENGINE
+Type Vertical, Single Action, 4-Cycle, Direct Injeclion, Waler
+. Cooled Diesel Engine with Turbo—charger and Air Cooler |
+Model BEY2IALW
+
+[ Rated Output / Revolution
+
+1020 kW 7 900 min”!
+
+No. of Cylinder
+
+6 (In-Line)
+
+Cylinder Bore / Stroke 210mm /290 mm
+
+Mean Effective Press. — 2.257 MPa
+
+Mean Piston Speed — s70m/s
+
+Mazx. Gombtslion Press. i 18.1 MPa B )
+
+Over Load
+Direction of Rotati
+
+~10% Over Load ; 60min. (Every 12 hours)
+" Counter clock wise (as viewed from Flywheel Side)
+
+[ Tiring Order
+
+[ Statting & Stopping
+System
+
+1-4-2-6-3-5~1 (Interval : 120° )
+
+o = Flywhes! Side
+
+-Remote(Auto)Starting/Stopping with Manual Starling/Slopping
+" al Fingine side
+~Start. Method : Air Motor Starting with Pross. Reducing Valve
+al. Tnlet Port of Air Motor
+Max. Start. Press.  2.94 MPa
+~Stop. Method : Conirol Air of 0.70~1.0MPa
+and Tlectric (DC24V) Cperation
+
+Fuel Qil System
+
+“|Heavy Fuel Ol ( 700 mu?/s al 50°C)
+
+The Viscosity must be kept in range 11~14 mm?/s al Eug. inlet
+
+Conlinuous running with Gen.load < 25% is to be within 3 hours
+“Low Sulfur Heavy Fuel Oil { Sultur content under 0.5%)
+
+()In case of Lhe viscosity is over 30 mm*/s at 50°C
+
+I'he Viscosity musl be kept in range 11~14 mm’/'s at Eng. inlet
+
+(b)In case of the viscosily is 3~30 mm?/s al 50°C
+
+The Temperature must to be kepl. al 60~90°C al Fng. inlet
+
+(Recommendation setting Temp. :80°C)
+
+Continuous running with Gen.load < 25% is to be withiu 3 hours
+“Marine Gas Oil, Marine Diesel Oil (DMA, DMZ, DMB)
+
+at Starling , Stopping , Emergency & Low load operation
+
+‘The Viscosity musl be kept more than 1.8 mm’/s at [ing. inlet
+
+Contipuous running with Gen.load < 15% is to be within 3 hours
+-Change over to M.D.O. at Start and Stop
+
+--- PAGE 4 ---
+¥. No. REBC1401 {2/9)
+
+Lubricating Oil System
+
+“System OF
+-0l Sump : Built in Common Bed of D/G set
+~lioreed Lubrication by (he Engine driven Gear Pump
+~Kind of Lub. oil : A.P.L, Service Grade GD
+Viscosity : SAE No. 30 or 40
+TB.N. : Please refer to “The list of Lube oil brands”.
+“Turbo ‘Charger Oil : Branch Supply from System Oil
+“Rocker Arm Ol : Branch Supply from System Ol
+-Governor Hydraulic Oil : SAL No.40
+
+| Cooling System
+
+*Forced Cooling
+Cylinder & Cylinder head
+Tub.Qil Cooler & Air Cooler
+Piston
+
+: Fresh Water (High Temp.)
+: Bea Waler
+Lub. 01l
+
+fic: Vruel Ofl
+consumption
+
+Ratchet type
+
+197 +5%a/kW+h
+
+with Eng. driven LO Pump and C.W. Punp (|
+
+193 +5%¢/kW-h without Engine driven Pump.
+
+»At Eng. Rated Ouipul 1020 kW 7 900  min ! Marine Diesel
+
+Oil used and Low Calorific Value of 42.7 MJ/kg
+
+-Based on the Standard Reference Condilions of 150 3046/1.
+
+“NOx Level to meet IMO [xhaust Gas Rogulation Tier T (N2 Mode)
+(Max 9.2 g/kW-h)
+
+sel)
+
+Specific Lub, Oil
+consumption
+
+0.3~1.1 g/kW-h At eng. full load
+
+Governor Characteristics
+
+Usage Condition
+
+Nt Tf engine voom
+
+ower than §C, raige
+
+| ot mp. vor than € m s sysiem,
+Capacity of Lub. oil & Fresh Water(Ling.jacket & piping) : 100 liters
+Water System Oil (Eng.+Common bed Lank) : 45+1000 liters
+Governor Hydraulic Oil 1.3 Tliters
+
+“Load Variation 100%—0%— 36%—63%— 1 00%
+-Speed Variation:
+Momentary = 10%
+
+, Permanent = 5%
+Time of Stability within 1% of Final steady speed & 6 sec, |
+
+«Ambient 'emperaturc 1 0~45°C
+*Relative Humidity + ~85%
+*Sea Water Temperature 0~32°C
+
+*HT F.W. Temp. at Eng. jacket outlet
+-HT F.W. Press. at Eng. jacket inlet
+(at 111 1w, Pump outlet)
+
+-Exh.
+
+: 85°C (High Temp.)
+: 0.15~-0.50MPs
+a1 :below 3.43 kPa
+
+(below 350mmH,0)
+
+: 7670 kg/h at Full Load
+
+Cas Back Press. al. Full Ioa.
+
+Lixhaust Gas Volurne
+
+Exhaust Gas Temp. of T/C Outlet™: 315 °C al Full Load
+- Combuslion Air Volume(25°C) 1 6280 w3/l L Full Load
+<Eng. Room Min. Temp. at starting 1 5C
+
+ling. Room Ventilation Air Volume @ 0.27~0.4Ln’/min-xW/ A T abt. 10°C
+ckot wats higher than 5C by any acat
+
+<Remark>
+
+In ease 50x serubher Is applicd, max. 5.3%kPa cun br accoptable
+
+Bitt plaase note tac guaranioc of porfarmance Is ander max.3
+
+%
+
+Tolerance
+
+Tixhaust gas volume: 4:5% | Fxh,
+Tha density of exhanst gas at 0°C is 1.293ke,
+
+3kFa.
+
+gas Lemp. : 20T
+
+--- PAGE 5 ---
+2. PRINCIPAL DATA OF A C. GENERATOR ¥ o, REBC1401 (3/9)
+Rated Output / Revolulion 940 kW /900 min’
+
+[ Rated Voltage / Current ACI50YV /1508 A .
+No. of Phase / Frequency’ 36 /60 Ha N
+Power Laclor _ 0.8
+| Insulation ] Class F . —
+Enclosure /_Cooling ~ Drip—Proof Self-ventilating
+Type of Bearing / Lub N Single  / Self Lubrication
+
+[ Congling of Fng. and Gen.
+
+Rigid
+
+Manufacture
+
+TAIYO ELECTRIC CO., LTD.
+
+Cylinder Head| Cast iron
+
+Remark : L. This AC Generator is supplied by YANMAR.
+7. Please refer 1o document of gen. maker.
+3. MATERIAL & STRUCTLRE OF ENGINE
+Parts Name ){[a(erial _ » Structure
+Cylinder Cast iron Monoblock casing and having undershung main bearing cap.
+Block The air duct, cooling water and lub. oil passages are
+integrated in block.
+| Cvlinder 1.iner | Special cust iron | Wot tyjo_ - o
+
+in center, indicator velve on head cover.
+4-valve type consisting of 2 suction valves and 2 exl.valves
+Exh. valve seat rings and nowde sleeve are cooled by F.W.
+Eshaust valyes are made of Nimonic
+
+Liuel injection valve
+
+Pisten Special cast iron | Mono=block casting, forced cooled type.
+‘The top and third ring grooves (upside) and second ring
+grooves are hardcned with laser hardening process.
+The top ring grooves (downside) is hardened wilh laser
+_ alloying process. _ _
+Piston Pin | Speciol steal | Flosling (ype _
+Connecting Forged steel - Structure {itled with piston pin wetal made of leaded
+Rod bronze of stec] back metal at the small end and
+
+processed with serralion al matching faces of the large end.
+
+Main Melal & |
+Crarkpir Melal
+
+Aluminum Alloy
+
+Bearing by aluminum alloy with slecl back mela
+(Ph Free)
+
+Crankshaft | lorged stec] Monoblock forging and bearing parts are treated with
+induction hardening and polishing finish.
+Camshaft Forged steel 2 split type, wonoblock forging of cam and shaft.
+
+Common bed | Carbon steel
+
+Welding structure, and making use of lub. oil sump.
+
+--- PAGE 6 ---
+4. ACCESSORIES OF ENGINE
+
+W. No. REBC1401 (4/9)
+
+Marks in column Supply M : Maker(YANMAR) & : Shipyard O : Qwner
+Location R : Fngine side  H : Hull side
+4-1. Lub. 0il System
+Parts Name Sony, [supply o0 Specifications
+Tub. Ofl Putnp T [ M | E |Type: Gear Pump with Safety Valve (0.8MPa)
+- Capacity 23.3 m?/h ~ o
+
+Lub. Ofl Strainer 11 M | E | Type: Punch Holes Plats
+
+for Pump inlet
+
+Lub, Oil Strainer T [ M| B Type: Automatic Back Washing (B&K)
+
+for Bngine inlet Filtration Limit : 30 4 m (Nominal 20t m) __
+1ub. 0l Cooler 1| M| E | Type: Finned Multitubular, Cooling Area : 9.92uf
+Lub, Oil Auto-Temp. T | M | B | Tvpe: Wax Element, Dircet Acting
+
+Control Valye | Setting Temp. : 50~65°C at Tne. inlet
+
+Lub. OIl Press. T [ M | B | Type: Spring Loading
+
+Regulating Valve Setting : 0.50~0.60MPa
+
+Lub. Ol Press. Regulat— | 1 B | Tyve : Spring Loading
+
+ing Valve for T/C inlet Setting : 0.06~0.15MPa
+
+Pipe Connections ecsch, M | B | TLub. Ofl inlet : 40A, Lub. Ol Outlet : 40A
+
+of Sump Tauk 1 Over Flow for continuous cleaning : 65A _
+By-pass Lilter 1| M| E | Type: Centrifugal Filter
+
+Lubricating Ofl Purifier | S | A | For Continuous Purification
+
+(Exclusive use for D/G)
+Note:
+
+he purification sysvem hat equipment
+
+s Ul sstisffes maker’s requirement as_the attachod document,
+
+| Over Llow Tank for
+
+Motor Pump
+
+Note: Lub. ofl priming pump is to
+
+ST H
+Purification of Lub. Oil
+Chemical Cleaning 11 M| E 7S 5k-25A with blank flange for Cooler inlet &
+Seat for L.O. Cooler outlet
+Lub. Oil Priming 17 M | B | Capacity : 4.0 m’/h x 0.15MPa
+
+be rur a: gl times during cugine stop “or protecsion of main bearing.
+
+Electric Motor 1.5kW, 3 ¢ ~AC440V, 60Hz
+
+for Air Cooler
+
+Priming Pump Starter 17] M | H | Eriming pump start & stop is controlled by eng. running |
+Ship| signal from engine control circuit or manual
+4-2. Cooling Waier System
+Parts Name Fen, [supts [Loce Specifications
+H.Temp. F.W. Pump 1| M~ L |Type: Centrifugal Pump
+for Jacket Water S _Capacity 30m’/h x20m B}
+< er Pump §n
+for Cooler Capacity 30 p/h % 20m
+L B . Note: Press. Loss at LO covler & Alr coolar @ nbi, dm
+Fresh Water Cooler §[H
+ILTemp.F.W. Auto- 11 S | H [ Setting Temp. : 80°C at Eng. inlet
+Temp.Control Valve |
+Orifice Plate for 1| M E [For Adjusting Press. of Jacket Cooling Water Press.
+Jacket Water o
+‘Air Escape Outlet 1 E | JIS 6k~15A with orifice plate and globe valve
+for Jacket Water o
+Hot Water Inlet 1M | E | JIS 5k-15A with orifice plate
+& Outlet for Warming up : i
+Sea Water Bypass Valve | 1 | M | B Manual operation for Boost Air Temp. Control
+
+--- PAGE 7 ---
+4-3. Fuel 0il System {(Hono-fuel System)
+
+. No. REBC1407 (5/9)
+
+Ty
+
+Toon
+
+for M.D.O, Return Line
+
+Parts Name /Bng, [S9PRYY |ion Specifications
+M.D.O. Feed P 1 M | E |Type: Geur Pump with Safefy Valve (0.98MPa)
+_ Capacity 059 1/h
+Final F.O. Filter T M | E | Doubls Throw Wire Net Mesh with Lagging
+| Filtration Limit : EF.35um
+F.O. Injection Pump 6l M| L
+F.0.Injection 6 E
+Valve
+F.O. High Press. 6 F | With Fuel Leakage line
+Pipe. - _ _— .
+Leak Detector [or T | M | B |Abnormal OFF at High Level of Leak Tank
+High Press. Pipe o
+F.O. Drain Sump 1A E
+.0, Pump Case Cover | 1 E |
+Accumulator _ 2 M| E o
+Press. Regulating T M| E | Type : Spring Loading & Differential press. Control
+Valve for F.O. Return Prass. Set. at Running : 0.70~0.80MPa
+o (Diff. Press, - 0.30~0.35MPatBack Pross.
+Press. Rogulating Valve | 1 | M | E | Type : Spring Loading & Differential press. Control
+for M.D.0). Return Press. Set. at Running : 0.70~0.75MPa
+i - (Diff, Press. : 0.7~-0,75MPa*Stalic) -
+H.F.0. Booster Pump & ST 11 | Capacity : abt. 0.60 m3/h for 2 engines running
+Press. Regulating Valve Press. Regulating : 0.40~0.45MPa
+H.F.O. Circulating Pump | S | A | Capacity : abt. 1.50 n3/h for 2 engines running
+| H.F.O. Filter for S | 11 | Recommended : Automatic Back Washing Filter
+Circulating Line Filtration Limit : B.F. 10um
+[ H.F.O. Heater S H
+Press. Regulat. Valve for S | H | Press. Regulating : 0.80~0.85MPa
+H.F.O. Circulating Lin —
+Changeover Valve of H
+L M,D.0. & HF.O. L.
+Pross. Regulating Valve S | H | Press. Regulating : 0.40~0.45MPa
+
+--- PAGE 8 ---
+4-4. Suction & Exhaust System
+
+W. No. REBC1401 (6/9)
+
+Parls Name
+
+[T T
+B Tt |-
+
+Specificalions
+
+1xh. Gas Piping
+
+| Size : 3504
+
+Exhaust Gas Turbo— - M Model : MET18 Air Cooled Type
+charger _ (Flywheel Side)
+Air Cooler 1 M Type : Finned Multitubular
+Cooling Ares : 59 uf
+Expansion Joint of 1| M Bellow Type for Turbo—charger Oullel
+Exhaust Gas Outlet _ Size : 300A . R
+Waler Washing of /| M Provided as a tool
+Blower for 1/C ______|Ship L _ o |
+Solid Washing of I/ M Provided as a tool
+Nozzle for 1/C Ship .
+Lxpansion Joint of B Bellow Type
+
+45 Governing Device
+
+Parts Name
+
+Governor 1M
+
+Specifications
+
+YANMAR Model : NZ61 Hydraulic Governor
+
+[ Governar Molor 1M
+
+ACI00~110V, 1 ¢
+
+| Cvcle Variation “lime : 8~12 sec./llz
+i
+
+4-8._Starting Air Sysiem
+
+Regalating Pross. : 2.94MPa(max.) — 0.98MPa
+
+Parts Name E— Specifications
+Alr starlor M
+Starting Air Press. 1M
+Regulatiny Device
+‘Air Reservoir s
+
+ss. 2.94 MPa
+
+" Working I
+
+4-7. Setting & Coupling Parts
+
+Specifications
+
+| With Jack Bolts
+
+Parts Name Jins. [Sumoty [
+Common Bed 1M
+Platform 1| M
+
+‘Incorporaled 1..0. Sump Tank
+
+Fuel Injection Puwp side wilh Handrail
+
+--- PAGE 9 ---
+W.No. REBC1401 (7/9)
+4-8. Engine Control & Monitoring Bquipments for Remote {Auto) Starting/Stopping
+4-8-1. Engine Control
+
+Parts Name G Jsuomiy oo
+
+/Eng. Specifications
+
+Control System | | PB: Puh Buszran
+
+“Tocal Start is done by Blect. PB on Eng. following Lo “Le
+{Dng. can be starled by Mechanical PB on Air Motor at Ne eleciricil
+
+~Remote” change—over Switch beside PR
+
+cundition, enly Daad Ship situation)
+
++Loval Stop is done by Mochanical Handle on Eng. with Start. Interlock Switeh combined Alarm Reset Switch.
+Mechanical Iandle has ‘Two Position of “Stop ~ Ran”  (I; takes priorily over alt Electrical system)
+
++Electric Emergency Stop can be operated by Local Panel or Remole conlrol Puzel.
+
+“Mechunical Emergency Stop can be operated by Mechanical Handle on Ting.
+
+Control Source 1| M E | Control Alr of 0.70~1.0MPa
+And Flectric (DC24V) Operation
+[ Eng. Spoed Sensor 2| M | E | Magnetic Pickup —
+Speed Detector 27| M |Comerol| -Low speed (18) : Set.: 125min ' for Afr Molor MV cazcel.
+(Speed Relay) Panel | -Middle spead (13) : Sel.:200min” for Secondary Air Motor
+
+MV cancel, Stating cireuit eancel, FO limitation
+
+& Blocking alarm
+-Over spond (12) © Sel.1112~115% of rated speed for
+| signal of Sufety Stop
+
+Magnetic Valve for 1] M | B | Open & Eng. Fuel Limitation at Energizing
+Fuel Limitation at the DC24V, 0.384, Rating : Continuous
+
+Engine Starting
+
+Magnetic Valve for T ™M | E | Opon & Fng. Starting Function at Energizing
+Lingine Start DC24Y, 0.25A, Rating : 1Min. o
+Mag. Valve of Ing. Stop | 2 | M B | Open & Eng. Stopping Function at Energizing
+for Safety & Gontrol_ D24V, 0.38A, Rating : Continuous .
+Switch for Stop Handle | 1 | M | E _ Switch ON at Run position for Stand—by
+
+of Engine and Reset of Safety Stop
+
+Switch for Cont. Position | 1 Soluct for Remote/Auto-Engine Side _
+
+M &)
+
+Switch for Turning Gear ' 1 | M R | Swilck ON at Dis-engage of Turning gear for Stand-by
+Linginc Control Panel /| M H | Auto Start/Stop & Safety Stop Control circuif
+Ship| Electric Source : DC24V & AC220V
+
+4-8-2. Engine Safety Slop
+
+Over Speed 1 | M [Conuel| Operated at 112~115% of rated speed by Over
+B I Panel | Speed Signal (12) of above Speed Relay
+Lub. Oil Press. Low 1M E | Press. switch Abnormal ON=0.40MPa
+
+Jacket Water High Temp.) 1 | M E | Temp. switch Abnormal ONZ100°C
+
+--- PAGE 10 ---
+4-9. Monitoring Bquipmenls
+
+¥. No. REBC1401 {8/9)
+
+_Gauges fitted on Eng.
+
+Alarm or Remote displa;
+
+Parts Name
+
+To7
+
+/| Specifications S| Specifications
+Tachometer Mechanical (0~1500min-1)
+Kind of Press. Gauge Bourdon tube, Size : ¢ 60
+. Glycerin filled TI'ype . .
+Lub. Oil 1 | Seale : 0~1.0MPa 1 | Sensord-20mA0~1,0MPa)
+at Ling, inlet Normal : 0.50~0.60MPa Alarn £0.45M P
+P| Prim. LO — | Above Pross. Gauge is available | 1 | Press. switch for Alarm
+R| at tng. inlet Normal : 0.02~0.25MPa Abnormal OFFZ0.02MPa
+E| Lub. Oil T Scale : 0~0.4 MPa [ | Sensord-20mA0~0.6MPa)
+S’ at T/C inlet Normal:0.06~0.20MPa. 3 AlarnZ0.06MPa
+S| Fuel Oil 1 | Scale ; D~2.0MPa 1 | Sensord-20mA0~1.6MPa)
+U| at Eng. inlet Normal : 0.70~0.80MPa. Alarm = 0,6MPa
+R| Fresh Water (H.T.) 1 Scale : 0~0.6MPa 1 | Sensor 1-20mA(0~-0.6MPa)
+E| at [ng. inlet Normal : 0,15~0.50MPa. Alarm £0.13MPa
+Sea Wator 1 | Seale : 0~0.6MPa
+|_at Eng. inlet Normal ; 9.15~0.50MPa 3
+Boost Air 1 | Scale : 0~0.6VPa
+at Eng. inlet Normal : Depend on load
+Statt. Air 1 | Scalo : 0~2.5MPs .  Sensord=20mA(0~1.6\IPs)
+|_at Eng. inlet ___| Normal : 0.90~1.1MPa i | Alarm = 0.85MPa _ |
+Control Air ~ * Normal : 0.7~1.0MPa 1 | Press. switch for Alarm
+at Eng. inlet Abnornial OFFZ0.60MPa
+Kind of Thermometor Bar Lype Thermometer with
+Protective case
+Lub. Oil  [Cooler 1 | scale 0~100 °C
+inlet I Notmal : 85~ 85°C e
+T Engine 1| Seale 0~100C 1 | Sensor Pt 100 chin(0~200C)
+E inlet Normal : 50~ 76 C Alarm 75T
+M| Fuel il |Engine 1 | Scale 0~200 C Nole.
+P inlet Normal : 140~150 C High Viscosily Alarm 2 17m
+B Not. Viscosity control takes precedance.
+L - S - ]
+R| Fresh Fngine 1 | scale 0~-100 C
+A| Water inlet Normal : 75~ 85 'C .
+T (H.T) Engine 1 | Scale 0~120C 1 | Sensor Pt 100 ohm{0~200°C)
+U outlet | Normal : 80~ 90 °C Al z95'C
+R
+E
+Soa 1./CInlet | 1 | Scale 0~100 C
+Water e Normal :  ~32°%C L }
+A/Clnlet | 1 Scale 0~100 C -
+L A/C outler] 1 | Scale 0~100°C
+Fxh. Gas  |Cyl. outlet| 6 | Scale 0~630 C
+{diggital Normal: Depend on load
+i thermomezer)
+T/C inlet | 2 | Seale 0~650 C 2| Sensor Pt 100 ohm(0~7007C)
+Deperd on load Alam2610C
+[Boust Air 'Fngine | 1 | Seale 9~100 °C )
+inlet __| Normal: Depend on load .
+
+--- PAGE 11 ---
+. Ho. REBCT401 (8/9)
+
+Parts Name
+
+Gauges fitted on Eng. Alarm or Remote display
+
+Lub. Oil Strainer
+
+e | Specifications Ei Specifications 4
+I°.0. Lenkage Tank of | — ) 1 | Abnotmal OFF at High Level
+High Press. Pipos N o _
+Lub. Oil Sump Tank | 1 | Sounding Stick _ 1! Abnormal OFF at Low Level
+Differential Press. of 1 Differential Press. Indicator 1§ Abnormal OFFE0.10MPa
+
+(ote. Alare repose timer sel: lomin}
+
+o]
+T
+H
+B
+R
+S
+
+FO Final lilts
+
+Diftercntial Press. of
+
+1 | Dilferential Press. Indicator
+
+5. MISCELLANEQUS
+
+ltem
+
+Spare Parts and Tools
+
+Tset/1 ship: as por requirement of Classification of society.
+Please see the attached list of spare parts and tools.
+Material of box : Steel Box
+
+Paint Color
+
+Units and Language
+
+Exterior surface of DG set and others : Munsell No.
+
+7.5BG 7/2
+
+Units : SI B
+Documents and Name Plates : Epglish
+Caution Plates : English & Jupancse
+
+| Shop Test Please refer to another shoet for Test and Inspection plan
+Numher of copies For Conference -
+of Documents For Approval
+
+For Installation
+For Final
+
+--- PAGE 12 ---
+uoReMIS 357t BU Lo pased [E1Rpan 5q JUBIL DIYE) ShL.
+
+Mo 3B
+
+1B3 30U BIB 0I5TA %S0 40
+
+separold 8y (310N
+
+Cp/0% 031 ODIAVN
+0F/0€ 03dL 0DTAYN
+0£/0E OFL ODIAYN
+
+OF70€ O3dL ODIAVN:
+06/0£ 03dL ODIAVN
+0%/02 03d1 ODIAVN
+0£/0Z O3d1 ODIAYN
+
+0P/ G3dL ODIAYN:
+0€/0% 03dL OSTAVA]
+
+OF/ST O3d1 OOIAVN
+DE/ST 03dL ODIAVN
+0b/2T 03d2 0DIAVN
+0£/2T 03] OITAYN
+
+TIOMAT
+
+7/01DE Jamad BISHNG
+JOECE J2MOd 35D
+
+0E0L/E0S JaMOd EOSIND)|
+0Z0L/CZ0E OO Jemod Basyno)|
+
+0Z0F/0Z0E OW JeMdg 3G
+
+STOR/STOE Ol Jr0g BOSHING
+ZTOV/TTOE OUW J240d BASHRDY
+
+4Hne
+
+LOEL/EDEL INTHVIL
+
+FOEL/ZOEL
+$0OZL/E02L NIV
+
+POZL/E0TL INTAVIY
+
+POL/EOTL ANTIYIA
+
+ABrRu3 g
+0 uoddin 91x7|
+
+0POP/0POE 1L VIFUNY
+
+0£0P/CE0E LL VITHAY|
+
+STOR/STOEW VIOSIA
+
+TYLOY]
+
+Or/0E ¥5
+OP/0E £5 YNIDGY}
+
+0p/0E €5
+OF/0E T3 YNISHY|
+
+OP/DE ZS ¥RIENY)
+
+0V/0E S VINIGYD]
+
+OF0F/0P0E INEYIN
+
+CEOP/0E0E
+ST0P/ST0E SNTIVIN
+
+0201,/020% ANTAYW]
+
+OTOR/OTOE NIV
+0%/0€ ¥3dNS INTHYL|
+
+“an OWSOn
+
+(0% TX 0p 0IRL
+
+(G07/0E dC 0g izl
+
+{x)op dat 0z el
+
+0b/DE dHS 2f8a
+
+(0owxaL AL}
+
+OX)CF/0E 901 08 BB 00%/08 40 0 el {00z da oz AL 0F/0E 3UHep 000T DRa ROUATHD|
+i YOE/EDE s O "0£ YHLX3 XYWYIS
+02/20T BIAX X1 o520
+POS/E0E B X1 $O7/E0T BX XL oe/eaz B ST EST dHI v
+. - : — -
+ovi 0zik Or/0£1aY
+S PIRBIAOL . OWLOXXT
+CEPI/OSER PIEBIIGOI OEPWAOEEW pIeBIGoL: Oerbl b 2TP/TTE 2IRBIGON "
+Ob-HS 0p/05-¥S OF/CE-MS 'DP/OE-Ai 0b/QE- Ob/05-XS [
+50 aUiep Brydaq 110 Az suyded 10 Quuel BUddeq 10 SuLEl SUldeq L3
+[ Zr~0E - 0E~5T 02~GT &6 T fed
+W& GE WEE 40 G T> W5 0> _ (%] J0e30es Jngins}
+
+OdH
+
+odk 51
+
+PYT 03 "WVINNGA
+6107 JBGWSAN BT
+
+SpUBIq [i0 8uNnT 40 18I
+
+SUL T olel
+
+--- PAGE 13 ---
+WASS U° FARIS
+FOR FOISTING EERLT 45 R LIFT
+i s,
+i
+
+ke
+
+LIET WIFD AT
+
+UTGER BT 141 3 L LA
+[ lsl EAYTIEAN
+(.61 pog
+[T i Lo
+2]
+
+LU 1L COOLER Wi 11
+TILE b THEWOSTAT
+
+1208
+
+425
+
+WL )y SPace Foy ovepagul
+WIENERCH ARTI-ELYWHEEL)
+X
+
+P -
+
+| N 1
+! [ gt
+i g
+v |
+M | :
+JISCTIR Bax A1 ’i
+LEVEL SWiTCll/
+STZC AND DIWENSIDNS 3= PIFE Col TFIARGES WARRER 5 ARE SUPTLITD i} - TRINCIFAL DhTA
+[ FIPE CONNECTIONS PIM: LNNECT]\J\h FIME| X CICSFL NG INE 40, GEKERAIOR |
+| L ACHET AT IHIET L3. Ok FI0 €)LD HUM”! M bl § B35 -535)-497) oL | EFYETALE \A(‘L’iﬁ FF 5534 § 1
+2| DL e WA D 8 ) 7 ) - A T EEF T RETTR [T — 15 O3S
+R GG R FE [ wetwln [ @y ] | ST ol UK T TS B
+w1 T L A i el 5w | N B iS—
+g - TIEI 1L 00”1 g e M0 oS G0l ]| LELE.L OF TOUNBAT G
+AT S CEUATI TN w7 ST | 0 el [ %% [S140 LY MARISE CONFRIY LIVETED
+CARELCCUNDT (U361 fien R e R N T, INTHA_ | Wi
+
+) NE
+0. WL
+
+G WL D) 16 250 2
+
+OF | VIS I pE
+FOT 100 | Lt S35 hSULAT i
+S )| 6806 e WS UHRLLY G0 s
+
+‘,%,,,,,,.,,,Jun*: IR 5 hane] &
+=M SEYZEALN 5 94004
+TymEn | MAvE ArEE CUTLINE
+g _sta
+
+| F 7| FEL I OUTLET (WL, ]
+|G| HIST 34 0TIET i
+
+1} ERIST 335 CIILET
+2] STHTING KE TNLET
+
+v
+& } _ mRs P
+R el N AL 71
+
+‘,,b . lappazrLs AT A ey Teveeanert nm )
+
+03] .kﬂﬁ‘v] B |NASE Arelleulice ERgineering [ivig mn\
+
+|
+
+WAGFR Mg [
+
+Ik
+
+B3-47633-0070
+SCENIAR .| g g
+
+--- PAGE 14 ---
+] & 50001 \'Mt 4 | LoOP SEAL )| IHEMOKE ER
+[ Rall VALE %FL/;N&E FITi WG .. |PIFE OUTSIGE LIS B PRESSURS Gallst .
+ooy | T s1el e EWPERKURE S11™H
+U R a ] il
+
+) PRESSUE TN TTED
+SSTAIE "BF SERR
+) {THSIRE it
+
+FRES:. AL GULL W8IV | -7 B L TY3E JOIHT o | LAPTLARY TUBE ]
+155 SOFETY ALY
+S FLOCkitl LYE
+
+10 0 1
+°_EXILE P1PE COUPLIN 3
+
+$9x .0 OLT,
+BRATN
+
+STRTIHG i)
+T Fi
+
+F2R STOP IF04 SAFETE
+
+MR
+
+~
+
+R T
+A 5k
+T TR
+
+cauT ol
+1WAEN & THGIF 07 SIAATING
+
+30 w11 RECOMY & CHa
+
+U IR | T TO ST4RT 24 BEVZIALW PIFING
+2SR T IR IV IS T B PR : =
+FXH. GAS & SUCTION AC
+
+v-#HnAd cwe
+
+P3-47633-0160
+
+YANMAR ©C.. LTD. Ne
+
+- —
+
+--- PAGE 15 ---
+L Gl L | R s )
+KO+ HELDLE VALY — | st e G Lt 3t L3 |
+S COTCS AL SHCIIE FLMGE [[0.0. Jeue wict (RS 2A0CE
+
+ILICHOrCK velr
+
+JOINT
+
+THREE-#AY CO¢
+
+WL THFE LOINT_
+
+ETERLY WL
+
+BOS3
+
+PRESSUR SHE"CH
+
+TERFERKUSE SITCH
+
+THAEE-AAY PLSION
+HOh el Bl 1 1.
+
+L
+
+we
+
+K13
+
+CKIFICE
+
+[
+
+GLAZED LEVEL Bh32
+
+| P2 SR
+
+— 4
+I
+
+Hi— — — (3
+
+P R e
+
+e R
+
+ELUCER
+
+CINTCT FUR SHiIEl |
+
+L
+
+Fel
+
+b 6144 04 TEST
+
+S
+2
+
+A
+
+i .
+ey
+FY QUTLET O SH TORP
+|
+|
+{
+i |
+| !
+|
+A ——— o —
+[ TR Tt )
+%
+Ik 5 A PP
+
+IR 16t HFHIFATIRG
+
+L IO
+5 PIFE S17C TR COMAY LiKE 15 13
+DECIRE FY 101D =13 4= 4D
+
+PEETNG LE5S
+
+BT FIITINGS YARKFDk 18 IF'5
+KRE ST SUPPLIFD I Ak G
+S INE ARE SAKS AS CRES OF
+FCTLON Th CJT_TRT CRAY
+
+T
+
+MODE L EBE
+
+TARVAR OO
+
+_TD
+
+--- PAGE 16 ---
+[
+(X it FUP
+
+ELO3E VAE - {FLab: HITIHS
+qI\EEDIE A vE
+SERENED CHECK VALIE ]
+SKCHG CHECG ¥ALVE [~ JOLNT 75 [MHIIF & WL
+ST CECL UL - | BALLTHRE JOUT ||| GAPLLAIY TUBE
+T S
+
+Jeinee [T
+IELE IFE SOLING | (P PIESSURE cadie
+
+LI8TTR
+L PIF
+TUE=
+
+| S ATE FLTEL LT
+VALVE TIC TEW
+
+2620 1H <
+
+COMAEC SKLIZH Eo
+2N L) FUR T e
+[©
+
+) (- )/?}3:\
+<
+e
+
+. W SMH i
+(0 H
+7
+
+i
+
+‘ TLNHD \NAN: 1‘
+
+i P/
+
+COMR BED THECARDIATED: x[i
+Sy Thk
+
+Grithe
+(A
+
+MOOCL  HEY24ALYW
+LUBAICATING C1.
+
+PV - HE A N
+
+P3-47633-0180
+——|
+
+W A5 DHPS 0T
+BOAUTE TN DRERIRG YANMAR CC.. LTD A
+
+--- PAGE 17 ---
+REQUIREMENT |
+
+[rage
+2C-03-C0 Wz
+
+itk oif Porifics
+
+The W be o] puificatian sy
+
+i Sy
+
+2 is aparand on Hoavy
+FFuel Cil {H.F.O), ceterratic of lube oil
+-l dlus 10 e entry of sevbusiion
+residue in labe cil, which @ acoeler
+tha wear of srajor
+ordngly, i s imports
+sop-opriate fype of lube o1 and to prity
+e ol 2pproy <0 maintain its Lbri
+tiar: progertss
+
+sially, when 1l
+o |
+
+with the quality
+s, v recory
+
+rinuous pification kb iifiggeal
+ourifior a8 shcwn i tom & 3. WWaen using
+FLIEQ with the cuality lower than 330 rmés
+
+or Mesine Diesel 01 (d.D.0), the iterrit
+tent purification systerm a3 shown in e 4
+raay be vsad
+
+2. Ovsi
+
+I the
+
+w Tank Puritication
+
+of parafic} oper.
+
+o of multipy 2
+engines, we recorimend e use of fha
+
+continueus puificalion systern il ovel
+fiow b showr in Fg 4. iWhen u
+
+ity becomas abeut 2.0literstk\
+
+{b) Pl lhs fube cil pus
+the ramier of pui
+il arnount of e air inside the systern
+besernes abaut £ fires par
+
+Slar
+
+1at the flow valocity i, the over:
+Wit ot 0.25mfs. n
+acditicn, Use & hend to the cverficw
+‘in flange of *he iba off samp tank
+for cowmwerd piping. {f the oiping
+extens fong horizontally, (he off ievel
+in the sury <ank will be raised wher
+the ergire is inclined.)
+
+. Conlinsous Furification for .
+
+. Batch Purification
+
+en belew.
+
+Uni: (Direc: Purii
+In the case of conductirg
+of nullipfe engines ju
+pesir, each enine uni
+cortinst
+amployng the overfiow purification
+Whan using this direet murkication syslen,
+consider the following points:
+
+y be purdics
+Fip.2 i
+
+(4 Raise an aperopiate caution dlat
+instell @ proper device so that libe ¢!
+will nes bie 10st dhre to mis-cperation of
+the suimp tank aufle*/inlat vaive.
+
+Irstall the sil teve! ula
+
+taw; far detecting tis 1nis cpsration of
+fho surn
+
+P intetautlet vahe st un
+
+Wen using 1
+
+2 fuel oils with the quality of
+natel pri-
+2 imay be
+rifica
+
+{a) Watch €. lube of propeties carofislly
+aned cenciiet purtfication o1 & peii
+
+basis.
+
+) The batei purfication may Ee imple-
+tizniad curing the ship's voyage when
+the standby L is availabls, bl we
+racereraonc 1 iy L puili
+durng archorags for ensurin
+
+©  The wenvgel lube
+merited o the eagine. I
+maiezain the b roarist
+priciely, it is resomrrendar o ins.all
+e e Ther fur priiving the
+
+Ao
+
+--- PAGE 18 ---
+REQUIREMENT
+
+Ho. !
+20-03-90 |
+
+~ig.2 Drect Purification System
+
+LOSumpTank 0 SumeTamc LS Gums T
+
+Fig.4 Batsh Purification. Syster
+
+I |
+
+e /,\ | } . 2
+1 ——
+
+T VANPARR
+
+--- PAGE 19 ---
+Flv: FMGED GLOSE YALYE | ——) HRIGED WINT
+SCRENED HEEDLE VALYE] —|
+
+=LAHGED € 0Kk vaLYE | =5
+
+E
+# P3G B
+jjo.o UUT 4. Tk PIPE @ PA=SSURZ S
+
+7 SR — | Uhlo Tt \‘mNT; TG gTEEL P12 1HPLR VR S
+t <F L TIE O |58 STkl P TLART S¥1TC1
+Lo O 1L TUBE I PSS, STCI
+I {0R1)E n 8] | FESS.FE SENSOR
+B W CO[TmETEL |G e SEBR
+CMECT LA FOB SHITEH T Dﬁgﬁ%
+
+IURLL STLN 614
+
+Lo THLETIHFo0
+
+B
+
+HIGH P55 FIf%
+
+*
+
+ke —— — i —
+
+IH
+
+P
+
+— \U/ L_T__
+Fo TRLFTIRF 0.
+
+Foo. MTIET
+(FOK CHAEH STHF)
+
+mu)——»——r%ﬁ B
+F.0. IMETH).0) &1
+
+~ @iz
+
+F.O. LTLETH.D.0 ¥
+
+e —
+
+-
+I
+|
+15
+i
+i
+|
+¥
+
+IE FIR COWWON LIKE
+31 TOTAL FLOW I'ATE ¢
+PIOING LDSS.
+
+MOOEL OEYZTIALW FPIP.NG LAYOUL
+UL Ol
+
+Y& TES
+
+N
+
+FITIHGS WARGED y—
+G AT HOT SUFF_°C3 37 YHEAR i s .
+TTHS 11 4Pk GHRE 45 ONES OF P3-47633-0190
+3Pk SOMECTITR 4 GLTLIHE DRAWIAG YANMAR €O., LTD.  |Ns
+
+--- PAGE 20 ---
+GEY22ALW Project Guide
+
+Fuel Off System No. Pege
+Fuel Supplying System §0-0200 | 777
+
+8. Reference System Diagram (e} (Monc-fuel System)
+
+@
+
+Auty degass. valvc !
+
+Se0ePa
+
+Alr sozarator AT separatar
+
+«T Shioty valve
+1
+
+sataaoups Fi
+
+—
+i £ M50, Supply punip
+oy
+
+=
+
+i nerassary)
+
+Do e O e D esatng
+i) oo s
+St ) o e i
+. B ol
+
+i 7
+T Mam e %
+ser0sea o
+
+\ENGNoD) [
+! % i
+-
+
+050
+Orifios 1.5
+
+Remark
+@ The necessary fiow rate varies for main propulsion engines and generators. Make sure that you circu-
+late the specified amount of heated fusl in generators.
+ When designing the system, arrange that fuel oif viscostty at the generator engine infet becomes 11 ~
+14 s,
+ iake sure that the fuel pressure inside the generator does not increase over 0.8 MPa. High pressure
+causes hunting.
+
+YAKMAR
+
+--- PAGE 21 ---
+1-Y (RAISE  3-BL: _CWER
+2 CHAON
+
+GOVERNOR MOTOR
+01 @
+
+N761
+
+L-MPY-4-1.0 AG 00110V 20W 10
+
+MAGNETIC PICKUP FCR
+FNGINE TAC-AOMMTER
+(FOR CONTROLS
+
+MAGNE™IC PICKUI FOf
+CINE TACHINE ER .
+R SAFETY)
+
+5TART BUTTON
+
+G 1N
+
+START © ON
+
+i NG FANDLE SWITCH
+FO3
+
+04 a)
+- RUN I'C51710N N
+Lona o [ -MeY-2-1.0
+) 1
+15 ’\l CONTAOL 20SIT:ah
+Ins o 08 0) SELECT SWITCH
+FC 1B O o
+S0 o L-MPY-4-1.0 NG . 51 DE—!
+SW1TCH FCR
+08 37w TURNTRG COVER
+
+_-MPY-2-1.0 n  CLOSE : ON
+
+ToTE ] MAGNE vA_VE
+foze 05 > FOR ENG. START
+5 L-MPY-2-1.0 | o | OPEN &~ ExCIT.
+o2 °. %21 | oeaausion 0.40h AT, 1 MIN.
+~ MAGHET VALVE
+022 @ FCR ChG. STOP
+F | FoR_sasrTvy
+- . P! opeEN AT ExciT,
+[o2s PY=2-1.0 |P. .. bo2sv 0,288 RAT..CONT
+[Faé | MAGNET VALVE
+boze ol Lioas [ FOR ZNG. STOP
+= (FOR_ CORTA0.)
+- OPER A~ EXCIT
+028 G L-MPry-2-1.0 DCZ4Y I.38A RAT.:CIN™
+= MAGNET VALVE
+foze o [oea w 3 FOR F.D. LIVITATION
+= T oro e Exen
+ro27 o [ iwevzno ke DE32V 0,284 RAT.:CONT
+
+CINTINJTD IN
+THE NEXT FAGE
+
+REKABK
+
+DOTTED _INES IN ~FI§
+CONNECTION D:AGHAM
+
+ARE NCT SUP2_1ED BY
+OUR MANUZUZTORY.
+
+CENMAT CC.. LIC
+
+--- PAGE 22 ---
+TZRMINAL ND
+
+_-MPYC-37-1
+
+CONTINJED ON
+THE NEXT FAGE
+
+BEMARK
+COTTED LINTS 1N THIS
+CONNECTION 31AGRAN
+
+ARZ NCT SLP2_1=n BY
+
+OUR MANUZLETGRY
+
+63
+
+~C64
+
+o4t
+
+042
+
+Oes
+
+Q46
+
+PLUG 0.
+7 “EMP. SWITCH
+s =R TRIZ
+5| ABNIRMAL ON 2 100%
+2R s 0w
+PRESS. SWITSH
+120 FoR TATE A
+[ LMpy-2-1.7 |——F2 A3NGRMA_ ON £ 0.40MPa
+LMYzt 3.3k 0.5W
+
+PR LMI LG
+_ =3 L.o. PArSS. SWiTCH
+o 1 "o ABNDRMAL OFFs 0.32M%s
+1
+GovTRIL Al
+PRZSS. SWITGH
+[N - FIR ALARM
+e 13| ABHORWAL OFFs 0.€0KPa
+Rl _.c. STRAIRER
+e EINGH ©2| JIFFERENT AL PRZSS. W
+FOR ALA3M
+
+3| ABNORMAL OFF2 0.15M%a
+
+F .G, LEAK TANK
+21 @ [o-p oyl LEVEL SWITCH
+— | FOR A-ARN
+LoMPY-21.0 [t
+F.0. cF=
+T ] L.0. (SUMP —ANKS
+23 @) fo LEVE_ SWITCH
+g - FOR ALARM
+L-wpYe-z- 1.3 ]|o-p
+SRESS. 13ANSWITTER
+53 (A) YL\ FOR FLO.
+—+— (P sounce : pczev
+ST LMRY=2~1.3 | [d /| INPUT_ ¢ 0~1.BuPs
+Z JUTFUT | Do4-20mA
+, |47 777 FRESS. TRANSMITTER
+Bl 797 FO3 STARTING &:R
+—d | SIURCE . DC24V
+o [ Lrwpv-2-1.0 TREUT . D~1.BMPa
+QUTLET : DC4~20r4
+
+1TCH
+
+--- PAGE 23 ---
+TERMINA_ ND. PLUG NO
+
+|
+i - A [TT__] PAESS. TAANSKWITTER
+toer 56 () a3 FOR H/™ F.H.
+—————— (P'T)| sour oC24v
+LoWPY-2-1.07] - /| TNPUT + 0~0.8uRa
+—ose “ 2 CUTPLT : DCA<2lrA
+. PHISS. ~RANSMITTER
+e [ 58 8 FER ..o,
+=1 { PT}| source - ocoav
+e /| INRUT 0 0~ owPa
+N SRESS. TRANSMITTER
+tross 63w ror T/C .0,
+= = SOURCE : DC24Y
+N TNPUT  + 0~0.6YPs
+oes o | vzt ifF QUTFUT : DC4~20mA
+o Bh i RESISTANCE BULB 11000
+to o] a9
+! poes [ FOR H/T F.W.
+Lo C. | 3FEPB-D.5 ~ENG. U™
+“ea .
+AESISTANCE BULY  FP1000
+L0
+—00E FOR L.C.
+= CENG. INLET
+“oe
+m RESTSTANGE EU_B Pt1002
+Lo
+OB T3 ExH.GAS
+Lo SToTINLET
+[©us 0. 1~3 CYL
+RESISTANCE BULB 7t1000
+Lo ks aa
+ke - FOR EXH.GAS
+S 3FER ST/C INLET
+~7 4B NO.4~6 CYL.
+TACHONETER ! JLNSTION 820 FO8 =/
+et 1 CB- -3
+- - sta0 MAGRE™1Z FICKUP FIR
+o, NS0 TURED-CHAR
+SHIELD: i REVDLUI1ON
+a3 = SHIELDED ALaft 2 55500117
+
+;“Sf‘rir” (RZFERENCE : DWG N2.B3-00139-811%)
+
+%)
+
+VAL
+
+EEMARK.
+
+DOTTED _INES [N TH1S
+CONNECTIIN DIAGRAM
+
+ARE NCT SJPPLIED BY
+OUR MANUFJCTORY
+
+--- PAGE 24 ---
+BT
+GUYERNCR MUTOR
+
+Cieh,2.200,220%;
+
+-
+amE
+ENCIHE FLITiHG
+= il 3 oo
+T 0§ ssa -
+JUNC 0¥ N
+S8 HETION G0 -/ STHCART 7 THG PalEL
+
+CTICH
+
+& i
+REMARK : DOITED L:
+NOT SUFFLI
+
+TRFRIATSI
+[H TS CONNIOT IS
+
+B QU3 MANUFACTCRY.
+
+DTAGRAM AnlF
+
+IAPN: AT A%
+JNECT IUR DIAGRAM FOR
+#UDEL: HYCRAJLI
+
+aAMAR CO.. L ) weo |
+
+i
+o
+
+--- PAGE 25 ---
+ANMAR DRW.NO : ¥4-00008.2193
+
+The request congideration for mein switchhoard or menitor side abous diesel generator
+
+cemtrol  (BEY1S(ALW, 6EYL2(ALW, EYZIALW, 6(8)N2LA)L-W)
+
+1) Wngine control cirsuit is to be desigoed by the time schedule figure { BEYTS(AIL
+F3-00000-0700, SEY22(A)LW:113-00000-8890, GEY21ALWF3.00000-0764 ) “or engine start
+and stop from YANMAR, if it is prepared by the buger side. (In czee of mor ather than
+BEY18/22(A)LW, refer to the sequence diagram E3-45671-6668.)
+
+) 1o avder to make a good sngine starting &t the time of blackeut situation, plense carry out a
+youtnal warming emong engines ( at start,/ston by MDO ), ar the forced warming by heater
+unit (ot ci art,/stop by HIFO ). It iz 20 reed 2n angine o o with only MDO
+Blectric loading is to be carried aller 10 load running for 5~20 minu'zs at she time of 2 cold
+starting including an initinl stavting on hoard.
+
+2) The first elestric load ng of the sequential starl [or necessary devises cn board nfter black ot is
+te ke carried out after & seconds of voltage establichment of AVE. X this duration is loss than 5
+ancends, the engine speed might not reach the vatb: or the speed of turbine is still
+increasing, bence an engine stali may kapgpoen in o aximum allowable load is inpus,
+
+1) The electric loading in sequential hould be carriec oui 1 hle loads of
+applisd engine type (it is ghowr in approval drawing ) and please v 5
+scporcs. A momentary variation of engine ‘s withir L 5
+and e of stabili i 3 Tk
+and it is necessary for 5 se i arder that speed vi .
+
+5} When electric loading a: igger than estimation aud the :nomeniacy variation i
+over 10% at the firat test of saquential start on board, please mocify the loading sotting timer of
+each sharver and distribute the amennat of load and lowar the Inac of per step.
+
+8) If an elactric vading Ly tirse or more steps becomes necessary for a Lig
+Fae shipping classification application of the saquential start aft
+clectric leading plan is necezsary
+(I ease of LR, since the formula of the smount of three-siep leuding is shown, plasse follow i3}
+
+7) In addition to a over speed contacl Ll 2), a regular speed contact (13), und « ow spred contact
+
+od volay af YANN s equipper with the (30} comtact as an object for speed
+
+detecior sbuorinal.  The function of thie SO contact 18 to send out an OFT signal when
+discornection of the meguetic pickup fo ad rolay, or
+
+Tarning of a spend relay ia oceurred.
+
+Ther add this SC contact to the i o fime of starting n penerstor
+
+engire. aar breakage of air motor due Lo speed relay damage can be provensed.
+
+(In case of models cther than 6EY18/22(A)LW and 6EY21ALW, only an OFF signal is sent ous
+
+Ly the SC contact when disconneciion of the magratic pickup.)
+
+engine it ncinidng the twice
+
+events the atarting failure by engagement
+
+D a two
+
+her power generator engira,
+ lackeut o the
+
+euit for low load cantinuons running
+
+ol cireuit for sngine couleol.
+
+reuit of cack control systern for option
+
+an adoplicr: of these panels
+
+9) Air motor f me startng ie aperated by the solensic valve. The eperation vallage i DC24V
++£10%.  Please scleet the wire with proper diameter and length in considering shal the voliage
+s ot less than DO2LEYV (DCHV excepl 6EY1H22(AJLW, BEY21ALW ) due tu wire loss.
+
+3 preseure, Sermporature, & level switch for each slawr and the presgure transmitter &
+
+ance bulb for & remote indicasion are equiyped on Lhe engine. When oeenering an alaiin by
+
+the monitor, she svitable panse interval Zor an apphied engine ie reguired. These
+
+recommendatior values are shown in 2 sable of pro se refar it.
+
+Labr
+
+Sarclards
+
+--- PAGE 26 ---
+Bt
+
+S5
+
+], ‘
+5) ' 58 '
+
+SPECIFICATIONS
+
+i COMSTRICTICY AL OF THE PANTS ARI 0N THE FAIRTER CIACLLT BOARY TN ThZ ETEZL CaSI.
+THE 2RINTID © 1 RAAD 1S CCNSTRUCTED WITH E_ECTRIC PAITS FTC. ANE
+FaS 4161 RLLIANCE
+
+2.CONTATI 0U P €O AC IEM(5d:ATR-HCTOR REV. JETZCTICN, 13:SIART RLY. CiIECTION
+
+WER S7EE TECTIN, SC:CEIFCIOR FAU_ID
+
+IACTOGY/DS29Y 1.4
+
+V. 2,08 (OFERAT.IN LIKLI DCIS~32Y)
+
+4. & TOLE at F.5
+5 : 70t
+& 80 FLATE
+
+SPEZD RELAY rOR &Y
+(FOR MAGNFTIC PICK-JP?
+
+IHHET oW
+
+TYPE : SPR-PO6I YANMAR CO., LTD. Ne .
+
+34-00009-7710
+
+--- PAGE 27 ---
+CPERATION MAMUAL
+
+SENEIAL
+
+b SELAY
+
+COMKECTiNG RT¥
+
+CPERATIDN
+
+(I EMT Y JITECTION: PHELT SIGNA- 1S NIMIER OF FREQUENZY PLLSE FROM THE MAGNETIC REVC UTIGN
+JLNCION SET G I FRGLR
+
+(b2 51GhAL CORNERT A, ARPLIECCHITON:
+
+OIS 3 FOSITIONS OF REVOILTION ARD DZTECTOR “ALLT. ANO. 17 A T0WS
+SLJIIRY THDICAIOR
+
+SRESUENSY WHICA 15 1k PRCPORTION TC REVOIUTIN
+NG CORVEIRT 10 DC YO_IAGI WH:Z| J‘ DFOSTION 7 FAEULINCY BY FREGUENZY-WO_TAGZ
+CORYER R T AMFLLIY IS LC VALIAGE, ANC JUT®RT AS VOLTAGE S1CVAL
+
+(o) CCMPATIEON WITI1 BASIC VCLIAGH :T1 DUIPUT REIAY WORKS ANE LED LIGRTS CY AT THFUT SIGkaL
+UECOMI & IR G 1AM BAS:L VOL I A6l
+
+SAJIUECN
+
+G000 RN IE ADJUSIMENT O JKE 0 CCW. DPERATING FOLKT COWN. 70 TUIN THE ACUSTHMENT
+YOLLKE TC Z6. OPERA [KG PRERT UP
+
+() (REF AN ENGINE RENGIUTION A7 CPERATIRG PCIHT. TURY TdE AC.JSTYINT VCLUM  SLCWLY FioM HIGH
+2DSIT 0N TO 1GW POSITEON &NR STOP AT 1ED LIGATS OM ANC FIX 1T,
+
+TCR-ECR ST 0fER i
+
+yata
+ILEpL e o Moo (Lt gy ek
+| " Tie g Levwen
+i AEHIRAAL @Q mray P 83 B
+i R - ot |
+) [ (1) reur e
+i ; e OPERNT 104 OF
+FIEQENDY-YIL g f SC DRV CORTACT
+CIWETER ST | HORL
+ol AN
+! AN 2 IETECT0 Fill
+! Iy, - -
+[ LT § § a0 VLT
+| 12 7 o
+E "1 bEEIE A K G 4 TINCUIT BoARD
+R AN ¥ - ELITH <0TF
+! fene ! wriss
+50.IICE BIIPUE SIGHAL DY CoHTAC
+B WETIC Seam20nh 41 G190 TRV €54
+HOTES PITK-UF FILL'SDAL
+
+1.F1% TFIS D=VICF 10 & 2AH-L. CONECT HEF
+
+SUSUFPIY I SOKCE #7EA TIOK OFF K PPLE
+
+SUSHCHL A1 TF 19 TERK RALS BEFORE 7D INS,
+
+DO B2 BIELECIAIE § R=AGIH IESI
+
+LU0 IKE TEST BY TES™ TUSH BLITON 4
+
+OEH T4 CMUINALS, WHIZH 4RE U1
+3 LC UG CONHECTING FR 3EVOLYT I EVICEOUIFU 51644 LINE
+
+£ STALE3 LIHE "0 TIE TCRHI%AL OF “TO BI" . UNTCENNEC™ION CR NEZIDH CAUSES H1SSTHUNCTIZNS
+
+MRECT SEA-ED LINE T8 TeE EARTF OF T4F HuLl, JJNCI CH BOAES. PANCLS 07 DIVILCS aWD K200
+
+FRIM T4RK BY SSOLATDR FOR EXAWP_Z ¥IHTI TaP.
+
+LO0S 1% “HIS WATTFR, IT CAJS=S DFYICF FIROK 3f, FIR=
+
+L204 T 4OUF THE ZFA0 NG SPRN ADAUSTERHT YOI k. IREY AME FRE ADJLSTFD
+
+LUSC TRY CONTACT CIOSE AT HORWM OHRL 10N AN UPEN o B2 YOUTAGE. FT-CTOR FALL™, AD
+
+CIRCUI EOARY BLDKEY.
+
+0F EIECIRC SOUNCT &7 EY C2N7:H TUE PLC
+T4 B
+141T0N “EST. DON'™ 3UT OYER DCZ10%
+
+STANT ENGIHE REVOLUTIDN.
+
+SPEED RFLAY FOR FY21 (V)
+(FOR MAGNCTIC Pic<-UP)
+
+PUI-—#HAad nwe.
+
+- -7710
+TYPE : SPR-P06I YANMAR £0.. LTD. N B4-00009-771
+
+--- PAGE 28 ---
+QL0 EVANVA
+
+22¢67R0RE
+
+BET Al
+
+37Nd3 108 JWIL
+TS
+
+ST T
+
+oy 104
+
+s
+BRI
+
+PEp -
+
+--- PAGE 29 ---
+HE®RE Biblicgraphy
+
+EXE
+ORDERER
+
+o owe Beserinton oo YANMAR POWER TECHNOLOGY CO,, LTD.
+| 20/0212 | SPECIFICATIONS FOR SUPPLY 4, Y | BEXCE N
+- - CUSTOMER
+A\ [20/13/04 REVISTON DRAWING ALY ) )
+B 2007 | R ISION DRARING v | STAM LUCKY MARINE CONPANY LIVITED
+‘e
+SHIP No.
+ATHENA
+i
+SERVICE
+GENERATOR ENGINE
+CONTROL # SAFETY
+&
+LO PRIMING PUMP PANEL
+7777777 BEY21ALWXI40kMe
+) HANSHIN
+TEL. D8(6473)086"
+FAX. DB(6473)0S59
+E-mail : design@hdk—mfg. co.jp
+4-7 2-CHOME HIMESATO
+NISHIYODOGAWA-KU
+0SAKA  JAPAN BBS5-0020
+Approved | A, MATSUNAGA Rule R-UNS
+Checked | T,NISHIZAWA Paint. Cotor| 7,6BG7/2
+Jraen | AYANAMOTD | Dete | 2030/02/12
+DRAWING 0. 2002-013
+
+--- PAGE 30 ---
+APPLIED RULES
+& REGULATIONS
+
+| DRANING §
+DOCUENT
+
+| PAINTING
+00LOR
+
+WIRE CAP COLOR
+
+1
+
+NAE PLATE
+
+AIBLENT
+
+LR-WKS , TEG, JIS , JEM TEPERATURE 150
+
+WRITTEN IN ENGLISH PROTECT 10N DEGREE | 1P44
+OF THE ENCLOSURE
+
+OUT © MUNSELL N0, 7,5B67/2 WiTk (USTER
+
+IN : MONSELL NO. 7. 586772
+
+R-(U) I RED PR ) LEFT - RiGHT
+
+SV U WITE  N:BUE SEEINGEROM (TOP Wm! EOTTOM]
+
+T-(H) : BLUE L rRont | LRERR
+
+MATERIAL : ACRYLITE
+LETTERS : ENGLISH
+(BLACGK GROUND WITH ENGRAVED ¥HITE LETTERS)
+
+" GAUTION PLATE
+
+1 CONNECTION
+DIAGRAM PLATE
+
+YATERIAL : ACRILITE
+LETTERS : ENGLISH
+(RED GROLND WITH ENGRAVED WHITE LETTERS)
+
+PRINTED FAPER ENCLOSED IN PLASTIC A0 CASE
+
+UNIT
+TERMINAL
+
+Sl
+SOLDERLESE TYPE
+
+SPARE PARTS
+
+LR RULE REQUIREMENT & MAKCR STANDARD )
+or ORDER SPECIFICATIONS
+
+BOX : MADE OF STEEL (MAKER STANDARC) PAINT COLOR : SILVER
+
+— GENERATOR FNATNE CONTROL PANEL 10 PRIMING PUMP STARTER
+SOURGE AC220V 60z 10 AGA40Y B0z 30
+DC24Y (RUPPLE : 24P-? LESS)
+CONTROL YoLT DC2AY HE220Y 60Kz 10 / D024V
+TNDICATION | LED D62, 8V FOR ECSU BAGS/13 30¢ IW
+LAp LED DE24Y LAPD-2 (ALEG-PAPX)
+- FOR AG/DG PONER )
+FUSE LTSUNOMEYA ELECTRIC  TYPE:UCO UTSUNOMIYA ELECTRIC  TYPE:UCI
+RATED BREAK CURRENT ACBOCY 5OKA | RATED BREAK CURRENT ACEDOY BOKA
+INER WIRING SOURCE : HFH-PSH-0, 5/1KV VUMAIN HEX-PSHCD, B/1KY
+UL3386-6001 (ANG1E) GONTROL : LL3385-600V (ANGL8)
+
+CONTROL : UL3386-60CY (AWGI8)
+UL3385-300Y (ANG20)
+
+REMARKS
+
+- - N A FILZ D,
+A & A 0C.-ESP
+
+CE MR [T P oG e — ,
+I EEC5.C MEG.CO. D SPECIFiCAITONS 2702-0°3-01 |4
+
+SILLTHO, € 1)
+
+--- PAGE 31 ---
+NOTICE / CONSTRUCTION MANUAL
+
+1. Please do not perform a MEGGER test of the ENGINE CONTROL. PANEL.
+If a megger test should be required, then proced as follows before performing the test:
+1) Disconneot all the EGSU-AM1 connecters.
+2) Likewise, disconnect all the connector cables from the speed relay and AC/DG converter.
+If a megger test is destroyed, resulting in a failure of the equipment.
+
+BEMME D AT —TAMPTHEN T,
+HLAN—FALETEIDERHHBE LT AT DHITROBYITHEDH THEEL,
+DEGSU-AMIDAR 832 THLTHEEL,
+
+DRHEIT, AE—RUL—RU AG/DC b/ \—S—DIEEHEREL R THLTTEL,
+IR —BRUERENST A —TRETEI LB RS RETh TORBIYELET,
+
+2. Before switching on the power for the first time, check that the cables for the specified voltage
+are connected to the specified terminals, with the polarity correctly selected.
+
+BHOEBEBABIATSLETORTEEORMERSL TLDL, RBESERTHEN
+RRALTHEBRRCYFE ON LT TN
+
+3. To aveid malfunction of the engine, do not try maniqulating the EGSU-AM1 DIP switches
+(SWi-1~4, SW2-1~8). If they are accidentally operated, then put the switch positions back
+to the original state in accordance with the connection diagram.
+
+Failure to do so may causethe engine control panel to operate differently from its
+intended action, failing to meet the function requirements.
+
+gcsufkn1|®Tvy7x4,§ (SW -1~ SW 2~ 1~s)liﬂ%ian'ﬁ*iaiuéﬁsﬁ%f;L‘T‘FéL\,
+
+T <
+53 e @_u&ﬁp&,aﬁ&wug HUFT .
+
+4. If the CPU does not automatically reset for hours after occurrence of CPU trouble,
+then turn off the power switch and this may normally reset the CPU.
+
+If normal resetting cannot be attained, contact the maker for repairs.
+
+CPU MR F AR, GPU WHRIC) v MEREA R e TEYET AR B ATEMLIL SIS
+BEAAUFE OFF ISLTY YL TTEL, ERERTABSABYET.
+ERERLANBE I A—h—IEBEREE TR>TFEL.
+
+5. Contact signals that are output from the ECSU-AMI to the Main Switch Board and
+Alarm Monitoring System should be used in the DC24V cirecuit irrespective of the
+wvalue of load current.
+Do not use the output circuit for MSB and AMS, for the AC circuit of the control panel.
+To do so may destroy the insulation. Therefore, if it is used for the AC circuit, then it is
+necessary to install a relays outside the ECSU-AM1 to allow operation under AC110,/220V.
+
+Resister load (JEHEAHN }: DC30V 1A
+Induction load { BSE 1% ) : DC30V 0.2A ( to be used with surge absorber / ¥— I 7—HNFE )
+
+ECSU-AMI SUEEERRUT F—LEZFV T LATLIZHAL TS ER{ER IBREI b5
+D24V OB T EARNET .
+
+MSB R U AMS FICH AL TL B EIEEEACER O RIMEISIEALSWT T, iBRATRREINET .
+ACHBETHAT HHEE ECSU-AMT SHIUL—ER T TACII0/220V TERMES RIS ZRESHYET .
+
+. Insulate the MAGNETIC PICK~UP shield wire using a vinyl tape to avoid grounding.
+When the shield wire is grounded, thefN-phase earth is detected on the monitor device sids.
+XTI RFIIE O T YT DY — LS AR E —— A T—TF TERL TFSL,
+C—ARRABET B N BT —ASERSAICRBEhET
+
+7. A connection diagram is supplied only for ons unit of engine because the circuit of sach engine
+is identical to each other.
+
+BREEEERTRVCEENRALTHEAR BT ERBLTIET.
+
+HANSHIN ELECTRIC MFG. CO.. LTD.
+SHEET NO. ( 2 }
+
+--- PAGE 32 ---
+ONTROL & MONTTORING CF GCNERATG ENGINE 3
+[) BE AT | WAl SHTToh
+G PR T s f
+(07 THNR Y ¢ : 7
+£ 3
+& IT=u z 5] 3 SCKARKS o
+] ; CEE £ &S
+g8 H HEERE R
+- biid il P = H
+o 3 EE
+ELZCTALG PORER. o/ I/ NN | Ly
+CATEANG SO @ O © ATouATIC =
+ERBIE 5 [ A O] o) e I ®E _ REWOTE &
+SONRAL PCSTTICN § WED: @ @ e, SI6E 7§ AUTS =
+3EATY 10 START 0l [N i) ) WIS <= AR =
+20 NC[MZ [ "’ | & e} ) DM ATES Y 1 9
+ey e - d &
+" Q. - i .y
+. (0O e |
+“ 0 N
+o O @) i
+& i n
+B i 3 19 NECFSSARY gE
+HILURE & SHUTUON 3kSE™ S FOIMDLE & $:£
+ALARY. FFPOSE | 9 PO3TTION p
+T ! L3
+L0 ENEINE _NLET L @ | 1 T
+b/ FY ENGINE TWET ’ pee
+b [STRT N3 AJF ChGINE (NLCT JC.
+S[FCOBNC RET pEEeenul
+&) [50NCRIL AT E¥aL¥e IRLET RN
+L L0 STRAIVFR DVFF FRESSURE O i
+o LT/CLO0 THET @
+T o FNBINE THET CHIGH )
+& HE OUTLET anen| | o
+= | LGS ~/5 TET (HIH) ! 23 POINT 7 ENEINE §
+& e !
+o o ] el
+I | .
+= - 0
+I FO 16T SRECSORE FIoE i
+r T X N i
+1T} | Fif EXPASION TANK 0D ) ||| @ ek speLy j
+* | F3 DAILY SERVICE TANK el T I "
+[~ 1 i
+CLECTRIC_PCHER FAILUE &l ’ - 1
+CONTHOL /SAFE-{ (PJ FALIT i 10 i ;
+L0 FROMING PUGF START/STOP
+[ L0 FRCHING FUNP R _ _ ol ]
+ERIVING FATI JRE N S HE -
+¢ [C PRIVING U4 ZVERGENGY G (B FIRE SHFETY STOP d
+L1 [ TNG:RE STOP W FALL ’ FURGTON 414
+= e 1 BTDO S1STE
+© 19 P S0 SER0TFALLT = — © L
+FW /T S/00M ERE0R FALLT _ i Shnes i 009 3
+F ey | ] i e
+- i | T /4
+
+SHEET HC.
+
+--- PAGE 33 ---
+ES
+Teo protect alectronlc devices, pleese —
+do nos Laave Lhe ugper door azen exceps |
+whan mal e israrried out, tT7
+&
+100 500 100 =
+\ s ]
+AP LAY i 2-.d0 ! . B
+) \: + - R
+; 59
+H == il
+Elios Fe «
+R Iu £
+<l = 2 E
+@ B £
+g
+E 13
+&
+= S B2
+] = 2E
+! b
+#z
+! 4T
+i 155
+I } P
+| | ol
+I H =5
+2 [
+®© i BE
+A s
+=
+/
+/
+Opzn <he lower dor
+for extainzl wi-irg.
+4|4
+o
+s b 1 3 i
+T
+g
+g
+44
+NOTICE \ — — =
+At the Tdne of wirirg, FAZNT COLOY
+p.eaze satisty OUTTY | 12
+TOTAL MASS | & §
+| PROTECTI g
+<\4
+SHEET M. (4}
+
+--- PAGE 34 ---
+ni5-05 [o¥
+
+2002,
+
+S
+
+i |
+
+=
+[l
+[
+=,
+p=ul
+&
+L
+oI
+al
+Vi
+=
+=
+
+OPLAATION | SAFETY SHUTOOWN
+
+@ REMY CSTART © [ IVER SPEEC
+
+& THENE RN @I L0 LW PRESSURE
+HILAF ® A7 FIHIGH T3
+
+[ MRNAL CHERSERCT ST | [@
+
+RTRCL PANEL
+
+GENERATOR ENGNE.
+
+o
+
+/KL
+FU3INE 5ICZ
+
+B ERTUE
+
+(o
+
+P fN SHUTROM, 3Y5FU FA™I JRE
+QGO i {0 MAGHET2 VA VE
+ST g
+
+W B T
+1| T MFS.COLLTD.
+
+00
+
+TR
+
+et
+
+HANS=1 E_ECTRIC MFG, CC,, L0, TVPE: Z08L- A0
+
+TILL M.
+05-C%
+
+1NALKY
+
+I-- +
+a7 | EMEGENSY 7 102
+Lap TEST | EVEIGED [ e
+
+<4
+
+SHEE™ 10, ©
+
+--- PAGE 35 ---
+NO. | STHBOL NAVE PLATE (LETTER) NOTICE SIE[OTY
+I [ N0, | GENERATOR ENGINE | CONTROL/SAFETY PREL] 200x40 | 1
+201 | W0, 4 GENERATOR ERGINE | CONTROL/SAETY PAEL) [~ T I
+onp CAUTIOH s0aD | 1
+
+SHUTOOHN CORDITION (
+RESET 15 DONE BY
+FO HANDLE HOVING TO
+THE 510 POSTTION,
+e | w = Ty
+> cop | EMERGENCY 8xl5 | 2
+R L eS| T |
+(PBLT) (PB-E)_
+H-h | AC220v I PONER 19,6x13.8| 2
+W-D | DC24v ~PONER 1 ; |
+Fow B - med | 2
+t
+R0, | STHBOL NAHE PLATE (LETTER) NOTICE SIE oY
+e NO. 1 6/E TLOPRIMING PWP | 10025 | 1 |
+202 N0 4G/E | LOPRIMINGPUP | F 4 ]
+1| WA [TAcadov I PORER 20,8x20.8] 2
+e L [
+
+{3 RCL] PRIMING FAILURE 1%
+4 | 030 :
+oot | LPRESET| sTART | sToP 905 2
+5 | PB-LR T (@5 (EAD -
+
+A A A A TFHEN.
+
+N LA 2020/06/07 A | A 006-NPT
+
+BRe it BEMEMBLER | TTE owe.Ne.
+
+HANSHIN ELECTRIC MFG.CO.LTD. | NAME PLATE TABLE | 2002-013-06 P
+
+SHEETNO. ( 6 )
+
+--- PAGE 36 ---
+~E£10-¢0C TERT 3 QTG 94K JMEST T NIHSKwH
+ho| LO-ETE rc%mé l.m oA WY | YR R ~ T I
+[ENED T oesl-y TO0Y-SpIC0M0A |8t
+G I 0 B
+Fai-geIsy |0 Wzl W
+TN INOIHE0 | S5vi0| 0N ZLvOl1ld® G .
+edl il S5V R ETd
+o N
+“SKIS & A 5521 EEV=
+
+194300 M- T0E
+ALERDC W
+
+Cgog 12 IHL 55T
+14414 420 600 LY T005 90 4TS
+
+UL WIS S SIALCTEID UG Ly
+
+A5 2000 30
+
+1 w20
+
+S TS WL
+
+o e
+L5k 1R
+
+Tl 100
+
+( A0L4GH T NDLILSHCD )
+acumer ¢
+
+) gz
+W) s
+e
+
+il
+
+WLLEAICH 2
+il
+NILYO4i03
+
+29z
+k?r_ 3NV
+
+08z
+
+0T
+
+0094 QJULOTT] HIHSNiH
+
+‘ ‘ ‘ w
+— o e
+
+2 _;:Emm @ HILOERNDD 0¥
+
+g o 440
+
+W NO '
+
+E J _
+B o _ - |2
+
+2
+
+5 WAIA-XTYA
+
+2 nsc3
+
+m s
+
+B o
+s
+
+--- PAGE 37 ---
+6LT 0D wvMNYA
+
+FIouH-an
+
+(c-401d OLLINDYN HCH)
+
+1243 464 A¥7U 044dS
+
+SHITE 1OV LTI HCL0ILID N NDILATCA X 0 3400
+
+1904 248 - JaAl
+
+$0dLeG 1091HN 7
+
+=
+
+EFEE TR,
+
+=
+
+=R
+
+=
+
+SEREs)
+
+==
+
+i Scas
+
+,
+rﬁ
+
+SHECTHD.C 8 )
+
+--- PAGE 38 ---
+DF._START OPERATLON
+ENG 3T0O®
+
+[
+WRETIC | 2y srr SN £4 STOP 4
+[ JSENGAEE | | HOT FURNING W T
+.| 7
+= =]
+o § Con siTion ’wum\ s i
+V=St
+swe_f
+S [ L3 = SN SFOTE
+<R S 7394@5‘ 7Q§MU'E
+~Joerst -
+s SIDF
+“fiy O e
+— Braliy 12 )4 B
+JT et Zy
+T B OLR {e)
+Hi AR A S BT
+- <TI0
+
+D =
+
+~
+
+READT T
+SHRT
+
+|
+!
+!
+!
+UG THR W ‘ !
+413 |
+2 !
+
+|
+
+[Fo Ly e
+NOT =XCGITE
+
+2F
+
+H T
+
+FO LWL
+EXGITC
+2 —
+FEED FELm
+
+13
+
+220} :-PEED N
+Alin:
+HEVE
+
+-
+
+®DL;
+
+FL
+
+2002-313-02
+
+W,
+
+OPERATIGN TLOW CHART
+
+i
+
+D,
+
+S2 TRiRR BT
+SLECTIC W
+
+=3
+HaNGHIN
+
+D0
+
+iy
+
+--- PAGE 39 ---
+SNGINE ALR
+
+(ENG 51
+
+5 ELECTRIE
+P
+
+RUN DFERATION
+)
+
+WA
+it
+WAL
+
+TURK:HG BEA:
+
+BGIE
+J:5ENGAGY Lm RURH G
+
+ENG S0P W
+HOT £361°E
+L
+
+Y e FIEITION ,’(D‘{\Em FSITI0N |
+Vopwese JERA
+
+RRUOTE |
+
+N N ROTS
+
+T
+o~
+SN e
+
+AT
+
+AR -
+R FST
+
+Legxiug
+
+ENG AIR RN
+Lot
+
+EHZ STAR
+e
+
+I
+HG 5TA
+(CRAKNE )
+
+PELJELY,
+
+T
+
+e
+
+2hria-t
+i
+7
+
+ERS STER™ I
+HOT EXGITE
+
+BL Y% READY 10
+g
+
+[i246 BLAR
+CTFET IO
+
+]
+
+‘n‘“
+
+2002-013-
+
+WG,
+
+FLOW CHART
+
+T A B (E
+CTRIC NFG.CO.
+
+HAHSHIN EL:
+
+T
+£
+
+EIET
+-2,
+
+2 WALK)
+
+Y
+
+£G 41R RUN i
+D iz
+EHCLL Ll
+
+- SHELT R, 03
+
+--- PAGE 40 ---
+s
+
+ENG STOP |
+
+VOTE/ALTO START OPLRATION
+CRANKTHG SPEFD 128m1n-! ABOYE )
+
+“HS E UAAETLE \ T | NGINE ENG STCP Y
+FL post o fder DISENRAIE NRANENE || NOT LYGITE
+L . I
+T
+[0
+) \oomvosrw'
+SiE [ /
+A B —
+WY LE
+0L IO
+HRT S 2L
+W
+B3 n |0
+OB | N
+£40 5T
+FRC:E
+
+STAHT
+FAILURE
+
+CORARKSR 3
+
+i 31471 ‘
+
+5&EU £
+
+[
+T BT
+
+FO LIWT
+WS LT
+
+Fi
+
+o
+
+FOLINTT Wt
+L
+
+s T | T
+COMPAND CAHCEL .
+
+SCE SIELTHO, (92
+
+OPERSTION FLOW CIIAYT
+
+IHE
+
+\
+
+e W
+
+TR e BT
+
+e
+
+HANEHIN [
+
+TFiLE .
+
+ENGINE g
+N RUNYZNS g g
+T SIFTRD, ( (1)
+
+--- PAGE 41 ---
+RFMO™=/AUTC START CP
+ Ist GRANKING SPF=2 126m1a7) LE!
+
+PUSTTION |
+£ 0
+
+£13-12
+
+1Yo § o FosiTion /
+P FHY " peore |
+
+: L SFUOTE
+YT 1SR Rz | B
+
+STAT [
+REHOTE B 470 |
+START S1ENAL
+
+[CEH
+—
+
+(o)
+
+BRGNT
+2012
+
+04 FLOW SEART
+
+T
+OPERAT.
+
+PR R
+
+F 4T
+W7 Eicll
+
+I 20F
+
+VSHSHIN F_=CTRIC WFG.C.LTD.
+
+ey
+
+£l START
+(TRAVEING )
+
+1
+
+BN START ¢
+[T
+
+2
+S STRTTHG
+
+FILIMT W
+; EXCITE
+[T |
+; AT o
+ryi L e R T
+<
+
+b“g | — I hind
+
+[ s
+CCRARCHG 3
+
+bl ; g
+A [ £46 ST W0
+W RN HOT EXCITF
+ED 3|
+\RUNING 4
+. 3
+
+SRl WD 12 )
+
+--- PAGE 42 ---
+START FAILURE OPERAI:ON
+
+#HT W
+[TE
+
+204
+
+G 5TART
+
+C GRAHE
+
+K2AE
+
+il
+
+SEE SHEETR2, 0 1122
+
+i~
+L)
+
+—
+7
+
+S SIom ! il 7T
+GO 3 O CR=L
+£ 5P WY
+[EoI
+B
+
+mETE
+| s |
+{ snRt
+
+b on
+| srop o
+
+45 S0P W
+T EXDT:
+
+sz somm)
+(kg
+Rl (<, STIRT
+FALJRE
+
+FI
+
+-013-13
+
+2002
+
+TowslG,
+
+0%
+
+CFERATION
+
+I
+
+.20 LD,
+
+TR
+
+HEEE
+
+VIS5
+
+5 |
+U pommic | i
+| P PCELTION ¢
+(~hB)
+BLCox FEADY "0
+TR s 5
+START 8
+4.4
+SFEETHD. 13 )
+
+--- PAGE 43 ---
+FI
+
+SN3TNF MANUAL ST0P OPERATION
+
+-013-14
+
+2
+
+T
+203
+
+| S ——1 e
+Yoo s S e s
+ResE OO e/
+
+HETRERIGAL
+E NIHUAL ST0P
+i
+
+SOW FLOW CRART
+
+R
+
+L RO
+\ §10F Pust
+
+1 OF:
+
+({43
+
+0.4
+
+=
+AR T
+
+Tt
+
+H3 5ITF
+oD |
+
+i
+
+€
+
+FILEE,
+46
+
+ENERE STOP
+EXERUTE
+
+o =
+COMA
+
+a L1 STOP 4
+Bk | MTBCIE
+
+(BB 207
+
+=
+Ta
+
+T
+
+&, 7ot
+
+SICCTHO, € 14
+
+--- PAGE 44 ---
+ENGINS S-UTDOWN{ RIPY &
+ALLARM ORGANIZE OPERATION
+
+TRERG,
+
+b
+
+50 ILIRY 7] L3 STRRLICR DT 70ES5
+H L4 ORI ZE
+~ 1 m/r\ kS
+NE R \\\“@,‘/ CIRMTT ORRAN
+(&
+SHUIDINY HW{WWE
+GlRCUE DRBANIZE I SISTEN
+{HRD WIRL 5°5)
+[ .. -
+(o
+TR s |
+vOSEL
+D
+‘\ IF HEDESSARY
+0 PR=ESURE 11T Fit1ER-
+i Ly | H
+0 [m0)
+Vv
+Al LG LOW L AT THAIGH ASUR ERFRAFHCY
+- PRESSURE ¥ HFERATUR
+. —
+EHUTDOMN ‘
+HHAND h
+D (EBAAHS)
+il - i
+L2 oo
+T ST WY , RS2 Lo Low Pagssie
+L_EXGIE BESUDIN | oy
+DOUMAND BANCEL S TOPTR TURE
+
+LS MRAUAL EUFRDYEGY
+® 5T0P
+
+ENG 5 F W
+NOT BYGLTE
+8T
+
+| FE |
+RUK POSITICY !
+
+(B
+
+T T
+{ START
+
+[ENG START
+2088 RBZ |
+
+--- PAGE 45 ---
+S"EZD DETEC
+CTACHD FATLUIE)
+
+B2 GONITOL § G PR T
+£LF FliERH = CID
+
+SPEFY FF1 A7
+SR
+s
+
+- B
+L
+N BREL
+
+N
+
+£ spEz2 pCLAY
+G £ STAR
+(CRAKING
+
+UR ABNORMAL
+
+FL
+
+2002-012-
+
+s
+
+=
+&
+
+i
+&
+5
+s
+g
+- E4
+3
+b
+L
+A 2
+. #z
+72N CFEED . o
+lnin -7 i
+Nws [ 1
+VES TEADY 10 S50 R =
+e STARY >j i
+N FELS28 o FL‘ B
+(G0E <TG - =
+0Pkl mn,> z
+2R &
+I —
+& K
+SHUTIEIN G LAY |
+CIRGUIT GROSIIE ~
+|
+i
+
+.
+
+NOReA
+
+TETED CF
+Ri
+
+HUTDSMN 51571
+AlLuFE
+
+[ PLCS SHITDON, SHSTEW FRTLURE
+{SPEED LETEETAR)
+
+N T
+
+&
+
+TUHECT R |
+
+[}
+
+--- PAGE 46 ---
+SHLTDOWN SENS
+
+S0 & STCP WY FAULT
+
+I
+
+(WIRZ BREAC) In
+= e
+FAR 0L SAFETY =
+ELE POEE/N Y
+=
+By e =&
+
+[y £ f
+TR R =
+=
+. z
+
+g
+£
+£
+
+e
+
+P
+
+0,70,
+
+B2V THEUT
+T2 SFHROR
+
+RO
+
+FIFRG [ mitett fadt@imsd
+
+FIN FFCTRIC WG
+
+SHITTOA SENSOR
+HITCHING
+
+[
+
+9
+
+017
+
+ZTOP Y
+IHEUT #2°T
+0.4
+
+]
+
+m”fi ‘S*“f% p =
+i ; SJOLTHE 1451
+//E(?LMTPAPISDN ) PSS
+WOLTAGE 137
+. \/VRD
+‘ i<
+
+SHUTDOY
+SENSOR FAULT
+
+SHUT[U\YN 2YSTEN FAT
+T8 5706 0 V1 VE)
+
+SUTO0M SVSTEV FAILURE sOX AL
+{0 paesr B R
+ST THE e )
+
+L4
+
+SENSIR, STOP 40
+
+or K3
+[ BEFEFMRED
+A DAUSE OF
+
+| SENSOR cr i FaT
+
+SHEET RO, (
+
+--- PAGE 47 ---
+ENGINE _C 2RIMING PJUM® OPERATION
+
+HL
+
+_ s
+E_=ETRIE FONER %
+— [
+o, A FSLTIN ] =
+e [ T
+w W |
+752 N 310E Vg |29
+< HY
+[sw w] =
+Sl =
+[ £
+=
+ES
+N N
+w5
+g
+=3
+=&
+10 FRIIES
+PUZ il i ija
+b 1| i
+s
+ORGRAIZE | "
+TE =
+)
+| o | e | z
+CASE OF =
+[ L2 PR 3
+oo | PP RN o
+Lt aEsEr’ FJ/ < ‘
+\ Ry | 7
+USSARCSN N HRVL ST
+S NER N i
+l i<l
+U
+£ L0 PRUING
+FAILURE
+|
+(]
+o lglq
+Lg s
+Hilire G0
+o SFFTHD. 16 )
+
+--- PAGE 48 ---
+CESSRIPTION
+
+DESCRIPTTON
+
+OYM30L | DESCRIPTION SYMBOL
+_ DIS0OMNEGTION (- LAY & THER \ OV TIME DLAY |
+e E= L ol ST o sowae”
+12 J— : S
+MAIN CIRCUI™ WAL ELA L i O TIME DELAY
+THCTHAL TELAY -
+BREAKER WAL TR & o= [ conaei
+AT VOLTABE THERMAL RL_AY | orF TN DoLay
+TRANSFCRYER WITH FEAGTCR R | GonTacT
+: i i
+AC SURREAT AD VOL"AGE L UFF TIWE DELAY
+IRANS=ORKER | | WETER i NG CONTAD]
+. i .
+i DG CURREN- A AC OLRRENT = FI TGKER RZ1 A
+; i R IR L= ) N BONTRE™
+y Y C YOLTASE FLICKER RELAY
+B=— | Fust (L) e ) N/G CONTAC]
++ = ; 4 D SURREN" ECAANTOAL
+N | Lok METER /0 CONTAGT
+MECHAN_CAL
+L coneeen 3 HOLR ke [ER ;fPFDCN”m
+~ - — L -
+o \ 1NDICATOR - CHANAFOYFR
+J‘] ———- | REEI310R @ R )T —° |srom
+B2 | sndugTapLE /L& INDITATOR LAMP ECTOR EW
+Al A Resperon s WIT- T2A\S ' N/0 DONTACT
+O | TERVINAL i 1EY i
+- SELZCTOR oW
+CABLE HORR AUTD CTLAN
+[ N MO CONTACT |
+; ‘ SELECTOR S
+BFLL AUTO RETURY
+L. LoL . N/G CONTACT
+L e eoweete || = S0 [ B
+! CASLE —J e W6 stz
+T ) a . PJSHBUTCN
+! VAGNET MAIN o B
+
+SHIFLD
+
+Ns3 CONTACT
+
+NG SOATAC™
+
+A - PLSH BLTON
+- HAGHET HAZY
+- T SHELD 0LE 5 YCHENTARY
+© " N/ SENTACT _HP N/C BONTHGT)
+- 1 ) 2U5= 81 (0N
+L - fx L HOHENTARY
+= B NG CONTACT | EE oo
+AU RELAY HANUAL RE
+A/ CONTAST N/3 CONTAGT
+' CONBTNG™(ON & L ks
+oL e voTeR CONTAGT [ N/C GONTAST
+A & A N [ FIFHO.
+N N A 4 Dle-LuY
+ey B B e |TTE BwE N,
+e
+
+ANSHIN ELECTRIC MFG.C0., _TO.
+
+ELE SYMBOL CESCRIPLICK
+
+N
+
+20032-012-19
+
+SHEET NG, (19
+
+--- PAGE 49 ---
+0,7 20 )
+
+SHFFT K
+
+o[ DZCT0-2002 | i anies T OB Fig k4 L — =
+\; “ awona|  ISNTHOLIES by)| wymWRcm £3¥ ,5&:_ - 7 [ v ki
+- T = fEn e
+T
+]
+e G| 5 ™ i
+B
+b A
+Ll Iy L0410 L3S — e
+Lifigh 9L B 130! e E
+AT TR 2o B |
+T T s W wy —
+3
+#5d-d315
+2 90/0¢
+1 e 1 -
+@ 0 | A = #
+7
+HIEEDY
+1 - JUTER VN 09 4
+ot | 27 14 - I
+ol 0-53 | o |
+i i 8l-t EEL
+& }
+Z
+
+--- PAGE 50 ---
+CN
+
+i
+GON RCL BYETF Th/OLTRUT )
+camEcToR Ho, #13 10 =
+w0 R N
+;g
+A=
+S
+CNCINE 312 SONTRO- u |
+=
+FJRNIHG €E4K DISENBAG= ¢ JISENS, @ ON) i
+RENOTH/AUTD START (START : 01) &2
+EE
+REVETZ STCP (ST0° / b B
+NDIGATOY _4P 53
+S senrzom 48
+e ’ £
+o ENPINE i FARINE 510 STAIT (START © 2) 2
+o 5
+cg S NS STAT INTCTRUPT ¢ INTCHR © TN 3 £z
+—R g ery C193nin"1 ABOVE © ON) i
+£z
+DZP 3WIH-5H1 T
+Wl-L | OTF B Py \ =
+ek WGHETZC PECK-UP FAULT (FAULT : CFF =
+ST 31
+OFF | = ;:‘1
+FRON SETROL ek DI | FRIVING LO PRESSURE ¢ LON - 0-F )
+o] ;
+v -
+e [
+l MAGIET0 P10V
+pois pois LANP TES” -2 i
+‘ L PR-T e dh Klnd
+
+Ece
+€625
+
+EHGINE STAR™ AGHCTIC VALV
+X0l
+
+FGLIMLT HABHET]D YALYE
+DE2E D.58%
+
+]
+
+A
+&
+
+SHEET 0. ¢ 21
+
+--- PAGE 51 ---
+I
+&
+Shb= Y SYSTEM INOLTRLT o
+RS e, 5
+& o
+Fob  ATELR N
+i 5
+C: L - B
+_&{%ﬁq‘o FUNILE CRIN 0521 N 0N) [5_
+
+SFEED ¢200m =L ABOVE: 04)
+
+__ Pozolpoan  1avx | ENG (LOW
+
+OF WD SCBE 1 I =
+
+BHEY pes! pea
+.
+
+QVER SPZED 3/O0HH (11203 16%: ON)
+
+GENERATOR ENGINE
+COMROL PRNEL
+
+DIF SHITGH: 513
+EEERIE LO LOW PRILSLRL S/DAIH (0: 0N}
+£
+CFF L0 1AM 5
+s Eiion | HeT SIOE W HIGH TEPERATURE 5008 E
+e | (k1 on: [
+Jsrumom | E
+| YANUAL EMERGERCY STOP (STOP: ON) i
+J (00 STRE: TF ECES3ATY ¥ H
+]
+D3P 3NITCH: 42 b
+Sw2-1] 0°F S #
+Si5-2] 0°F #
+<
+e i
+V5 807 USE =
+
+¥ 7) ERON SAFE1Y POzk CIRCLL
+N3 — TC24Y
+
+ENGINE S10F WAGHE1 10
+Co24y 0, 334
+FO3 SAFETY
+
+by
+
+LIZEAICH Lab?
+
+L N VAL 16 Ptk
+SR e — . !
+B s cunm jEafealtet <
+SIART FAIL # SEUTDOKN
+
+BB enwr rae !
+AL L ey 1
+
+LT
+
+B o o passire i i
+LS ik
+E
+
+Ay
+
+SHUTDOMN 55 EM FAILJRE
+R o e e
+
+R e iR ja
+PR o prassure st
+
+LB 7 TEeERaRE S8R
+
+SPLD 2007 n-1 #BOVE: O
+
+W 5
+LA &
+SEET W, ( 2)
+
+--- PAGE 52 ---
+WI2F
+N3,
+
+U
+
+TMETR KSIOH STaA
+e EXTERSION SINAL
+
+WITOH BOARD
+
+N
+
+WA
+
+‘l REMCTE/AUTO 57AR™ STGNAL (START:0N)
+
+‘] REHCTS 570 STENAI (STOF:
+
+7]
+
+COMYOH
+
+REMOTE/AJTO CORTROL (REMOTC/AUTC: ONY
+CNGIND BIDE CONTROL (E/S13Z:0M)
+
+j NaT U
+
+5
+s FT] R=ADY 13 START (FEADY: 0N
+2 @] RADY T0 START (READY: 0hY
+1 — 3 e |
+" z ~ EGINE RLN (RLN: OV
+L - 5 SIART FAILURE (FAILJRE CH)
+12 = - SAFETY SILTOCHY (5/DCHN: O]
+3 2z =~ v b
+
+U5 Con SRSz
+
+AT Sioe B0 HlH TeWF
+
+- ] N €100 K0T (ERRUTF )
+£ T ENBINE WAL STOP (570°:0W)
+75 - IF KECESSHRY
+[ oF a1 J5=
+
+3 kL
+%2 EVEN IF N ENGEHE DOES RUNNING, 1T DOESN'T™
+
+SHEET HO, ( 23 °
+
+--- PAGE 53 ---
+i
+
+COMBTOR
+
+TN
+
+EXTENSION SIGHAL
+
+CHGINE FUN (FUN:0%)
+
+OVES SPEED
+
+L LOK PRZS5
+
+- - STy
+A7 P STBH TP Eirom
+
+RBENC STOP (STOP: 0FF)
+
+WAL
+
+GONTRCL. POYER FATLURE
+SATETY POYER FRILURE
+
+POA-R FAIl ik
+|
+SKEY SRR B
+CEJFAL
+CNTROL SYSTEN Al
+
+6/F ALARY. REPOCF FOR ME
+(REPOSE: 0N 28720, WUTH THER 305EG:
+
+0T SBNR |
+
+KONITORING SYSTEM
+
+ALARI
+
+¥ FAULT &
+SHbIDcH Sewsok L |
+
+RAEHCY 5TOP (ST0P: 24
+K
+
+(S/D0MN: O
+
+—013-24 J
+
+2
+
+H)
+
+NG,
+22
+
+s
+
+[™E geNERsTOR Iy
+ZONT
+
+CTRIC WF.C0.LID.
+
+500 EAERET
+
+HANSHI EL
+
+FIE 0L
+024-2E2
+
+ALY
+
+AL
+COMNES
+
+OF
+FINHE,
+
+FXTERSTON STEHAL
+
+15
+
+I L0 PRI
+
+32|
+
+TG FATLURE (HALL: 0F=)
+L0 23IMENE PUAF N (RUN: OH)
+
+SKEETY SHITOZHN OF H4GD WIRE SYST:H
+oo s UTBUT GLY W HARD IBE”
+[ gsTB SO e I8 0Py Ao
+LoD OF St siret s Sistev. )
+
+HNCR DETT *5LC0 ALARY PEPOSE
+H, ¥1TH TIHER T0MEH)
+
+44
+
+SIFTT WO,
+
+--- PAGE 54 ---
+u/E LO
+
+PRTM
+
+HF 2UK
+
+== CONE,
+
+SUNET CN
+
+DDF
+
+TIMER SEI
+B8T: 305
+
+L) porF
+
+ENS RuN
+
+“FRUN: GFF
+
+PRIN: 8 FAILURE
+CHDRMAL : CLDSE)
+[ ovzn LoD ‘e ) TO ANS
+- 0 ] o
+) LRRINLILAD R R Y
+W i PP RUN
+L I RINON)
+Pl 5TCP
+! Uy |w “oPEm | EN& SPEED 20miIn! 1
+b FUN ¥ AENC
+) ENEINE e=p <IES /‘ -
+d TIMER ' PAIMING LD | i
+4/F 1L.C PRIVING 2UMP 305 PRIS3 WATCH
+L BKW 2. 94 RogING RUN
+PLIP T TTap
+PRI 4 A RESET
+{JEF LoD \
+PRIV LC /
+A A A M
+\ PN A 028-Len
+B RIEREET "ot Lo PRIING 2P p —
+HANSHIL CLECTRIC v 6.C0. LTC: JT=R 013-02 cN
+
+SHEET 0,
+
+(A
+
+--- PAGE 55 ---
+ERATOR
+INE CENTROL
+PAN=
+
+[l
+
+T 0iCK SUPY
+
+B 1 87k JNCTION BOY
+‘L VANMAR SUPOLY
+
+ST SR MTOR
+oL 46100710 208 10
+I L e A !
+= hizs HAGHET 1 PICK-UP FOR ENG
+E 3 REVOLTIOH (SAFETYY
+pe M8 2 ol D ok s PICK-UP FOR ENG
+s 27 e s T PR R e
+G -4 | EHIELC WIRE |L- 06
+o AT
+F ENG SIL: START ZTTON
+s o IBLE SITH FO3
+
+i START INTEK LOZC b RESCT
+
+DABK SUPP_Y
+
+CONIRE. POSITION SELEDT
+SWITE (E/SIDE-RENOTE)
+
+TURN:N GEAR, SVITCH FUR
+START IIER LiGK
+
+MAGNET VALYE FOP ENG START
+D622V 3,264
+
+MABHET, YALYT FOR ENG $TOP
+D227 T, 334 (FOR SAETC
+
+VAGHET YALVE FOR ENG 5TOP
+
+Z6aA¥ D, 334 (353 C2HTROLY
+
+Y-,
+
+T
+
+pYa-G
+
+D GHET ULz R OLINT
+21| D2 o 36
+Jaal s 11/T =W TSNP SHITCH FOR IRIP
+Tl g WITH RES!S10R 2. 3KQ L. 54 i
+o[- LD PRESS SHITCH FOR TRE>
+S| ] HIT- RESISHOR 4 0.5
+5o PHCHING 0 PRESS SHTTO-
+
+FOR ALAS
+
+ALARM SHIT2A
+
+PRESSURE THNSH I TTER &
+RESTETACE BULE CONNZL1 l0K
+REF, T0 AR DR, NO.
+
+ES 476a3-000 (2338
+
+—{TEE
+
+KO,
+
+ENZINE CONTROL
+
+L GE!
+
+ATOR
+FANEL
+
+P
+
+TB-2
+T [
+i H 24
+e o Luver
+DI ey sy
+P B
+T 51 | SRy ! BOARD |
+[BE] Chgl I
+3 [T | (&;quLv)
+2 [®
+]| o
+pa Sl
+5P| T2H
+
+ma—zolm‘
+
+TR
+2032
+
+= SONTROL
+ING. PUMP PANIL
+
+RACOR FNGIN:
+
+N
+ALY
+
+i o
+
+[
+
+WB.LO.ATH.
+
+HIN ZLEC™RE
+
+ek BB
+
+N
+
+P T
+1WA e 1oy
+
+KL G/E SONTR0L SOURCE (ND, 1~200WON
+A0220v 60z 19 (180Wx2)
+
+FiL-L,
+
+" 005 S0P
+
+HO, | G/E EMERSERCY SOJRCE
+DE24Y (MAX 2, 543
+
+S NO, 1 G7E LO FRIMING PLHP
+JERW 2,98
+5
+
+frrr 10, 2 B/E L0 PRINING PUMP SOURCE
+
+2AACY BOFZ 30
+
+]
+T
+el L
+‘H NOUTTORING
+SYTEY
+
+[l ' '
+& -
+i () | | &
+H j
+Bl e
+0|
+It :
+12 H
+[E]
+
+R
+
+L POWER FAILLRE
+
+18 SIRT
+2721 GHIRL
+GPL ~4ULY
+QUPLT “EM14A_
+TB-3:24/°8-2: 27
+(7B-3: 25,26 SHORT”
+
+SHITDINY SYSTEM FATL|
+
+UTPU_ TERMINAL
+TB-5:32/T6-3:35
+
+T SHORT COMNEGI LON
+
+7 VAKER SUPPLY
+
+Forn Ao
+
+N
+
+P
+
+A
+
+SITET W, (26 @
+
+--- PAGE 56 ---
+1
+
+NERATCH | !
+LUNT?CL i
+|
+
+|
+
+|
+
+2-013-2/| T8
+
+'
+‘ 0.4 B/ JOHGT (0N B,
+N0, 4 GENERNOF i
+
+L YARAR SUPPLY
+
+ZHBINE SONTROL =
+FANEL =
+GOUEINOR HOTIR ia ey
+1 AL/ 11y 230 10 Z
+[ 2
+ERC 23|
+% - R
+28
+7 VANET;S PLOCUS TOR CNG - M=
+SEVOLUTION (CONTROL 23]
+&=
+] 5z
+ENG SIDE STAZT BLFTON l EE
+SR e b
+s v | 2
+CONTROL POS: [0 SELEC 30430 =
+SHCTGH (E/SILE-REMATES |ES)
+! & mex | iSS
+¢ URNING GEA3 SN TOH <OR T LR | (3
+S HRT NTER LOCC T L2
+- VANET YALVE FOR £33 STATT 22 ) 22
+0247 0,268 ] T &5
+{- HAGHE™ 4. VE FOR 248 STOP
+DC247 U, 364 (FOR SET)
+WAGHCT VALYE FOR EIG §70P ! 4
+0024 0, 364 (FOR GONT=0L3 B
+- WAGNCT VALY FOR FO LIHET i ==
+06225 2. 38 =g
+SLTGH FOR T2 i
+5T 2,90 0.5 i - EE
+(104 £ TRIP Fl | =1
+R E LV s TR N =
+2P iz Lo press shoicn 2 [ o L | =
+FUR ALAR S R | [
+% & H P [0S
+£ 74 T H
+& AL 51 ToH s
+2 8T 26 )
+(- E -
+T
+[
+Al 13 |
+N 0]
+15— 5|
+16—
+T7H
+[ ELE PORER FAILUE | !
+e T TCW
+TE-3:17/%B-4:
+B IBOGHRT]
+\J6-3:20721 SHOR”
+| 2Py AL 4|
+; TR e
+. 12//T8-3:21
+N0, 4 6/ EMZRGENOY SOURCE iy
+24 CIAK 2.3 Qb-2: 2625 90730 .
+SHUDOWN SYSTEM Zal_f 3
+OUTPT TERMINAL g
+S0, 4,02 0 FRIMING PUSP 13-3:32/13-3:3 g
+15KW 20 3h ®
+J SR CHNETON gl
+s |- NO. 4 G/ LC PRIMING PUKP SCURGE AER SUFPY
+Tl IORSPRT Roany o 30 il
+|
+
+ki
+P
+
+SFEETRO, €
+
+--- PAGE 57 ---
+UL | sPARE PARTS LIST FOR usE SEaERER
+GEN_ENGINE CONTROL & ]
+L0 PRIMING PUMP PANEL
+mey|  NAME OF CUTLINE WORK NG
+|5PHE
+
+Nt PART R | PR L
+3} ST | VS5 |
+
+1 | PONER CHANGE 2| 2 || HANSHIN ELE.
+
+PGG~4 DC24V
+
+GIRCULT 30ARD
+OMRON
+2 AU RELS 8 | 6 | 1 | uanDe
+WX RELAY e
+_ . ‘ |
+| |
+3 ) i o Caloa )| auss-pap
+21
+4 | SURGE ABSORBING —f— g | 8 | 1 | SANKENZLE.
+RUIS 5 o ! ENIC
+2] g |
+A S TR S
+' ENG TNE PANEL
+5 | 3 16 | 18 | 10| UTSUNOMIYA
+| oc ps -2 Ucosh |
+= 2 ﬁ-‘ L0 PP PAVEL
+6 Gn = 6 | 6 | 6 | UTSUNOWIYA
+| HlELE
+MABNE™ RELAY o | o ) | AC220VBOHe
+7w ooR : 5
+QCR 2.2+3, 4}
+SET 2,34
+g ALU RIMIN'G 5 ) . Eﬁg?;ég ELE.
+GONTROL BOARD DE24Y
+- BAS/13
+3| LAWFBULB 1 8|6 | 6 | svm
+e STEEL TYPE
+13 SPARE BOX ¥ — | 1 | — | PAINT COLOR
+5176 3604150+8 ; SILVER
+A A N FILE NO.
+A & A A 328-ESA
+M2 ERWTWRMBOER T gey ENGINE CONTROL & |50 ]
+HANSFIN ELECTRIC MFG.CO. LTD. CERENRE SR ERE | 2000-013-28 | SP
+
+GHEET N0, 23 @
+
+--- PAGE 58 ---
+T SPECI=ICAT:OR
+
+w b
+
+SAME
+
+EETS
+
+TION HEA)
+
+LLRIVE SHAFT
+CRIVEN SHART
+
+ran
+
+CRIVE GEAR
+DAIVEN GEAR
+
+SYNCHAONIUS SFE=3 nii™'
+
+WP
+
+KEY
+
+FHDIECT.CH
+
+9 BEAR G JOUE G
+
+CABLE &LAND
+
+OLPI 1kG
+
+POMP_lAKES
+
+OLELING
+
+VANMER, (2
+
+£A730-0%
+
+COUFL (NG BUSE
+
+TV VALVE _[CAC40
+
+T AL SPRING [SpPh
+
+A1WG CGYER [FC200
+
+VauNAR CO.. LTb
+
+--- PAGE 59 ---
+N36—D0K—0157
+
+DRAVNG Nu.
+
+)
+
+RECORD RLVISIONS i ) N
+TS0 V196 se7er B %o DESCRIPTION[DATE APPROVED | CHECKED
+PITE R LML, EONOTZRI4I .
+E/O NO. TZ-R3861 U ot e Fe it
+
+Parameter of Spesd monitor
+Mark TIC Type o (Full scale,
+Division coefficlent ) | {0 (S50 gmpm
+
+~MET18SRC
+
+A MET22SRC 2 0 - 70000
+(impeller Size 14)
+
+MET228RG
+B (impelier Size 2,3°) 2 0- 60000
+c MET265RC 2 0-50000
+) MET30SRC 2 0 - 40000
+E MET37SRC 2 0-30000
+
+How 1o diotinguish Impeler Sizes
+The 3rd number of ubacharger spesiication rpresents tac Impellsr Sizes {e.g. YARTTEANY 11HI30M maans Impaler Size 1
+
+7 PAGLS YATH GOVER
+
+f TURBOCHARGER
+DESIGNING SECTION —
+AFPRCVED
+L TACHOMETER FOR
+R.Ibushis MET-SRC TURBOCHARGER
+- (DIGITAL INDICATOR, DC POWER SUPPLY)
+E. Matsuoka
+CONFERRED SCALE
+ORDER - - REV.
+N36—00K—0157 1
+
+KR MITSUBISHI HEAVY INDUSYRIES, LYD.
+NAGASAK! SHIPYARD & MACHINERY WORKS
+
+Drawn 30 Qect, 2011
+
+--- PAGE 60 ---
+Uy
+
+(1}
+
+Mark
+- L:
+{impzller S
+[} lmpe ler Sizs 23] ] 917
+C - 987
+3 169 7
+i3 1277
+
+Datection Su-face
+
+| Sersor_|lead
+
+Sensor_Lase
+
+i TP —
+o b / lResin o MaX
+S / &D‘ / /
+/ A2 ! !
+\, ¥ “l 2
+= {
+11 RS -
+L7 _ /
+L3
+/
+/
+_.
+
+Leanezlal
+
+/ PProzact Connecto
+) fROL-PIM
+
+Lentraction tuba
+W3FZ-172INBlac<) N\
+
+N \
+X
+
+i
+
+5 q 1
+—
+Y Flxble Armorad Tube w48
+
+9L.5
+. 3000#5% S
+MATERTAL ORATH 7 E M B m
+— v Doy | APPLED ELSCTSCNES COBP
+= REXTHRAT T2 FIATEY [E5GNER 1
+=] SH 5178 TERMAL YIEW Kird}
+= FoTES T fEreER .
+1] SH 3/78 RT3 PN L]
+= HPPRSVIC B 26430117828 [0
+ladto K.S 9/28 170 mm |SHEET  CF
+
+--- PAGE 61 ---
+2 ,,;w
+
+~_Zenrectzrito probel
+RO4-R2F
+
+D 1 g ]
+5] @ T P
+W e
+!
+¥
+i
+I
+Gland A-157
+/ Fi*ing catie ®7~10
+%
+3¢
+AT
+-
+FRTERTAL BRT 57 7 =
+=g | ‘ vo °C1 APPLEY  FLECTRONICS (ORP
+TEE TRERTAERT SR TTHIET DESTEVER » 3 el FBTAwW
+£ TR _ TRER ta | JUNITION B ERNAL VIEW
+E (Y Wi . e 0 T
+= v 9/2% *
+= PRGIRCT EWCTREER ]
+[ ite,
+
+--- PAGE 62 ---
+Connactor{ta probe}
+
+RI4-RIF
+
+FETERTAL
+
+it
+
+[DRAWE BY EE
+PLOWPRLED ELE w 5 [ORP
+i M2
+Bl (e T | PRZCRER MSIJE JONSTRUCT IN
+o1 = ORAW NG [D j
+= 2H430100X
+
+o Giver o
+
+--- PAGE 63 ---
+3
+f-o-t elzva-ion -
+— o J
+side elevalicn
+I ' J [
+-
+16 89 o]
+oot
+e
+c| |
+£ [ —
+L — — - ——
+[TERTAZ DRI E7 FRTE RGeS PP
+T wo | me U ASPLED ELECIRONCS COR?
+i TRTATHENT OX TTRTEN TESTONER g Model 73
+2] MOt 1A% CIGITAL TACH
+o DRAY 16 N0 I ES
+= 76E30907118
+3 ts SCALE "/ mT focar 07
+
+--- PAGE 64 ---
+frant elavaticn
+
+sl&s
+52
+
+YLumper
+
+——
+
+auficn:ocs-2oms oum)
+h ras that orly ANALDC MPTIR is used,
+5 and € temmirals should be sho-t-c et by jumper,
+Ard in case “hat only DATA LDGGER s used,
+
+& and 5 -ermineis sheald B2 shor--circui~ by jumper.
+
+1. DUPJT
+
+r B
+SICERE 12 A
+ACLT AL
+
+CLLCRI U?[W M 5305
+
+JUNCTION 30%
+
+ATEZTAL
+
+e M O PR CIECRONCS (o
+
+=3 TREATHERT DF - (R0 [DIETGHER Eh) Vodel 73RS-DM
+
+e e EXTERNAL VIEW
+
+= Qb 361
+ac'o 2 Vinn
+
+--- PAGE 65 ---
+<5 B
+18 aamozes]
+HA
+K sy TH £2L08
+T ONd M 197 EXCR DN
+Ear
+1) SN (3Ndav e o
+
+439907 ¥1¥!
+
+29 pinoys )puz (7 paSN St 3
+
+9 PINOYS ) Pk (G PR S| HILTH S0 JLEEET
+
+%3l dns samad
+
+KO'_N¥]
+
+Squr “ospucy
+
+UCdy JE. J84RI0L R0 [NCYS JgIT PePlEINS $3.93-F  NQILCY)
+
+LN
+T¥NDiS
+[N
+
+25 few walpaLuod eiged 3
+
+pabewep Ly-sysL FUB EF-MYL-3)
+
+" 11N
+
+puky 3y ig Aas do)3
+
+I8NV (o) L%
+
+i
+Bl
+
+Joyeu auliie Ag 5o
+
+Ayddns paed diys (A)
+fiddns _caen aubu (1)
+SYIELTY
+
+103 244 uajLBiy
+H0223NN0D
+7
+
+—— Qﬂ\a
+2| &
+
+aILNY:
+
+19 JIE prowsE)
+119v) 0301EHS ST
+
+E \Lﬁm, I i
+
+= 1INZ0E 101 965
+502 LIHIZ0E-660-90-5
+
+(145971 IWIZ06 - 1-90-5
+
+(£°7 3215 1ol NSZZLINIZOE-860-99-S
+2215 30 13dUIIYST7 L TN THSRL. INIZ0E-90L-90-5
+
+--- PAGE 66 ---
+o o0 e
+
+122
+
+y3005:1
+
+n.
+
+5
+
+”
+0
+
+S0
+Qe
+
+[SIREIT
+
+190 3
+B pUs I
+
+(RO
+
+DRI
+
+1920 2100 591
+
+GYR
+
+S HFRREHONE ASIRYEY
+
+it 1218 21,
+
+13
+
+) FHIIE> (T)
+
+T
+
+B
+
+ERETEN
+
+g
+3ot 18
+
+3 IO A 610,
+
+T
+|
+
+--- PAGE 67 ---
+FE09-00000-11
+S s e
+AWM MOTSHYIXZ JHL R ERR P R T R L A=532HdROZ 28 0 ISR 3
+
+CRA El LU S
+
+QNS Q¥07 3L A3 Q333429 28 OL L
+
+ol
+
+AYRIDGEN
+
+RELMI)
+
+B
+
+FEIEI
+
+--- PAGE 68 ---
+MiUe
+
+L EREEE) ~ BERRERLN,
+TUSETTING LENGTF)
+
+(HEERAVEYA) 3 S
+
+S (F mu\ A0mn---
+E 5 T QN
+
+SETTIAG
+
+I PRI
+FOCFYTRIC
+
+T2 IBIYE
+
+FOR TURRD CHARGER OUTLET
+
+VARMAR 0O
+
+--- PAGE 69 ---
+[
+Wlosm
+
+FLOW
+
+E¥:4
+SETTING '"EMG™4 EASE
+
+SRl TEE D
+#LOIRHLE [— ——
+
+ER = niu
+
+94}420435]12|25];
+
+B3 3TWARKS
+
+Grn)
+
+[SAFE; e
+I HEEONE 10K FASKIGIT S TYFE.
+
+ro
+
+R FXIE.GAS
+
+! o X
+IDULL BE JNSTALLED 14 ~+E 34-10407 1040
+EXTERNAL PIPING. YaNMAT GO, LTD. N2
+
+--- PAGE 70 ---
+SAX$PR M1 IRNET
+T 12010LLS G410 BO[TE
+
+BT
+LCAPACITY 07 TLCL €1
+
+J1.3%
+
+R EEE ]
+CAUCE S24L°
+
+0~100 WEa
+
+Bke
+
+2o A8 -
+NGZZILE “ESTER
+
+= I DG
+
+he e
+
+--- PAGE 71 ---
+1. SYSTEM DIAGRAM FOR HEAT BALANGE (FW.-SW. COOLING SYSTEM}
+
+St LOW TEMP, Ti= 32 °C
+FIW. INLET TEMP. OF ENG, T= 80 "C
+1.0, INLET TEMP. OF ENG = 65 °C
+
+LO T
+
+2
+
+AR
+COOLER
+
+FN,
+COOLER
+
+COOLER [~
+
+ul Je
+
+ENGINE
+2. GALCULATION
+2-1. QUANTITY OF HEAT TRANSMISSION
+TOLO: Q1 = 580 MJ/h
+TOAR: G2 = 1295 MJ/h
+TOFW: Q3 = 775 Md/h
+2-2. S SYSTEM
+SW. TEMP. DIFFERENCE BETWEEN AT - o] S g
+INLET & OUTLET OF LO GOOLER VERAC = 5%
+SW. OUTLET TEMP. OF L.O. COOLER T2 - T+ ATI = 366 C
+SW. TEMP. DIFFERENCE BETWEEN A2 = a2 PR
+INLET & OUTLET OF AIR COOLER - VHR*D =
+SW. OUTLET TEMP. OF AIR COOLER T3 = T2+ ATz = 473 °C
+2-3. FW. SYSTEM
+F.W. TEMP. DIFFERENGE BETWEEN ATE = Q3 [N
+INLET & QUTLET OF ENGINE VikRI*CE
+FW., OUTLET TEMP. OF ENGINE TR = TR+ ATF = 862 °C
+2-4.L.0. SYSTEM
+L.O. TEMP, DIFFERENGE BETWEEN At = —Q . i
+INLET & QUTLET OF LO. COOLER Vi#RIxCl
+LO. INLET TEMP. OF L.O. GOOLER to= 2+ At = 797 °C
+L. & SW. MEAN TEMP. DIFFERENGE At = SCHETO G g
+OF L.O. COOLER M7 23les I TOAR T)
+COOLING AREA OF LO. COOLER A = W——MS"‘{ @ = 790 nf < 9902 nf
+v SW.PUMP GAPA. FOR GOOLER 200 m'h
+R DENSITY OF SW. 1025
+C  SPECIFIC HEAT OF SW. 393 /g C)
+Vi FW. PUMP CAPA. FOR ENGINE 300 m'/h
+Rf DENSITY OF FW. 1000 ke/m*
+Gf SPEGIFIC HEAT OF FW. 419 kd/(kgr°C)
+VI LO PUMP CAPACITY 233 m'/h
+Rl DENSITY OF LO 900 ke/m’
+Cf  SPECIFIC HEAT OF L.O. 188 kd/(kg'°C)
+K OVERALL HEAT TRANSFER 197 MJ/im?-"Crh)
+COEFFIGIENT OF L.O. COOLER
+THE CALGULATION FOR HEAT BALANGE B DRAW. NO. D3-47633-0111
+| MODEL : 6EY2IALW _ DIESEL ENGINE (1020 KW 7 900 min ')
+
+YANMAR POWER TEGCHNOLOGY GO, LTD.
+
+[
+
+--- PAGE 72 ---
+Customer S—i/-\M LUCKY MARINE COMPANY LIMITED
+Ship Name ATHENA
+
+Rule LR
+
+Project No. REBC1401
+
+Engine Type BEY21ALW
+
+Report of Torsional Vibration Caleulation
+
+Engitizering Dept. l
+
+/’\7ppnrved l
+Ghecked ‘{
+
+Daoc. No. ‘ BELY /’/ 7u- 597/}
+
+Lavge Powsr Products Operafions Div.
+
+--- PAGE 73 ---
+Tersional Yibration Calculation
+
+1. Torsional System
+
+Engine Details
+
+Engine Modal  6EY21ALW . InLine4 Srckes Mo of Cylinders
+Bora 210 Tm Stroke
+Ratod Power 1020 KW Rated Speed 903 mind-1 Prni
+
+Firing Ordar 14235
+
+a
+
+Application Detalls - Generator
+
+mm
+2.3 WPa
+
+5366
+
+Generator Type TAIYO Fi
+Rated Power(i) 0413
+Rated Spead{min’-1) )
+Mave Details o
+Mass Ho Mage Nems inedis  Siffness
+ka2 kmbao om
+
+o e oA 1540 100
+2 tegine
+
+208881 17.00 0
+3 Engire 06851 17.03 s
+4 Cogine 20689, 1700 1.0
+5 Engine 206891 17.00 1.00
+5 Fncine 206891 17.00 1.00
+7 On 25409 2 1408 50
+8 Flywheel 304082 1690 1.00
+o Fan 45048 22,00 100
+W0 Rolor 26091 & 16.00 .03
+11 Exciter
+
+2. Canci
+
+caleulatons,
+
+Ihis is o praaten oy the follow
+
+haft Dia  Gozar Rat, Shaft No,
+
+1of s
+
+D3-47679-507A
+
+--- PAGE 74 ---
+Torsional Vibration Calculation
+
+138.08
+
+99671 B
+
+5 " oamtE P 32952 ]
+
+& I 20699.1 a5
+7 bais | | 53092 g
+i 0254 5 e
+g ERIES
+R R
+[ | 2005 03642 o i
+2 Freguensy e300 G
+
+s
+[ hienaels
+
+257,22 1
+1842.04 2z
+
+e | o
+
+) 1452202 |
+4 TE7 | 07Ee
+
+07785
+T[T 0067 |
+RGN i
+| B05E8 xiwee | o |
+e w1 a1/ 12357 | 10
+i IESIES
+
+0
+
+679-5574
+
+--- PAGE 75 ---
+Torsional Vibration Calculation
+
+3 1651 000 ER 34028
+[ ant 90002 0 0ET2z
+w5 84 0.0003 5 <8307
+9 i 0.9603 0.3 449
+
+H 700 200 200 1600 1100
+Engine Speed ( min-1}
+
+Torsional ¥
+
+bratory Stress at Hode No.2 for Normal Condition.
+
+3ol
+
+03 47679-5374
+
+--- PAGE 76 ---
+14
+YAQ-QC-13-002
+
+Storage & Maintenance Manual for Engines
+
+during Qutfitting of the Ship
+
+April 22, 2013
+
+Quality Control Division
+Large Power Products Operations Business
+YANMAR CO., LTD.
+
+--- PAGE 77 ---
+244
+YAQ-QC-13-002
+
+Storage and Maintenance Manual for Engines during Outfitting of the Ship
+
+Anti-Rust Treatment upon Shipping from Yanmar
+(1 )After Completing Test Operation
+1. Check inside the charging chamber, (disassomble the cylindor head or remove
+the charging chambor cover) Check that thexe remains no condensed water.
+
+(if condensed water was found, wipe off the water content)
+
+o
+
+. Lincapsulate the vapor phase corrosion inhibitor in the combustion chamber,
+(Ferro Gard 1009), and in water jacket, (Forro Gard UW-3), for shipping under
+semi-sealing condition.
+
+3. Provide antirust treatment, (apply anti-rust oil), to inside the crankease,
+
+camshaft, tappet. roller, cte.
+
+4. Drain the air supply chamber, (discharge of condensed water)
+
+{ii)Shipping Process
+
+1. Apply special anti-rust oil to the uncoated arcs
+
+(Clutch sliding area, Governor link, Bearings, Coupling joints, FO injection
+
+purmp, Cylinder head
+
+Storage of Engine prior to Loading Onboard
+Store the engine in the warchouse, (indoors), as far as possible before loading the engine
+onboard after being delivercd from Yanmar.,
+1 it is inevitable to store the engines outdoors, be sure to provide the waterproof cover
+t0 the engines for not exposing them dircetly to rainwaler. (It covers the entire engine
+with the cover so that moisture should not enter from the lower side of the engine, and it
+
+binds to the engine with the string ete. And the cover where the hole opens is not used. )
+
+Tnstructions to Stors Engines during the Period of Outfitting
+
+The effective period of antirrust treatment of Yanmar's standurd shipment is (hree
+months after shipping. However, it is possible that rust can appeur even within the
+effective period of anti-yust treatiment depending on the transport or storage condition
+after onr shipping or storage or outfitting condition at the shipyard. Accordingly, we
+
+recommend to store and maintain the engines as follows.
+
+--- PAGE 78 ---
+34
+YAQ-QC-13-002
+
+1) Arrangement after Delivery of Engines at the Shipyard
+
+T Check inside the crankease. Check that there is no rusting.
+
+@ Open the air supply drain cock Lo discharge drain. Close the cock after
+
+discharging drain, (to prevent vapor phase corrosion inhibitor).
+
+When water was discharged upon discharging the drain, it is possible that
+condensed water would be trapped inside the air supply chamber, Open the
+air supply chamber cover und wipe inside the air supply chamber for removing
+
+condensed water.
+
+2) Storage (Preparation)
+
+In order not to cause foreign matters to enter inside the engine after i
+
+alling
+
+the eugine, keep the piping joints of fuel oil, cooling water, ote. at the stato as of
+
+being shipped from Yanmar until the time just before connecting piping.
+n particular, the vapor phase corrosion inhibitor, (Ferro Gard UW-3), is
+encapsulated inside the water jacket. Upon opening the piping, the vapor
+phase corrosion inhibitor will be discharged und the anti-rust effect will be lost.
+@ Keep the cover of the turbocharger blower filter at the state as of being shipped
+from Yanmar and only remove the cover just before initial start-up of the engine.
+@ Keep the exhaust outlet at the stafe as of being shipped from Yanmar until the
+{ime just before connecting the exhaust piping af the shipyard. After installing
+the exhaust piping, plug the piping at an appropriate position until the initial
+start-up for not causing rainwaler to enter inside the engine.
+
+Tn addition, open the drain valve and plug of the silencer and the gas duet.
+
+When opening the engine side cover for the purpose of deflection measurement,
+ete.. install the side cover immediately after completing the intended job for not
+causing forcign matters to enter inside.
+
+*Bo sure to close the prossure indivator valve after turning the crankshaft.
+
+1§ Aftor installing the ongine, pour lube oil in the engine at an eaxliest possible
+
+opportunity so that lube ol priming will be able to be implemented. (Supply
+
+Iube oil to the generator bearings, too.)
+
+[
+
+Provide the cover to the engine and generator for not exposing them to
+
+rainwater and salt air. Use the flame-resistant cover in consideration of the
+
+possible scattering of welding sparks.
+
+--- PAGE 79 ---
+44
+YAQ-QC-13-002
+
+2) Maintenence
+
+When the engine must be stored at the shipyard for the perivd exceeding three
+
+months, implement the following maintenance upon the arrival of the third month
+
+and thereafter®
+
+@ Every Month:
+
+a) Turn the erankshatft while priming lube oil.
+Take care not to cause the crankshaft to stop at the same position as the
+position where the crankshaft was started to turn.
+%Be sure to close the pressure indicator valve after implementing crunkshafc
+turning.
+
+b) Check the anti-rust treatment of the following areas. If nocossary, spray the
+
+antiust ofl additionally. (The application of anti-rust oil that is usually
+employed will suffice.)
+Cylinder head upper face and valve atm chamber
+Governor link
+FO injection pump rack
+Tnside the crankeuse {crankshaft, liner, piston, connecting rod)
++ Camshaft, tappet roller
+Generator shaft and crankshaft & other exposed areas
+¢} Open the air supply drain cock and discharge the drain. Close the cock after
+discharging the drain
+® Every 3 Months
+a) Spray anti-rust oil to each part inspected under 2)-0 b) above.
+b) Open the air supply drain cock and discharge the drain. Close the cock after
+discharging the drain.
+# Be sure to close the pressure indicator valve after completing crankshaft
+
+turning.
+
+Cautions
+When implementing crankshaft turning for the purpose of anti-rust
+treatment, etc., implement it upon a fine day with humidity as low as
+possible.
+Tt is possible that the vapor phase corrosion inhibitor capsulated inside the
+
+combustion chamber may spout out upon implementing airrun of the
+
+initial start up. Take care not to cause the inhibitor to spout out.
+
+--- PAGE 80 ---
+SPARE_PARTS PAGE 1
+SHIP
+MODEL 6EY21ALW DIESEL ENGINE (2) ENGS. Mo |
+BOX_HO.
+i SOPPTY
+No NAME MATERAL [ FER 3416 PART N REWARKS
+‘“C‘ SPARE
+T MATN BEARTNG 5100 14| 114767302360 ]
+METAL ASSY. K2z
+|
+17 DITRINIYR
+7 [ TARUST WETAL A40 I|  7[ 3460002073
+ASSY. $45¢ SETS | SETS
+(ASSY. )
+[ 5AkaRT2
+3 BOLT ASSY. MAIN SCM435 |28 2| C4760002030 WITH T
+BEAR| NG} S45C SETS | SETS
+w27 YR MhogE
+[ 4| SUCTION VALVE SUR37 2 7 CA767211062 WITH VA=
+ASSY. FC250 | SETS | SETS LVE SEAT
+SHPY
+{ASSY.)
+(VN
+EXHAUST VALVE NCFBOA 24| 4| 4760017330 WITE VA= |
+ASSY. SUK3 SETS | SETS LVE SEAT
+! SHPY
+(ASSY.)
+M 23 :
+8 {PISTON PTH ScwaTs | 12| 1 (14767322350, 3
+Eakt Y
+7 N1 PISTON P221 T2 1 14767622130..3
+S RING :
+K01 Eabay WSS 0.050 ke
+N0, 2 PISTON SIZE ot 12 1|14767322110.3
+RING R n)
+T 9210
+NO.2 E AN TS
+UASS:  0.010 ke
+MFR 'S NAME YANMAR CO., LTD.
+& AUDRESS HIGASHI-DIR1 NALASL, AMACASAK], JAPAN.
+WO REBCTA0T GEYZIALW 5. M) 2020.03. 13
+
+--- PAGE 81 ---
+SPARE_PARTS PAGE 2
+SHIP ‘
+MODEL _BEY21ALW DIESEL ENGINE {2} ENGS. w.
+BOX N0
+; SUPPLY
+No NAME SKETCH WTERIAL FELSEP L pgt g REMARKS
+v | SPAIE
+NG
+TN0.3 PISTON " SIZE [ Feal 12177 1" 14767322150, 3 ]
+| 1L pong |
+. . T:45
+"
+0.3 & Ak MASS:  0.010 ke
+T0[OIL RING WITH . STZE [ PITT 2| T[T4767322120. 3
+COIL EXPANDER ey | PE3
+el
+. 6
+TEAN 257 Y
+;%ti! w MASS: 0010 ke |
+TT[METAL FOR - — SIE L0 T2 1|74767323160. . 3
+PISTON PIN Ll 1= ) SPCE
+3 L:77 ,
+i k D:85
+Tl
+AR IS7
+AL v u 00 ke
+T2 | CRANK PIN HETAL R 2| T T T4TeT3ese52
+ASSY
+53 1INIHE
+T3 | ROD BOLT. FOR SWCWG30 | 23| 2 14767323200
+CONNECTING ROD
+(ASSY.)
+[T S Y
+14 | DELIVERY VALVE ASSY. 12| T T4B6T351360. . 3
+ASSY. FOR F. 0. i
+T INJECTION PUMP
+O badn 3
+i |
+75 | PLUNGER ASSY. ASSY. T2 1] 146623511033
+FOR FUEL |
+INJECTION PUMP
+* 39
+T8 | PLONGER SPRTTG SWOSCY 12| 1| 15167361170..3
+FOR F.0. INJEC-
+TION PUWP :
+A T i
+MFR 'S NAME B YANMAR CO,LTD. -
+& ADDRESS HIGAS I-DOR| NAGASU. AMAGASAKI. JAPAN.
+WO REBCT4DT 6EV2IALY Y] 2020.03. 13
+
+--- PAGE 82 ---
+SPARE_PARTS PAGE B
+SHIP
+MODEL BEY21ALW DIESEL ENGINE (2) ENGS. o
+BOX NG
+SUPPLY
+o NAME SKETCH WATER 1AL |FER SHIP PART HO. REMARKS
+; I SPARE
+T7 | FUEL WJECTION = STZE [ASSY. 12| 3 (4760053780 -
+VALVE ASSY. N B SETS | SETS |
+, i L:228
+S ot
+FO e wss: 19 ke | o
+817 0 INJECTTON ~ SizE [SOWEES | T2 1| 147674597517D
+PIPI G‘\i' (b
+. L:257
+L 1 D:12.2
+FO 227t - o
+014 ke
+79| SPACER 's(lz; tiz20 2614667311622 3
+g
+s L ‘
+L BEEONY ) s 0015 ke
+"0 ¢ RETAINER ! SITETTEFLON | 12 6 | TAG73TT0D. . 3
+2 inm)
+A |
+0:18 i
+I !
+ot MASS:  0.005 ke
+21 [AIR WOTOR TASSY ? T[14662377030 & |
+17 T510P
+" 22 | BACKTTIG FOR SUS3O4 | T2 [ 1| 14763407350 A
+CYLINDER HEAD
+P AN A Yk
+73 | PACKTNG FOR STTE [RUSBER | 12| 1| 1476731231z 3
+WNLET OF pa— 41 Lo
+CYLINDER HEAD = L,
+. . D T:15
+8 b
+W3 ey | WS 00 ke
+75 [ GASKET_FOR . Size "TESS T T 147673103
+EXHAUST OUTLET : ny |
+OF CLYINDER STy L L
+HEAD o (A
+Sy AUh Iy .
+F ¥ 1305 3gh MASS.w 0.04 ke - i
+MFR 'S NAME YANMAR CO., LTD.
+& ADDRESS HIGASHI-DOR | NAGASU, AMAGASAK), JAPANL
+WNO. REBCIADT GEVZIALW B M) 2020 03. 13
+
+--- PAGE 83 ---
+SPARE_PARTS PAGE [
+SHIP
+MODEL BEY21ALW DIESEL ENGINE (2} ENGS. )
+BOX_NO.
+e‘ SupPLY i
+o NAME SKETCH HATERIAL |- PER SHIE. PART H0. REMARKS
+«p | SPARE
+o 1N 1
+75 [ PACKING FOR - " sIzE | ROBBER 12 1]14767301320 &
+CYLINDER LINER | ey L ;
+: E:EJ[ 0:236
+WY Ny ASS: 0044 ke |
+26 | PACKING FOR [ " SIZE RUBBER T2 1| 14767301330 A
+CYLINDER LINER E . L_M i
+j 0:238
+S 3 T it
+jasca 4 WASS:  0.025 ke
+27| 0-RING FOR T T SiZE [RUBBER | | 4243270006003 | TA-CHO
+HYORAULIC JACK | ———y | | 0@
+e T
+" - T3
+37[,‘;7,”* WASS:  0.002 ke !
+78| 0-RING FOR i~ “TSTZE | RUBBER T 24321001100, 3 | TA-GT10
+HYDRAULIC JACK | = =M
+L:l—_—u‘; 3116
+37(./’7(”* WSS 0.003 ke
+79| BACK-UP_RING o PTFE 7| 74375000600, . 3 | 12680
+FOR HYDRAULIC
+JACK
+LY T
+| A 98797 Uy _
+30 [ BACK-UP RING T7E | PTFE 2724375001100 3 ' 126110
+FOR HYDRAULIC w0y
+JAGK T D115
+! P
+7Y 1ok . )
+Wy HASS:  0.002 ke N -
+JITORMGROTOR 7, STZE  PURCHA- | 2| 1| 75360535410, 3
+FOR CENTRIFUGAL LS SETS | SET
+BIL FILTER 5iss
+. Ti53
+oo WASS: 0010 ke
+(3Z]0RINGBASE - sz [ PURCER ik | gt | TOSO05E430. 3
+FOR CENTRIFUGAL | = . | SE ETS | SE
+BIL FILTER s Lo
+. hoTEy
+Oy (W -3
+Lk MASS: 0030 ke ]
+MFR 'S NAME YAHNAR CO.., LTD.
+& ADDRESS HIGASHI-DOR| RAGASH. NAGASAK I, JAPAN
+N0, REBCT401 6EY21ALW EENYE] 2020.03. 13
+
+--- PAGE 84 ---
+SPARE_PARTS PAGE 5
+i SHIP
+MODEL GEY21ALW DIESEL ENGINE (2) ENGS. 0.
+
+BOX NO.
+
+SUPFLT
+
+PER SHIP
+
+No NAME SKETCH MATER AL e m— PART NO. REMARKS
+P | saRE
+
+1%
+
+[ 43 TPAPER TNSERT S1ZE | PAPER 2 1| 75360535451 . 3 | SSHEETS
+FOR CENTRIFUGAL L j“g’a SETS | SET /1SET
+Q1L FILTER 0120
+
+Ti0.2
+b ke !
+
+34| BATTERY B SIZE [ PURCHA- 16 : 14788397350 B | FOR
+FOR DIGITAL | L“"“‘ SE i ;E%Egn’
+THERMOMETER 0:24 5 WiTH
+
+T:5 ENGINE
+e w WASS: 0007 ke
+B ) STIE
+il
+L
+D
+T
+14ASS: ke
+TTUSIhE
+[
+L:
+b
+T
+WASS ke
+T TSIE ]
+)
+L i
+) |
+1
+WASS kg
+T SITE T -
+G
+L
+D:
+T
+WASS ke
+T STZE B
+()
+L
+D:
+2
+MASS: ke
+SPARE PARTS BOX o 's[»z]{ f
+= L
+=] D:
+A"k 3 T
+MASS ke
+MFER 'S NAME YANMAR CO., LTD.
+& ADDRESS HIGAS!I-DOR | HAGASL, AMAGASAKI. JAPAH.
+
+NG REBC1401  GEV21ALW | M) 2020.03. 13
+
+--- PAGE 85 ---
+C3-47833-0020
+
+T00LS 747633-92050 [ PAGE 1/8
+MODEL : GEY21 DIESEL ENGINE SHIP 10
+BOY 0.
+T SuPPLY
+No NAME SKETCH WATERIAL £ IP | pagr o, REMARKS
+G SFARE
+T | HEYAGON WRENCH KEV § SIZE [ SA3E T 8150080000 T
+| FORFLEL INJESTION | == ()
+PP 2T L 00
+. D8
+IR 7 A | P T -
+REFN T WASS:  0.058 kg i |
+2 | HERRGON WRENCH KEY STZE SOWASE T || 280080000
+FOR FUEL INJEGTION (rom)
+PUHP L9 |
+D 6
+P 7 SR T -
+AR kg
+3| HEXAGON WRENCH KEY STZE | SOIA35 TT | 28750050000
+FOR PRESSURE SHITCOH | ===t (mm}
+s e ,
+i D5 |
+ENFR = T -
+| KAt MASS:  0.018 kg | .
+4 FIERAGON WRENCH KEY L SIZE |S0HE% | 28150040000
++ FOR PRESSURE SWITCH | === & (mm} |
+ot Lo 70
+! D 4
+EAMER = T -
+KRN T WASS:  0.010 kg
+5 | SCREW DRIVER (-} c SIZE | PURCHASE 1 28130061000
+i — (mm)
+T Li1so
+_ sttt L n 6
+PRI T -
+WASS: 0.07 ke
+& | SCREW DRIVER (+) N STZE | PURCHASE | 1 28740081000
+| {nm}
+3 L 220
+1729y (4 -
+MASS:  0.12 kg |
+7 | IDTUSTRELE FRGLE STZE[PURGHASE | 1| ! 28120062000
+RENCH vED (oom)
+St Lo |
+FoA-bUF T -
+200 WASS: 0.33 kg
+8| SETTING TOOL FOR 4 STZE | SUS304 2 14667392800
+V-PACKING o ()
+(AIR GOOLER INLET) L: 200
+= D: 240
+BRI fert] TS
+VAR ARE WSS 0.4 ke
+
+MFR 'S NAME
+
+& ADDRESS
+
+YANKAR CO.,LTD.
+
+HUZASHI-DORT NAGASY. AHAGASAKL JAPAN,
+
+2020.2.4
+
+--- PAGE 86 ---
+C3-476
+
+& ADDRESS
+
+WMEGASHI-DORT NAGASU. AMAGASAK]. JAPAY,
+
+TOOLS 747533-92050 PAGE 2/
+MODEL : 6EY21 DIFSEL ENGINE SHIP M.
+BOX o
+SUPPLY
+Ho NAME SKETCH NATERIAL [PEEIE L paRT ho REMARKS
+14 SFARE
+5] THTCRNESS GAUGE | " STZE | SKoW 28312400750
+FOR SUCTION VALVE = (nm)
+L 75
+R D:12.5 |
+BRABMBERS T 0.4
+. | MAss: 0.001 ke i
+T0°) THICKNESS GAUGE = STZE | SKoW T TATETR0ET50
+FOR EXHAUST VALVE L4 (mm}
+I L 75
+e D:12.5
+HEHWHTZAR T: 0.6
+NASS:  0.001 kg
+TT PLIERS FOR CIRGLIP STZE [ PURCHASE | 1 28190000020
+(ST2:FOR SHAFT) )
+L0 ! '
+=2 R 3y T - i
+AR MASS: 0.1 ke i .
+T2 [ PLIERS FOR CIRCLIP STZE | PURCHASE | T 28190000130
+(RT3:FORHOLE} ) ;
+L: 180 !
+y=933° @Y 3 < =T - i
+(RA) | WASS:  0.17 kg
+(3| SETTING AND $5400 1 14667392900
+EXTRAGTING TOOL FOR | ¥ o= — $45¢ 2 26206120952 12405 BOLT
+PLUNGER GUIDE OF ‘7 S45G 1 26206120454 [M12x45 BOLT
+FUEL INECTIONPUNP | *o -
+A1 T
+T AV SRR | mAsS: !
+T4 | EXTRACTING TOOL FOR o 55400 1 14767392060
+PROTEGTION RING i 545¢C 2 26206120202 #1220 BOLT
+Eap v
+HHma
+T5 [ SETTING AND 5400 T TAZ6T302971
+EXTRACTING PIN FOR (om)
+UPPER HAIN BEARING Li44.6
+50
+LHDLEN T:14.5 |
+FERRE Y i
+16 | EXTRACTING TOOL FOR STZE 85400 2 14767392110 [TOOL A
+NAIN BEARING CAP () | $45C 2 14667392120 |T00L B
+160
+55
+R EHBR -
+UFR™S NAME YANWAR CD., LTD.
+
+2020.2.4
+
+--- PAGE 87 ---
+G3-47633-0020
+
+T00LS 747633-92050 [ PAGE 3/8
+SHIP NO.
+MODEL : 6EY21 DIESEL ENGINE
+BOX .
+1 SUPPLY
+No NAME SKETCH NATERTAL [-FER P | popT o, REMARKS
+MG SPARE
+T7 | EXTRACTING TOOL FOR . TSiE [SsA00 | 0| T T4TeT3ezio0 -
+HAIN BEARING CAP | f it ) | S45c 2 26206100652 [110x65 BOLT
+i = L300 | s4s6 1 26206121564 |ii2x155 BoLT
+! T b s | sdoc 1 26706120002 112 NUT
+TopEte ISR s
+
+T8 | SETTING TOOL FOR™ STRMTSA | 1 | 14767392140
+PISTON
+EAVEARE
+
+19 [ SETTING AND S256 ] T 14667392350 |TO0L A
+EXTRACT ING TOOL FOR 55400 1 14767392360 [T00L B
+SUCTION AND EXHAUST $40¢ 1 26706120002 W12 NUT
+VALVE SPRING 55400 1 14161692330 [T00L ¢
+
+Pk . T~ |80 1 13965392340 |T00L D
+SRS VEBEE  MASS 1.5 ke ;
+
+70 [LAFPING TOOL FOR | - STZE | S5800 7 TAT6T392710  STOPPER
+SUCTION AND EXHAUST =l | SPCC 1 14667392720 BODY
+VALVE = L: 140 | 450 4 116060102 |Hsx10 BOLT
+14761392700 tk4 | Gigmgdl D B4 |SPCC 4 22137060000 |M6 WASHER
+
+FTo ad | 525G 1 26111161302 | Wiéx130 BOLT
+BHEAEAEAA | MASS: 05 ke 406 1 26712160002 |16 NUT
+256 1| 26751160002 |wig NT
+
+77 [ LAPPING SPRING STZE | S [ 14661392250
+FOR SUCTION AND () :
+
+EXHAUST VALVE . o L:110 ;
+| D253
+BURAEE LA SSE SN
+wE HASS:  0.018 kg
+
+77 [ POWDER FOR - SIZE [ PORGRASE | 1 28710000070
+LAPPING ToOL op )
+
+| vy
+
+! D: 58
+
+mavEARN - | = [
+kg
+
+73 OIL FEEDER PURCHASE | 1 28210000140
+iy
+
+24 | OIL FEEDER "| PURCHASE | T i 28210000130
+oy |
+
+S
+MFR 'S NAME YANRAR GO, LTD.
+& ADDRESS HUGASHI-DORT NAGASU. AWAGASSKI. JAPAN.
+
+2020.2. 4
+
+--- PAGE 88 ---
+$3-47633-0020
+
+T00LS 747633-02050 [ PAGE 478
+MODEL : 6EY21 DIESEL ENGINE SAIP 1
+BOX N0
+! SUPPLY
+Ho MAME SKETCH HATERIAL PP pagr o, REMARKS
+. G | SPRE|
+25| SOCKET
+SIZE (m) ItASS
+L: 0 T ke
+j vk
+24| 100 340 19 0.40 PURCHASE | 11 | 14767392841
+24 | B5 345 10.1 0.24 |PURCHASE | 1 42111001850
+30 | 52 43.0 191 0.25 [PURCHASE | | 14261392820
+36 | 65 50.0 19.1 0.43 [PURCHASE 1 42112002740
+26 | RATGRET HANDLE L SIZE |PURCHASE | T 14767392851
+FOR TURNING g )
+L: 500
+D: 19
+P $EZ T -
+bk’ B ke
+[Z7SOORET FOR SIZE | SCWASS i TAG6TI00260
+TIGHTENING OF FUEL (m) |
+INJECTION VALVE Lol i
+D 48
+R T:19.1
+biall ke ! ‘
+78 | DISASSENBLY TO0L STZE | '§#50 i TA657392250
+FOR NOZZLE SLEEVE () |
+L 175
+= D: 48
+IR IRI-T SERAR = T -
+) ASS: 2.4 ke B
+79 EXTERSTON BAR STZE | PURCAASE | 1 12112002830
+FOR SOCKET WRENGH | ™ 7] (o)
+1@ L
+I oy
+JrrhEA i Al T
+AR - Wiss: 0.8 ke |
+30| TORAUE WRENCH FOR STZE | PURCAASE | 1 15763392253
+FUEL INECTIONVALVE | —————=  (um) | i
+L: 332
+aa’f}EEﬂ 5 '
+] T -
+HgLvE MASS : 0.6 ke - [
+37, EXTENSTON BAR FOR STZE [ FURCHASE | T 14667392790
+FUEL INJECTIONVALYE | o © . 20 (mm)
+L: 150
+=5 D: 9.5
+! T -
+| WASS: 0.4 kg 1. _
+MFR 'S NAME YANWAR 0., LTD.
+& ADDRESS HEGASHE DORT HAGASU. AMAGASAKT. JAPAN.
+
+2020.2.4
+
+--- PAGE 89 ---
+(£3-47633-0020
+
+TOOLS 747633-92050 PAGE | 5/8
+MODEL : 6EY21 DIESEL ENGINE SHIP X0 .
+BOX NO.
+SUPPLY
+No NAME SKETCH HATERIAL [LPERIP - papr g | ReRKS
+[ SPARE
+32 | SOCKET FOR FUEL SIZE | PURCHASE 1 14261392740
+INJECTION VALVE [
+L 27
+D:23.1
+PEMTRATFR A T -
+17 kg
+33 DOUBLE ENDED
+SPANNER
+B SIZE: (nm) MASS: (kg} i
+10x13 L: 130 0.06 S456 1 110100130
+17x1¢ 180 0.20 $456 | 28110170190
+22x24 218 0.23 5456 ! 28110220240
+27x30 267 Q.48 $45C 1] 28110270300
+32x36 305 0.55 | 8450 1 28110320350
+41x46 38 1.00 S45C 1 28110410460
+"84 | OFFSET VRENCH SIZE "SB5C 1 28160170190
+H Gnn}
+PELIINY L: 255
+D: -
+MR -
+1719 - WASS: 0.2 ke
+35 | SINGLE ENDED SIZE™ | PURCHASE | 1 174667392270
+SPANNER FOR (mm)
+ADJUSTING OF FUEL i L: 360
+INJECTION VALVE S H
+Aot o WASS:  0.85 kg ! . ]
+96| DISASSENBLY AND STZE | SCh3s [ 4667392550
+REASSEMBLY BOX {om) * $45C
+SPANHER FOR FUEL L: 350
+INJECTION PUHP D: 14
+PARIEATE V3" o ¥ T: 55
+FASTFIR 99230 F HASS: 0.54 kg
+37 [ SINGLE ENDED i SIZE | S45C 1 13860387510
+SPANKER = ()
+L: 216
+STTONN Y |
+P i=F T
+24 | WASS:  0.25 kg
+38 | EXTRACTING TOOL FOR SIZE | ss400 1 14767392010 {REMOVER
+OILINER LINGR (&) | OES=ESF}  qm {LINER UPPER
+= L: 118
+D:398.5
+WA AR T: 50
+[ | MASS:  7.95 ke
+MFR 'S NAME YANHAR CO., LTD.
+& ADDRESS HIGASH!-DORT NAGASU, AMAGASAKI, JAPAN,
+
+2020.2. 4
+
+--- PAGE 90 ---
+C3-47633-0020
+
+T00LS 747633-92050 | FAGE
+¢ SHIP NO.
+MODEL : 6EY21 DIESEL ENGINE HIP
+BOX NO.
+i SUPPLY
+Ho NAME SKETCH MATERIAL | TERSIP | pgpr g, REHARKS
+Am SPARE
+39 | EXTRECTING TOOL FOR 7y TSIZE sS40 ] T 13767599650 REWOVER
+GILINDERLINER B | =5~ Tl {m (LINER } OUER
+b | L
+[— = D: 55
+Y SHRHBR T ]
+® MASS: 5.2 ke
+70 [ EXTRAGTING TOOL FOR | 486 1808 | &P H Ta965382040 |DISTAE PIRE
+CYLINDERLINER (©) | 5™ %~ iy | 5406 2 26732240002 W24 WUT
+Hhs LI = | sq0c 1 26772240002 24 NUT
+SPCC 1 22137240000 {24 WASHER
+sy smume |G 244 |
+[ T =
+
+41 | EXTRAGTING TODLFOR| SIZE | 55400 4767397030 |REVGVER BOLT
+CYLINDER LINER (D) | ()
+! L: 800
+. D: 24
+Zgg;'w;ﬁmma H
+47 [SETTING TOOL FOR SIZE | 55400 i 14767302950
+UPPER NAIN BEARING (mm)
+! L: 232
+50
+FL AT 28
+BWABE |
+TT[LIFTING TOOL FOR STZE | 55400 z 76617100002
+EXHAUST HANIFOLD (nm)
+GOVER 60 i
+| ~fi 41 [
+PEn -TALmE | % T: MO [
+43 [LIFTING TOOL FOR STZE ss400 | 36617120002
+PISTON OR AIR COOLER (m)
+o n
+)
+€ A AN s 2
+LR
+45 [LIFTING T00L FOR STZE 55400 T 4767392311
+CYLINDER HEAD (A} (o | 55400 1 26620160002 |76 EYENUT
+L: 197 |s4sC 1 26116160452 [W16:45 BOLT
+D: 206
+V¥ b BERA 50
+w
+6 [ LIFTING 7000 FOR T TSIZE | 55800 7 T45673972320
+CYLINDER HEAD (B) (mm)
+PR R TN ;1Y
+® —
+MFR's NamE | T YANEAR €0, LTD.
+& ADDRESS NIGASIHL-DORT HAGASY, AMAGASAKI. JAPAN.
+
+2020.2.4
+
+--- PAGE 91 ---
+G3-47633-0020
+
+T00LS 747633-92050 | PaGE 7/8
+SHIP ND. |
+MOBEL : 6EY21 DIESEL ENGINE e 7‘77
+BoX HO._|
+SUPPLY
+Ho NAME SKETCH | UATERIAL [ PRSP | pagy g, REMARKS
+) A[n.m SPARE
+47 | PRIMING TOOL FOR L . 1ZE | SS400 1! 14767392920 [TOOL A
+FUEL INJECTION Pute | (P $8400 1 1 14767392930 |To0L ©
+1476730201044 i 53400 . 2. 114161692041 [To0L B
+i g PURCHASE | 1 14161692950 [Rilig
+48 | TIGHTENING TOOL SI5C i TAG6T392751
+FOR COOL ING WATER
+| PUMP THPELLER
+WERIKE 47
+1on" SRR
+49| EXTRAGTING TOOL | $5400 1 14767952380 [ATTAGHED T0'|
+FOR FUEL, INJECTION SUPPORT OF
+VALVE (R IROCKER AR
+ESH LR
+50 | EXTRACT NG TOOL STZE [ $45C T T4667382330 [BOLT
+FOR FUEL [NJECTION | 1= * () | $40C 1 26732160002 416 NUT
+VALVE (B) ] L: 203 :
+o D: M6
+PRSI BE T -
+® WASS:  0.35 kg N .
+5T_CLEANING BRUSH FOR STZE | PURGHASE | "1 14667392810
+FUEL INJECTION VALVE
+BEESRR
+ARRA
+57 | EXTRACTING TOOL FOR STZE [ S45C T 14667492760 [TG0L A
+FUEL INJECTION VALVE () | $45¢ 1 14667392771 |To0L 8
+DISTANCE PIECE 463 1STPGI0 | 1 14667492770 {To0L ¢
+14667492750 (HHSE) §45¢ 1 14667492780 [To0L D
+SES R s40¢ 1 26732160002 |16 AT
+RAEE R i A soidss | 1 26450080302 [18x30 BOLT
+53|T HAWDLEFOR | _o.  SIZE | 8400 T 153605623607~
+INDICATOR COCK !
+j 47 A
+Task v
+54 | SOCKET ADAFTER PURGHASE i T3767302080
+vy ;
+12.7-19
+MFR 5 NAME YANKAR €0, LTD.
+& ADDRESS HIGASH]-DOR] NAGASU, AWAGASAKE, JAPAN.
+
+2020.2.4
+
+--- PAGE 92 ---
+03-47633-0020
+
+T00LS 74763302010, 750633-92151, 42112-007191 [ PAGE 875
+SHIP NO
+HODEL : 6EY21 DIESEL ENGINE
+T BOX HO.
+T supPLY
+No NAME SKETCH ATER1AL - PER 1P | pyer g REHARKS
+WORK-
+s SPARE
+55 | HEXAGON SOCKET
+i AT DYk SIZE {mmy HASS
+L D: )
+6] 57 22 PURCHASE | 1 13267492810
+85 22 PURCHASE | 1 42112007910
+56| OIC PAN FOR T SPCC T 15063392361
+LUB. OIL FILTER | & & $45¢ 2 26206080202 |M8x20 BOLT
+i
+RS LEHRA
+| (=emo | Mass: B
+TOOL BOX . " SIZE |PURGHASE | 1 42112007297
+N (mm) i i
+L 800
+I D: 450
+RS ——" 1360
+ASS 31 ke _
+
+MFR 'S NAME
+% ADDRESS
+
+YANMAR CC., LTD.
+HISASHI-DORT HAGASU, ANAGASAKI. JAPAN.
+
+2020.2.4
+
+--- PAGE 93 ---
+SPECIAL TOOLS PAGE [
+SHIP
+MODEL _BEY21ALW DIESEL ENGINE (2) ENGS. 0. _
+BOK_NE.
+I [ suppLY
+fo NAME SKETCH [MATERIAL RSP paRT REARKS
+SPARE
+T WOZZLE TESTER TIS . SIE (ST 74662193110
+ASSY. T m s
+: (ASSY. }
+IE VRS : ;
+- ] i
+T SETTING T00L B $450 1
+FOR STEM SEAL A | 5950
+L:141
+= 0:30
+ARz P
+7| TNDTCATOR [PURCHA=— 1 T4767303754. . 3
+(TYPE 25MPA) SE ;
+H7
+{2stPA) ) '
+4| DEFLECTION PURCHA- | 1 42117002520, . 3
+| GAUGE SE ;
+7O -
+[ WIRROR FOR DEF- PURCRA= | 1 a77TT001421. .3
+LECT O CAUGE SE | ;
+S - 38
+6 | TRSTOE MICROME- ST | PURCHA- | 1 221110043403
+TER - = gE
+L:225
+A TInA-9 :
+T ATTACHWENT FOR .~ SPCC T 22717004000 3
+INS IDE I CROME—
+TER ‘
+S8 5T H454
+| [ 5tosdr o 3
+] BLOWER CLEANING STZE | ASSY- T 15360292901, . 3
+TOOL FOR L
+TURBOCHARGER [ E E» b
+7 Wty v I
+MASS: 1.5 kg
+MFR ‘S NAME " YANMAR €O, LTD.
+& ADDRESS H:GASKI=DOR| NAGASL, AMAGASAKI. JAPA,
+WNO. REBCTA0T 6EV2IALY [EENYE 2020 03. 13
+
+--- PAGE 94 ---
+SPECIAL TOOLS
+
+[Ge_~— 7 1}
+
+(4 A alht
+
+SHIP
+MODEL _ BEY21ALW DIESEL ENGINE (2) ENGS. H0. |
+BOX HO._ |
+T T SUPPLY
+o, NAME SKETCH UATERIAL | FER SHIP PART NO. REMARKS
+py SPAIL
+9| WEXAGON VRENCH T SIZE | ASST TAE67392080. .3 | 0i6.3 7
+KEY FOR ol L D:2.4 i 0:7.9
+AIR STARTER o D:3.2 D:8.5
+D47 D:11.2
+7373 I piz7
+DK 93 MASS: 05 ke
+T0 [ ETHVLENE GLYCOL SIZE [ PURCHA- | ¢ ATE50003380... 3 ' FOR
+B LS SEAL POT
+THA Y3-h ' T
+[~ #1 | HOSE_ASSY. PURCHA- O B G L
+FCR TURBINE SE SET
+CLEANING
+- |
+1=t v b ]
+T2 TURBINE ASSY. T 74667092951
+CLEANING TOOL SET
+FOR T/C .
+
+1.8 ke
+T SYIE
+[
+L
+)
+T
+MASS ke
+STZE T o
+)
+L
+)
+T
+i HASS ke
+T - SIZE
+G
+L:
+D: !
+T:
+IASS: ke
+TUSIzE
+i
+L:
+o
+T
+MASS: kg
+MFR 'S NAME YANHAR €O., LTD.
+& ADDRESS HIGASHI-DORI NAGASU.AMAGASAKI, JAPAN
+V.NO. REBC1401 BEVZTALY 3%, M9 2020. 03. 13
+
+--- PAGE 95 ---
+(C3-46673-0451
+
+T00LS 746673-92112 | PAGE 172
+MODEL : 6M21, 6EY18, 6EY21. 6EY22 DIESEL ENGINE | suip no.
+(FOR HYDRAULIC PUIP) T
+SUPPLY |
+No NAME SKETGH WATERIAL [PER SHIP & papr g, REMARKS
+HORK~
+e SPARE ;
+1| HYDRAULTE PURF [ SIZE [PURCHASE . 1 TAG6T392200
+. )
+= CL I
+SER V7 Y T -
+5 MASS: 7 ke
+27 F0SE FOR STZE | PURCHASE | 1 75362592760 |
+THYDRAULIC PUMP | 1 ()
+5 L3000
+e
+SER V27 Fa k-2 T -
+3 | PRESSURE GATGE PURCHASE | 1 15362503801 |
+i
+I
+Eni
+Z[COUFLER PURCHASE | 4 5362592770
+147" 5 ‘
+5| GRUGE DUNPER PURGHASE | 1 15360592481
+By -
+B | JOTNT FOR PURGRASE T TAGET3922T0
+PRESSURE GAUGE 4
+L
+D:
+ENRAR SR N T:
+' MASS: 0.7 ke i
+7 BRAVCH - - STZE | $45C T 4667302220
+" (am)
+[
+FHT®] b =
+73 * T 40 i
+BASS: 0.7 kg -
+8 TELEOW ! SIZE [PURGHASE | 2 5160592740
+T (om
+B | L: 28 i i
+o D: 48
+AL g =T -
+MASS: .12 ke
+
+MFR 'S NAME
+
+& ADDRESS
+
+YANMAR €O.,LTD.
+HIGASHI-DORI NAGASU, AMAGASAKI. JAPAN.
+
+2006. 3. 20
+
+--- PAGE 96 ---
+T00LS
+
+MODEL : 6N21. 6EY18. 6EY21
+
+746673-92112
+
+C3-46673-0451
+
+PAGE
+
+6EY22 DIESEL ENGINE
+
+FOR HYDRAULIC PUMP)
+
+SHIP NO. !
+
+( BoX 0. .
+T SUPPLY
+o NAME SKETCH UATERIAL [[PER S | pagr po, REMARKS
+| e |sreee
+o HOSE FOR SIZE [PURCRASE | & | 15962502750
+HYDRAULIC PUME | o by ()
+e L7000 |
+D - |
+SHEER v7" AT kbR T: - i
+NASS: 3.0 ke
+70 SEAL TAPE SIZE [ PURCHASE | 1 4567392190
+(nm}
+Lo-
+D -
+177" T:
+. MASS: - ke
+|
+MFR 'S5 NAME YANMAR CO.,LTD.
+& ADDRESS HIZASHI-DORE MAGASU, AWAGASAKI. JAPAN,
+2006. 3. 20
+
+--- PAGE 97 ---
+C3-47673-0150
+
+T00LS 747673-92131 PAGE 1/1
+MODEL : 6N21. GEY21 DIESEL ENGINE )
+
+SHIP NO.
+
+(FOR HYDRAULIC JACK) B0 |
+SUPPLY
+No NAME SKETCH MATERTAL |FERSHIP | pypy g REMARKS
+
+Wi
+s | SPARE
+
+T AVGRALLTG JACK FOR o ETEE RS T [THeT
+CVLINDER FEAD BOLT, | L] ‘
+WNEERIGUP BT
+T R B T
+
+-, ()
+l Lo 116
+= D: 143
+| T
+
+BASS: 6.7 ke
+
+D]STANCE P]ECE FOR L SIZE | s44C 4 14767392287
+HYDRAULIC JACK, (om)
+
+CYLINDER HEAD BOLT, >
+VAIN EEARING GAP LT
+
+. NASS
+EMB T 0
+7| COUPLER N
+
+[
+
+PURCHASE 4 15362582780
+
+2h97" 3 .
+BASS:  0.12 kg
+
+i
+
+TURNING HANDLE - STZE ISP 1 14667392510 |
+
+§-uy vkl |
+
+| DISTANCE PIFCE FOR 84507 2| [T4767a02462 7|
+HYDRAULIG JACK.
+
+CONNECTING ROD BOLT
+
+SEEEY vy FIREE
+GEIEHR I
+
+6 ; DISTANCE PTECE BOLT
+
+FOR HYDRAULIC JACK,
+
+CONNECTING RCD BOLT
+
+SCH435 2 14767382451
+
+SEEEY” yo A FARTEEY M T -
+CEIEER D | BASS: 1.8 ke
+
+MFR S NAME YANKAR €0, , LTD.
+& ADDRESS HIGASHI-DCRI NAZASU. AMAGASAKE, JAPAN.
+
+2006. 3.20
+
+--- PAGE 98 ---
+NZ65—15M-0041
+
+PARES ©3-00000-9120(1/2) PAGE
+- 5P NO.
+For METIASRC [
+BOX_NO.
+DRAWNG
+W NAME SKTCH MATERAL | SPARC RIMARKS
+KL s o
+O oy <
+N
+)
+0
+3
+1 O Ring o‘
+ouvY P(ﬁ;fr 1 g 306 | 0.013
+|
+@
+il
+=z
+-+
+Y
+. i=3
+2 0 Ring =]
+PO Rubbe’ 1 L je7z | o007
+[P P ]
+|
+©
+5}
+=z
+©
+]
+|0 ning ¢
+- S Fubber = 0.002
+R D b
+]
+©
+o)
+o
+|
+wy
+s
+4| 0 RNy G
+. Rubser 1 373 | 0.0
+OV e by
+i
+o
+I
+o
+s sPCC & e | aos
+BRI o o | 05
+|
+©
+[}
+=z
+
+MFR'S NAMF
+2B IRESS
+
+MITSURISHI FFAVY INJUSTRIFS
+MAR NE MACHINERY & EQUIPMENI
+
+--- PAGE 99 ---
+N3E—"
+
+STARTS ©3-00000-9120(2/2) PAGE
+SHIF NT
+Far WETiBSRC [
+BOX NG
+- DRENING
+40, NAKE SKETEN MATERIAL ,‘T’P’:\BR[EP RFMARKS
+T N, | PeRT <Ka)
+0.
+b sPec 1 7| 0.02
+122 o
+Fad @
+| spring washer Stes! g
+s wire 4|9 5051
+(SWRIED) =
+©
+©
+T
+o
+U N 2
+Ges Scel ring Sph ~
+3 N Sraphile 4 5| .10
+ARL—wULD _rapnite 1 o {603 | Q.10
+iran Casting i
+i
+2
+=
+M-R'S NAME MITSLBISHI HF AVY DUSTRICS
+3ABRESS MARINE MACHIN=<Y & EQUIZMENT
+
+--- PAGE 100 ---
+N36—18M— 0035
+
+TOOLS £3-00000-9130(1/1} PAGE 1
+SHIP No.
+Exhous:—Gas Turbocharger METIBSRC ()
+BOX No.
+SUPELY
+FER SHiF|  DRAWNG
+Neo. NAMZ SKETCH MATERIALS FEMARKS
+wosk~ | o, PaRIl (kg)
+NG No.
+@
+i
+, =
+Hex. Bo't @ D) Rolled <
+
+1 MEX55 Steel 5 |13 5| core
+RN LGQ N (55400) T
+
+o= &
+
+2
+
+z
+
+)
+
+2
+
+Starting Bolt 2
+for Draw—oL: tube Rollzd n\‘
+
+2 VICHED Steel 1 [7-23(9| 014
+Hiceds (55400 i
+FERL 0
+
+8
+=z
+1=}
+=}
+&
+
+5 Puller &
+
+3 17450 8| o
+SIREL 1
+
+g
+z
+o
+=
+3
+S . Rot
+Sling'ng Device e o
+
+4 Steel 1 <] 1.57
+
+DCEE |
+
+(55400 ©
+
+L]
+
+=z
+
+<L
+
+4
+
+g
+
+Starting Solt 2olied I3
+51 ek Stee 2 [—1211g| 0184
+
+(554009 =4
+
+@
+
+L)
+
+=
+
+MFR'S NAME NAGASAKI SHIPYARD & MACHINERY WORKS.
+
+&ADDRESS MITSUBISHI HEAVY INDUSTR.ES, _TD
+
+--- PAGE 101 ---
+C3-00000-9091¢1/1)
+
+B We-acelocelnz (X & T |
+S2aRk | TYPE ‘ VLEBEABLEOBELTZL | ypg i, o | jmee
+g WIE =S =R T
+SZARE PAKTS FUu L FELRING PUM
+el HoOE R | 27
+i wrmia |20 T Ne. FESARES
+1
+N MASS
+o o i
+AN =il B o o | i
+1 (i dle 2 sl |
+911 SE4L Mot TS
+S
+) Ll |
+#LFuh !
+4 24k | v 77
+o SRS ‘ I " e
+— WERE H |
+s
+) 0. 0si)
+! ; | i
+0y s < :
+2 Jv i - 1 st
+[RBT e : Wee ;
+I [
+|
+AR b % R 4 oo
+Pt BASKET 2426R ' oo
+AR . # -
+> SRS pn | LT
+| o =1 ke
+KRB W I %2 KX = i
+BEN & 1B D@ METBHRT TERHE 00— 168
+WEKZR & 2DIRESS TALKO KIKAD TwousTRIES €0., LTI,
+2051 Shinctaiuss Tebase-Gha Keewye-Su Vnaguehi-Prel, Japa
+
+TOTAL MASSO0.12ke
+
+{5, Mo,
+
+--- PAGE 102 ---
+C3-00001-0440(1/1)
+
+CHART OR ACP-704-80
+
+Ho.
+
+NANE
+
+USE
+
+SKETCH
+
+SUPPLY
+
+DRAWING
+
+MATERIAL|
+
+WORKING
+
+PER | SPARE [No.
+
+FILTER
+
+PART N.
+
+REMARKS
+
+OIL SEAL
+
+FACKWASH
+NOZZLE GASKET
+
+BUNAN
+
+7a
+
+O-RING
+
+BACKWASH SHAFT
+BUSHING GASKET
+
+BUNAN
+
+D=t3mm
+
+XRING
+
+KW S H SHAFT
+BLSHING ¢ NO77LE
+GASKET
+
+BUNAN
+
+D=35mm
+
+ORING
+
+SELF CLEANING FILTER
+COVER GASKET
+
+BUNA N
+
+SELF-CLEANING
+FILTERING LLUMUNT
+GASKET
+
+| RUNAN |
+
+D=177mm

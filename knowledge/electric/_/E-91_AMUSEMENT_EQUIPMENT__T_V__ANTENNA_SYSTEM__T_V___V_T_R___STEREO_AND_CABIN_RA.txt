@@ -1,0 +1,655 @@
+FILE: E-91 AMUSEMENT EQUIPMENT (T.V. ANTENNA SYSTEM. T.V.. V.T.R.. STEREO AND CABIN RADIO).pdf
+FOLDER: .
+DATE: 2026-03-07 09:41:01.174558
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+AMUSEMENT EQUIPMENT
+
+T.V. ANTENNA SYSTEM,
+T V., NVETSRESTEREGEAND
+CABIN RADIO -
+
+nol be cop
+
+losed to any thivd party
+without K
+
+I's prior wrilten consent.
+
+roperty of
+Lt (KHID) and may
+
+SCALE
+
+MANAGER i MDENG
+
+CHIEF
+
+CHECKED [
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+Ha.1 10 H-ED A
+
+KAWASAKI HEAVY INDUSTRIES, LTD. 7 SHEETS WCL COveR
+
+--- PAGE 2 ---
+
+
+--- PAGE 3 ---
+SYSTEM NAME
+
+TV ANTENNA SYSTEM
+
+SNO1456
+
+MODEL NAME PAGE
+1| < | antenva 0 g | ¢
+2| b JUNCTION BOX |IB-20 1 50 k| ¢
+3 | AM ANTENNA KW-65A-M | 10 | 6
+4 AM ANTENNA JUNCTION BOX Jap-69C 1 10 gl 7
+5 ANTENNA MULTI AMP MB-301B 1 60 k| 8
+" : 9 ' ANTENNA OUTLET o, e 03 g o
+o [8] | antewa oureer A 438 1 03 g | 10
+s | ol | 1vourer MA- 447 6 03 K|
+9 ED—OE TV CABLE 3C-EP e 02 | 12
+10 @UB FM CABLE 30-FM 33 02 K| B
+11 MU< AM CABLE 3C-AM 33 02 Ky 14
+12 @ COLOR TV KV- F29MF1 2 20 | 15
+13| =T | muLmivir SLV-X842 z 50 16
+) : 2\ | srereo AX-10W 2 28 17
+
+E55r=° | ravio ICF-5W30 2 L 18
+]
+
+_I__
+
+MARINE ART CO., LTD
+
+--- PAGE 4 ---
+Page__
+
+TV ANTENNA AM ANTENNA
+
+NAV BRI IK
+
+Raz(7)
+
+mare)  mares) rar ()
+
+TITLE
+
+TV ANTENNA MULTI SYSTEM
+
+MARINE ART CO.,LTD
+
+--- PAGE 5 ---
+T.V & RADIO ANTENNA SYSTE
+MARKS [MODEL NO. [ DESCRIPTION
+
+redome glass-fiber R.P)
+
+MATERIAL
+
+plate steinless steel 2t
+
+mast holder steinless
+
+steel 60dia 4t
+bolt stainless steal M8x25
+
+connector MP-5
+
+water tight saskat pvc(viny:)
+
+COAX-CABLE 5C-2V
+
+DRAWING 3rd
+DATE ANGLES
+
+TITLE
+
+OMN1 DIRECT1ONAL
+WEIGHT T.V & RADIO ANTENNA DRAW ING
+NO.
+
+--- PAGE 6 ---
+T.V & RADIO ANTENNA SYSTE
+
+M
+
+5
+
+. [MARKS [MODEL NO .
+
+DESCRIPTION MATERIAL
+
+QTy
+
+PIPE SUS-304
+
+48.6dia 2t
+
+I
+
+| FRNGE SK-40 sus-
+
+304
+
+GRAND 20b  BSBM
+
+CONNECTOR _MPA-JJ
+
+BSBM
+
+BOLT M4 SUS-304
+
+HOLETis
+
+3rd SCALE WORKS
+
+ANGLES No .
+
+MARUNAKA ANTENNA CO..LTD.
+
+TITLE MODEL
+T.V ANTENNA MA-11D -
+
+JUNCTION BOX Roe
+
+OSAKA JAPAN
+
+JB-20
+
+--- PAGE 7 ---
+S— .
+
+%
+
+ris
+
+o Cowe TERMAL
+
+BB T v S48 1v
+
+L ST EA
+»yv
+
+2 xb 40~908
+
+fze g A osdiz,  gecsrn
+
+pent
+g 22 gy
+
+gz arie 0 23] = v [ ralwx[tw] & 5
+A XL’N.[(\X"(H‘-’\. B H | W @] X @ m R x| w]|8 1| gase
+17l 2 er - & i 7 T
+
+m| 6SA—M 7 | = 2
+
+_ém. WHIP ANTEMMA A
+2| Lom My PRIt °
+
+nstzie W0 & K LR
+
+--- PAGE 8 ---
+- - EfT o [ & CRET=E :_g‘:_'
+on onmvua SRTE |
+8
+g-45* | -g% a-95"
+ERTANSE) . RRTIFC ] c
+M8y d5%ugu. MBS swA
+of T -
+© o @
+| - S = L
+\‘ - | . B
+il T —
+1
+[ hid R 2
+
+k22 L;sos,n.é.s*
+
+. " - E
+[3 rrol @ o[B8 evon| 3@ on | & B Tme  KWH-2
+B | avrEmma: roowmvG ErRAckET -
+RE scae [ B unrs [ 6 oate < -
+mm | 603 | LA MABAEE
+= @ 3% HOEE R N TR pfy [RTES orewna 1o
+
+- Kate Bactri laduestry, Lid o =
+
+37D anoLE
+PRGUECTION
+
+B T T T 3 s T ] ! 7 :
+
+Bl
+
+--- PAGE 9 ---
+131 —— s T —
+
+2y
+4-9¢
+T 1
+% 4—._
+& R
+s
+= — e
+
+nlp
+
+i
+.
+
+-
+_
+
+i
+‘ : J il 20—
+=
+
+[©]
+
+@
+
+9] |
+PART 80, NAME P.C.S. MATERUL | PLATINC,
+T o ORAWING | APPROVED EGHT
+
+- MARINE ART CO., LTD.
+- 0.6 x¢
+SEALE. TITLE MODEL NO. | jqp-—gsc
+ANTENNA JOINT BOX
+DRAWING NO.
+
+--- PAGE 10 ---
+T.V & RADIO ANTENNA SYSTE
+
+. |[MARKS [MODEL NO. [ DESCRIPTION
+
+"MATERTAL
+BOX SPC-1D 1.6t
+
+SPC-1D 1.2t
+BSBM
+
+COVER
+
+M-connactor
+
+DRAWING WORKS
+DATE
+
+NO.
+COLOR
+
+MODEL
+NO.
+
+¥B-3018
+
+ANTENNA COUPLER
+
+DRAWING
+NO.
+
+MARUNAKA ANTENNA CO. LTD. OSAKA JAPAN
+
+--- PAGE 11 ---
+T.V & RADIO ANTENNA SYSTE
+
+_[MARKS
+
+MODEL NO. | DESCRIPTION
+
+MATERIAL
+
+surface plate sus-304
+
+case
+
+spc-1D paint
+
+connector type-F
+
+DRAWING
+
+G-12U
+
+R
+sc-2v 7C-2v
+
+i
+4 @(;
+
+DATE
+
+WORKS
+NO.
+
+COLOR
+
+MARUNAKA ANTENNA CO.,LTD.
+
+hairline
+silver
+
+HYBRID TERMINAL
+
+MODEL
+NO.
+
+MA-43A
+
+DRAWING
+NO.
+
+OSAKA JAPAN
+
+--- PAGE 12 ---
+T.V &
+
+. [MARKS [MODEL NO.
+
+RADIO ANTENNA SYSTEM
+
+DESCRIPTION MATERIAL [QTY
+
+surface pl
+case
+
+ate sus-304 1
+
+spc—1D paint 1
+
+connector
+
+type-F 2
+
+75741
+
+9" S—gnE
+BUNITTaL,
+
+dl 4
+
+DRAWING
+DATE
+
+COLOR hairline
+
+WORKS
+NO.
+
+silver
+
+MARUNAKA
+
+M MA-43B
+HYBRID TERMINAL
+
+DRAWING
+NO.
+
+ANTENNA CO.,LTD. OSAKA JAPAN
+
+--- PAGE 13 ---
+T.V & RADIO ANTENNA SYSTE
+
+. [MARKS [MODEL NO. [ DESCRIPTION MATERIAL
+
+surface plate sus-304
+case spc—1D paint
+
+connector type-F
+
+B 5T
+7514
+=
+
+S
+RBUFITTaL,
+
+DRAWING 3rd SCALE | o o
+DATE ANGLES
+
+COLOR hairline TITLE
+
+ilver
+: HYBRID TERMINAL
+
+DRAWING
+
+N
+
+MARUNAKA ANTENNA CO.,LTD. OSAKA JAPAN
+
+--- PAGE 14 ---
+T.V & RADIO ANTENNA SYSTEM
+
+e
+
+_[MARKS
+
+MODEL NO.
+
+DESCRIPTION MATERIAL  [QTY
+
+1EC-PAL-PLUG
+
+N
+
+T
+
+COAXIAL CABLE
+
+T.V ANTENNA CORD
+
+MARUNAKA ANTENMA CO..LTD.
+
+DRAWING,
+NO .
+
+OSAKA JAPAN
+
+--- PAGE 15 ---
+T.V & RADIO ANTENNA SYSTE
+
+. [MARKS |[MODEL NO. | DESCRIPTION
+
+MATERIAL
+
+COAXIAL CABLE
+
+DRAWING WORKS
+DATE NO.
+
+MODEL
+NO. 33(:"I:D4
+F.M. MATCHING CORD
+WEIGHT DRAWING
+
+COLOR
+
+MARUNAKA ANTENNA CO.,LTD. OSAKA JAPAN
+
+--- PAGE 16 ---
+T.V & RADIO ANTENNA SYSTEM
+
+_[MARKS [MODEL NO.
+
+DESCRIPTION MATERIAL QTY
+
+COAXIAL CABLE
+
+3rd SCALE WORKS
+
+ANGLES NO.
+
+MODEL o
+AM RADIO CORD ve.- 3C AM
+
+DRAWING
+NO.
+
+TITLE
+
+WEIGHT
+
+MARUNAKA ANTENNA CO. . LTD. OSAKA JAPAN
+
+--- PAGE 17 ---
+annel sysiom T
+o Channel systam Broadcasting systom
+- Vi URE VHE_ | UWF
+WA LI ]
+W& E Ewopsanioroccary
+PAUSECAMY | ChinesellalanFronch 0 /| g0
+NTSGers Soutn Alicaeian EutpesalLK B
+CATY S-S0y, 512541
+> * * -
+Amercanapanasel M u
+nTSC A lapare Amercaniapanese |
+Votage
+
+AC 11010 240V, 5018012 =
+
+“Dastiation: For counties excep Argenina, érazi. Laos, Frane
+
+ce. Parsguay, Uruguay, Yemen.
+
+Dimensions  782(W) X593(H) X534(D)
+Weight  47Kg
+
+Voltage AC110 ~240V,50/60Hz
+[WEIGHT : |PAGE
+TITLE
+47 x 15
+TV IMODEL NO.
+SONY KV-F29MF1
+IDRAWING NO.
+
+MARINE ART CO.,LTD
+
+--- PAGE 18 ---
+Specifications
+
+Wosal T ENECH ]
+System
+
+Foemat PR AESEGNTSC 3 178
+
+TecordnaiP P NESEOAM 5. 1P (P
+
+NTSC)SP,EPSPLPER
+
+T cora g7 5P 4 nowsiLP & nours (wF-E210]
+
+playback tme NTSCSP:2 hours, 40 min /LB 5 hours, 20 min
+228 hours fitn-T160)
+
+Taner section
+T system FALT/5. DK, " SECAIN 616, DK K1 NTSE 1)
+Goann coverage VHF £2 E12, US2 UST AT 12, G1-C12
+UHF: 221 59, US14-US69, R21-A60, C13.056
+| CATY: 501-505, 51-847, —CCIR
+AB-AL 5-19) — USA
+
+FF comertr cuput G S0T9UNF. K 22-26UF | 50-39UKF: 1 25.38 (US),
+
+25.37 L) UHF: M 13 WUSI VHF
+
+Ga
+Power requirements T0-260, 50/60Hz_|_ Weight .
+Powe coxumpion 75| Hemote Commander | RTvE
+Dimensions (W 13 51 | 730 % 103 x 3Zammn
+SGperating ructians: Eng . Chirese, Ara . Japaiose. s Oimonsiors ind weige: e
+
+SRproxmate. + Spec catians and 3ppoaraNCe TS SUDRC! 5 changs a any Lme wEout pror
+
+natca for e mprcuaments. o Tha o cra o actual pracuct maj d e
+
+Sl y o thosa 1 115 caalog dus o printeg mtatons.
+
+Dimensions 430(W) X 103(H) X323(D)
+
+TITLE
+
+Weight 5Ky
+Voltage AC110 ~240V,50/60Hz
+[PacE
+
+|mzmm
+
+Xg
+
+SONY VTR FoE i
+
+|DRAWING No.
+
+MARINE ART CO.,LT
+
+D
+
+--- PAGE 19 ---
+Pagc /7
+
+TITLE
+
+HITACHI STEREO
+
+WEIGHT : PAGE
+6.5 Xg
+
+[MODEL NO.
+AX-10W
+
+DRAWING NO.
+
+MARINE ART CO., LTD
+
+--- PAGE 20 ---
+MADE IN JAPAN
+
+English, Korean.
+
+*An FM stereo/MW/SW world band receiver with a
+built-in world clock for obtaining international informa-
+tion in realtime in Japan or overseas. sHigh-sensitivity,
+12-band synthesized tuner for FM stereo/MW/SW1-10.
+«One-touch tuning to preset 15 stations (FM x 5, MW x
+5and SW x 5). «Operating instructions: Japanese,
+
+Specification
+
+System FM/SW/AM
+
+Power output 240mW
+
+Dimensions 69 X 111 X 35(w/h/d)mm
+
+Weight 448 ¢
+
+AC  adaptor AC-E45MA
+[WEIGHT : [pace
+
+TITLE % |-_ 19
+[MoDEL WO
+seaux SONY RADIO ICF—SW30
+
+[DRAWING NO.
+
+MARINE ART CO.,
+
+LTD

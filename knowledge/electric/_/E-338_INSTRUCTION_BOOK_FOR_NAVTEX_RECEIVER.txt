@@ -1,0 +1,3030 @@
+FILE: E-338 INSTRUCTION BOOK FOR NAVTEX RECEIVER.pdf
+FOLDER: .
+DATE: 2026-03-07 07:33:18.567185
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+NAVTEX RECEIVER
+
+This techuical document is the property of
+Kawasali Heavy Industiies,
+Dot be copied, nor disclased Lo any thind party
+
+without KH's prior writlen consent
+
+L (KH) and nuay
+
+sl /
+O KAWASAKI HERYY INDUSTRIES, LD,
+:
+=1 DRAWN SHIP DESIGN DEPT, SHIP GROUP
+oate A 1456
+Wit om nEn KAWASAKI HEAVY INDUSTHIES. 110 T ewcrs wel coven
+
+AR AGE R SES T SCALE S JOBNO
+
+22 =
+CHIEF =
+
+--- PAGE 2 ---
+Messts. KAWASAKI HEAVY TNDUSTRIES LTD.
+
+S.No. 1456
+
+MODEL : NCR-309A
+NAVTEX RECEIVER
+
+FINISHED DRAWING
+25 OQcrober, 1995
+
+Japan Radio Co, Lid.
+
+Maritime Communications Section HI
+Eagineering Department I
+Mariae Electronics Division
+
+TEL 0422-45-9546
+FAX  0422-45-9937
+
+ITH-88% checked by iv charge
+
+--- PAGE 3 ---
+1. COMPONENTS - -+ 5. INSTALLATION WIRING --- 6
+2.SPECIFICATION 6. SCHEMATIC BIAGRAM ----- 7
+3.0UTLINE 7.SPARE PARTS -3
+4. INSTRUCTIONS FOR
+INSTALLATION -+~ §
+1.__COMPONENTS
+Hame Model Quantity
+1) NAVIEX RECEIVER HCR-3004 1
+2) MOUNTING YOKE PBK15T23 1
+3) ACTIVE ANTENSA Na#-3004 1
+-1 SPACER MTV2437 L
+-2 FITTING BANDS MPBE2520 H
+4) THERMAL FHB5BU-2
+PRINTING PAPER 80wmX 50mm e 25m 1
+5) COAXIAL CABLE 3D-2V 50
+6) CONNECTOR ¥-P-3 1
+7) CONNECTOR -p-7 2
+§) DOUBLE FEWALE ADAPTOR Fi-35¢ 1
+9) ACCESSORIES
+a) INSTRGCTION MANUAL SZPAF00005 116
+b) OPERATION CARD 6ZP4F00007 1t6
+10) SPARE PARTS
+FUSE MF513N-34 2
+11) POWER SUPPLY UNIT NBG-122 1
+12) ANTENNA CABLE RG-10/UY o
+2. SPECIFICATION
+1) Electrical Specification
+-RECEIVER
+Receiving frequency : 518kHz
+Receiving mode : FIB
+Sensitivity + CER better than 1 % 107 at 1n¥
+Frequency stability : *15Hz
+External AF imput : 1,700Hz:85Hz OdBm in 608 ohms
+Antenna input : 50 ohns for active antenna
+: 50 ohms for wide-band antenna
+: high impedance for wire antenna
+~PRINTER
+Type of printing @ Thermal
+Character/Line 1 40
+Roll paper : FHGZBG-2 80nmX 50rm ¢ 250
+Paper aut : Audible alarm and flickering
+P-0UT on the LCD
+-POWER SUPPLY
+Pawer input : SIS
+t : /2204228 Y AC Using Pover
+Supply Unit (NBG-122)
+Power consumption : 3 Watts ------ stand-by
+(24v0C) 7 Watts ------ operating
+2) Mechanical Specification
+-Temperature : <15 to 55  operating
+-25C to T3 storage
+-Humidity : up to 93% at 40°C
+-Size  242(M) X 170(8) x128(0) wm  including Mounting Yoke
+-Mounting + Bulkhead, Benchhead or overhead
+Weight : 2.5kg including Mounting Yoke
+
+--- PAGE 4 ---
+REAR VIEW
+
+242
+
+202
+
+| 7
+] — i -1
+= L 8ol L @
+17 -
+TERMINAL BOARD
+WEIGHT. 25x8 al Leee] J‘
+_COLOUR e— o "
+PANEL . PANTONE "425C 1|
+CASE  PANTOME 423¢ - H - 2| s aeRase seoeieo
+(Tt i3 nat aveiloble to chanse ol i TN AT ES
+the 5l or this arl Sufface ; T AT
+for e Custoner's arder ‘ ) & f !
+F2 e T = !
+Al A o = :
+T g iz
+4-$65 MOUNTING HOLES -
+26 38
+(P
+
+_3-CABLE ENTRY
+
+NCR—-3004A NAVTEX
+
+RECEIVER OUTLINE
+
+--- PAGE 5 ---
+CAUSLON
+Inslall the annienna in Lhe Jocalion where
+obstructions are not within a radius of Im
+
+for the antenna svinging out.
+
+Wrap the anntena base, wilh walerproof-tape
+
+— and vinyl tape, for corrosin-proof and
+vibration-proof.
+R 2 : WHTP ANTENNA (Material: SUS)
++H .,
+il E
+@
+5 &
+NAW=3004A
+/" SPACER (Material: FRP}
+{ [
+—- MAST
+¢ 30~ 990
+<
+T _
+4 i
+3
+1 & = q Sencer
+Y
+Mns
+o W ! \ Mrst
+&5 : H
+5 Fleed
+8L/ ) =l e
+< o e et
+Active
+
+KELGNT:  Approx. 0.5kg
+
+NAW—-300A ACTIVE ANTENNA OQOUTLINE
+
+bh
+
+--- PAGE 6 ---
+487
+MOUNTING HOLE
+
+i lw I}
+
+(T veo-1ee povex sopoiy ualt
+
+@ e
+5
+
+ae o MR o
+awtws + - =00 a
+
+i TR 1 Jaoen
+
+Weight 1.3kg
+
+NBG-122 POWER SUPPLY UNIT OUTLINE
+
+--- PAGE 7 ---
+INSTRUCTION FOR INSTALLATION
+
+INSPECTION
+
+At unpacking a package for the NCR-300A uait in first time, imspsct for
+the fo!lowings:
+
+(1) To be no shipping damage for the unit and its accessories.
+
+{2) To noke sure the numbec of comtents with cefercing the packing list.
+
+2, STORAGE
+Store the atl components in a dry room until installation.
+
+INSTALLATION
+3-1. 3sl
+Mount the NCR-300A in a lwcation protected from salt spray and ex-
+
+tion of Location
+
+tranely high temperature, and convenient for use.
+
+3-2. Mounting
+Opening the case is not necassary for mownting. Mount the NCR-3004
+on a table top, a bulkhead, cr a ceiling by using the mountiog yoke.
+And keep a clearance for the maintenance. (Refer to figure below.)
+The mounting procedare is as foilows:
+
+- Renove the two knobs fixiag the nounting yoke.
+- Mount the meunting yoke on the salected location.
+- Secure the two knobs for installing the case on the mounting yok
+
+o120
+
+rt
+
+5 MOUNTING HOLES
+MOUNTING YOKE (BOTTGM ViEW,
+340 180
+
+O i 189y
+
+119,
+BT
+
+KNOB
+T Ry T Yok
+
+Aty
+
+fiet
+
+|
+TUTRIRRRERS
+
+Kerrzz s/
+
+CLEARANCE
+
+--- PAGE 8 ---
+NAW-300A
+ACTIVE ANTENNA
+
+[PREANPLIFIER
+/KQ’JEAALLHLAZEL
+
+| |
+i !
+i i
+i L WHUP_ ANISMNA |
+I !
+! i
+! I
+
+M P7
+
+BG-10AUY
+(1= m}
+
+M M-BMK
+
+©lo]
+
+WHEEL HQUSE
+
+FRiye
+ACTIVE ANTENNA
+NCR-300A
+NAVTEX RECEIVER
+POWERIELL i-55M
+
+L) 13
+
+17
+
+NBG-122
+ACH8B200V-0—duy 1 POVER SUPPLY UNIT)
+
+2 Wil
+v RO
+3
+
+Hote 1: CUSTQMER SUPPLY
+
+NCR-300A NAVTEX RECEIVER INSTALLATION WIRING
+
+--- PAGE 9 ---
+versa o [0
+e - o
+CHN-23004
+wan-z ar o o
+zmr 19 | beaobULATOR
+s el
+Zodlifo:
+active ot
+o
+we for
+w |or
+| '
+£t —os
+a5 e
+oxt |1
+o |0
+wo o)
+s o
+W o
+s o
+wo |os
+
+Ero-aotzmas
+
+W weiese tenis
+
+CDG-23004
+PRINTER INTERFACE
+
+€04-23003
+
+JO_J
+
+onc 5
+
+none £ can. Of
+moters of
+
+i
+
+NCR-300A NAVTEX RECEIVER SCHEMATIC DIAGRAM
+
+ENL-23004
+LEGHTING
+
+{ BoaRD
+
+--- PAGE 10 ---
+a_ X
+
+SETS PERVESS
+
+_SHIP NO SPARE PARTS LIST FOR
+
+NCR-3004
++T7 7 7 RERE
+NAVTEX RECEIVER
+
+I
+
+wEH| # W
+w1 e OF PART OUTLINE NEELY L PP
+- . PERSET | PERVES e
+HIAMEL-K| L
+i 5 b 2 22 a
+GLASS TUBE FUSE N )
+#y
+2
+BLANK
+i
+3
+BLANK
+#e
+4
+RLANK
+I
+W ‘
+5 |
+BLANK
+wi
+6
+BLANK
+EL
+7
+BLANK
+®
+8
+BLANK
+i
+9
+BLANK
+TR ; jer B I WA
+Ry 0 & 1 | PR ONLY
+SPARE PARTS BOX | 7 — -+ GLASS TUBE TUSE
+AAEBHBER S 1I-67XAF00008
+JAPAN RADIO CO., LTD.
+T B T8 A= RE TARS T01H1F Tolephone: Wasash ino 04200059111
+ADDRESS _1-1, Shimorenjaku Schome, Mitaka shi, Tokyo. Telex:0282-2351 JRONTK J
+
+- 8-
+
+--- PAGE 11 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas .
+Liaison & Service Offices
+
+@Main Office
+Akasaha Twin Tower Main)
+
+17.22 Akasaka 2-caore,
+
+Minata-u Tokyo 107
+
+Maritime Salcs Departmnent |
+Phone : 03-3584-8791
+
+Fax: 03-3584-8795
+
+Maritime Sales Departenent I
+Phote : 03-3584-8834
+
+Tac: 03-3584-8795
+
+International Eusiness Departmet
+Phone : (3-3564 B35
+
+Fax: 03-3564-5878
+
+International Market ng Department
+Phone : 03-3582.8845
+
+Tax: 03-3584-8859
+
+®URC (UK) Limited
+
+Greund Flcor, Femple Chambers,
+Temple Aventie, Londan £ G4
+Fhone 44.171.353.7950, 5631440
+Far: 441711533321
+
+ousa )
+Iapan Radio Co. L. /New York Brarch
+330 Park Awenue. New York
+
+Now York 10022
+
+Phone 212355 1182
+
+Fas 212:3.0-5227
+
+®indonesia
+
+Japan Radio Co.Lid
+
+Hiulia Tower 12 th Fizor
+
+Jalan Jenderai Gator Subrota Kav 917,
+Jakarta 12930
+
+Phone 71 6204053 - 5234056
+
+Fax. 215204058
+
+®Phiippines
+Japan Radio Co. L.
+
+2320 Tat Avenue,
+
+Matate Manila
+
+Phone : 2.50-8365 - 57-1490
+Fax: 75215089
+
+@Thailand
+
+Japan Radio Co. Lid.
+
+Chart rong ArPhon Buildirg
+457 para Sumzru Streel
+Bangkok 10200
+Phoue/Fax: 2-280-0401
+
+@india
+
+Japan Radio Ca. Ltd
+
+54 Sagar Apartments,
+
+6 Tiiak Marg, New Delhi 110001
+Prene: [1-38-5751
+
+Fax: |.-384571
+
+@Witaka Plant
+
+11, Shimareniaku 5-chame Miteka
+Tokyo 181
+
+Phone : 0422459111
+Fax:0022.45.9110
+
+8JRC do Brasil Empreendimentos
+Electronicos Ltda.
+
+A Almirante Sarcaso,63.Gr.8/2707
+
+2003 Rin ce Janeira, Rl
+
+Phone : 21-220-8121,262.9281
+
+Fan - 21-240:6524
+
+susA
+Japan Raio Co. Ltd
+
+/0 Raytheon Marine Campany, 676 Islanc
+Pond Koad Manchester.NH 03108,1.5.2
+Phote ; 6036344840
+
+Fax: 603-630-4841
+
+®United Kingdom
+Japan Radio Co.Ltd
+
+/0 Raythean Marive Europe
+Anchorage ParkPortsmouts,
+Hampstire, 03 5TDUK,
+Phone 44.705 F63238
+Fax: 46-105-68324
+
+@Netherlands
+
+Sapan Radio Co-Ltd.
+
+/o Radio-Holland B.V.
+Eckhoulstrat 2,
+
+3087 AR Rofterdam
+
+Phone : 10-823-458 + 10-428-1088
+Fax: 04787258
+
+®Spain
+
+Japan Radio Co, Ltd.
+
+o 105A CARARIAS 5.L Doctor
+
+Juan Doriinguez Percz 44, uranizacion
+EL CEBADAL, Las airves dé Gean Canria,
+Phonc: 30.26.45 $191 - 34-28.46 5291
+Fax: 34.2846.2398
+
+--- PAGE 12 ---
+information contact
+
+Japan Radio Co, [id.
+
+HEAD OFFICE & Akagaka Twin Tower(Main),
+SALES DEPT. 17-22,Akasaka 2-chome,Minato-ku, Tokyo.
+
+Phone : 03-3584-8711
+Fax  :03-3584-8715
+T'clex: :0242-5420 JRCTOK J
+
+MAIN PLANT 1-1,Shimorenjaku 5-chome,Mitaka-shi, Tokyo.
+Phoene : 0422-43-9111
+Fax :0422-15-9110
+Telex :02822-351 JRCMTK J
+
+--- PAGE 13 ---
+e
+
+1/2
+
+Massrs.
+
+INSPECTION DATA
+
+~ NAVTEX RECEIVER
+Model  NCR-300A
+
+Sortal No. _ GD 22627
+
+Date of inspection
+
+Appraved by W
+Testenty 27, i GV S
+
+Section Recelver Sect. of inspection Dopt.
+
+Japan Radio Co, Ltd.
+
+--- PAGE 14 ---
+yNCR -300A ‘Serlal No.
+
+NAVTEX Receiver Factory Inspection
+
+| odel NK Type
+Manufacturer | Japan Radio Co. 119 ‘Prodm:ed Do gyn s49$ |Aenroval No.
+Inspection item
+i Test Equxpmem Model Jes-3 Artificial Antenna 50 ohms
+| No. Item Specification Judgement
+t Appearance &
+1 Confurm to specifications. Good
+construction |
+- T
+, |pimension & { 242(W) X 170(H) X 1 28(D)mm ool
+oo
+weight | Approx. 2.5kg including mounting-yoke.
+Indication & Conform to specifications.
+3 A Good
+Attachment Attach operation manual. i
+Possible to manually switch on or off. Possible to receive. |
+4 |Operaing test Good i
+518 Kz signal and to print messages out. i
+Printing test Possible to print more than 32 characters per line. Good
+Possible to feed printing paper automatically. Good
+Passible to give alarm in paper run-out. Good
+Possible to feed printing paper in accordance with specmca‘uons Good
+Self test Recelver signal processor and printer work correctly.
+5 | Seection of cosst Possible to select coast stations from which excluds to print|
+. Gond
+stations unwanted | messages. i
+| to print Possible to display the coast stations excluded. Good
+| Selection of Possible to select message categories except A. B. D and L.
+message calegories | which the receiver excludes to print messages. Good
+| unwanted to print Possible to display the message categories excluded. Gont
+Reception of
+message with Always print message numbering BB, =00. Good
+Store a received message that character error rate Is 4% or
+Storage of message -
+= less. Not store a received message that character error rate Good
+identification
+is more than 4%
+o | Recsption of Give alarim on reception of urgent message categorized 2s
+| urgent message Good
+) Possible to receive message signal at level of 22V and to
+7 | Receiving sensitivity
+| Drmi it at chmacter error rale of 4% or less.
+
+The above lest resull in factory inspection certifies Ihal the Inslallalmns work. cmlcblly
+
+2/2
+
+--- PAGE 15 ---
+R NICI=E/0IO)A)
+
+NAVTEX RECEIVER
+
+INSTRUCTION
+MANUAL
+
+--- PAGE 16 ---
+PRECAUTION FOR OPERATION
+
+@ Uhis equipment is not initialized by turning on because the contents of Random Access
+Menmory (RAM) cireuit arc maintained by the back-up circuit (Note 1, 2. So everytime
+power is applied, the status should be confirmed by the following the procedure described
+in the para. 2.6.4 of this manual. (Refer to para. 2.6.2.)
+
+Note 1: The condents of RAM maintained by the buck-up circuil are as follows:
+) Programmed Contenls
+®2 Stored Preamble
+
+Note2: The canlents of the back-up RAM are kept mare than 24 hours even if the main
+power is cut off.
+
+CAUTION
+Before making a new voyage, execute following operation so that the hack-up RAM is
+initialized.
+ Press [POWER] key while pressing and holding the [OFF] key to turn off the main
+power.
+® Press [POWER] key while pressing and holding the [7] and [A] keys.
+
+re should be taken (o the following points when handling thermal printing paper:
+Thermal printing paper is special paper which is discolored by thermochemical reac-
+tion. .
+
+Since the paper is vulnerable to heat, moisture, light, etc. whether used or unused,
+store it in a cool and dry place.
+
+Touching the paper wilh sweaty hands wil leave fingerprints on the paper or make the
+recordings blurry.
+
+Rubber the paper with a hard object will discolor the paper.
+
+When gluing the paper, generally use a water solvent glue. Starch, composite glue,
+etc. is suitable.
+
+Since adhesive tape will discolor (hermal printing paper, hold the back of the paper with
+double sided tape, etc.
+
+Do not le: the paper touch vinylchloride film for long time, The recordings will turn
+brown.
+
+If diazo process or moist copies arc attached immediately after copying, the thermal
+printing paper will be discolore:
+® Organic solvents will discolor the paper.
+
+[y
+
+@ When cleaning this equipment, take care following points:
+® When this equipment is wiped with thinner, gasoline and so farth, this equipment dis-
+color.
+® Wipc this equipment with a clean and soft cloth with noting or synthetic detergent.
+
+--- PAGE 17 ---
+[
+
+REQUEST
+
+Please Fill up the attached SHIF REGISTER LIST
+
+for making out our waintenance records.
+
+1. Fill up procedure
+After tnstallation, fill up the ship register
+Tist of stencil paper in the carton.
+
+2. Adress
+Return the ship register list to JRC after
+filling up.
+
+Adress: JAPAN RADIO CO., LTD
+Mitaka Plant
+Ist. Engineering Department
+3rd, Marine Radio Eng. Section
+1-1-5, Shimorenjaku
+Mitaka-shi, Tokyvo
+181 JAPAN
+
+SHIP REGISTER LIST A
+
+FOR NAVTEX RECEIVER
+
+Model: NCR-3004 Serial No. GD_10777
+ship’s Name: [iyRe MaRL: :
+
+call Sign: [TkEH o
+
+Flag: ELjupaN Tonnage(gross): [ o do0d. .
+
+077 Exp Forer.
+Ewith
+Active Antenna(NAY-300A): Elw i tholiteryse of metome: iiiniiish ih
+
+Ship's Type: |
+
+ori IV AC with souar suppiy umit NBG- 122
+
+Dockyard Hull No,
+
+installed Port or Dockyard:: FUKOHANA: PORT.i .-
+
+Company L URGITARYA L
+
+Installer
+
+Technicians Name : (77 VANADA
+
+delivery Date:["
+
+Ship's Ovne
+
+Remarks: [
+
+--- PAGE 18 ---
+CONTENTS
+
+CHAPTER 1 GENERAL INFORMATION
+
+SECTION
+11
+12
+13
+14
+15
+
+INTRODUCTION ...
+OQUTLINE OF THE SYSTEM
+FEATURES
+EQUIPMENT SUPPLIED
+SPECIFICATIONS
+
+CHAPTER 2 OPERATION
+
+SECTION
+21
+22
+23
+24
+25
+26
+
+27
+28
+29
+
+FRONT VIEW
+REAR VIEW
+LCD DISPLAY
+CONTROL PANEL
+OPERATING PROCEDURE
+CONTROL PANEL OPERATION ..
+261  Thermal Printing Paper Loading Procedure .
+262 Power On ...
+
+263 Self-diagnostic Tes
+264 Checking of Present AREA/MESSAGE Rejection Condition
+265 Releasing of Rejected Condition
+266 Rejection of AREA ...
+
+267  Rejection of Message Category {MESSAGE) .
+268  Switching of Loudspeaker
+268 Setting of lllumination ....
+2610 Prohibition of Alarm of Message Category A, B and L
+2611 Setting of Logging Mode
+2612 Feed the Printing Paper .
+2613 Turn-off an Ongoing Audible Alarm
+2614  Switch-off the Main Power
+2615 Alarms ...
+RECEIVING OF NAVTEX MESSAGE
+COAST STATION MODE ..
+ERASING OF THE STORED MESSAGE ID (B, B, B; By) ..
+
+CHAPTER 3  INSTALLATION
+
+SECTION
+31
+32
+
+PAGE
+
+COMPOSITION
+MAIN UNIT
+
+— il —
+
+--- PAGE 19 ---
+33
+
+ELECTRICAL CONNECTION
+331 Power Supply Connection
+332 Antenna Connection ..
+333 BK (Key) ..
+334 s out
+335 FSIN
+336 EXTERNAL ALARM ...
+
+CHAPTER 4 MAINTENANCE
+
+SECTION
+
+CHAPTER 5
+SECTION
+
+41 SELF DIAGNOSTIC TEST ..
+42 REMOVING OF CABINET ..
+43 REPLACEMENT OF FUSE
+44 REPLACEMENT OF CMN-2300A DEMODULATOR .
+45 REPLACEMENT OF CDJ-2300B MAIN PROCESSOR .
+46 REPLACEMENT OF CDG-2300A PRINTER INTERFACE ..
+47 REPLACEMENT OF CML-2300A LIGHTING BOARD
+43 ADJUSTMENT OF RV1 OF CMN-2300A DEMODULATOR ..
+49 CORRECTING PAPER JAMMING
+4.10  MECHANICAL PARTS LIST ..
+DRAWINGS
+5.1 MECHANICAL DETAILS
+5.2 OUTLINE ...
+53 SCHEMATIC DIAGRAM ...
+
+v —
+
+--- PAGE 20 ---
+CHAPTER 1
+
+GENERAL INFORMATION
+
+11 INTRODUCTION
+
+This manual covers the functions, operation and installation of the NCR-300A NAVTI
+receiver.
+
+The NCR-300A has been designed to automatically receive Navigational and Metearo-
+logical warnings and urgent information and to print out with the built-in printer,
+
+The NCR-300A is compact and can be manufactured at a low cos
+be installed in any type of ship easily.
+
+NAVTEX means the system for the broadcast and automatic reccption of marine safety
+information by means of narrow-band direct printing Lelegraphy.
+
+NAVTEX is a component of IHO/IMO world-wide navigational warning service
+{WWNWS) defined by IMO Assembly resolution A.419 (XI), and NAVTEX has hcen in-
+cluded as an element of the (lobal Maritime Distress and Safety System (GMDSS) which
+will be implemented from 1st FEB. 1992.
+
+Tn the GMDSS, NAVTEX receiving capability will become part of the mandatory cquip-
+ment which is required to be carried in certain vessels under the provision of the revised
+chapler IV of the 1974 SOLAS convention from 1st AUG. 1983.
+
+X
+
+so that this unit can
+
+1.2 OUTLINE OF THE SYSTEM
+121 Broadcasts
+
+The navigational and meteorological warnings, Search and Rescue (SAR} and the ather
+informations are collected to the NAVTEX coast station and are broadcasled in English at
+the 518 kHz frequency all over the world. The broadcasting time for one broadeast is less
+than 10 minntes. Usually for one station, the broadcasting time is allotted for 4-hour inter-
+vals. (Refer to Figs. 1, 2 and 3 in IMO NAVTEX MANUAL.)
+
+122 Message format
+
+ZCZC ByB,B:B,
+
+(TIME OF ORIGIN)
+SERIES IDENTITY+CONSECUTIVE NUMBER
+
+MESSAGE T!
+
+NNNN
+
+--- PAGE 21 ---
+ZCZC: Defines the end of the phasing period
+ByB,BB,: Message ID (preamblc)
+
+By (Transmitter identity): Letters frem A to Z to identify the communication range of the
+transmitting station.
+B, (subject indicator): Letters [rom A to Z Lo indicate the kinds of message
+A: Navigational warnings *1
+Meteorological warnings *1
+s lce reports
+: Search And Rescue (SAR) information *1
+Meteorological forecasts
+: Pilot service messages
+. DECCA messages
+: LORAN messages
+OMEGA messages
+SATNAV messages
+; Other electronic navaid messages
+Navigational warnings —additional to letter A *2
+W, X.Y: Special service—allocation by NAVTEX panel.
+Z: Means that therc ‘n no message to be broadeasted.
+*1 Cannot be rejected by the receiver.
+*+2  Should not be rejected by the receiver (continuation of B2 subject group “A”).
+ByB;: Two-digit serial number allocated to cach By. These number starts from 01 exclud-
+ing the special case where (he serial number 00 is used.
+B3B4=00 is used to print out the message compulsorily even if the station or of a
+Kind of message is rejected from objects of reception at the receiver side. The
+receiver should receive and print out this message all the lime when il receives
+this message.
+NNNN: End of the message
+
+G:
+H
+I
+I
+K
+
+123 Receiver
+‘I'e receiver is composed of the 518 kHz receiver, microprocessar and printer. The
+received message are stored in the message meniory, edited and sent out to the printer
+according to the print format.
+
+124 Print control of the receiver
+
+2) Operator can set up the unit so as to automatically reject information of the unnecessary
+arens for the ship’s navigation from objects of printing by using the transmitter identifica-
+tion character By.
+
+b) Operator can sel the unit 5o as to prohibit printing of the message which is not required
+for the ship. excluding the case where the suhject indication characters are A, B and D,
+by using Lhe subject indication characters By.
+
+¢) The message ID (B,B,B,B,) of the message received at the character error ratio (CER)
+of 4% or less is stored in the memory, and even if the message with the same ID is
+received again within 72 hours, it is not printed out.
+
+“The store capacity of message iDs is 128. If over, the oldest ID is erased.
+
+Thus, the message which has the same message ID as the one of the erased message 1D
+will be printed out, even if within 72 hours. The stored message ID can he checked by
+pressing the [STATE] key.
+
+--- PAGE 22 ---
+13
+
+14
+
+FEATURES
+
+The NCR-300A NAVTEX receiver has the following featurcs:
+
+# fully meets CCIR Recommendation 540-1, 476-3 and 625 and IMO Performance Stand-
+ards.
+
+® compact, light weight design
+
+ full automated opereation
+
+® various operation functions
+
+© high data pracessing ahility using mulliprocessor system
+
+® legible print-out
+
+» Message ID being received is displayed on the LCD simultancously with the message
+
+reception.
+
+four kinds of audible alarms; paper out, when received message of category A, B, D, or L
+
+character error rate (CER) is printed out at the end of the message in a form of percents.
+
+can be used as a monitoring receiver for the coastal station using coastal station mode
+
+available displaying the reason of non-print-out message during recciving
+
+available printing out the status while receiving message and vice-versa
+
+available receiving message while printing out the formerly received message
+
+available programming while receiving message and vice-versa
+
+available storing 128 message IDs for 72 hours
+
+stored message IDs can be printed out, displayed-and crased
+
+seses e e
+
+EQUIPMENT SUPPLIED
+The NCR-3004 is normally supplied with the items listed in Table 1-1, When unpacking
+the unit carton, check thut all items are included. If missing, please notity your dealer im-
+
+mediately.
+
+Table 1-1 Equipment Supplied
+
+Equipment Part NR Qty
+NAVTEX Receiver NCR-3004 1
+Mounting Yoke ) MPIBX16298 1
+Instruction Manual 6ZPAF00005 {
+QOperation Card BZPAFUL0007 1
+Thermal Printing Paper 5ZPCU00003 (FH65BL-2 25 m) 177
+
+Fuse SZFAD00044 (MFSINN-34) 2
+Mounting Screw BRTGO3217 B I
+
+--- PAGE 23 ---
+15 SPECIFICATIONS
+
+15.1 Electrical Specification
+
+.
+
+RECEIVER
+
+Receiving frequency: 518 kHz
+
+Receiving mode: F1B NAVTEX Broadcasting
+
+Sensitivity (30Q inputy: CER hetter than 1x1072 at 1 @V input
+
+Frequency stability: +15 Hz
+
+External AF input: 1,700+85 Hz 0 dBm in 600 ohms
+
+Antenna input: 50 ohms for active or wideband antenna and high impedance for
+
+wire antenna
+
+PROCESSOR
+
+Signalling mode: 7 unit SITOR code and NAVTEX decoding procedure in accord-
+ance with CCIR Recommendations 476-3, 625 B-mode and
+540-1
+
+PRINTER
+
+Type of printing: Thermal
+
+Character/line: 40
+
+Roll paper: 80 mm wide thermal printing paper
+Outer Diameter: 50 mm
+Inner Diameter; 11.2 mm min.
+
+Paper out: Audible alarm and flickering ALARM and P-OUT on the L.CD
+
+CONTROLS
+
+Power ON/OFF
+
+Programming of AREA, MESSAGE, Logging mode and Save mode (option)
+
+Paper feed
+
+Alarm OFF
+
+Print-out for programmed condition
+Self-diagnostic test
+Lighting for printing paper, display and switches
+
+INDICATIONS
+
+Selocted or rejected AREA (AREA, ENABLED, DISABLED and an ALPHARET)
+Selected or rejected MESSAGE (MESSAGE, ENABLED, DISABLED and an ALPHABET)
+Alarm OFF (ALARM DIS)
+
+Receiving message (REV)
+
+Paper out (fickering P-OUT and ALARM simultancously)
+
+Receiving an urgent message (flickering MSG and ALARM simultaneously)
+
+SAVE (option)
+
+ALARMS
+
+Urgent message {audible sound and flickering MSG and ALARM on the LCD)
+
+Paper out (audible sound and flickering P-OUT and ALARM on the LCD)
+
+External alarm for Search and Rescue (SAR) information (open collector OUTPUT: 10 V,
+400 mA max.)
+
+--- PAGE 24 ---
+1.5.2 Mechanical Specification
+
+* POWER SUPPLY
+Power input:
+
+Power consumption:
+
+o Temperature:
+
+* Humidity:
+® Vibration:
+
+® Size:
+
+» Mounting:
+® Weight:
+
+15.3 Option
+1) Power supply unit NBG-122
+
+125
+
+Tnput:
+
+Output:
+
+10.8~35 V DC
+Available 106/110/120/220/240 V AC using optional Power
+Supply Unit (NBC-122)
+
+In casc of 12V,
+
+4 Watls ... stand-by
+
+6 Watts .. operating (peak current: L1 A)
+
+In case of 24 V,
+
+5 Watts .. stand-hy
+
+7 Watls ... operating (peak current: 0.6 A)
+
+—15°C to 56°C operating
+
+- 25°C to 75°C storage
+
+up to 95% at 40°C
+
+up to 500 cpm...3 mm
+
+up to 1,800 cpm...1 mm
+242(W)x170(H)  128(D) mm
+including Mounting Yoke
+Bulkhead, Benchhead or overhead
+2.5 kg including Mounting Yoke
+
+AC 1007220 V
+DC24V
+DC12V
+
+2) Active Antenna NAW-300A
+Receiving frequency:
+Output impedance:
+Randwidth:
+
+Weight:
+
+518 kHz
+500
+
+5kHz
+
+0.5 kg P
+
+a7 iy 2008
+
+Weight 1.3 kg
+
+NBG-122
+POWER SUPPLY UNIT
+OUTLINE
+
+WEIGKT : Approx O.5kg
+
+NEW 300 ACTIVE ANTENNA
+QUTLINE
+
+--- PAGE 25 ---
+CHAPTER 2
+
+OPERATION
+
+2.1 FRONT VIEW
+
+CENTER SHAFT
+
+PRINTING PAPER
+
+HIGH-Z ANT
+
+Fuse
+
+REAR COVER
+
+DC POWER INPUT
+50ohm ANT ALARMIEXT.)
+
+ACTIVE ANT
+
+BK
+
+2.3 LCD DISPLAY
+
+""'l AREA RCV
+=t ENABLED DiSABLED | ALARM
+'_/_N MESSAGE p,“o"ﬁi
+
+SAVE ALARM DIS
+
+[
+
+--- PAGE 26 ---
+24 CONTROL PANEL
+
+241 Key
+Key Meaning Function
+POWER Power Ou Turns the main power ON.
+Turns the main power OFF, when the [OFF] key is
+pressed continuously.
+OFF Power ofl Turns the main power OFF by using [POWER|key while ¢
+[OFF] key is pressed continuously.
+TEST Test mode Performs selftests.
+FEED | Paper feed | Advances the printing paper.
+MONI { Monitor Turns the sound output of receiving signal from loud-
+speaker ON/OFF.
+ILLUM Hlumination Controls the lightings of Liquid Crystal Display (LCD),
+control switches and printer.
+[A7M) Area/Message | Changes selection of AREA and MESSAGE alternately
+while pressing and holding [PROG] key.
+E/D Enabled/ Changes selection of ENABLED and DISABLED alternately|
+Disabled while pressing and holding [PROG] key.
+PROG Program Makes [A7M], [E7D], [ALL], [ALOFF] and [SAVE| keys
+effective while pressing and holding [PROG] key.
+ALL Selected all Releases the rejection of AREA and MESSAGE while
+pressing and holding [PROG] key.
+AL OFF Alarm off Stops an alert, without {PROG |key.
+Prohibits the alarm for message categorics A, B and L
+OFF while pressing and holding 'PROG] key.
+STATE Print-out status | Prints out the programmed status
+[SAVE Stare rec Prohibits printing of received message until pressing this
+messages key again.
+(Optional function)
+IS Move up Maves the symbol alphabet indicated on the LCI up
+through Lhe alphabet.
+v Move down
+
+--- PAGE 27 ---
+242 Display
+
+Display
+
+Function
+
+A
+b
+
+Indicates the sclected letter (81 or B2), or indicates of the
+preamble being received during message receiving period.
+
+AREA Indicates that AREA on the LCI) is being selected.
+
+ENABLED Indicates whetlter the letter now being indicated is selected or
+
+DISABLED rejected. ;
+DISABLED means rejected. )
+
+MESSAGE Indicates that MESSAGE on the LCD is being selected.
+
+ALARM DIS (Alarm disabled) Indicates that the audio alarm for receiving
+message category A, B or L is prohibited.
+
+ROV Tndicates that the equipment has been phased-in and is in
+
+recciving conditions.
+
+ALARM and MSG
+(Flickering)
+
+Indicales that the message category A, B, D or L has been
+received.
+
+ALARM and P-OUT
+(Plickering)
+
+Indicates that the printing paper have been runping out.
+
+SAVE
+
+Indicates with lighting-up that the cquipment has been under the
+SAVE made, ot indicates with (lickering that the received
+messages are being stored in SAVE memory. (Optional function)
+
+--- PAGE 28 ---
+25 OPERATING PROCEDURE
+
+25.1 Start of Reception
+
+< Topaper loaded:
+— Tes
+
+No
+
+Tern on power as per 2.6.2 .1
+
+Load paper as per 2. 6. 1
+
+Turn off pawer as per 2. 6. 14, |
+
+?g #(See CAUTION
+
+- \ on page 12)
+
+_ Yes
+[ Ferform self test as er 2.6 3
+Should programmed status be checked? —
+e No
+Tes
+Check statvg as per 2.6. 4]
+fron— —
+=7 Should programmed status be change? —
+R Yes
+No
+
+Ready for receiving
+
+Self test?
+- No
+Yes
+
+Self fost 75 per 2.6, 3
+
+- - -
+
+©
+
+--- PAGE 29 ---
+—
+
+—
+status be changed? e
+o he changed!
+
+Receiving of ail message be
+enabled?
+
+Yes
+\
+
+e —
+- Tnhibit. Station? >—~"—
+— o
+e
+
+Tnhibit stations as per 2 6.6
+
+/ \\;
+
+Inhibit message Ldtegunes’
+
+‘\ln
+
+[Cinhibit message categories as pex 7.6.7
+
+T
+<=7 Status monitor be changed? =
+
+B
+
+TTre— e —No
+T Tes
+
+Tress MONI key as per 2. 6. 8
+
+Hlumination brightness be cm—
+
+S —— e
+Ves
+
+Tress ILLUM Key as per 2. 6. 9
+
+10—
+
+--- PAGE 30 ---
+———""Shoutd alarm for receiving m\_
+— categories A, B & L be
+
+hibitedt oo
+No
+
+Yes
+
+[Tnhibit alarm for receiving of category &, R &L as per 2 6 10
+
+Status of logging mode be changed?
+
+Change status of logging mode as per 2. 6. 11
+
+e
+
+"~ Should programmed status be cliecked? e
+—_
+
+—_— T e
+
+Yes
+Check status as per 2. b. ¢
+
+fri — 1
+
+o
+— Should programmed statws be changed?
+Yes —
+
+No
+Ready for receiving
+
+Should coast station mode be c@
+— N
+
+L No
+
+Yes
+(3] Turn on power as per 2. 6. 2.4
+
+7 Should coast station mode be selected?
+
+—— Yes
+No _ .
+Turn on power as per 2. 6, 2.1
+
+©
+
+—11 =
+
+--- PAGE 31 ---
+Press MONI key as per 2. 6. §
+
+Press ILLUM
+
+asper?.69 _
+
+Ready for receiving
+
+252 Power-off
+
+(Ready for receiving
+
+——""" Should receiving be stopped:
+
+No TT— el
+Yes
+
+“Turn off power as per 2. 6. 14
+
+Power off
+
+CAUTION
+Before making a new voyage, execute following operation so that the back-up RAM is
+initialized.
+® Press [POWER) key while pressing and holding the [OFF] key to tarn off the main
+power.
+
+o Press [POWER) key while pressing and holding the (V] and [/
+
+keys.
+
+--- PAGE 32 ---
+2.6 CONTROL PANEL OPERATION
+26.1 Thermal Printing Paper Loading Procedure
+
+1) Cut straight the end of thermal printing paper perpendicular Lo Lhe side. (When setting a
+uew coll, this is not necessary.)
+
+=
+
+Fig. 1
+
+Fig. 2
+
+If the wrinkled paper is inserted, there will be a paper jam around the printer.
+If paper is jammed, dismount the main unit as per Paragraph 4.9, and remove the jammed
+papet.
+
+2) Press [POWER| ke to turn on the main power.
+
+3) Open the paper cover and take out the center shaft.
+
+\
+CENTER SHAFT
+
+Fig. 3 Fig. 4
+
+13—
+
+--- PAGE 33 ---
+4) Introduce the center shaft into the care of paper roll and insert the end of paper straight
+
+and deeply into the paper insertion slot until it will stop.
+
+5) Until the paper is pulled in, bold the [FEED] key pressed.
+
+6) When the paper is pulled in by the feeding mechanism, fix the center shaft to the holder.
+
+Press it firmly into place.
+
+7) When the paper end comes ot from the cutter, release the [FEED
+
+key and press
+
+AL OFF
+
+key to release the paper out alarm. Close the paper cover, and depress the knob so thal
+
+the paper cover is locked.
+
+14 —
+
+.- PAPER CUTTER
+
+--- PAGE 34 ---
+262 Power on
+
+2.6.2.1 Turn power on to keep a previous condition
+
+ Press [POWER] key to turn on the main power.
+
+® Following message is printed out on the printer.
+1) When a previous condition was normal receiving mode:
+
+e |
+
+,,,,,,,, Navtex Receiver is Ready
+
+2) When a previous condition was Logging Mode:
+
+- Logging Mode ----
+Naviex Receiver is Ready
+
+A A A A
+
+3) When a previous candition was Coast Station Modc:
+
+-- Coast Station Mode --
+- Navtex Receiver is Ready -
+
+1) When the contents of the back-upped RAM are broken:
+
+A A NN
+
+- Initialized ---
+
+Navtex Receiver is Ready
+
+2.6.2.2 Turn power on to initialize Back-upped RAM
+
+ Press [POWER] key while pressing and holding the [¥] and [E] keys.
+
+« Foilowing message is priated out on the printer.
+
+Initialized ---
+
+Navtex Receiver is Ready -~
+
+26.2.3 Turn power on to establish the Coast Station Mode
+
+® Press [POWER| key while pressing and holding the [A/M] and [SAVE] keys.
+@ Foliowing message is printed out on the printer.
+
+Coast Station Mode -
+
+- Naviex Receiver is Ready
+
+15—
+
+--- PAGE 35 ---
+2.6.2.4 Turn power on to cancel the Coast Station Mode
+
+® Press [POWER] key while pressing and holding the [E/D] and [ALOFF] keys.
+
+o ollowing message is printed out ou the printer.
+
+1) When a previous condition was normal recciving mode:
+
+Navtex Recsiver is Ready
+
+2) When a previous condition was Logging Mode:
+
+--- Logging Mode --
+
+Navtex Receiver is Ready
+
+263 Self-diagnostic Test
+
+® Press [TEST] key.
+
+COMMENTS
+
+“The test is automatically done by pressing [TEST) key. The output of internal test signal
+generator is input into the RF circuit of the receiving module to make up an internal self-
+daignostic loop. The result is printed out. Most of the parts of the internal circuits will be
+checked by the above test. When the Lest is done, the following messages might be printed
+out:
+
+NN N N NI N NN,
+
+Press " AL OFF" -
+- Self Test End --
+
+--------- ZCIC ABOD  PAGE 1 --
+THE QUICK BROWN FOX JUMPS OVER THE LAZY
+DOG 123456789,70= /R+
+
+NNNN
+
+End of Message CER= 0.0% -
+- Overall Test Start
+ABCDEFGHUKLMNOPQRSTUVWX 71234567830
+abedefghijkimnopgrstuvwxyz Q0. =+ %%
+- Printer Test Start
+- Main processor : Good
+518KHz Receiver : Good -
+Self Test Start -
+N e i
+
+® The audibie alarm is started to sound. ... Note
+
+® Press [AL OFF|key.
+
+16 —
+
+--- PAGE 36 ---
+If anything out of order is found, replace the unit according Lo para. 4.1.
+
+Note: The audible alarm is not started to sound under indicating ALARM DIS.
+
+CAUTION
+When he powerful RF interference is being input to the antenna input terminal,
+there may be a case that the self-diagnostic test cannot be done properly.
+
+Therefare, care should be taken to the
+interferences Lo the antenna Lerminal.
+
+sound from loudspeaker as there is no
+
+264 Checking of Present AREA/MESSAGE Rejection Condition
+
+or
+
+Press [STATE] key.
+Print out the programmed contents.
+EXAMPLE:
+--- Programmed Navtex Receiver Status ---
+* % Digabled Area :
+---D---H
+# *Disabled Msssage Type :
+s-==e-G--J--M--P--5--
+* % Alarm (for Message Type AB&L) : Enabled
+* % Logging Mode . OFF
+* = Save Mode (Option): OFF
+* % Monitor : ON
+# % lllumination : ON
+* % Stored MSG ID :
+GA43 GAS1 GABL GABT GADE SA73 TA19 TA27
+TA26 TA30 OAS5 0AO7 FAB9 FASO DASD MECE
+MEO4 XL35 XL36 XL38 XL41 XL47 XL58 XL59
+NASY NLI5 BA54 BA65 BA71 BA72 BA73 ME62
+BAZ2 NL45 BL46 BL48 BLSE
+Press [A/M] key while pressing and bolding the [PROG] key to select AREA or MESSAGE
+
+to be confirmed.
+
+Press [V
+
+A
+
+or key.
+
+Confirm ENABLED(/DISABLED with the letler displayed on the LC).
+
+v
+
+A
+
+Repeat pressing [V] or [A] key.
+
+17—
+
+--- PAGE 37 ---
+COMMENTS
+
+The present setting condition of AREA and MESSAGE, Alarm, Logging Mode (op-
+tion), Monitor, Illumination and Stored Message ID can be confirmed by above operation.
+‘The result is printed oul on the printer.
+
+2.65 Releasing of Rejected Condition
+
+® Press [ALL] key while pressing and holding the [PROG] key.
+
+COMMENTS
+
+All the rejeclions of AREA and MESSAGE are released by the above operation. After
+releasing, all the AREA and MESSAGE rejection information in the memory are turned to
+ENARLED.
+
+2.6.6 Rejection of AREA
+
+® Dress [A/M] key while pressing and holding the [PROG key to turn the AREA/MESSAGE
+indication to AREA.
+
+o ['ress|V] or [A4] key Lo change indication on the 1L.CD to the suitable letter.
+
+® Press [E/D] key while pressing and holding the key to turn the ENABLED/
+DISABLED indication to the desired state.
+
+2.6.7 Rejection of Message Category (MESSAGE)
+
+® Press (A/M| key while pressing and holding the [PROG| key to turn the AREA/MESSAGE
+indication on the L.CD to MESSAGE.
+
+# Press |V or [A] key to change indication on the LCD ta the desired symbol.
+
+@ Press [E/D] key while pressing and holding the PROG] key to turn the ENABLED/
+DISABLED indication to the desired state.
+
+2.6.8 Switching of Loudspeaker
+
+® Press [MONI] key.
+o Augio sound from loudspeaker may be heard.
+@ To stop the sound, by pressing the [MONI| key once more.
+
+COMMENTS
+The signal sound can be heard from internal loudspeaker by he above operation.
+
+18—
+
+--- PAGE 38 ---
+269 Setting of IHumination
+
+o Press [ILLUM] key.
+
+ Panel lightings change as [ollows:
+- ight—Half-light—Turn-off—Light -~
+
+2.6.10 Prohibition of Alarm of Message Category A and B
+
+# Press [ALOFF| key once or twice while pressing and holding the |PROG| key so as to
+ALARM DIS on the LCD is indicated.
+
+COMMENTS
+The audible alarm for message category A, B or L can be prohibited or permitted
+
+preliminary by the above operation.
+
+2.6.11 Setting of Logging Mode
+
+. Note
+
+® Press[V] or [£] key until (Lg) is shown on the LCD. .....
+The character | is displayed on the LCD.
+
+® Press [E/D| key while pressing and holding the [PROG| key to turn the ENABLED/
+DISABLED indication to ENABLED. w. Note 2
+
+COMMENTS
+Under the Logging mode, every incoming message preamble will be printed out. The
+following scrvice messages are automatically printed out:
+
+Case 1—When an incomplete preamble is received:
+
+Incomplete Preambie -
+
+N i NN
+ge has been already received with the CER less than 4%:
+
+Case 2-- When a m
+
+ZCIC AAQL  PAGE 1 -
+- Already Received Message
+
+Case 3—When a message has been rejected previously by its message category:
+
+ZC2C ACOl  PAGE 1 -
+Rejectsd Message Type -
+
+Case 4 - When a message has been rejected previously by its AREA:
+
+B
+ZCZC AAOL  PAGE 1
+- Rejected Area ---
+PGNP
+
+S T
+
+--- PAGE 39 ---
+Note 1: The character |J(Lg) is located between A and Z in the sequence of alphabet fo be
+displayed on the LCD.
+Note 2: If logging mode is not necessary, the indication must be sef to DISABLED.
+2.6.12 Feed the Printing Paper
+ Press [FEED] key.
+
+o The printing paper is advanced one line.
+
+COMMENTS
+During a period of pressing [FEED] key, the paper is continued to advance.
+
+2.6.13 Turn-off an ongoing Audible Alarm
+
+ Press [ALOFF] key.
+
+® The gudible alarm is turned OFF.
+
+COMMENTS
+‘This equipment has the following two kinds of alarms; the audible alarm and the optical
+alarm.
+These alarms raised when receiving a message of category A, B, D or L, or when the
+paper is out, can be stopped by the above operation.
+
+26.14 Switch-off the Main Power
+
+* Press [POWER] key while pressing and holding the [OFF | key. ... . Note
+® The main power for the equipment is turned to OFF condition.
+Note: \OFF] key should be continuously pressed until releasing [POWER| key.
+26.15 Alarms
+Alarms are initiated by Lhe following cases:
+1) When an urgent message is received e.g., message categories A, B, Dand L. ... Note
+
+Indication:  a) Optical alarm
+
+After the preamble is received, ALARM and MSG on the LCD are
+flickering simultaneously.
+
+b)  Audible alerm
+After the completion of receiving message, the audible alarm is
+started to sound.
+
+¢} External alarm
+After the completion of receiving SAR information, the open collec-
+tor output starts switching on and off.
+
+— 20 —
+
+--- PAGE 40 ---
+27
+
+2) When the printer paper has been runiing oul.
+
+Indication: a)  Optical alarm
+ALARM and P-OUT on the LCD are flickering simultaneously.
+
+b)) Audible alarm
+The audible alarm is started to sound.
+
+Note: In case of 1, alarms for message calegories A, B und L can be prohibited by pressing
+ALOFF| ey while pressing and holding the [PROG] hey.
+
+RECEIVING OF NAVTEX MESSAGE
+COMMENTS
+
+1) After the preamble is received, RCV is shown on the LCD, and the alphanumerical digits
+is flashing the letters and digits of the preamble, while the message is received.
+
+2) When the message category is A, B, D or L, the indications ALARM and MSG on the
+LCD are flickering simultancousls. Note 1
+
+3) After the completion of receiving message, RCV on the LCD is extinguished and printing
+is started. When the receiving message category is A, B, D or L, the audible alarm is
+started to sound. Note2, 34,56
+
+4) For stopping audio alarm being sounded, press [ALOFF] key.
+
+Note L: The above two indicators do not flicker wnder indicating ALARM DIS
+even if the veceived message category is A, B or L.
+Note 2: Paper out
+© When the paper is out receiving message:
+The processing of receiving duta is forcedly stopped and the message
+which has been received is deleted.
+® When the paper is out during printing the message:
+30 second after ve-inserting the new paper to the printer, the message
+vemained in the memory circuil is begun printing.
+® During the period of paper-oul, no daia processing is done.
+
+2l —
+
+--- PAGE 41 ---
+Note 3:
+
+Note 4
+
+Note &
+
+When the receiving message consists of move than 88 lines (40
+charactersiting max.), the message is printed oul in accordance with the
+Jollowing jormat:
+
+202C SY77  PAGE 3
+
+Continue
+
+N S e
+
+The following messages are nol printed oul even if they have been re-
+ceived, the following message segments on the LCD indicate.
+1) A message which has been rejected by AREA:
+Indication: AREA and DISABLED are flickering sinneltancously.
+2) A message which has been rejected by MESSAGE Category:
+Indication: MESSAGE and DISABLED are flickering simultancously.
+3) A message which has elveady been received under the Character Ervor
+Rate (CER) less than 1%:
+Indication: MESSAGE is flickering.
+4) A message which preamble has nol bevn delected error froe:
+Indication: ROV is not shown.
+
+If the “NNNN" at the end of the message s not printed out, the pream-
+
+bie is not stored in memory. Therefore in the following cases, the mes-
+
+sage is printed out if the same message is received once moye:
+
+1) When the message is ended is by two consecutive alphas in the DX
+positions™, the following serbice message is printed out af the end of
+message-print-out:
+
+Ended By 2 Alpha CER=3.5%
+
+20—
+
+--- PAGE 42 ---
+2) When the message is ended by detecting the phasing signal of follow-
+ing message, the following service message is printed out at the end of
+
+message-print-out:
+Ended By Phasing SIG CER=27%
+
+3) When the message is cnded due to the phased out of the incoming
+signal before completion of receiving, the following service message is
+printed out at the end of message-print-oul:
+
+* Each character is sent twice at DX position and RX position for the
+error correction. DX position is first lransmission (Direct lrans-
+mission) and RX is second (Re-transmission).
+
+2.8 COAST STATION MODE
+281 Setting
+
+® Press [POWER] key while pressing and holding the [OFF} key to turn off the main power.
+
+@ Press [FOWER| key while pressing and holding the [A/M] and [SAVE] keys.
+
+® Following message is printed out on the printer.
+
+- Coast Station Mode -~
+
+Nawvtex Receiver is Ready -
+
+COMMENTS
+
+This mode will be used for monitoring the transmission of NAVTEX coastal station
+itself. Once the cquipment is st to this mode, the status can be memorized by the memory
+circuit up to 24 hours even if the main power is cut off.
+
+2.82 Return to the Normal Mode
+
+® Press [POWER] key while pressing and holding the [OFF] key to turn off the main power.
+
+® Dress [POWER] key while pressing and holding the {E/D] and [AL OFF | keys.
+
+® J'ollowing message is printed oul on the printer.
+
+1) When a previous condition was normal receiving mode:
+
+Navtex Receiver is Ready
+
+23—
+
+--- PAGE 43 ---
+29
+
+2) When a previous condition was Logging Mode:
+
+Note
+
+ERASING OF THE STORED MESSAGE ID (B,B,B;B,)
+
+Navtex Receiver is Ready
+
+key should be continuously pressed unfil releasing [POWER, key.
+
+The message |1) which has been received with the character crror tatio below 4% is
+stored in the memory. If the message with the same ID is reccived within 72 hours, it is not
+be printed. To print the same message which has the same 1D as the one of the stored
+message 1D again, erase Lhe stored message 1D which is to be printed again in the following
+
+procedure.
+
+1) Press the
+
+[STATE] key to print the state. (Refer to 2.6.4.)
+
+2) Confirm that there is Lhe message 1D (o be erased among the stored IDs prinled out by
+the item “**Stored MSG ID:”. (They are printed in the order from the oldest to the
+
+latest.)
+
+3)By pressing the [ALL] key, the dividing fine on the LCD display blinks and one of the
+stored message [Ds is displayed an the LCI) display in the following order and timing.
+
+Displaying the stored message 1D is repeated until the
+
+B,
+Goes out
+By
+Goes out
+Bs
+Goes out
+By
+Goes out
+B,
+Goes out
+By
+Goes oul
+
+4) Seleet the stored message 11 to be erased as follows:
+
+[} key while pressing and holding the [ALL] key, the message 1D
+¢ displayed message ID is displayed. (However, if this operation is
+we 1D is being displayed, the oldest message
+
+) By pressing the
+stored next to th
+performed while the latest stored me
+1D is displayed.)
+
+b) By pressing the
+
+(B, is displayed for 500 ms.)
+(Nothing is displayed for 100 ms.)
+(B is displayed for 500 ms.)
+(Nothing is displayed for 100 ms.)
+(Bs s displayed for 500 ms.)
+(Nothing is displayed for 100 ms.)
+(B, is displayed for 500 ms.)
+(Nothing is displayed for 1500 ms.)
+(By s displayed for 500 ms.)
+(Nothing is displayed for 100 ms.)
+(B, is displayed for 500 ms.)
+(Nothing is displayed for 100 ms.)
+
+ALL|
+
+key is released.
+
+[2] key while pressing and holding the [ALL] key, the message (D
+
+stored before the displayed message ID is displayed. (However, if this operation is
+performed while the oldest message ID is displayed, the latest stored message (D is
+displayed.)
+
+24—
+
+--- PAGE 44 ---
+5) Confirm that the message 1) to be erased is displayed and press the
+key.
+
+pressing and holding the
+
+[ALL]
+
+E/D|
+
+key while
+
+6) The displayed message ID is erased and the message ID stored after the clearcd mes-
+sage [D is displaved. (However, if Lhe lalest message ID) is cleared, the oldest message
+
+ID is distayed.)
+
+T
+
+--- PAGE 45 ---
+CHAPTER 3
+
+INSTALLATION
+
+3.1 COMPOSITION
+
+Refer to CHAPTER 1 Tuble 1-1 Equipment Supplied on page 3.
+
+3.2 MAIN UNIT
+
+The NCR-300A Main Unit may be mounted on table, shelf or overhead using the
+mounting bracket furnished. Select a convenient lacation suitable for casy viewing in a shel-
+tered area out of direct sun rays if possible.
+
+To mount the unit, remove the mounting yoke from the unit by loosening the knobs on
+cach side of the NCR-300A. Attach the bracket to the desired mounting surface with
+attached screws. Slide the unit back into its yoke. At the desired position, secure the yoke
+
+knobs.
+__ 170
+
+~ 4-$6.5 MOUNTING HOLES
+MOUNTING YOKE {BOTTOM VIEW)
+
+%Lg min 11870 min
+! KNOB
+,‘_ i T MoUNTING YOXE
+iz 7
+Z
+;
+4
+7
+E
+
+--- PAGE 46 ---
+3.3 ELECTRICAL CONNECTION
+
+‘The connection with external equipment shall be performed as shown in Fig. below
+after the removal of the REAR COVER in the back lower part of the unit. As the terminal
+board is provided, with a simple tool like screwdriver, 5o that it can he easily connected.
+
+Note I: This terminal board is to connect the antenna, power supply, etc. The connection wovk
+can be performed with either cross-point screwdriver or flat tip screwdriver.
+
+[00000000000000
+
+SIEAAL 61D)
+
+AT
+AL
+
+¥ 0uT
+
+5 19
+
+B FowER
+TERMINAL BOARD
+
+Note 2: This is water-resistant rubber packing. As shown in Fig. 9, break a rubber thinner
+part and pass the cable through it then fix the packing fo the main wnit.
+
+Note 3: With floating power supply, the fuses for both polarities (+), (~) are provided. When
+abnormality occurs, this protects the receiver and power supply.
+
+3.3.1 Power supply connection
+
+Connect the power supply cable to the terminals of terminal board shown in Fig. below
+in paying attention not to connect wrong,
+
+&
+
+" GASKET
+
+Fig. 9
+
+When the power supply cable is of 2 wires with shield, and shield is connected to the
+ground, it shall be connected to the point  E on Lerminal board.
+
+27—
+
+--- PAGE 47 ---
+Example of in
+
+NAW-300A
+ACTIVE ANTENNA
+
+lation wiring
+
+PREAMPLIFIER
+
+LH-30/0. 18-U-3
+
+i {GROUNDING WIRE! Tp M, M-RMK
+
+1m WHIP ANTENNA
+
+[ RO-58A/(=0.40m)
+
+I
+i WHEEL HOUSE
+_M-P-3
+1 %\ 3D-2V (4 =5m)
+5+ (=6
+ACTIVE ANTENNA
+NCR-300A
+NAVTEX RECEIVER
+POWER
+(E)2 (=) {+)13
+b
+NBG-122
+2 POWER SUPPLY UNIT
+ACLOOVG—y 0 ACIN DC12V
+100V DC24V QUT %
+2oy X, )
+)47' DC10.8~35V
+
+--- PAGE 48 ---
+3.3.2 Antenna connection
+
+CAUTION
+Selecting the Location of Antenna
+
+The antenna should be mounted high up and in the clear so that it is not shielded by
+stacks, masts, bridge structures, or vertical stays. It should not be placed under hori-
+} zontal wire antcnnas such as HF or MF communications antcnnas. The active antenna
+should be mounted away from stacks to kéep heal, smoke and contaminating gases.
+The antenna should be mounted vertically and in a location that is accessible for servic-
+ing. The active antenna should be separated as much as possible from (he vessel’s
+other antennas. In particular, try to obtain as much separation as possible from the HF
+and MF transmitting antennas to avoid damage to the receiver and loss of NAVIEX
+signal during communication transmissions. Also avoid placing the active antenna too
+close to other recciving antennas which may reradiate interference, such as radar or
+TV antennas.
+Slow and/or incorrect cycle selection is sometimes caused by Lhe antenna being
+mounted too close to metal objects. [f there are several possible antenna locations,
+each can be evaluated by operating the receiver with the antenna placed temporarily in
+eich localion, and hearing receiving condilion. The location with low noise and high
+signal level is the best location.
+
+~—— BEST ANTENNA LOCATION
+
+SHADED AREA SHOWS
+POOR LOCATION
+
+Typical Antenna Location
+
+29 _
+
+--- PAGE 49 ---
+1) To connect 500 antenna
+
+BIENalSlE]
+
+= ‘ EOAXIAL CABLE
+
+EARTH
+Fig. 11
+
+2) To connect the dedicated active anlenna, NAW-300A
+
+EARTH TO NAW-300A
+
+Fig. 12
+
+3) To connect the wirc antenna ete.
+
+333 BK (Key)
+
+This terminal is required the voltage of 12 to 24 volts DC to terminal BK for making
+the relay contacts of the anlenna input circuit off when it is required as a keying control (o
+avoid heavy RF power inducing to the input circuit of main unit.
+
+The necessary currents {or driving the relay circuit is approximately 11 mA or 23 mA
+under the voltage of 12 volts or 24 volts respectively.
+
+Note: This control is not necessary when NAW-3004 is used.
+
+30 —
+
+--- PAGE 50 ---
+&r2
+——— a0
+i FLi2
+r
+pks [ O
+7 coig TR11
+’——2—, FLis Emz Y 25026557
+1 8 2
+sk- | O 3
+E 5 RT1
+R73
+K 2w 'mm_‘ o
+. Lps21
+3.3.4 FSOUT
+This terminal can output the AF output of receiver module. The specification is as
+follows:
+Frequency: 1,700+85 Hz
+Level: 0 dBm
+Tmpedance: 600 ohms
+335 FSIN
+
+“This terminal is the demodulator input of receiver module. The connection with the
+external recciver is available when the output of the external receiver has the same speci-
+fication as the followings:
+
+Frequency: 1,700+85 Hz
+Level: +10~=30 dBm
+Impedance: 600 ohms
+
+CAUTION
+FS OUT and FS IN should be left as these are connected by the allached short-
+bar when the 518 kHz receiving module is being used.
+
+* 33.6 EXTERNAL ALARM
+. This terminal is the external alarm for SAR information.
+
+Open Collector Output
+
+max. +10V
+Current: max. +400 mA
+3000 ms _
+s
+/ | — (
+ON oN
+OFF OFF
+s o s w00
+
+31—
+
+--- PAGE 51 ---
+CHAPTER 4
+
+MAINTENANCE
+
+4.1 SELF-DIAGNOSTIC TEST
+
+411 Procedure
+
+® Press |TEST]
+
+The test is automatically done by pressing [TEST
+
+key.
+
+key. The output of internal test signal
+
+gencrator is input into the RI' input circuit of the receiving module to make up an internal
+
+self-diagnastic loop. The result is printed out. Most of the parts of the internal circuils will
+
+be checked by the above test when the test is done.
+The following messages might be printed out:
+
+® The audible
+
+* P'ress [AL OFF
+
+HNNN
+
+£nd
+
+alarm is started to sound....Note
+
+key.
+
+e N el NN
+
+ZCzC ABOD
+THE QUICK BROWN FOX JUMPS OVER THE LAZY
+DOG 1234567890.70=/2+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ] 2311357890 2
+abcdefghijkmnoparstuvwayz (.= + 4%
+- Printer Test Start -
+
+518KHz Receiver : Good -
+
+Press " AL OFF
+- Self Test End -
+
+PAGE 1
+
+of Message ~ CER=0.0%
+Overall Test Start -
+
+Main Processor : Good -
+
+Self Test Start
+
+T e T Ny
+
+Note: The auiible alarm is noi started to sound undey indicating ALARM DIS.
+
+412 Receiver Test
+
+The test result is printed out with ane of the following comments:
+
+1
+
+518KHz Receiver :
+
+Receiver is good condition.
+
+— 32 —
+
+--- PAGE 52 ---
+-~ 518KHz Receiver :
+Need Adjustment of RV1
+
+Replace CMN-2300A Demodulator according to Para. 4.4.
+
+4.13 Main Processor Test
+
+The test result is printed out with one of the following comments:
+n Main Processor : Good
+
+Main Processor is good condition.
+
+2) Main Processor : Failed
+
+Replace CDJ-2300B Main processor according to Para. 4.5.
+
+4.14 Printer Test
+
+CDG-2300A Printer interface is normal when the print result is same as-the following:
+
+ABCDEFGHIKLMNOPQRSTUVWXYZ1 234567890 75
+abedefghijkimnopgrstuvwxyz =0, =+ %%
+
+Otherwise, replace CDG-2300A Printer interface according to Para, 4.6.
+
+CAUTION
+When the powerful RE interference is being input to (he antenna terminal, there
+may be a case that the self-diagnostic test cannot be done properly.
+Therefore, care should he taken to the sound from Toudspeaker as there is no
+interferences to the antenna Lerminal.
+
+T
+
+--- PAGE 53 ---
+4.2 REMOVING OF CABINET
+
+1) Untighten screws (1) and (2) and remove the rear cover (3.
+
+2) Remove the wiring if necessary.
+
+3) Untighten screws @), &), (&) and 3.
+
+4) As holding the both sides of cabinet with both hands as illustrated, press the terminal @
+with the thumb and remove the cabinet @.
+
+Fig. 14
+
+34—
+
+--- PAGE 54 ---
+4.3 REPLACEMENT OF FUSE
+1) Remove the rear cover. (Refer to para. 4.2.)
+
+2) Remove the blown fuse and replace it by good one. (Sce Fig. 15 below.)
+
+@ oo
+
+Fig. 15
+
+() Raise one end with a slender tool like narraw tip screw driver.
+@Pull out the fuse.
+
+Put a new fuse on the fuse holder.
+
+@Push down the luse to insert securely into the fuse holder.
+
+Note: Fuses other than MF5INN-34 (3A, normal blow type) shall not be used.
+
+CAUTION
+To replace a fuse, pay attention not to cause short circuil of fuse holders for F1,
+F2 by touching with tip of screwdriver or fuse.
+
+Fig. 16
+
+--- PAGE 55 ---
+4.4 REPLACEMENT OF CMN-2300A DEMODULATOR (Refer to Fig. 17)
+
+1) Remove the cabinet. (Refer to para. 4.2.)
+
+2) Pull out the cable 1 from the connector 2.
+
+3) Pull out the connector 3 from the connector 4.
+
+1) Remove spacers 5, 6, 7 and 8,
+
+5) Remove Demodulator 9 and replace it by new one.
+
+6) Fix spacers 5, 6, 7 and 8.
+
+7) Insert the connector 3 to the connector 4.
+
+8) Insert the conncctor 1 to the connector 2.
+
+) Fix the cabinet to the main unit. (Refer to para. 4.2.)
+
+45 REPLACEMENT OF CDJ-2300B MAIN PROCESSOR (Refer to Fig. 17)
+
+1) Remove the cabinet. (Refer to para. 4.2.)
+
+%) Remove the Demodulator. (Refer (o para. 4.4.)
+
+3) Remove the shield cover 10.
+
+4) Pull out the cable 15 from the connector 16.
+
+5) Pull out the cable 17 from the connector 18.
+
+6) Pull out the cable 19 from the connector 20.
+
+7) Pull out the cable 21 from the connector 22.
+
+8) Pull out the cable 23 from the connector 24.
+
+%) Remove spacers 11, 12, 13 and 14.
+
+10) Remove old Main Processor 25 and replace it by new one.
+11) Fix spacers 11, 12, 13 and 14.
+
+12} Insert the connector 23 to the connectar 24,
+
+13} Insert the cable 21 to the connector 22.
+
+14) Insert the cable 19 to the connector 20.
+
+15} Insert the cable 17 to the conneclor 18.
+
+16) Insert the cable 15 to the connector 16,
+
+17) Fix the shield cover 10 to the spacers 11, 12, 13 and 14.
+18) Fix the Demadulator 9. (Refer to para. 4.4.)
+
+19) Fix the cabinet to main unit. (Refer to para. 4.2.}
+
+36—
+
+--- PAGE 56 ---
+Fig. 17
+
+Y
+
+--- PAGE 57 ---
+4.6 REPLACEMENT OF CDG-2300A PRINTER INTERFACE (Refer to Fig. 17)
+
+1) Remove the cabinet. (Refer to para. 1.2.)
+
+2) Remove the Demodulator 9. (Refer to para. 4.4.)
+
+3) Remave the Main processor 25. (Refer to para. 4.5.)
+4) Loosen screws 26, 27, 28, and 29, and remove the mounting base 30.
+5) Pull out the cable 31 from the connector 32.
+
+6) Pull out the cable 33 from Lhe connector 34.
+
+7) Remove screws 35, 36, 37, 38, and 39.
+
+8) Remove the old printer Interface 40 and replace it by new one.
+
+9) Fix screws 35, 36, 37, 38, and 39.
+
+10) Insert the cable 33 to the connector 34.
+
+11) Insert the cable 31 to the connector 32.
+
+12) Fix the mounting base 30.
+
+13) Fix the Main processor 25. (Reler to para. 4.3.)
+
+14) Fix the Demodulator 9. (Refer to para. 4.4.)
+
+15) Fix the cabinet to the main unit. (Refer to para. 4.2.)
+
+4.7 REPLACEMENT OF CML-2300A LIGHTING BOARD (Refer to Fig. 17)
+1) Remove the cabinet. (Refer to para, 4.2.)
+
+2) Remove the Demodulator 9. (Refer to para, 4.4.)
+
+4) Remove the Main processor 22. (Refer to para. 4.5.)
+
+4) Loosen screws 26, 27, 28 and 29 and remove the mounting base 30.
+5) Remove a screw 41.
+
+6) Remave the old Lighting Board 42 and replace it new one.
+
+7) Fix a screw 41.
+
+8) Fix the mounting base 30.
+
+9) Fix the Main processor 22. (Refer to para. 4.5.)
+
+10) Fix the Demodulator 9. (Refer to para. 4.4.)
+
+11) Fix the cabinet to the main unit. (Refer Lo para. 4.2.)
+
+4.8 ADJUSTMENT OF RV1 OF CMN-2300A DEMODULATOR
+
+As a result of self-diagnostic test, if the following error message is printed out on the
+printer, follow steps below to adjust the demodulator:
+
+518Kz Recaiver :
+
+Need Adjustment of RV1
+
+38 —
+
+--- PAGE 58 ---
+4.8.1 Method Using Oscilloscope
+1) Remove Lhe cabinet of the NCR-300A. (Refer to para. 4.2.)
+
+2) Connect the power supply, and turn power on.
+3) Connect the probe of the oscilloscope to pin 7 of 1C2 on CMN-2300A to monitor the
+demodulated waveform.
+
+4) When 518 kHz NAVTEX signal can be received clearly, connect the antenna and monitor
+the waveform. Otherwise, press the (TESTkey to perform self-diagnostic test, and moni-
+tar the waveform during execution of overall test.
+
+5) The demodulated waveform is a rectangular wave with the width of 10 msec. Adjust RV1
+sa that the duration of the shortest waveform may be 10 msec. (See Fig. 18.)
+
+6) Press [TEST] key to check a message:
+
+B18KHz Receiver : Good
+
+7) Mount the cabinet properly.
+
+Demodulsted waveform
+
+110 ms!
+RV1 et ~
+
+NEED ADJUSTMENT
+
+(m) GOOD
+@
+
+\
+@
+
+NEED ADJUSTMENT
+
+Fig. 18 State of RV1 and demodulated waveform
+4.8.2 Methad Not Using Oscilloscope
+1) Remove the cabinet of the NCR-300A. (Refer Lo para. 4.2,)
+2y Connect the power supply, and turn power on.
+3) As shown in Fig. 19, the position of the varible resistor RV1 is correspondent to the
+
+demodulated waveform during self-diagnostic test to seek the point (@. Where the mes-
+sage:
+
+518KHz Receiver : Good
+
+— 30 —
+
+--- PAGE 59 ---
+is changed to:
+
+P NN A N N,
+- 518Kz Receiver :
+
+Need Adjustment of RV1
+MNP N
+
+Simitarly, find the point @ at the opposite side. Where the message:
+
+-------- 518KHz Receiver : Good --
+e NS PN
+
+is changed to:
+
+N N A N P
+518Kz Receiver : -
+Nesd Adjustment of RVL
+
+e N
+
+If the positian of RV1 exceeds from (he point (3) ot (§) too far, a message:
+
+------ 518KHz Receiver © Faled =----=--
+e ]
+is printed out. The RV1 should be fixed at the intermediate position (3) between the
+points (2 and (&) where the sclf-diagnostic test result is good. Therefore it should be
+adjusted little by little until the intermediate position is found out.
+
+4) Mount the cabinet propery. (Refer to para. 4.2.)
+
+40 —
+
+--- PAGE 60 ---
+4.9 CORRECTING PAPER JAMMING
+
+1f paper is jammed near the printer head when printing paper is loaded, remove the
+jammed paper and load the printing paper again by the following procedure:
+
+Be careful because the printer will fail if the [FEED] key is continuously pressed under
+the printing paper jammed.
+
+1) When you find paper jamming, turn off the power immediately.
+2) Open the Paper Cover (Fig. 20-2), and cut off the printing paper.
+
+3) After removing the power supply, disasserble the main unit, and remove the PRINTER
+1/i® PCR according to para. 4.6.
+
+4) Taking care not to damage the mechanical parts and printer head, pull out the jammed
+paper from the printer on the printer 1/ PCB by hands.
+
+5) Reassemble the main unit to the origmal state. (Refer to para. 4.6.)
+
+a1 —
+
+--- PAGE 61 ---
+4.10MECHANICAL PARTS LIST (Refer to 5.1 MECHANICAL DETAILS)
+
+Location Description JRC PN Qty
+1 i:iﬁ:;yﬂ( MPBC07397 1
+" ha | Front Bezel MTV000307
+1 Paper Cutter MTV000308
+1c Packing, Rubber MTTu23560 1
+2| Paper Cover MTV000309 1
+3 Cabinet MTV000310 1
+4 Mounting Base MTVR00311 1
+5 Switch Assy
+consisting of;
+5a Membrane Swilch " | sucaroooss 1
+5b Switch Plate MTV000312 1
+6 Rear Cover MTVO00313 1
+7 Packing, Rubber | MTTO23561A 1
+5 Gasket MTT023562 3
+9 Center Shaft MTH004065 1
+10 Demodulator PCB Assy | CMN-2200A 1
+1 Shield Caver MTB159034 1
+' 12 Main Processor PCB CDJ-23008 1
+Assy
+13 Printer Interfacc Assay
+consisting of:
+132 Printer Interface PCB CDG-23004 1
+Assy
+1 Printer szzMMoooss | 1
+13 LD 6WSAF00001 1
+11 Lighting Board CMIL-23004 1
+15 Speaker SUBAX00010 1
+16 Spacer MTK005046 4
+i 17 Spacer MTKO05047 4
+
+41—
+
+--- PAGE 62 ---
+JRC PN
+
+Location Description Qty
+18 Bracket
+cons
+T Bracket, Mounting MTB159036 T
+186 Washer, Serration MTV02834 Ty
+19 Knab BRFD00400 2
+20 T.ogo Ulate MPNM12620A 1
+w0 | screw, Tapping BRTGUHTY 10
+22 | Sems Screw BSNCO3008B s
+23 BRTGU3084 1
+24 SZPCU00N03 1
+
+43—
+
+--- PAGE 63 ---
+CHAPTER 5
+
+DRAWINGS
+
+5.1 MECHANICAL DETAILS
+
+» A\
+P Sl / -
+
+Fig. 20
+
+— 44—
+
+--- PAGE 64 ---
+5.2 OUTLINE
+
+2L,
+
+AYINT 3BV -F
+
+~ SITOH ONILNNON S 9¢-b
+
+4
+
+3220 WO 35v0
+BT FOINE TN
+
+W03
+LS THOT3R
+
+[EECCRETEEr
+
+- \
+
+o
+
+W3A gv3
+
+Fig. 21
+
+--- PAGE 65 ---
+5.3 SCHEMATIC DIAGRAM
+
+AN PROCESSOR
+
+O y-23008
+
+DEMODULATOR
+
+HENBRAWE SYITCK  H-GKCAFDO0039E
+
+--- PAGE 66 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas,
+Liaison & Service Offices
+
+@Main Office
+Akasakca Tvin Tower(ain)
+
+17.22, Akasaka 2-chome,
+
+Minata-ku Tokyo 107
+
+Merilime Sales Department |
+Phone - 03-2584-8131
+
+Fax; 0335848795
+
+Maritime Sales Department Il
+Phona - 03.3584-8834
+
+Fax: 03-3504.8796
+
+International Busingss Department
+Phone : 03-3564.-8835
+
+Fax : 03-3584-8878
+
+International Marketing Department
+Phone : (3-3584-8845
+
+Fax: £3.3584-8859
+
+@URC (UK) Limited
+Ground Floor, Tomple Chambers,
+Templs Avenue, London E.C. 4
+Phone: 44-171.353-7960,563.7440
+Fax: 441713533321
+
+BUSA
+
+Japan Radia Co..Ltd, /New York Branch
+30 Park Avenue, New York
+
+New York 10022
+
+one - 212-358 1180
+
+Fax: 202:413.5227
+
+@indonesia
+Japan Raio Co, Ltd.
+
+tulia Tower 12ih Floor
+
+Jajan enderai Gator Subrota Kav.9-1 1,
+Jakarta 12930
+
+Fhone: 21-5204053 - 5204056
+
+Fox: 21°5204059
+
+@Fhilippines
+Japan Radio Co, Ltd.
+2320 Taft Aveni
+MalsteManile
+Phone : 2:50-3565 + 57-14a0
+Fax: 25715083
+
+@ Thailand
+
+Japan Radio Co, Ltd
+Charturong A-Phon Building
+457 phrz Stmar Strel,
+anghok (0200
+
+Phone/Fax : 2:280-04D1
+
+@incia
+Iapan Redio Co. Ltd
+
+5 A,Sagar Apartients,
+
+& Titak Marg N} # Dol 110001
+Phone. |1-38-L7a
+
+Fax: 11-38-4671
+
+®Mitaks Plant
+-1, Skimorerjaks 5-chome. Mitaka
+Takyo 181
+
+Phone : 0422-45-31 14
+
+Fax: 0422258110
+
+®JRC do Brasil Empreendimantos
+Electronicos Ltds,
+
+AwAlmirante Barroso,63-Gr.3/2707
+
+20031 Rio de Janeiro,Rl
+
+Phone : 21-220.8121 262 9281
+
+Fax:21-2406324
+
+eusA
+Japan Ratto Co. Ltd.
+
+&/a Raythean Marine Compary,676 Island
+Pond oad Manchester, NH 07103.U.5.4
+Phone ; £03-634-484D
+
+Fax: 603-634.84]
+
+®United Kingdarm
+Iapan Radio Ca, Ld
+
+/o Rayiheon Wrine Europe
+Anchorags Park,Portsmaut.
+Hampstire P03 STDUK.
+Phone : 40-705 663239
+
+Fax: 40-705-66324
+
+@Notheriands
+Japzn Racto Co. Ltd.
+
+/o Radio-Hollznd ..
+Eckhoutstraa: 2,
+
+387 AB Rattordum
+
+Phone : 10-429-4581 + 10-425-1088
+Fax: 10428 2253
+
+®5pain
+JIag2n Radio Co. Ltd.
+
+/0 TOSA CANARIAS $.L. Dastar
+
+Jiran Domivgue Peres 4,uraanizacion
+EL CEBADAI Las Palmos g6 Gran Canaria,
+Phone: 34 28455131 - 34.78-46-529
+Fax: 3028462398
+
+w7
+
+--- PAGE 67 ---
+For further information contact
+
+Japan Radio Co, L1d.
+
+HEAD OFFICE & Akasaka Twin Tower{(Main),
+SALES DEPT. 17-22,Akasaka 2-chome,Minato-ku, Tokyo
+
+Phone : 03-3584-8711
+Fax  :03-3584-8715
+Telex :0242-5420 JRCTOK J
+
+MAIN PLANT 1.1,Shimorenjaku 5-chome,Mitaka-shi, Tokyo.
+Phone : 0422-45-9111
+Fax  :0422-46-9110
+Telex : (2822-351 JRCMTK J
+
+Jokkk  6ZPAFO0005 G263334-1 1935. 9. HK(500)

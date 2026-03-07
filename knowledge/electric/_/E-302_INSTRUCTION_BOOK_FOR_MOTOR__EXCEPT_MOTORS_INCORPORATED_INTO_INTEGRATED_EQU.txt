@@ -1,0 +1,254 @@
+FILE: E-302 INSTRUCTION BOOK FOR MOTOR (EXCEPT MOTORS INCORPORATED INTO INTEGRATED EQUIPMENT).pdf
+FOLDER: .
+DATE: 2026-03-06 20:44:15.554349
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR MO
+
+( ALL ELECTRIC MOTORS
+EXCEPT MOTORS
+INCORPORATED INTO
+INTEGRATED EQUIPMENT
+
+the property of
+Lt (K1) and may
+o any third party
+
+--- PAGE 2 ---
+INSTRUCT I ON MANUALx*
+
+*
+
+FOR
+
+113--3 439
+
+TATYO ELECTRIC
+
+MFG.
+
+co.
+
+LTD
+
+--- PAGE 3 ---
+CONTENTS
+
+1. Operation
+
+1-1 Preparations for operation
+1-2 Check after start
+1-3 Check during operation
+
+2. Maintenance and [nspection e 2
+
+2-1 Periodical inspection
+
+2-2 Maintenance of bearing
+
+2-3 Insulation resistance
+
+2-4 Items of caution when the rotor is rest
+
+2-5 Drying of winding coil
+
+3. Troubleshooting
+
+4, Disassembly and Assembly
+
+4-1 Ceneral cautions
+4-2 Disassembly
+4-3 Asscnbly
+
+© o -1 -2
+
+--- PAGE 4 ---
+Thank you very much for purchasing our producis. Taiyo Induction Motors, with excellent
+durability, function and performance, are the products that show our long experience in
+producing the molors for ships. However, it is desirable to read through this
+
+Instruction Manual and io take due care of the handling, mainlenance and inspection of
+
+the machine for upkeeping the a
+
+iciency of the ma
+
+1. Gperation
+1-1 Preparations for operation
+
+Be sure to check and confirm the foilowing items before slarting cperation.
+
+(1) Cleaning:- MWipe off the dust, etc. from the motor; be sure to use a piece of dry
+cloth. Never use wet or oil-stained cleth to wipe the electrically conductive
+section.
+
+(2) Tighlening sections:- Check the motor bolts for slackening and detechment, paving
+perticular attention to the electrically conductive section.
+
+() Terminals:- Check thc lead wires and cables for scratched or cracked coatings as
+
+well as the bolts for slackening.
+
+«
+
+Insulation resisiance:- HMeasure the insniation resistance between molor windings
+
+and eartlh with a 300 V megger to make sure that the resistance is above the value
+
+givea below.
+
+3% Rated voltage of the motor (V)
+Ratod output () + 1000
+
+)
+
+(Min., resistance:1HQ)
+
+Insulation resistance —
+
+1-2 Check after start
+After starting the motor, carry out no-load or lignt-load operation to check the
+temperature, vibration. sound, etc. at each section.
+(1} dbnormal noise:- Check exch section for abnormal noise by using a sound
+listening bar.
+{2} bnormal vibration:- Check each section for abnormal vibration by touching with
+
+hand or using o viorometer.
+
+(3) Temperature risc in bearing:- Should the bearing be found to have exc
+
+ive
+temperature rise, install a thermometer to the bearing, and corry out inspection
+
+of the hearing according to the item 2-2. if the temperature cxceeds 45 degree.
+
+o
+
+Check during operation
+
+Daily watch and check of the machine during operation are extremery important; check
+
+the following items.
+
+(1) Koise:- Check each section for abnormal neise by using a sound listening bar.
+
+(2) Odor:- Check for burning smell of varnish, oil, etc. to detect the abnormality.
+
+(3) Temperature rise:- Confirm the temperature at cach section by means of the
+thermome ter,
+
+{4 Vivration:- Check vach section for abnormal vibration by touching with hand or
+
+using a vibrometer,
+
+--- PAGE 5 ---
+Maintenance and Inspection
+
+Periodical inspection
+
+Tt is utterly important to have correct knowledge, @nd carry out propur handling and
+
+careful maintenance of a machine in order to upkeep the machine in best operating
+
+condition. The effeclive and proper maintenance and inspection of the machine help
+
+avert or minimize the accident. Be sure to carry out the checks in the "Ceck points
+
+for periodical Inspection” given below.
+
+Table-1 : Check Points for Periodical Inspection
+
+U Place of Inspection iten Waiatenance i tom Inter-
+inspection val
+| Vibration [Vibroneter, perception | Check the leg bolts, ctc| D |
+Bbnormal noise Sownd listening bar, Locate the, source (of D |
+out acoustic sense generation) and check.
+uter - - =
+peripheral Frame tomperature | Thermometer perception Check the power source: D
+sections foad aad ventiiation. |
+| “lof motor) — — - -
+Check the inlet and Check the periphere of
+L cutlet air tewperaturcs | inict and outlet ports
+Ventilation as well as flow rate for obstruction and the M
+through sense and by nets for dust.
+using thermcmoter,
+Power source | Voliage, current, | Instrument panel Take care of variation D
+cte. from rated values,
+Bearing sound Sound listening bar D_|
+Bearing Thermone ter . D
+. temperature Replenish or/and
+Periphere of — — - discharge the srease  i—-
+bearing Bearing vibration |Vibration, perception spacified ontzse D
+- - s aution Plate’. =
+| Discharged grease | Color, odor and hardness 264
+101 leakage Mo
+| Wiring megohm Hegger Carry out periodical Mo
+N o - - ———— c¢leaning; do not forget .
+Inside of | Odor fo clear the pipe ifan | D !
+notor - - air cooler is installed
+Dust Dust, foreign substance | to the motor Yol
+_ _ and water
+Compressed Additional tightening Y
+. terminal of holts ® L i
+Insige of - Carry,oul periodical
+terminal box | Terminal stand | Dust cleaning Y |
+Lead wire Scratch and crack on coa Y
+1ng
+! Condjtion of Coupling Y
+Others coupling section Check when the motor js
+M oo, - not running
+Tightening parts | Leg bolts, etc. Y
+
+2-2 Maintenance of bearing
+
+The grease circulating, rolling bearing, adopted in this motor,is either apen or sealed
+
+type ball bearing, A special duplex angular contact hall bearing (DB type) is used on
+
+the un-coupling side of the motor for stccring gear in order to prolect the bearing
+
+from vibration. Carry out the maintenance of bearing according to the mainienance
+
+procedures given belon.
+
+--- PAGE 6 ---
+
+
+--- PAGE 7 ---
+
+
+--- PAGE 8 ---
+
+
+--- PAGE 9 ---
+
+
+--- PAGE 10 ---
+
+
+--- PAGE 11 ---
+
+
+--- PAGE 12 ---
+
+
+--- PAGE 13 ---
+
+
+--- PAGE 14 ---
+
+
+--- PAGE 15 ---
+
+
+--- PAGE 16 ---
+
+
+--- PAGE 17 ---
+

@@ -1,0 +1,441 @@
+SOURCE: E-04 LIST OF ELECTRIC MOTOR.pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:09:15.145329
+==================================================
+
+
+==================================================
+PAGE 1 of 7
+==================================================
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+LISTESOE ELECTIRIEC MOTOR
+
+I This technical document is the property of
+ICawasald Heavy Industries, Ltd. (IK11) and may
+ol be copied, nar disclosed Lo any third party
+
+without KII prior written cons
+
+T
+
+MANAGER _——"" .| scAaLe — | vosno.  —
+
+Al b e e
+Fl KAWASAKI HEAVY INDUSTRIES, LTD.
+H
+a
+SHIP DESIGN DEPT, SHIP GROUP
+
+DATESAMIA Y., 3.0, 1'910'6 1456
+
+T o k0 g % KAWASAKI HEAVY INDUSTRIES. LTD.
+
+7 SHEETS mcL coven
+(ot
+A3 x &
+
+==================================================
+PAGE 2 of 7
+==================================================
+Hotor sotor controls -—]
+- Starter . B
+, . T LT P
+3 3 o HEISSEH é B e [ L 54
+£ 5 & S| e » |¥|8 2 lme 5 E.E [27 : 15 »
+b o £ a AR EiSs S5 Bl olE BEEE L 2 924 &
+® A $3% le|l 9|8l » [Bls]din=g te Tl K2REED 8 alz 38
+S5 Ha R ERE[ ARk atal 55
+s B S& B g8 B _IBIZEl5 Sl S8 RES|RE|E FEE- s PR ENAEE 54
+21 8 sgr |88l & IEISElS BSY mmln.>r|9u(5 < 3128 A%
+- P
+MAIN_ AR coppesceg, | 21 65 1202 5| op |se| conT |F|ase|aisog |iel—|—| A | —| = |se |URIOISIOIOIOlO i
+~ ; - L 1= 1
+b olo|e
+Mran ool Saw. ponp |21 30 /800 1v1TF [sc| conT |Flaw|el s lrso|—| -1 acs | —| — | #p[wr{O}/6| 00| @| O|Olga| —i220| — | —| ~ |4t ol i 19)
+! =
+JEA WATER SERVICE A 2 | 37 soos v TR s | colT |Flave|2}o# |soo|l- |- Acs |~ | —|Ppluvr|O /01 010|212 10142 il B o gl Ko Ko K i
+CAMIHAFT .0 _ “=lo|-1]-1-
+LTeR__punp. (| o2 ] /260 TH| TEIXQ] CoNT I B[gwol3| s/ || - | AQ || — [OF ol - 1= |90 oy . .
+j 7 £ —|-
+Mo gre] oo 12| so | it |v|1r |se] oy || wwe|lpalirol—| -t st —| - |oplakiololoiol ololOlell - lz20) — 1= |~ e Cleeis
+& -
+maw oo pump | 2| 75 | sdes |v|7Flsel cor |pleeolslivg o | —loil aca = snigplurlalsioloi0]0] Oles —i—{ololoio 1
+R AR | e S, | g | T ° o
+CAM SHAET Lo pump 2] 37 s 8o |H|TE (A T (pigesls) 6d|reo | —| 1 Ack = | — | opRIO /90000021 s <)
+ATUFFING  poX — - —t-lo}-}-|-
+A oz | s2eo |HITF|A] donT [plemols | oo —j—| A j— | — |DP |0 olole|o|—i{—
+BRAN __purR i ; i P e W«WT'\ G ololo
+Fo. Supty pomp | z| 4§ | s2e0 |HITF|A| denr: /scmsa;:/:u—‘A;.:»—,kaoz,,oo;oon ) L
+] ! Rt fcoolied —fy |4
+F.o. dird,  pump 2! 58| 200 [H{TE || Cont [plaes|d| v/ /o] -] AS{~| = |BPIURIO aof‘f; ololeiolgl ololgje
+.0, TRAMSFER _PUMP 1,88 1200 |V]7F |sc| cont [Flesal3] 3 [wo| |- Ats (= | = |pPovpr— | —joloie (PO~ ol-|-|—-
+Sl Poo_pup L1t 221 sbos |ulTF|ae) cony |plam|slelrm|—)~] acS ) ~ 18P IRIO |0]9|219 D) |4 Oj-iole
+i;i.:ﬁ;&”:ip ty 7.8 , 800 |H|TF |sc| cour |Blatola| s |rsw |~ —[ALs | = = leP ovp|~ |- [O|O[C O -1~ |ng~ ==}~ JE U 5% S
+BOILER FEED -2 mr-qeﬁ [~
+WATER _FPUMP ﬁwhj/z.f/x‘)»‘A@‘-ﬁ‘ﬁquRO/GOOOOQS’—u_""NC —{—{a|Q|ele
+Ll | i
+= |
+Flesol 3|33 lip|=| - AR |- | —|oplovp~ | -{el A 0| 2|0~ |0 |20 = |~ — —=lel-i=l=
+. <
+Blexel 227 | o |~ |—] AR [ OVL
+- = o PURIF.
+28] 750 ~] — 1 A 5) rﬁ
+S £ e TR
+Blaxol 2| 7 | /88 ] ALY |0 ©
+IRIENEN HREEN
+Drip-Proof (zp-ax) " ; Squirrel Cage rotor . | ALS: Across-tho-Line Start UVP: Umdar Voltage Protection FS: By Float Switch
+: Vertlcal mgign;l:;mf) V |,'oﬁ\dlf°1:;0; " ATS: Auto-Transformaer Start UVR: Under Voltage Relense MC: By l\zdll;rv relay
+Uaterproof mp-ss Fu ontinuous of Megnetic
+0: Provided S CAM L pp Full load {1/2) Hour REV: Reverser IS : Limit Switch Contactor
+-: Mot provided  SE: Semi-Enclosed B : Class B insulatfon FC : Pole Changer .MV 3 Magnet Valve PS: By Pressure Switch
+: Totally Enclosed (p-w2 P : Class F insulation
+
+. ©LMIT S LAASE METOR STRRT INTER(SoL
+
+:ro(m% enclosed, Fan cooled - Syr: HeATWR &shed TIPE
+"
+
+==================================================
+PAGE 3 of 7
+==================================================
+l Hotor liotor eontrols
+. Start.
+: X TeH=4 T
+e 4 5| = = | ®e ]
+K] g o ST ¥ % el
+|4 - 5 3. FRENE] - R
+& - 2 7 180,815 ol o7 8 e
+@ 21 % [ 28] » B 38Ry TESRE
+JETEE k|45 2 BISIE :EEP 2353 Ed
+s1 8 158 \Z|& (2 2 |28 2|5 2808 Fel2slg B2
+FIRE B G5, pump i lis2/a0 ,goa/uoa}v T | el cont |7 ere] 2 (Pl 125 | |sw| ATS " [45 | P |2p luvp]
+FIRE 8 BILGE Pump 1 |s2ra0 ) ige0/1200| V| 7 A con | Flew 3% 26| —|sw| ars ‘51/”- 2P Juvpl =1~ Q
+alo[o ST
+- BALLAST PUMP z| 10 1800 |v| 7F {se| cont 1r|aols| e im|-lsn| as || = |eplove| =1 =|o]o]o| o]0l - o] - |- |- 1 = |®=2|5]3 |0 &/w.z:”l
+9 5 Dccces 002 L r comtFs
+ARG M e | 1] 12 | e Lv|7F sl cenr F«voS/sE/m—MALN—*9PUVP'—Ooomoﬁs—2mf—-*©“ slelo 51
+H Joun oK Tt ~ L] -
+RALAST PRIMING porp |2 | ¢ & rfon |HTF A2 ont |8 awola| 58 [ o0l || Ay | — ~}puVEDADOQO005'!)‘3—?10*/‘“7'5— olejo o
+SRR il
+WATER SPRAY PUME ¢ | 220 (®o0 V| TF |5c| conT |F 0|3 |0 |/s0|—|su| ATs lac| - |#p juvri— | -i1oj0]0|C |0 |G| = |20 — |~ [} = b, 1610 (D
+i AT e [ ko [Fe e
+pILGE  pusp 1] 275 | jroe |H|TF || conp |Blawoi3|n9 liee| - | Acr i~ | — [orluvp|— |-lalojo|ol—]—|ofz2e] — |- pd — [*« "] -0 b O R il
++ ; !‘ Astimee AT
+RUPGE pumi i &5 1800 |H| TF R} conT (30,4 oA i | — epijuvpl— [— Ol 0{ Q| —19 |220] — |- [ — ||| Q|- |—|— arp.
+Hovk| codarel® 1y
+FRGSH WATER pump | 21 3.7 360 | VITF|AS| JoNT [Bladee| 3|67 0| | AR [ —| — WUVRO*;DQ olaoje |0~ 20| — tps{—| — iy — =
+ECE/?A;;:Z:&K}UMF /1 3.7 3400 V| 7F [SC| conT B¢4o347/50~—ﬂLs‘7 — |pP luvr| O |20 0 jo| 0O | = | ~ |0 20| — [Ps|—{ — —|-joj-i- [~
+& ConliR CHEMICAT : .] R O IO S
+P emsung powp | 1] 1.5 | se0 || 7F |5e| conr |plevels |agel s | | o = | —lerlupl—|—l0loi@lo | — *‘I':’; -
+f Ri7TF
+e co, pring pusp | £1 0-% Hl 7E 2] conr | |seel3|s0 -—A«_,:}——fapwkoooo_gl —{of-le2of - |S]—{ = -
+HOT WATER i - _ P N
+et J I} oa | rde |y|7E 0| donp. |8 |ee|3 s soo] o~ A I | —|op lwp|= (=00 |0 | - |G| —jz2o|— -] — o 154
+]
+, :
+i H "] -
+TNEIWE  foonr { b
+VENRT.FM 2| 18 | 4260 |V|TF A cear (p)9ee| 3| 28 || s 1] =l |kl 9lzo]ololo ool —|o |elad === —|~lol-1-]-
+7 Pt A B B -~ _ -
+Ho Cwvo 33 1 5 |_r2ee |V|TF|S| CoaT |B[9%0 3} 28 - AG — |Revisp (WR| O 2010 012 )0 | O | O |220fe o —1—| — - o|=t—-|—
+porires Koen |1 ogs| sdee |V 7E|3¢| cbar |slevol 2| —1-| Acx L] eplor| o5 |ofole|e 9 °
+: i 2.2 7800 V] TE|Ac| conT. |B|<rois a8 —i— M*r—épw—-cooo o
+T B
+. 2| 15 | r8 [H| 7F|2a| cony | plawd 3| 24 /D——A@W—» rejup| [ =l o]o|o]e
+z < 2xa|3 | 9.8 /00| | — —|=1Te|up—|—lolo|e |0
+L0, PURIFIER d ONT._| Bl A"‘—‘f
+e to BURIF H ~ 68|80 | -~ AR i—] — wp|—t—|0]o] ofe
+
+Noter . B
+
+H: Rorizontal DP: Drip-Proof (Zp-22) s¢
+Vi Vertical Explosfon-Proof WR
+faterproof Czp-s6) Cont.
+
+Squtrrel Cage rotor ALS: Across-the-Linc Start UVP: Umder Voltage Protection FS: By Float Switch
+
+Wound Rotor ATS: Auto-Tranafomacr Start UVR: Umder Voltage Releasa MC: By muxiliary relay
+
+Full lond Continucus . of Megnetic
+
+0: Provided AP Splusy — PrROSE. {1/2)r.: Full load (1/2) Hour REV: Meverser IS : Limit Suttch Contector
+
+= llot provided SE: Semi~Enclosed B : Class D insulation - PC : Pole Changer . MV : Mognet Valve PS: By Pressure Switch
+
+T=: Totally Encloscd(p-e) F 3 Class F insulation - LMRT: ST INTERCS
+
+TF: Totally encla:ed,?l’nn coolod . SH:HEATmg ELEMENT 1P y EEHCARRE el * )
+
+Cp-wed W : apaBeg oM METiD.
+
+ey = XICA Shh MOW RER DD
+
+==================================================
+PAGE 4 of 7
+==================================================
+-3
+liotor controls 1
+
+Hotor
+@ 5 el ] o '
+g £ o HEISEIREE ¥ [ ] & s 18 : e |
+5 g g 5 9|3 » £ o 5% Ay b [f 5 i
+5 s | 2 i Flel |28 =2, mal oiF geb B i sEsRE S s | 2 FOE Rk
+& £ 8 | n S Bl 52 FE o, A8 RS LM Lo 15 13 bl s ! ol w3 PR BEseE B
+3 5T le] o |8 » S| 8|8 & ke ﬁ 3 MR ES RIRE BhehcBeltal 5L Sel 52 LeBsEES4ksiee .
+s 2 28 BIE|3] 5 BB 1B B 1850 828 Feladlp Raprnpebenassiersnslstss B S5 BaRghgadises
+2] & 58 ia é:; a - ]S IE|3 BIFE|Rla b s FEF 8 L1538 158 7
+ﬂmTFLM%wg 1l s | ogee. [H| 7P || conr-lwlomlslagasi- (| acr|— |- 1eplpl—i-lOlOIQ1 O] 10 720l — =) — *—O—‘l—?vmw,
+’9”7;’;1?9%,, (| s | ven |Hl 7 |nal cenr {Blesols|izb| ]~ |~ acv | = | = leplvpl— =] elo]oje|=|—[alz2g —| ]| = —-|ol- 1ol
+AR
+. _ N DR I J g . ) kg
+unsversae machmw€ |1 2.2 | 7B | H| TF iRd| ConT I Blewe |29z /80— | Ay | — 2 |up)|—l—[-| -]} 0 © l22 * L=
+il . n
+| — == -
+FRINBER (”»féﬁ“) ome | e [HTelse| Vour |Blem|o|2siito| |~ acr | —| = |Pplopi—|— |- O O|— |~ IO |z200 — |~ |~} — SIE)
+.5 | d€eo : ot T I v _tel- o1
+coT. AR PRYER e e TF | s¢] conr: |Elroo|s ] | =] aw{-|- |sp|ue|O [ 0l0|00 Qlo0
+™, TxH. VALVE 2 X3 o . | =~ ===
+v//fu/; eaT grmpee| | | o f TF s ewo |3 paglrat = | —L AN = | — |BpILIPI— 100102 220 : 4
+3 /Zae ’9-/ [ T D O - _ - l-lele
+TNNC oot CRANE | 1| ST tger yl TR lae] Y |Flaee 2] i - i Acs|— {rev| mpluvp| —| -1 -]~ 220 o
+Mfe TuRNING _GEAR [REE3 szoc T 3| _cowr | plewal3] /1 i~ Al RV gplap|— |~ O ) ol—folze| -1~ f el il ol A0 %4
+f
+i 5| —_ =
+AuxiLIART. Flower | 2| & |- adoo M| T el coaT m‘li %6 —[- s =i - leplogloffsl0lolo oo~ pmdm| i - ojeio
+1 T
+AUx . BoiCeR | r <I
+‘FvD PurMp. (o4 1200 |yl TEIx] ConT. |F|eal3is2 -v;&gﬁi-—-ﬁfuvp—-oo oj—|ol- —-1— fntl ol A Rl Bl Bt
+F.®. FAN 1| 75 3¢cp | H| TEIRe| cony |Fle%0|3 (/26 d—i—] as |~ — |ep|lwpl~ - |0]C O|-10|~|20f0d—|—| — —j—oil=]-]- ]
+PILOT puRN. pusp | L | 0.4 1200 |H| TE|B¢| conT. |Flaed 3[ o] -l s =4~ |eplup|— |- 1oloje o] 0]~ {2okad — 1| ~ —l-fol-l-| =
+WASTE O/t ! jess - 1| —_d—lo|-{-1— -
+fuRMING_purp AKSs r200 |\w{TF |5l cont |Flee]a] n2 -|-Jas |-}~ |erlovpi—|-|0j010]O|—| 9|~ |220lmq — || ~
+3400 N2
+[NCINERATOR !L ;525 M| TF{sc| cenT |Flom 2| o8f —’AL:——#uvﬂ—»oooo—fozzcunskf— ~|=lo{=]=]~ I
+bN! COLER €. e, 1
+PSSOy 3800 |mlTF [ae pleelalge]| |~i-] A
+/200 {#| TF|se ® <N-_D}3E7$’ -l
+
+Notes
+
+H: Hor{zontal DP: Drip-Proof czf»m sc Squirrel Cage rotor ALS: Acroas-tho-Linc Start VP: Under Voltage Protection FS: By Float Switeh
+Vi Vertieal EP- Ezplosion-Proo VR found Rator ATS: ‘uto-Transfomaer Start UVR: Unier Voltage Release MC: By auciliary relay
+Vaierproof(q-_«) Cont. : Full lend Continuocus ., of Magnetic
+0: Provided Sf‘ SPLASH — pRinr (l/Z)Hx' Full load (1/2) Hour RV: jteverser 1S : Linit Suitch Contagtor
+~: Not provided SE: Semi-Enclosed Class B insulation PC 1 Pole Changer MV : Magnet Valve PS: By Pressure Switeh
+Tt Eaelos a33 F insulation a INTeRLBcl: .
+TZ: Totally 1sedur—«)!’ ¥ Al;na A e £ HeaTer, - Lﬂtl.meuwymﬂr
+
+tOTE: Toh.u; enclo..ad, Fan cooled m
+
+TETIE )
+
+MERITa K e
+
+==================================================
+PAGE 5 of 7
+==================================================
+Iotor Hotor controls
+; Starter T o
+8 2 g o &
+3 g ¢ ki 3 < E B
+£ 5 8 = @ R o e LBl [P0
+S ] 3 g | < 5 boee (PR L[5 |28.8F 38Tt
+° Bl EE RkI%|E| 5 BB F BB R e mEL L B
+L s| 3|28 BIEI3] B K EERLTRERECER e A sy
+- - ol
+HAIN_CARGS pymp J 8¢ | P fvleplad] cor |F wpl — | ~{0|olo e el — [220] —
+I
+ey S ; ¢ Bewe> Fxd o)
+°’3me 2| s05 | 36 |H| ep lma] o F«me/élm—wus—-ﬁﬁwp——OoOf?Ow-“"—*J—. -lelel—loo
+| 4
++ £IN reec
+ARG Qe o] x I ceed| _ - 1
+dkm:miu;at 270 | Geo W[ TF (x| cenT |Flewol3 (478 sx¢ |~ Al ATR M—ﬂf""l’"‘o"°°o§$’_2m*’oo®( SRS l
+: T ; I
+i
+|
+’,‘I;Z'wwm 2] 71 /800 |H| 0P |nd| coaT |F|eee|2]ss8 0 |~ [sul aca | — [#plap|—i—|O|O|C|0 O]~ |ojad —|—i—] = —= ===
+S 1] g8 | 3b0e [H|Tp e | conr | lemls|as]ie || = A | = | — |gp|apl~ G ololol-llolzq—|=]-] - 1"""&‘
+7 I JEG DS
+TS coposngn |11 88 | i500 |olarlma] conr [Flew|olios| i =] aem = | = [gplovpl =]~ | ololo |0 O] | om0 - |prlmi —i-]-
+i Eracee)
+AERATION AN /| 288 3800 |H|Ep [ad]| ConT F«orﬂszzt-mﬁ.@j» — e luvpl =1~ @ {Qw —zzul—f'— —|—{0] 7| 9| imST
+! v L 5 _ mm<>|
+GLyeel purp 2|9 3800 |H|r |ac] char [Blaws|s s | a6 -S| A~ | T |# “’l’-‘°°°°°v'2"r—“° ~-{e[—|ole
+/ i .
+| |
+— - 1 kﬂ.m)
+| [ =
+CMQ"“’A%'M"”’" 2| s5 | rBoo lv|ep(se| con [Fleme|s| 26 [rs|=|sAi aen |— i |op |wp| = [~ |olo|o| ol olay|—{zo i = -1~ | ololoi-l-l=| |
+¢ lev. e
+,NoT-WM 2| < 1800 |vlep |xe| cony {Flerols | 7.0 reg|=|sH M‘-v»pmﬁn—t_—__looo o) 0| o) — 2285 ~| =] — ololet=]-|=
+!
+1 T Jr |
+H: Hortzontal Drip-Proot Czp—asd SC " : Squirrel Cage rotor ALS: Across-the-Line Start UVP; Under Voltage Protection FS: By Float Switch
+V: Vertieal Explogion-Proof s Vound Rotor ATS: Auto-Tranafommer Start UVR: Under Voltage Releass KC: By auxtliary relay
+Haterproof t-+¢) Cent, Full lonad Continucus . of Magnetic
+Provided | Jpeosn i id (3/2)Hr.: Full load (1/2) Hour REV: Heverser LS : Limit Siitch Contactor
+Not provided Semi-Enclosed B 3 Class B insulation PC : Pole Changer , MV : Magnet Valve PS: By Pressure Switch
+Totally Enclosedap—s) F : Cla3s F Insulation . - &z, Tnfation Switch
+
+H Tot?lli:x;cl?{ed, Fan coolod H:*TNW ELEAMENT 7}'7'5 TR g LMAT ;LA AMOTMR BTPAT (MRS
+
+o
+
+==================================================
+PAGE 6 of 7
+==================================================
+I— Tiotor liotor controls |
+. Starter . | mE & WEET
+H !_2 o HEI SRR % EST 1. L E :% i
+b g & et a4 5 S
+@ 4 €% le| 518 5 BIS ST Bl Lt TS RERE o]
+. - C 9 g o ‘c’ £ g va a Pl ‘6 - o i o 9 K3 8EA Ei
+21 8 s l@lajst R.IEISE|S B b PESlasls BLE
+Ao, *
+ATERwG  GefR | [ 37 oo |H| 7F Flege 3| 61 |oon|—lani acu | = | — I splumlO otols|o|0
+—, »
+2 D1 o1 | veoo [n] 7 melol Sl | conl | 87 |l |l il 4] — |2 lovel 0] 0l 0] 0] 0] o] _
+e 3 ™ R Y Y O O
+M;W.P‘W‘RH‘:”";NC&‘Z?D/BE cien 1] op |0l K| F|aen| 2| Foal soo | ~|wi Ac |~ ~ lepluvpl —| —l @] o] 0| 0| Olas]— |20 — | = || =
+WER UNI (<7 , 3 _ [l )= ===
+TA:JZ;E"::!W’VMT%zéD/Rg don |H 0P Lo |55 £l wwol 5 | gl cto|— om| Ao | —] — [#plovpl —|~]0|olo| 0[O|Gs [~ |220| — |~ || — |- ]
+|
+&-Ton i KT K3 . _|=lelolololol =0 l2ze = |- lest = —[-[-|-1olo
+FROVIS/IONS__CRANE / §'§ M v wp |se| Vi Hr |8 |#40]3 . ~isHi Ars pp {uvp |
+7S ToN 3 ragd g - J - —|-lojojo|o o] —|o |e20] - |- lis| — ot il il e R
+PROVISIONS CRANE s Lge | ke (U wp |Sc| Ve Hr |B|#0|3|3z | 5:} ALS | ﬂi uvp o =
+A Fio. - - =1 —|-toleleotel— — |zzop 22y —i—1 — ojolol—|oje
+2| 8, 2. v x| conT. arol3 | 33 | 50— |nf AR ) bl -4
+TRAY. P 51 (2o TF1 £ - T EeRd ek ||| _|_1_| |55
+tone HANDLING dgwEl | | 93 s8oe lylep |sd) 30%EP | Flgee| 2| 77 | /0]yl ARy — | — gauvp——ooooo—On‘)— ! 4
+. : 1
+LIFE POAT Winch (] 27 | /soe || wplst) Ve (F|7e0l3] 72 —omf Ak i — | — I opiuvpl — 1 —1O1Q[ 19| -0 220 — [ s o o e i 52 5
+S 1
+“F“/;T;"Z,MH 11 % %% 1| P |se | 15 Hi |Flamola PR I (5] Ace i— |eeloplupl—1—[0]ololo|o| o] - 220 — [ ~ied] ~ - =i-[olo
+Hyo. T Fore 1 ek e~ -
+aiye cormrec 2] 55 | o0 |H|TE [a¢| CoNT |glew(s| 28| ss0l—|| Acs (- | ~ |eplugl oo |Ol0jo] 0l0 O |20 — jprlm| =
+J 74|
+pk.v_kf,m»?maﬁz 25 r¢on |H|TF &S] ConT. |Blawsiat /3 [/s0)—I— AR — | — | ppluvR| Qj20| 01 Q| O] O | QO | — 12201 — | palpa] —
+R TonD. A
+ﬁ,k&f}:_aypw 25 37 rdos  [H[BP &) conT | Flaso|s|éas) molo| =i Acd i - | — SPUVf—J-‘OoOOOO—ﬂU—/:»—
+7
+AR D 2| 1 | sée |n| 7rise] conT [slaeslslbalrtmlo]—1 Acs = | — |lopluv— |~{ojo]o] ololo] - jue| —|—i-| —
+i -
+L
+UENTICATION  FaN | les-2 O O O .
+s qorm ety rp Reesy| 1] 1S /600 WP a2 | CoNT | &|m| o] 2. |ree|—|oad ALK j—] — © |G| — k220 — = h%”“wﬁrr
+VENTILATiaN  FAN = P I ’
+l(pufwvi'mkss-gu_ng ponpped 1| 0078 {Boo Trln| ooy, lB|ee|2| 7 el pay Aok —| — o|olo | ~lgq— 220 —{-i— r o OT £IS
+) I
+. 1
+VENTICA 0N FARL _ s o) mtﬁmc«aﬂmﬁu, -
+Cerrern (Rew Oosm) ! /800 | ConT | Blerss| ro0 oo —| o |z20] &
+Note: DP: SRIP —PROCF (P~ 22) WITH PNEEL HEATER
+H: Hordzontal 3 Drip-Proof (zp—as) sc ©° : Seuirrel Cage rotor ALS: Across-the-Linc Start UVP: Umier Voltage Protection FS: By Float Switch
+V: Vertical : Explosion-Proof YR : Wound Rotor ATS: Suto-Transforuer Start UVR: Usder Voltage Release MC: By auxlliary relay
++ Haterproof (p-e Cont. : Full load Contimuous of Megnetic
+0: Provided Sp: SpLAtY —preoF (1/2)Hr.; Pull load {1/2) Hour RSV: fteverser IS : Limtt Switch Contector
+-: Not provided  SE: Semi-Enclosed B : Clasa B insulation PC : Pole Changer LMV s Magnet Valve PS: By Pressure Switch
+-TS: Totelly Enclosed (zp-ee> F : Claas F insulation R . &2Rs . ZEWATiaN SWITCH
+% HEATAIG ELSMENT TIPS Spack HEATER m-‘,zfms"‘"”w Taay mrEAach
+
+Totally enclosed, Fan cooled - . &%
+[ :
+
+==================================================
+PAGE 7 of 7
+==================================================
+N F=sr
+
+lotor “otor eontrols
+. ﬁ Starter . o
+o n =~ kis | g P s | £
+K] 2 o HE SRR Lg & SR (a8
+£ : g o NI EHE B3 [3eE |8
+3 . £ S 5§ R S @B olB BEL 53 5B 8ol kot b
+* 8 5% lef S18| » [EI818) L |Eold L omng s EER ol SE B E Ro2IB 814 P
+s| 2| 55 BiEi8] & BlsElE 250 i Mi ss|ad)g pak Bl espeE B
+21 & a8 l2ialel A.E|ISEIE RSl s @eleslg Bep w;gﬁ_ﬁai&i
+.
+sauer oo pan. | 1| 1.6 | sden |V|wPirel et |pldeels|s bl Acki= |~ loplapl~lH0 Q0= |5~ bl et e
+IE5-2]
+No./MTﬁﬂ’EXHW 1| 5 sfoe M| 7P |5e} conp |Bjere|3|29 || acs|=|- [splupi—]-lolojo]o)—|gs - |220] |- || —
+2|
+pio.2 ARY Exip PN (| 076 | s [H| TR [Re] conT |Rlacel3isd (| e == {2 lop| | =1 0| ol o] 0| [qe|— [2201%7 | ~| —
+PRoY. Syt Ter Foei | || 075 s8I | TE [Re] N7 | B|avel 3 —i-| A | —|— ﬁpuva—ooookq‘_szﬁl-_— PG DU R O I
+PAINT STORE _EXH. FAN |/ 24 se00 VA EPISC| conT [ BiH0|3] 20 | Acs |— | — [#Plevpl—[—[R1° Owo - |GH — 12054 - -} — | ==~
+! - L -
+R TANK 7 RELAY BoX . H 5-2]
+&amh”’éﬁw’“”/ ons | rdeo A TF [e| oot B ool #146 4= | a1~ Teplupl —|-lolo|olol—|gd—lz20 J— —1 - [ el Bl Rt el et
+o] WATER ciec —f— —_t ] =
+’;ZMME\,;';,\{;W’/ ags | sbe |4 T Ae Cony | plavol ¢jyg¢) se0]~ |- Actt—1 — Ipplapl~|-]O ol-|e¢|—izo |- i—| — o A
+]
+i
+-
+1 |
+VENTILATON  EPN ’ s~ J ) DU G
+€ Con ,‘g,,,,,, 11075 | /800 |y|TF |Ac| eonT |plaweiz2|s.6 bl I ol Ml X 7l el B4 L2 = e Gel— 220 i—i—l— i
+L L
+Ef#qlm; ’f/vf HlTE o] conr |8iesol 2] 27| 2e(—{~ Ab‘v—"P“V20°°O°0—;l°1“’-~rfa* e o 2 Sl
+J
+EMERGBUCY FIRE PP 1/ 55 800 |V | TR |SC| conT |Flieso|z]| 86 [/So[—5H /\TS.{D.—bPuvP——OOOD%O—OzzD—*—— -i-|-i-lolo
+ELEYATOR /| 37 7200 |H sc| cont [Ble401 3| 29 —-{ALs = | — lerlepl—| - |0lo{@]o|Q1=[C k20| = |~ { -] — I
+7.
+I _I ! t’—‘
+B . T L_J_P
+
+Note:
+
+orNoT
+
+©PRIP —PRECAr- e O phrat. HERTER
+
+Totelly Eaclosed
+Totally enclosed, Fan cooled
+
+H: Rorizontal D®: Drip-Proof
+
+V: Vertical EP: Explosion-Proof
+WP: Waterproof
+
+0: Provided 2:- LA — pRRoF:
+
+-: Mot provided  SE: Semt-Enclosed
+
+sC
+VR
+Cont.
+
+(1/2)ur.
+B
+¥
+
+: Squirrel Cage rotor
+
+Wound Rotor
+Full load Continuous
+Full lood {1/2) Hour
+Class D insulation
+
+Class F insulatfon
+« HEATIg Elopeny
+
+€ opAce HeATSE.
+
+ALS: Across-the-Lirie Start VP: uwu-vnu\,u Protection FS: By Float Switch
+
+ATS: ‘uto-Transformer Start UVR: Linder Voltage Releass MC: By awdiliary relay
+of Magnetic
+
+REV: Reverser LS : Linit Sultch Contector
+
+PC : Pole Changer . MV : Magnet Valve PS: By Pressure Switch
+
+. . umr LARGE HITiR STAET INTBELack
+
+KPR x e x - A3hu Sis IOHCN HEXBD

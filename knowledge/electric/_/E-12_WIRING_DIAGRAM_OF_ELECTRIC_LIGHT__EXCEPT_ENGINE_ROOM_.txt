@@ -1,0 +1,2978 @@
+SOURCE: E-12 WIRING DIAGRAM OF ELECTRIC LIGHT (EXCEPT ENGINE ROOM).pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:16:49.487359
+==================================================
+
+
+==================================================
+PAGE 1 of 65
+==================================================
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+¢
+
+WIRING DIAGRAM OF
+BRECHRIFGRETEGHT
+(EXCEPT ENGINE ROOM)
+
+hnical docuir
+
+is the property of
+
+Kawasaki Heavy lndustries, Ltd (K1) and may
+1ol be copied, not disclosed Lo any third paity
+
+| without KIIP's prior writien consent
+
+DWG N
+
+MANAGER
+
+CHIEF
+
+CHECKED
+
+LD
+
+LB JOBNO —
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+DHAWN - G st i
+AKAD! SHIP DESIGN DEPT, SHIP GROUP
+SegiEn
+patE MAY .30.1986 1456
+Wi wm nED A KAWASAKI HEAVY INDUSTRIES. LTO. ©5 SNEETS WoL coven
+
+==================================================
+PAGE 2 of 65
+==================================================
+P50
+
+Note :
+
+The working plans which are referred to in this plan are revised e¢s the
+finished plans as listed below.
+
+Therefore the reference plan (finished plan) is to be referred to in
+
+accordance with the following list as necessary.
+
+Dxg.No. Title
+
+Yorking plan Finished plan
+
+42-101 E- 11 Wiring Diagram of Electric Power System
+44-101 E - 12 Firing Diagram of Electric Light
+
+(Except Engine Room)
+
+44-102 E- 13 Wiring Diagram of Electric Light
+{Engine Room)
+
+45-101 E - 14(1/2) ¥iring Diagram of Interior Communication
+& Nautical Equipment
+
+45-102 E - 15(1/2) Wiring Diagram of Machinery Contral &
+Instrumentation System
+
+45-103 E - 16 Riring Diagram & Arrangement of Fire
+Alarm System Combined with General Alarm
+System
+
+47-101 E-T71 Wiring Diagram of Radioc System
+
+56-101 L-171 Wiring Diagram of LPG Communication
+
+==================================================
+PAGE 3 of 65
+==================================================
+22N1456 DWG ND. 44-101 P-G1
+INDEX
+
+LINE ITEM PAGE REMARKS,
+
+t GENERAL DESCRIPTION 63
+
+2 LIST OF LIGHTING FITTINGS 64-610
+
+3 SCHEMA OF ELECTRIC DISTRIBUTION a1t
+
+a POVERING TABLE o1z
+
+5 NAVIGATION LIGHT B 1
+
+5 SIGNAL LIGHT 2-a
+
+7 DECK LIGHT CONTROL 8-9
+NORMAL LIGHTING SYSTEM
+
+) (LIGHTING DIST. BOARD "L-NA") 10-14
+NORMAL LIGHTING SYSTEM
+
+9 (LIGHTING DIST. BOARD “L-NB"} 12-18
+NORMAL LIGHTING SYSTEM
+
+10 CLEGHTING DIST. BOARD “L-NC*) 18-25
+NORMAL LIGHTING SYSTEM
+
+11 CLIGHTING DIST.BOARD "L-ND") 26-33
+NORMAL LIGHTING SYSTEM
+
+12 (LIGHTING DIST. BOARD "L-NF') 34-36
+HORMAL LIGHTING SYSTEM
+
+13 CLIGHTING 01ST.BDARD "L-NY") a7-3g
+EM'CY LIGHTING SYSTEM
+
+14 (EM'CY LIGHTING DIST.BOARD "L-EA") 40-41
+EMCY LIGHTING SYSTEM
+
+15 {EM'CY LIGHTING DIST.BOARD "L-€R") 42-44
+EM'CY LIGHTING SYSTEM
+
+16 (EM’CY LIGHTING DIST.B0ARD "L-EC') as-ag
+EM'CY LIGHTING SYSTEM
+
+17 (EM™CY LIGHTING DIST.BOARD ~L-EF") 49-50
+EM'CY LIGHTING SYSTEM
+
+18 CEM'CY LIGHTING OIST. BOARD “L-EY") 51-52
+
+13 TEMPORARY EMERGENCY LI1GHT 53
+
+ERi-1
+
+FORM 1(5.10.40, 70. 40. 70. 4a. 10)
+
+==================================================
+PAGE 4 of 65
+==================================================
+GENERAL DESCRIPTION
+
+AS FOR DETATL OF RELATION CIRCUITS REFERENCED HERE[N, REFER 2-3 EXPLANATION OF THE CABLES.
+
+TG THE FOLLOWING PLANS RESPECTIVELY
+A. THE FIRST LETTER STANDS FOR THE NUMBER OF THE CONDUCTOR.
+
+0WE. NO. 42-101 "WIRING DIAGRAM OF ELECTRIC FOWER SYSTEM" T i TRIPLE CONDUCTOR M ¢ MOLTIPLE CONDUCTOR
+R D : DOUBLE GONOUCTOR MORE THAN THREE
+OWG. NO. 44-102 "WIRING DIAGRAW OF ELECTRIC LIGHT
+(ENGINE ROOM) 5. THE SECOND LETTER STANDS FOR THE KIND OF INSULATION
+D¥G. NO. 45-101 “WiRING DIAGRAM OF JNTERIOR COMMUNICATION MATERIAL.
+AND NAUTICAL EQUIPMENT® F @ TEFLON
+DWG. HD. 45-102 “WIRING DIAGRAM OF MACHINERY CONTROL & P EP (ETHYLENE-PROPYLENE) RUBBER
+INSTRUMENTATION SYSTEM® SR : SILICON RUBBER
+
+DWG. NO. 56-101 “WIRING DIAGRAM OF LRG COMMUNIGATION C. THE THIRD LETTER STANDS FOR THE KIND OF SHEATH.
+
+2. CABLE APPLICATION F i TEFLON
+GENERAL CABLES USED HEREIN SHALL BE CONSTRUCTED IN ACCORDANCE * FOLYVINYLOHLORIDE SHEATH
+WITH J1S OR OTHER EQUIVALENT STAWDARD (JCS 390) FLAME RETARDANT L ¢ LEAD-ALLOY SHEATH
+
+ABLES® ACCEPT 8 .
+chp ED BY CLASSIFICATION SOCIETY. [N GENERAL D. THE FOURTH LETTER STANDS FOR THE TYPE OF ARMOR
+
+4LL FLEXIBLE CORDS TO BE 660V TPNP-1.25 UNLESS OTHERWISE © : BASKET WEAVE STEEL WIRE ARMOR
+INGICATED.
+E. THE FIFTH LETTER BTANDS FOR THE TYPE OF OUTER COVERING
+2-1 RATED VOLTAGE OF GENERAL CABLES USED IN THIS DIAGRAM IS ¥ @ POLYVINYLCHLORIDE COVER
+INDICATED BEFORE THE CABLE DESIGNATION {E.G..LD-2). IN THIS
+CASE "H" MEANS 660 VOLTS & "L° MEANS 280 VOLTS. 3. PROTECTIVE DEVICE
+2-2 THE CIRCUIT NUMBER AND CABLE DESIGNATION DF A CIRCUIT PROTECTIVE DEVICE FOR EACH BRANCH CIRCUIT IS AS FOLLOVWS.
+
+SHALL BE INDICATED ACCORDING TO THE FOLLOWING EXAMPLE,
+-MDLDED_CASE CIRCUIT BREAKER,
+
+L-Do-1 TB-6P : S0AF/SETTING 15-SOA(TERASAKI ELECTRIC CO.. MAKE)
+655 = BREAKING CAPACITY : 2.5KA(250Y) 7.5KA{125Y)
+Fuse.
+UC1  : 30AF/SETTING 1-30A(UTSUNOMIYA ELECTRIC MEG CO.. MAKE)
+L 1 250 RATED V. L2-
+OLTAGE CABLE(SEE, 2-1) BREAKING CAPACITY i 50KA (500v DC)
+o i CABLE DESTGNATION(ABEREVIATION 1S AS FOLLOWS)
+D...DPYC. DY...DRYCY. T...TPYC,
+TY.TPYCY. WL MPYC.  MY...NPYCY 4. AS TO THE LOGATION OF LIGKTING FITTINGS,ETC., REFER TO FOLLOWING
+3.5 : NOMINAL CROSS SECTIONAL AREA OF CONDUCTOR IN MMZ OR PLAN.
+NUMBER OF THE CONDUCTOR(IN CASE OF MULTI-CORE CABLES) DWG NO 40-200 “GENERAL ARRANGEMENT OF ELECTRICAL EQUIPMENT
+L-DC-1: CIRCUIT NUMBER OR WARK (EXCEPT ENGINE ROOM & HAZAROOUS AREA)™
+. 5. OMARKED ARTIGLES ARE ATTACHED AND FURNISHED WITH THE EQUIPMENT
+A : BYC COVER WHERE EXROSED TO WEATHER BY THE MAKER
+
+sspiNEE
+
+TOT-vb ON DAD
+
+29-d
+
+FORM 4 oeus=s
+
+==================================================
+PAGE 5 of 65
+==================================================
+22N1456 44-101 P-G3
+SYMBQL L IST LIGHTING EQUIPMENT(EXCEPT ENGINE ROOM) 1/ 6
+CAPACITY GLAND
+SYMBOL NAME OF EQUIPMENT TYPE AC ot [a REMARKS
+220v | 2av s1zZE
+MAST HEAD LIGHT APPROVED BY HE(JG) VA
+ﬁ@h DOUBLE TIER TYPE WITH FLEX GBL.1.6M | 60.0
+SIDE LIGHT APPROVED BY RE (4G) VK
+'4@* DOUBLE TIER TYPE WITH FLEX CBL,1.5M | 60.0
+STERN LIGHT APPROVED 6Y HK (JG) VA
+@ DOUBLE TIER TYPE WiTH FLEX CBL.3.5M | 40.0
+ANCHOR LIGHT APPROVED BY HK{JG) VA
+7Ny |SINGLE TIER TYPE ¥ITH FLEX CBL.1.5H | 40.0
+N/
+. WAVIGATION LIGHT INDICATOR  |COMBINED [N
+i NAYIGATION CONSOLE]
+{ooo
+L
+WOT UNDER COMMAND LIGHT APPROVED BY HK(uG) VA
+/Xy |SINGLE TIER TYFE WITH FLEX Cal,1.5M | 60.0
+REQ GLOBE
+Ny [WER DRAUGHT LigHT
+UANGEROUS CARGO L1GHT APPROVED BY RK(JG) VA
+Y ¥WITh FLEX CBL,1.5M | 60.0
+RED GLOBE
+N/
+KUGE VESSEL LIGHT ARPROVED BY AK{JG) VA
+WITH FLEX CBL.L.5M | 60.0
+GREEN GLOBE
+SUEZ CANAL SIGNAL L1GHT RED GLOBE VA
+FIXED TYPE 40,0
+N\
+SUEZ CANAL SIGNAL LIGHT CLEAR GLOGE A
+@ FIXED TYPE a0.0
+SUEZ CANAL SIGNAL LIGHT GREEN GLOBE VA
+@ FIXED TYRE 40.0
+SUEZ CANAL STERW RED LIGHT  |RED GLOBE VA
+@ FIXED TYPE 40.0
+STEERING LIGHT BLUE GLOBE VA
+@ FIXED TYPE 40.0
+OAYLIGHT SIGHALLING LIGHT APPROVED BY HE(JG) v
+By [¥iTH FLeX eAaLe 1ok PORTABLE TYPE 60.¢
+&
+SCKET OUTLET FOR P
+DAYLIGHT SIGNALLING LIGHT FLUSH HOUNT
+SUEZ CANAL SEARGHLIGHT VATER PROOF VA
+3 KW wITH 000. 0
+4 55 FLEX CABLE &M
+TNTERLOCK CONNECTION BOX FOR |WATER PROOF
+SUEZ CAWAL SEARCHLIGHT 508
+EE)
+THCANDESCENT PRGJECTOR 500W |w. 7. Va
+TOTALLY ENCLOSED  |500.0
+TYPE
+
+==================================================
+PAGE 6 of 65
+==================================================
+22N1456 44-101 P-G4
+SYMBOL L [ST _ LIGHTING EQUIPMENT(EXGEPT ENGINE ROOM) 2/ 6
+CAFAGLTY GANG
+SYMBOL | NAME OF EQUIPMENT TvpE A ERE REMARKS
+226w | ziv size
+TNCANDTSCENT FROJECTOR 1000W V7. VA
+TOTALLY ENCLOSED 1000. 9 2
+Tvee
+5
+L |LIFE 60AT LiGHT 500w Ve v
+IS TOTALLY ENCLOSED 500.0 2 EMERG. L1GHT
+2 Tvpe
+5001UM PROVECTOR 400¥ 2 7
+TOTALLY ENCLOSED 484.0 7
+Tere
+» -
+SODTUM PROVEGTOR 760¥ e 0N
+TOTALLY ENCLOSEC  |8a7.0 13
+TveE
+7 VoRKING TABLE L1eAT WV E A
+waLL oo 0.0
+.
+1 ENERG, L1 GHT
+) CHART TABLE LIGHT MW P VA
+@ ¥ITH DINMER SW{TCH WOUNT s0.0 B
+DOWN LIGHT LA va
+FLush' MoUNT s0.0 2
+VAL Cawp S v
+@ 0.0 14
+DESK LIGHT WITH DIMMER SWITCHIN.W.P. VA
+% WALL MOUNT 50.0 2
+DINMER SWITCH FOR [
+& |eAnmessENT LionT FLUSH wounT .
+DIVHER SWITCH FOR e
+® INCANDESCENT LIGHT WALL MOUNT
+2
+PENDANT LIGHT vV rURsTics v
+CLEAR GLOBE 5.0 3
+T
+PENDANT LTGAT VP GLRSTICS Vi
+CLEAR GLOBE 56,0 &5
+PENDANT LIGHT VP FLAGTICS VA
+CLEAR GLOBE 80. 0 27
+e " cvera. Lot
+TRDICATION LAMP P PLASTICS va
+@ RED GLOBE 10. ¢ 1
+R
+PENDANT LTGHT VP PLASTICS VA
+Gy |viev e Clehe sLose 0.0 i
+PENDANT L1GHT Ve rtasTics A
+@ WITHOUT GUARD CLEAR GLOAE 100. 0 1
+PENDANT LIGHT WP PLASTICS va
+CLEAR GLOBE 100. 0 12
+
+==================================================
+PAGE 7 of 65
+==================================================
+22N14B6 44-101
+
+P~G5
+SYMBOL LIST LIGHTING EOUIPMENT(EXCEPT ENGINE ROOM) 3/ 6
+CAPACITY )
+sYMBOL MAME OF EQUIPMENT TYPE A | DB o’y REMARKS
+228y | aav sizE
+FLUORESCENT LIGAT e 73
+- Cisy » 1) €9.0 s TEL B0OTH
+5ic |
+- —
+FLUORESCENT CEILING LIGHT [N VA
+N (200 » 1) MiLky aLose 33.5
+1)
+FLUGRESGENT CEILING LIGHT [ A
+22C 20w » 2) MILKY aLope 61,0 10
+22Ce ~ z EMERG. LIGHT
+356 ] |FLUGRESCENT CETLIAA CTGRT [N Vi
+(20@ » 3} MiLKY aLosE 112.5 28
+¢ e 7 EMERG. LIGHT
+FLUORESCENT CEILING LIGHT WP, 2y
+A1 RPTCREY) MiLky' aLosE 50.0 2
+dce 3 EMERG. LIGHT
+FLUORESCENT CETLING LIGHT [N VA T
+[z ) {aow * a) wiLky oLose 100.5 1
+dc@ 5 EMERG. L IGHT
+FLUGRESCENT CETLING IGHT [ VA v
+L (40¥ * 2} MILKY GLOBE 100.8| 6.0| 3
+426 E6]|wITH TEMPORARY EMERGENCY LIGHTWITH EL MARK
+FLUORESCENT CEILING L1aHT W.w. P, FLUSH MOUNT VA
+(20w » 2) MiLkY aLOBE 87.0
+FLUOREBCENT CETLING LIGHT W.¥.P. FLUSH HOUKT Vi
+(20w » 3) uiLKY aLose 1128 2
+23CSE; 2 EMERG. LIGHT
+FLUORESCENT CEILING LIGHT W.¥. P, FLUSH MOUNT I3
+(200 ® 2] MiLky aLomE s1.0 ]
+22CS UAKER‘S STANDARD
+S Y D T
+e 1200 » 3] NiLky aLoBe 1.8 a2
+UAKER'S STANDARD
+238 i EMERG. LI GHT
+FLUGRESCENT CEILING LIGHT v, VA
+(209 = 1) CLEAR GLoRE o 1
+RABID START TYPE
+D {WMER S¥TTCH 2
+FOR FLUORESCENT LIGHT ¥ALL MOWNT t
+FLUORESCENT CEILING ©IGHT VP VA
+22¢ (20¥ = 2) CLEAR aLosr 670 [
+220€ 4 EMERG. LIGHT
+=7 |FLUORESCENT CETLING LiaNT V. r A
+FIl 2o e 1) CLEAR GLOBE 335 2
+WAKGING TYRE
+2 EMERG. LIGHT
+FLOGRESCENT CEILING LIGHT V.7 I
+22 G 2ov e 2) CLEAR GLOBE 87,0 3
+HANGING TYPE
+22G € e EMERQ. L1GHT
+FLUOREACENT CEILING LIGHT [N Vr
+2 a (agw o 2) CLEAR aLoBE 100.5 23
+HANBING TYPE
+426G € ]| EMERG. L1GHT
+TXPLOS 0N PROGF €XPLTION PROOF TYPE VA
+FLUORESCENT CEILING LIGHT APPROVED BY WY 530 a3
+(20% & 2}
+
+==================================================
+PAGE 8 of 65
+==================================================
+22N1456 44-101 P-G6
+SYMBOL L 1ST LIGHTING EQUIPMENT(EXCEPT ENGINE ROOM) a/
+CAPADITY GLAND
+SYMBOL NAME OF EQUIPMENT TYPE AC_ | DC ]aTy| REMARKS
+220v | 2av s1z6
+FLUORESCENT DESK L1GAT XA 23
+o5 (i5v « 1) WALL MOUNT TYPE 69.0 28
+[
+FLUORESCENT WIRROR LTGAT VP wALL WounT IR B!
+2] | oom) G20 1% Mhew unit Sk alone 6.5 26
+MAKER"S STANDARD
+Mz3] Do (20v s 2)
+Tovaz 173.0 1
+FLUGRESCENT MIRROR LiaHT WP, WALL WOONT VA
+(150 » 1) MiLky GLoBE 69,0 2
+MSC
+FLUORESCENT WIRROR LIGHT [ VA
+(154 = 1) MILKY sLosE 69.0 5
+[M5S5] [coMBINED IN WASH BASIN UNIT [MAKER"S sTANDARD
+56| |FLUORESCENT PASSAGE LIGRT [ Vh
+(20M ® 1) wiLky aLose s an
+P2C e 22 EMERG. L [GHT
+FLUGRESCERT BED LIGAT ¥_P_VALL WOUNT VA
+B5C (isw » 1) MILKY aLogE 59.0 1
+¥iTH swiTch
+B5CE s1 EMERG. LIGHT
+5] |FLUGRESCENT CELING LIGHT [ VA
+21 (200 = 1) HILKY GLOBE 23.5
+MAKER'S STANDARD
+Zi se ;
+BAIC] [BALLAST FOR ORIP PROOF VA
+2004 » 1 SODIUM LAMP 1-Laup TyPE 48a.0 5 COAMING TYPE
+NB4IG 2 GRAND TYPE
+E7C) |BALLAST FoR DRIP PROOF Ve
+700 + 1 SODIUM LAMP L-LANR TYPE 347, 0 ) COAMING TYPE
+NB7IG 4 GRAND TYPE
+EXPLOSION PROGF GEILING LIGHT|EXPLOSION PROOF & VA
+WATER PROOF TYRE 60.0 1 EMERG. LIGHT
+APFROVED &Y WY
+EXPLOSON PROGF CEILING LIGHT [EXFLOSION PROGF & VA
+A WATER PRODF TYPE  |100.0 16
+EXPLOSTON PROOF CEILING LIGHT|EXPLOSION FROOF TYPE| _ VA
+ABFROVED 8Y NY 50.0
+o)
+: eweRG. LionT
+Gy |FXFLosTon 7RO0F GILING LIGHT |Expiosion pRoor vee| VA
+& APPROVED BY NY 100.0 3
+)
+© 1 EweRe, LioHT
+CONTROL SWITCH FOR orIP PROGT -
+® EXPLOSIOR PROOF LIGHT 3
+CONTROL SVITCH BOX FOR ORIP PROOF
+ST |EXPLesteN eRace LickT s
+FUDORESCENT CEILING LIGHT Ner VA
+(20w X 1) 335 2
+20
+DESK LiGHT) e Vi
+(60¥ X 1) MAKERS STANDARD 60.0 2
+BRANCH BOX e
+PLASTICS 1
+FLUSH HOUNT
+
+==================================================
+PAGE 9 of 65
+==================================================
+22N1456 44-101 P-G7
+YMBOL L [ST  LISHTING £oUIPENT(EXCEPT ENGINE ROOM) 5/ s
+CAPACITY Ao
+SMBOL | WAME OF EQUIPMENT TveE FEA e REMARKS
+adev | size
+ARANGH 50X m
+Flastics "6
+2 3
+TPare switen TR
+Plistios
+@ 2
+2-POLE SWITCH N¥P
+Blastics
+FLuSH WounT "3
+FPOLE 3wAY e
+EHANGE-OVER SWITCH Plastics a
+Frbon bouwr
+ZFOLE ZWAY W
+CHANGE-OVER SWITGH Plastics i
+Foun wunt
+ZFeTE S o e
+{oouBLE TYPE Plastics 1"
+A FLUSH MOUNT
+2-POLE & €ARTH CONTACY N¥P VA
+SOCKET OUTLET PLASTICS 120. 0 10
+(DOUBLE TYPE) SURFACE TYPE
+2 role 3waY e
+CHANGE-OVER SWITCH PLASTICS
+(BousLe Tyee) Fluse wauns
+POLE & EARTH CONTAGT W 7
+o [SoGkET SutlEr PLasTics 5000 @
+8 Fiben wount
+o e
+- SOCKET QUTLET(UB) PLASTICS 120.0 38
+« <] (DOUBLE TYPE) FLUSH MOUNT
+3PGLE T EARTR GONTACT Ve v
+@ SOCKET OUTLET PLASTICS 60.0 28
+v W
+SOCKET QUTLET PLASTICS 60,0 i2
+@ |ViTH 2-POLE SwiTcH
+FPGLE SWITOR v
+® | Plastics a
+2-POLE 3-WAY WP
+CHANGE-OVER SWITCH FlasTics .
+@ |iiRe)
+SroLe i EARTR GOWTACY e 7
+S0GKET oUTLET PlasTics [ '
+O SURFACE TYPE
+RAZOR SOTRET TARERTS STAVGARG 7
+@ 20,0 27
+TRANSFORMER FOR VENT FAN TaxER s STIRGRRD
+VA 4
+1700
+
+MOLDED CASE CIRCUIT BREAKER
+(2-POLE OR 3-ROLE)
+
+==================================================
+PAGE 10 of 65
+==================================================
+22N1456 44-101  P-G8
+SYMBQL ST LIGHTING EQUIPMENT(EXCEPT ENGINE ROGM) 6/ &
+CAPACITY SLAND
+SYMBOL NAME OF EOQUIPMENT TYPE AC GC o |a"Ty| REMARKS
+220V 24V S1ZE
+FUSE
+SWUTCH(MANUAL CONTACT)
+AUXILIALY CONTACT
+(MAKING CONTACT)
+AUXILTALY CONTACT
+(BRAKING CONTAGT)
+o o
+WAGNETIG GONTACTOR
+® (coit)
+o [CRARGE OvER SWITCR
+o—
+o
+BED LANP e VA
+® uaKER's sTawDaRO | 40.0 a
+OZONE GERERATOR wp
+MAKER'S STANDARD '
+oG
+—— GAS ALARM PANEL
+SEE OB N0. 45-10t 9
+GAP
+SCUTTLE FAN
+@ MAKER"S STANDARD 4
+BATTERY CHARGER DRIP FROOF
+FOR LIFE BOAT AKER' S STANDARD 2
+
+Ch.P
+
+==================================================
+PAGE 11 of 65
+==================================================
+22v1456 D¥e NO. 44-101 f-as
+POWERING TABLE
+NORMAL GIRCUIT (AC 220V)
+T ewase !
+NAME oN R-S(VA) §-T(vA) T-R(VA) TOTAL(VA)
+DIST ROARD
+L-Na 2,256 H 2.414.5 2.494 7.i64.5
+L-nB 4.205.5 4088 4644 12,907.5
+L-ne 5.880.5 3,894 3,865 11.638.5
+L-ND 5,270 | seqe 5.350.5 16,2645
+L-NF 2,862 I ase 2.457.5 7.967,5
+i (+3, 000) - (+3. 000}
+LNy 636.5 | 636.5 731 2. 064
+|
+TOTAL(VA 18.910.5 19, 385 19, oz 57.807. 5
+(+3. 000) (+3. 0003
+__EMERGENCY CIRCUIT (AC 220¥)
+. _Phase
+NANE OF i R-S(VA) 5-T(vA) T-RCVA) TOTAL(VA)
+DIST BOARD ™~
+L-ea 1. 720 1,240 {
+L-EB ]
+t-gc 2,020 1,927
+L-gF 268 60 o 28
+L-ev 120 737 97 954
+TOTALLVA) 56865 54925 5,683 16,069
+TEMPORARY EMERGENCY CIRCUIT (DT 24V)
+TOTAL 25w
+
+cen1-§
+
+FORM 1(5, 10,40, 70, 40.70.40. 10)
+
+==================================================
+PAGE 12 of 65
+==================================================
+2281456
+
+DWG NO. 44-101
+
+°-G10
+
+SCHEMA OF ELECTRI
+
+C DiISTRIBUTION
+
+NAYIGATION GOMSOLE
+
+su-ce
+
+WAVIGATION L1ONT INBICATOR PAMEL
+
+SIGNAL LIGHT GONTROL PAREL
+
+LIGHTING CONTROL PANEL
+
+FLOOD LIONT, NAY. B. DK
+
+NGRMAL LIGHT [NGMAY. 8. OK)
+
+SIGHAL LIGHT 3 WA
+EUCY L1GHT ING(NAY,
+
+&, 0K
+o)
+
+matrery [0 70
+
+lone
+criraen | P
+= .
+| - LoB
+oy sw s
+
+TEWPORARY EWCY LI1GHT
+B.c v B oK
+€Ly LiaHT INa<0 D)
+
+oae ok
+HORMAL LiGHT ING{D 0K)
+
+28 Upp. DK
+EMCY LIEHT ING{UPP. DX)
+
+83400
+HGBWAL LIGHTING(B DK)
+
+uPPER OX
+WBRMAL L
+
+HTIHGCUPP. 0K}
+
+SHIP'S AFT PART
+EMCY LIGHTIRGISTEER™ D RH)
+
+SHIP'S AFT PART
+WORMAL {1ONTINGISTESR @ u)
+
+BOSUN STARE
+“Lonet
+
+=
+
+— sHip's
+jLoB
+
+FORE PART NORMAL LIGHTING
+
+ac
+4oy
+
+e
+
+] suee's
+
+ac 2207 conz 38
+
+LOB | FORE BART EMCY
+LiGHTiNG
+
+aEni-a
+
+FORM 1(5.10. 40, 70, 40, 70, 40, 10)
+
+==================================================
+PAGE 13 of 65
+==================================================
+CIRCUIT KO 1 ALL CABLES ARE TO BE LDY-1.25 EXCEPT A5 SHOWN.
+5 NAVIGATION LIGHT LoNT-XXX NOTE
+NAY BRI DK.,
+vEXP.
+FORE WAST
+WHEEL HOUSE. v#@ﬂv
+WAY{BATION LUIGHT uep DK, ..
+NAV. CONSOLE INDICATOR PANEL PUB-100 S ©
+1 L-NI-1 [ L-NI-14 @L-m»m
+J8 FORE SHIP. .
+i Lb-1. 25 Lov-2 N STORE
+3 UPP DKo eosy
+£ig L-ni-2 @ L-NI-2a @ L-Ni-28
+212 to-1.25 [)2F]
+[FS A DK... A DK,
+o STBO FORT
+[
+i L-Ni-3 . ) %
+Lol EE o2
+S
+gl LoNid
+515128 LoF1 25
+VTS
+ala| o L-NI-5
+LOF1. 25
+= L-Ni-8 AFT SHIR,,
+S o LDF1. 25
+~7 3 CouP BRI DK, afT
+Sy~ 7 RADAR MAST +STERN LT
+Tels Loni-7 L. Loni-gA
+g g CFRDPYC-1. 25
+Segt | L-N1-104
+=° .8 Loice LFROPYC-1, 25 N
+gy §d vee o OIOEH
+25w
+R L-NI-9 e PuB-100 N N - ancHor LT
+AR (p-1. 25 i L.
+k<A = b DKL L-Ni-11a i
+s ool . S
+FgEE: Lowoto e cue-2 et A2 Q)
+PEeong Lo-s2 ] uee ox... Loni-12
+S »55E Loni-a1 g Pue-100 CFROPYC-1. 25 N
+- 10-1,25 (] PAYA uEXP. .
+§Fn -— FORE MAST
+> Y2 A DK, N AN .
+Eadd L-ni-12 i cs-2 ANCHOR LT
+Nowoe LD-1.25 L= 7 UPE DK o
+L-N(-13 e L _fvertoe LNioish _gewizeso FORE SHIP
+iD-1.25 [l LoY-2 BOSUN STORE
+uPP DK, ..
+L-#1-14 ‘2 L-N1-144& @LL-NPIAE
+15-1.25 Lov-2
+
+FORM 2A(5. 10, 30,40, 30. 40.20. 30. 40. 10. 30}
+
+0011
+
+9spINZZ
+
+ToT-vy "o BAQ
+
+==================================================
+PAGE 14 of 65
+==================================================
+FORM ZA(5. 10. 30. 40. 30. 25, 30, 25. 30, 30, 301
+
+CIRCUIT NOD 1 ALL CABLES ARE TO BE LODY-~1.25 EXCEPT AS SHOWN.
+6 STGNAL LIGHT (1/3) R NOTE
+LoCPoxxx
+SIGNAL LIGHT CONTROL PNL
+TS§L-CR"
+TAYAIT
+NAv BRI WP BRI OK.. coMP BRI DK
+A BRI D OIO R R YO N
+WHEEL HOUSE. NUC LT N W/ Nt
+e (HER DRAFT LT) (HER DRAFT LT}
+coNSoLE (578D} (PORT)
+o 55k L-ss-t
+~ o L-S5-14
+i o 15 L-55-18
+i = L-$571C
+=
+iz A WZ
+= o coup BRI DOK..
+£ N/ RADAR MAST. OTO) RADAR MAST,
+T N LT Y N7 NUGCLT
+i (HER DRAFT LT} (HER DRAFT LT)
+" (sT60) (PORT)
+H
+- A Y
+! N COMP BRI DK, <> ()
+<o RACAR MAST. RADAR MAST,
+3 HER DRAFT LT HER DRAFT LT
+Liﬂ ¢sT8D) (PORT)
+2L
+{SEE P-3}
+ov01-2
+
+aspinzz
+
+T0T-by ‘ON BAQ
+
+==================================================
+PAGE 15 of 65
+==================================================
+CIRCULT NO 1 ALL CABLES ARE 70 BE LDY-1.25 EXCEFT AS SHOWN.
+[ [StoNAL LickT (2/3) CTREUIT W NOTE
+L-CP=XxX
+SIGNAL LIGHT CONTROL PNL -
+“SL-cP*
+NAV BRI OK.. {SEE P-2}
+WHEEL HOUSE.
+NAY
+CONSOLE
+20 104 UPPER DK, ..FUB-100
+L-cp-t !T\ L-CP-1B UEXP. .
+2 Lu-33 L= twv-z3 FORE SHiP., BOSUN STORE,
+t=o N FORE MAST,
+L-55-2 /s> STEERING LIGHT
+AFT SHEP. .
+. Lo-tes A STERN RED LIGHT
+L-s5-2% MY BRI DK..WHEEL WousE
+soeEs FRONT WALL COMP BRI DK.,
+COMP_ BRI OK., L-5s-8C
+R, &) saoae was.
+SUEZ CANAL SIGNAL LIGHT :Yéiu/‘}:f;m
+oo (sTeo) L-ss-68 @ tpoRT)
+o] 28xe1s20xm3 20xm/20%03
+o] L-55-64 T
+Sl N\
+o]
+Lo L-85-78 @
+Lo 25xm1/2005 2630320008 .
+N L-8s-4 L-55-74
+< L-58-5, LuY-5
+3 L-55-¢ Luvt 1-55-88
+N MY-7 SR,
+oo L-5§-7
+oo L-Sg-g  LMYT? L-SS-84 e
+(see P-4}
+
+FORM 2A(5.10.30.40, 30, 40, 20, 30, 40. 10, 30)
+
+0001-3
+
+98vINGE
+
+101-vv ON BAO
+
+==================================================
+PAGE 16 of 65
+==================================================
+c-pc-30
+a5-101)
+
+ocaav
+*bC-1708
+(SEE DWG NO.
+
+2° s0a
+1-83-11
+
+COMP BR DK..
+RADAR MAST.
+DANGERGUS CARGO LIGHT
+
+COMP BR DK, .
+RADAR MAST,
+HUGE VESSEL LIGHT
+
+TIRCUIT NO T ALL CABLES ARE TO BE LOY-1.25 EXCEPT AS SHOWN
+6 SIGNAL LIGHT (3/3) AR, NOTE
+L-55-Xxx
+SIGNAL LIGHT CONTROL PNL
+“8L-CP”
+WAV BRI DK NAY BR DK..
+WHEEL HOUSE, (SEE P-3) P WHEEL HOUSE.
+NAY PORTABLE DAYLIGHT STGNAL LIGHT
+consoLe
+] _ L-DG-1 sT8BD N
+Lo-2 [—
+L-pe-2 PORT 7
+[CE] .
+
+FORM 24(5.10.30,40.30.40, 40, 25, 25, 18, 25)
+
+0001,
+
+9svINZE
+
+F0T-vv 'ON 9D
+
+==================================================
+PAGE 17 of 65
+==================================================
+EXCEPT AS SHOWN.
+
+FORM 24(5.10. 15,66, 30,40, 10. 30. 50. 45, 25}
+
+CIRCUIT NO T ALL GABLES ARE T0 BF Lo-2
+r? DECK LIGHT CONTROL (1/8) L-NA=XXX NOTE
+LoEA-XxX
+LIGHT NG CONTROL PANEL “L-GP" -
+NAV BRI OK
+WHEEL HOUSE. &P 30A PORT WING STED WING
+NAY
+Consote o™ seare WAV BRI DK
+8 210
+LEA-3 N L-Ea-34 @_
+“ Lo-2 A 20xs2 2ox~2
+\ L-Ea-2 N L-EA-24
+f =
+i PORT FORE 578D FORE
+AV BRI DK
+- b oK 5@ <7
+L-NA-22 L-NA-28A LoNA-2C @_ $
+| Torv-e Topv-s BIC <,
+4 20%%2 20x%2
++ L-NA-2D L-NA&-2B
+7
+[ #LOPY-2 NB7IC
+FORT FORE  STBD FORE comP BRI 0K
+s | 0 ok << §<
+a4 % S-NA-14 S-NA-1AA S-NA-1C
+NBZIC
+ey Lovz [T wlopv-2 “x.a oxes
+ce S=NA=1D ooy S-NA-18
+o @ #LOPY-2 NBAIC
+aoc | PORT FORE
+P o ok
+<k
+v NBAIC SR Q
+L5 alopv-2 oxes
+s D DK
+! PoRT sTeD
+c DK A » FUNNEL LIGHT
+\C L-NA-34 L-NA-3C
+Lorrez [oPv-2 () nxk foxxa
+L-NA-38
+N
+av0z-1
+
+espINET
+
+T0T-9¥ "ON 9ma
+
+==================================================
+PAGE 18 of 65
+==================================================
+LT B0 (SEE P-10)
+
+“L-NA®
+
+@R @
+
+®o-1.28  =L0-1. 26
+
+DECK LIGHT CONTROL (2/5) CIRCUIT WO T ALL CABLES ARE TO B BLOPY-1.25 EXCEPT £5 SHOWN
+7 L-HA-Xxx NOTE
+LIGHTING CONTROL PANEL
+NAV BRI DK WHEEL MOUSE CEILING LIGHT SQY
+WHEEL HOUSE. 20 1m0 N - oK. .
+NAY L-NA-5 L-NA-5A L HA-58 .
+cuNsuLEI 65971, 55 T 42 a2 WHEEL HOUSE,
+NA-5C
+i | 22C
+i
+oo SPARE :
+MAVIGATION SR(. DK QUTSIDE PASSAGE LIGHT
+: NA-8A NA-6A1 NA~6A2
+: Lo.s. L
+DPY-1. 28 LOPY-1. 26 NA-8A3 NA-6A4 NA-6AS5 NA-6AB
+LS. Pl
+
+FORM 245, 10.30.40. 1, 1. 1, 20. 142, 10, 26)
+
+o022
+
+25vINEE
+
+10T-v¥ 0N S0
+
+==================================================
+PAGE 19 of 65
+==================================================
+FORM 24(5.10.30,40.1.1,1, 12, 160. 5, 20}
+
+DECK LIGHT CONTROL (3/5) CIRCUIT NO 1 ALL CABLES ARE TO BE SLDPY-1.25 EXCEFT AS SHOWN.
+7 L-NA- XXX NOTE
+D.C 3 5 DK OUTSIOE PASSAGE LIGHT (5TED
+NAV BRI DK.. LIGHTING CONTROL PANEL “L-CP" 2
+5 o
+WHEEL HOUSE. £/CAS[NG SIOE D OK
+Nav NA-gA NA-9A1 NA-942
+ConsoLe
+sTeD.. D DK..
+@ FLOV-1.25 2 @)
+o ir -
+NA-g L-na-sa e
+. LohAc c o
+Lorrt.2 LOFY-1. 25
+| c oK.
+@ @a®
+[ e
+N 5 ok..
+-~
+D.C & B OK QUTSIDE PASSAGE LIGHT (PORT)
+D DK E/CASING SIDE D OK
+L T Na-eer WA-8B2
+3 o oK.
+I FLOV-1.25 2 (@D PoRT.
+w ~ L-N&-98 aov-y. 28
+i c ok
+£ (77984 WA-985 WAsBS
+H
+’ RCHCICC ‘ o
+¢ wa-987
+P
+z B DK..
+sooz-s
+
+9sPINEE
+
+T0T-r¥ 0N B
+
+==================================================
+PAGE 20 of 65
+==================================================
+(as5)
+
+CIRCULT ND
+
+1 ALL CABLES ARE TO BE #L0-1.25
+
+EXCEPT AS SHOWH,
+
+DECK LI1GHT CONTROL
+7 AR NOTE
+LIGHTING CONTROL PANEL *L-CP*
+VHEEC HOUSE CEILiNG LiGHT
+Wav BRI 0K
+WHEEL HOUSE. 2P 184 EA-4B 5 £4-4C EA-4D NAY BRI DK.,
+ey L-Eaea L-ex-an
+Fikeo o s e 220 8 e wHEEL HouSE.
+i L-Dc-52 _ L-pc-53 _ _ |
+(SEE P-53)
+WAV BRI DECK 0UT PASS LicHT
+Then | EA-eat  tAeaz  Enons
+LD-2 Lb-1.25
+SR &
+o4 7
+o
+;
+H
+OUT PASS LIGHT (B DK--D DK)
+o o
+= E H EA-TA EA-TAL o DK
+w L-EA-TA
+R S cnmraz
+o w to-2 Co-1. 25 B DK
+- 2z C DK. .
+o 4 EA-TA3 EA-TAd4 EA-TAS EA-TA6
+55 5 ok..
+. 5 LS
+3.
+P g easre . .
+it R o ok vl oV e ®
+T s
+eamrat
+8 Dx
+c o,
+EA-TB2 EA-TB3 EA-7B4 EA-7BS
+B DK..
+
+FORM 24(5.10. 5. 55. 1. 1.1, 1, 161, 10, 25)
+
+o002-5
+
+osrINE
+
+TOT-p¥ N 9AD
+
+==================================================
+PAGE 21 of 65
+==================================================
+DE ONTRO 5/ CIRCULT RO T ALL CABLES ARE 10 BE #LOY-1.25 EXCEPT A5 SHOWN.
+7 [pECK CiEHT © L (5/5) CLReu LT} NoTE
+LIGHTING CONTROL PANEL "L-GP"
+NAv BRI OK T 8 DK..
+0.5.7. ¢ (nor) + L-CP-NC E.C RECESS.
+et MOUSET G ° (5t€ P-31 -5 LOB T “ilner it op
+CONSOLE i a5 : J 2¢) bt “(sEe p-13)
+05 R L (HOR) g
+wep ok} ©
+. uPP DK, .
+050, (EuCY) o g L-cP-ND £.c REcess,
+BRI e toB. Hlwpttitbe
+<126y L——  (skc p-28)
+o5 P L (NOR) g :
+5Nk DK e
+0.5.p 1 cene) S, L-cp-Ec [\ om, E:C RECESS
+Skt ok © e Los: 5SE T %
+tsc) — | "sEe slas)
+1F 1A LIFE BOAT LIGHT
+P 8 AFT SHIP. .
+o] : L-ce-ny ) sTEER GEAR B
+o o P {LDB . Tiowyr LT 0B
+o] 2 (2¢) L) Tisee poam)
+e ]
+Elst o _o—
+o L-CPoEY STEER GEAR RM,
+2 | TH-5 L-EYT LT 08B
+P zc) (SEE P-45)
+Elst oo
+[ FORE MAST PROJECTORSORE SHIP.,
+X L-cP-18 - BOSUN_STORE
+e - et poal Los . TAE-SI7%0n
+S L (SEE P-35)
+o SUEZ CANAL SEARCH LIGHT
+2.
+° UPP DK, FORE SHIP..
+e L-cP-z LeP2 Lce-er [~ BOSUN STORE.
+° Wz Q} vz LDB | “L-EF" LT DB
+[ (sEE p-ag)
+
+FORM 2A(8, 10, 30, 40, 20. 20. 10, 20. 80, 10. 30)
+
+o002-8
+
+esvinzz
+
+101-77 'ON 9AQ
+
+==================================================
+PAGE 22 of 65
+==================================================
+SR
+TR 2, a%q
+7. t64 S rvA)
+
+LIGHTING DISTRIBUTION BOARD
+8 |= - NOTE
+L-NA
+P-LD-NA
+220V FEEDER PANEL e NAY BRI DK...
+tAC220V BOHZ 2 PHASE) (SEE DWG NO.42-101) “L-NA® DIST BD
+50/104 507104
+s-na-1 [ st L-na-2
+(SEE P-5) <t Torv-z 20 2p Tori—s {> (seE P-5)
+¢ ss8) 50104 50,104 (1694)
+(seE pos) < b (oIR8 L ST 20N saeca
+(1000) su/}gk\ 50/104
+LoNA-§ RS ® L-nass
+(se€ P-6) <t oPy-1 25 H 2p ToeToi 3% D> (see P-6)
+< 268) « a20)
+(sgE pe11)  ——iNATTA
+topv-1. 28 S0/104 50/104
+. e 50/10a 50104 ¢ 720.5) .
+L-NA-8 RS RS /7N
+see -7y <t ¥ AT 2p 2p Y 5PARE(10)
+(1020)
+§0/104 50/104A
+SPARE(i1)} /2P i el KEF\ SPARE(12)
+PS: 2,266 .
+
+FORM 2A(5.10,6,40,30.90,20.30,40.5,10)
+
+an02-7
+
+asvINZZ
+
+10T-b¥ ON ORa
+
+05-¢
+
+==================================================
+PAGE 23 of 65
+==================================================
+‘-n-, 25
+
+7
+
+&
+
+8 NAY B?l DECK & D DECK LIGHTING NOTE 1 ALL CABLES ARE TO BE ®LDPY-1.285 EXCEPT AS SHOWN.
+"L-NA
+NAY BRI DECK
+CHART SPACE RADIO E£Q. SPACE WHEEL HOUSE NAV BRI DK
+oy 22 VT =] (o) @
+N,
+
+a-ta |
+ToPv-1.25 Plipe-1. 28
+o aay -Y-RR-BA 1
+Frow RA010 BATTERY
+(SEE OWG NO.47-101)
+H0.2 DECK SToRE BATT. RM PUB.TOIL. eiLor
+Lav.unT
+10 10 2C Z2C 75C A UN|
+R #iM-5
+Z0an1 EFS
+HiM-5 “
+/ Ts6e1 =
+W/H ‘< ° I
+aLov-1 28
+L=NA-B
+& LOPY-1. 25
+ozt
+FORK 2A(5.1.1.1.1.252,20, 1. 1. 1. 1)
+
+ssrINTZ
+
+10T-v¥ 0N BAQ
+
+Fi-d
+
+==================================================
+PAGE 24 of 65
+==================================================
+FORM 2A(5. 10, 5, 40, 30. 00, 20. 30. 40, 5. 10]
+
+LIGHTING DISTRIBUTION BOARD
+9 Linr NOTE
+F-LD-NB
+220Y FEEDER PANEL — PR D DX, .EC REC,
+{AC220V €0HZ 3 PHASE] (SEE DWG ND. 42-101) “L-NB® BIST 8D
+567104 50/10a
+ERTELTR 807104 §0/104 (1358.5) :
+L-NB-3 ST st L-NB-4
+see p-13) < ToPvoiEs 2p 2p TPV 3 > (seE P-14)
+B samy 50,108 50/104 ¢ oaz)
+L-NB-5 &S ® L-NB-6
+(see p-14) < TOPY-1 25 2p 2p ToPY=1 25 D> (see P-14)
+) « 9181 5“’;”{ 5/0%0‘ (1038)
+L-NB-7 RS ® L-NB-B
+(see »-15) < ToPY-1.25 2P 2p ToPY-1 35 > (see P-18)
+2345} (1351)
+507104 507104
+L-NB-3 st st L-ne-10
+csee p-16) <t 0\ /2 > (sE€ P-17)
+LOPY-1.25 LoPY-1. 25
+(1231} su/;% 507108 ¢ 883)
+L-NB-11 ® hid L-NB-12
+- p-
+tsee pe1n) <G (BPY-1. 25 2 2 ToPv-1. 25 1> (see po1s)
+(1291) < 863)
+507108 50/104
+L-NB-1 s
+AP, 50/104 50/104
+®s
+sparecas) (2e ST /70 sparecie)
+RS: q 2088
+ST 9,088
+TR 9, 65¢ .
+VERTIAT
+9003-1
+
+asviNzZ
+
+F03-by 'ON ©AQ
+
+21-d
+
+==================================================
+PAGE 25 of 65
+==================================================
+D DECK LIGHTING
+"L-NBT
+
+NOTE
+
+1 ALL CABLES ARE TO 8E BLDPY-1.25
+
+EXGEPT A5 SHOWN
+
+CAPTAIN'S DAY ROOM CAPTAIN‘S BED ROCM o 0K
+B @mer—@Ks—Ecs) @) [0 27CS 25 s LAY UNIT
+®® O\ e 63 m—
+MES]
+saun
+)t = ™\ oh B @
+NeLm-5
+
+L-NB-1
+
+P —opv1 25 )
+
+C/ENG'S DAY ROOM
+
+C/ENG"S BED RDOM
+
+BLM-5
+
+23CS)
+
+@3cs) 2t
+
+@ A\(zsc s
+
+L-NB-2
+
+BLM-8
+
+e
+
+LAY, UNIT
+
+M2 S|—3
+
+B—igpvi a8
+
+C/OFFICER’S DAY ROOM
+
+C/OFFICER'S BED ROOM
+
+L-NB-3
+
+LAv. ONIT
+
+M2 Ssh—
+
+P 5ever 88
+
+FORM 24(5,1.1.1.1.262,20.14.1.1. )
+
+00032
+
+aspENZZ
+
+10157 'ON 9AD
+
+El-d
+
+==================================================
+PAGE 26 of 65
+==================================================
+D DEGK LIGHTING T AL CABLES ARE TG GE LBPY-1.25 EXCEPT A5 SHOWN.
+g - - NOTE
+L-NB
+2/ENG"S DAY RODM 2/ENG"S BED ROOM o ok
+T eE LavoumiT
+M2sH—p
+ES
+al el
+#LM-5 e
+B LDPY-1.25
+3/0FFICER ELECTRICIAN LockeR
+= - Lav_ 1T =5 55 Lav.uniT
+s was s oS ®
+[iE) 05
+I ®
+9 ]
+L-NB-S . .
+B LDPY-1.25
+CLEAN
+2/0FFICER GEAR LR 3/ENGINEER LOCKER E.C.REC.
+22¢ Ezs) LAV UNIT 22¢ 33 LAV UNIT
+alu-s _
+N XS @) wm-s Mzs— @ @
+o5
+T
+L-NB-6
+B
+
+FORM 2A(5.1.1.1.1,262,20,1,1, 1. 1)
+
+0003-3
+
+ssviNnze
+
+TOT-vP ON 9AG
+
+pi-d
+
+==================================================
+PAGE 27 of 65
+==================================================
+1 ALL CABLES ARE TO BE ELOPY-1.25
+
+EXCEPT AS SHOWN
+
+b DECK LIGHTING
+9 ne” NOTE
+INSIDE PASSAGE
+578D STAIR WAY FORT o oK
+[ P2C P2C P2C 2 P3C_—{F2C
+
+FORM 2A(5,1.1.1.1.252,20,1.1. 1. 1)
+
+0003-¢
+
+9svINEE
+
+103-pv ‘ON DM
+
+s1-d
+
+==================================================
+PAGE 28 of 65
+==================================================
+C DECK LIGHTING NOTE U ALL CABLES ARE 70 BE BLDPY-1.25 EXCEPT A5 SHOWN.
+9 TL-NBT
+SPARE(2-P) (J/0FF) AATIRG (@) LOCKER ¢ oK
+55 556 LAV, UNIT 55 LAV, uNIT
+BLM-S “ MZs—< M2 s—f
+[} i3 L
+] I T i
+L-ng-s
+farrte=wn -
+RATING (B RATING (@)
+550 LAV. UNIT 230 LAV UNIT
+ses zs—d s V2s—
+05 J i) (P@
+i |
+L-HB-8
+T B B - - -
+RATING (B RATING (B
+e LAY, UNIT =5C s LAY, UNIT
+no-s M2sh— s Mz s—p5q
+5 E] 0O
+\ T
+
+FORM 24(5.1.1.1.1.262,20. 1.4, 1.1}
+
+o003-5
+
+0apINgZ
+
+101-vv "ON BRA
+
+93-d
+
+==================================================
+PAGE 29 of 65
+==================================================
+9 C DECK LIGHTING NOTE 1 ALL CABLES ARE Td BE ®LDFY-1.25 EXCEPT AS SHORN.
+“L-NB"
+RATING (D) RATING @) ¢ oe
+220 23 AL UMD 7o LAV UNIT
+ALb-5 IES sLu-s MZ8]
+~
+! = &
+1]
+=)
+i
+RATING (D) RATING ()
+=5 LAV, UNIT =5 LAY. UNGT
+s MZ5 L6 3
+i 05 e )
+b= J
+e
+RATING
+=35 556 LAY UNIT
+#im-s iz —59
+~,
+=
+= T
+
+FORM 2A(5.1.1.1.1.252,20,1,1.1. 1)
+
+0038
+
+9aviNTe
+
+10Tty 0N BAQ
+
+Li-d
+
+==================================================
+PAGE 30 of 65
+==================================================
+1 ALL CABLES ARE TO BE BLDPY-1.25 EXCEPT AS SHOWN.
+
+FORM 24(6, 1, 1. 1, 1,262. 20, 1,1, 1. 1)
+
+C DECK LIGHTING
+v - NOTE
+9 L-NB
+SHip‘s oRvine aFFs CLEAN.
+£ pec, CAUNDRY Roow LAUNDRY GExR RaTiNG (B ¢ ox
+@) 22 G—zz 6] (P 2 G 25C pxd LA
+16802 | 1spen T58uz BLM-5 i
+D5
+& 22 G
+1582
+LOPY=-1.25 -
+INSIDE PASSAGE
+PORT STALR wAY sTen
+1P2C p2c P2C P2C P2C P2C P2C pP2C P2C ‘,’P?C
+L-NB-13 _
+LOPY-1. 25 - - B B
+SoasT
+
+9svENzE
+
+TeL-vb ON BAQ
+
+(3
+
+==================================================
+PAGE 31 of 65
+==================================================
+11,6338 Tvay
+
+LIGHTING DISTRIBUTION BOARD
+ek : NOTE
+L-NC
+P-LD-NC
+220V FEEOER PANEL e 8 DK..EC REC,
+(AC220V 60HZ 3IPHASE] (SEE_DWS NO.42-101) “L-NE'DIST 8D
+50/10A 50/10A
+L-NC-1 RS RS L-NC-2
+csee p-z0) <% o 2P > (sge p-20)
+LDPY-1. 25 LOPY-1. 28
+(1210) 507104 507104 ¢ 8a9.5) .
+L-NC-3 ST T L-NC-4
+“11a5) 50/104 507104 ¢ Bis) )
+L-NC-§ TR TR L-NC-6
+(see P21y <& TS 0 2p ToPY-1 25 > (see p-21)
+- i 611) 507104 B0/10A ¢ 234.5)
+TR T
+eare (7) 20 3L/ 2p Vspare (8)
+507104 507104
+ne- ® Ne-
+(seE poz2) < e 2 V22 B2 [2e e D> (seE P-z2)
+) ¢ 917} 807104 ?QOA  904) i
+Lone-11 sT sT L-nc-12
+coge p-22) <t Torvoi 25 2p 2p Topvor 3T —> (sEE P-23)
+¢ 798) (1138}
+50/104 s0/104
+L-Nc-13 b ® Lowo-14
+(see p-23) < ) 2p @ T EWETS > (sEE P-24)
+(1408} wg-y 597104 507104 ¢ 234.8)
+L-Ne-15 hid R L-Ng-18
+csee p-2a) <& TBFvo1 35 o—F ¢ /oo ToFv 135 {> (SEE P-25)
+¢ 00y 50/104 50/104 ¢ 480) *
+i
+keare (1) 2n L ST o0 gonee (109
+Ra: P ado ¢
+sT: 9,899
+L-cp-ne
+B 3 8<5 - & Pug-100
+i - &, 1 (SEE P-F ) JUNCTION 80%
+
+FORM 2A{5.10.5.40,30.90, 20, 30.40. 5. 10}
+
+0004~1
+
+aspiNge
+
+10T-v¥ "ON BAQ
+
+61-d
+
+==================================================
+PAGE 32 of 65
+==================================================
+B DECK LIGHTING T ALL CABLES ARE TO BE BLDPY-1.25 EXCEPT A5 SWOWN
+10/: . NOTE
+L-NC
+OFFICERS' SMOKING ROOM DUTY MESS ROOM 8 DK
+Lu-5
+* 23C 8 23 s @3cs 23s) . 23C
+&3] PN
+TV VTR STEREQ N
+W\ e e v
+ot } j \
+CBFY-1. 25
+RATINGS ™ SMOKING ROOM RATING'S MESS ROOM
+236 53 23C 3 336 53¢
+SLM-5 TV _VTR STERED BLM-5
+N sLU-5 TroTems G p—— !
+) Toap —
+| . S ! fanr!
+I =3 [ 23C 230
+i
+| \ ’
+L-NC-1 i |
+PTorvoizs
+Rative (2 ratine 03 Py, TOIL
+50 LAy UNIT > Lav. N T ==
+#LM-5 N 1\\ Mz S—34 s Mzs—8d 15Bw2
+pLotes ; j
+LDPY-1. 28
+FORM 24(5.%.4.1,3.252.20.1.9.4.1) o00a-2
+
+[XTTH
+
+FO1-py 'ON DAQ
+
+0z-d
+
+==================================================
+PAGE 33 of 65
+==================================================
+1 O B DECK LIGHTING NOTE 1 ALL CABLES ARE TQ BE HLOPY-1.25 EXCEPT AS SHOWN.
+"L-NC”
+oK. .
+OFFICER'S MESS ROOM
+#LM-5 (zzcs 23CS 23CS 23CS 23CS 23CE)
+\ 5
+] [ ainde |
+E.C.REC SALLEY
+22C 250 22C 220 220
+15692 158%2 15B#2 158%2 158%2
+el
+)
+IS 1DE_PASSAGE
+PoRT STAIR WAY sTeD
+5] P26 PG (79 P20 P2C P2C
+
+FORM 34(B,1.1.1.1,252,20.1,1, 4, 1)
+
+0004-3
+
+9svINEE
+
+TOT-Fy 'ON DAQ
+
+tz-q
+
+==================================================
+PAGE 34 of 65
+==================================================
+25
+
+L-NC-11
+
+orvros @
+
+A DECK LIGHTING T ALL CABLES ARE TO BE WLOPY-1.25 EXCEPT AS SHOWN
+10" - NOTE
+L=-NC
+CARGO CONTROL ROOM PUB. TOIL. ok
+12¢ 2c 42C AT
+#LM-5 ) 21 G
+| FOR LOAD COMP J7OR BATT. chare.
+! 15842
+5] [ear|
+=
+‘ @
+L-NE-10
+B oevor ee
+SHIP'S OFFICE
+z
+s 43¢ 26
+~.
+! 05 05 i)
+I T L
+L-nc-9
+[qtrawn
+CONFERENGE ROOM FIRE STATION
+siw-s (28 Z3C3) IES § 22 G 22 G 22 6
+
+FORM 24(5.1.1.1.1,262,20.1, 1.1, 1)
+
+a00a-a
+
+9sviNTE
+
+TOT-vY ON DAG
+
+2z-a
+
+==================================================
+PAGE 35 of 65
+==================================================
+FORM 2A(5.1.1.1.1.262.20.1,4, 1.1}
+
+A DECK LIGHTING NOTE T ALL CABLES ARE 10 BE RLDPY-1.25 EXCEPT A5 SHOWN.
+10]-i-nc-
+RATING 63 RATING (20) B Locker
+av.
+s w5 LAY, UNIT . 5T LAV, UNIT ]
+aS aLm N Fzs—5d A DK..
+o5 O
+REF. CHAMBER EM'CY GEN RM
+_LoseY FISH  DAILY _ VEGETABLE MEAT _ NC-124  NC-128 Me-1pc
+REZi35 KCI13C [We-130 O3 [Wo-i3r NC_136|WEIsH NCIISY |
+! @ 3P F & 3P 3P P & 2 G122 & :
+\ | \/ S 15wz \ Tse2 A/ !
+i 1 ! | R .l J [
+1 ,J . ‘ - - ,J - J L-NC-124, L-NC-138
+¥LD-3. 2 wio-1 25
+PROV. HAND. SPACE
+#L0v-1.25
+€.c RECESS PROV. STORE
+[ISTEN
+22 & 22 & 1y & 22 G 22 G
+&3
+isesz  a5Be2 15ae2 15882
+STAIR WAY
+— B oK.,
+STAtR waY
+G00a-s
+
+9svINZE
+
+10T-5b "GN BAQ
+
+§2-d
+
+==================================================
+PAGE 36 of 65
+==================================================
+@@ B —E—E
+
+6LDV-1. 25
+
+L-NC-154A
+#LOY-1. 25
+ENGINE CASING
+/"\
+& B D @
+N\ \ .25
+\/.
+—ac - 8¢
+BLp- g 2t
+
+A DECK LIGHTING 1 ALL CABLES ARE TO BE BLDPY-1, 25 EXCEPT AS SHOWN
+10]% K NOTE
+L-NC
+INsi0E passace . N o
+poet STAle wav _ poaT stan
+F2c P2C P2C P2C P2C pP2C P2C
+L-ne-1a } _ ;
+Lopv-1. 25
+4 OK OUTSIDE PasSAGE LigHT
+s7e0 PorT
+NC-18A NC-158 NO-15C WC-150 NO-15E WO-15F NG-15G NO-18H NG-150
+
+FORM 2A(5.1.1.1,1.252,20. 1. 1.1, 1)
+
+0204-6
+
+esvINzZ
+
+T0T-vv 'ON 9AQ
+
+ve-d
+
+==================================================
+PAGE 37 of 65
+==================================================
+L
+
+tsee owa MO 32-101)
+
+10 A DECK LIGHTING NOTE 1 ALL CABLES ARE TG BE HLDPY-1.25 EXGEPT A5 SHOWN.
+"L-NC*
+SPACE HEATER FoR
+A DK.. BOAT wiNcH 4 oK,
+L-NC-16 ~ L-NC-164 TTE-07-3HE [EH . BOAT WINCH
+B—orvi 3 & bhente 7 =
+(SEE ava NO.a2-101)
+P=07-3HP (5%
+SPACE MEATER FOR
+- uPP DX,
+L-NC-168 o A~
+T £ L1367 PROY CRANE
+«see owe No.az-101)
+SPACE MEATER FOR
+L-ne R upP oK,
+1B-1. 25 .5.0T PROY CRANE
+¢see ova NO.43-101)
+SpAGE MEATER FOR
+HOSE WAKD. CRAME Jor ox
+L-NE216D I .
+L0-1.25 T LHOSE HAND CRANE
+
+FORM 2405, 1.1.1.1, 116,10, 20, 60, 10, 60)
+
+000a-1
+
+9svINZE
+
+10T-7Y "ON DAG
+
+s2-d
+
+==================================================
+PAGE 38 of 65
+==================================================
+1 1 LIGHTING DISTRIBUTION BQOAD NOTE 1 ALL CABLES ARE TO BE XXXXXXX EXCEPT AS SHOWN.
+“L-ND"
+P-LD-ND
+220y FEEDER PANEL TS UPPER DK, EC REC,
+(AC220V 60HZ 3-PHASE} (SEE_D¥G. NO. 42-101) TL-ND DIST 8D
+50/108 50/104
+_np- ® —ND-
+(see p-zv) <t tDT‘D ;5 2p RS Lt /EF\ tui‘? 25 £ (see p-27)
+BOYTE} 507104 50108 (1451.5) :
+Lowp-3 st | st L-ND-a
+p- -
+(sEE P-28) G- s ; 2 F1 R 1> (see o-28)
+{ 489 .
+507104 507104
+_Kp- T —no-
+0-7 « 218) B0/10A o1 ( B02.5] °
+(see p-20) < =t 2 ErE > (seE p-29)
+[o-1.28 Lo-2
+201 50/104 ¢ 780)
+. ey T -ND-
+(1692) }:z's’ 507104 A ¢ 8a7)
+Np-it -14 ® - No-
+(sEE P-30)<} fn'fg L 2p LRS 5T /o ) fnﬁg 22 > (see P-30)
+(iseay| % s0s104 507104 (1894)
+TR TR He=2 S-ND-
+(13p5pave (2m\ 2p ool D> (see p-31)
+s Cs11y 0%
+S§-ND-144
+.
+sorion 555 > (3EE P-31)
+S-ND-15 MC-2 ™" -np-
+(sEE P-31)<¢ @ & e £ (see p-32)
+2 e €18 (yaz) L0735
+S-ND-164 Me-3 ,
+(SEE P-31) Thta s .
+- (Ere) 50/104 50/10A
+-ND- MC-S L'l —ND-
+(sex pese) < sorenr T AR E NS s0ose B esex #-az)
+P ks 50/104 sa/10a 8% ¢ 600) E
+_wD- o7
+(see p-33) <k Lone-ie L ST N sounecon
+( se8) 50/104 50/104°
+. ® .
+Ar: &, 3035 carpspave (2o BE UL ST /TN counecaey
+ST &,570.%
+TR: soate. © [ L-cP-ND
+H=1 __LoEPo - —_ PuB-100
+76,5245 (VAY T (SEE -7 ) JUNCTION BOX
+
+FORM 24(5.
+
+10.10.30. 30, 80. 10. 40, 40, 10, 10}
+
+00061
+
+9svINEZ
+
+F0F-vp 'ON 9mQ
+
+9z-d
+
+==================================================
+PAGE 39 of 65
+==================================================
+UPPER DECK LIGHTING 1 ALL CABLES ARE TO BE #LOPY-1.25 EXCEPT AS SHOWN
+11~ nn- NOTE
+
+ORY POWDER TANK/RELAY BOX RM HOSPITAL LOCKER
+
+ALL CABLES ARE P BATH UNIT
+7o BE 4Lttt HD- 1A MO~ 18 Mo-ie  EoC SPACE Tower (AVR UPP BK, .
+X ; ORY PWOR TK R)
+Excgpy AS EHowN 47 & 22 G 22 G| @ | 3¢ =3 M2S£4]
+| ps | [
+2zg ® | ]
+1
+L-ND-1 - - - R
+L ‘g
+Tewp. crev oxv. B0TT. BN CHANG 1N M oL sxin
+unT e
+SRR 035vA) PP DK. .
+23C 23C M2S}- ¢ 22 ) TEMP CREW
+ALu-5 158e2  15Bs2
+o5 HEC
+I T58e2 G2 )
+L-KD-2
+P51 es -
+'LaCATED AT
+INSIDE PASSAGE(PORT) £/R
+EMCY ESCAPE TRUNK
+N —2A ND-248
+LoNB_2A 7N L-uD-28A 389 D,
+
+(ov-1.25 () =o-125 ESCAPE TRUNK
+
+RD-28
+
+4F Bk, .
+
+Wo-1. 25 ESCAPE TRUNK
+
+esvINZ2
+
+10T-6¥ 0N BAQ
+
+X
+
+FORM 24(5,1.1.1.1.246,26.1.2,1,1) o005-2
+
+==================================================
+PAGE 40 of 65
+==================================================
+UPPER DECK LIGHTING T ALL CABLES ARE 70 BE #LD-1.26  EXCEFT 45 SHOWN.
+1 . NOTE
+L-NO
+02 BOTTLE RM
+WD-3A  ND-38  KD-3¢  KD-3D  ND-38  ND-3f  ND-3F upe oK, .
+32 G 22 G 7 % G 22 © 22 6 22 & £o2 BOTTLE RM
+O ——
+seaen
+E.c proess A1R _COND. UNIT RM eaLed
+WD-4A ND-48  ND-4C_ _ND-40 Np-4F  _ ND-4F
+22 & 2 6 2.6 3 6 22 G
+[
+“ GSP |(32.4vA)
+s © pamee LgHT)
+. . uer oK,
+WPy 128 HCBpY 1 EY E.C RECESS
+PAINT STORE
+! - - -~ PP oK, .
+PAINT STORE
+Z7 7 m; 2z 3—Hzz 7§ 72, ]
+| .
+‘ |
+I A cantes_ame 1 pe geny- o
+® L-ND-SA UFP OK. .
+- INS[0F PASS.
+#LOY~1, 25 PAINT STORE
+
+FORM 2A(5.1.1.1.1.246.26.1.1.1, 1]
+
+o008-3
+
+9svINZE
+
+10T-7v "ON BMa
+
+82-d
+
+==================================================
+PAGE 41 of 65
+==================================================
+| 1 UPrER DECK TIGHT NG Nore [T AL CABLER ARE TO BE L07v-i.75 ExCert A5 swown
+“L-ND"
+seaLeo
+GYMRAS (UM ND.3 BECK STORE LOCKER
+ND-&A ND-&B ND-&C ND-&D ND- &G
+PP OK. .
+7 e azC 220 ) P @) GYMNAS T UM
+L-nD-6 g/ : ,
+B LD-1. 25 - Z
+INS1DE_PASSAGE
+PoRT sTep
+2 o P20 PIC 7 73 upe ox..
+PASSAGE
+L-ND-7
+B Tom1.2s - - - B
+OUTSIDE PASSAGE LIGHT (5TBD)
+NO-BA ND-BA1 ND-BAZ ND-8A3 A4 ND-8AS UPP DK, .
+pboine L-ND-8A o o o @ . (STRD)
+to-a BLDY-1. 28 »\ / S y\
+aLov-1. 2 biov-1. 2
+OUTSIDE PASSAGE LIGHT (PORT)
+no-g8 NO-8B1  KD-8B2  NO-8B3  ND-6B4  ND-8B5  ND-886 vep o
+L-ND-88 D P 2P 2P 2P @ troRt
+Tov1. 7 H——d H =HF, :
+aLov-1. 28 BLOY-1.18 LT
+
+FORM 2A(5. 1.1, 1. 1,246, 26, 4.1, 1,1)
+
+oaoe-a
+
+9s¥TNZE
+
+TO1-5¥ 'ON DAQ
+
+§2-d
+
+==================================================
+PAGE 42 of 65
+==================================================
+FORM 2A(5.1. 4. 1.4, 1. 1.1, 243. §, 25)
+
+DECK LIGHTING 1 ALL CABLES ARE TO BE LDY-2 EXCEPT A5 SHOWN.
+11]- - NOTE
+L-ND
+LIGHTING POST
+FORE{STBD} SIDE{STED) FORE(PORT]
+YEXP.
+LIGHTING
+FOST
+zox-a‘? Zoxsz HTH
+S-HD-9 S-ND-95 e S-ND-sA UPP DK, .
+H—- - NB71C DRY POWDER
+Lo-2 T5-2 LzALs LA
+s-np-9c $-ND-9D
+T NB71C
+5-4D-10 S-ND-104
+B b2 - - NB71C
+AFT(STBD} AFT(STED)
+UEXP. .
+LIGHTING
+POST
+zoxea
+S-ND-11 S-NO-115 S-ND-1%A UPP DK..
+[ e io-2 NE7IC ORY POWDER
+. TK RM
+S-ND-11C S§-ND-11B
+710
+Lo-2 G
+AFT(PORT] AFT(PORT}
+UEXP. ,
+LIGHTING
+FOST
+2028
+S§-ND-12 ~ND- S-ND-12A UPP DK..
+1503 S-uD-125 f@7IC DRY_POWOER
+TK R
+s-ND-12C s-nD-128
+P NB71C
+s0cs-s
+
+85vINZE
+
+10T-bb 0N BAa
+
+08-¢
+
+==================================================
+PAGE 43 of 65
+==================================================
+FORM 24(5.5.15.60, 10.60, 4, 1, 105, 10. 20)
+
+UFFER DECK LIGHTING T AL GABLES ARE 70 86 8LOV-3.5 EXEEPT A5 SHOWN.
+114: - NOTE
+L-ND
+SWITCH BOX FOR EXPLOSION-PRODF LIGHT
+DKL
+CARGO coNT RM, uExP..
+¥ Box FaR EPCL
+=X MOTOR RQOM MOTOR ROOM
+NO-14B1  ND-14B2  NO-143  ND-14B4  ND-1485  ND-1486
+s-ND-148 e r
+g v s = 2 (22 22 Gz _3—f ;|
+i €c-sa EC-8H  yexp., NO-1487
+_ec-ss ToR" M
+LENT)
+EC-8
+(ENT)
+ND-1aFi  WD-14F2
+o uEXP. L
+5-KD-14F r\“ ¥ NEAR F.o.
+w58 WY Uoabine
+STATION
+§-ND-14¢
+LDY-3.6
+H NO-155 KD-1551
+a v
+5-ND-155 7)) @ UEXP.
+w | _—_.__‘ No. e Tk DOME
+i Lov-3. 5 @ N
+< C) Wo-158 Ho-1581
+o foa ¥ ND. 1 DECK STORE/DRY POWDER RM
+g vexe. .
+i ND-15 s-wp-158 G 7S VoS Tk oMe NO-1SEL . ND-i5€2  ND-15E3
+" L0Y-3.5 DECK STORE
+o i ND-15C ND-16C%1 122 22 F
+z ¥ ¥ .
+7 SoND-15C AN AN UEXP. .
+: e e O/ O BECER ALY poises HO-15E4
+ND-150 ND-15D1 f 22 {22__H
+no- vexP. .
+H s=ho-150_ o) (o) NO.1 TK DoME wptec
+@ Lov-3. s N -
+on ==
+S-NO-18€
+(ov-3.5
+o0s-s
+
+ssvinzE
+
+$0T-py ON DAQ
+
+1e-a
+
+==================================================
+PAGE 44 of 65
+==================================================
+UPPER DECK LIGHTING 1 ALL CABLES ARE T0 BE FLDY-3.5 EXCEPT AS SHOWH.
+1 1 L ND- NOTE
+
+SWITCH BOX FOR EXPLOSION-PROOF LIGHT
+
+A oK.
+CARGO CONT RMW. CARGO MACH. ROOM UEXP. .
+S BOX FOR EPCL 6] CARGO MACH RM
+
+oh NO-18A1  ND-16A2  ND~15A3  ND-16A4  ND-16A5 nND-i6a NP-i6AT  No-iGAR
+S-ND-16 S-ND-164
+—> o s vss e T { = e e
+j ND-1681  ND-16B2  ND-1683  ND-1684  ND-1685 NP-16p6
+S-ND-188 - . r—— g
+= 575, 5 122 ZZ ¥ 2 {22 _H 122 h 22
+: @
+w | s-Ec-g S-EC-BA @ @ o)
+@ 10-3.5 ov-3.5 7
+- <seE pean) ot o2 (%03
+E3 PNL) PNL] PNL)
+ot 04 ND-1741  ND-17A2  ND-17A3  WD-17Ad  ND-17A5
+i SND-17A [ ey e e
+
+N — Tov-3.5 22t ez 2 122 .
+
+- ND-17B1  ND-1782  ND-17B3  ND-1784  mP-(78§
+
+w
+
+I $-ND-178 . -, —
+
+o = fizz ZZ 1 { ) 2z} {; =22 }
+
+B Lov-3.5 i
+
+g UPP DK WEATHER PART
+
+i ® AERATION FAN SPACE  ACGESS WAYGH SPACE BOOSTER PUMP_SPACE
+
+5 At ND-18A ND-188 HD-18C ND-18D ND-18E NO-18F VEXP. .
+
+H saucis g sonp-isa R RV P Sty W W
+
+= Ploas ovas N = (N7
+
+9avINEE
+
+TO1-vp "ON 9M0
+
+2E-d
+
+20057
+FORM 2A(5.5, 15, 60,20, 150. 26, 1. 1, 1. 1)
+
+==================================================
+PAGE 45 of 65
+==================================================
+GHTING
+
++ ALL CABLES ARE 10 BE XXXXXXXXXX
+
+EXCEPT A3 SHOWN.
+
+UPPER DECK LI
+Y . NOTE
+(T
+AET MOGRING_STATION
+ste0 PorT A DK
+aFT R inG
+@ STATION LIGHT]
+2 §
+Zoxw2 253
+20x02
+Cno-18s L-ND-30a
+B B LOPY-2 N341C LoY-2 N
+L-wp-190 L-no-168
+opv-e Le2ll o2
+
+FORM 2A(5.1.1.1.1.246,26,1,1.1,1)
+
+a005-8
+
+9svINEE
+
+10T-by "ON 9AQ
+
+se-d
+
+==================================================
+PAGE 46 of 65
+==================================================
+FORM 24(5. 10, 10, 40, 30, 90, 10, 30, 30, 10, 20)
+
+LIGHTING DISTRIBUTION BOARD
+12t ! NOTE
+L=NF
+FORE PART TRANSFORMER FORE SHIP. .
+(AC 220V 60MZ 3-PHASE] BosoN STORE,
+“LSNF-DIST 8D
+s0/408 507104 R
+Lone- wesy s | st ue-z Loz
+(see po3s1 Lnes /oo o Lot > (see pe3s)
+(3000) ¢ 1000)
+s0/108 507104
+L-NF-2 Me-3 RS T® Hezd S-NF-4
+¢ ese) s0/108 s0/104 ¢ 1894
+-5
+-HF-5 Me=s es_|| es
+(sex p-35) < fn_z /o) o\ spare(e)
+P iy sesior
+LoNEeT = || st L-ne-g
+(SEE P-36) <} To-1 25 2p 2p 0-155 > (see P-36)
+) ¢ asas
+sos108 507104
+L-nF-9 st st T
+- 2p -
+(see Pose) < (5-1.25 = 0-1 25 > (see p3e)
+¢ 1000) ( 200
+507108 s0/108
+"
+(1) spare (2o ) ST /30) cazyspare
+RT3, 662 raeos) ler—@ t-cp-18 PUB-100
+ST e p e GSEE P-3) JUNCTION BOX
+TR: ®,957.5
+FE7.€ [ Fovo (O Poguzt cys-s
+v —— . ; e - ~
+7. P88 \aa (SEE DWG.NO.42-101) JYNCTION BOX
+(70 MsB}
+soos-
+
+9srINTT
+
+TOT-¥b 'ON DAD
+
+ve
+
+==================================================
+PAGE 47 of 65
+==================================================
+FORE PART L
+12 "L-NF®
+
+TGHT NG 1 ALL CABLES ARE TO BE #L0-2 EXCEPT 45 SHOWN,
+
+NOTE
+
+3000w
+
+FORE SHIP, .
+AS8D sosin store.
+
+FORM 2A(5.1.1.1.1,86. 20,
+
+LoNF-1
+e Tce] ™ SUEZ CANAL SEARCHLIGHT DECK LIGHTING (FORE MAST)
+& UEXP. .
+FORE 5TED FORE PORT
+FORE SHIP,
+8OSUR 5TORE. FORE MAST,
+- - L-KE-2a
+= s <
+20x*2 20X%2
+L-NF-2B
+Lov-z
+FORE MAST (SIDE) FORE MAST (SiDE}
+sTeD PORT sTED FORT
+%%,
+FOSUN STORE 20x%2 20xa2 20x%2 20x%2
+L-NF-3 (O Loras L-NF-34 .
+bigz NBAIG Tov-2
+L-nF-3c L-%F-38
+NBAIC TGv-F
+5-NE-as S-NE-4A
+-— NB71G vF
+S-NF-aC S-NF-4B
+NE71G s
+FORE MAST (AFT
+STBD PORT
+FORE SHIP..
+BOSUN STORE
+S-HF-5 S-NF-55 S5-NF-54
+|:quitrry HB71G. Tov=z 20%X%4
+S-NE-5C S-NE-5B
+NB71G S
+o006z
+
+. 10.120. 10. 30)
+
+95VINZZ
+
+101-bY "ON OAD
+
+s€-d
+
+==================================================
+PAGE 48 of 65
+==================================================
+FORE SHIP LIGHTING T ALL CABLES ARE TO BE ALD-1.26  EXCEFT A5 SHOWN.
+12 (v _nr- NOTE
+ueP. ok FORE SHIF..
+ENTRANGE BOSUN_STORE
+BOSUN STORE
+FORE SHIP. . NF-78 NE-TC NE-TD NF-TE wp-7E F-76
+g;§u5K553;§ 42 G 42 G 42 ¢ 42 G 42 G 42 G
+158%4 156882 15B8+2 [15E*a 15B%2 15842
+NE-
+LonF-7
+b LD-1.25
+F.0. TRANS PUMP RM
+FORE SHIP..
+BOSUN STORE - - - - - - - -
+NF -84 NF/\SE NF-8C NF-BD NF-BE NF-BF NF-8G NF-BH F. Q. TRANS
+L-NE-8A PUMP RM
+To-1. 25 2 N ZF, 2P, 2P, S 22 6
+15Bez 15842
+BOSUN STORE
+nE-9
+BOSUN STORE
+R :
+B - - - S - _— —
+——, FORE SHIP.. .
+L-NF-10 Gop | BOSUN STORE.
+v e T 657 | NOTs asP (SPAGE HEATER SOURCE & PANEL LIGHT)
+
+FORM 2A(5,1.1.1,1.51.10.10.175.5, 25)
+
+0006+
+
+8svINZE
+
+Tot-bv "ON DA
+
+9e-d
+
+==================================================
+PAGE 49 of 65
+==================================================
+T ALL CABLES ARE 10 BE XXXXXXXX  EXCEPT AS SHOWH.
+
+AFT SHIP. ..
+TL-NYTDIST BD
+
+(635. 5)
+
+ST KED SPARE(6}
+
+LIGHTING DISTRIBUTION BOARD
+130 20y
+L-NY
+220V FEEDER PANEL
+(AC220V 6OHZ 3 PHASE)
+(see p-38) <} Ty
+¢
+(see p-38) <t LL-DN:_SES
+R &34, &
+ST €36, 8
+TR 7
+2,084 (vA)
+
+LoNy-2
+5
+10-1. 25 {> (3E€ P-38)
+(636.5)
+L-NY-a
+SEE P-39
+LBv-1.25 > 39)
+¢ 350)
+e e P L
+- L-gRonY PuS-100
+(SEE P-8) JUNCTION BOX
+
+FORM 2A(5. 10. 10. 40. 30, 80, 10, 30. 40. 10, 20)
+
+0008
+
+asviNze
+
+10T-VyON BAQ
+
+LE
+
+==================================================
+PAGE 50 of 65
+==================================================
+FORM 24(5,1. 1. 1.1. 116, 10, 10, 100, 10, 30}
+
+L 3]AFT SHIP LiGHTING NoTE || AU SRECES AR 7o GE wioeiEs  except As smowm
+TL-NY®
+AET SHIP. .
+STEERING GEAR PM STEERING GEAR RM
+EMCY FIRE PUMP RM AFT SHIP..
+Ny-1o
+EMCY FIRE PUMP RM
+HELIE
+AFT SHIP.. {I58¥3 5
+STEER GEAR RM. -
+WO. 3 aSP Leny-18 s STEER GEAR RM
+i i EMCY FIRE PUMP
+(264vA:97ACE W SOURSE & PAMEL LIGHT) (SEE DVG NO. a2-101)
+STEERING GEAR RM
+-2 - - -2 Sred serk -2 ny-2¢ -
+NY-24 Ny-28 Ny-2¢ NY-2D Seer Gerk Ny Ny-26 STEER GEAR RM
+47 G 42 © 22 G 42 G 22 G+—122 G 22 G
+168%4 15842 158%2 1568%2 15842 15842 16622
+_ ~ _ LoNv-2a STAIR WAy
+Lo-1. 26 @ Th-s
+STEERING GEAR ROOM
+wy-3a Ny-3p ny-3¢ Ny-30 Ny-3€ NY-3F NY-36 STEER GEAR RM
+2 G4z G 22 G G 42 22 ¢ 22 G
+ss5Bse 15802 15602 1582 15882 15802 15802
+- - - —% LoNY-34 STAIR WAY
+[
+os0-s
+
+QsrINEE
+
+101-07 'ON 9AQ
+
+8e-d
+
+==================================================
+PAGE 51 of 65
+==================================================
+FORM 2A(5.1.1,1.1,1,1.1,248. 5, 20)
+
+T3 [AFT sHIF LIGHTING 1 ALL CABLES ARE 70 BE GLDY-1.26  EXCEPT AS SHOWN.
+A - NOTE
+L=NY
+SUNKEN DK OUTSIDE PASSAGE LIGHT
+AFT SHIP. |
+- NY-aA NY-4B NY-4C NY-4aD NY-4E N;—%F SUNKEN DK
+[ ) & Z 2
+LenY-GA
+gt
+006-7
+
+9apINZE
+
+10195 "ON BAQ
+
+62-d
+
+==================================================
+PAGE 52 of 65
+==================================================
+FORM 2A(5.10.10,40.30, 90. 10. 20. 40. 5. 25)
+
+EM
+14_ Cy EIGHTING DIST EOARD NOTE
+L-EA
+P-LD-EA -
+EMCY SviTCHBOAD WY ECTYSE NAY BRI DECK..
+(AC220V 60MZ 3PHASE) (SEE DWG. NO. 42-101) WHEEL HOUSE
+NAV BRI DK.. STL-EATDIST 8D WAV BRI DX, |
+Wi
+“NAY CONSOLE 50/10A 50104 viH
+(see Lcp L;:-; 2o LRS ST /) t:;-z Lep L HAY GONSOLE
+-z 1 5) LRy 50,104 507104 (1600}
+L-EA-3 e [ m o L-EA-2 (SEE
+2p 2p P-E & 8)
+10-2 10-1.25
+1000} ¢ sz2)
+L-Ea-as
+To-1 25 £ (seg P-41)
+80/10A ?_/\AOA ) —
+st st L-EA-§ wH
+/e |
+57 sPA 2p 20 T5-3 Lee “HAV CONSOLE
+o . 50/104 50/104 « 2a0) Tsge p-8)
+“NAV CONSOLE -EA-7 T -
+cowsore e l——toee 2o LI LIRS pare <o)
+(780} 50,104 s0/108
+orseare (2o B L ST SN Gorrecso
+Ry}, 720
+ST: 4,290
+TR 1,702
+<+, 662 (vA)
+0001-5
+
+asbiNzE
+
+101-5p 0N BA0
+
+oy-d
+
+==================================================
+PAGE 53 of 65
+==================================================
+NAV BRI DECK & A DECK org | L cheLes ARE TG s #lo-izs Excert a5 swown.
+14 EMCY LIGHTING “L~EA” N
+NAV BRI DECK
+RADIO
+RADIO EQUIPHENT RM CHART SPACE EQUIP SPACE STAIR WAY _pjiov
+137V 5 NAV BRI DK
+ixe 42CeE e (o)o) [
+A= u-s BLM-5 e
+.y ~,
+A : ®
+o ioes }
+(s pisn)
+
+FORM 2A(5.1.1.1,1,252,20.1. 1, 1. 1)
+
+007-5
+
+espINZE
+
+T0T-pp ON 9AD
+
+Tred
+
+==================================================
+PAGE 54 of 65
+==================================================
+H
+15 %?\CSEEEIG TING DIST BOARD NOTE
+EMCY SWITCHBOAD . PolocEB 0 DK.. EC REC,
+(AC220V E0HZ 3IPHASE) (SEE DWE. NOG.42-101) TL-EBTDIST BD
+50/104 507104
+- L-EB-1 es || 9= L-go-2 _
+(SEE P-43) <} 5ot 25 Hd 2P T5-1 25 {> (SEE P-43)
+( 730) { 654)
+(s peam) ——LIESIE
+tb-1.28 50/10A 50/104
+L-£6-3 st || st /oy L-ep-a -
+(see p-az) < Lo-1. 25 e 2P Lo-1. 28 > tsee P-4}
+€ 167.5) { 435.58)
+s0/104 50/104
+(see peaa) < e e 1L ST /5 Leens D (sge priay
+« 974) s07108 so/104 ¢ 825.5)
+(sce poea) < Loesr FES LS crane o
+"7 sa0.s) §0/10%
+(orseare (2o EE L RS /TN cosee (a0
+RS 7, 860.7
+ST: 7,628
+TR 1,628
+@, 77 CYA)
+
+9sVINEZ
+
+10%-vp "ON 9AD
+
+2p-d
+
+FORM 2A(5.10,10. 40. 30. 80, 10. 30, 40. 10. 20) 00071
+
+==================================================
+PAGE 55 of 65
+==================================================
+T ALL CABLES ARE 7O BE ALD-1.25  EXCEPT A5 SHOWN.
+15 I? 3 C_DECK EMCY LIGHTING NOTE
+L-EB
+) C/OFF"§ C/ENGS 2/ENG'S
+INS1DE PASSAGE CAPTAIN'S DAY ROOM D4y RoOM DAY ROOM DAy _RoOM
+PORT STALRWAY STED LOBBY L D DX
+P2C € P2t & P2C & P2C 6} P2C €& 23CS€E; 23C36) (Z3cse) (23cse) (230@
+I FLM-5 BLM-S EM-5 ALM=5 BLM-5-.
+, . . j g 1\ == \ 3
+CAPTAIN'S c/ENg's 2/ENG"S
+3/ENG BED ROOM C/OFF [CER BED ROOM BED ROOM ELECTRICIAN 3/0FFICER
+- B5ce s sS) 8508 ss) ss, B5CE B3Ce B5C8] D ok
+™ Lu-5 LM-5 . BLM-5 [N aiM-s 2/0FFICER
+B5CE
+C oK
+INSIDE PASSAGE
+PoRT STAIRWAY sTaD
+P2C & P2 & P e P20 € P2C e
+L-€8-3
+B LD-1. 25 - - - -
+SPARE(2-P)
+{J/DFF) RATING @) RATING B RATING B RATING &
+- BSCE BSCE BSCE} BSCE BSCE BSCE
+c ok
+RATING & RATING®  RATING @  RATING® _RATInG @ _Rating @3 raTine @
+B5CE B5CE BSCE BSCE BECe B5CE BSCE
+
+FORM 24(5.1.1.1.1.
+
+252.20.1.1. 4. 1)
+
+0007-2
+
+9aPINTZ
+
+ToT-vp 0N oma
+
+32
+
+==================================================
+PAGE 56 of 65
+==================================================
+ssvinzE
+
+Tot-re "ON oMo
+
+br-d
+
+B DECK EMCY LIGHTING 1 ALL CABLES ARE T0 BE RLD-1.25 EXGEPT AS SHOWN.
+15[~ - NOTE
+L-EB
+INSIDE PASSAGE B DK,
+PoRT STAIRWAY PORT 578D
+F3C € PZC & P € P €
+8 DK,
+L-€8-5 8 DEK. .
+i . - - - O EC REC.
+FOR LiFE BOAT
+L-E8-58 FOR LIFE BOAT
+Ch. P et (PORT}
+sTED
+-5 o7 FOR LIFE BOAT
+ch.p L B854 ) ¢sTeD)
+WTY-5. 5 [h=a)
+DUTY MESS RM OFF'S SMOKING RM OFF S MESS RM
+8 Dk,
+.. [23C E (23Cse)~(23C58) (Z3CS8) num-5 (23CSE)<23CSE)y+(23C8E) .
+RLM-5 HLM-5 N / RATING :a‘ RATING :;
+A | ] A 24 B5CE BSOS
+L-EB-§&
+L
+RAT S SMOKING RM RAT'S MESS RM aaLLEY
+H L 1 = N —— . 1
+an-s 208 EH23C Bl o [23C BH2SC easc @ 256 e|-{220 B-22C e}-|22c & !
+LA X ) i
+L-E8-7
+vt Y ‘
+Law cantes ARE To ge #iar=i28 |
+00013
+
+FORM 2A(5.1.1.1.1,186.10.10.40. 10, 20)
+
+==================================================
+PAGE 57 of 65
+==================================================
+16 EMCY LIGHTING DISTRIBUTION BOARD NOTE
+"L-EC”
+Lo-eC
+EMCY SWITCHBOARD - UPPER DK, .EC REC.
+40220V 8OMZ 3PHASE) (SEE DWE. KO.42-101) L-ECDIST 8D
+507108 507104
+L-Ec-1 ST\ IR ST L-Ec-2 R
+(stE p-as) < o1 55 2p 2P TS > (see p-46)
+LTS CED .
+G—e—bECLL (SEE P-46)
+(SEE P-a8) TBY-T35
+Lo 2s 507104 an%uA
+He-g L-EC-q
+L-£c-3 rs || T® -
+¢see p-a7) <t Tov-3.5 2p 2F o125 > (see p-a7)
+i ¢ 467.5)
+(1000) | oo
+L-EC-3A Mo-2
+{SEE P-47) G —
+i £0/10a 50/104
+L-EC-5 ® ®” L-£c-g .
+(SEE P-47) <} T GP\ @ o1 2% {>(SEE P-47)
+et ) 507104 S0/10A o, ( 269) 5 oK.
+L-EC-7 Me8 /RS ST o S-EC-8 CARGD CONT RM
+«see p-ag) <t To- = S T5as CaRag ©
+(1020} sa/10s 50/10a (1160) L.
+corsnane 2Bl ST /o pnpecn)
+L-cr-gC FyB-100
+T T B SEE P-9 ) JUNCTION BOX
+RS: 2 0820 | i
+ST 1,929 ! !
+TR 22225 [ I Sovx-1 FLICKER RELAY BOX
+= - - - L - FGR INTRINS TEL
+6.769.5 wa) X1 TSEE O¥G. WO, 56-101)
+
+¢TEL CALL S16.)
+
+FORM 24 (5, 10, 10. 39. 40. B0, £0. 40. 30. 10. 20}
+
+008-1
+
+esPINTR
+
+10%-FF 0N BAT
+
+Sb-d
+
+==================================================
+PAGE 58 of 65
+==================================================
+FORM 2A(5.1.1.1.1.
+
+252.20,1. 1,1, 1)
+
+A DECK EMCY LIGHTING 1 ALL CABLES ARE TO BE #LD-1.25 EXCEFT AS SHOWN.
+16|~ - NOTE
+L-EC
+PROV. HAND SPACE
+8 oK. .
+ec-24 [ G PROV
+HAND SPACE
+15882
+PORT STALRWAY sTBO | EC-28
+PzC € F2C € F2C & BiC & Ej i 22 Ge A oK. .
+. 15842
+LDY-1.25
+GAP |
+L-Ec-1a _ _ ~
+CARGO CONTROL ROOM SHIP'S QFFICE
+5
+ZC e TZCEE azc e ice 2% € 2% e
+b I 25
+{_t-pe-se
+! (SEE P-53)
+ace
+FIRE
+STATION CONFERENCE ROOM RATING @3 _RaTina(2e)ERAR
+22_cd (=) 23Cse) BSCE B5Ce}—{B5Ce EM LY GEWERATOR ROOM
+#LU-5 €c-2e ec-2f
+22 G 22_Gel
+@ B 15892 15882
+> -
+B
+L-Ec-28
+d008-2
+
+9sPENEE
+
+FOT-9v 'ON 9D
+
+ob-d
+
+==================================================
+PAGE 59 of 65
+==================================================
+FORM 3A(5.1,1.1.1,116.10.10.115.5.20)
+
+LIFE BOAT & UPP.DK EMCY LIGHTING T ALL CABLES ARE TO BE #LD-1.25 EXCEPT AS SHOWN.
+161: ; : NOTE
+L-EC
+LIFE BOAT LiaHT
+. A DK..
+A LLIFE BOAT
+Bty g - - - - - - e 'Z5m® Lts (sT8D)
+s20x01
+A +LIFE BOAT
+pLoEesA . i . i . " . A ST
+LDY-3.5 Foxe1
+/2001
+- 2
+INSIDE PASSAGE EA-4AA - :’”’Fn
+L&z
+PORT STAIRWAY sten 4
+Ec-aa uPe DK, 3RD OK. .
+. ETchpE
+21 _Gel P2C € P2C € P2C € PIC € SN
+- - - _ L-£C-4a eh-sne .
+> © LoFt. 25 v
+DRY POWDER
+TANK/RELAY 80X ROOM HOSPITAL
+Ec-54 €c-s8
+72 Ge{ 42 Geoisexz T e ews o
+158%4 EC-5C HLM-5 £ CREW
+22 Gel UPP DK..
+sbE 2z BZA BSCe BSCE BSCE. B5CE B5CE. B5ce] - -
+co2 BOTTLE ROOM
+EC-6A EC-6E EC-6C EC-6D UPP DK, .
+22 Ge——{22 Go |22 Gel 22 Ge] ©02 EOTTLE RM
+a00s-3
+
+asvinzz
+
+T01-pp ON BMO
+
+Ly-d
+
+==================================================
+PAGE 60 of 65
+==================================================
+A DECK EMCY LIGHTING T ALL GASLES ARE T0 BE #LO-1.25  EXCEPT AS SHowN
+16 |- . NOTE
+L-EC
+OUTSIDE PASSAGE LIGHT (STBD)
+A DK
+Ec-7a  EC-7AL  EC-7a2
+L LEe-7 L-EC-7A @ @ A DK,
+s Lp-2 ? #LOY-1. 25 \/
+LOY-1. 25 UPP DK
+€C-TA3 ECSTAA EC-TAS  EC-TAG .
+UPP DK. .
+=8r 586
+L v 25
+OUTSIDE PASSAGE LIGHT (PORT)
+A ok
+£c-8 €c-7B1  Ec-782
+Gy o
+&
+@
+ver ok
+EC-7B3 EC-7B4 EC-TBS EC-TE6 EC-7B7
+& .5 & e
+2 A
+ENGINE CASING
+Ec-7n Ec-1c1
+oK.
+! ALov-1.25
+Lot —7¢
+EXE Ry
+
+FORM 2A(5.1.1.1.1.252,20, 1. 1.1, 1}
+
+00084
+
+9spINZE
+
+10T-+y 'ON BAG
+
+a6-g
+
+==================================================
+PAGE 61 of 65
+==================================================
+RI: 268
+T 60
+TR [
+328 (VA
+
+sPARE(E) | 2P
+
+ST 0 seareca)
+
+17 FMCY I:IGHTING DIST BOARD NOTE
+L-EF
+EMCY SWITCHEQARD ——g FORE SHIP,.
+
+(AC220Y 60HZ 3 PHASE) (s& BoSuN SToRE,
+
+“USEF*DI5T BD
+50,104 507108 o, !
+L-EF-t RS ST s L-gF-2
+
+(see P-50) < T /?—"\ 2p =T > (SEE P-50)
+¢ 2681 §0/104 50/10A (60)
+®
+
+= HCy— -~
+
+Mex1
+
++=-= BRANCH EOX
+
+LTY-2 (SEE P-9 )
+
+0
+
+RM 2A(5. 10.10. 30,40, 80. 10. 40. 30, £D. 20}
+
+0006-5
+
+95PINTE
+
+10T-b¥ON BAG
+
+6r-d
+
+==================================================
+PAGE 62 of 65
+==================================================
+4 7|BOSUN_ STORE EMCY LIGHTING NOTE T ALL CABLES ARE TO BE BLD-1.25 EXCEPT AS SHOWN
+TL-EF”
+BOSUN STORE
+STAIR WAY
+- EF-14 EF-1B EF-1C FORE SHIP, .
+BOSUN STORE
+b= = —- 22 G 42 Ge 42 _Gce
+16B%2 15Be2 15E#2
+FURE LIFE RAFT LIGHT
+vExe.
+EF-2A . FWD LIFE
+RAFT LIGHT
+B L=EF-2 . » . . 7 \\d
+tov-t. 55 @)
+
+FORM 24(5,1.3,1.1.250, 22,1, 1. 1, 1)
+
+000s-€
+
+asvINzZ
+
+101-5¥ 'ON DAQ
+
+05-d
+
+==================================================
+PAGE 63 of 65
+==================================================
+1 g|EMCY LTBHTING DIST BOARD NOTE
+P-LD-EY
+£MCY SWITCH B0ARD R TNT] AFT SHIP. .
+TAC220Y BOHZ 3 PHASE) (SEE D¥G W0.42-101) STEER GEAR RM.
+SL-EY"DIST BD
+50/10A 50/10A
+(sEE p-52) <t t::’;s foer iR |l st /) S > (see p-52)
+: 507404 507108
+< oem e P ¢ 737)
+(s€E P-52) <} tnsiiazs 2p 2P\ SPARE(4)
+¢ 120)
+=) .
+PyB-100
+—=—Ge - SR~ ——=— JUNcTion Box
+X1
+RS: 20
+T 737
+= 27
+TEE VA
+
+FORM 2A(5. 10.10, 30, 40. 90, 10, 30, 40. 10. 10)
+
+0008-7
+
+EERTTE
+
+FOT-vP 0N DAT
+
+Ts-d
+
+==================================================
+PAGE 64 of 65
+==================================================
+FORM 2A(5.1.1.1.1,
+
+146. 10, 10, 80, 5. 25)
+
+EMERGENCY LIGHTING DIST BOARD 1 ALL CABLES ARE TO BE BLD-1.25 EXCEPT AS SHOWN.
+18]: : NOTE
+L-EY
+AET SHLP, .
+TEL. BOOTH  STEER GEAR RM EMCY FIRE Pume_ew AFT SHIP..
+. Ev-1a EMCY
+Y-8 | FIRE BUMP RM
+Zise 22 Gel
+1sBe2
+L-EY-1B o
+I
+I =)
+ L-EY-1 L-EY-1A
+Y ip-1.28
+AET SHIP
+_STAIR WAY . SUNKEN DK,
+ev-26
+= STAIR wAY
+15632
+STEERING GEAR ROOM S
+STEER GEAR RM
+ev-28 Ev-2¢ Ev-20 £Y-2E .
+22 G Gg- 42 Ge 42 Ge EY-24
+158e2 158x2 156=4 TSEe2 > o AR LOCK SPACE
+EY-Z2H EY-2G EY-2F 158%2
+22 G 42 Ge 12 Ge
+16B#2 15882 15B#2
+L-EY-2 % L-EY-2A
+B LD-1. 28 LM-5
+SUNKEN DK DUTSIDE PASSAGE LIGHT
+EY-34 EY-38 AFT SHIP
+poboErs ~ ~ L-Evozs . SUNKER DK.-
+LDY-1. 25 #LDY-1. 25
+a0ea-s
+
+9spINEZ
+
+HOT-vP ON DAD
+
+29-d
+
+==================================================
+PAGE 65 of 65
+==================================================
+T ALL CABLES ARE TO BE (D-3.5  EXCEPT 45 SHOWN.
+2 Q| TEMPORARY EMERGENCY LIGHT NOTE
+WHEEL HOUSE HAY
+SHART sPacE L.
+NAV BRI DK.. -
+“5wt CHART SPACE 5w WHEEL HOUSE,
+_A42CEE | [azCeE ]
+Lopp-ss rrsa
+Cons
+NAY 8R1 DK, . 4 Loons |
+8 (SEE DVG ND.45-101)
+BATT. CHARG. & o ok,
+015CHARG. BOARD .cocts
+lonpl . copess ) L-0c-52
+[ tsee owa wo.as-101) 280kt
+2exk3
+4
+8 DK.. N
+orLLEY T 5 ok, CcARGO COWT Ru Y ok
+. LDC-55
+@ L-DC-57 L-DC-56 CARGO CONT RM
+[ Y35 Jpoxea
+I
+A DK, . ) .
+s
+H
+F1RE STATION v
+A DK,
+1L-DC-59 . LDC-5B
+20% 44,
+EMCY GEN. RODM
+L-DC-54 EMCY GEN RM
+
+FORM_ 2A(5.10. 10. 40, 10, 40, 20. 30. 90, 10. 20}
+
+0006-a
+
+aspiNzE
+
+101-vY "aN 9MaQ
+
+Hes-g

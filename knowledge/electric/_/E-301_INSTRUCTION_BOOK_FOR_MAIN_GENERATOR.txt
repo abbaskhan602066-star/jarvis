@@ -1,0 +1,1385 @@
+FILE: E-301 INSTRUCTION BOOK FOR MAIN GENERATOR.pdf
+FOLDER: .
+DATE: 2026-03-06 20:41:26.848547
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+MANAGER
+
+INSTRUCTION BOOK FOR
+MAIN GENERATOR
+
+--- PAGE 2 ---
+INSTRUCTION MANUAL
+FOR
+BRUSHLESS A C. GENERATOR
+
+(MODEL: FE:FLEK)
+
+TR — G
+
+--- PAGE 3 ---
+e po
+
+INSTHUCTION MANUAL FOR BRUSHLESS A.€. GENERATORS
+
+CONTENTS
+
+INTROBUCT10N 1
+OUTLINE 1
+OUTLINE OF THE EXCITING SYSTEN 2
+GENBRATOR CONSTRUCTION 3
+4-1 Stator 3
+4-2 Rator 4
+4-3 Bearings 6
+4-4 Ventilation 8
+4-5 A.C. Exciter 8
+4-8 Rotary Rectificr 9
+4-T Space Heater 9
+4-8 Air Filter 9
+
+EXCITING SYSTEM
+5-1 Bxciting Operation
+
+5-2 Construction and Function of the Static
+L O
+OPERATION
+6-1 Preparation for Running
+
+6-2 During Running ooccsesesssssrsrssssssme i
+
+6-3 Parallel Bunning
+HATNTENANCE
+
+7-1 Periodical Inspection
+
+7-2 Maintenance Procedures
+TROUBLESHOOTING
+
+8-1 Trouble Causes and Countermeasures
+DISASSEMBLY & ASSEMBLY  ------o--ooomeesers
+
+9-1 General Precautions
+
+9-2 Disassembling and Assembling Procedures
+
+--- PAGE 4 ---
+1. INTRODUCTION
+TAIY0 brushless a.c. genarators hzve been designed so as to fulill various
+
+lews, regulations, 2nd standards upen the basis of aur company’s long years of
+
+oducticn of marine gencrators and in cereful considaration of
+electricai. mechanical and other overational reyvirements for verives zarine
+conditions. Just as careful considerations and tiwely medical examinations are
+necessary lo maintain human health, adetuate periodical inspection und
+maintenance work is indispensable for any generator to display the best
+performance for a long time.
+
+Habitual proper handling will keep Lhe geuerator in optimal conditions at
+all times.
+
+2. OUTLINE
+
+The brushless a.c. generator canses the cutput current of a rotary armature
+type a c. exciler mousted on the shaft of the main gemerator to excite the field
+system of the main gezerator through a rolary rectifier, thus generating a.c.
+DotEr.
+
+2-1 The genarators are clessified into the following medels eccording to
+hausing configuration and protecting system.
+
+{2) Model TE Drip-proof. protected. with sleeve hearings in
+end brackels, oil ring fubrication, witha
+buili-in exciter
+
+(3) Model FE{  Drip-proof, protected. with slfeeve bearings in
+end brackets, forced [ubrication, wilh a huilt-in
+exciter
+
+2-2 The siatic exciling system is composed of a current transformer, a
+
+rectifier, & surge prolector, a power transformer,ete.formaliy, iis main
+
+compoaeats are mounted as a unil on top of lhe generelor.
+
+--- PAGE 5 ---
+3. OUTLINE OF THE EXCITING SYSTEM
+
+The basic circuit composition of this brushless gene. is shown in Fiz. 3-1.
+
+The output current of the revolving-armature type AC exciter installed on
+the shaft of the rolating machine of the main generator excites the field system
+of the main generatot through the rotary rectifier on the shaft.
+
+Also, the exciting current of the AC exciter is taken out as the exciting
+current for obtaining compound charac teristics [rom part of the output of the
+main generator through the static exciter or current transformer (CT) and the
+reactor (RT). This is then transformed into DC by the silicon rectifier (81) to
+excite the field system of the AC exciter,
+
+The output of the CT and the RT is then preset at overcompensation for
+maintaining the terminal voltage of the generator at a comslani level,
+
+This is controlled by the automatic voltage regulator (AVE) which
+constitutes the diversion system.
+
+Fs
+G: Main generator Ex: A.C. exciter Siy: Rotary rectifier
+Siz: Silicon rectifier  Si z: Surge protector Fy: Main generator field system
+Fz: Bx  field winding CI: Gurreni transformer
+CCT: Current transformer for cross-current compensation
+RT: Reactor
+VE: Rhieostat for voltage setting AVR: Automatic voltage regulator
+
+Fig.3-1 Basic Circuil Diagram
+
+--- PAGE 6 ---
+4. CGBNERATCR CONSTRUCT(ON
+
+As shown in the strusturel drawings (Fig. 9-1 -3) :ke ecacrater is ccmposed
+
+mainly of a stalor frame, stztor core, stalor winling. field core. [ield winding,
+shalt, bearirgs. a.c. exciter, rotary rectifier, and so forth.
+
+Cooling zir is teken in by the fan fitted to the rotor on ihe driven side
+through the ventilation port on the non-coupling side, and passes over the
+sarfaces o the fieid core anc coil eads and ihrough the air ducts arranged in
+the stator core and [ield core, thus effectively ahsorbing the heat generated uy
+
+thon.  The fMeated air is let out of the generator through the ventilation port
+
+on the coupling side.
+
+Tae a.c. exciter overhangs or is incorporated in tke gencraior on the nen-
+coupling side. The rotary rectifier is also mounted ou the same side to supply
+an exciting current io the field winding of :he generator
+
+4-1 Slator
+
+“he stztor frame is consiructed of weldsd mild sieel plates, beivg so
+designed as ‘¢ have sufficient mechanical sirength and to withstand electric
+shack.  The stator corz is provided as follows: silicon steel plate which is
+
+good in magnetic characteristics and coated with an insulaiing varnish fo
+
+prevention of eddy current is punched, and the punched plate elements arc
+piled along tae iemcr circumference of the slator [rame [rom onc side end
+ecuipped with air duct zt each of reguiar oile intervels. The core thus
+formed is forced in and fastened by stator clampers made of sieel plate.
+
+The stator wiading is formed of electric wire of insulation class * F ",
+and placed in the slots which have been formed in the inner geriphery of the
+stator core and protected with an insulating material of class * 7. The
+winding thus piaced
+then subjected to sufficienat va
+
+astered to Lie stator core by special wedges and
+
+impregnaticn zné drvice. The outward
+
+appearance of the stator is showa in Fig. 4-1
+
+--- PAGE 7 ---
+Fig. 4-1 Stator
+
+4-2 Rotor
+The field core is made up of laminations of a material having an
+
+exceedingly high coercive force for ease of voltage self-establishment, The
+
+laminated core is Fitted into the shaft {or the spider) and clamped at both
+
+ends by means of rotor clampers, and serves also to protect the winding,
+The field core has such cross-sectional configuration as illusirated in
+
+Fig. 4-2.
+
+Pole center Damoer bar Pols center
+
+Slot
+
+Jemper ber
+
+Air haole
+
+Rig. 4-2 {(Core for 8 poles illustrated)
+
+--- PAGE 8 ---
+The slols in whieh the field coiis are Lo be placed are formed in a nuuber
+of slot groups which cerrespoads Lo he vumber of poles. The pole center
+iig. 4-2.
+
+The damper bars are previded only in renerators for paraliel running. The
+damper ber is wound in ¢
+
+exists beiween slot groups as shown :
+
+er of the two mamoers skown in Fig. 4-2 (&) and (b).
+The field winding is formed of electric wire of insulation class “F”
+and placed in the slots furnisked with a class “F " insulating material
+The coils placed in the slots are fixed firmly to the field cere by special
+wedges and subjected to sulficienl varnish impregnation and drying
+The c¢ail ends ave bound by piano wire or special tepe sc as noi to move
+out by ceatrifugal force. The external appearance of the rotcr is as shown in
+Fig. 4-3. The shaft is made of en excelleni forged steel material in careful
+
+ideration of mechanical sirength. For the generator to be directly
+coupled to a diescl enzime, special attention has been paid to prevention of
+shzft breakage cue to torsional vibration, in our incessart close consultation
+viith the engine man:facturer as to tectnical items comcerning the coupling.
+
+Fig. 4-3 Exleraal 4ppearance of the Rotor
+
+--- PAGE 9 ---
+4-3 Bearings
+
+The bearings is sleeve bearings.
+
+The sleeve hearings are each split in two for convenience of disasscmbly
+and reassembly. Supported by the lower portiens of end brackels and cases
+the bearings have sufficient siremgth to withstand external forces, axial load,
+and vibration,
+
+Figs. 4-4 to 4-6 show bearing constructions.
+4-3-1 Three lubrication systems are employed.
+
+(1) 0il ring Iubrication (odel FE)
+(2)  Torced lubrication (Models FEK)
+Note: The stator cores of our generators are not of the sector type, so
+that no harmful shaft current may occur. lowever, only large size
+generators (with pedestals) are provided, on the non-coupling side,
+
+with insulating means for shaft current prevention,
+
+911 faading plug
+
+Oil vig,
+
+Roil aratn 51w
+
+Fig. 4-4 Bearing Construction
+Employing 0il Ring
+Lubrication
+
+--- PAGE 10 ---
+Fig, 4-6 Bearing Employing Forced Lublication
+(Left: Lower portion Right: Upper portion)
+
+Fig. 4-5 Bearing Bmploying 011 Ring Lubrication
+(Left: Lower portion Right: Upper portion)
+
+--- PAGE 11 ---
+4-4 Ventilation
+In the generator of the enclosed and self-ventilated lype, the fan fitted
+to the rotor on the non-driven side causes cooling air to be drawn in through
+the ventilation port on the non-coupling side and to pass over the surfaces of
+the stator core and the coil ends and through the air ducts provided within
+the stator core and the field core. Thus. the air effectively reccives heat
+generated by these components and then flows out through the vest port on the
+coupling side.
+The ventilation porls are provided with sufficient protecting means for
+protection of the human body and against the eniry of foreign solid objects.
+
+4-5 A.C. Exciter
+
+The a.c. exciter is of the rotating armature type and located on the
+non-coupling side of the generator. The exciter is composed mainly of a
+slalor frame, field core, field windings, armature core, armature winding, etc.
+
+4-5-1 Stator
+
+The stator frame is constructed of cast iron and welded mild steel
+plates, being so designed as to have satisfactory rigidity and strength,
+
+The field core is made by placing laminations of a material having
+excellent magnetic characteristics in the stator frame, In the field core
+slots in which the field winding is to be placed are formed in a number of
+slot groups which corresponds to the number of poles.
+
+The field winding is formed of electric wire of insulation class F and
+placed in the slots formed along the periphery of tle field core and
+furnished with an insulating waterial of the employed class. The winding
+put in the slots is subjected to sufficient varnish impregnation and
+drying and fastened to the field core by wedges
+
+4-5-2 Rotor
+
+The armature core (rotor core) is provided as follows. Silicon steel
+plate of high quality which is coated with an insulating varnish for
+prevention of cddy current is punched, and the puached plate elements are
+piled on the shaft and fasteaed by end plate. The armature winding is
+formed of electric wire of insulation class F and placed in the slots
+furnished with an insulating matcrial of the employed class. The winding
+thus put in the slots is fixed to the armature core by wedges and subjected
+to sufficient varnish impregnation and drying
+
+The coil ends are bound by pianc wire or a special sort of tape so as
+not to meve out by centrifugal force
+
+--- PAGE 12 ---
+4-6 Rotary Rectifier
+
+The rotary rectifier is fitted to the generator shaft.
+Two conductive plates are attached to a rotary rectifier boss through an
+insulating plate. The cenductive plates carry silicen rectifiers for each
+phase, a silicon carbide varistor (Silistor) for surge prevention and other
+parts, Thesc components serve for three-phase full wave rectification of the
+a.c. output of the a.c. exciter to supply a d.c. exciting current to the field
+winding of the generator.
+
+4-T Space lleater
+
+The generator windings may absorb moisture while the generator is at rest.
+In order fo prevent this moisture absorption, it is necessary to keep the
+temperature within the resting gemerator a little higher than the ambient
+temperature, A space heater is provided to satisfy this requirement.
+
+The space heater is
+located at the lower portion
+of the generator frame so that
+the heated air circulates in
+the generator to scrve effec-
+tively to protect the windings
+and the related parts from
+moisture, Terefore, when it
+is intended to keep the
+generator at rest, be sure to
+turn on the power switch for
+the space heater. When
+
+starting the generator, be
+sure to cut off the power
+supply to the spacc heater.
+The outward appearance of fig. 4-7 Space lieater
+the mounted space heater is
+
+shown in Fig. 4-T,
+
+4-8 Bir Filter
+
+When a drip-proof, pratected type generator is vquipped with an air filter,
+it is located at the cooling air suction port so as to minimize the entry of
+dust, oil vapor and other foreign watter into the generator, so that the
+generator interior can be kept cleaner than otherwise,
+
+--- PAGE 13 ---
+5. EXCITING SYSTEM
+The basic circuit diagram of he brushless a.c. gemerator is as shown in
+
+Fig. 3-1.
+5-1 Exciting Operation
+
+5-1-1 Exciting circuit
+Understanding the principles of the wperation is important for correct
+operation of the generator and for early detection of the cause of failure
+as well as for the performance of the appropriate ropair work.
+Fig. 5-1 shows the excitation circuit of this generator.
+This systen converts the output current of the AC exciter installed on
+the shafl of the main generator, into DO, This is performed by the rotary
+
+rectifier and conscquently excites the field system of the main geperator.
+
+RTG
+
+AVR
+
+Fig. §-1
+
+Exciting the AC rectifier is performed by taking cut part of the
+output of the main generator as excitation current by the reactor (RT) and
+the current transformer (CT).
+
+This is to say that the excitation current compensates for the
+terminal vollage at the no-load condition, This excitation current is
+obtained from the RT and compensates for voltage drops by leak resistance
+with the armature reaction caused by load current at load beign obtained
+from CT.
+
+5-1-2 MR circuit
+The AVR circuit consists of the deviaiion delecting, power saurce
+P.L.D., phasc control, and main thyristor, as shown in fig. 5-2. part of
+the deviation detecting circuit, P.I.D. circuit, and the phase control
+circuit, are incorporated into a printed circuil board and enclosed in a
+
+box with the detecting transformer RI1 and main thyristor.
+
+10
+
+--- PAGE 14 ---
+" STATIC EXCITER
+INPUT VOLTAGE
+
+poier
+source
+input
+detecting Power Synchronize
+input source controling
+circuil circuit |
+setting ' !
+Voltage |
+]
+deviation P.I.D. Phase main
+?| detecting 3 control 3 thyristor
+circuit cireuit circuit circuit
+our PUT
+
+Fig 5-2 AVR Block Diagram
+
+The deviation detecting circuit gencrates the detected input
+
+proportional voltage Bl which is proportional to the detccted inmpul
+
+voltage EG and d-c converted to a proper magnitude and the reference
+
+voltage 2 which is independent of EG and always constant, and provides
+the deviation voltage B3 (= Bl 4 E2).
+
+11
+
+--- PAGE 15 ---
+VR
+
+detecting CCT setting voltage
+input —
+L Ak pe -
+i phase control power source
+P.I.D. circuit circuit i circuit B
+s r b : G- R Rat
+€5 RS * R b2 )
+Ml “H 1 - ALies ,
+A DI |Rri — H Ris R 22
+ey e B e [ks a
+_an‘g U Ja c RZ}E el R ¢ A - —E(i7“ﬁ Cia
+g | u 3 1 §
+| ST T T [ = :
+AL Al u AL s T kL 11,
+: 1 3 ; GOl 3 ]R3 fu —®
+& deviation L[ ) ! ? o
+= detecting circuit c3 Gt 11, . L - o @ i
+= ' H z4
+2 L [
+a = G J
+3 u 12
+v : synchroniz-
+) [®  pover sourse i ooniroling circult
+. Ds circuit s % '——I;;@
+22
+earth jr,,z T :R!U R 5}:1 D3
+® AA-D48 ; [ = P ¥ R
+- . = 3 o 3] L
+- 5 hd
+A R i<z l D12 ' Yee R & Lcu ©
+static jexchter 5CRY e WPTEy y o Py ; Al
+;glﬁg am Gi sk —‘]] H:———(gu 1l Is o) Rize
+® "“'iw F (VT 'V O M
+B A o 13 i
+: o) A vl (-
+main thyristor circuit G KiGz 2
+L 1 -
+
+--- PAGE 16 ---
+Es
+
+Deteeting input
+Voltage EG(%)
+
+Ez
+(=E1+E2)
+
+Ex
+
+Fig. 5-4 detecting input Voltage EG-El, B2, E3
+
+The relation between EG, BI, E2 and E3 is shown in Fig. 5-4.
+
+Vain parts of the P.I.D. circuit is using op amp. The deviation
+signal B3 is amplified by the operational amplifier in this P.1.D. circuil
+and the amplified deviation signal [’3 is converted into a single pulse
+controlled, in the phase contrel circuit in the phase refation as shown in
+
+Fig. 5-5.
+
+Phase
+engle
+«
+
+9.5 16 W)
+Deviation signal E's
+Fig. 5-5 deviation signal '3 - phase anglex
+
+In this circuit, RI2 is a variable resistor regulating the AVR gain,
+and in case output vollage is un-stable, turn this resistor to control
+
+clockwise dircction until getting stable output voltage.
+The P.1.D. & synchronize-coniroling circuit resistor has set most
+
+suitable point at our factory.
+In this circuit, variable resistors B3, R9 and R35 must not turn.
+
+13
+
+--- PAGE 17 ---
+5-2 Construction and Function of the Static Exciter
+
+The static exciting system is composed of a reactor- ®RT), current
+transformer {C1), silicon rectifier (Si), semiconductor automatic voltage
+regulator (4YR), etc. Normally, the voltage regulator (VR), parts for
+parallel running are installed in the switchboard as shown in Fig. 5-8, while
+the other parts are placed in a box (Fig. 5-7) of drip-proof construction
+nounted on the top of the generator.
+
+A. C. GENERATOR&EXCITER SWITCH BOARD
+
+B %H, Ac 14
+sPACE HEATER cT =
+
+fosne
+
+iy 512
+Iy
+e 5
+T,
+Symbol Part name Symbiol Part name Symbol Part name
+Current
+Cr RT Reactor
+transformer
+. | o . . . L SiC varistor
+Siy | Silicon rectifier Siz Silicon rectifjer S L
+(Silistor)
+$iC varistor
+former for cross- Sz .
+current (Silistor)
+
+‘R fonat i€ vol tag R
+Re | Resistor VYoltage regulator
+
+Jopulat
+
+G A.C. generator Ex | A.C. exciter
+
+Fig. 5-6 Part in suitchboard
+
+14
+
+--- PAGE 18 ---
+VAYE OF PARTS
+
+CT | CURRENT TRANSFORMER
+SIDE COVER
+
+| s. | siLision
+
+DRIP PROOT COVER |
+WAIK TURHINAL
+|1 CABLE SUPPOR
+AU, TRRMLVAL
+FRAITE
+
+SILICON RECTIFIER
+DISCHARGE RESISTOR
+| mr |meactor
+12 CABLE GLANDS
+
+@
+
+= =
+S E NN NNEEE
+
+Fig 5-7 Bxciting Unit Nounted oa Generator Top
+
+5-2-1 Components of the static exciter
+() Reactor D
+
+The outsard appearance of the reactor is as shown in Fig 5-8.
+The core is provided with clearances in which magnetic insulators are
+inserted.
+The role of the reactor in the exciting system is such that the
+cxciting current componcnt required to maintain the rated voltge when
+the generator is under no load is supplied to the field winding of the
+generator from the output of the gemerator through the reactor and the
+silicon rectifier.
+
+15
+
+--- PAGE 19 ---
+Fig. 5-8 Beactor
+
+Current transformer (CT)
+
+The outward appearance of the current transformer is as shown in
+
+Fig. 5-9. It has a core provided with the primary and secondary
+windings.
+
+The role of the current transformer in the exciting system is such
+that the exciting current component required to compensate for the
+voltage drop due to the armature reaction and leakage reactance caused
+by load current is supplied to the field winding of the generator from
+
+the sccondary winding through the silicon rectifier.
+
+Fig. 5-9 Current Traoasformer
+
+16
+
+--- PAGE 20 ---
+(3) Silicon rectifier and protecting device (Silister)
+Tae outward appearance of the silicon rectilier (8i) is as shown in
+Fig. 5-10(a}. The rectifier elemect, by mature, tends to pass
+electric current only in one direction and almost no current in the
+cpposite direction. {(See Fig. 910 (0).)
+The silicon rectifi
+
+1 has a peak reverse voltage and would be damaged
+
+by the apolicaticn of an overveltage ch exceeds Lhe peak reverse
+
+voltage. Therefore, ihe silicon rectifier must be used together with
+
+a protecting device against overvoltage (surge voltages).
+
+Forward
+voltage
+
+T Reverse
+j currenz
+
+| Reverse
+
+- {e)
+
+{a}
+
+(b)
+
+Fig. 5-10 Silicon Rectifier
+
+Should there te no protecting device, the silicon input voltage might
+become an overvcltags nearly 10 tizes as high as ife rating wen the
+generater is shorl-circuited, for cxample.  Sou, as show: in F!
+
+5-11 (b3, a Silistor (S) is. as protector, coanzeted fc the silicon
+rectifier on its d.c. side so that the peak reverse voltage will not
+be exceeded during overvol6‘age conditions
+
+[he vutward appearuvce of the Silistor is as shown in Fig. 5-11 {a).
+The Silistor is a varistor mace of silicon carbide.
+
+As shown in Fig. 5 11 (c), as the voltage applizd to the Sifistor
+decreases, its resislance increases non-linearly, and vice versa, so
+that it serves effectively for overveltage zbsorpiion.
+
+The chavacteristic of this non-lirear varistor is syumetric i respect
+af the polarity reversing point.
+
+When an vervoltage is going to act on the silicon rectifier, the
+
+Silistor abruptly lowars in resistance te pass much curreat, thus
+
+attenuating the excessive cutrect and protecting the silicon rectifier.
+
+17
+
+--- PAGE 21 ---
+81
+s o~
+| o~
+U ORI
+TR Neprvive S Poritive
+) HVT TiTTage
+
+Fig, 5-11 Protector (Silistor)
+
+{§) Semiconductor automatic voltage regulator (AVR) and voltage regulator
+R
+The semiconductor AVR ensures high stability and high performance
+against generator core saturation,
+field temperature change, and
+frequency variation,
+For details, refer to the preced-
+ing subsection (5-1).
+
+(a) AVR and voltage regulator (b) Printed circuit board
+Fig. 5-12
+
+18
+
+--- PAGE 22 ---
+6. DPERATION
+
+When operating the gemerator. practice the following :iers completely in
+
+order to ensure s
+
+ety and to elongate the 1iZeline of the machine
+
+Ckeck for ary foreign maller, irom [ragments. loose screws. etc. Shocld
+
+tais check be neglected, there might oceur serious damage to the gemerator
+
+during operating conditions
+
+6-1 Preparation for Ruaning
+(1) Tnstalled condition
+
+(2) Terminal section
+
+(3) Insulation resistance
+
+Bearing section
+
+Check if the coupling hus been done at the
+preper position
+
+Check if the clampivg bolts are fully
+tightened.
+
+[aspect :he lead wires for any flaw or
+crack in their coatings
+
+Check for surc termination ‘reatment and
+correct teruinal codes and phases.
+Check for loose bolts and nuts in ile
+
+terninal section.
+
+Measure the insulation resistence betwaen
+ezch of the windings of the generator and
+ground with & 500 V megger.
+
+It is desirable that the measured
+resistance is above ane MQ.
+
+(For details, refer to T-2-5 cleanicg
+
+and drying of winding)
+
+a order Lo aveid applying the wegger
+voltage to the AVR, be sure to disconnect
+or short the terminals prior o measure-
+ment.
+
+In Lhe cese of the il ring :ubrication
+system. make stre ibat the lubricating oil
+is supplied up to ‘he red ling mark of the
+0il gauge (Fig. T-1).
+
+19
+
+--- PAGE 23 ---
+6-2  During Running
+
+6-2-1
+
+When operating a new generator, do so under no load or at low speed.
+
+Meanwhile, inspect components as to temperature, vibration, sound, ete.
+
+Y]
+@
+&)
+@
+@
+
+6-2-2
+
+Sleeve bearing oil ring rolation
+
+Sbnormal sound in the bearing sectien
+
+Abnormal vibration
+
+Temperature rise in the bearing section......... (Be careful when The
+tewperature exceeds 85°C.)
+
+Rapid temperature rise
+
+Yonitoring of the generator panel
+At the time of testing at factory, adjustmenis are made in relation to
+
+power factor change, rotating speed change, load variation, clc., so that,
+
+when the rated rotating speed is approached, the voltage will build up
+
+within  £1.0% of the rated veltage. Therefore, there is no need to
+
+control the veltage regulator.
+
+6-2-3
+oY)
+@)
+
+&
+
+Others
+
+Temperature risc in components (Refer to the test record.)
+
+Check to confirm that the readings of the meters on the switchboard
+are always below the values specified on the name plates (especially,
+output, voltage, and current).
+
+Check if the bearings are properly lubricated.
+
+6-3 Parallel Ruaning
+
+For parallel running of generators, refer to the following operating
+
+principles and procedures. Erroneous handling may cause a generator failure.
+
+6-3-1
+jo¥]
+
+@
+
+Requirements for parallel rumning
+
+In order Lo operate a generator in parailel with another generafor in
+operation, it is necessary for both generators to satisfy the
+following conditions:
+
+(® To be identical in frequency.
+
+@ To be equal in voltage magnitude.
+
+(€) To be matched in phase.
+
+Conditions required of the prime movers
+
+(8) To have uniferm angular velocities.
+
+(®) To have an adequate speed regulation.
+
+20
+
+--- PAGE 24 ---
+®]
+
+6-3-2
+o)}
+
+@
+
+In case the above-mentioned conditions are not satisfied, the
+
+following undesirable phenonena and situations will take place.
+
+(&) In case there is no matching in phase, much cross current will
+flow, and closing for parallel running will be impossible.
+
+@ Any difference in voltage wagnitude will cause a flow of cross
+current hetween the generators, so that the generators with
+higher and Iower vollagos will have lagging and leading currests
+respectively, and thus reactive power shedding will be impossible.
+
+() If the generator load characteristics do not include u drooping
+characteristic with respect fo reactive power, stable shedding of
+reactive power is impossible, and this may give rise to hunting
+or step-out.
+
+() In case the angular speed is not uniform, Ioad shedding can not
+be performed. The prime mover is provided with an adequately
+sized flywheel for angular velocity uniformity.
+
+(E) Without governor characteristics, load shedding is not stable.
+{F) If the governor speed characteristics do not include stability or
+quick response, just as in the case of (B) load shedding is
+
+unstable, or hunting or step-out may result.
+
+Synchronizing
+
+Carry out governor adjustment on the prime mover side until
+
+the frequency of the generator to be connected in parallel
+
+with the forerunning generator js approached.
+
+While watching the synchronizing lamps or synchroscope, finely
+
+adjust the governor, and close the circuit breaker at the
+
+point of synchronism.
+
+() As to the synchronizing lamps, the time when one of the lamps has
+gone off and the two others have become brightest is the phase
+coincidence point.
+
+(B) As to the synchroscope, the time when the needle has come to the
+top center is the phase coincidence point.
+
+(C) It is a proper method to start the clesing operation with the
+closing time of the circuit breaker taken into account, and to
+close the circuit breaker just ai the point of synchronism (when
+the needle of the synchroscope has come to the top center).
+
+z1
+
+--- PAGE 25 ---
+6-3-3 Load shedding
+&f ter completion of synchronizing, while paying attention {o frequency,
+operate the governor on the forerunning generator side in the speed
+lowering direction and operate the goversor on the after-running generator
+side in the speed raising dircction, By so doing, make a gradual load
+shift for load shedding.
+
+9-3-4 Release from parallel operalion
+When disconnecting one of the generators ruaning in parallel [row the
+bus, take the following steps:
+
+(1) Operate the governor of the driver for the generator to be released
+in the speed lowering direction and operate the governor of the driver
+for the generator on the bus side in the speed raising direction for
+load shifting,
+
+(2) When the load on the generator to be relsased becames zera, trip the
+circuit breaker for the same generator.
+
+22
+
+--- PAGE 26 ---
+7. KAINTENANCE
+
+T-1 Periodical Inspection
+
+In order for any machine to perform its full function, the operator is
+
+required to deal with the machine with a correct knowledge of it and always to
+
+take good care of if.
+
+minimize troubles.
+
+7-1-1
+
+imporlant,
+
+n
+
+@
+
+@
+
+@
+
+6]
+
+Daily inspection
+
+Proper and effective maintenance work will prevent or
+
+Baily checks and monitoring during generator operation are most
+
+The rouline checking points are as [ollows:
+
+Sound (Check components for abnormal sound by a sound
+locating rod.)
+
+Offensive smell (Delect any abnormality by offensive odor
+
+emitted from burnt or charred varnish, oil, etc.)
+
+Temperature rise (Check the temperatures of various parts by
+
+thermometer. )
+
+Vibration (Check for vibration by using a vibrometer or
+
+touching by hand,)
+
+Bearing conditions (Check for the amount and pressure of oil, oil
+
+Ting rotation, and any oil leakage.)
+
+7-1-2~ Honthly inspoction
+
+m
+
+@
+
+&)}
+
+A.1-3
+[}
+
+Insulation resistance measurement (For slator, rotor, cxciting
+
+Check of lubricating oil
+
+Cleaning and inspection
+
+Inspection of fastemers
+
+Semiannual inspection and care
+Replacement of lubricating oil
+
+Check of electric wiring
+
+23
+
+equipment, etc.)
+
+(Check lubricating oil for
+excessive deterioration or toe much
+dust contained. If so, replace.)
+(Renove the cover, and inspect the
+coils for excessive dust deposition.
+If so, clean. Where a filter is
+used, check it and clean as
+necessary.)
+
+(Retighten. Check, particularly,
+
+terminal areas.)
+
+(Check for insulation and any
+damage.)
+
+--- PAGE 27 ---
+(D Check of exciting cguipment ° (Visually inspect terminal parts,
+and check the silicon rectifier.}
+
+7-2 Maintcnance Procedures
+For maintenance of components, take proper steps referring to the
+
+following description.
+
+7-2-1 Temperature rise
+The monitoring of the temperatures of devices is an effective means
+for finding faulls, if any.
+Check temperature rise in components by referring to Table 7-1.
+
+Table 7-1 A&llowable Temperature Rise Limits ()
+(Standard ambient temperaturc: 50°C)
+
+. . Allowable temperature rise fimit
+Machine part Heasuring method " -
+Insulation Tnsulation
+class B class F
+Armature winding By thermometer 60 %
+(Gencrator stator
+winding) By resistance 70 B 9%
+Field winding of
+e. ) e By resistance 80 100
+cylindrical rotor
+Core or other
+machine parts adja-
+i By thermemeter 70 a0
+cent to insulated
+winding
+. Khen measured by temperature detector
+Bearing . 35
+clenent embedded in metal:
+
+For reference: 1. Where the standard ambient temperature (air
+temperature) is 45°C or 40°C instead of 50°C, the
+difference between them should be added to the
+temperature risc limits specified in Table 7-1.
+
+2. When LR, GL and NV standards are applied, the
+temperature rise linits shown in Table 7-1 are for
+
+the standard ambient temperature of 457C.
+
+24
+
+--- PAGE 28 ---
+7-2-2 ‘Bearings and lubrication
+For the mechanical function of the generator, the bearings and related
+paris are particularly important. So, they should be main-tained with
+mich care.
+(1) Sleeve bearings
+(a) 0il ring lubrication system
+1> The main probable causes for abnormal and burnt bearings are as
+follows:
+i) Insufficient oil amount
+ii) Improper oil ring rotation
+) Defective direct coupling
+iv) Excessive vibration
+)
+
+Use of faulty oil which contains dirts
+
+|
+Bee 1w B G '
+Upper
+Mmic Fig, 7-1
+Lower
+| Timit
+L
+T g
+
+2) In order that ample lubricating oil may be carried over the shaft
+by the oil ring, it is necessary to supply oil in the oil box up
+to the red line marked on the oil gauge.
+
+The upper and lower limits of the oil level are § mm above and 5
+nm below the red line mark of the oil zauge, respectively
+
+(Fig. 7-1).
+
+Keep the bearing clean, and check for the lubricating condition
+(oil level) on a daily basis.
+
+3) In case there is an excessive amount of lubricating oil, the oil
+may flow out along the shaft. On the contrary, when the oil
+amount is too small, the bearing is in danger of being burnt.
+
+&) Check the bearings on a daily basis, and pay attention to any
+rapid temperature rise.
+
+The maximum bearing temperature during normal operating conditions
+is on the order of 80 to 85 (thermometer reading)
+
+5) In case a bearing is overheated, do not stop the rotation of the
+shaft suddenly but keep on the rotation. and while feeding oil
+continuously so that oil flows between the shaft and the bearing,
+decrease the rotating si:ced gradually, alloning for a cooling time
+and thereafter stop the generator,
+
+In case the shaft rotatien is stopped abruptly without taking the
+
+25
+
+--- PAGE 29 ---
+6
+®)
+n
+
+2
+
+3
+
+4
+
+]
+
+adove described step, the shaft and the bearing metal will fuse
+together so that the repair will be very difficult.
+When a bearing has been burnl or worn, replace it with a good one.
+Forced lubrication system
+
+he main probable causes for abnormal and burnt bearings are as
+follows:
+
+i) Pressure below the specified value
+
+ii) Defective direct coupling
+iii) Bxcessive vibration
+
+iv) Use of faulty oil which contains dirts
+
+v) Oiling pipe clogged with dirts
+During operation, make sure that the pressure gauge provided at
+the o0il fecding port reads the specilied pressure. and peep
+through the oil sight to confirm that lubricating oil is flowing.
+Keep the bearings clean, and check for the lubricating condition
+on a daily basis,
+When the pressure of the lubricating oil for the bearings has
+decreased and if operation is carried on with the decrease not
+ascertained, the bearings will overheat and may be burnt.
+Check the bearings on a daily basis, and pay attention to any
+rapid temperature rise.
+The maximum bearing temperature during normal operating conditions
+is on the order of 80 - 85 (thermometer reading).
+In casc a bearing is overheated, do not stop the rotation of the
+shaft suddenly but keep en the retation, and while feeding oil
+continuously so that oil flows between the shaft and the bearing,
+decrease the rotating speed gradually, allowing for a cooling time
+and thereafter stop the generator.
+In case the shaft rotation is stopped abruptly without taking the
+above described step, the shaft and the bearing metal will fuse
+together so that the repair will be very difficult.
+When a bearing has been burnt or worn, replace it with a good one.
+
+@) Lubrication oil
+
+(a)
+1
+
+2
+
+0il ring lubrication system
+
+The type of lubricating oil to be employed is ISD G 48
+(equivalent to JIS K 2238).
+
+Choose a lubricating oil of high quality for the bearings.
+
+The oil must be filtered so as not to contain impurities.
+
+The frequency of oil change depends on the ambient conditions,
+
+that is, the room temperature, ambient cleanness, frequency of use,
+
+and so forth, However, normally replace lubricating oil once
+
+26
+
+--- PAGE 30 ---
+@)
+
+about every six months,
+Nevertheless, this does not apply at the early stage of using the
+generator or when there is any abnormality. In such a case,
+replace the Iubricating oil with clean oil according to the
+conditions.
+(L) Forced lubrication system
+1) Use either of the following types of lubricating oil which is
+reconmended by our cowpany:
+With a generator (of 6 or more poles) coupled with a diesel
+engine:
+SAE No. 30 (equivalent o No. 2 of JIS K 2215 class &)
++ With a generator (of 4 or 6 poles) coupled with a turbine
+engine:
+Turbine 0il No. 180 (equivalent to JIS K 2213 No 1SO VG-68)
+2) Choose a lubricating oil of high quality for the bearings.
+The oil must be filtered so as not to contain impurities.
+
+The fitting of the shaft and bearing
+When replacing a bearing, take the following steps:
+Clean the surface of the bearing and apply minium well mixed with
+machine oil onto the bearing portion of the shaft thinly and uniformly.
+Engage the hearing with the shaft by bolting., Then rotate the shaft
+several turns and remove the bearing, Deposited minium will be found
+on the projections of the inside surface of the removed bearing.
+Remove the minium-carrying projections with a scraper. Repeat this
+fitting procedure until the shaft fits the bearing uniformly,
+(Fig. 7-2)
+To check the clearance of the bearing, measure the outside diameter of
+the shaft and the inside diameter of the bearing at several points by
+micromeler,
+1f the bearing clearance calculated by the following formula is
+exceeded, replace the bearing.
+1000
+Where C= Bearing upside clearance (mm)
+D= Shaft diameter (mn)
+
+C = DBx
+
++ 0.1
+
+21
+
+--- PAGE 31 ---
+Fig. 7-2 Bearing Fitting
+
+7-2-4 HMaintenance of the air filter
+
+Periodically check the air filter, and if the filter is very dirty,
+
+regenerate it by the following procedure:
+
+¥
+
+@
+
+@)
+
+HKaterial
+
+The air filter is made of nylon and heat-resistant.
+
+Regeneration freguency
+
+Regenerate the air filter once every three months or so.
+
+However, in casc it is found by periodical check that the air filter
+
+becomes very dirty, regenerate it at adequate intervals. Regeneration
+
+of the filter is possible up to about 10 times.
+
+However, when it is considered that the air filter concerned can not
+
+be used any longer, replace it with a spare.
+
+Cleaning and regeneration
+
+The air filter can be regenerated in a simple manner.
+
+(2} In case dirt containing much carbon or oily dirt is deposited,
+dip the dirty air filter in a neutral cleanser solution for a
+while (about 20 to 30 minutes), and subscquently press the filter
+to clean it.
+
+(b} Ory dirt should be blawn off by shooting compressed air to the
+filter efflux side, or should be sucked by means of an electric
+cleaner.
+
+(c) Rinse the air filter cleaned in the step (a) or (), by flowisig
+cold or hot water (heater up to about 407C), and then dry it.
+
+Precautions for cleaning
+
+(a) #void washing the air filter by rubbing. Instead, wash by
+
+pressing. It is more effective to place several dirty filter
+
+28
+
+--- PAGE 32 ---
+
+
+--- PAGE 33 ---
+
+
+--- PAGE 34 ---
+
+
+--- PAGE 35 ---
+
+
+--- PAGE 36 ---
+
+
+--- PAGE 37 ---
+
+
+--- PAGE 38 ---
+
+
+--- PAGE 39 ---
+
+
+--- PAGE 40 ---
+
+
+--- PAGE 41 ---
+
+
+--- PAGE 42 ---
+
+
+--- PAGE 43 ---
+
+
+--- PAGE 44 ---
+
+
+--- PAGE 45 ---
+
+
+--- PAGE 46 ---
+
+
+--- PAGE 47 ---
+
+
+--- PAGE 48 ---
+
+
+--- PAGE 49 ---
+
+
+--- PAGE 50 ---
+
+
+--- PAGE 51 ---
+

@@ -1,0 +1,1616 @@
+FILE: E-36 BATTERY CHARGING AND DISCHARGING BOARD.pdf
+FOLDER: .
+DATE: 2026-03-07 07:39:01.721005
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+BATTERY CHARGING AND
+DISCHARGING BOARD
+
+document. is the property of |
+avy Industries, Ltd. (KHID) and may
+ed Lo any third party
+
+ilten consent
+
+This Lecl
+Kawasaki
+nol he cop
+‘ without KIH's
+
+MANAGER _ —
+
+CHIEF
+
+CHECKED
+
+DWG Mo
+E - 36
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+P 1 idise
+
+D s AR S KAWASAKI HEAVY INDUSTRIES, LTD. / SHEETS wicL coven
+
+--- PAGE 2 ---
+CHANGE OR ALTERATIONS
+
+MESSRS.
+
+DATE
+
+DESCRIPTION
+
+\astaaray |
+
+25 APR ‘%
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+KOBE WORKS
+
+FIMISHED DRAWING |
+
+5.No. 1456
+
+JSB-4400-FS
+BATT. CH. & DISCH. BOARD
+
+QUTLINE VIEW
+CONNECTION DIAGRAM
+SPARE PARTS LIST
+
+TEST REPORT
+INSTRUCTION MANUAL
+
+JRCS
+
+JAPAN RADIO &
+ELECTRIC MFG. CO., LTD.
+
+TOYOURA PLANT
+DESIGN DEPARTMENT
+
+o F6332 cass | DNV-EO
+
+DATE OF DRAWING 15 FEBRUARY, 1995
+
+DRAWING
+NO.
+
+BP1693
+
+--- PAGE 3 ---
+Head Office:
+2-14 1-chome Higashiyamato-cho
+Simonoseki, Japan
+Tel. {0832) 61-0207
+Telefax. {0832) 61-0209
+
+Toyoura Plant :
+Gionden Kawatana Toyoura-cho,
+Toyoura-gun Yamaguti-ken, fapan
+Tel. (0837)72-2111
+Telefax. {0837)72-2115
+
+IR RCS CORPORATION
+
+Head Office:
+2-14 {-chome Higashiyamato-cho
+Shimonoseki, Japan
+Tel. (0832) 61-0300
+Telefax.  (0832) 61-0330
+Telex. 6822-61
+
+Tokyo Office :
+13-15 Nanpeidai-cho Shibuya-ku
+Takyo, Japan
+Tel. {03) 3463-7841
+Telefax. {03) 5458-7485
+
+~
+
+WJAPAN RADIO & ELECTRIC MFG. CL., LTD.
+
+"~
+
+--- PAGE 4 ---
+GENERAL SPECIFICATION FOR
+BATT.CH. & DISCH BOARD
+(SEAL TYPE LEAD ACID BATTERY)
+
+1. System ......... «o.... Thyristor control
+2. Rating ........ vveoe.. Continuous
+3. Asbient temperatures.. 0 ~ 45" C
+4. AC input ..ol 3¢ 60 Hz 440V
+Fluctuation renge”.... 374 ~ 434 V
+5. Rectifying system .... 3-phase full-wave
+Cooling systen . . Natural type
+6. LC Dutput
+B-1 Automatic
+Floating voltage/......... 26.78 ¥
+Accuracy of
+volutage regulation”... within £ 1.5 %
+Output current”....... 0 ~ 404 .
+( Battery 200 Al x 1, 2.0 V x 12 cell )
+Ripple ...........eeae. within 1.0 % ( at FLOAT )
+Droop characteristics .. 110 % ( AT 44 4 )
+6-2 Hanual
+YOLTAGE
+VYariable range ........ Guarantee with aore then + 2 %
+of floating voltage
+(25 ~28V)
+Output current,Z....... b~ 404
+Accuracy of
+rated voltage regulation ... within £ 1.5 %
+6-3 Auxiliery( Only emergency use )
+Voltage
+Variable renge ........ Guarantee with wore than + 2 %
+of floating and equalizing voltage
+(20 ~38V)
+Current ........o..eiis 0 ~ 404
+FORM NO, D5
+
+& P ARIE
+
+--- PAGE 5 ---
+T. Temperature rise (azh. tewp. 45° [)
+
+Winding
+Sericonductor
+Resistor
+
+8. lInsulation resistance
+9. Dielectric strength
+AC 440 ¥ Circuit
+AC 100 ¥ Circuit
+DC 24 ¥ Cireuit
+Wiring
+Hiring wark
+
+=3
+
+11. Inner wiring cable
+
+and tewp
+
+rating (C)
+
+12. Painting color
+
+18. Name plate
+
+less than 70° C { B class )
+less than 70° C
+less thar 120° C
+
+vore then 10 HQ) ( 500 ¥ megger )
+
+2000 v/ for 1 miniite
+
+1500 ¥/ for 1 winiute
+500 v/ for 1 miniute
+
+ico1¢ (R) - green
+2¢ (§) ~——- vellow
+3¢ (I) --—- brown
+
+DC Positive pole red
+
+Negative pole -=— blue
+
+wain circuit:flame-retardant cross-linked
+polyethylene insuration wire
+680 Y-SCP(85)22~100 sq
+heat resisting ployvinyl chloride
+insulation wire 660 ¥-SYP(75)
+2 ~ 14 sq
+
+control ‘heat resisting polyvinyl chloride
+circuit insulation wire 660 Y-SYP(75)
+2 sq 600 ¥-UL1D15(108)
+Outside
+Hunsell No.7.5BG7/2 SEMIPOLISHED
+Inside
+
+Munsel! Ho.7.5BG7/2 SENIPOLISHED
+
+Ground: ¥hite
+Letter:Black
+
+FORM_NO, D5
+P APR. IS
+
+--- PAGE 6 ---
+OPERAT[ON MANUAL
+« =
+= ia) =]
+50 P14 -
+21 ACRYL RESIN POUCH
+G-30-1 TKS-12
+
+2% ACRYL RESIN
+
+RESIN
+EN
+, 43
+¢ B
+CH, YOLT ADJ, o
+o3 R ~
+~ ['s}
+o
+HIGH o o
+| 32
+64
+ALUMI 2% ACRYL RESIN
+REFORMJ EOALE
+Ve A
+: JAPAN FADIO & ELEGTRIC NFG, 0., LTD
+§.N0, 1456 GiEr [INGPEC | PLAN [oraning] Teace | AME NAME PLATE S1ZE
+
+DRAWING |BP 1693 -NP1
+
+o
+/ “8 No NEXT-NF A l
+
+--- PAGE 7 ---
+OPERATION MANUAL
+
+1. Normally this must be used at the " FLOAT "
+position.
+
+2. Don't use the "MANUAL" positian except for
+emergency.
+(Don't over charge with manual operation.)
+
+POUCH
+E;O 1456 JAPAN RADIO &ELECTRIC MFG.CO.LTD 7)“% {EF %ﬁ{ %é ;g %&
+ThiEr | mseecTion Pl DRAWING TAACE NAME bPERAT\ON MANUAL
+¥
+£ | prawwenol BP1693-NP1A,
+
+arh-2%5
+
+--- PAGE 8 ---
+_—
+
+No. RAT, {QT,[ TYPE No, RAT, [QT,| TYPE
+F A F A
+u v
+2 3 F A
+THYRISTOR 3| uct u
+PHASE CONTROLLER
+F Iy F16 L
+v LB MG Tor 12 | VG
+(DT SENSQR)
+4 50A F A
+rzcTiFiEr |3 | VC2 v
+Fo 3% z A
+EarTH Lo |2 | VO v
+F7 34 [ A
+EMERG LT RELAY|2 | LCI u
+{RY5)
+F y F A
+v u
+F A F Y
+U u
+Fii 3A £ A
+BAOTRAR geLay 2] VCI v
+(RY3 & RY4)
+Fi2 1754 F A
+BATTERY 2| VB4 v
+F A E A
+u u
+F5 =0A EE KT
+l1{uer | povett [uer | [genT= )1 vet
+FILTER METER SENS5R
+REFONJ SCALE
+! >
+N JAPAN RADIO & ELECTRIC MFG, €O, LTD BATT, CH, &D183CH, BOARD
+500, 1456 CHIEF [INSPEC | PLAN [DRAWING) TRACE MAME FUSE NAME PLATZ
+B DRAWING |BP 1693 -NP2
+A NO
+
+--- PAGE 9 ---
+© MARK
+
+15 SHIPYARD SUPPLY
+
+ITEM N, P, PARTS  [SEE
+{ DRAW,
+Mo. APPLICATION NAME PLATE ORIl e | sy [BRAN|© REMARKS
+WL1| INDICATOR LAMP AC440V SOURCE o |Te=3-1) ABMAe | -
+TLI » EARTH (+) o | |t-3-1| \Ei¥igg-c| -1
+TL? » EARTH(-) e i yre-son| Bl ag o] -1
+Ml |METER DC VOLT B | v |Tk-3-1 [R50 KEIKL) -y 0~50V
+ve | DG GURRENT B | A |TK-3-1 5%@8‘(““ -4 ~150A~0~+150A
+INSULATION LEVEL . a. OVO KEIKI| _ .
+w3 | NSUL INSULATION LEVEL | B |0 |TK~3 0 K] 5 SET:0.01M0
+CH VOLT ADJ _ o TO.(YO GOSMOS. _
+VRI| VOLUME O o Mo VR| G-17 {py3gyNzose| ! 10KQ
+, OFF=GH~BATT~LOAD - SE1KO _ _oy_
+S1 |SELECT SWITCH vy — B jCOs| EN EN 4 EN-2X-102-A
+CFF-CH-BATT-LOAD SE KO
+s2 s AR B lcos|EN  |ER -4 EN-3X-105-C
+$3 [TEST SwiTCH EARTH LAMP B |P8 |Tks-12| A5 L, L-5
+EMERG LT o TZUM] B
+54 . NORMAL-TEST| B 005\ TRS™:2 |asN3 1 !
+5 - AC440V SCURCE T Nrolo-s0-1 [TERASAKL | _
+5 |POWER SWITCH S 15a NFa|G-30-1(FEEARAN op| -1 PM 50,154
+a6 " CHARGE 0OUT - D.8|6-30-1|TERARRK | -1 '8 PanEL
+n FLOAT-MANU E1KOD
+$8 |SELECT SWITCH ELOATMANU. B loos| EN  |8H -1 EN-2X-117-C
+Bl SNo, 1456 [INEPECTIONTPLAN BARG T CRAWING | BF 1693 -NP3
+REFCAM L 74% No. NEXT-OUTT
+
+--- PAGE 10 ---
+1708 | 760 | B7Iwse—-3ee—l=5te—{—450 | 398 | 330
+> |:800 | see | 770 | 550 | 400 | 580 | 450 | 393 [ 330
+1806 | 5w T-830-| 600 | 460 | 500 | 455397 | 330
+
+(C-50x50x6)
+
+&
+
+4-215
+15 Wl |15 39| b1 1713
+1el|, ¥ 10 D
+1
+PAINTED COLOR
+TVYPE : JSB-4400-FS OUTS [DE :MUNSELL No, 7, 5BG7/2 SEMIPOLSHED
+omaner Base: EEEF suppLy INSIDE IMUNSELL Mo, 7.5BGT/2 SEMIPOLISHEL
+WEIGHT
+
+FrUM-RFRES B 28 PLANNED : 350 Kg
+FINISHED: 300 Kg
+DEGREE OF PROTECTION : (P22
+
+D 1940 APR T8 SCALE
+
+RE=
+
+ORM[™ & =¢th-AfR 98
+>
+
+S.NO, | 456 [ /APAN RADIO & BLECTRIC PG, 0O, LTD NAME  |3ATT. CH. & DISCH, BDARD
+T CHIEF [[NSPEC | PLAN [DRAWING] TRAGE | ~ QUTLINE VIEW
+
+DRAWING |gp 1693 -ouT) |2
+
+A1 NO =
+
+--- PAGE 11 ---
+A-A" VIEW
+11 670 110
+ey
+{ ] =
+! #, @ |— %
+| 4-%19 |
+b= | TFITT AGLES] ;
+2 i
+“ 1-(M8-35) gl o
+i {EARTH BOLT) i g_; o)
+| TIBIE T S7E |
+i (80x300) ‘ ¢
+@ | i
+L | | ‘
+i -
+. 385 285
+1_@14‘ i 15
+FRONT
+REFORM » 1 THAPRZE SCALE
+Y10
+
+S.NG, 1456 | APAN RADIO & ELECTRIC MFG, CO,, LTD ‘
+
+BATT. CH & DISGH. BOARD
+CHIEF [INSPEC | PLAN [DR, TRACE | NAME
+
+BASE ARRANGEMENT,
+DRAWING |BP 1693 -0UT2 |2
+
+NO
+
+--- PAGE 12 ---
+2]
+
+m
+
+[
+
+el
+
+{8024 e
+
+o]
+
+11024 pe———
+
+Ll
+
+wl olak
+] = ol
+EINEE
+S xgl £
+w S%l o
+S
+E
+)
+55 3
+[
+=3l a
+EEI
+T
+w| =
+Z | =
+=z =)
+
+JE
+
+PLAN _|ORAWING| TRA!
+
+[NSPEC
+
+CHIEF
+
+¥R
+ts
+3
+3
+3
+4§
+=
+=
+jl
+=
+5
+
+456 JAPAN RADIO & ELECTR:C MFG. CC,, LTD
+
+SNG, -
+
+--- PAGE 13 ---
+0
+
+e-12
+Tavdw cH1 clo Al
+4mH 40A 1
+[{ ¥ P2y (P3)
+SH2 1504
+"2 anH (n24)
+T 358 w
+pren UPB-452201 e
+Ehrat) _] g =
+w =
+1 ! 7N =
+. ! 6*«\ ) et EM
+1 50A L iz
+2 Kva 1 ; | R, i
+[(8] SHL
+¥2 H3 {co) S0A
+U @ G2 63 @ T
+Aot i
+= W
+F2 ugy T2 wes Mol a6l €0 woUsh
+—ou P 12)
+| e 2100V (JRVIOE4) Vv 25 o P34
+T » - OV THYRISTOR PHASE t
+S e " CONTROLLER
+3A 81
+
+P420v/3110v
+S00a
+
+BATTERY
+DCZ4V 200 AH
+LEAD AGID TYFE
+
+(SEAL TYPE)
+
+3| Ga) " He2 §0-4/G
+= 1) sze
+Y 5D-2U/K
+[rcucizal
+i=5
+,,,,,,,,,,,,, $8 o ____
+30718A
+et oy (T
+50
+(5] Froen S e
+1
+|
+[42) ! (ELD)
+3A {EP) o p
+(En -
+AC440V ¢33 60H=z
+EMERG SWITCH 3D
+P-EF-BC
+(TPYC-2.0)
+P SN0, 1456 SCALE N BATT. CH, &D [ SCH, BOARD
+JaPaN RADID & eLECTRIC Mea. 60, Lto, | VAME [conNEeTION DIAGRAM
+REFORM CIIEF_[MANAGER|INSESTION| PLAN DRAWING| TRACE |Smmprrmeny
+
+#
+
+beawinonol BP 1693 ~1 AJ
+
+--- PAGE 14 ---
+FUSE No. RETTGIROUIT No,
+CIRCUIT NAME [y1RE 8128
+F101 50AT ¢acg
+02 =
+DISCHARGE ALARM | H-TPYC-50 (o)
+iz —0+|
+F102 SRl «_oc-10 “_‘@64 -
+DC24V DIST BOX [
+— (0c-1) H-TPYC-38 [TmEr ©7) g
+F108 50A] ~n [:2‘ |
+C-pC-11 |
+- CARGO o R
+| ——1  CONT CONSOLE H-TPYC-80 p—o-— |
+i
+F104 08 ¢ po-1o |
+GYRG COMPASS - ~
+1 CONT PANEL L-DPYC-2, D [
+i
+[F1gs  10Al 5 poo13 2%, | cE
+AUTO TEL c3 [
+| — EXCHANGER H-TPYC-5, 5 W&I""‘E G 08
+1086 0] o pe-14 i
+SE—
+THE MASTER UNIT [T oo \1‘
+F107 LN PN J‘
+GYRO COMPASS — \“
+———— CHANGE OVER UNIT [ [-DPYC-2,0 4o
+T I
+FiGo 801 oo 15 LZ+ !
+DG24V DIST BOX !
++— (A-DC) H-TPYC-100 [~ |
+Fi09 30AT o po-17 i
+EM CY ——
+L1 SwircHBAORD H-TPYC-14 }m
+F110 Al 6 po-19 ié
+MAIN ENGING TN ey
+=1 REMOTE CONT SYsTeM | H-TPYC-B ! =
+F111 itA 1>
+|
+o SPARE TN
+==t
+File 1Ca o
+SPARE ey
+RN |
+alz
++ DC24V
+PR 74 SCALE
+s
+REFORM >
+JTAPAN RADIO § EISCTRIC NFG, 00, LTD - [BATT._CH.&DT1SCY, BOARD
+5.0, 1456 CAIEF [INSPEC | PLan [oRar-nc] Tanee | NWME |CORNEETION D [AGRAM Jl
+&
+P DRAWING [BP 1693 -2
+A S 4
+
+--- PAGE 15 ---
+FUSE No, RAT,
+
+CIRCUIT No,
+
+CIRCUIT NAME iy
+
+TEMPORARY
+
+F201 15A o
+
+RE SIZE
+DC-5
+
+EM' CY LIGHT
+
+{aCCOMMODATION) | A-TPYC-8
+
+F202 15A
+TEMPORARY
+
+C-DC-6
+
+EM CY LIGHT
+
+—__ (ENGINE RM) H-TPYCY-8
+
+F A
+
+B S
+
+™~
+
+[~
+
+F A i
+/ 5
+/ ,
+F A,
+|
+F /i 1
+| h
+F A
+3 } o
+— ﬁ a8
+[ A } S
+— =~
+| \‘} 2
+F = :ﬁ
+1‘ [5
+I'F A iﬁ
+S ]
+ol = I
+i
+E
+-1
+L/ SCALE
+REFORM
+b
+JAPAN RADIQ & ELECTRIC MFG, CO., LTD BATT CH, &0 1SCH, BOARD
+510, 1456 CHIEF [(RSPEC | PLAN [oRaW o] ThAcE | NAME ESE‘N}:EES‘E'OS’[ e
+DRAWING [BP 1693 -3
+7[% NO
+l—l—_—-——_‘_—l_'
+
+--- PAGE 16 ---
+13
+
+M1 M2
+o) ) + Q_ ua)
+N
+ra
+s
+EanBE
+™ o
+OFF OFF
+- CH, CH.
+— o | satT BATT |
+- | LOAD LOAD ?——f
+%
+La s
+EEER El
+ol 2o Z] Y ¥ '
+iy 1 D1 FI c202 F2
+AL B2BL a2
+M3
+(e53), wan@ oa2)
+L/
+s Py -
+[ T
+COFF
+uv | 9 ‘ ;
+Vi
+or |4 4
+L 52
+v v e
+(GREEN MARK 24V)at LOAD
+M1 DC VOLT, METER 0-+ 50Y, (RED MARK 25, T6V)at CH
+M2 _DC_OURR, METER -1504~0~# 150 (RED MARK +40A)
+P spsp
+Lo 19t APR9S SCALE
+REFORM
+>k
+SN0, 1456 | /APAN RADID & ELECTRIC MFG, CO., LTD BATT. CH. &D1SCH, BOARD
+
+CHIEF |INSPEC | PLAN |DRAWING; TRACE NAME CONNECT[ON DIAGRAM
+
+DRAWING |BP 1603 -4 121
+NO
+
+s
+
+/
+
+ag
+
+--- PAGE 17 ---
+—
+s
+e
+)
+M3
+JRI=50N
+{MPC-10)
+. 0
+[ — i wisioe)
+z H
+source
+METER INPUT b
+Q@ %} —
+POWER  ~ = H
+BOX A E
+{M-4a) [
+;——H
+v
+=
+= 1
+35
+g <
+3 - —_—
+AL AL4 BATT, CH, ABNORMAL @D Al ale ‘,{Duwﬁ.-‘ﬁNg‘xjéﬁmON
+C-DC-AL C-DC-Al
+(L=MPYC~T) {L-MPYC-T)
+MAIN CONT CCNSOLE MAIN CONT CONSOLE
+NCRMAL CLOSE NORMAL CLOSE
+[J bogm-srris SCALE |
+REFORM p
+
+S.NO, 1456 JAPAN RADIO & ELECTRIC MFG. CO.. LTD
+
+CHIEF |INSPEC | PLAN |DRAWING] TRACE
+
+BATT. CH. &D1SCH, BOARD
+NAME ) CONNECTION D1AGRAM
+
+A%
+
+DRAWING | gp {693 -5
+NO
+
+K
+
+--- PAGE 18 ---
+—
+
+fn -
+5 TERMI. [CABLE :
+z| @ RERY [k & : DO NOT MEGGER TEST AT THIS MARK
+N = : MARK SIIOWS THE CHARGING TERMINAL
+2 CONT. | TB- O PANEL © M *
+o1& [KT-1SNiGiRe: !
+> \Jkr-25 [~ 5.5
+als N CABLE MARK G-D0-Al c-DC-10_ | 0-De-13
+£ <
+== §KT>35 ~ 8 | [DRAW. No, -4 -|-2 -
+IS
+iz o |kT-60 |~ 14 | [TERMI, No, Atfacelauafata[ + T+ -1+ - I
+2 3 [WIRE MARK ALL{AL2|AL3[AL4[PI2IPI2INI2IPIBINIS] ]
+ze S |KT-125|~ 38
+&l B CABLE CLASS L-MPYC-7 K-TPYC-38 | B-TPYO-6.5
+N 2 KT-200~100 =) 0 |® ®
+- e KT-35 KT-125] K-35
+R
+Sa TB-2 O paveL
+Z|%
+513
+HE [CABLE MARK c-0C-11 C-D0-16
+Sl DRAW, No. -2
+gz
+a e TERMI, No, + + - + + -
+- [W[RE MARK
+22l = CABLE CLASS | H-TPYC-80 | H-TPYG-100
+S=|z ® © |® o=
+=™ KT-200
+©
+TB- O PANEL
+S
+e ]
+— |24 CABLE MARK
+<@ |za
+o |EE DRAW. No,
+@ e [TERMI. No
+o . .
+| <
+P WIRE MARK
+W | EQ
+Z @ CABLE CLASS
+23| X |2 ® ©
+5 B [
+=% m
+33
+
+w7
+
+--- PAGE 19 ---
+£6332 BOX NO. P 1
+
+SHIP NO.| SPARE PARTS LIST FOR Use SEIS PER
+1456 15B-4400-FS
+BATT. CH. & DISCH. BOARD
+QUANTITY REMARKS
+BOX [ITEM)| NAME OF WORKING
+NO.{ NO PART OUTLINE P PER [s?arz|
+T VESS
+o TERASAKI
+1 MCB oy 1| 1] Xs50Rs 3P PM
+1= 152
+j PRI
+2 1
+3
+|
+!
+4
+5
+f =1
+. T 0)rsh 1 | Fua
+6 | THYRISTOR _;? 3 EaC06-04
+— =
+3 = NIHON
+7 RECTIFIER 1| FEEAEE D)o 6 | 1 | INTERNATIONAL
+Lw_;r s0x10 | 4 45M15
+O S——
+= MATSUSHITA
+8 RELAY 36 = 1| 1| HG2-DC24V
+= APB222
+PRI
+7T ]
+i m| i 1 | SRC50-2U/X 422b
+9 | AUX RELAY ! 1| RO
+223 5 ‘ 60Hz
+; ——
+Bl FUl
+10 RELAY ' 104 ! 1| 1| sRC50-41G
+i [[L—' ‘ DC2av 2a3b
+H oraw. no. | BP1693-51
+
+JAPAN RADIO & ELECTRIC MFG. CO.,LTD.
+
+--- PAGE 20 ---
+: BOX NO. P2
+SHIPNO.| SPARE PARTS LIST FOR UsE SETS P
+1456 158-4400-FS
+BATT. CH. & DISCH. BOARD
+- QUANTITY REMARKS
+BOX|ITEM) NAME OF OUTLINE WORKING |
+vo. | no. PART [PeRer e
+€T JVESS
+1
+KYORITSUKEIKI
+12 RELAY 2| 1| GNI15-1A
+DC24V
+N MITsUBIsHI
+13 RELAY ’ I RRE
+i 1, ACA00~ 440V
+g B0Hz
+14
+15
+{
+16
+f 1ZUml
+17| INDICATOR D5241 L1 1| FoR APN
+=L | WHITE
+pE |
+‘ - 1Zuml
+1a | MDICATOR wt 2 | 1 |7or aPN
+E =L CLEAR
+19
+A h HAKUYO DENKYU
+20 LAMP y“ﬁ( il 33 ey ey 2w
+s
+szaw. no. | BP1693-52
+
+$aPAN RADIO & ELECTRIC MFG.CO., LTO,
+
+--- PAGE 21 ---
+BOX NO, P 3
+SHIP NO.| SPARE PARTS LIST FOR UsSeE SEIRFER |
+1456 JSB-4400-FS
+BATT. CH. & DISCH. BOARD
+QUANTITY REMARKS
+BOX|ITEM NAME OF WORKING
+NO. [ NOC. PART OUTLINE PER|PER |sPare]
+T |VESS
+—
+211 CONTROL st 1] 1| RCs
+i CRCUIT JRV-1024A
+| [E
+[T~ 'y
+5 ﬂ_‘ 750 1 | FUll
+2 RECTIFIER 39@4 4 51G01-03
+| e
+{
+5 . © 3 | TAKITA DENKI
+3 FUS e ! 3 GLASS 1A
+S
+24
+13 UTSUNOMIYA
+25 FUSE U Hzﬂzi B3y sa
+26
+o5 UTSUNOMIYA
+12
+27 FUSE Ubers Itwt 12 Uct 10A
+3 UTSUNOMIYA
+5 6
+28 FUSE Lt ‘—“t 5 uct  15A
+29
+813 UTSUNOMIYA
+20 FUSE s ‘f“{Ar 303y 30m
+L
+oraw, o | BP1693-53
+
+DIFER EDR-5> 212 RTINS JAPAN RADIO & ELECTRIC MFG.CO,, L7D.
+
+--- PAGE 22 ---
+JAPAN RADIQ & ELECTRIC MFG, CO.,LTD.
+
+BOX NO. P4
+SHIP NO.| SPARE PARTS LIST FOR USsE ERER
+1456 158-4400-FS
+BATT. CH. & DISCH. BOARD
+QUANTITY REMARKS
+BOXITEM NAME OF WORKING
+no. | No. PART OUTLINE PERTPER [soare
+N T [VESS
+M [ 1 e
+B UTSUNOMIYA
+3 FUse R ! 717 | 02 soa
+$204
+Ky UTSUNOMIYA
+32 FusE =T 7\ T 414 uc2 60A
+§42¢
+NEH UTSUNOMIYA
+33 FUsE Tz | 212 Jga 175a
+o MARCON
+34 | CONDENSER Ha) 1 |1 ] PWHB1H 223
+110 S0WV 22000uf
+MARCON
+35 CONDENSER g¢35¢ 1| 1| PWM2BT)472
+w 63WV 4700uF
+. - MARCON
+36| CONDENSER [3ess} 11| PWM2B11222
+| 63WV 2200uF
+@ . /R
+37 o 1] 1 | TAMA OHM
+> RESISTOR l-LWuJ_v RWH400G 100
+[
+] @~ &
+2. TAMA OHM
+38 RESISTOR L)% 2 | 0| faMe oM
+P i
+ST » 1 | TAMA OHM
+39| RESISTOR ‘\Jjﬁ k RWH20G 300
+22—
+SPARE PARTS 00— ‘Sdi STEEL WITH KEY
+40 s aa I e 758G 72
+|90 b .
+‘DRAW. NO.i BP1693-S4  eno
+AR T iy 7
+
+--- PAGE 23 ---
+1094 1% 5,000 SHERTS)
+
+(APR
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+XOBE WORKS
+
+S.No. 1456
+TESI REPORT FOR
+BATT. CH. & DISCH. BORRD
+
+TEST DAIE: 7 JUL., 1995
+
+JAPAN RADIO & ELECTRIC MEG. CO., IiD
+
+FORM
+
+No. Tig—1
+
+--- PAGE 24 ---
+(APR. 193¢ 1x5,000 SHEETS)
+
+TEST REPORT
+BATT. CH. & DISAI. BOARD
+
+S.No. 1456
+TYPE JSB-4400-FS
+SERIAL No. 11727
+
+DATE JUL., 1995
+
+WEIGHT 300Kg
+
+OPERATION TEST === mmmmmmmmmmmmssmmm s o s st e
+
+WIRING TEST  ~----nn=m-msmssesemoooooomssmmmemmooocmoee e
+
+APPEARANCE 4ND CONSTRUCTION TEST
+
+TNSULATION TEST (BY DCS00V HEGGER) ------xxxxs-mmmn-ax=--xsoceomnas
+BETWEEN ALL ELECTRIC CIRCUIT AND GROUND
+
+AC440V CIRCUIT --- 100 MQ
+DC 24V CIRCUIT --- 100 MO
+CTRCUIT ---meemmmme v Mo
+
+HIGH VOLTAGE TEST - -« ----mmsmmmmmmmmmmo oot oo
+
+AC440V CIRCUTT ---
+DC 24V CIRCUIT -
+
+AC 2000v 60Hz ONE HINUTE
+AC  500v B0Hz ONE HINUTE
+
+CIRCUIT --- A 60ilz DNE MINUTE
+ROOM AMB. TEWP. TEST DATE
+25 ¢
+TESTED BY
+HUNIDITY
+92 % APPROVED BY
+(AT A 10:00) CHIEF OF INSPECTION SECTTUN
+
+FORM  No. T13—1
+
+--- PAGE 25 ---
+IMAR. 1992 1X5.000 SHEETS!
+
+¥ CIIARGING BOARD
+INPUT [ OUTPUT | LOAD | TRANSEORMER CHOKE SILIGOoN
+TINE [VOLT. | vOuT. | CLR 1 i A DROPPER AT | RESISTOR
+Wl W -~ . TEREL
+3¢ cong | coll | cokg | corl | core | con, B peLoe
+R Ea ; [ e e
+0.00 440 26.50 40 24 24 24 24 24 24 24 24 ! 24 “ 24
+-3 ” # " 34 ”374 _ 28 29 33 34 52 53 L 27 B f 89 L
+1.00] " " 39 39 30 3 | 38 a0 | 54 6 128 | 9%
+o - S L = 13 33 ! 32 |43 45 | s6 | s8 | ‘7 28.5( 97
+3 LS : U O O Y O LN - MO - - O - O T R
+i A 48 52 59 | &0 | 29.5| 98
+\ 300 1 | S0 |54 80 | &1 RN AU VO N 2 -
+e 30 - 1|55 | 62 | 63 ) 100
+Loo| « 6 .. W .. "
+L - — | S NE— — - —
+I R I — _ e JESR I HORSRNY (R R [ 1
+HAX. RISE 26 i 26 m 9 27 kil 37 38 5 ! 75
+= TEST DATE 20 auw,, 1995
+3
+H WS b _ P Psaumels
+¢
+
+--- PAGE 26 ---
+[eE]
+
+(=611 N
+
+(MAR. 1992 125,000 SHE S
+FLOATING CIIARGE. TEST SET. 26,76V DRODPING CHARACTERISTIC TEST
+INeyUT ouUT2YT ITNPUT ouUTPU 7
+“wLTiGE W) T CRRENT (1) TR VOLTAGE (9) | VOLTAGE (! TclieR ()
+374 0.90 440 26.78 10
+440 0.93 " i 26.69 20
+84 | o.e5 | i " 26.50 | 40
+) 1.53 | | |- 26.48 43
+i 440 1.54 i " 26.12 | 44
+484 1.55 i " 23.83 " [
+| 374 2.76 | HANUAL REGULATING TEST
+| 440 2.77 i LCAD CORR. RANGE OF REGULATION (V) |
+184 2.75 ) [IR [} ~
+40.4 20.4
+EQUAL CHARS. CHARACT. TEST SET. v 36.9 20.1
+INPUT QUTPUT TING TEST
+VOLTAGE (V) | CURRENT (&) | VOLTAGE (¥) | CURRENT (%) LOAE CURR- RANGE OF REGULATION (¥)
+- [ T T T
+| 10 40.3 201
+s | 33§ 175
+i TROPPER CHARACTERISTIC TeST
+i LOAD CURR. | DACF ¥OLT. (¥) 1
+w FLONT. | RGlAL
+10 |
+! 20 -
+It ] 40 - |
+RIPPLE VOLT. {AT LOAD STDE)
+[ obfeys curr. | CETRLT WLT. | RIPPLE %L
+TEST DATE I m i
+F— 10 24.1 0.22 |
+20 23.9 0.21
+APFROVED B 40 23.4 0.19
+
+--- PAGE 27 ---
+" E
+(VOLTAGE) 4O
+
+ov
+
+LES
+(CURRENT)
+1404
+
+1508
+
+BT % & X 28
+DROOPING CHARACTRISTIC
+
+1 = — ——
+
+04 104 M4 T4 A A 64 TOA €A 90A L00A LIOA LA LA I40A 1A
+T #i (CURRENT)
+
+--- PAGE 28 ---
+5.NO. 1456
+
+Instruction Manual For
+Batt. Ch. & Disch. Board
+
+This device is Ch. & Disch. Board to charge General Communication
+Battery and feed to the emergency lights and the communication
+system. This is in form of hold - in - place with wall type and
+designed to be able to make all maintenance from the front of it.
+
+Also, this device has the characters to be able to make maintenance
+easily, since it takes the constant voltage charging system with
+thyristor phase cantrol type.
+
+1. Feeder Switch
+
+a)
+
+b}
+
+No - Fuse Breaker " 55“ AC44QV --- ON - OFF
+
+When this switch provided on the panel is turned “ON ",
+
+the inboard saurce AC440V 3§ 60Hz will be supplied and
+
+then Source Indicator lamp SOURCE lights.
+
+The feed to each device and the emergency lights are similarly
+performed by turning “ ON “ the switch of each name on the
+panel.
+
+2. Battery Ch. & Disch.
+
+Please refer to the attached explanation of the thyristor
+
+phase control part as to the charger.
+
+S
+
+[
+i
+
+S|
+
+witch “ 587 CH.FORM --- AUTO. ---- MANU.
+
+When the switch “$8 " is set to AUTO., the batteries are
+onnected in parallel with the load, the rectifier mainly charges
+he load and also feeds the micro - current to supplement the
+elf - discharge of the battery.
+
+When the input is interrupted, the feeding to the load is made
+
+f
+
+rom the battery.
+The charging voitage is set to 26.76V. Even when the load
+
+changes suddenly, the voltage will be fixed owing to the constant
+
+voitage output
+
+JAPAN RACIO & ELECTAIC MFG. CO., LTD
+
+--- PAGE 29 ---
+The voltage of the load side is adjusted to about 24V by
+the silicon dropper.
+
+In case of charging by other charging time, set the switch to
+" MANU “.
+
+By turning clockwise the variable resistor VR1 CH. VOLT. ADJ. ,
+the voltage increases, and counterclockwise, the voltage decreases.
+So it is possible to charge at the optional voltage.
+
+However, be careful about overcurrent.
+
+3. The Gther Switches
+
+a)
+
+]
+
+“S4" EMERG. TEST
+
+1 the inboard source is interrupted, the source is supplied to the
+emergency lights by the relay. This switch is used to test the
+relay when the inboard source is normal. By pushing this switch,
+it is changed to the condition that the inboard source is stoped.
+“$3" EARTH TEST
+
+This is the push button switch for earth test of the load circuit.
+If the lamp is extinguished when the switch is pushed, the
+polarity is earthed.
+
+" 52" DC CURR. --~ GFF -— CH. - BATT. ---- LOAD
+
+This switch is used to measure the output current of the rectifier,
+charging - discharging current of the battery and the feeding
+current to the load.
+
+"S$1" DC VOLT. --- OFF - CH. ---- LOAD
+
+This switch is used to measure the output voltage of the
+rectifier, the voltage of the battery and the feeding voltage to
+the load.
+
+JAPAN RADIO & ELZCTRIC MFG.CO., LTD
+
+--- PAGE 30 ---
+!
+T 7eeas 1
+{'No.| aE025 |
+
+2612 |
+
+INSTRUCTION MANUAL FOR
+
+IHYRISTOR CONTRCLLER
+
+TYPE JRV-1024
+
+dapan Padiv & Elactuic Mpg Lo, Lid.
+
+--- PAGE 31 ---
+THYRISTOR FHAST CONTRCL PART
+
+General
+This control part mainly uses the semiconductor, which
+is silicon diode, transistor, thyristor, IC etc.. It is
+a long-life ard high reliable unit which will generate
+the striking pulse in order to control the phase ol
+thyrister. A4lso, it protects apparatuses and thyristor
+in beoard which is connected with output of the charger
+by setting overvoltage and overcurrent protecting
+circuits.
+EYPLAVATION CF OPERATICN
+(Fig. 12
+1007 30 GUAL. VOLT. ADJ.
+U v W Ced & F FLOAT VOLT. ADJ.
+———— 0 - ——— O0—o—a
+i i + // NORMAT,
+!
+[ S1 AUX. |
+| AUX. VOLT ¢
+| ADT. |
+| [OVERVOLE. VERCORR. |
+O——|DETECTING DETECTING |
+{ ICIEC. FIRC. |
+lpmr. br
+VOLT.
+1ADJ- RESET
+1
+L4 _ ~ [0 O A S
+co SH VD: GaG1GeGa
+
+Fig. 1 shows inner circuits of comtrol part with the
+block. The following is the explanation of operation of
+each circuit according to Figure.
+
+CVERVCLTAGE DETECTOR CIRCUIT
+
+The terminal "VDL" which is showed in Fig. 1, is
+connected with (+) side of charger output feeding
+circuit, the terminal "EL" is connected with the coil
+of electromagnetic contactor for A.C power source
+
+D5
+
+e
+
+--- PAGE 32 ---
+N
+
+Breaker. JIn case that the terminal "VD1" is less than
+the voltage (29V) which is set by Variable Resistor
+(DET. VOLT. ADJ.), the oclectromagnetic contactor
+doesn't operate, the power soumce is supplyed the
+charger.
+
+If the voltage of the terminal "VDI1" increases and
+exceeds 28V, the electromasnetbic contactor is sxcited,
+4.C power source of-the charger is interrupted, only
+discharge of BATTERY is performed.
+
+In case of restoring A.C power source which is inter-
+rupted by the abnormal rising of output voltage,
+please push on the push-button (RESET). The power
+circuit shall be cornected, solving the self-mainte-
+nance of the electromagnetic contactor by this switch.
+
+OVERCURRENT DETECTCR CIRCUIT
+
+The terminal "SH" is connected with the shunt for
+overcurrent dectection. If the currens which is
+detected by the shunt exceed 100% of the rated current,
+it will control the constant voltage circuit, cperates
+*to decrease the -output voltage, and controls not to
+flow the electric current of more than 130% of rating.
+
+CONSTANT-VOLTAGE CONTROL CIRCUIT
+
+Terminals ¥, E, F, Cl2 are connected with the charge
+form select switch (MANUAL-EQUAL-FLOAT).
+
+The Equalizing circuit and Floating circuit variable
+resistors are pre-set to provide their circuits with
+31 and 29 volt respectively. The termial "VD2" ig
+connected with (+) side of the oubput circuit.
+
+The actual charging voltage is sensed through this
+eircuit and feed-back to the controller which then
+adjusts the voltage output to keep “he charging
+voltage at the pre-set value.
+
+05
+
+--- PAGE 33 ---
+2
+
+STRIKING PULSE GENERATING CIRCUIT
+
+This is the circuit to change the signal, which is
+compared with and amplified at the constant voltage
+
+control circuit to pulse signal to striking the
+
+thyristor, When time "t" in Fig. 2 is long, the output
+voltage of the charger is down, and when it is short,
+
+the output voltage increses,
+
+(Fig. 2)  3YNCHRONIZING PULSE
+SPRIKING PULSE
+
+/o f
+L |
+
+3 e
+
+OPERATION AND ESTABLISEMENT
+
+The Xnob of the control pert is set to under the best
+condition by the maker, If the set vaoltage slipped,
+operate the knob showed Fig. 3 (adjusting part), and
+edjust it according to condition.
+(Fig. 3)
+
+FLOAT DET.
+VOLT. ADJ. VOLL. ADJ.. VOLE ADJ.
+
+(@ (® () ©
+
+DOWN ® % pouN
+LQUAL.
+VOLT, ADJ. AUXYLIARY
+~
+© O
+2O wp  RESET NORMAL
+
+m
+
+©
+
+Arrangement of the adjusting part
+
+05
+
+ez
+
+--- PAGE 34 ---
+D5
+
+3-2
+
+-3
+
+FLOATING VOLTAGE ADJUST
+
+After changing the CHARGE FORM SELECT SWITCH (FLOAT-
+EGUAL-MANU.) on the panel of Ch. & Disch. Board to
+"FLOAT", turn the "FLOAT. VOLT. 4DJ.", and in case of
+the lead battery, adjust the floating voltage to 26V
+while observing the DC voltmeter, also in case of an
+alkaline battery, adjust it to 29V. When turning
+clockwise the knob of the varisble resistor, the voltage
+grows nigh, and when turning counterclockwise it, the
+voltage is down.
+
+EQUALIZING VOLTAGE ADJUST
+
+¥ This function is not necessary and does not work.
+
+hanging the CAARGE FORM SELICT SWITCH to &
+
+turn "EQUAL. VOBZ,-4DJ." in the same 55 shows in
+
+3-1, and in case of the 1@ Tery, adjust
+
+voltage o 29¥,-aT86 in case of an alKath
+justTE to 31V.
+
+DETECTING VCLTAGE ADJUST OF OVERVOLTAGE
+
+After changing the CHARGE SELECT SWITCH equipped on
+the panel of Ch. & Disch. 3oard to "MANU.", adjust the
+MANU. VCLT. ADJ. to 29V, turmn the DET. VOLT. ADJ. in
+Fig.3, please set to it at the point whick the elechro-
+magretic contactor for interrupting A.C power source
+operates. When turning "DET. VOLT. ADJ." to the right,
+the detecting voltage grows high, and when burning it
+to the left, the detecting voltage is down.
+
+NCTE ... In case of performing this test with connect-
+ing BATT., it is required much time %o raise
+the voltage. For doing for a short time,
+pleage disconnect BATT. befors that.
+In this case, Magnetic relay works intermittent-
+1y.
+
+--- PAGE 35 ---
+QULY 78 5000 SHEET)
+
+34 OMERS
+The toggle switch (AUXILIARY-NORMAL) is usually used
+under "NORMAL® pogition. 1In case that printed circuit
+card (Type JRV-1024B) of constant voltage control
+circuit becomes defective, you will change it to
+"ATCOLIARY" and you can gain the optional charge
+voltage by turning the AUX. VOLT. ADJ., But in such
+a cage, the output characteristic of the charger does
+not become rated voltage. Also, when the printed
+circuit card (Type JRV-1024A) for striking pulse
+generating circuit is defective, if changing it to
+"AUXTLIARY", the voltage is not generated therefore
+please change it for the spare printed circuit card.
+
+FORM NO.D5
+
+--- PAGE 36 ---
+REMARKS
+
+REFORM!,
+
+JAPAN RADIO & ELECTRIC MFG.CO.LTO.
+
+NAME
+
+£034341, 2554, #E0. 359
+gD’ UL BRYT S
+fnsBAL 1/ AV S
+
+JRV-i QP4
+94 U S {TIRRIEER
+
+CDO08020A
+
+--- PAGE 37 ---
+: i 1. SHIP'S NEWBUILDING NO. . SHIPYARD AND YEAR.
+For after-sale service, please contact JRCS direct 2 DESCRIPTION. AND TYPE OF EGQUIPMENT.
+or the FOHO\vlng authonsed 1epresenLalees £ possxble please ad\'lse, 3. DESCRIPTION OF PROBLEM(S).
+
+AUSTRAL I A NOVAMARI
+30 DOWNTE
+
+STRUMENTS PTY. LTD. |
+WICKIIAY N. §. H. 2293 |
+
+6119 69 177 FAX: +61 49 62 1210
+BELGIUM
+
+; - TEL: -+32 3 541 04 63 FFAX: 482 3 542 57 98 T
+BRAZI!IL METALOCK DC BRASIL LTDA.
+
+RUA VISCONDOE DO RIO BRANCO 20/26 11013-030 SANTOS S. P BRAZIL |
+
+TEL: +565 13 222 1686 FAX: +35 13 222 1088 TLX: 131034 LOCK
+
+i CHINA SEE JAPAN !
+
+b AMRC AB
+
+CHILE UWE HEBEL ELECTRICS LTDA
+J. GASPAR YAR(N 1/11, VALPARATSO, CHILE
+
+L: +56 32 210789 / 93 248853  FAX: +56 32 217963
+
+GREECE INTERSHIP MARITIME INC. j
+145, KOLOKOTRONIT STR. PIRA 185 36 GRE
+
+i TEL: +30 1 4283585 / 4283586  FAX: +130 | 4283387  TLX:241430
+
+HONG KONG HOSTMOST ENGINEERING LTD.
+UNIT A, 14/F, REGENCY CENTRE, 39 WONG
+
+CHUK HANG ROAD, HONG KONG
+TEL: +852 2554 9207/80%7  FAX: +832 2554 5152
+I TALY GB SCARS! SRL |
+CALATA BOCCARDO 16128 GENOA [TALY
+
+D439 10 216 116 FAX: 43910 200 190
+JAPAN JRCS CORPORATION
+1-2-14 HLGASHI YAHATO-CIIO, SHIMONOS|
+
+i
+1, JAPAN, 750 i
+L: +81 832 61 0300 FAX: EBI 832 B1 0130 1
+
+KOREA SEE JAPAN
+
+--- PAGE 38 ---
+NETHERLANDS  GTl MARINE & OFFSHORE BV
+B0B7 AN ROTTERDAM WLLLINGESTRAAT 8, TIE NETIERIANDS
+TEL: H3110 420 5200 FAX: 3110 129 5005 TLY: 2220 {H00P NI,
+POLAND PROJECT SERVICE ENTERPRISE EPA LTD.
+BOJSKA POLSKIEGD 151, 71~321 IN, FOLAND
+; 18 9 871885 FAX: 418 Y1 BTA01G TLE: 4122802 EPA DL
+! SINGAPORE APPLIED AUTOMATION PTE. LTD.
+30 LIU FANG ROAD, SINGAPORE
+; + 6 2654833/2650863  IAX: 465 2640897 TLX: CYCLET RS 21820
+{ SOUTH AFRICA GLOBE ENGINEERING WORKS (PTY) LTD
+BERRLO ROAD, PORT OF CAPE_TOWN, SDUTIT AFRTCA
+: 2 +27 21 LB A0 FAX: +27 21 448 4632 TLY: 520832
+i TAIWAN (R.0O.C.) SEE JAPAN
+‘ '
+| _
+UK. MANNINGS MARINE LTD. |
+186 REGENT RD, BOOTLE, MERSEYSIDE 120 4 RD ENGLAND, UNITED KINGDOM
+TEL: - 151 933 0820 DA 151 GN 151 LK 627437
+URUGUAY R | N. SRL
+! CERRTTO 664/670 MONTEVIDEQ URUGUAY
+TEL: +598 2 95 71 83/96 18 50/95 71 70 FAX: +398 2 96 18 25 TLX: RIN UY 26368
+luos A MACKAY COMMUNICATIONS INC.
+RARTTAN CENTER, 300 COLUMBLS CIRCLE EDISON, NEX A
+TEL: 1 908 225 808 225 2848/225 4959
+TLX: 4754352 MACR/\DuWnn : AY
+(EAST COAST)AS ABOVE
+(GULF COASTIHOUSTON OFFI(
+TEL: +1 713 FAX: 1 713 615 LI74 TUX: (23) 775878 MACKAY HOU.
+(WEST COASTISEATTLE OFFICE
+TEL: +1 206 922 6260  FAX: +1 206 922 6619  TI.X:320396 MACKAY STA.
+
+JRCS continually reviews the service requirements and performance and welcomes suggestions and advice for improvements.
+
+JAPAN RADIO & ELECTRIC MFG. CO.LTD.
+ancs JRCS CORPORATION
+
+HEAD OFFICE
+
+1-2-14 [E1GASIIT YAVATO-CIIO, SHIMGXOSEKT, MI‘/\V 750
++81 832 61 0500 FAX: 181 832 61 0330
+TOYQURA FACTQ
+
+2155 AZA-GLORDEN, K.\w,\T/\NA, TOYUURA-CIID, TOYOURA-GUN, JAPAN
+481 RIT 72 2111 FAK: +B1 837 71 20A1
+OVERSEAS LIAISON OFFICE
+CRANBOLRNE ROAD, ASHTON-UNDER-LYM
+11 161 308 3600 1
+
+7AY-B3
+
+HARCH. 1998
+
+--- PAGE 39 ---
+24 HOUR SERVICE
+JRCS offers 24 hours services.
+
+After-sale service agents operate warld-wide and
+prompt services to all sea-going vesells can be offered.
+
+Spare parts for JRCS equipment can be also delivered
+through our world-wide agents.
+
+Please contact the Head Office or the Tokya Office
+for the efficient services.
+
+JAPAN RADIC & ELECTRIC MFG. CO.LTD.
+
+Head Office:
+2-14 j-chome Higashiyamato-cho
+Shimonaseki, Japan
+Tel. (0832) 61-0207
+Telefax.  (0832) 61-0209
+
+Tokyo Office :
+13-15 Nanpeidai-cho Sibuya-ku,
+Tokyo, Japan
+Tel. (03) 3463-7841
+Telefax.  {D3) 5458-7485

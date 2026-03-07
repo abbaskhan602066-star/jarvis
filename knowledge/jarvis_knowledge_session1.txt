@@ -1,0 +1,356 @@
+==============================================================
+JARVIS KNOWLEDGE BASE — SESSION 1
+Created from: Claude AI conversation
+Topic: Building Jarvis Maritime Assistant
+Date: March 2026
+Owner: Filipino ETO on LPG vessel
+==============================================================
+
+PURPOSE OF THIS FILE:
+This file contains reasoning patterns, decisions, and technical
+knowledge learned during the building of Jarvis. Feed this to
+Jarvis so it understands WHY things were built a certain way,
+not just what they are.
+
+==============================================================
+SECTION 1 — OWNER PROFILE
+==============================================================
+
+WHO I AM:
+- Filipino seafarer, REE by education
+- Currently working as ETO on LPG vessel
+- Self-taught programmer using ChatGPT and Claude
+- Strong analytical and troubleshooting skills
+- Limited internet: 10GB/month ship data
+- Device: Realme 8 Android phone + Termux
+- Goal: Shift to remote work / homebased career
+
+MY SKILL LEVEL:
+- Python: intermediate (built real tools)
+- Termux: intermediate (organized file structure)
+- AI/LLM: self-taught prompt engineering
+- Maritime: expert (electrical, automation, cargo systems)
+- Programming style: practical, tool-focused
+
+TOOLS I ALREADY BUILT:
+- Jarvis AI assistant (basic, now upgraded)
+- Netlimiter (network monitoring)
+- YouTube downloader
+- File manager
+- Audio transcriber
+- Various automation scripts
+
+==============================================================
+SECTION 2 — CAREER PLANNING KNOWLEDGE
+==============================================================
+
+REASONING: Why maritime background is valuable in tech:
+Most programmers have zero industrial experience.
+Most marine engineers have zero coding skills.
+The intersection of both = rare and valuable.
+Target this intersection instead of competing with
+pure programmers or pure IT people.
+
+BEST CAREER OPTIONS (ranked by readiness):
+1. AI Automation Builder — READY NOW
+   Reason: Already built Jarvis, file manager, transcriber.
+   These ARE automation tools. Package and sell them.
+
+2. Python Freelancer — READY NOW
+   Reason: YT downloader, netlimiter, transcriber =
+   exactly what clients pay for on Fiverr.
+   
+3. Maritime OT Security — 6 months prep
+   Reason: Almost nobody has BOTH maritime + security skills.
+   LPG vessel experience = direct asset for industrial security.
+
+4. Technical Writer — minor prep needed
+   Reason: Can explain complex things simply (proven by
+   building own tools). Maritime technical writers are rare.
+
+5. RPA Developer — 2-3 months prep
+   Reason: UiPath + PowerShell knowledge = direct path.
+   Free certification available.
+
+FREELANCE PLATFORM STRATEGY:
+LinkedIn = job fair, 500 applicants per posting. Hard for shifters.
+Fiverr = marketplace, clients search for specific skills.
+Key insight: Don't sell "Python Developer" (50,000 sellers)
+Sell "Python automation for maritime operations" (5 sellers)
+Niche = less competition = easier to win first clients.
+
+COLD START PROBLEM ON FIVERR:
+No reviews = clients hesitant.
+Solution: First 3 gigs priced very cheap ($5-10).
+Deliver excellent work. Get 5-star reviews.
+Then raise prices. Let reviews do the selling.
+
+==============================================================
+SECTION 3 — TECHNICAL DECISIONS AND REASONING
+==============================================================
+
+WHY WE CHOSE THESE TOOLS:
+
+Flask for UI (not Kivy):
+Reasoning: Flask = browser-based, easier to build and maintain.
+Kivy = native Android feel but complex compilation on Termux.
+Decision: Flask first, upgrade to Kivy later if needed.
+The browser UI runs on localhost:5000 = no internet needed.
+"localhost" means the phone itself, not the internet.
+
+requests library instead of groq package:
+Reasoning: groq package requires pydantic v2 which requires Rust.
+Rust = 160MB download on limited ship data.
+requests = already installed, zero MB needed.
+Same result, fraction of the cost.
+Lesson: Always check if you can use what's already installed.
+
+Groq API instead of OpenAI:
+Reasoning: 14,400 requests/day free tier.
+No payment needed for personal use.
+Uses Llama3 model = very capable for our needs.
+OpenAI requires credit card = barrier for Filipino users.
+
+Gemini API backup:
+Reasoning: Google account = most Filipinos already have one.
+No credit card needed for free tier.
+Problem found: old API keys can have exhausted quotas.
+Solution: Always create key in NEW project for fresh quota.
+
+Offline brain = Mistral 7B:
+Reasoning: Ship internet = unreliable/limited.
+Need AI that works with zero internet.
+Mistral 7B = best balance of quality vs size for 8GB RAM phone.
+Problem found: mistral-smart.gguf was corrupted (incomplete download).
+Evidence: .aria2 file present = download was interrupted.
+Symptom: garbage/symbol output instead of real text.
+Fix needed: redownload on good WiFi.
+
+RAM limiting for local models:
+Reasoning: Full Mistral = needs 5GB RAM.
+Phone only has 3.8GB available after OS.
+Without limits = phone hangs and crashes.
+Solution flags:
+  -t 2       = only 2 CPU threads (keeps phone responsive)
+  --ctx-size 512 = small memory window (~1.5GB usage)
+  -ngl 0     = no GPU layers (safer, prevents crashes)
+  -st        = single turn (answer and exit, don't wait)
+
+Whisper for voice (not Google STT only):
+Reasoning: Google STT needs internet.
+Ship = unreliable internet.
+whisper.cpp = runs fully offline.
+Models found: ggml-small.bin (466MB) and ggml-tiny.bin (75MB).
+language="en-PH" = Filipino English locale = better accent handling.
+
+Plugin architecture:
+Reasoning: Single monolithic Jarvis = hard to maintain.
+Plugin system = drop .py file in folder = new feature.
+Delete .py file = feature removed.
+No code changes needed in main jarvis.py.
+Each plugin is independent = one crash doesn't break others.
+
+==============================================================
+SECTION 4 — PHONE/TERMUX ENVIRONMENT
+==============================================================
+
+DEVICE: Realme 8
+RAM: 7641MB total, ~3.8GB available
+Storage: 107GB total, 13GB free
+OS: Android with Termux
+Python: 3.12.12
+
+INSTALLED AND WORKING:
+- flask 3.1.3
+- pyaudio 0.2.14
+- textblob 0.19.0
+- gTTS 2.5.4
+- numpy 2.2.5
+- pillow 11.3.0
+- requests 2.32.5
+- SpeechRecognition 3.14.3
+- scipy 1.16.3
+- ffmpeg 7.1.2
+- portaudio 19.07.00
+- termux-api 0.59.1
+- llama-cli (installed via pkg install llama-cpp)
+- git, wget, curl
+
+NOT INSTALLED (and why):
+- groq package: needs Rust (160MB), use requests instead
+- faster-whisper: av package compile fails on Python 3.12
+- openai-whisper: too heavy, use whisper.cpp instead
+- spacy: not needed, removed plugin
+- autopep8: not needed, removed plugin
+- vosk: not needed, have whisper.cpp
+
+FILE LOCATIONS (important):
+- Jarvis main folder: ~/Jarvis/ 
+  (symlink to ~/termux_organized/projects/Jarvis)
+- Whisper small model: ~/termux_organized/binaries/ggml-small.bin
+- Whisper tiny model: ~/termux_organized/binaries/ggml-tiny.bin
+- Mistral model: ~/mistral-smart.gguf (CORRUPTED - needs redownload)
+- API keys: ~/Jarvis/keys.txt
+- Jarvis logs: ~/Jarvis/jarvis_logs/
+- Knowledge base: ~/Jarvis/knowledge/
+- Plugins: ~/Jarvis/plugins/
+
+NETWORK SITUATION ON SHIP:
+- console.groq.com: BLOCKED on ship network
+- api.groq.com: BLOCKED
+- huggingface.co: BLOCKED
+- openrouter.ai: BLOCKED
+- google.com: REACHABLE
+- aistudio.google.com: REACHABLE (sometimes)
+- Gemini API: quota exhausted on old key
+
+SOLUTION FOR BLOCKED NETWORK:
+Use phone mobile data (not ship WiFi) when in port.
+Ship WiFi = satellite = heavily filtered.
+Port WiFi or personal data = unrestricted.
+
+==============================================================
+SECTION 5 — JARVIS FILE STRUCTURE
+==============================================================
+
+~/Jarvis/
+├── jarvis.py          ← main entry point
+├── jarvis_ui.py       ← Flask browser chatbot
+├── brain.py           ← AI brain switcher
+├── voice.py           ← speech input/output
+├── keys.txt           ← API keys (never share!)
+├── plugins/
+│   ├── maritime.py    ← reports + troubleshooting
+│   ├── organizer.py   ← memory + reminders + finder
+│   ├── jarvis_files.py   ← existing file manager
+│   ├── jarvis_media.py   ← existing media player
+│   ├── jarvis_memory.py  ← existing memory system
+│   ├── jarvis_report.py  ← existing image reports
+│   ├── nlp_plugin.py     ← existing NLP
+│   └── play_plugin.py    ← existing player
+├── knowledge/         ← .txt files to teach Jarvis
+└── jarvis_logs/       ← auto-saved reports and logs
+
+==============================================================
+SECTION 6 — MARITIME KNOWLEDGE
+==============================================================
+
+SHIP TYPE: LPG Vessel
+ROLE: ETO (Electro-Technical Officer)
+
+DAILY TASKS THAT JARVIS AUTOMATES:
+- Daily Maintenance Report (DMR)
+- Running hours log (generators, motors)
+- Defect list updates
+- Watch handover notes
+- Stores/spares consumption log
+- Equipment status reports
+- Incident/near-miss reports
+- Planned Maintenance System (PMS) updates
+
+KEY EQUIPMENT ON VESSEL:
+- Main generators (diesel)
+- Emergency generator
+- Cargo pumps and compressors
+- Navigation equipment (RADAR, ECDIS, AIS, Gyro)
+- Communication systems (GMDSS, VSAT, VHF, MF/HF)
+- Automation and control systems (PLC, SCADA, IAS)
+- Safety systems (fire detection, gas detection, ESD)
+- Variable frequency drives (VFD/VSD)
+- Power management system (PMS)
+- Reliquefaction plant
+- Cargo monitoring systems
+
+COMMON TROUBLESHOOTING PATTERNS:
+Generator tripping → check overcurrent, lube oil, cooling
+Compressor high temp → check cooling water, ambient temp, load
+VFD fault → check input voltage, motor insulation, parameters
+Navigation light fault → check lamp, circuit breaker, wiring
+Gas detection alarm → verify sensor, check calibration, evacuate if needed
+
+SAFETY RULE (never break this):
+Never bypass or disable safety systems.
+Never recommend defeating interlocks.
+Always escalate to superintendent for major faults.
+Gas system faults = highest priority = follow ESD procedure.
+
+==============================================================
+SECTION 7 — REASONING PATTERNS TO LEARN
+==============================================================
+
+PATTERN 1 — Data-conscious decision making:
+When on ship with 10GB/month limit:
+→ Check if package already installed before downloading
+→ Use requests instead of groq (saves 160MB)
+→ Check file size before every pip install
+→ Save offline versions of everything possible
+→ Download big files only on port WiFi
+
+PATTERN 2 — Debugging approach:
+When something fails:
+→ Read the exact error message carefully
+→ Identify the ROOT cause not the symptom
+→ Example: "av compile fails" → root cause is Python 3.12 incompatibility
+→ Find alternative that avoids the root cause entirely
+→ Don't fight the error, route around it
+
+PATTERN 3 — Niche thinking:
+When competing in a crowded market:
+→ Find the intersection of your unique skills
+→ Maritime + Python + AI = almost nobody else has this
+→ Smaller niche = less competition = easier to win
+→ "Python developer" = lost. "Maritime automation specialist" = wins.
+
+PATTERN 4 — Build on existing instead of replacing:
+When upgrading a system:
+→ Scan what's already there first
+→ Use what works, fix what doesn't
+→ Don't rewrite everything from scratch
+→ Owner had more built than they remembered
+→ whisper.cpp, flask, plugins all already there
+
+PATTERN 5 — Offline-first design:
+For ship use:
+→ Assume internet will fail
+→ Build offline fallback for everything
+→ Online = better quality bonus
+→ Offline = minimum viable always works
+→ Auto-switch between modes seamlessly
+
+==============================================================
+SECTION 8 — TODO / PENDING ITEMS
+==============================================================
+
+IMMEDIATE (next port or good internet):
+□ Get working Groq API key (console.groq.com)
+  - Use personal phone data, not ship WiFi
+  - Save as: echo "GROQ_KEY=xxx" >> ~/Jarvis/keys.txt
+  
+□ Redownload mistral model (corrupted)
+  - Delete: rm ~/mistral-smart.gguf
+  - Use ollama or direct gguf download
+  - Recommended: phi3:mini (1.8GB, fits RAM well)
+
+□ Test complete voice pipeline
+  - Browser UI mic button
+  - whisper.cpp transcription
+  - AI brain response
+  - gTTS speech output
+
+SHORT TERM:
+□ Add PDF manual scanner to Jarvis
+□ Add knowledge base auto-loader
+□ Create maritime equipment database
+□ Test reminder notifications via termux-api
+□ Add pattern learning suggestions
+
+LONG TERM:
+□ Build sellable version (stripped down, one focus)
+□ Create LinkedIn post showing Jarvis demo
+□ Upload tools to GitHub
+□ Consider maritime cybersecurity certification
+□ CompTIA Security+ when ready
+
+==============================================================
+END OF SESSION 1 KNOWLEDGE BASE
+==============================================================

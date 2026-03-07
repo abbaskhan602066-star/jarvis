@@ -1,0 +1,1165 @@
+FILE: E-331-1 INSTRUCTION BOOK FOR RADIO EQUIPMENT (1-2).pdf
+FOLDER: .
+PAGES: 443
+SIZE: 17.3MB
+DATE: 2026-03-07 13:35:51.074618
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+RADIO EQUIPMENT
+
+(1/2)
+
+“' HHS leclml( ll (Iounnuxt is ll\( >|(>|)uly ()f
+
+Kawasala lleavy Industries, Ltd. (K1) and may
+not be copied, nor disclosed to any third party
+without KIl's prior writlen consent.,
+
+MANAGER SCALE JOBNO.
+
+&y | OHEORED Late "’*"é“i“” KAWASAKI HEAVY INDUSTRIES, LTD.
+o Q EAVY IND > :
+DRAWN ~—ﬁ§fv JT*“}“%L = SHIP DESIGN DEPT, SHIP GROUP
+eal
+
+<S’,</ . Q?
+
+596 1456
+
+2.1 30 N-EQ@ Al KAWASAKI HEAVY INDUSTRIES, LTD. 2 SHEETS INCL COVER
+
+--- PAGE 2 ---
+RADIO EQUIPMENT
+
+N A M E MODEL REMARKS
+400% MF/HF RADIO EQUIPMENT J§SS-720 —
+SATELLITE EMERGENCY POSITION
+
+JQE-2A-E 1
+
+INDICATING RADIO BEACON SEE DWG. NO.
+
+3
+
+|I|Hi|
+IIIIII
+
+w
+
+E-331(2/2)
+4 TWO-WAY RADIOTELEPHONE JHS-17
+
+--- PAGE 3 ---
+Messrs. KAWASAKI HEAVY INDUSTRIES LTD.
+
+S.No. 1456
+
+e e e —
+
+MODEL : ]S$-720
+400W MF/HF RADIO EQUIPMENT
+
+D —————
+
+FINISHED DRAWING
+95 DECEMBER 1995
+
+Japan Radio Co, Ltd.
+
+Maritime Communications Section II
+Engineering Department I
+Marine Electronics Division
+
+TEL 0422-45-9542
+FAX 0422-45-9957
+
+| ;f»
+
+ITH-8836
+
+--- PAGE 4 ---
+'g.t_l
+3
+S
+v
+c
+N
+2-1
+
+COMPONENTS LIST FOR MF/HF RADIO EQUIPMENT |
+
+ol  wwe | e oy | *Be Ly
+Q'TY (k;) INDEX
+e o I P "
+f elransmieter w072 |cocorporates tmto ssspzo] 1 | - | -
+I—-l
+uE
+l_
+
+S I ——
+
+N EeSy— e —-_-
+
+MF/HF Antenna Tuner NFC-700 With Water-proof box NQE-8
+
+3.0 3
+
+REMARKS
+
+10 IController NCH-700 Incorporated into NCU-247A
+
+conerotter 1
+iz 700 —
+o~ s —
+
+2182KHz
+15 [Watchkeeping Receiver JXA-TA ncorporated into NCU-247A 6 i
+
+2.8 3
+
+16 |Antenna Matching Box
+
+w| ]
+
+| 20 |Flashlight
+
+-—-
+
+25 |Whip Antenna
+
+| | (3.5)
+
+NAW-60 6m i 10 13
+
+J -69C | 1
+
+Ax?%enna Matching Box I ﬂ?&—?g!{ .
+M-P-7 - y | !
+
+27 Coaxial Connector M-A-JJ 2 | - 113
+
+28 [Self Supporting Ant. NAW-208D 1 ’ 27.0 13
+
+29|Installation Materials 6ZPKD0O0062 —- -
+
+6zxxvsaus 15
+2.0
+
+--- PAGE 5 ---
+ANTENNA 6m WHIP
+
+/ 8a WHIP
+ANTENNA NAW-2080 ANTENNA
+6JNKDQQ080 ( 1m)
+MATCHING BOX || JOINT BOX MATCHING BOX S o
+NFG-13Y JOD-69C NAW-1 l PRT
+l RO PRINTER i | DATA TERMINAL
+; ! NKG- 800 NWZ-7004
+—/ , Lo
+» PE-19/1.0 = I 6INKE000TO( lm )
+o, X ° |
+& 1
+o i
+= a - & -8 b 6 --—---——--——-—---—-—-—-—---——-—-——-—-——-—-] CCNTROLLER '
+o g =z S CBA : NCH-TQ0 I
+w o= ' LAOCAL 1
+o = 7 3 2182KHz = l
+E g E . |WATCHKEEPING 4 i
+|| ANTENNA TUNER BOX 283 RECEIVER - l
+~ tal . 5
+< aQ f= . L. .
+« ¥ = z ¢ 2 1! . i ;
+. . T T = T 19 21 23 25 29 31 33 36 34 3/ 2 8 10 12 14 I
+8 g 8 - ;—’_ O o O O O s 9“13[5
+AUTOMAT[C ANTENNA TUNER s a a — & — L& %8¢ 2 22 24 26130132 37 3 1 28 3101815 '
+NFC-700 z =z = | ~ 3 ]
+12 10 8 68 4 2 5 0% 2 ] l !
+O ®) O ® O ® a3 a3 fad . . . .
+@ 18] Ly 71sTalt 4-%; ﬁ fsl AC 220V l mu. MY NOWORONO NCU-247A l
+— P2I719NY 14, 60Hz, 1
+A | SAEpRiil R R GMDSS CONSOLE
+171 M ] i w=u—
+| - A st e | — |11} EMG L1 18} 1
+. - & & ° 8 O < _— 3¢ -
+& o B B 7 g
+S @ 2 22 2 a s
+S ; 5l &5 % 5l R0 = o ‘
+= 8 DFYC-1.25 : SUEPLY DPYC-1.25 = g 5
+2 3 SwW AR L .-228588382385885383 5 g
+F (T[]
+—mnvor~rmaSIl]|g ll--l- [ e e X9 (D
+FY M ' EMG NAY
+v r LIGHT  EQUIP
+@@ ®, O Q QO ’0 » Q o) —(L Q Q O O O O QO O Q Q §yQ -0 Q Q O O » O
+54 62) 60} 58| 58 NE . 2523} 21 . 44 oalosle4|82la0|78|74| 72|70 68 )66 [65]75]99]101]95]93 0189
+O Q O Q O Q O o Q O Q Q O Q ® Q O ® O @) O
+
+RX IN DSC RF QuUT
+N 79 77 73 71 69 &7 87 76 86 100 102 94 g2 90 88
+
+97 85 83 8l
+
+63 61 59 57 55 53 26 24 22
+
+T8l
+J8S-720 RADIO EQUIPMENT
+TBI0! TBL T8102 TB103
+1 2 3 4 s a . g
+KHI Q Q Q O - QO - C
+1456 2c, 35 © DPYC-1.25 -
+TFYC-14 DPYC35 ———— ——————————
+2C, 15A
+DC24V+ TPYC-8
+. 2C.7A NO. | VHF
+: o VeF 17 OPYC-35  (DC24V) [NTERCONNECT [ ON
+| o ¢ {N‘MARS'AI —‘C D 2C, 7A NO. 2VHF ' DIAGRAM
+AC220V 24v POWBR SUPPLY viF 20 OPYC-35 ~ (DC24Y)
+{9, 80Hz 200AH NBO-5i{gA J
+BATTERY
+
++ .
+| GMDSS CONSCLE NgU-2474 =MO? —glﬂz— SO T
+
+. —— e ——— e —— — —— e |
+
+--- PAGE 6 ---
+TECHNICAL SPECIFICATIONS \
+
+1. MF/HF Installations JSS-720
+
+1.1 GENERAL
+
+Frequency generation: True digital synthesis
+
+Frequency selection: By common keyboard
+Single key selection of 2182KHz,2187.5KHz
+
+400 user-programmable frequéncy pairs
+Scanning facilities -
+
+Frequency presentation:Separate LCD displays for receive and
+transmit frequencies
+
+Frequency stability: Within +10Hz(0,.3ppm)
+
+Operating modes: Duplex and simplex
+USB:J3E upper sideband,suppressed carrier
+
+AM:H3E(2182KHz) upper sideband full carrier
+F1B:J2B{(DSC,NBDP) upper sideband,suppressed
+o carrier
+£ ;) CW:AlA morse telegraphy
+'\w- MCW:H2A modurated morse telegraphy(*option)
+
+6 ’ Environmental condition: .
+temperature:0~+40C full specification
+-15~+55C operational
+
+humidity: 93% +40TC
+
+Painting colour: 5vY8/1
+
+1.2 RECEIVER:NRD-740
+
+Frequency range: 90KHZzZ~29.9999MHz
+
+Receiving system: Double superheterodyne
+(1st IF:70.455MHz, 2nd IF:455KHz)
+
+S TS B YT NI
+90KHz - 1600KHz |10xV or less |30uV or less —
+1.6 - 29_9999MHz 24V or less| 6uV or less 3u¥ or less
+
+(for 100mW output at 20dB S/N and 3KHz beandwidth)
+
+- 6dB down 60dB down
+6 KHz 4.5 - 7 KHz 14KHz or less
+4 -
+
+Sensitivity:
+
+tc UV
+
+Selectivity:
+
+AL
+
+3 KHz 2. 3 KHz 4 1KHz or less
+0.27-0.2KHz 1.1KHz or less
+
+--- PAGE 7 ---
+" Line output:
+Input impedance:
+Image rejection ratio:
+
+IF rejection ratijio:
+Spurious rejection ratio:
+
+Blocking:
+
+AGC characteristic:
+
+Spurious emission:
+
+-10dBm to +10dBm (600 ohm)
+50 ohm,nominal
+70dB or more
+
+60d4dB or more
+
+70dB or more
+
+The receiver output due to A wanted signal
+of 20dB changes less than 3dB when an
+unwanted signal of 80dB,3KHz detuned,is
+applied. :
+
+AF output variation is less than 10dB for
+an antenna input of 3xV to 100aVw,
+
+Less than 1nW
+
+1.3 DSC WATCH KEEPING RECEIVER:NRD-720
+
+Frequency range:
+@ - Receiving system:
+7 Scanning:
+
+Sensitivity:
+
+Selectivity:
+
+Line output:
+
+Input impedance:
+
+2187.5KHz, 4207 .,5KHz, 6312KHz,
+8414  5KHz, 12577KHz, 16804 _.5KHz
+
+Double éuperheterodyne
+(1st IF:70.455MHz, 2nd IF:455KHz)
+
+All selected channels are scanned within
+2 seconds,
+
+Symbol error rate:lxlod or less at x4V input
+6dB bandwidth:270 to 300Hz
+30dB bandwidth:within $380Hz
+60dB bandwidth:within +550Hz
+
+~10dBm to +10dBm(600 ohm)
+
+50 ohm,nominal
+
+Adjaceﬁt channel selectivity:
+
+Interference rejection
+
+P
+
+Spurious emission:
+
+Symbol error rate is less than 1x10° under
+a condition where the level of unwanted
+signal at the frequency +500Hz relative to
+the nominal ffequency is 60dBuY and wanted
+signal level is 20dBuY.
+
+and blocking immunity:
+
+Symbol error is less than lxldg under a
+condition where the level of unmodulated
+unwanted signal varied over the range 9KHz
+to 2GHz with the exception of the wanted
+channel and its ajacent channels(+750Hz)
+
+is 90dBxY and wanted signal level is 20dBuV.
+
+Less than 1nW
+
+--- PAGE 8 ---
+JISS /L0
+
+-
+
+TRANSMITTER:NSD-72
+
+Output power: 400W +0/-1.,5 dB from transmitter ingo 50ohm
+Power reduction:Medium approx. 100Wpep
+Low approx. 25Wpep
+
+Transmitter: Free or programmable frequency selection
+Frequencies: 1605KHz~27 ,5MH 2z
+Spurious emission: Less than 40dB
+Alarm generator: A two-tone alarm generator is incorporated.
+Audio input level: DSC,NBDP:0dBm +10/-16d8B
+Input impedance:600 ohm
+MIC: 0dBm +10/-35d8B
+
+Input impedance:600 ohm
+
+Out of band: 1.5<A%4 .5KHz less than 31dB
+4 ,5<pA<7.5KHz less than 38d8B
+
+7.5KHz<A less than 43dB
+
+AUTOMATIC ANTENNA TUNER:NFC-700
+
+Frequency range: 1605KHz2~27 ,5MH 2
+
+Antenna requirements: 10 - 50m wire or 10m whip ’
+Antenna tuning: Fully automatic
+
+Input impedance: 50 ohm
+
+VSHWR: Less than 1.5
+
+Tuning time: Normal 2sec.,maximum 7sec.{(for free
+
+frequency)
+Normal 0.2sec.{(for programmable frequency)
+
+Manual setting possible for 2182KHz
+
+Power handling: 800W
+
+Painting colour: PANTONE 425C
+
+DSC
+
+Protocol: CCIR Recommendation 493-3 and 541-2
+Type of emission: FiB/J28B
+
+Speed: 100 bauds
+
+Modulator: Frequency:1700Hz+85Hz2
+
+Level:+10d8Ba maximum at 600 ohm,balanced
+
+Demodulator: Frequency:1700Hz+85Hz
+Level:~-20dBm to +10dBm at 600 ohm,balanced
+
+--- PAGE 9 ---
+W e W
+
+Processor:
+
+NBDP
+
+Protocol:
+
+Type of mode:
+
+Type of emission:
+Speed:
+
+Modulator:
+
+Demodulator:
+
+Processor:
+
+CONTROLLER:NCH-700
+
+Controlled items:
+Transmitter:
+
+Receiver:
+
+Others:
+
+Painting golour:
+
+TERMINALS
+
+Data terminal:
+
+Printer:
+
+POWER REQUIRMENTS
+
+Supply voltage:
+
+Code:10 units error correcting code in
+accordance with CCIR Recommendation 493-3
+
+0
+
+CCIR Recommendation 476 and 625
+
+ARQ:A mode
+FEC:B mode
+
+F1B8/J28B
+100 bauds
+
+Frequency:1700Hz+85Hz
+Level:+10dBm maximum at 600 ohm,balanced
+
+Frequency:1700Hz+85Hz
+Level:-20dBm to +10dBm at 600 ohm,balanced
+
+Code:7 units error correcting code
+
+Main power ON/OFF
+
+Frequency program
+
+Type of emission .
+Selection of frequency(2182KHz,2187.5KHz)
+Transmitting power :
+
+Main power ON/OFF
+Mode of reception
+Selection of frequency(2182KHz,2187.5KHz)
+
+Assignment of bandwidth
+Dimmer
+
+DSC control
+
+NBDPcontrol
+
+Watch keeping receiver(for DSC) control
+
+PANTONE 425C
+
+NWZ -700A
+
+NKG-800
+
+100/110/115/200/220/230V AC+10%
+50/60Hz single phase
+Maximum 3.3KVA
+
+24V DC -10~1+30%
+Maximum 45A
+
+--- PAGE 10 ---
+/0
+
+1.11
+
+BATTERY CHARGER
+
+Input voltage:
+
+Output voltage:
+
+100/110/1V5V AC,50/60Hz,14A
+200/220/230V AC,50/60Hz,7A
+
+24VDC to battery
+24VDC to MF/HF installations and
+
+VHF tranceiver
+24VDC to INMARSAT
+
+--- PAGE 11 ---
+1 2 3 [ 4 ST %y 6 ] 7 8 9 |
+
+WIRNG HOLE EARTH BOLY Ty
+
+100 WOOD LINING BULKHEAD
+
+STAY
+8 SUPPLIED BY SHIPYARD WELD
+SECTION A-A 2 .
+
+2 _FIXING BOLTS (M10X20mm)
+WITH WASHERS AND SPRING
+WASHERS
+
+SUPPLIED BY SHIPYARD
+
+\ 4 TAP HOLES (M12}
+FOR FIXING BOLTS DETAIL E 2
+
+100
+
+FOUNDATION
+SUPPLIED BY SHIPYARD
+
+SECTION B-B
+
+DETAIL
+; COPPER PLATE EARTH BOLT >
+
+SOLDER BY SUPPLIED 8Y
+MANUFACTURER MANUFACTURER
+
+WELD
+
+WELD
+
+REMOVAL OF
+SIDE PANEL
+NECESSARY FOR COPPER PLATE
+REMOVAL OF
+. EE WELD
+- 4 FIXING BOLTS (M12X20mm)
+WITH WASHERS, SPRING WASHERS ~_ SECTION C-C
+SUPPLIED BY SHIPYARD
+- ) JUNCTION BOARD
+T ,,Emmm MF/HF RADIO EQUIPMENT ~
+FOUNDATION N. lesband N.ko bart m ' DRAWING MO,
+
+e 3rd Angle System Dimension mm \V
+
+--- PAGE 12 ---
+“‘
+
+FIXING HOLES
+
+EARTH PLATE
+
+VIEW FROM ,
+
+BULKHEAD WOOD LINING
+
+(SUPPLIED BY
+SHIPYARD)
+
+2TAPS (M-6)
+
+Jun ™ MODEL NFC-700 ™
+
+CHECKED i - SCA ]F/HF ANTENN TUNER
+s Y Gty .
+
+gt 818 Nert dnrio Cvedom NBimonelnns oK
+
+--- PAGE 13 ---
+3rd Angle System
+
+U S - N A"
+
+4-q5
+
+FIXYNG HOLES i
+
+DOimension mm
+
+al’
+
+Lasonymn Lun R TN T |
+
+TRANSMITTER COMMUNICATION MODE
+1L |
+
+RECEIVER
+
+) APPROViD
+
+Nbkebot |Wkohore | A3 |
+URC) Japan Radio Co,Lid.
+
+S MODEL NCH-700 "“[¥=™
+CHECKED ‘ DESIGAED ORAWR MF/HF CONTROLLER ~
+
+DRAWING NO.
+
+L&
+
+--- PAGE 14 ---
+s
+
+1
+———— e ——— . —
+
+L] U0
+EARTH PLATE | "
+$100~4130 | ‘
+(POLE)
+EARTH BOLT
+SRR
+DECK
+
+ANTENNA TUNER BOX
+NQE-892
+
+--- PAGE 15 ---
+E
+- ® ANTENNA
+
+10 Cu PLATE
+
+CD2 EM-1 [ .
+— it
+1
+AARLES
+NR-03
+or 5-64L20
+C3 [C2
+= DC-60
+200pF S
+S0pF
+| ANTENNA TUNER
+C4 2R NFC-700
+Do 3 7%
+50qF
+1B
+R2 - - - - R7 Ci&
+
+e 0 0]
+R""maag'cs ! !
+Rt - - - - RIS 18 512 ! |
+S R |
+
+[ Ich
+w |
+O O O O o & [ {
+12 3 & 3 i l |
+(O © O ' i
+——{——t ————( ——————4}»-—-:“
+£
+
+L1: 330pHx3 paratlel L2 :330uHx3parallel
+
+(5~(20: 0,01 pF
+R2~R25: ER10SP 2000
+
+ANTENNA TUNER BOX
+NQE-892
+
+--- PAGE 16 ---
+(0OISK SPACE)
+
+Installation Bass
+Attachment
+
+4-38
+Mounting Haoles
+
+e2
+, 3056
+
+Ssztlian A-A
+
+\¥Z-700 DATA TERMINAL
+
+--- PAGE 17 ---
+MKG-800 RO PRINTER
+
+--- PAGE 18 ---
+WIRING HOLE
+
+UNLESS OTHERWISE SPECIFIED
+DIVENSION SPECIFIED | TOLERANCE
+
+[{e——Jk [
+
+NQE-878/8785
+ik 5w CONNECTION BOX
+I Tage T 5
+
+[’
+
+Radio
+
+Co. Ltd. MCNQEO,469
+
+--- PAGE 19 ---
+<7
+
+WIRING HOLE
+
+4-415 FIXING HOLES (BOTTOM OF MAIN FRAME)
+
+2-410 FIXING HOLES
+
+NCH-700 N
+
+KG-30A-3
+MF/HF _CONTROLLER PRINTER
+NKG-800 ® NDZ-99B-~1{
+PRINTER DATA _TERMINAL
+NWZ-700A JIXA-TA/BA
+DATA TERMINAL 2182kHz W/K/RX
+
+NTF-49A -
+© ik (H) DISTRESS BUTTON for INM-C
+
+MAIN FRAME
+
+7RV 77777777
+
+T44
+
+COLOR COVER 5Y8/1
+PANEL PANTONE425(Munssll N-4)
+
+NCU-247A
+GMDSS COMMUNICATION CONSOLE o1
+
+W=85Kg
+
+--- PAGE 20 ---
+DATA TERMINAL
+
+108 EQUIPMENT
+ NDZ-99B-1
+BZ1
+s
+| NMARSAT-C
+DISTRESS
+BUTTON
+V )/
+O O O O
+0 11 12 13
+
+1, 5m 625C00409
+F
+
+— .IJ =
+w ® < s = o 0
+£ L b @ O+ & Q S
+Z3 ~ = 5. % &
+® 1 k] - o 13> o I
+o~ . ] wg 572 z
+a = wea & O &’ a
+o = & Q& .
+o = = (3}
+x® Z T e S A
+2 Z $2 1-0Kdd
+~Z i o
+> " e =RPT ATV R
+ST :
+O " 12}
+Lecehececrcmeccnonm e crmacmmr oo m e e e oo oo e .- we e -t —fo o o -——————-——
+" VEZ6E-DID 40 V226E-D4D
+o < m
+[+ 4 -
+w - z
+Eo P_m 48 O B L.
+.NJ % W mu._ ._r u_ ﬂwm E2-SOAdH
+N u.. m N .m.w. 18000aXNr9 Emmm R B0
+X N Z WBQ .........................
+2= ol 8 5 © S1°5%an
+[ _ = _ b4
+gz =
+e O .. A
+[= T = DUl DUy S PP PP PEPRPEPEPE JPp mm == - =—=—-
+£5 R S M 0°2-0Ada____
+38 N I I Ge1-DAda_
+R n/21-93
+1
+[]
+
+0C
+
+o
+©
+o
+[=]
+o
+a
+b d
+=
+=
+e
+
+PRT
+
+DATA TERMINAL
+F3
+3
+
+EQUIPMENT IN
+NWZ-700A  comus) \
+2182kHz W/R
+EMG LIGHT
+St
+O
+OFFON|
+F4 F2 Fl
+3A A 8A 8A
+-0 O O O O O—0 O
+-t + -+ - ¥ - +
+Emg L EMG.L VHF2 VHF)
+
+NCU-247A GMDSS COMMUNICATION CONSOLE
+NCU-247A
+
+--- PAGE 21 ---
+
+
+--- PAGE 22 ---
+Cr
+
+(TR vxA-7 2182 KHx WATCHKEEPLNG ReCEIVER
+
+vam DLy ACIET pruTE PO §
+
+SPECIFICATIONS
+
+Frequency 1 2182 kHz, fixed
+
+Mode of Reception + A2A, H2A, A3E and H3E
+
+Reference Sensitivity : 304V or less(S/N=20dB, 1kHz 30% mod)
+
+Dynamic Sensitivity : 10pV or less for muting release
+
+Selectivity : 6 dB-bandwidth in excess of *3.5 kHz
+66 dB-bandwidth within *12 kHz
+
+Spurious Response : 60 dB or better
+
+AGC : Output variation less than 10 dB when input of
+10uv to 100mV is applied
+
+Operation Time : Within 4 to 6 Sec
+
+Warm up Time : Less than 1 minute
+
+Power consumption : 40 VA or less for AC, or 30W or less for DC
+
+Standard Color Panel "N7.5
+
+Other Surface 2.5G7/2 : -
+Center Cover and Wiring Cover Color Can be changed on ordering.
+In this case designation by the MUNSELL codes are needed an
+additional costs are requested.
+
+JXA-T7A
+2182 kHz WATCHKEEPING RECEIVER
+
+--- PAGE 23 ---
+ARRANGE NO.
+
+| 4—
+
+¢
+N\
+
+GLAND 20A WEIGHT |IKG
+
+REVISIONS
+
+A 4 DRAWING NO.
+
+Gi 813 3rd Angle System Dimension mm
+
+TITLE | SHEET NO.
+(7% APPROVED July 1994 DATE NAW=11
+. ‘ ANTENNA MATCHING BOX FOR 2182KHz
+DESIGNEZ/ORMN .
+A 2l i :/ - -
+
+--- PAGE 24 ---
+0.25, 5, 25, 125, 500, 1000V (DC10KZ/V)
+0.1, 2.5, 250mA
+
+10, 50, 250, 1000V  (AC5KZ/V)
+
+30, 300KR, 3MQ
+
+-20dB ~ +22dB
+
+UM-3 x 1
+
+117 x 86 x 34mm
+
+250g
+
+ARRANGE NO.
+
+REVISIONS
+
+APPROVED DL ‘?Q_-\DME SHEET NO.
+
+O e / SCALE
+
+CHECKZD DES ENED DRAWN
+// T W DRAWING NO.
+
+Gi a3 3rd Angle System Dimension mm g 3
+
+--- PAGE 25 ---
+4-BOLTS M8 X100
+
+MATERIAL: SUS
+
+ARRANGE NO.
+
+CHECKED DESIGNED DRAWN
+{ [iemés) T FppnRa A4
+
+Japan Radio Co., Ltd.
+
+Gi 813 3rd Angle System Dimension mm
+
+MATERIAL ¢ UNSATURATED POLYESTER
+
+S5 (JRC SUPPLY)
+Z== \EARIH_BOLI
+
+(DOCK SUPPLY)
+
+MATERIAL | UNSATURATED POLYESTER
+
+NFG—I3Y
+
+. TITLE | SHEET NO.
+M-A-JJ, JQD-69, NAW-60, NFG-13Y
+ANTENNA & JUNCTION BOX
+
+DRAWING NO.
+
+--- PAGE 26 ---
+A -8
+
+SETS PERVESS
+
+ITEM|
+N PART
+NO. AME OF
+
+Earth Terminal
+Earth Bolt
+Earth Plate
+
+Stand-off
+Insulator
+
+H
+
+e EEEET
+
+MPTEOC0399 ;
+11 Earth Bolt
+
+(TE-2788)
+H & H % E X &% 8 & X &
+
+MFR'S NAME JAPAN RADIO CO., LTD.
+
+6ZPKD0O0084
+
+6ZPKD00083
+
+6ZZKD01031
+
+22-6 ( 6.4)
+22-12( 13.0)
+
+BP-0-59-3
+BP-0-59-4
+
+for SK-70
+
+- 6ZPKDO0077
+
+& I3t T181 IERB=ZKXTTEALKSTH1I1E1 R TEL 0422-44-9111
+Telex 2822-351
+
+ADRESS 1-1, 5—chome, Shimorenjaku, Mitaka 181 Japan
+
+--- PAGE 27 ---
+SPECIFICATIONS
+
+-L————-~——-———~i— Weight of the antenna 22 Ke
+Bending moment 150 Kef-m
+Wind veloclty 60 m/s
+Helght of the antenna barance _ 3m
+
+Max deflection due to wind load
+
+TITLE
+
+eme] — | SELF-SUPPORTED ANTENNA| ~1
+H. Oxuyama
+
+K. Hashimoto m DRAWING NO.
+
+™ 3ra Ancie Systen Dimension mm
+
+--- PAGE 28 ---
+SETS PERI
+VESSEL |
+!
+
+* ; i , | QUANTITY REMARKS |
+" I PART o ~{Dimension in m / m) ;PER 5E R [SPARE MARK OF
+| | 'SETIVESS| | JRG CODE NO IBoX NO
+|
+| | ! | MFOINM30 |
+1 | FUSE | | ' -
+i | 5ZFAA00073
+' i
+| ! i | 1 MFO1NM20 ]
+2 | FuUsE | " 1 |2 !
+| | | | SZFADO0387 |
+| N R T
+! MF60NR-3.15A]
+3 | FUSE | . 2
+
+MF60NR-0.5A
+
+1
+:
+H
+!
+
+§7 |
+|
+|
+|
+| |
+6 | FUSE § i
+! é | i i
+| | AN T
+i i i i i ;
+» | e
+! i
+o | .
+N MFR'S NAME | JAPAN RADIO CO., LTD. |DRW.NO l 6ZXKD53115 1/1
+
+1-1, B-chome, Shimorenjaku, Mitaka 181 Japan
+
+ADDRESS TEl NADO99. 240111 Taley 2290.211
+
+--- PAGE 29 ---
+13
+
+__________________________ - S
+
+SHIP NO SPARE PARTS LIST FOR SETS PERVESS
+
+JSS-710/720
+MF/HF RADIO EQUIPMENT
+
+igEM NAME OF PART
+
+1 Insulator ’
+(MPNGOOOT70)
+Shackle gl BP-0-57
+(MPXP0022W)
+i i PBC-3
+(BRBPOOOU43)
+
+(other packing)
+' Antenna Wire 19/1.2
+(2746111112)
+Shackle
+
+5 ; B A & 8 % X & #t
+
+Wire Clip
+
+Thimble
+
+JAPAN RADIO CO., LTD.
+
+\, = T181 HRAB=MHTAKSTHEHIE1E TEL 0422-44-9111
+
+. . Telex 2822-351
+~ ADRESS 1-1, 5-chome, Shimorenjaku, Mitaka 181 Japan

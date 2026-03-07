@@ -1,0 +1,2348 @@
+FILE: E-335 INSTRUCTION BOOK FOR FACSIMILE RECEIVER.pdf
+FOLDER: .
+DATE: 2026-03-07 07:09:13.458436
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+MANAGER
+
+CHIEF
+
+B o= 385
+
+12 sm e
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+
+FACSIMILE RECEIVER
+
+“Fhis technical document i the property of
+salci Heavy lndustries, Lid. (K1) and may
+ed, nor disclosed w any third party
+
+| without KIS prior written cansent
+
+SCALE — JOBNO
+
+KAWASAKI HEAYY INDUSTRIES, LTD
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+J SiEErs wol coven
+
+KAWASAKL HEAVY INOUSTRIES, LTD
+
+--- PAGE 2 ---
+2TH-8836
+
+Nessrs: KAWASAKI HEAVY INDUSTRIES LTD.
+S. No. 1456
+
+MODEL: JAX-90
+WEATHER FACSIMILE RECEIVER
+
+FINISHED DRA¥ING
+
+dapan Radio Co, L1d.
+
+Maritigze Communications Section
+
+Engineering Department I
+
+Yarine Electronics Division
+TEL (422-45-9546
+FAX 0422 -45-9957
+
+checked by in charge
+
+--- PAGE 3 ---
+CONTEWNTS
+
+Specification ......... e e e aeaae e 1~3
+List of your instructions for approval .......... 4
+Drawing of external view and dimensions of ...... 5~6
+
+equipmerit proper (Including mounting size
+diagram and detailed operating panel diagram)
+
+Installation ALAGLAM ....evevneernnnereneneaonron 7
+Terminal board connection diagram ....... . 8
+Operational schematic diagram ........... Ceeeee. 9
+
+Overall connection diagram ...
+
+LiSt Of SPAre PAES wuurruvaneuionenennannenenens 11
+
+Antenna materials
+
+--- PAGE 4 ---
+SPECIFICATION
+
+JAX-90 WEATHER FACSIMILE RECEIVER
+
+a. FAX Proger
+
+1) Recording system
+
+2) Recording paper size
+
+3) Effective width
+
+4) Index of co-operation
+
+5) Scanning speed
+
+'S) Scanning line density
+
+7 Independent sync.
+master osciliator
+
+8) Independent sync.
+frequency stability
+
+9) Independeat sync.
+frequency accuracy
+
+10)  Independent sync.
+freq. adjustment range
+
+11) Phasing
+
+12) Phase signal polarity
+13) Tuning indicator
+
+14) External input
+
+Solid state scanning, coniinuous
+recording on thermo sensitive
+recording paper
+400mm(width) X 100m( tength)
+384w
+
+288 & 576
+
+80, 96, 120, 180, 240, SPM
+
+Approx. 2.4, 4.8 line/mm
+
+5898.240KN1z crystal escillation
+
++1.0 X 107% or less
+
++2.5 X 107 or less
+
++2.0 X 107 or nmore
+
+Fu!l automatic (Manual adjusiment
+available)
+
+Automatic selection
+
+By multi L.E.D.
+
+(With electric field check [fading,
+
+muitipath, etc. 1)
+
+B0O Q, audia frequency FS
+
+(Black: 1500z, White: 2300Hz),
+
+Standard level: 0 dBu
+
+--- PAGE 5 ---
+15)
+18)
+
+Recording polarity
+Automatic function
+
+b. Synthesized receiver
+
+n
+
+2)
+
+3
+
+LY
+
+5)
+
+&)
+n
+
+8)
+
+9
+
+Receiving system
+
+Hode of reception
+
+Frequency range
+
+Frequency display
+
+Channel seiection
+
+Memory system
+Memory capacity
+
+Receiving frequency
+
+bands
+
+Sensitivity
+
+Negative-positive reversible
+On W.M.0. No3, TP4, Vol.c 3,9,3
+and 3,9,6
+
+a) Start and stop
+
+b) Select of 1.0.C.
+
+¢) Select of scanning speed
+d) Phase matching
+
+e) Fast feeding paper o paper cutter
+
+Phase-Tocked type frequency
+synthesized upconversion and
+double-superheterodyne
+
+F3C
+
+LF -- 80.0kHz to 180.0ktz
+
+HF -~ 2.0000MHz to 24.8998MHz
+Kumerical display with light emitiing
+diodes, 6 digits
+
+Receiving frequency setting type‘ with
+ien-key
+
+Preset type with ten-key
+
+100 frequencies at maximum
+
+(40 frequencies --- card entry)
+
+5 group
+
+(automatic switching, by displayed
+frequency)
+
+Antenra input to obtain the outpul of
+—5 d8n at S/ of 20 dB shall bel
+
+LF: 10uV (+20dBu) or less
+
+HF: 2uV (+ 6dBa) or less
+
+--- PAGE 6 ---
+10) image rejection ratio
+11) Selectivity
+
+12> 1SB reception { AF)
+
+13) ODutput
+
+c. Program function
+1) Program capacity
+
+2) Programable function
+
+3) Memory wethod
+
+d. Qverall performance
+
+1) Power supnly
+
+2) Pover consumption
+3) Net weight
+1) Ambient tehperature range
+
+5) External dimensions
+
+More than 70 dB in all bands
+6dB-down point: 2.4klz to 3.0kHz
+66dB-down peint: 6kHz or less
+
+By UP-DOWN function key, receivahle
+at 100Hz - step.
+
+€00 0, O dBm;
+
+1500Hz for nominal frequency
+
+fo —400Kz
+
+2300Hz for nominal frequency
+
+fo +400Hz
+
+15 channel
+
+@ Sstart tire
+
+Stop time
+
+Receiving frequency
+MANU-AUTO operation select
+Index
+
+Scan speed
+
+9 ® & ® ® ®
+
+Halt tone ON-OFF
+
+Ten-key-and “function key
+
+100V AC (BOV~-132V) and
+
+220V AC (160V ~264V) 50/60 Hz 1¢
+130 VA or less
+
+}oprox. 25kg.
+
+—10" C ~+45° C
+
+Approx. 480(W) X 470(D)X200(H) mm
+
+(Base inciuded)
+
+--- PAGE 7 ---
+List of your instructions
+
+Instruction items Standard plan conditions
+
+Operating 100V AC (80V~132V) or
+pover supply 220V AC (LEOV ~26aV)
+50/60Hz, 1@
+
+Antenna feeder RG-12/U, 7C-2V
+Suitable connectors supp!ied
+
+Painting Color : Munsell 5Y8,/1
+Ve are sorry ve can't change ihe paint color of this equipment
+because one color has been standardized and used from the.
+point of view of adaptahility on the design, cost and
+performances.
+
+List of components
+
+JAX-80 equipment nropér
+
+(Inctuding recording paper in present use)
+Protective cover for the above
+
+Standard spares
+(Contents in separate sheet)
+
+Test data sheet . ... ..
+Operation manual
+Technical reference book
+
+Weather chart schedule and comments
+(Edited by Weather Assn.)
+
+. Antenna materials
+
+--- PAGE 8 ---
+oo |
+
+3230
+UNLESS OTHERTISE SPECIFIED
+DINERSION SPECIFIED | TOLERMACE
+ot B | % 1
+) oK 18T0 50 + 2
+e o W w0 20
+= vEx_z50 10 1o
+P — x ° @ oveR 1000 10 3000
+lnlo
+B
+i [-f
+] [ [ ) el
+- | e )
+
+JAX-90 EXTERNAL VIEW AND DIMENSIONS
+
+WEIGHT APPROX. 25kg.
+OF EQUIPMENT PROPER
+
+--- PAGE 9 ---
+JAX-90 i
+WEATHER FACSIVIILE RECEIVER . ———
+kHz W RCY MONITOR
+
+—o—
+BROG FE  START STOP
+
+me | M soaN o
+@Gy msrs m_ m om om m
+e —
+
+(J .
+
+JAX-90 OPERATING PANEL
+
+--- PAGE 10 ---
+M-P-7
+JRC SUPPLY
+
+ANTENNA FEEDER
+RG-12/U
+
+220mm or more from upper side
+
+200
+
+Y
+TO ANTENNA
+
+TC POWER SUPPLY
+T0 EXT. BK LINE
+
+JAX-90 INSTALLATION DIAGRAM
+
+--- PAGE 11 ---
+1%
+
+of
+TO ANTENNA TToL
+£ -
+®N®
+TO E)S(gogr.gzvzn p— e | ®
+OUTPUT L1 @ @'
+. — (&g
+BK 24V DC BK —
+JERNESE— SR
+O]
+SHORT WHEN YOU USE 220V {@ ..@)
+AC LINE
+' @]
+SHORT BAR |
+SHORT WHEN YOU USE 100V 'j & [_@
+AC LINE
+[B) S
+Note 2)
+ot e 220v LN U (|0
+1)
+nose AC 100V LINE u X r@
+POWER SOURCE LINE _ V RHE
+—
+
+Note 1) AC 100V-~120V USABLE
+
+Note 2) AC 200V—~240V USABLE
+
+JAX-90 TERMINAL BOARD CONNECTION DIAGRAM
+
+il gl
+
+FACSIMILE PROPER
+
+EARTH g
+I
+
+--- PAGE 12 ---
+H.P RECEIVER SECTION [
+o rL “L'&”‘ “:.:" a4 S DIVIDER AND L CoNTROL
+Samm [ hisr o [ om0 re [[[ar ane scan sevzcr CLock sa
+swTuE- e
+stzxp
+| pIcTURE
+secrIon J - s peMoD st I—'
+PuASE S AUTOMATIC 86
+vET et
+L0
+7
+conTROL SECTION i
+CONTROL
+SECTTON
+— sv
+lumm e RECORD DRIVE
+[—12v 5 —
+Ac2z0v o DATA MEMORY
+Acloov p————{  POwER sEcTION [ gy
+v
+: T
+l— 200 CONTROL SECTION
+Rec THERMAL  PAPER
+
+READ
+
+JAX-90 OPERATIONAL SCHEMATIC DIAGRAM
+
+--- PAGE 13 ---
+RAwT R
+SWITCH SoarD
+ez
+P
+
+LI
+CONTROL SECTION
+
+=X -
+O
+=3
+(T = *
+CKA- 508
+
+At
+A
+
+cxK-a9z
+
+48
+ER STCTI0N
+
+P T il
+v
+[E}@
+210 101
+
+TF
+s
+| A
+— e
+Rk At
+) o i
+gt S S0t
+e _,;(“_] —
+o || {3
+T-zuff | e
+T
+k Tnearal | | excatee w
+plisptoral § e
+TS s00n T 2 Ac can
+: = e A
+KW A i .
+T IJ' < 1 B |3 i
+2 o ot
+e o 2 Sl e
+PSR rreterf 254 L s
+it 7| L i
+Sl B2}
+L |
+N ; -
+Jdddd
+Ty
+R
+—] % 3
+| B 2= L Toat et
+v [ PowER uNiT
+s
+s5rrs s00sy
+LP.-;::
+JAX-30 OVERALL CONNECTION DIAGRAM 5
+
+--- PAGE 14 ---
+11
+
+i3 Tia: ARBE=MATELSTHIR1S
+
+TEL
+Telex
+
+1/
+FEATHER FACSIMILE RECEIVER
+Lisss HODEL: U0
+® 8 k4 L3
+TR o o oo
+NO. NAME OF PART
+[
+1 rc 7_5! UpC1213C
+% RE B [ * * 5
+=T . 5DA2A00317
+. . e ! TA78ML2P
+* * SDARDO0564
+3 . TA78LOCSAP
+i 1 SDAAD00048
+| ——
+Wl 10.3]0 S— | TATEMLED
+| " o= L |1 SDAADOOSES
+| T k15390 i
+T
+3 ) 6.5 TD62064BP-1
+| - L B SDDAEOLE0O
+%= 19.9 i
+- 7
+s RELAY 25.3 ‘ VS-12SMBU
+y oL - - [ t SKEADOOOLS
+«—29,2 =
+=
+}7 ] . 22.0 (40-282P 24900
+X
+L B SKLBWO105
+al w—28.1 .4
+= ]
+a PUSE 74 | MFEONR-3.15A
+1 2
+- | SZFADQQ0362
+B oz x — 10— !
+. ; | wreoNR-0.2a
+L 2 SZFADO00S2
+!
+1 1 | szpTscol2’
+a 3
+______ 6ZXTS00087
+
+0422-45-9326
+2822-351
+
+--- PAGE 15 ---
+1.
+
+- 2.
+
+ANTENNA HMATERIALS
+LIST OF CONMPONENTS
+
+Em Whip anternns..esesereecaseornasssce
+
+Junction box {JQD=69C) 4 s vrvenrvnanes
+
+1
+
+1
+
+--- PAGE 16 ---
+1 2 3 F
+R
+A
+2
+b
+-
+8 . g
+— 4-BOLTS M8X 10G
+c i
+o] o
+g =
+i
+o
+- e
+. b
+o
+o| l 2
+SUPFORTING POLE ‘ol
+SUPPLIED BY H 4°BOLTS M8 X 40
+(SHIPVARU o~
+) MATERIAL ¢ SUS
+' E
+3
+3 Felsht @ 3.5k
+bR Jelght : 3.5ks.
+e gl ] 1/1.6 wiRe |
+
+Feb o IE A
+
+bl &,
+
+Py TOLE ] SHEET HO.
+WHIP ANTENNA
+
+3ed Arngte Systom
+
+Olmenaisn me
+
+--- PAGE 17 ---
+B
+e —— S ——i
+= e O ~
+p27
+I |
+L P + T
+= ,:)(
+o] Jp— ;S 3 -
+|
+: 9
+
+3
+
+20C
+
+. Painting Color : Munsell 7.5BG7/2
+Rt (gl T MATERIAL : UNSATURATED Yeight - bke
+POLYESTER b
+
+l OATE JOD-4G¢C THLE| SHEET #o
+i prael L5 US| ANTENNA JOINT 80X | -~
+L 7. e a [ A4 ] T TRAWTHG "”1
+
+ORS) Japan Radio Co.Ltd.  |M C 7 9.0 000/
+
+3 1i-68  3rd Angls System  Ormensian mm
+
+--- PAGE 18 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Qverseas
+Liaison & Service Offices
+
+®Main Office
+Akasaka Twin Tawerihiain)
+17.22,Axasaha 2-chome.
+
+Minatou Tokyo (17
+
+Maritire Sales Degartment |
+
+Phone ; 03.3584.8731
+
+Fax; 03-3562-4795
+
+Maritime Sates Departmnt I
+Fhoue : 0333845834
+
+Fac: 03:3582-373
+
+Internationa: Business Depariment
+Phane : 03-3584-8838
+
+Fax: 03-3584-8378
+
+Internationa. Marketing Department
+Phone : 03-3584-8845
+
+Fax : 03-3584-885¢
+
+@URC (UK Limited
+Ground Floor,Tempie Chambers,
+Temple Aveme, Lindon EC 4
+Phone . 44. 171-353.7960,583-7440
+Fax: 441713533321
+
+SUSA
+~apar Radio Cz..Ltd, /New York Branch
+T30 Park Avenus, e vork,
+
+1130
+Fax: 2123185227
+
+@indonesia
+Japan Radio Co. Ltz
+
+Muliz Tows: (2 tn Flaor
+
+Jalan Jendera Gator Subroto Kaw.3-11
+Jakarta 1293C
+
+Phone - 215704053 5234085
+
+Fan: 21°5200053
+
+®Fhilipgines
+
+Japan Kadio Co. Lt
+2370 Taft Avene.
+
+Malata Manita
+
+Phonc 2502565 + 51-1430
+Fax: 2.521.5023
+
+@Thailand
+
+~apan Radip C L1,
+Charturang ArPhor Building
+457 phra Sumar.s Strast,
+Bangkok 15200
+
+Fhone/Fax: 2.240-0451
+
+®india
+
+<apan Radio C, Lt
+
+54 Sagar Apartmonts,
+
+§ Filak Marg, Naw Deihi-1 10001
+Phone: | 33.575]
+
+Fax. 11384571
+
+@Niitaka Plant
+11 Shimoranizku 5-chome,Mitsha
+Takyc 181
+
+Phon : 0422-45-9111
+
+Fax: 5422453110
+
+@URC 4o Brasil Emproendimentos
+Electronicos Ltag,
+
+A Rimirarte Barroso,83-Gr.5/2137
+
+20031 Ria de Jareira.R
+
+Shone ; 21-220-8121,262-928
+
+Tax: 21240-6324
+
+euUsA
+
+Japan Aadio Co, Ltd
+
+/0 Raythean Marin Campany 676 Island
+ond Road Matchester,NH 031090 .4
+Phoue ; 603-634-48:0
+
+Fax: 503-834-4841
+
+@Urited Kingdom
+Japan Radio CoLt3
+
+/0 Raytheon Marins Eurape
+Anchorage Par<Portsmouth,
+Hartpshirs, P03 ET2.UK
+Phone : 4 165663733
+
+Zax 43106633281
+
+®niathariands
+Japan Radio Co. Lt
+
+/0 Radio-Hoiland B.¥.
+Eeknoutstraat 7,
+
+3087 AB Rotterdam
+
+Fhone: 0-473-4581 + |0-429-1288
+Fax: 10-428.2259
+
+®Spain
+
+Japan Radio Co. Ltd,
+
+/0 TOSA CANARIAS S.L Ductor
+
+Juan Dominguex Prez 44, urbanizacion
+EL CEBADAL, Las Palmas ds Grar: Canaria,
+Fhone : 34-26.46.5191 - 34.78.455231
+Fax: 34:28.06-2398
+
+95.2
+
+--- PAGE 19 ---
+HEAD QFFICE &
+SALES DEPT.
+
+MAIN PLANT
+
+information contact
+
+apar Radio Co., Ltd.
+
+Akasaka Twin Tower(Main),
+17-22,Akasaka 2-chome, Minato-ku, Tokyo.
+Phone : 03-3584-8711
+
+Fax :03-3584-8715
+
+" Telex : 0242-5420 JRCTOK J
+
+1-1,Shimorenjaku 3-chome Mitaka-shi, Tokyo.
+Phone : 0422-45-9111
+
+Fax :0422-45.9110
+
+Telex : (2822-351 JRCMTK |
+
+--- PAGE 20 ---
+1/3
+
+o
+
+Messrs.
+
+oH-8296-0F
+
+& Ok | OE
+INSPECTION DATA
+R[REHT7 771
+WEATHER FACSIMILE RECEIVER
+_JAX80 GF 2340/
+S. No
+
+o UG 1795
+
+Oato of inspection
+
+st %W
+Tusmn ny =7, C«/@(ﬁ\—)
+
+AT L AR RIEWZAT
+Suctiop fucivr Sec. of Ingactn Usgartment
+
+A
+
+Japan Radio Co, L.,
+
+--- PAGE 21 ---
+| GF 2340 [ | 2/3
+
+' E B & #OE
+
+1. Verification to specification ludgmentGOOd
+LR o OE
+
+2. Structural inspection JudgmemGOOd
+[ N o E
+
+3. Ferfarmance inspection JutgmentGood
+
+2 E R R
+3.1 dverall operation test
+
+" B i A & #* 2
+ltem i Specification ol Resut
+HREE [ ACAFTERE  —E D 10MO BLE |
+311 | insulaton resstance | AC input circuit € : 10MQ ot mare, Good
+ATy £ A0V 15 i
+WREE AC220V Febf—E © ACIS00V 14318
+312 | ithstand voltage ‘ 100V AC system—E ; 1000V AC for 1 minute. Good
+220V AC system-~E : 1500V AC for 1 minute. ‘
+5 HEED B7FEF  1L0VA BT |
+3-1-3 | poyer consumption | Operation : 110V o less. \GOOd
+314 flis= e Dt 3
+-1-4 | operation test | Nothing wrong in received recordings. 0C
+3.2 Eiectrical characteristics test
+A B ] I3 # #®O%
+Htem Specification Result
+3.2.1 | ZEERERUHRIEL | S/N2008. 71— 5tem !
+Sensitivity and image 5% 517 HEFHE %tﬁit |
+tio Antenna input which gives Test item 7048 L4 £
+an autput of —5dBm at Image ratio !
+SN300B. 70(d8) or more i
+]
+82.0kiz 120dBmore.
+122.0kHz l26dBrore
+162 0kHz 45 [20]Rmor
+2.002MHz 13 g1
+3 550MHz ) S0
+4.992MHz Lo q
+5.002MHz Lo 11
+6. 952z 0.59 30
+8.992MHz 11 77
+3. 002MHz 0.59 74
+13.002MHz 0.59 0
+16.992MH: L3 84
+17.002MHz | gy 4
+20.003MHz 12 20
+24.992MHz | {4 77
+
+Joo4-042
+
+--- PAGE 22 ---
+(6F 2340/ ]3/3
+
+] ) & & &
+item Specification | Result
+B 2.dkMzBLE SkHz P
+3.2.2 LIESRRE 66dB FHRIF 1 okHz LATF
++2+2 | | signal sofectivty | 6dB down band width :  More than 2. 4kHz and less than 3kHz Good
+66dB down band width : _Less than 6kHz
+TUNING P LED 28 £THRIE (1 X433 %) CERRBESHES
+
+3.9.3 |FAET Tk,
+
+-2-3 | Turing indication | Nothing wrong i operafion by funing LED are iluminated. (1~3pes (G0OQ
+
+) lumirates) ) ~
+
+3.0.4 |ZEWEIE ZERETER CEIET 52 & (AUTO #E) iGo d
+
+-4 | AUTO aperation Nothing wrong in operation by receiving condition. 0
+3.9.5 |FEBEHE FERETERCRET 2 2L (MANU =) Gaod
+-4+ | MANU operation | Nothing wrong in operation by receiving condition. = 0
+g | OB ZERECER e 528 (U8 BB Good
+-9 | 5UB operation Nothing wrong in operation by receiving condition. 0
+
+32,7 TuZ7AEfE | BREBRDERCEFTS L (TIMR Z{E) 'Go
+
+2" | Program operation | Nothing wrong in operation by timer. 0d
+STERAEO) ENDERHY | FERMELR I, RBRRUER DBIFSELT 3 2 k. :
+
+3.2.8 | Recording paper END | ake sure thal recording and paper feeding operation is stopped. when (Good
+detaction recarding paper ends or not-oads. i
+[E— BERRC REOED SARL L, ;
+
+3.2.9 [0 Make sure thet there is nothing fauty in overall recefving performance | (rood
+
+Cantinuous operation
+
+during receiving charts for four continuous hours,
+
+--- PAGE 23 ---
+WEATHER FACSIMILE RECEIVER
+MODEL JAX-90
+
+OPERATION MANUAL
+
+Japan Radio Co, LEd.
+
+--- PAGE 24 ---
+Table of Contents
+
+External View of The JAX-90
+Precautions ..
+Function of the Controls .
+Setting Receiving Frequency .
+Use of Tuning Meter and RCY MONITOR
+Setting Frequency .
+Storing Frequency
+Calling Stored Frequency
+Use of CLR, UP and DOWN Switche:
+Setting FAX Regeive Mode
+AUTO Operation...
+SEMI AUTO Operatio:
+MANU Operation..
+Program Operation
+Setting Timer Mod
+Setting Time
+Procedures of Programmin
+Chocking Program
+Chmging Program
+Clearing Program Channel
+LIST Mode
+Print out of Frequency List
+Print out of Program Lis
+Maintenance
+Cleaning
+Replacing Recording Paper
+Replacing Battery .
+Easy Troubleshooting .
+Miscellaneous...
+
+--- PAGE 25 ---
+WEATHER FACSIMILE RECEIVER
+MODEL JAX-90
+
+OPERATION MANUAL
+
+--- PAGE 26 ---
+Table of Contents
+
+External View of The JAX-90
+Precautions ...
+Function of the Controls .
+Setting Receiving Frequency ..
+Use of Tuning Meter and RCV MONITOR
+Setting Frequency .
+Storing Frequency
+Calling Stored Frequenc;
+Use of CLR, UP and DOWN Switches..
+Setting FAX Receive Mode
+AUTO Operation...
+SEMI AUTO Operatior
+MANU Operation..
+Program Operation
+Setting Timer Mod
+Setting Time
+Procedures of Programmin;
+Checking Program
+Chamging Program
+Clearing Program Channel
+LIST Mode
+Print out of Frequency List
+Print out of Program List
+Maintenance
+Cleanin,
+Replacing Recording Paper
+Replacing Battery .
+Easy Troubleshooting ..
+Miscellaneou:
+
+--- PAGE 27 ---
+External View of The JAX-90
+
+--- PAGE 28 ---
+Precautions
+
+Please refer to attached "Reference Book" as for installation, specification and general
+description of the JAX-90 facsimile.
+
+About Power Source
+
+The JAX-90 has the 100V AC and 220V AC (50/60Hz) power supply systems.
+The 100V AC system allows connection of 80 to 132V AC while the 220V AC
+system allows connection of 160 to 264V AC. Whenever connecting the unit to
+the power line, be sure to ascertain the connection of short bar.
+
+100V 220V
+
+%lggsz% | %IS%IS@Z%?J
+
+Connection of 100 V AC system Connection of 220 V AC system
+When not Using of Equipment for a Long Time )
+
+During recording, the thermal head is pushed
+onto the rubber roller with a considerable force. RECORD
+At this time, the mechanical switch is put to the
+RECORD]| position. If the facsimile is left
+unusedforalong time with the mechanical switch
+putto the [RECORD | position, the rubber roller
+will be deformed due to pressure applied to it. If
+you are going to leave the facsimile unused for
+more than one day, be sure to put the mechanical
+switch to the m position. Be sure to
+pull the paper evenly before resetting the me-
+chanical switch to the [RECORD | position. RELEASE
+
+Entry of foreign object into mechanical parts
+
+On the thermal head, a small resistor (heating element) is protected with a film.
+If a hard foreign object should stick to the recording parts, the film protecting the
+heating element would be damaged, resulting in partial destruction of the heating
+element, and missing of printing. Avoid dust and dirt. Never grind the heating
+element (tip) on the thermal head with a file or a screwdriver.
+
+--- PAGE 29 ---
+Avoid direct sunlight
+
+The JAX-90 employs the photo-sensor and thermo sensitive recording paper. Be
+careful about the place of installation of the JAX-90. Otherwise, it is possible that
+the irregular reflection and heat of direct sunlight would cause malfunction of the
+JAX-90 or coloring of recording paper.
+
+Prevention of electrical shock
+
+Even when the power switch is turned off, voltage continues to be applied to some
+parts for backup of the memory and timer. Whenever you are going to check the
+interior of the JAX-90, switch off the AC mains beforehand. (Input line)
+
+--- PAGE 30 ---
+Function of the Controls
+
+When pressing the switch, the peep sounds one time. When the peep sounds once, this
+entry is accepted. But when the peep sounds three times or more, that entry is not
+accepted.
+
+2
+
+)
+
+Facsimile Sections
+
+|
+——————scan sPesb—————
+)
+
+m 288
+
+@
+.
+
+‘@iE]‘ k.
+
+®
+
+SCAN SPEED|
+
+This switch is turned on to select
+[[0C] and[SCAN SPEED| manu-
+ally.
+
+In the AUTO RECEIVE mode,
+this switch must be turned off.
+
+[loc|
+Used to select either [288Jor [576
+according to the transmitting sta-
+tion. Erroneous setting of this
+switch will enlarge or reduce the
+chart.
+
+NOTE: This switch canbe setonly
+
+when the [MAN OPE|
+
+switch is on.
+
+®
+
+Used o select the speed according
+to the transmitting station. Re-
+cording will not startif this switch
+is put to the wrong position. (Re-
+cording can be forcibly started
+
+NOTE: The [ MAN OPE| switch with the use of the[REC| switch.)
+will not work when the Even if recording is started, dupli-
+PRG]|switch is on. caterecording or double chart will
+
+result.
+
+NOTE: Thisswitchcanbe setonly
+when the MAN OPE]
+switch is on.
+
+REC
+
+‘This switch is used when record-
+ing will not start (the phase will
+notbe matched) evenif the[MAN
+OPE
+
+switch is turned on. This
+switch forcibly starts recording,
+but the phase is not matched.
+NOTE: This switch only works
+when the MAN OPE
+switch is on.
+
+--- PAGE 31 ---
+®
+
+[10], [1] and display
+
+‘These switches adjust the phase in
+the [REC| mode. The chartis split
+into 32 portions (with the scale at-
+tached). Use the switch to enter
+and display the phase position.
+NOTE: These switches work only
+
+when the(MAN OPE
+
+switch is on.
+
+PH SET]
+This switch completes sets the
+phase at the value entered in (5)
+above.
+
+NOTE: This switch works only
+when the[]MAN OPE|
+switch is on.
+
+HALFTONE|
+This switch is used when a photo
+of clouds or fine lines are not
+properly recorded. Pressing the
+switch twice turns it off.
+
+NOTE: This switch will not work
+when the| l’l{(ﬂ switch is
+on.
+
+FEED
+Used to feed paper. Pressing the
+switch fed out to the cutter posi-
+tion. Pressing the switch twice
+stops paper feed.
+
+NOTE: The switch will not work
+when the[PRG [REC| or
+
+switch are on.
+
+--- PAGE 32 ---
+Receiver Sections
+
+&)
+
+B@B
+
+—@.3.@@
+
+® [CIX] (% Numerical keys 0 through 9
+Used to clear the channel or fi Used to set a frequency or chan-
+quency display. When the [PRG] nel. When the [PRG] switch is
+switch is on, pressing this switch on, it is used for selection of the
+clears the program for the channel program channel. When the
+displayed on the [CHANNEL i switch is on, it is used for
+display segment. selection of time.
+
+@ M1
+
+Pressing this switch stores the dis-
+played frequency in the displayed
+channel.
+
+@ Mo]
+Used to read the memorized fre-
+quency. If the switch s turned on,
+the ten keys (numerical keys) only
+works for read of the channel.
+
+@ [CH)
+Used toselect the channel in which
+a frequency is to be stored. This
+switch does not need to be used
+when frequencies are going to be
+stored in consecutive channels.
+(See “Storing Frequencies” on the
+page 10.)
+
+@ [UP/DOWN
+Used to increase or decrease the
+displayed frequency in 100Hz
+steps.
+
+--- PAGE 33 ---
+Other Controls
+
+®
+
+=
+)
+
+swe
+
+spvoL
+
+PRI
+Used for setting and clearing of
+the program for operation of the
+timer.
+
+NOTE: It will not work when op-
+erationisbeing performed
+with the [MAN OPE
+switch turned on.
+
+ENT]
+
+Used together with the [PRG
+switch to enter the contents of the
+program into the selected chan-
+nel.” Also used for time entry.
+
+It displays the time. Time is
+
+indicated in terms of 24 hours a
+day.
+
+Itis put to the INT or EXT posi-
+tion to select the internal receiver
+or a external receiver in the con-
+sole, etc.
+
+MOD!
+
+Put this switch to the REV posi-
+tion if you want to receive the
+broadcasting station whose image
+is reversed on the picture. (white
+picture on the black background).
+
+@
+
+RECORD
+g2
+5y RELEASE
+[DIM]
+Controls the light of LEDs.
+
+Used to print out the frequencies
+or programs assigned by using the
+[T] and[Z] keys.
+
+SPVOL
+Adjusts the volume level of the
+speaker.
+
+SYNC
+Corrects the inclination of the pic-
+ture.
+
+RECORD/RELEASE
+Used to select the status of the
+mechanical section.
+
+o If the [RECORD] position is
+selected, pressure is applied to
+the paper for printing.
+
+o Selection of the [RELEASE
+position release the thermal head
+from the recording paper. If you
+are going to leave the facsimile
+unused for a long time, select
+this position to protect the rub-
+ber roller.
+
+--- PAGE 34 ---
+Setting Receiving Frequency
+
+To receive the signal by the JAX-90, the frequency should be set. This section
+describe the receiving frequency.
+
+The receiver in the JAX-90 can receive the long wave (80-160kHz) and short wave (2-
+25MHz) FAX broadcasting.
+
+Each broadcasting station transmits several frequencies at a time. Selection of a proper
+frequency affects the quality of the picture. However, it is difficult to select a proper
+receiving frequency because the conditions of propagation vary with seasons, daytime,
+night, and receiving points. Therefore, you should always bear in mind how to select
+a proper receiving frequency.
+
+Use of TUNING Meter and RCV MONITOR
+
+1) [TUNING] meter (Used for short wave only)
+7 LED is used to indicate tuning of receiving frequency. The receiver is of the
+synthesizer type. So, the [TUNING] meter does not need to be used if the receiving
+frequency is known for certain.
+
+The [TUNING]| meter is helpful if
+you do not know the receiving fre- RCV
+
+quency (SSB, etc.) or you want to TUNING MONITOR
+
+identify the frequency for an external
+
+receiver.
+
+(1) Proper tuning
+‘The central LED islit, oradjacent
+LEDs are blinking. Al
+(Three central digits)
+
+(2) Allowable tuning range /V "
+More than one or all the LEDs
+
+are lit.
+
+lowable tuning range
+
+(3) Out of tuning
+All the digits are extinguished.
+2) [RCV MONITOR
+The frequency is just suitable if this LED is lit. If necessary, select a frequency for
+which the [RCV MONITOR | LED blinks least frequently.
+If it repeats blinking, the quality of the picture is poor because there is likely to be
+fading, multi pass-echo, interference, etc.
+
+--- PAGE 35 ---
+Setting Frequency
+
+The frequency is set fill 100 Hz [ e
+digit. For instance, 7305kHz s set [ A
+in the following manner: /
+Mark of 1kHz
+0] @ Q@ @ ® ®
+Tl [J
+Il
+4] U ‘ \D -
+z—; /
+Operation Description Remarks
+
+CLR The entire display excepting the 1kHz check
+
+ﬂ mark disappears,
+
+10KEY | The figure entered by a ten key is displayed | If a wrong
+in the 100Hz digit position, and then shifted  figure has
+
+to the left. | been entered,
+press the [CLR
+s ) | switch and
+o L | start from the
+3 nl3 beginning.
+)= n
+0 HE
+< [ | |7]alals
+IEIGRIER
+0 HEIIE
+
+--- PAGE 36 ---
+Storing Frequency
+
+Up to 100 frequencies can be stored. For this purpose, the three kinds of switches (ten
+
+keys, [MI], and [CH] switches) are used.
+
+The [ M | switch stores the displayed frequency in the displayed channel, and the same
+
+time has the next channel displayed.
+
+The [CH] switch is used to store a frequency in any other channel than is displayed
+
+by the [MI] switch.
+
+(1) Non-use of [CH] switch (storing frequencies in consecutive channels)
+
+@ (Setting of freq) @
+
+® (Setting of freq) @
+
+0~9 M1
+
+b
+
+GJ
+
+(2) Use of [CH] switch (selection of channel not displayed)
+
+© @
+
+®
+
+.
+
+Repeat the
+steps (1)
+through (4)
+
+If you want to store a
+frequency in a particular
+channel, proceed
+
+to (1) above.
+
+(Setting of freq.) L(Sen.ing of CH)-
+Operation | P
+L0KEY | Settingof f = 3|olg|o||® Freaueny
+M alt ]
+10%31{ Setting of = | 7 | | 2|9
+! ole .
+10 KEY Setting of f— |7 |
+No change
+i I 95 || upon(CHION.
+Setting of CH]| 1 | 2 alg s speci-
+10 kY 12 fied in two
+HEN .|| digits eg. 01,
+I 05)
+
+|
+5
+0
+
+--- PAGE 37 ---
+Calling Stored Frequency
+
+Two types of switches (ten keys and [ MO switch) are used. The ten keys are used
+
+for selection of a channel.
+
+@ @ (Setting of CH.)
+
+@ (Setting of CH) @
+
+MO 0~9
+
+|
+Used ten keys for selection
+of the channel.
+
+bt
+
+Operation Description Remarks
+cH
+10KEY
+FEIRGEE
+MO switch Wimp e haniicl
+u— Y 5181710]5
+33 48|35, 8
+Halz|2|a)l
+NOTE: o If the [MO] switch is pressed once,
+
+the CALL mode ensues. Then, all
+youhave todoistoselect the channel
+with ten keys.
+
+Toclearthe mode, the [CLR] switch
+is used. (The mode can be also
+cleared with the [MI switch, but
+take care not to change the contents
+of the memory.)
+
+Use of CLR, UP, and DOWN
+
+1) [CLR] is used for resetting of the [MO] mode and the display.
+
+2) Whenever the [UP] or [DOWN
+
+switch is pressed, the frequency increases or
+
+decreases by 100Hz. They are used together with the meter to find
+
+of sent by an SSB or ISB station.
+
+— 11~
+
+--- PAGE 38 ---
+Setting FAX Receive Mode
+
+The drawing at the right shows
+an example of a picture sent by a
+facsimile broadcasting station.
+The JAX-90 facsimile can select
+the receiving mode according to
+the following conditions:
+(1) Whether start signal is given
+or not
+(2) Whetherphase signalis given
+or not
+(3) Whether black signal with
+same width as phase signal
+is given or not
+(4) Whether stop signal is given
+or not
+At this time, the receiving mode
+is either AUTO, SEMI-AUTO,
+MANU or PROGRAM RE-
+CEIVE. The factors (2) and (3)
+above are very significant be-
+cause selection of the scan speed
+and phase matching are per-
+formed according to the phase
+signal detected. Any of the fol-
+lowing receiving modes may be
+selected according to the condi-
+tions of the signals.
+
+Phase
+
+Start signal
+
+Phase signal ——
+
+Some broadcasting
+stations send black
+signal and others
+doot. \
+\
+
+Stop signal
+
+o /Receiving
+
+possible from)
+beginning?
+YES
+
+Start -
+signal given?/ \signal given?
+
+Example of Weather Chart
+
+1
+
+Black
+signal given?
+
+gl giveny)
+
+MANU SEMI
+
+hase
+Phase o
+signal given?)
+
+Black
+signal given?,
+
+7
+
+(sl
+
+‘_'F“L“’—omm Tan
+
+be received
+
+Receiving Mode according to Broadcasting System Employed by Broadcasting Station
+
+12
+
+--- PAGE 39 ---
+AUTO operation
+
+(Setting of receiving frequency)
+
+Operation Description Remarks
+POWER-ON | (1) Start signal — [TOC] is selected. Set the receiving
+(2) Phase signal o[ SCAN SPEED| is se- | frequencybefore-
+lected. hand. (The fre-
+
+oPhase matching is com- | quency used be-
+pleted and[REC START ] | fore the facsimile
+
+| LED is lit. was previously
+(3) Transmission— Start of recording of pic- | turned off is dis-
+ture. played.)
+
+(4) Stop signal — SelectedTOC]and[SCAN
+SPEED] are cleared and
+recording stops.
+
+(5) Paper feed — Paper is fed to the cutter
+position.
+
+CAUTIONS
+
+1. The JAX-90 will not work if the [PRG]| switch is on. See that it is off.
+
+2. The JAX-90 will not work if the clock n s displayed.
+Once recording is started, signal can be continuously received even if the clock is
+displayed.
+
+-13-
+
+--- PAGE 40 ---
+SEMI AUTO Operation
+
+@ @
+
+SCAN SPEED —
+
+80
+
+10¢
+
+g
+
+* If the [MAN OPE] switch is turned on, [TOC] and [ SCAN SPEED] used before
+turn off of the JAX-90 are displayed. If you are going to use the same [T0C] and
+,omit the steps3) and @ above. However, if the power was turned
+
+SCAN SPEED
+
+off with the| M‘N‘O_LTA PE | switch turned on, [MAN OPE .E
+
+are automatically
+
+ly sclected just as they were when the power is again turned on.
+
+Selection of
+j (oo}
+
+Selection of
+SCAN SPEED
+
+Operation Description Remarks
+POWER-ON | Frequency selected before turning off of
+3 the power is displayed.
+MAN OPE-ON | [MANOPE] LED islit. At the same time,
+
+and [ SCAN SPEED] selected
+before turning off of the power are dis-
+
+played. Omit the following steps if the
+same [IOC]| and [ SCAN SPEED] are to
+be used.
+
+Whenever the switch is pressed, [288]
+and[ 576] are selected by turns. Make sure
+by observing the LED on the switch.
+
+Press the switch according to the speed of
+the transmitting station, and ascertain the
+selected scan speed by observing the LED
+on the switch.
+
+Recording starts automatically upon re-
+ceiving of phase signal or similar signal.
+
+Erroneous selection
+willenlarge orreduce
+the picture.
+
+The JAX-90 will not
+start if erroneous
+speed is selected.
+
+14~
+
+--- PAGE 41 ---
+0}
+
+MANU Operation
+
+Ifrecording will not start even when the steps for semi-automatic receiving are practiced,
+
+follow this sequence.
+
+It is probable that recording will not start for any of the following causes:
+
+(1) Receiving conditions are not appropriated.
+(2) Phase signal is not sent.
+
+@ @
+
+Sequence of
+
+SEMI AUTO F %) p
+
+1) Scale
+
+3 Phase is not matched yet.
+
+Observe the | Confirm the phase position and the scale num-
+
+recorded | ber (1-31) nearby the thermal head.
+
+chart |
+L01,01] | Epter the scale number. 1fyou want to enter 23,
+switch
+
+press the 10 switch twice and 1 switch three
+
+times. The LED at the right indicates 23.
+
+PHSET | Phase matching is completed. (The first digit of
+the figure displayed disappears for a while.)
+
+semi-automatic
+receiving
+® ®
+= PH ’
+- SET
+)
+Operation Description Remarks
+SEMI AUTO
+REC-ON | Recording starts and [REC START] LED is it. | If phase signal is
+
+transmitted, the
+phase position is
+put to that posi-
+tion. If it is not
+transmitted, the
+phase position
+correspondsto the
+white blank por-
+tion,
+
+i
+
+--- PAGE 42 ---
+Operation according to Program
+
+@
+P()wl:R POWER
+ON
+OFF OFF
+TIMER TIMER
+
+NOTE(1) Refferring to the "Setting Timer Mode" about programming.
+NOTE(2) If the timer switch is manipulated when the power is off, malfunction will
+result. To allow the JAX-90 to ascertain the current time, put the switch
+to the [ON] position for a while (for more than one second), put it to the
+[TIMER] posiion.
+This is unnecessary if operation is continuously performed according to
+the timer.
+
+o For the timer operation, it is prerequisite that the phase signal or similar
+signals is being transi
+
+Operation Description Remarks
+
+POWER-ON  Data selected when the power was turned off
+is displayed
+ﬂ | (The built-in timer confirms the current time.)
+
+[POWER-TIMER
+
+The entire indication disappears.
+
+-16-
+
+--- PAGE 43 ---
+Setting Timer Mode
+
+The JAX-90 has the built-in timer. To secure correct operation of the timer, set correct
+time.
+
+Setting Time
+
+Tt I ek e bened oitcation of the freriaenes isappdsa anc chzrent
+time (set in the timer) is displayed instead. Set the timer at correct time if it is fast or
+slow.
+NOTE: (1) The [@] switch will not work when the [PRG] switch is on.
+
+(2) Enter time on a 24-hour basis.
+
+(3) Make adjustment whenever the backup battery is dead.
+
+@ @ Q@ 0]
+CHK 0~9 |Presswhen thesetting| pp
+ADJ F time has just reached.
+t ’ ] j
+) \ S 9
+= = Enter hour, minute and second
+
+Operation Description Remarks
+
+| Time displ
+i e played
+[@ o~ l changes every
+
+ﬂ second.
+
+10KEY | (Setting at
+13:30:30) Enter
+1,3,3,0,3 and !
+0'in that order.
+
+jxx]
+
+2]
+n
+
+el
+S|l
+
+Wait until 30
+second reaches.
+
+v
+
+1 i =] .
+[=13]2]E]E] | curent ime
+
+starts.
+
+ENT
+
+il
+
+--- PAGE 44 ---
+Procedures of Programming
+
+Up to 15 channels can be programmed.
+
+‘The program items: 1. [START] time 2. [STOP] time 3. Receiving frequency 4.
+AUTO - SEMI AUTO 5. [10C] 6. [SCAN SPEED] and 7. [HALFTONE] ON-
+OFF. Do programming according to blinking of the indicator.
+
+NOTE: Be careful in setting the start time.
+
+(1) SEMI AUTO mode will not work unless setting is done before transmis-
+sion of phase signal. (Setting may be done when signal similar to phase
+signal s being sent.)
+
+(2) Tn the AUTO mode, o setting before transmission of start signal.
+
+@ @ Q - ®
+After the entered
+PRG 0~9 ENT | channel No. blinks 0~9 ENT
+ON five times, the
+| present program Y
+L will be displayed.
+Selection of channel Selection of start time
+1o be programmed. (hour and minute)
+® @ ® 9] © (1)
+MAN | Maxu
+0~9 ENT 0~9 ENT |[ ¢ ——— | ENT
+ﬂ,m ‘ J (}“} L OFE LED. ON
+Y (b \J Q:J
+Selection of stop time Selection of memory
+(hour and minute) channel for receiving
+forminy AUTO mode,
+jump the
+step (13 after
+LED off.
+Q Q ] ] ® Q
+
+——— SCAN SPEED
+Ent || HALE] | Ent
+60 || 0 [l 120 || 180 || 240
+
+B
+
+Do not press if
+HALFTONE] is
+not to be selected.
+
+_ 18-
+
+--- PAGE 45 ---
+Operation Description Remarks
+PRG-ON W [PROG| LED
+blinks
+PROG
+Example: “Afrerthe entered chan-|
+10 KEY Entry of ] | nel No. blinks five| 0~14CH
+n 0 channel [_[i| | times, the present pro-
+PROG FREQ | gram willbe displayed.
+START] LED|
+ENT blinks.
+START
+Example: SR If illegal time
+10 KEY Entry of A et
+| 12:00 START is automati-
+I cally cleared.
+ENT |
+N STOP l
+Example: STOP] LED
+10 KEY Entry of ! blinks.
+il 12:35
+[FREQ,|
+o LED blink
+FREQ
+Example: 1 Example:
+10 KEY ggtry of O[5 l;'l;eumszgzchannel for Enter memory
+FREQ channel for
+receiving
+ENT MAN OPE| LED frequency.
+n blinks
+If the [ENT] key is pressed at [MAN OPE ] | [MAN OPE |
+off mode, the AUTO mode ensues, and LED off.
+HALFTONE] blinks.
+MAN OPE ON | The [MAN OPE] LED is lit.
+When already
+rogrammed,
+ENT The [TOC] LED blinks. e
+5  that program
+10C Select either [288] or [576] , and the will be dis-
+4} selected one will be lit. played.
+ENT All the [SCAN SPEED] LEDs blink.
+
+-19-
+
+--- PAGE 46 ---
+Operation
+
+Description
+
+Remarks
+
+SCAN SPEED
+
+4
+
+ENT
+
+HALFTONE
+
+4
+
+ENT
+
+Select [SCAN SPEED] , and the selected
+SCAN SPEED | will be lit.
+
+The
+
+HALFTONE] LED blinks.
+
+Turn it on if you want to select
+receiving. Then, the [HALFTONE] LED is
+
+lit.
+
+Entry of next channel.
+
+PROG
+
+Return to the
+beginning.
+
+-20-
+
+--- PAGE 47 ---
+Checking Program
+
+Checking the contents of program, practicing the following:
+
+o) ®
+'
+
+PRG
+ON
+Selection of program
+
+0~
+channel to be checked.
+
+Operation | Description Remarks
+PRG-ON | Blinks
+Example: After [PRG
+A )
+1OKEY | Gpecking ! J LED Blink
+of ICH PROG
+Y
+Display [ 5] 7] (When frequency of 21 CH | The start time
+orert. |2 /] hasbeen entered) and the stop
+’ NEIGE time are indi-
+START — | 1 E. dal | bt cated by
+stop | {[c F|5 turns.
+
+10C] , [SCAN SPEED],
+
+MAN OPE —‘(' ‘When [MAN OPE | is on:
+
+and are
+
+| e oo ey e
+
+| selected.
+
+|+ When [MAN OPE] is off:
+
+TOC] and [ SCAN SPEED |
+are not illuminated.
+
+« Displaying the selected one
+
+. about [HALFTONE]
+
+Eoe
+
+--- PAGE 48 ---
+Changing Program
+
+After specifying the channel No. of the program to be changed, go to the position to
+be modified by repeating pressing[ENT] switch. After modifying press the[ENT) switch
+to assign.
+
+Clearing Program Channel
+
+Be sure to clear channels not used. Otherwise, malfunction may result because abnormal
+data is present.
+When the program is checked, nothing is displayed where the channel is cleared. Do
+
+clearing if the LED is it or symbols other than figures appear on the
+display.
+
+o) @ ®
+
+PRG .
+ON 0~9 CLR | Repeat the steps(2) and(3) .
+
+b
+
+Select the channel
+to be cleared.
+
+Operation | Description Remarks
+PRG-ON Blinks
+ﬂ { "
+I Jol
+Blinks
+10KEY | Example: =
+| Clearing of 5
+| scH
+
+Blinks
+
+CLRON Displayed about one second.
+
+—22-
+
+--- PAGE 49 ---
+LIST Mode
+
+‘This function is used to check the content of the frequencies and program stored in the
+JAX-90. This function activates only in the automatic stand-by mode. Be sure to select
+the AUTO reception mode at printing out the list.
+
+Print out of Frequency List
+
+Recording is started.
+LisT 1 After outputting 100 frequencies from
+L L 00 to 99, the paper is automatically fed
+ﬂ"} Fm)_ and recording is stopped. To stop during
+| \ / listing out, press the [CLR] switch.
+
+Note:  During listing out, only [CLR] switch is activated. Note that the buzzer
+of the switch sounds 0 to 2 seconds behind the switch operation.
+
+Print out of Program List
+
+Recording is started.
+LIST 2 Afteroutputting programs of 00 to 14CH,
+@ L| the paper is automatically fed and re-
+
+cordingis stopped. To stop during lsting
+out, press the switch,
+
+Note:  Only the [CLR] switch activates during listing out. Note that the buzzer
+of the switch sounds 0 to 2 seconds behind the switch operation.
+
+=
+
+--- PAGE 50 ---
+Maintenance
+
+Cleaning
+
+The unit is designed for maintenance-free
+operation.  So, it requires no routine
+maintenance. However, it is advisable to
+perform cleaning to keep the unit clean.
+No smell or dust is yielded during record-
+ing. However small amount of paper
+particles are produced because the ther-
+mal head is pressed against the recording
+paper for recording. Every time replace
+the recording paper with new one, clean
+the following portions.
+1) Wipe out paper particles inside the
+‘mechanical section.
+2) Wipe the edge of the thermal head
+with soft cloth wet with alcohol.
+
+Replacing Recording Paper
+
+The red END mark is applied to the end
+portion (about 2 meters) of the recording
+paper. If you have seen it, make prepara-
+tions for replacement of paper. When the
+recording paper reaches an end, the unit
+automatically stops.
+
+(RECORDING PAPER: 6ZPTS00127)
+
+To replace the recording paper with new
+
+one, practice the following:
+
+(1) Pull the mechanical switch to the
+front to unlock the mechanical sec-
+tion.
+
+~24-
+
+--- PAGE 51 ---
+@ Unlock the lock of the cover at the
+recording paper cutting part and lft
+the cover.
+
+@ Be sure to remove the right and left
+spools.
+
+3 Attach the spools to the core of the
+recording paper.
+
+@ Settherecording paper onto the spool
+holder. Passthe recording paper under
+the rubber roller 50 s to set. Pull the
+paper evenly sothatthe paper will not
+bend.
+
+Rubber
+roller
+i
+Thermal
+head ..
+shaft Paper
+
+25—
+
+--- PAGE 52 ---
+® Pulling the paper evenly, set the
+mechanical switch to the RECORD
+side.
+
+® Pull the cover of the mechanical
+section down slowly and push both
+ends to lock.
+
+(@ Insert the paper under the cutter of
+the recording paper.
+
+—26-
+
+--- PAGE 53 ---
+Replacing Battery
+
+TE“C [[ [ [ [“ blinks in the frequency indicator when the power is turned on or the [PRG]
+switch is pressed, it means that the battery is dead. Then, what is stored in the memory
+will not be erased unless the AC power supply fed to the terminal board is turned off.
+If the battery is dead, programming can not be done further. Replace the battery,
+observing the following rules:
+
+1. Even if the power switch is off, the backup power is on. Be careful not to cause
+
+short-circuiting.
+
+2. Remove the PCB in the Operation panel, and replace the battery by soldering it.
+3. Make sure that the frequency or program has not been erased.
+
+[Battery]
+3.6V-Lithium Battery (ER4-P)
+
+o Take care not to cause short-
+circuiting.
+
+NOTE: Even if [ [ [ [ [ [is displayed when the power is switched on, the equipment
+can be used as it is.
+
+Easy Troubleshooting
+
+If a trouble should occur, it must be diagnosed by a JRC engineer or a unit must be
+replaced. However, the cause may be sometimes simple. Try to find the cause, referring
+to the following:
+1. No paper is fed, and not recording.
+(1) Paper sensor circuit has worked due to bending or warping of paper.
+(2) The sensor has worked because the mechanical switch is put to an improper
+position [RELEASE ] .
+(3) Paper sensor stained by paper particles (Open the mechanical section, and you
+will find the paper sensor at the right.)
+(@ Tmproper locking of mechanical section.
+
+2. The [RECSTART] LED will not work.
+(1) Is [SCANSPEED] correct?
+(2) Ts transmitting station sending phase signal and start signal?
+(3) Is radio wave propagated in a good condition? Check [RCV MONITOR
+(4) Ts clock displayed on the indicator?
+(5) Is the [PRG] switch turned on?
+
+=27=
+
+--- PAGE 54 ---
+The timer operation will not work normally.
+(1) Are unused channels cleared?
+
+(2) Was [POWER] switch on once?
+
+(3) Check the contents of the program.
+
+(4) Ts the clock properly adjusted?
+
+(5) Was the [DIMMER] off position (Turned off the display upon starting)?
+(6) Did not time setting done duplicately?
+
+Switch will not work
+
+(1) [MAN OPE] : Is not the [PRG] switch on?
+
+(2) [FEED] : Is not the [PRG] switch on?
+
+® : Is not the [ PRG] switch on?
+
+(4) [PRG] : Is not the clock displayed? Ts not the switch on?
+
+Trouble with indicator
+(1) “LLLI[ blinks on the frequency indicator.
+The backup battery is dead.
+(2) Strange figures arc indicated on the frequency indicator.
+What is not stored in the memory (frequency memory) cleared?
+(3) Strange figures are indicated when the program is checking.
+Programming has not been done, nor that channel is cleared.
+
+The program disappears when the power switch is turned off.
+(1) The backup battery is dead.
+
+If you have any questions or want repair, please contact the nearby JRC branch or dealer,
+referring to the rear cover.
+
+Miscellaneous
+
+oPlease purchase the recording paper specified by JRC (6ZPTS00127).
+
+-28-
+
+--- PAGE 55 ---
+
+
+--- PAGE 56 ---
+

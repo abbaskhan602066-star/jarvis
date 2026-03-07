@@ -1,0 +1,339 @@
+SOURCE: E-101 OPERATION TEST RECORD OF TRANSMITTER.pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:11:16.904105
+==================================================
+
+
+==================================================
+PAGE 1 of 8
+==================================================
+DWG Na
+
+E - 101
+
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+CHIEF
+
+MANAGER
+
+CHECKED
+
+OPERATION TEST RECORD OF
+TRANSMITTER
+
+This technical document is the property of
+Kawasaki Heavy Industries, Ltd. (K1) and may
+not be copied, nor disclosed to any third party
+without KI1's prior written consent
+
+SCALE —— JOBNO.  ——
+
+KAWASAKI HEAYY INDUSTRIES, LTD
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+==================================================
+PAGE 2 of 8
+==================================================
+Dala of oulpul power for ME/NF Radio nstallelion
+
+Name of vessel: Call sign :
+
+Tested equipment model: (1JSS-710 ,0r (K11SS-720 serial No.:
+wilh Antenna model: CINAW-108 ,or GINAF-208 ,or CI(*
+
+& Saka:
+Tesled al¥avasaki Heavy Industoisa o tested dale: 17 / APR /1996
+
+Channel Frequency | Type of | PA VOLT | PA  CURR [ ANT CURR | OUTPUT | Souce
+No. ( kliz ) Emision | (V) () G A1) Ry Power
+e
+A Spece
+J3E
+2182
+J3E
+2182
+H3E
+401 4065
+601 6200
+801 8195
+1201 12330
+1601 16360
+- 1801 18780
+2201 22000
+2501 25070
+
+Tested by:
+
+==================================================
+PAGE 3 of 8
+==================================================
+o of outpul pover for WE/IF Radio inslallalion
+
+Name of vessel:
+
+Tesled equipmenl model: (1JSS-710 ,or (1JSS-720 e
+with Antenna model: CINAW-108 ,or CINAK-208 ,or [I(
+
+Tesled al:
+[ %
+Channel Frequency
+No. ( kliz )
+TLEX
+Spece
+F1B
+217445
+401 2172.5
+601 6263
+801 8376.5
+1201 12477
+1601 16683.5
+1801 1887045
+2201 22284.5
+2501 25173
+
+Tested by:
+
+==================================================
+PAGE 4 of 8
+==================================================
+Dale of output power for ME/NF Radio tnslallalion
+
+Name of vessel: . Call sign : :
+n }
+. Tesled equipment model: [1JSS-710 ,or (JJSS-720 serial No.: i
+$ with Antenna model: CINAW-108 ,or CINAY-208 ,or LI( it
+Tesled al: | lested dale: / s
+Channel Frequency | Type of | PA VOLT | PA - CURR | ANT CURR | OUTPUT | Souce
+No. | ( iz ) Emision | (V) (1) (A) " (W) | Power
+TELE GRAPH i
+Spece
+AR c
+| €
+0,0
+e P b 19| 100
+: 43 8.0 ¢
++ 7 10,0 ¢
+801 8366
+DC
+| A C !
+| + .8 }
+i e VS B R 2 18 Sofe LA
+3 1.2 o
+2,0 Ac
+1601 16734 QLI 2 (8 Wil R O
+1.4 bC
+| AC
+ooy 4l B e e ROl iR o
+3 8.0 be
+AC
+2501 2517145
+bC
+£
+c
+£
+C
+¢
+£
+Tested by: Name of checker:
+
+==================================================
+PAGE 5 of 8
+==================================================
+Dala of oulpul power for HE/E Radio tnslallalion
+
+Name of vessel: 4 Call sign :
+Tesled equipmenl model: [11SS-710 ,or (1JSS-720 serial No.:
+with Antenna model: CINAF-108 ,ov CINAW-208 ,o0r CI( )
+Tesled al: lested dale: / 7
+Channel Frequency | Type of | PA VOLT [ PA  CURR | ANT CUKR | QUTPUT | Souce
+No. | ( kliz) Emision| (V) (4) LR R Power
+Spece s
+F1B
+2187.7
+401 4207.5
+601 6312 N
+[
+(s
+801 8414.5 e e
+43 7.0 0.7 be
+AC
+1201 4 o A TR RSy B R [ AR s T e
+517 D
+A
+1601 1680445
+D
+A
+1801 18898.5 1
+D
+A
+2201 223745
+D
+A
+2501 25208.5 0
+b
+A
+D
+
+Tesled by: Name of checker:
+
+==================================================
+PAGE 6 of 8
+==================================================
+VHE RADIOTELEPHONE TEST DATA
+
+No.1 VHF
+
+Ship's Name : pLANDERS TENACITY Madel :  JHS-324 Ser. N+ BH70022
+
+Ol vequ, [T of | Freasencs | Ouipat Powet | eyl g |Tape of | Fivases G,
+
+Nof (M2 ) [Fnission 4 G| 1)) Nl (K1) f s sion VS ""('“I) ety
+
+01} 156..050 +310 20 60| +310 20 |o0.2 j
+02) 156100 " 18 01 [
+
+03] 156.150
+01] 156.200
+05156.250
+(6] 156300
+071156350
+08156400
+091 156.450
+[10] 156500
+
+12| 156..600
+13]156.650 156 625
+wf1s6.00 | F3r: " wo | ow | |m)se .o i S
+15156 750 | FaE " w | ow | (] seres T e S e
+16156000 | FaE " wo | [ | N vacw 5
+156.800| FIF | Pawseow | 0.8 | o | |9 | AR
+17[ 156850 | FaE " 21 | 0.5 | |76es| vak | 430 | 20 |ous i
+18] 156.%00 »- w | ow |
+19] 156..950 0 w | - |
+20{ 157000 2 | » i
+21157050 w | v |
+2157100 w | w |
+23] 157.150 23 " A
+157,200 R W
+157250 T |
+% K, l
+157,300 " v :
+157,350 [T R
+28] 157 00 T P
+
+Tested by: Test Date:
+
+==================================================
+PAGE 7 of 8
+==================================================
+VHF RADIOTELEPHONE PUDATAL <
+Ship's Name:  PLANDERS TENACITY Madel: gy 304 Ser:No- < piT0023 4
+ol Fregu ety Ouivos. s EIGIghRM. v ot < LTolon S 5
+Mol (NI1I) Wi W 17e o] [Nl (R | Esniseion Gl e [
+1] 156.050 SA00LE AR [ool o T ®
+02/ 156100 " w | e | e
+03] 156.150 27 w | = 11 L .
+oi| 156200 | " " " 63[1 A
+02?55 "A)V 7 >7‘; " " i T :
+0| 156.300 s 25 | 1.0
+07 156..350 " w | o
+£ 08] 156 .400 FIE " " " 67 156375
+09 156.450 W w | w | [o8frs6.a2s
+10[156.500 | rar " w | o | {69 15647
+nfiseso| raE [ w w | g
+12| 1s6.000 | 13k " A 5 w |
+13 156.650 " w | . i gt
+14[ 156,700 " w | oW .. w
+15] 156.750 " v . s
+16] 156000 | .. 24 | 0.5 | | | Nt
+156,600 Power Low | 0.8 | + | |70 Rty :
+17 156650 " 23 | 0.3 | +a00 | 23 | 0.3 |
+18] 156900 " ool ]
+19{ 156950 " 22 0.2 |
+20( 157 000 » 50|00
+21 157.050 " w |
+22{157.100 " 20 | 0.1 |
+23157 150 TR w | o
+21{ 157,200 om0
+25 157,250 Wl 5 |
+157300 e
++
+..
+
+Tested by: Test Date:
+
+==================================================
+PAGE 8 of 8
+==================================================
+S H 1 P IR R B Ey LRI
+JAPAN RADIO CO., LTD
+
+SHIP NAME:_ FLANDERS TENACITY SHIP CODE: DATE: __/ /
+SYLLABIC : ORG ORDER: 27H-0836
+
+OWNER i EXNAR M.V FLAG : _LUXFMBOUKG
+
+SERVICE :__LNG/NH CAHRIED SURVEY CLASS: _ GMDSS: _ (Y/N)
+SHIPYARD :__KHI SAKATDE HULL NO._1456 TONNAGE: 0G.tons
+KEEL DATE:_7/24 /95 (mm/dd/yy) DELIVERY DATE :_5/31 796 (mm/dd/yy)
+WORKED BY: JRC KANSAT T,NMI\D‘UI&A GUARANTEE ENDS AT:_ / / (mm/dd/yy)
+EX. SHIP NAME: SVC CONTRACT WITH:
+
+ORG.SHIP NAME: ACCOUNTING AUTHORITY:
+
+ID LIST b
+INMAR B TEL.:_325301310 CALLSTGN: LXFC ARQ5:36124 ARQ9:
+INMAR B 5L : 325101311 EPIRB: 251013000 MARINE TEL:
+INMAR C MES:_ 425301310 DSC-MF/HF: 253013000 DSC-VHF: 253010 gg
+
+: EGC: MARITEX: ____ OTHER-ID: TC8
+D FAX : 325301312 TMAR B TIX : 325301313
+REMARKS
+MODEL SER.No. DATE REMARKS
+CONSOLE J85-720 BS38140 0CT,1995SV_: 3,31
+MAIN TX DSC C1J-1085 ANT TYPE: AW-208D
+RX NED-740 BHGBAM  OCT,1995
+NBDP CIJ-1980
+DSC .  WKR NRD=720  BR66314 = QCT,1995
+AUX. TX JHF PRINTRR
+RX
+VHF 1 5 v BHTO022 . AUG,1995ROM: 1O0T
+VHF 2 ﬂg_ﬁi v BHTO023 AUG,1995ROM:
+GUARD RX
+VHF WKR B
+INMARSAT 1 [Uke-30081 210101 SEP,1995ROMYDU 1,5:DEM 1.2
+INMARSAT 2 JUE=T5A GY11977 3 ROM MATNZ 16 HODEM
+INMAR FAX JAX=531 622599
+EGC
+| EPIRB 1 JQE-2A-K GP24942  JUL,1994BATT: AP 1999 BRAKET APR/ 2000
+EPIRB 2 BATT:
+| TWOWAY 1 JHS-T «  BHI0947  SEP,1995
+TWOWAY 2 JHS=T. BII70948 SEP,199%
+TWOWAY 3 ° JHS=T B IH70949 SEP,1995
+ONBORD COMM ___JHP=44RO1T [10511 HI0S6Y _ STP,1995 7_SET
+SART 1 JOX=20A BM7287  5EP,1995BATT: SEY 1998
+‘ SART 2 JOX=204 BIM7288  SKP,1995BATT: SR 1998 1
+‘ NAVTEX NCR-300A — _ GD22521  JUN,1995ROM: 4.7 )
+RADAR 1 JMA-8263-7 7 LP53305 SEP,1995 £
+[+ RADAR 2 IMA=8313-cA \/ LP53290  SEP,1995 3
+RADAR 3 INTERSHITCHING UNIT 1QE-889
+Rt ARPA JAS-8001 Y LP23290 BUILT IN NO,2 RADAR
+AA 500KHZ AA 2182KHZ 1XA=Ta BAZESTA_JUN.
+AUTO KEY ALARM GEN 3
+LIFE BOAT ADF JLA=20A BF12246 DEC.
+PA ADRSR NVA= nmjuxﬂg mm_@_ﬁﬁ_gmw( FAX1 JAX=90 GF23401
+AMC WX FAX2
+GPS __TIR-6800  KB51634  TOTAL NAV
+LORAN C SATNAV
+SPEED LOG MF=220 FURUNO _  DECCA !
+SOUNDER FE-680T-4 " DPLR SONAR )
+AUTO PILOT PT=200 YOKOGAYA  GYRO CMZ=300X
+SP1 VHP C/R NCH=414 1 _SET SP2 TEL PAR-6000 _ _OKI
+; SP3 AMP C/R __NCE-0000A  _1SEL pub. 9302 V2.1
+& NCE~8000B 1 SEP

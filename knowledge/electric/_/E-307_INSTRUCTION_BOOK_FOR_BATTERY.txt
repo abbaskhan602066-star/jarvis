@@ -1,0 +1,656 @@
+FILE: E-307 INSTRUCTION BOOK FOR BATTERY.pdf
+FOLDER: .
+DATE: 2026-03-06 21:04:15.106808
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+BATTERY
+
+[ This technical document s the property of
+Kawasaki lleavy Indus Ad. (K and may
+
+not e copied, nar disclosed to any (hird party
+without KI's prior written consent.
+
+i
+
+T
+SCALE [T —
+
+i
+
+KAWASAKI HEAYY INDUSTRIES, (T0. |
+
+--- PAGE 2 ---
+SPECIFICATION
+
+FOR
+
+~2 SEALED MAINTENANCE FREE
+
+STATIONARY BATTERIES
+
+BATTERY TYPE : _NSD-200 12 CHLLS 2 SETS _
+
+SHIP NO. _22N1456
+FURUKAWA SPECIFICATION No. §-2213-1
+
+DATE = JUN.1985
+
+THE FURUKAWA BATTERY CO.. LTD.
+
+YOKOHAMA JAPAN
+
+--- PAGE 3 ---
+1. SCOPE
+This specificalion shall apply valve regulated sealed lead-acid plastic cased
+batteries. (hére in after called the battery) used in telecommunications, electrical
+systems, emergency lighting, etc.
+
+2. THE TYPE, VOLTAGE, CAPACITY, OVERALL SIZES AND WEIGHT
+
+Refer to Table I for the type, voltage, capacity, overall sizes and weight.
+
+Table 1
+— _
+A Cap. Dimensions in am Weight
+Batt. Voltage CApprox. )
+Length | Width | Height
+TYPR ) J0HR f1HR +3 £33 Oax) (Ke)
+HSE-50-12 12 50 2.5(363|128(220 20.5
+MSE-100-6 6 100 65 345/0128(2290 20
+MSB-150 2 150 97.5[ 106170365 13
+=> | MSE-200 2 200 | 130 106|170([365 15
+HSB~300 2 300 ) 195 [150)170(365 22
+MSE-500 j 2 500 | 325 24111711365 36
+MSE-1000 2 1000 | 650 471(171[365 72
+MSE-1500 2 1500 | 875 476337378 113
+MSE-2000 2 2000 | 1300 476 (337|378 143
+MSE-3000 2 3000 | 1950 696|340(378 218
+
+3. CONSTRUCTION
+3.1 General
+
+The battery shall consist of the posilive and negative plates, separators, cover and
+container, etc. each of which is of high quality materials, and shall be durable for
+long term use. Further, the actual profile of the battery shall confornm ta that as
+
+shown in the altached view.
+
+--- PAGE 4 ---
+3.2 Normal Seal
+The battery shall provide a fully sealed system escaping in minimum free gas evolved
+within the cell by recombination of oxygen evolved at the positive plate, with the
+lead sponge in the negative plate.
+
+3.3 Plales
+Both of positive and negative plates are of a pasted type assuring uniform quality in
+all the surfaces. They are free from gird breakage (fracture), active material cracks
+or shedding and plate buckling or bulging having any detrimental effect on the cell
+performance.
+
+3.4 Separators
+
+A non-woven micro-fiber glass separator shall be placed between the positive and
+negative plates as an electrolyte absorbing and retaining separator.
+
+3.5 Covers and Containers
+
+The cover and container shall be ruggedly built with high quality synthetic resin and
+shall be well insulated.
+
+3.6 Blectrolyte
+
+The electrolyte shall conform to dilute acid as specified in JIS K 1321
+(Sulfuric Acid).
+
+3.7 Visual Appearance
+The battery appearance shall be {ree from cxcessive dirt, distortion and seepage.
+4. CAPACITY
+When the battery is subjected Lo the capacity test in the following conditions, it shall
+
+retain 95¥ or more of the capacity as shown in Table 1 within five times of a discharge
+
+cyele.
+
+--- PAGE 5 ---
+(1) Discharge Starting Time
+The battery shall be allowed to stand for 12 hours or more at an ambient temperature
+of 25+ 5°C after a full charge.
+
+(2) Discharge Currenl
+Current at the 10 H.R. : Lhe current is equal to the gquotient of the 10 H.R. capacity
+by Lhe Lime, 10 hours or current at I H.R
+
+3 the currenl is equal tu the of the
+quotient of the 1 H.R. capacily by Lhe Lime, [ hour.
+
+(3) End-of-Discharge Voliage
+1.8 VrC. at the 10 ILR.
+1.6 VPC. at the 1 H.R.
+
+(4) Ambient Temperalure during Discharge
+The battery shall be discharged at an ambient lemperature of 25 5°C.
+
+5. TEST AND [NSPECTION
+
+The test and inspection shall be performed in accordance with eur inspection
+specification, unless otherwise specified.
+
+6. COMPONENT PARTS AND ACCESSORIES
+
+Attached shall be component parts and accessories required for one (1) set of a baitery
+as shown in Table 2.
+
+7. STATE OF BATTERY
+
+A1l the batteries being supplied shall be in a wet-charged condition,
+
+8. OTHER
+
+The overall dimensions and profile of monobloc sealed lead-acid cells and method of
+connecting them shall conform to the atlached drawing.
+
+note : As delivered. the balleries may be stored for 6 months.
+When this period has passed, they must he given a recharge. The batteries mest be
+stored in the charged condition and remain on open circuit at all times when they
+
+are not being used.
+
+--- PAGE 6 ---
+Table 2 (| set )
+
+Quantity
+- Remarks
+
+Name of Parts -
+Required|S p a re
+
+[ e T e Type HSE-200
+Connecting Wire 10 pes. 350 on, 22 m?
+Connecting Wire 1 pe. i /IOOWAmm. 22 m;"z
+Bolt, Nui, and Washer 1 set i lead-plated brass
+Vascline 50 ¢ o B
+
+Terminal for Source 2 pes. 80 ma® or 22 mn’
+
+Cable Connection
+
+--- PAGE 7 ---
+NQ NAME OF PARTS| MATERIAL (O Y| REMARKS INQ (NAME OF PARTS MATE;HAL ar Y| REMARK S
+
+LABEL
+
+LaAb-Acin BATTRRY
+ror
+AR INE 053
+TR
+
+362
+
+330 45
+
+167 2 101 23
+
+MARK{ DATE FEVISED BY
+
+SCALE | APPROVED BY | CHECKED BY |ISB | T1TLE
+
+K, Wit ¥ekahashs LEAD-ACID BATTERY FOR MARINE USE
+
+UNTT | DESIGNED BY | DRAWN BY MSE-200
+mm | K. HORIE|[X. HORIE
+
+DRAWING DATE|1 9 ¢2. 8. 1 8
+
+D ANGLE | =y E W B R KR £ #
+PROJECTICN THE FURUKAWA. BATTERY (0. LTD | DRAWING NO. |5 - 2 5 9 7 4
+
+--- PAGE 8 ---
+80X KO P
+
+H SETS PER
+!‘S,HP X0 SPARE PARYTS LIST FaR u M £ YESSEL
+22N14564  LEAD ACID STORAGE BATTERY
+
+TPE MSE-200
+_l
+U REHARKS
+M| RAME 0F w‘;m‘w’m”
+BUTLIKE ¢
+X0 PART PER |PER|SPARE
+SET|VESS.
+HEERH w0
+| N @ 1
+VOLT METER | 1%
+TLFE
+‘ T~ 1
+RUBBER GLOVE
+
+3
+
+4
+b
+Fe
+P
+Pe
+bs
+ple
+
+MER'S MAME THE FURUKAWA BATTERY 0., (7D oRW. KT | s—2213-1(1/1)
+
+--- PAGE 9 ---
+I [navs OF paaT
+
+MATERIAL |OI Y REMARKS [NQ |NAME OF PASTS| MATERIAL O Y)REMARKS
+
+TOOL BOX | WOOD |
+
+2
+
+190
+
+——
+R S o T R P
+
+p—
+
+400
+
+Ad e
+
+186
+
+MATERITAL:WO0O0D
+COLOUR:WHITE
+
+[
+
+MARK| DATE |R!VI§DBY
+
+TITLE
+
+TOOL BOX
+
+SCALE APPROVED BY | CHACKED BY |/s9BD
+UNET DESIGNED BY DRAWN BY
+mm K. HORIE}K. HORITE
+3RD "ANGLE F@E’ﬁ%}tﬁ&ﬁé&
+PROJECTION THE FURUKARA BATTERY €O, LTR
+
+DRAWING DATE |1 ¢ g 2. 8 .
+
+1
+
+g
+
+DRAWING NO. s$ - 2 5 9
+
+T
+
+3
+
+--- PAGE 10 ---
+o & R
+NO.. NAME OF
+
+F PARTS |_MATERIAL
+
+B
+
+Y
+
+] %
+REMARKS
+
+W 2 m TR E]
+
+: EE
+81 AvE oF pafrs” Mareridl qry!
+
+TERHINAL conncteal COPPER
+
+LEAD-PLATED
+
+A
+
+Fl %
+REMARKS _|
+
+40
+
+30
+
+20
+
+20
+
+e
+
+40
+
+120
+
+z = ® A a Ed i ket
+MARK DATE REVISED BY DESCRIPTIONS
+R M SCALE (% 2 mﬂ] BY M ¥ CHECKFD BY I‘gslﬂ% # B TITLE
+b\, Tabofaske) TERMNAL CONNECTER
+
+X & UNIT R lr DESIGNED BY|® @ DRAWN BY
+
+o Lo 10 1994.9.19
+
+= = ; BRESE DRAWING DATE 9.
+o | pg PR R At :
+PROJECTION THE FURUKAWA BATTERY €O, LTD. |[BE® T DRAWING ¥0. 1 584D 7
+
+--- PAGE 11 ---
+SERVICE FANUAL
+
+FOR
+
+STATIOHARY SERLED LEAD-ACID BATTERY
+{GAS RECOF3IMATIOK OK MEGATIVE CLECTRODE TVPE}
+
+THE FURUKARA SATTERY €O., LTD.
+YOROHAMA JBPAK
+
+--- PAGE 12 ---
+. Step Before Service
+
+Since the battery is shipped in an initial charge condition, put it
+
+into service after taking necessary steps in the following sequence:
+
+Further, betteries generate an inflammable gas scmetimes. Therefere,
+
+keep the battery area will ventilated. Not only that but also extreme
+care must be taken to be free from shorting and to keep open flames
+
+and sparks away from the battery.
+
+1.1 Unpacking and Checking
+
+1} vhen the bettery arrives at the site, check the packing metarial
+
+2
+
+for evidence of damage in transit and unpack the singie cell to
+be free from shocks with care.
+
+Further, urpack the cell around tke site and transfer the cell
+with the container base by hand. When transferrsd applying a
+horizontel pressure to the termingl area, trouble occurs in the
+seal sometimes. Extreme care must be taken in handling.
+
+After unpacking, check the packing material of the quantity and
+visual apperance of batteries and accessories.
+
+1.2 Installations and Connections.
+
+1) After checking to see if nothing is wrong with the battery, install
+
+2
+
+6
+
+it in the locations specified { rack, cabinet, etc. }.
+
+When incorporated in a system, install the battery in the lTowest
+bottom section in the cebinet fol the system as much as possible.
+
+Do not install the battery around the heating resistor such as
+transformer, etc.
+
+Batteries generate inflammable gas sometimes. Do not install the
+battery around the spark-producing sources such as switches,
+
+fuses, elc.
+
+Before connecting cells, polish the direct contact of the battery
+terminal with a wire brush well and coat all the surfaces of the
+battery connections with a Tight-coat of grease to prevent corrosion.
+When used a plurality of cells, first inter connect cells properly
+and then connect groups of cells to a charger or loacs.
+
+In this case, make sure that the battery connected correctly to
+
+the charger--- the positive terminal of the charger or load to the
+positive terminal of the battery; the negative terminal of the charger
+or Toad to the negative terminal of the battery, After completion
+
+of connections, check to see if connections are wired correctly.
+Further, be sure that all terminal screws or nuts are correctly
+torqued using a proper torque value of 40 - 50 Kg-Cm .
+
+--- PAGE 13 ---
+1.3 Freskening Charge
+
+1) Freshening-charge the battery before placirg ir service, since it
+
+causes the pertial loss of capacity due to self-discharge in transit
+
+or “n storege.
+
+o
+
+Freshening-charge the bzttery &t a constant volitage of 2.23 VPC
+
+and continue to charge for § hours after it has a veltage of 2.23 VPC.
+
+Further, unless the battery is immediately placed in service, corform
+
+to item 3 - Storage.
+
+Caily Maintenance and Hendling
+
+2.1 Discharge
+1) Table 1
+
+shows the allcwable maximum discharging current.
+
+Wihen dischargec beyond the range, the battery mey cause danage sowetimes.
+
+TABLE
+Discharging Current Discharging Time
+(A
+3cC Below 1 min.
+[ Below 5  sec.
+
+2) Table 2
+
+shows the end-of-discharge voltage. Make sure that the battery
+
+is free from a terminal voltage range of the following voltage readings
+
+or Tess,
+TABLE
+
+2
+
+Relationship between Discharging Current Carrying
+capability and End-of-Discharging Voltage
+
+Discharging Current Ave. Ernd-of-Discharging Voltage
+(A CvecC )
+
+0.1 C*_Dr LESS_ 1.90
+
+Irtermittent Discharge
+
+0.1C or So Current 1.80
+
+0.16C or So Current 1.75
+
+0.23C urvéo Curron; i ) _1.70
+
+Q.6C or So Current - ) 1.60
+
+U.;SC or More Current 1.50
+
+--- PAGE 14 ---
+Note: * the 0.1 € refer to the wate al which a battery
+
+will discharge its capacity in 10 hours.
+
+3} Charge the battery immediately after discharging without stending idle.
+A1so, charce the Zattery immediately &fter inadvertently overdischarging
+
+Tikewise.
+
+7.7 Charge
+
+1
+
+The battery has a float charge vcltage of 2.3 VPC.
+
+Always keep this one.
+
+r
+
+The effect on the battery due tc the increase and decrease of the
+
+float charge voltage are :
+
+Figh Voltage for Lorg time : The resuits in shortening battery 1ife.
+
+Low Voltage for Long time : The results in difficulty of meeting
+load requiverents or causing ceil
+
+vgltage variations someZimes.
+
+2.2 Checking and Reconditioning
+“iake a periedic check o avoid batte
+
+1} Check Every Month
+
+Item Method Criteria Corrective Action
+Total battery | Take voltage Float charge | Acjust the adserved
+voltage during | reading by a voltage x fo. | voliage to float charge
+Tloat charge. diel voltmeter. | of cells, voliage x Mo. of cells.
+
+2} Check Every 6 Morth
+
+Tten Method Crifteria Corrective Action
+1) Total battery!i) Measure 1) The total 1) Adjust the observed
+voltage during ~ |the total battery|battery skall |voltage reading when
+Flost charge. |voltage by a be x No. | it is out of the bese
+voltmeter of of cells. Tine.
+class 0.5 or
+mare. 2) The toler- | 2) The battery with
+
+ance of dial |greater error than
+measurement tolerance is repaired
+instrument is 'or replaced.
+
+the same as
+shown in JIS
+¢ naz
+(indicating
+instrument)
+
+--- PAGE 15 ---
+Item Method Criteria Corrective Action
+
+2) Battery visuel{Chack for the If ¢ develops,
+
+appearance damage of cover verify the reason anc i
+and container replace the battery |
+and leakage. with cracked cover and
+
+cotainer with a new one.
+
+Check of dirt If unclear, keep
+due to dust ¢lean and dry wipirg
+with a water camp cloth.
+
+Check of Clearing, corrosion-
+sicn of proof,painting,repair
+are made.
+
+3) Chreck Zvery Year
+
+The check every year includes the check every 6 mzcnths plus the
+fcllowing pa-aneters:
+
+Ttem Method [ criteria Corrective Action
+Connaction Tichten screws 1
+ar nuts { 40-55 Kg-Cm
+additionly. |
+
+2.4 Other Instructions
+
+1) Keep the battey clean and dry by wiping a water damp cloth.
+Do not spi1l solvents such as gaselin,thinner and o0ils on the batiery
+or dry it with a rag contaminzted with these.
+
+2) The battery generates inflammable gas sometimes. Care must be taken
+to keep open Flames and sparks away from the battery and to be “ree
+from shorting.
+3) Do not disassemble tne battery. Also, in case acid is spiashed on skin,
+clothing as a result of causing demage, immediately flush with water.
+If acid is splashed into eyes, Flush eyes with frash water and ses a
+doctor to get medical attention. )
+4) When the battery is put into fire, it will explode.
+Do not attemp® to do this.
+3] When the battery placed in a vesszl or bog, make sure of providing
+
+&ny evacuation section in it and keep the cabinet and the battery
+room will ventilated.
+
+--- PAGE 16 ---
+There is any fear for cetting &n =lectric shock, when touched tu
+
+o
+
+the current carrying parts, wear rubber gloves gs much as possible,
+
+1 checking and reconditicning the bettery.
+
+7
+
+Ccat the conrections of ry with & 1ight ccat of 2 corrosion-
+preof agent for lead-acid betteries.
+
+The operzting temperature for batteries is within a range of -15 to
+45°C.
+
+within 2 renge of 5 to 30°C as much s passiale.
+
+8
+
+is , however, recommenced that the bettery is put te use
+
+9) When cells connected in parellel are put into service consult our
+
+sales and service offices.
+
+ither ¢ifferent canacity betteries, old and new batteries and different
+
+manufactu satteries are put togetrer into service, thers is any
+fear causing damage to batieries and equipments, Consult our sales
+i
+
+anc service offices.
+
+3. Storage
+
+When placing a battery in storage, the battery must be cisconnected
+
+from a charger and loads. I pcssibple, store batteries in 2 cool,
+dry place.
+2) Once every 6 months, freshening-charge the battery in storage.
+
+lacement Criteria
+
+The battery has a use
+
+Replace the battery with a nezw _5 years after placing
+
+in service.

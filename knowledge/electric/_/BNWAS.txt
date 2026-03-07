@@ -1,0 +1,3049 @@
+SOURCE: BNWAS.pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:00:24.087644
+==================================================
+
+
+==================================================
+PAGE 1 of 72
+==================================================
+Operations &
+
+Installation Manual
+
+Navgard® — BNWAS
+
+Revision 1
+
+navgard nane
+
+==================================================
+PAGE 2 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Page 2 0f 72
+
+Copyright © 2011 Martek. All rights reserved
+
+No part of this publication may be reproduced, transmitted, transcribed,
+stored ina retrieval system, or translated into any language, in any form or
+by any means, electronic, mechanical, photocopying, recording, or other-
+wise, without prior written permission from Martek.
+
+All copyright, confidential information, patents, design rights and all other in-
+tellectual property rights of whatsoever nature contained herein are and
+shall remain the sole and exclusive property of Martek Ltd. The information
+furnished herein is believed to be accurate and reliable.
+
+However, no responsibility is assumed by Martek for its use, or for any in-
+fringements of patents or other rights of third parties resulting from its use
+
+The Martek name and Martek logo are trademarks or registered trademarks
+of Martek Limited
+
+All other trademarks are the property of their respective owners.
+
+Martek Marine Ltd
+Adwick Park
+Manvers
+Rotherham
+
+South Yorkshire
+563 5AB
+
+United Kingdom
+
+Telephone:  +44 1709 599222
+
+Fax: +44 1709 871873
+Email: service@martek-marine.com
+Web: www.martek-marine.com
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 3 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard Nz
+
+Customer Feedback Form
+
+Dear Valued Customer,
+
+Martek Marine Ltd is committed to continuously improving the products and services that we
+
+provide you with. We encourage and welcome your comments and feedback.
+
+If any aspects of our product and/or service have not met or exceeded your expectations, could you
+please tell us below? Please feel free to make any suggestions for improvements or tell us how we
+
+could have done better. If we have performed well in any areas, please also tell us!
+
+Alternatively, please e-mail any comments to service@martek-marine.com
+
+Page 3 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 4 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Page 4 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 5 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+Quality Policy
+
+Martek Marine Ltd. is committed to providing our customers with goods and services of consistent
+
+quality and reliability, on time, which is both fit and safe for their intended use.
+
+We are committed to keeping abreast of new technologies, to anticipate the changing requirements
+of our customers, and to meet the changing legislative requirements for our products. This ensures
+that we maintain our capability of meeting the highest standards, and to improve, where possible,
+
+the quality of our service.
+
+The company is committed to maintaining a Quality Management System and to using suppliers
+
+whose quality systems have been accredited to BS EN ISO 9001:2008.
+
+Our Quality Management System is fully documented, comprehensive and readily understood. The
+whole company implements it and it is mandatory that all company personnel comply with its
+
+requirements.
+
+The Company engenders a working environment amongst all its employees such that they shall have
+
+a full commitment to quality and only produce work of the highest standard.
+
+Page 5 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 6 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+Warranty
+
+Martek Marine Ltd. warrants products as a whole and individually against failure in the field for 12
+months from date of commissioning, or 18 months from date of shipment from Martek Marine Ltd,
+
+whichever is sooner.
+
+The warranty period covers against defects due to component failure or workmanship when
+commissioned and/or serviced by Martek Marine Itd certified engineers.
+The following conditions may invalidate your warranty:-
+
+1. If maintenance of the system has not been carried outin line with requirements as specified
+in the maintenance section of the manual.
+
+2. Ifthe system has been operated or maintained by untrained crew members.
+
+3. Ifthe system fails as a result of work carried out by a non-certified Martek Marine Ltd. Engi-
+neer.
+
+4. Ifnon type approved parts’ are used within the system.
+
+5. If the system Hardware is reconfigured or upgraded without prior authorisation by Martek
+Marine Ltd.
+
+6. If the system Software is modified or affected either directly or indirectly in anyway without
+prior authorisation by Martek Marine Ltd.
+
+Martek must be notified of any warranty claims immediately on discovery and our policy is for a
+return of equipment back to UK for impartial inspection. Returns must be accompanied by a returns
+
+number which must be obtained from service @martek-marine.com.
+
+in line with the Marine Equipment Directive.
+
+Page 6 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 7 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+Where the client prefers, Martek Marine Ltd. can dispatch a Martek Marine service engineer and /
+o replacement equipment to the vessel location on receipt of a purchase order. If the warranty is
+up held only costs associated with travel and subsistence will be charged, and any purchase orders
+
+raised for parts will be cancelled.
+
+If the cause of the claim is not covered under warranty all associated costs including parts, labour,
+travel and expenses, incurred in conjunction with such repair, replacement or renewal shall be
+
+chargeable at Martek’s standard service rates.
+
+Page 7 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 8 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+Table of Contents
+
+QUALITY POLICY.
+
+WARRANTY .
+
+1. INTRODUCTION...
+
+11 KevFeatures 12
+211 Additional Stage Alarm:
+
+21.2 Emergency calland Officer call.
+21.3  Additional Interface...
+
+2.4 Inputs from Valid Reset Devices & System Alarms...
+
+2.1.5  Video camera and DVR
+
+2. NAVGARD COMPONENTS AND FEATURES..
+
+21 Overaw Lavout 14
+21.1 Wheel house / Bridge...
+212 Accomodation Decks.
+
+2.1.3  Remote Location:
+
+22 PuysicaL COMPONENTS AND FIELD DEVICES 18
+
+221 Navgard Control Panel.
+
+222 Navgard Reset Pushbuttons..
+223 PIR (Passive Infra-Red Detectors) Motion Sensors ..
+
+224 Alarm Sounders..
+
+225 Power Supply..
+
+3 NAVGARD OPERATION & MAINTENANCE .
+
+3.1 PasswoRD Access CONTROL. 2
+
+3.1.1 Password Level Access
+
+312 Battery Reset Password Access..
+32 OperativG Meny 2
+321 Setting the Operational Mode.
+
+Page 8 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 9 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+3211 AUTO 2
+3212 oN 2
+3213 OFF 2
+3214 PORTSECURITY. 2
+
+322 Setting the Dormant Period
+
+323 Setting the Stage 2-3 Time Difference.
+324 Setting the Stage4...
+
+325 Setting the Stage 2 cabin configuration.
+326 Dim Button..
+
+327 Alarm History .
+
+3.3 ERRORSAND ALARMS 31
+
+3.3.1 General Error..
+
+332 Battery Error...
+
+333 Battery Replacement Required .
+334
+
+335
+
+33.6  Unapproved Battery Error..
+33.7 PIRError...
+
+34 MAINTENANCE GUIDE: 32
+
+4 INSTALLATION AND COMMISSIONING ...
+
+41 INSTALLATION GUIDE. 34
+
+42 COMMISSIONING GUIDE 36
+
+5 WEEE DIRECTIVI
+
+APPENDIX A - REQUIREMENTS FOR IMO & EC 626216 STANDARDS ..
+
+APPENDIX B - COMPONENT DRAWINGS.
+
+AAPPENDIX C - COMMISSION CHECKLIST.
+
+VisuAL InspECTION TesT, 56
+CONFIGURATION OF CONTROL PANEL 57
+TesT CONFIGURATION 59
+
+Page 9 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 10 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+CaBIN CONFIGURATION 59
+SysTEM TesT 60
+‘SYSTEM PARAMETERS. 62
+COMMUNICATIONS TesT wiTH VDR CONNECTED 63
+WARRANTY LABELS 65
+SIGNATURE OF ACCEPTANCE 65
+
+AAPPENDIX D - TECHNICAL COMPONENT SPECIFICATION
+
+AAPPENDIX E - PERIPHERAL DEVICES DETAIL..
+
+360PIR 67
+DirecTionaL PIR 69
+BEACON SOUNDER. 2
+OnBoaro PIR 72
+
+Page 10 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 11 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard
+
+TABLE OF FIGURES
+
+FicuRe 1: NAVGARD EXAMPLE OF PHYSICAL LavouT with PIR's
+
+FicuRe 2: NavaaRD ExampLe oF PrysicaL Lavour No PIR's (LR vesseLs)
+FicuRE 3: NAVGARD CONTROL PANEL BULKHEAD MOUNT (101081)
+
+FicuRE 4 — NAVGARD CONTROL PANEL BULKHEAD MOUNT (101081) BoTTom
+FicuRE 5 - NavGARD CONTROL PANEL FRONT CONSOLE MOUNT (101080)
+FicuRE 6 - NavGaRD CONTROL PANEL CONSOLE MOUNT (101080) Back
+FicuRE 7~ NAVGARD INTERNAL RESET PUSHBUTTON SPECICATION (101066)
+FicuRe 8 ~ NavGARD EXTERNAL ResT PusHauTTON SpeciFicaTion (101061)
+Ficure 9~ Navearp DIRecrionaL PIR (101062) SpecricaTion
+
+FicuRe 10~ Navaaro 360 PIR (101060) SreciicaTion
+
+FicuRe 11 - NAVGARD SOUNDER squARE (101084) SeeciricaTion
+
+FicuRe 12 - NAVGARD Sounpr/Beacon (101064) Speciicaion
+
+FIGURE 13— CoNTROL PANEL FASCIA
+
+Page 110 72
+
+nazen
+
+16
+17
+19
+20
+21
+21
+22
+22
+23
+23
+24
+24
+27
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 12 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard Nz
+
+1.Introduction
+
+Navgard is designed for maintenance free operation providing fast, accurate information for the
+lifetime of the vessel. It is simple to use, straight forward to learn and visually easy to operate. It is
+
+fully approved to classification society standards.
+
+1.1 Key Features
+
+The Navgard system is designed for use on a ships Bridge. The remote alarm sounders cover key
+locations like the officer cabins and engine control room. Some optional reset devices are able to be
+
+used on the external wings of a bridge.
+All control and monitoring equipment are installed in safe areas.
+
+System components are shown in more detail in section 2.2 and Appendix B.
+
+2.1.1  Additional Stage Alarms
+
+Navgard has an additional Stage 4 Alarm indication or digital output for engine stop. There are three
+
+additional stage alarm outputs for IAS/Alarm management system.
+
+212 Emergency call and Officer call
+
+Navgard has an Officer call configurable in 4 officer cabins within the navigation menu.
+
+2.1.3  Additional Interface
+
+An optional additional SD card interface can be supplied to log data of stage alarms and emergency
+
+aalls with time stamp.
+
+Page 12 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 13 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+2.1.4  Inputs from Valid Reset Devices & System Alarms
+Navgard provides additional wired Inputs to accept reset signal from other devices and transfer of
+
+alarm conditions from other devices.
+
+Under alarm conditions such wired equipment will send a digital input to the Navgard and the
+source will be flashed on LCD display. [1- Aux 1 fail, 2- Aux 2 fail, etc.]. These might include RADAR or
+ECDIS.
+
+External valid reset inputs must be approved by the appropriate approval body before being
+
+connected to Navgard. This is not the responsibility of Martek Marine Ltd.
+
+215  Video camera and DVR
+
+Martek can supply an optional video camera and DVR, which can record in real time the events on
+the Bridge. This will be triggered when an alarm is activated and stops recording when a valid reset
+
+signal is acknowledged.
+
+IMPORTANT NOTE:- The 12v Power source for the camera must be sourced independently of the
+
+Navgard. Failure to do this will result in warranty void and non compliance with IEC62616.
+
+Page 13 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 14 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard Nz
+
+2.Navgard Components and Features
+
+Navgard comprises:
+
+Hardware components include Control Panel, reset push buttons, PIR motion sensors and
+
+alarm sounders/beacons.
+
+o Navgard Navigation Menu where the operator can configure and control the operational
+
+mode and other device parameters of the system.
+
+Al field components used on the vessel are shown as accurate scaled drawings in Appendix B.
+
+2.1 Overall Layout
+
+There are three areas within the vessel were the system and peripherals are fitted:-
+o Wheel house / Bridge
+* Accommodation
+* Remote Locations
+2.1.1  Wheel house / Bridge
+
+The control panel, Stage 1 Alarm sounders, Alarm Beacon, Directional PIR’s, 360 degree PIR's and
+push button reset switches are located in the wheel house / bridge. If so required optional external
+
+push buttons with built in sounders can be mounted on the Bridge wing, and are rated accordingly.
+
+212 Accomodation Decks
+
+The Stage 2 Alarms are located in the accommodation areas. The system is configurable through the
+navigation menu, for up to four separate accommodations as deemed necessary — Captain, Officer
+
+1, Officer 2 and Officer 3. (Set as: Cabin 1, 2, 3, 4.)
+
+Page 14 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 15 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+213  RemoteLocations
+
+Stage 3 Alarm sounder/beacons are located in remote locations and could include Officer’s mess,
+
+Passenger locations and Engine Control Room.
+
+Page 15 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 16 of 72
+==================================================
+navga
+
+)
+
+rd
+
+Navgard™ Operations Manual
+
+nazen
+
+Wheelhause | Bndge
+
+Page 16 of 72
+
+‘Accomodation Decks Remote Locaticns
+
+verselmain
+e
+presiert
+
+Tk conkolsigra
+
+R Ot
+
+o o o
+
+Sourta Bascon can be subslivad for Sourdar PN
+
+2. Gomera xd DR >
+e used wih 1 o
+
+be supsiad ac an optanal oxta
+Separale 12V 2oner sy
+
+Bridge wing
+
+Gllant 1 Vossat
+
+Drewn By,
+
+Martek Marns Lt3
+
+Avprovedy. Grmwring Mo
+
+o0t
+o
+
+Figure 1: Navgard Example of Physical Layout with PIR's
+
+Copyright © 2010 Martek Marine
+
+==================================================
+PAGE 17 of 72
+==================================================
+navgard
+
+Navgard™ Operations Manual
+
+Vineshouse / Brisge
+
+‘Accomodaion Decks,
+
+Remole Locations.
+
+Stage * Alemms H Stage 2 Alemms. Stage 3 MaTrs.
+: g @ )
+mes : _ —m1®
+- | o)
+oo B =
++ @@
+o ) o e
+i Brdge wing
+1. SourderBeacan can bs s.betilutec for a Sounder PN Drawm By
+when usmed wtn T own seaate 12V power sipply P r Drawing Title: Drawlng Number:
+P P NovGard yctom o1
+
+Page 17 of 72
+
+Figure 2: Navgard Example of Physical Layout No PIR’s (LR vessels)
+
+Copyright ©2011 Martek Marine
+
+==================================================
+PAGE 18 of 72
+==================================================
+)
+
+navgar
+
+d
+
+Navgard™ Operations Manual
+
+2.2 Physical Components and Field Devices
+
+Navgard is made up of a number of physical components including a central control panel, reset
+pushbutton modules, motion sensors and alarm sounders, Communication interface, Power supply
+
+modules. This section provides both an overall view of the physical structure of the Navgard system
+
+and a description of the components.
+
+Table 1: Navgard Components
+
+Part Number | Descr
+
+101080 Navgard Control Panel Console mount (Document Section 2.2.1)
+
+101081 Navgard Control Panel Bulkhead mount (Document Section 2.2.1)
+
+101066 Navgard Internal Reset Pushbutton (Document Section 2.2.2)
+
+101061 Navgard External Reset Pushbutton (Document Section 2.2.2)
+
+101062 Navgard Directional Passive Infra-red Detectors (Document Section
+223)
+
+101060 Navgard 360° Passive Infra-red Detectors (Document Section 2.2.3)
+
+101084 Navgard Alarm Sounder square (Document Section 2.2.4)
+
+101064 Navgard Alarm Beacon/Sounder (Document Section 2.2.4)
+OPTIONAL
+
+101067 Power Supply Module (Document Section 2.2.5)
+
+101260 SD Card (Document Section 2.2.6)
+
+Page 18 of 72
+
+Copyright © 2010 Martek Marine
+
+naze
+
+==================================================
+PAGE 19 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+)
+
+101409 SD Card Reader (Document Section 2.2.6)
+
+101358 Cameraand DVR (Document Section 2.2.7)
+
+101359 DVR (Document Section 2.2.7)
+
+101360 Camera and DVR cable Connections (Document Section 2.2.7)
+101278 8 core Marine approved 0.5mm” cable for installation of peripherals
+
+2.2.1  Navgard Control Panel
+
+The Navgard Control Panel forms the central console. The control panel is to be mounted at a
+suitable location within the ship bridge preferably at a location where the watch officer is expected
+
+to be stationed during normal circumstances.
+
+©-———— M8 screw
+fastener
+
+Figure 3: Navgard Control Panel Bulkhead mount (101081)
+
+Page 19 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 20 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+)
+
+The bulkhead control panel provides gland entry for cabling (suitable for 8 core 0.5mm? & 0.75mm?
+screened) and other interfaces as shown in figure 3 below. The Control panel houses the on-board
+PIR, User interface comprising of the LCD and membrane keypad, LED indicators and the internal
+
+assembly comprises of the PCB and power supply modules including the battery.
+
+Knockouts to accommodate
+
+12 x M20 Gland Entry
+
+Figure 4 — Navgard Control Panel Bulkhead mount (101081) Bottom
+
+Page 20 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 21 of 72
+==================================================
+_ Navgard™ Operations Manual B P
+navgard nmazre
+
+e
+1" patrery
+| e
+
+L port securty!  C tamaer
+
+Figure 5 - Navgard Control Panel Front Console mount (101080)
+
+The console control panel provides gland entry for cabling (suitable for 8 core 0.5mm? & 0.75mm?
+screened) and other interfaces as shown in figure 5 below. The Control panel houses the on-board
+PIR, User interface comprising of the LCD and membrane keypad, LED indicators and the internal
+
+assembly comprises of the PCB and power supply modules including the battery.
+
+Knockouts to accommodate
+
+12 x M20 Gland Entry
+
+Figure 6 - Navgard Control Panel Console mount (101080) Back
+
+Page 21 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 22 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+2.2.2  Navgard Reset Pushbuttons
+
+The Navgard reset pushbutton module is used to indicate periodically operator alertness to the
+system. The reset pushbutton module houses a Red illuminated pushbutton with 2 normally closed
+contacts that form part of the tamper loop. The push button will flash during Stage 0 to alert the
+
+Officer in Watch that a reset signal must be activated. The Internal reset pushbutton is located in
+the bridge.
+
+navgard
+
+BNWAS Reset
+
+Figure 7 - Navgard Internal Reset Pushbutton Specification (101066)
+
+Note: The maximum number of internal reset push buttons on the bridge is 6, as stated in the Sys-
+
+tem Layout Drawings in the Appendix B.
+
+The external reset pushbutton is located on the bridge wing
+
+Figure 8 -~ Navgard External Rest Pushbutton Specification (101061)
+
+Page 22 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 23 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Note: The maximum number of external reset push buttons (101061) is two, one for each bridge
+
+wing, as stated in the System Layout Drawings in the Appendix B.
+
+2.2.3  PIR(Passive Infra-Red Detectors) Motion Sensors
+The Navgard Motion sensors are used to detect human presence by monitoring movement within
+
+the bridge area.
+
+These motion sensors are be used in ‘port security’ mode where the system operates as a burglar
+
+alarm.
+
+Note: Lloyd's register does not accept motion sensors as a valid reset device. It is the responsibil-
+
+ity of the owner to ensure LR class vessels are installed without operational PIR’s.
+
+Figure 9~ Navgard Directional PIR (101062) Specification
+
+Figure 10 - Navgard 360 PIR (101060) Specification
+
+Page 23 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 24 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard e
+
+Note: Where PIR’s are allowed the maximum number of PIR’s on the bridge is 4, as stated in the
+
+System Layout Drawings in the Appendix B.
+
+2.2.4  Alarm Sounders
+
+The Navgard alarm sounders are to be configured in Bridge area(s), Officer Cabins, of which a
+maximum of 4 maybe configured, and remote locations which might include passenger area(s),
+
+engine control room and officer mess.
+
+The Alarm sounders are configured at 80dB in order to comply with IMO and IEC standards for
+volumes levels on the bridge. The tone is selectable during commissioning in order to differentiate
+
+between different alarm sounds.
+
+Figure 11 - Navgard Sounder square (101084) Specification
+
+Figure 12 - Navgard Sounder/Beacon (101064) Specification
+
+Page 24 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 25 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Note: The maximum number of Sounder/Beacons in total is 7 for non LR vessels, an additional 2
+Sounder Beacons can be used on LR vessels, as stated in the System Layout Drawings in the
+
+Appendix B.
+
+Note:  The minimum number of Sounder/Beacons for compliance to the IMO standards is three;
+One located in the bridge for Stage 1, one located in accommodation cabins for Stage 2 and
+
+onein remote location for Stage 3.
+
+225  Power Supply
+
+The Navgard can be connected directly to a main 24v DC supply via termination on fuse F1 and a
+
+back up / emergency 24v DC supply on fuse F2.
+
+If the Navgard is supplied ready for connection to an AC supply, a universal AC (100-240v) input
+switch mode power supply unit (101067) is fitted. This provides a 24v DC @ 2Amp output to the
+internal fuses. The AC mains cable connects to an EMC filter, Part No.101085, to provide a stable
+
+and noise free regulated supply, as per Marine Standards.
+Detailed drawings can be found in Appendix B
+
+The Navgard System has battery back-up using a Ni-MH Martek Battery pack (101261) which powers
+the system up to 6 hours in quiescent conditions, and powers an emergency call or alarm sounders
+if actuated under battery back-up conditions, effectively complying with IEC 62616. This is based on
+
+the maximum peripheral loading as per System Layout Drawings in Appendix B.
+
+Note: The battery backup is a third layer of supply proceeded by the ships mains supply and the
+
+ships emergency 24v backup.
+
+Page 25 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 26 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+3 Navgard Operation & Maintenance
+
+3.1 Password Access Control
+
+Login access controls what you can and cannot do on the Navgard system. There are three
+
+password levels:
+
+o Master Level - This system is shipped with a default password “0000" it is the responsibility of
+
+the ships Master to change and control the Master level password.
+
+o Battery Reset - This will be used to reset the Battery flashing LED. This password is supplied with
+the replacement battery, and works in conjunction with the unique serial chip embedded in
+
+each battery, in order that Type Approvals are not invalidated.
+
+«  Commissioning Level - This system is shipped with a commissioning password inside a sealed
+
+envelope addressed to the commissioning engineer.
+
+Note: f password lost contact Service Department, details can be found on page 2 of the manual.
+
+Page 26 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 27 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+)
+
+o
+Haery
+
+Tampe
+
+3
+BNWAS
+
+martel
+
+Figure 13— Control Panel Fascia
+
+3.1.1  Password Level Access
+
+To enter the password press the select button on the main control panel. The operator has 25
+
+seconds to enter a correct password, or the system will skip back to the Home screen on the display.
+
+Note: It is the responsibility of the Master to change the Master password upon successful com-
+
+missioning of the system and pass this to the subsequent crew.
+
+Utilise the up and down keys to toggle between
+
+its 0-9. When you arrive at the correct di
+
+the password press the select key to move to the next field. Press “back” to return to previous field.
+
+You must then repeat the process until all digits of the password are entered.
+
+Upon successful entry of the password the HMI will display a flashing “Correct Entry” and the
+
+Operation Mode screen is displayed.
+
+Page 27 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 28 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+3.1.2  Battery Reset Password Access
+
+Notification regarding the requirements to change the internal battery are automatically triggered
+by a separate internal clock, initiated during the commissioning of the system. Indication of battery
+
+requiring replacement is done via a flashing “Battery” LED on the control panel.
+24months after commissioning your battery must be replaced.
+
+Six months prior to battery replacement becoming due a warning will be displayed on the control
+
+panel.
+
+24 months after system is commissioned or the battery is replaced a battery replacement overdue
+
+warning will be displayed on the control panel.
+
+Once the battery is replaced and the correct password is entered the internal clock will be reset for
+
+afurther 24 months. The cycle will then repeat.
+
+Note: If anon approved battery is used notification will be via the ERROR LED a
+
+3.2 Operating Menu
+
+Once the Master Password is correctly entered the operator can gain access to the navigational
+menu of the Navgard system and define Operational mode and customise timing parameters within
+
+the Navgard menus. Press SELECT key to toggle between next stage menus.
+
+3.2.1  Setting the Operational Mode
+
+Press SELECT key to enter Operational mode & toggle between the four different modes of
+operation by pressing the up and down keys. The four modes are: - OFF, ON, AUTO & PORT
+SECURITY.
+
+Page 28 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 29 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+3211 AUTO
+When AUTO is selected the system runs as per the status of the track control mode. Either AUTO ON
+or AUTO OFF will be displayed.
+
+3.21.2 ON
+The system functions as per stored timing parameters to configure these timings refer to sections
+3.2.2,3.2.3 &3.2.4. Alarms are activated within the IMO standards
+
+3.21.3  OFF
+
+System operation is inhibited.
+
+3.21.4 PORTSECURITY
+
+The system functions as a standard intruder alarm. Master level Password is utilised to initiate entry
+
+and exit periods. The EXIT ENTRY PERIODS are defined in minutes.
+
+3.2.2  Setting the Dormant Period
+The Dormant period is defined in minutes as the maximum length of time before which a reset
+
+signal must be initiated.
+
+The Dormant Period is configured by utilising the up and down keys to increase/decrease the value
+indicated. When you have the desired value press the select key. Only a number between 3-12
+
+minutes is allowable as per the IMO and IEC specified limits.
+
+3.2.3  Setting the Stage 2-3 Time Difference
+The Stage 2-3 time difference is defined in seconds as the time from Stage 2 alarm activating and
+
+the Stage 3 alarms being activated, assuming stage 2 is not acknowledged.
+
+The Stage 2-3 time is configured by utilising the up and down keys to increase/decrease the value
+indicated. When you have the desired value press the select key. Only a number between 90-180
+
+seconds s allowable as per the IMO and IEC specified limits.
+
+Page 29 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 30 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+3.2.4  Setting the Stage 4
+
+Stage 4 is an additional configurable alarm and defined in minutes as the time from
+unacknowledged Stage 3 alarm to Stage 4 alarm being initiated. A number between 12-99 minutes
+
+inclusive must be selected. Stage 4 alarms will be active, assuming Stage 3 is not acknowledged.
+
+The Stage 4 alarm is not a requirement of the IMO or IEC standards.
+
+3.2.5  Setting the Stage 2 cabin configuration
+
+Navgard enables up to 4 officer cabins to be configured to ON (“**) and OFF (") mode. This is
+configured by utilising the up and down keys to increase/decrease the value indicated. When you
+
+have the desired value press the select key.
+
+For example if Stage 2 cabin configuration is set at “-” “*” “-” “-“means that cabin 2 only will be
+activated during stage 2 alarm. If set at “-” “*” “.” “*“means that cabin 2 and cabin 4 will be
+
+activated during stage 2 alarm.
+
+3.2.6  Dim Button
+
+The dimming function is operated by pressing the dimming button on the key board. All panel visual
+LED indicators and reset push button lamps can be toggled between a normal and low illuminated
+
+state.
+
+3.2.7  Alarm History
+
+All system alarms generated are sent via a serial communication to a VDR if connected. Also an
+onboard SD flash memory records errors and faults if purchased and installed as an option. The SD
+
+cardis located in the PCB board.
+
+Page 30 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 31 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Various indicators are signalled on the control panel that indicate to the personnel on the bridge
+
+that action is required.
+
+3.3 Errors and Alarms
+
+33.1  General Error
+
+If an error occurs with the operating system, the Error LED will remain illuminated.
+To rectify this, power the system down.
+
+Reinitialise and select Operational Mode as per Section 3.2.1,
+
+Input Dormant Time and Stage 2-3 Time Difference as per Sections 3.2.2 & 3.2.3.
+
+If this does not reset Error LED identify if any of the subsequent errors below have occurred , if
+
+unable to reset Error LED contact Service Department(details on page 2 of manual).
+
+3.3.2 BatteryError
+
+When service is due if an unapproved battery is used, the Error LED will flash and internal buzzer
+sounds. The LCD display will indicate battery replacement message. Contact spares@martek-
+
+marine.com
+
+3.3.3  Battery Replacement Required
+
+Notification of requirement to change the internal battery is automatically triggered by an internal
+
+dock. The indication does not hamper system operation but prompts user to replace battery.
+
+If the internal battery (Part number 101261) is not replaced every 24 months, the Battery LED will
+
+flash and Error LED will be illuminated and a notification of change on the LCD will be displayed.
+
+Page 31 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 32 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+3.3.4  Mains Power Fail
+
+If the mains power and ships backup supply fail the battery is used to power the system and this
+state is indicated by the Battery LED being permanently illuminated. In addition to this the internal
+buzzer on the PCB is activated until acknowledgment of failure by pressing the reset on Navgard
+
+keypad. The Battery LED will remain illuminated until main power is restored to the system.
+
+3.3.5 Tamper Error
+
+If the interface to any of the peripherals is disconnected, the Tamper LED will be illuminated. In
+addition to this the internal buzzer on the PCB is activated until acknowledgment of failure by
+pressing the reset on Navgard keypad. The Tamper LED will remain illuminated until the cause of the
+
+tamper is removed.
+3.3.6  Unapproved Battery Error
+
+Post installation if an unapproved battery is used, the Error LED will be illuminated until an
+
+approved battery is connected and battery is recommissioned.
+
+3.3.7 PIRError
+
+The flashing of the Error LED is an indication that no PIR’s are fitted or there is a short circuit on the
+
+PIR loop.
+
+3.4 Maintenance guide:
+
+1. The Navgard system requires periodic (24 monthly) replacement of the battery (part
+number 101261)
+
+2. Itis also recommended that an annual full system integrity check is carried out to confirm
+
+that all sensors are functioning
+
+3. Any damaged/inactive peripherals MUST be replaced by a suitable spare part by a qualified
+electrical engineer. Contact spares @martek-marine.com
+
+Page 32 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 33 of 72
+==================================================
+= . Navgard™ Operations Manual _m
+navgard nazien
+
+4. All cabling and interfaces should be re-checked to confirm system integrity and any
+
+damaged cables must be replaced/re-wired if required by a qualified electrical engineer.
+
+5. Any changes made above must be tested in line with commissioning checklistin Appendix C
+
+to confirm system operation.
+
+6. Any warranty void marks/visible tampering must be logged to prevent future disruption and
+
+system damage.
+
+Page 33 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 34 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+4 Installation and Commissioning
+
+4.1 Installation guide
+
+1. Unpack Navgard System and peripherals verifying all components as per Packing
+
+Specification.
+2. Identifyintended ocation for the Navgard Control Panel —usually indicated by prior survey
+
+(a)  For Bulkhead place enclosure against the wall mark four drilling positions with pen
+using the four mounting holesin the base of the enclosure as a template reference drawing
+
+— Bulkhead mount panel Details.
+
+(b)  For Console cut out panel to suit based on dimensions contained reference drawing
+
+- Console mount panel Details.
+3. Unscrew console case or open Navgard wall mount box to gain access to PCB.
+4. Review Navgard Drawing- internal Wiring diagram (Appendix B)
+
+5. Identify the number of cable entries for each connection on the system. This will depend on
+
+the number and type of peripherals supplied, and any external reset signals used.
+
+6. One Entry is required for Power. One entry is required for VDR, One entry is required for the
+Push button resets loop. One is required for the PIR loop. One is required for each stage 2
+
+alarm sounder. One is required for the stage 3 Alarm loop one.
+
+7. Knock-outs are located in the enclosure base for a bulkhead panel and on the rear of the
+
+back box for a console panel.
+
+8. Identify set of PIR sensors within the peripheral pack:
+
+Page 34 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 35 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard nazien
+(a) Navgard Directional PIR Dimensional and Wiring Details — Drawing (Appendix B).
+(b) Navgard RF360 PIR Dimensional and Wiring Details — Drawing (Appendix B).
+(¢) Install in accordance with Drawings above.
+9. Identify set of Internal /External Push Buttons within the peripheral pack:
+(a) Navgard Push Button Dimensional and Wiring Details — Drawing (Appendix B).
+(b) Install in accordance with Drawings above.
+10. Identify set Sounders or sounder/beacons within the peripheral pack:
+(a) Navgard Sounder Dimensional and Wiring Details — Drawing (Appendix B).
+(b) Install in accordance with Drawings above.
+
+1
+
+P
+
+Review the wiring scheme for these items and connect cabling per drawings referenced
+
+above.
+
+Note:  USE ANTISTATIC PREAUCTIONS WHERE NECESSARY
+
+Note: A survey of the vessel will be required to determine the position of the peripherals and ca-
+
+ble lengths required.
+
+12.
+
+IS
+
+Installation of additional Inputs and Interface to external equipment should be wired in
+
+accordance with Navgard Internal Wiring Diagram and supporting information (Appendix B).
+
+1
+
+w
+
+Identify Power Supply arrangement - AC or DC - and connect per drawing (Appendix B).
+
+14, Connect back up emergency 24vdc supply if available.
+
+15. Visually inspect battery for defects before connection.
+
+Page 35 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 36 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard Nz
+MARINE
+16. Connect battery to PCB connector.
+17. Verify Battery LED s illuminated.
+
+18. Reconfirm wiring as per drawings, prior to powering up the system.
+
+Warning: Al installation must be done with Marine Approved cabling and by a certified Electrical
+Engineer. Martek Marine Ltd accept no responsibility for incorrectly installed systems
+
+by non Approved Martek Marine Engineers as per our warranty terms.
+
+4.2 Commissioning guide
+
+Following installation of Navgard commissioning must be undertaken.
+
+This can be arranged with Martek Marine Service Department. Contact details are found on page 2
+of this Manual. If commissioning is conducted by a non Martek Engineer then an electronic copy of
+the commissioning checklist must be completed fully and e-mailed/faxed back to Service
+Department at Martek Marine (service@martek-marine.com). This indicates the start of the
+
+warranty period.
+
+Names and Signatures of the Engineer commissioning the system must be recorded on the
+
+commissioning checklist.
+
+The Original Commissioning Checklist (Appendix C); must be completed and retained with the
+
+Navgard Operation Manual on board.
+
+Warning: _ Failure to return an electronic copy of the commissioning checklist to Martek will mean
+
+that warranty is not validated, and technical support is not activated.
+
+Page 36 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 37 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+5 WEEE Directive:
+
+The WEEE Directive aims to both reduce the amount of electrical and electronic equipment being
+
+produced and to encourage everyone to reuse, recycle and recover it
+
+The WEEE Directive also aims to improve the environmental performance of businesses that
+
+manufacture, supply, use, recycle and recover electrical and electronic equipment
+
+The Navgard as is exempt from the WEEE directive as any equipment that is installedon a fixed
+
+Installation is exempted
+Notice to European Union Customers w
+
+The crossed-out wheeled bin symbol above on the Battery indicates that this equipment has been put on
+the market after 13 August 2005, and is included in the scope of the directive 2002/96/EEC on waste
+electrical and electronic equipment (WEEE) and of the national decree(s) which transpose provisions of
+
+such directive.
+
+At the end of its lifetime, this device can only be disposed of in compliance with the provisions of the
+above mentioned European directive (and following possible revisions) as well as with the corresponding
+
+national regulation. Severe penalties are possible for unauthorized disposal
+
+Electrical and Electronic Equipment (EEE) may contain polluting components and hazardous substances
+
+which accumulation could pose serious risk for the environment and human health.
+
+That's why local Administrations provide regulations which encourage reuse and recycling, and prohibit
+the disposal of WEEE as unsorted municipal waste and require the collection of such WEEE separately (at
+specifically authorized treatment facilities). Manufacturer and authorized distributors are required to
+
+supply information about a safe treatment and disposition of the specific device.
+
+You may also return this equipment to your distributor when purchasing a new one. As for reuse and
+recycling, notwithstanding the limits imposed by the nature and the use of this device, the manufacturer
+
+will o his best to develop recovery processes. Please contact the local distributor for information
+
+Page 37 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 38 of 72
+==================================================
+Navgard™ Operations Manual
+
+naze
+
+Appendix A - Requirements for IMO & IEC 626216
+
+Standards
+
+IMO Document reference
+
+1 Operational Requirement
+IMO MSC.128(75) - 4.1.1.1
+62616:2010-3.1.1
+
+Statemen
+
+The BNWAS shouldincorporate the following
+operational modes:
+
+- Automatic (Automatically brought into operation
+whenever the ship’s heading or track control system is
+activated and inhibited when not activated)
+
+- Manual ON (In operation constantly)
+
+- Manual OFF (Does not operate under any
+circumstances)
+
+2. IMO MSC.128(75) - 4.1.2.1
+62616:2010-3.1.2.1
+
+Once operational, the alarm system should remain
+dormant for a period of between 3 and 12 min (Td).
+
+3. IMO MSC.128(75) - 4.1.2.2
+62616:2010-3.1.2.1
+
+Atthe end of this dormant period, the alarm system
+should initiate a visual indication on the bridge.
+
+4. IMO MSC.128(75) - 4.1.2.3
+62616:2010-3.1.2.2
+
+If not reset, the BNWAS should additionally sounda
+first stage audible alarm on the bridge 15 s after the
+visual indication is initiated.
+
+5. IMO MSC.128(75) - 4.1.2.4
+62616:2010-3.1.2.3
+
+If not reset, the BNWAS should additionally sounda
+second stage remote audible alarm in the back-up
+officer’s and/or Master’s location 15 s after the first
+stage audible alarm is initiated.
+
+Page 38 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 39 of 72
+==================================================
+Navgard™ Operations Manual
+
+naze
+
+IMO MSC.128(75) - 4.1.2.5
+62616:2010-3.1.2.4
+
+If not reset, the BNWAS should additionally sounda
+third stage remote audible alarm at the locations of
+further crew members capable of taking corrective
+actions 90 after the second stage remote audible
+alarm is initiated.
+
+IMO MSC.128(75) - 4.1.2.6
+62616:2010-3.1.2.5
+
+In vessels other than passenger vessels, the second or
+third stage remote audible alarms may sound in all the
+above locations at the same time. If the second stage
+audible alarm is sounded in this way, the third stage
+alarm may be omitted.
+
+IMO MSC.128(75) - 4.1.2.7
+62616:2010-3.1.2.5
+
+Inlarger vessels, the delay between the second and
+third stage alarms may be set to a longer value on
+installation, up to a maximum of 12 min, to allow
+sufficient time for the back-up officer and/or Master
+to reach the bridge.
+
+IMO MSC.128(75) - 4.1.3.1
+62616:2010 — Annex A.2
+
+It should not be possible to initiate the reset function
+or cancel any audible alarm from any device,
+equipment or system not physically located in areas of
+the bridge providing proper look out.
+
+10.
+
+IMO MSC.128(75) - 4.1.3.2
+62616:2010-3.1.3.1
+
+The reset function should, by a single operator action,
+cancel the visual indication and all audible alarms and
+initiate a further dormant period. If the reset function
+is activated before the end of the dormant period, the
+period should be re-initiated to run for its full duration
+from the time of the reset.
+
+11.
+
+IMO MSC.128(75) - 4.1.3.3
+62616:2010-3.1.3.2
+
+To initiate the reset function, an input representing a
+single operator action by the OOW is required. This
+input may be generated by reset devices formingan
+integral part of the BNWAS or by external inputs from
+other equipment capable of registering physical
+activity and mental alertness of the OOW.
+
+Page 39 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 40 of 72
+==================================================
+Navgard™ Operations Manual
+
+nazen
+
+12. IMO MSC.128(75) - 4.1.3.4 A continuous activation of any reset device should not
+$2616:2010-3.1.3.3 prolong the dormant period or cause a suppression of
+
+the sequence of indications and alarms.
+
+13 IMO MSC.128(75) — 4.1.4 Means may be provided on the bridge to immediately
+26162010 -3.1.4 activate the second, and subsequently third, stage
+
+remote audible alarms by means of an Emergency Call
+push button or similar.
+
+14. IMO MSC.128(75) — 4.2 The alarm system should be capable of achieving the
+Accura timings stated in section 4.1.2 with accuracy of 5% or
+Acciray 55, whichever is less, under all environmental
+62616:2010 - 3.2 conditions.
+
+15. IMO MSC.128(75) - 4.3 The means of selecting the Operational Mode and the
+
+) duration of the Dormant Period should be security
+Se
+Security protected so that access to these controls should be
+62616:2010-3.3 restricted to the Master only.
+
+16. IMO MSC.128(75) — 4.4.1 If amalfunction of, or power supply failure to, the
+Malfunctions, alarms and BNWAS s detected, this should be indicated. Means
+indications
+
+shall be provided to allow the repeat of this indication
+62616:2010-3.4
+on a central alarm panel i fitted.
+17. IMO MSC.128(75) —5.1.1 A protected means of selecting the operational mode
+ERGONOMIC CRITERIA of the BNWAS.
+Operational controls
+62616:2010 -4.1a
+18. IMO MSC.128(75) —5.1.2 A protected means of selecting the duration of the
+
+62616:2010 - 4.1b
+
+dormant period of the BNWAS.
+
+Page 40 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 41 of 72
+==================================================
+Navgard™ Operations Manual
+
+naze
+
+19. IMO MSC.128(75) - 5.1.3 A means of activating the Emergency Call function if
+62616:2010 - 4.1c this facility is incorporated within the BNWAS.
+20. IMO MSC.128(75) -5.1.4 Means of activating the reset function should only be
+62616:2010 - Annex A.3 available in positions on the bridge giving proper look
+outand preferably adjacent to visual indications.
+Means of activating the reset function should be easily
+accessible from the conning position, the workstation
+for navigating and maneuvering, the workstation for
+monitoring and the bridge wings.
+21. IMO MSC.128(75) - 5.2.1 The operational mode of the equipment should be
+Presentation of information indicated to the OOW.
+62616:2010 -4.2.1
+2. IMO MSC.128(75) - 5.2.2 The visual indication initiated at the end of the
+
+62616:2010-4.2.2
+
+62616:2010 - Annex A.4
+
+dormant period should take the form of a flashing
+indication. Flashing indications should be visible from
+all operational positions on the bridge where the
+OOW may reasonably be expected to be stationed.
+The color of the indication(s) should be chosen so as
+not to impair night vision and dimming facilities
+
+should be included.
+
+Page 41 0f 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 42 of 72
+==================================================
+Navgard™ Operations Manual
+
+nazen
+
+23.
+
+IMO MSC.128(75) -5.2.3
+62616:2010-4.2.3
+
+62616:2010 — Annex A.5
+
+The first stage audible alarm which sounds on the
+bridge at the end of the visual indication period
+should have its own characteristic tone or modulation
+intended to alert, but not to startle, the OOW. This
+alarm should be audible from all operational positions
+on the bridge where the OOW may reasonably be
+expected to be stationed. This function may be
+engineered using one or more sounding devices.
+Tone/modulation characteristics and volume level
+should be selectable during commissioning of the
+
+system.
+
+24.
+
+IMO MSC.128(75) -5.2.4
+62616:2010-4.2.4
+
+The remote audible alarm which sounds in the
+locations of the Master, officers and further crew
+members capable of taking corrective action at the
+end of the bridge audible alarm period should be
+easily identifiable by its sound and should indicate
+urgency. The volume of this alarm should be sufficient
+for it to be heard throughout the locations above and
+
+to wake sleeping persons.
+
+25.
+
+IMO MSC.128(75) - 6.2.1
+System physical integrity
+
+62616:2010 -5.2.1
+
+Allitems of equipment forming part of the BNWAS
+should be tamper-proof so that no member of the
+
+crew may interfere with the systems operation.
+
+Page 42 0f 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 43 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+26. IMO MSC.128(75) - 6.2.2 Reset devices should be designed and installed so as.
+62616:2010 - 5.2.2 to minimize the possibility of their operation by any
+means other than activation by the OOW. Reset
+
+devices should all be of a uniform design and should
+
+be illuminated for identification at night.
+
+27. IMO MSC.128(75) - 6.2.3 Alternative reset arrangements may be incorporated
+62616:2010-5.2.2 to initiate the reset function from other equipment on
+the bridge capable of registering operator actions in
+
+positions giving proper look out.
+
+28 | IMO MSC.128(75) - 6.3 The BNWAS should be powered from the ship’s main
+Power power supply. The malfunction indication, and all
+elements of the Emergency Call facility, if
+62616:2010 -5.3
+incorporated, should be powered from a battery
+
+maintained supply.
+
+29. IMO MSC.128(75) -7 Inputs should be available for additional reset devices
+Interfacing for connection to bridge equipment capable of
+
+generating a reset signal by contacts, equivalent
+62616:2010 - 6.1
+circuits or serial data.
+
+30. IMO MSC.128(75) - 7.2 e Output(s) should be available for connection
+62616:2010 - 6.2 of additional bridge visual indications and
+
+audible alarms and remote audible alarms.
+
+Page 43 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 44 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+Appendix B - Component Drawings
+
+This appendix contains drawings of Navgard components and layout schematic
+Layout Drawings
+
+System Diagram 001 AAO (Section 2.1.3)
+System Diagram (LR Vessels) 001 BAO (Section 2.1.3)
+
+Component Drawings
+
+Bulkhead Mounted Enclosure Detail 101081
+Console Mounted Enclosure Detail 101080
+Directional PIR & Wiring Details 101062
+Directional PIR c/w JB & Wiring Details 101378
+RF360 PIR & Wiring Details 101060
+Internal Push Button & Wiring Details 101066
+Square Sounder & Wiring Details 101084
+Sounder/Beacon & Wiring Details 101064
+External 150mm Push Button & Wiring Details 101061
+
+Wiring Interface / Panel wiring Drawings
+
+Power supply Arrangement 001 BO
+
+Interconnection Diagram 001 CO
+
+Page 44 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 45 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+o o
+o scron <
+astarer g
+o
+et | f
+/
+5o, g |
+Weaming Foles
+12.¢h420 btk ut
+e Rament o cableg ands
+oot Hame - F—
+Drungy | DR
+[
+R——— provsd Bt | 2 [oravang hs Draving e
+g niha o NGz Bukeat | 000 o
+e ica,|220515|  Pane Dimaneins ot081 -
+
+Page 45 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 46 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+)
+
+it o e rmascron o aners o
+s
+) L) @
+e E fef ] El
+) ) F
+VIEW ON REAR SAFETY COVER
+CN
+Fovwon oo Gt Vossort o amaret
+oawnay. | o2
+ApprOvEeEN: |42 i Tiler Draning Hurmoor
+s o0 oxe | pavszacoma om0
+B EETPR Rttt
+
+Page 46 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 47 of 72
+==================================================
+M)
+
+)
+=
+o
+
+Navgard™ Operations Manual -
+navga Nz
+MARINE
+
+Pt o
+
+Mounting holes.
+
+Fresnel lense
+
+85.5
+
+|
+|
+|
+[ — ]
+
+J
+
+> Access tab
+
+3Con x0mm e cole
+
+e
+
+40
+
+e ae, v [WoTES Ee=s o N
+Dz | s
+
+Partrarier: 101062 Bk M Lid
+
+Fiegn = g
+Dl ravge = 191351280 proved By,
+=5 e L Il = Trewing oo
+
+0106200
+
+D NavGard PIR Wide
+Rppoved |20 Angler2Y
+
+Page 47 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 48 of 72
+==================================================
+M)
+
+Navgard™ Operations Manual
+
+navgard naze
+
+J
+
+2 - Mounting ol
+‘ 7/ @smm
+0 ©
+FC——J7
+]
+| Fresaellense
+El | 3
+| Il
+| it L
+|
+|
+— [
+o
+0o
+——_—
+oo
+ey o
+o taierns 1 o
+=St
+o = e B0
+= B o
+commency || o
+v [} 00
+5]
+e O PR R T e
+[Pe——
+bl S Graning Nursior:
+N vt
+o oz PRee s manms | oo
+eprore e
+
+Page 48 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 49 of 72
+==================================================
+M)
+
+)
+o
+
+navgar
+
+Page 49 of 72
+
+Navgard™ Operations Manual
+
+—_—
+|
+IS—
+i
+toa tamper g ot | 12 1
+116
+Par numbec 101060 R B o
+Wm0 [re—1
+Approw By- | 18 o e [DrauTng Mambnr:
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 50 of 72
+==================================================
+M)
+
+J
+
+navga
+
+Page 50 of 72
+
+rd
+
+Navgard™ Operations Manual
+
+nazen
+
+£ M20 cable entry [
+
+a4
+B &
+© ©
+1 O
+1L © e
+]
+8 e
+
+Turseripmon [ 5
+P
+
+Tamperkts &
+
+ponal
+
+e
+
+w2
+
+[LIe——
+
+G Sertat Bl Gonnestin
+
+ot e ot
+
+1] 11
+
+o [Roviar. e R [RoTEs: o, | an
+Asprovad T}
+Dite 2200,
+Avproves.
+
+G
+
+iaetok Mrbelid
+
+Granreg T
+
+hcart Ntz
+Pueh Blln (Perral)
+
+Sraving Moo
+
+e
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 51 of 72
+==================================================
+. Navgard™ Operations Manual -
+d Nz
+
+)
+
+navgar
+
+b
+
+g (@ ] |l@
+g ™ 'al
+N €7 < 1/ ,@_{
+18 |6 |
+|4 | [ a3 |
+
+brawnby | oL
+
+[ep—
+
+peror By Granrra Narmbers
+
+g 005
+
+owe 1010800
+
+e e
+
+Page 510f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 52 of 72
+==================================================
+)
+
+. Navgard™ Operations Manual B P
+navgard nazien
+
+i 293 110
+/ % Vi ELECTRICA TERMIATIOH
+=) \\ —/ § s NS
+Sy
+2]
+
+e e e S T
+et e, i e i [R——
+i e i
+et ——
+
+i s e e [T P——
+ey oate saamacomeres | arone o0
+freeiti-egg s 11 Hoproma. | 120810| Scmibensn i
+
+Page 52 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 53 of 72
+==================================================
+= . Navgard™ Operations Manual .
+gard Nz
+
+Pl Canection
+
+Mo
+oo,
+
+— @) [} 5o W ot Bk St
+o [
+ot
+
+] " ‘Sourder Connection
+e R B [oF mumbara:
+
+anmy | on
+[Re——
+
+Aoproed By | A3 et Tl [Oraving Mumser:
+o —
+
+o . E 101061 - 0
+
+oo, 2025419 o (o
+
+Page 53 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 54 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard n2e
+
+)
+
+NavGard System Enclosure
+
+rop
+
+@P‘ supply
+
+oxa s . 24vee
+
+! emo ° Unversl AC Powr Supply Un o 7] main
+
+N Filter Z4vde oip @ 2 Amp P (] supply
+
+£ O - | Input
+Approved By. | 18 | rawing Wb
+
+Page 54 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 55 of 72
+==================================================
+Navgard™ Operations Manual
+
+d nazen
+
+)
+
+navgar
+
+Fi|F2
+oo [(EEEEEI RN ERRER T . e
+o] [TeEl e e e el e e el =] [l
+st [ Al
+%
+RESET SWITEH A _Lioput
+RN
+Ropraved By | M3 Orawing Number:
+
+Page 55 of 72 Copyright @ 2011 Martek Marine
+
+==================================================
+PAGE 56 of 72
+==================================================
+Navgard™ Operations Manual
+
+M)
+
+J
+
+navgard
+
+Appendix C - Commission Checklist
+
+MARTEK JOB NUMBER:
+
+IMO NUMBER:
+
+SHIPYARD:
+
+VESSEL HULL
+NO’S/NAME:
+
+VESSEL CLASS
+
+COMMISSIONING
+ENGINEER
+
+This commissioning checklist must be carried out upon completion of installation of the NAVGARD
+
+system.
+
+Visual Inspection Test
+
+Ref Test ss Criteri
+
+11 Check alfxing components within > Allcomponents are visually acce ptable and aligned
+
+each enclosure are not visual defective
+and aligned with PCB board and on
+board PIR.
+
+> Allwiring is visually acceptable.
+
+12 Check allintemal wiring within the > Inaccordance with Wiring Details in Appendix
+
+system enclosures are not visual
+
+defective
+
+Page 56 of 72 Copyright © 2010 Martek Marine
+
+==================================================
+PAGE 57 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+13 Check allextermal wiing to the power | ~ 1M ccordance with Wiring Details in Appendix B
+
+supply is correct prior to applying
+
+power.
+
+14 | Check externals of enclosure toensure |~ Finishon cabinet vistally acce ptable
+
+o visual defective or damaged
+
+> Finish on fascia visually acceptable with no defec-
+
+5 Check visual surface of facia tive or damaged and protective film present
+
+16 Directional PIR's > Allcomponents shipped are visually acce ptable.
+17 260 PIRCs > Allcomponents shipped are visually acce ptable.
+18 Sounder/Beacons > Allcomponents shipped are visually acce ptable.
+o Sounders > Allcomponents shipped are visually acce ptable.
+
+Configuration of Control Panel
+
+Software Revision number: (displayed during power up)
+Ref  Mechanical Conformance Pass Cri
+21 Tug Test cable connections > All components are mechanically acceptable.
+22 pushbutton mechanical check > Ensure all push buttons depress as expected
+23 Onboard PIR's > Norotation of PIR
+e Ensare faxcia mounting flush > Fascia not raised above recess.
+
+Page 57 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 58 of 72
+==================================================
+navgard
+
+Navgard™ Operations Manual
+
+Ref Electrical Conformance Pass Cri
+Connection orientated correctly
+25 | Connectinternal 12v Battery > software version displayed on HMI
+> Power LED on front of unit remains iluminated.
+> _Battery LED on front of unit remains iluminated
+26| 11007 2000nC > Main supply voltage rating is correct
+> Ensure internal power supply fitted.
+Ensure the main supply voltage is of
+the correct rating,
+PR P > Main supply voltage rating is correct
+> Ensure internal power supply is not fitted
+Ensure the main supply voltage is of
+the correct rating,
+> Internal PSU switches on (¥ applicable).
+28 Apply main and Backup supply tothe | peg L ered by Backup supply & Main Supply
+unit and ensure correct operation.
+> Power LED on front of unit remains fluminated
+29 Ensure system powers up
+> Internal Power supply LED illuminates (if applica-
+ble).
+> software version displayed on HMI during inital
+power up
+» “NAVGARD” displayed on HMI.
+» _Ensure Count down timer not displayed on HMI.
+210 solate main power from the unftand | 7 S/SteM Continues operation without interruption
+> Power LED on front of unit remains iluminated
+ensure normal operation continues. | > Battery LED on front of unit is not luminated
+i1 Reconnect main power and fsolate 24y | 7 S/51eM Continues operation without nterruption
+> Power LED on front of unit remains iluminated
+DC Backup supply ensure norml > Battery LED on front of unit i not iluminated
+operation continues.
+> System continues operation without interruption.
+212 | Isolate main powerand 24v DC Backup | 5. oo er 1D on front of unitis iluminated
+supplies from the unit and ensure > Battery LED on front of unit s iluminated
+automatic switchover to battery » Internal buzzer on PCB activates.
+backup occurs
+
+Page 58 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 59 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard
+
+MARINE
+
+Test Configuration
+
+Date Test Set up Criteria Use Values
+31 | Ensure thatall alarm levels are Dormant Period (3-12minutes) 3 minutes
+configured correctly for test Stage 2-3 Time Difference (90-180 seconds) 90 seconds
+Stage 4(12-99 minutes). 12 minutes
+ENTRY / EXIT TIME (Port Security) (12-99 minutes) 12 minutes
+
+Cabin Configuration
+
+Configure cabins in the menu configured as defined above
+
+Activate Officer call Alarm -Verify that cabin alarms waork inde pe ndently. Tick cabins were alarms activated
+
+Activated Emergency call Alarm - Verify that all cabins alarm, and alarm exculpates to Stage 3 f reset not
+
+activated. Tick cabins were alarms activated
+
+Escalates-Stage 3
+
+Page 59 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 60 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+MARINE
+
+System Test
+
+Stage 3 Alarms
+
+Ref Test Pass Criteria
+
+Stage 3 alarm LED on system remains illuminated
+when Stage 3 alarm point is reached
+are generated when Stage 1and Stage | > Cabin Sounder/Beacons are activated during
+
+41 Ensure that Stage 3 alarm indications
+
+Stages 2.
+2al t reset. This should
+
+aarms are not reset. This shou > Bridge Sounder/Beacon is activated during Stage
+occur 300 seconds after reset. 1&2.
+
+> Beacon activated during Stage 3.
+»  Ensure alarms reset when using one of the below
+
+Check t by te 't
+eck reset by appropriate rese reset devices Tickas
+
+device
+appropriate
+
+Internal push buttons
+
+External push buttons
+
+Onboard PIR
+
+360 PIR
+
+Directional PIR
+
+Other
+
+Stage 2 Alarms
+
+Pass Criteria Sign if OK
+
+> Stage 2 alarm LED on system is illuminated when
+Stage 2 alarm point is reached
+
+are generated when Stage 1and alarm | >  Cabin Sounder/Beacons are activated at Stages 2.
+
+»  Bridge Sounder/Beacons is activated during Stage
+1&2
+
+seconds after reset. > Ensure alarms reset when using one of the below
+
+reset devices.
+
+42 Ensure that Stage 2 alarm indications
+
+is not reset. This should occur 210
+
+Page 60 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 61 of 72
+==================================================
+navgard
+
+Navgard™ Operations Manual
+
+nazen
+
+MARINE
+
+Check reset by appropriate reset
+
+device
+
+Tickas
+appropriate
+Internal push buttons
+External push buttons
+Onboard PIR
+
+360 PIR
+
+Directional PIR
+
+Other
+
+Stage 1 Alarms
+
+Date Test
+
+43 Ensure that Stage 1 alarm indications
+are generated when alarm is not reset.
+This should occur 180 seconds after
+
+reset.
+
+Check reset by appropriate reset
+
+device
+
+Pass Criteria
+
+Sign if OK
+
+Stage 1 alarm LED on system blinks after 180
+seconds when no reset is activated.
+
+If no reset s triggered after 15 seconds the Stage
+1 LED changes to steady state
+
+»  Bridge Sounder/Beacons is activated at Stage 1
+
+> Ensure alarms reset when using one of the below
+reset devices.
+
+Internal push buttons
+
+External push buttons
+
+Onboard PIR
+
+360 PIR
+
+Directional PIR
+
+Other
+
+Page 61 0f 72
+
+Copyright © 2011 Martek Marine
+
+Tickas
+
+appropriate
+
+==================================================
+PAGE 62 of 72
+==================================================
+= Navgard™ Operations Manual
+
+navgard naze
+
+MARINE
+
+Reset Alarms
+
+Date Test Pass Criteria Sign if 0K
+
+> Ensure alarms count down timer reset when us-
+ing each of the below reset devices, if not previ-
+validated functioning ously checked
+
+44 Ensure reset devices not previously
+
+Tickas
+appropriate
+
+Internal push buttons
+
+External push buttons
+
+Onboard PIR
+360 PIR
+Directional PIR
+Other
+System Parameters
+The NAVGARD system functions in 3 different modes of operation
+Date Test Pass Criteria Sign if 0K
+
+> Verify Auto LED is illuminated
+> System should countdown as normal
+> HMishould display “Auto On'"
+
+51 Verify functionality of “Auto” mode
+
+Change operation mode to Auto
+
+Switch “track control” ON to initiate
+
+track control signal to PCB.
+
+> Verify Auto LED is illuminated
+
+> No alarms should activate and system remains
+track control signal to PCB. dormant.
+
+> HMishould display “Auto Off"
+
+> No countdown timer.
+
+52 Switch “track control” OFF to inhibit
+
+Page 62 0f 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 63 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+53 Verify functionality of “Off” mode
+
+Change operation mode to O,
+
+> Verify Off LED is iluminated
+
+> No alarms should activate and system remains
+dormant.
+
+»  NAVGARD displayed in LCD.
+
+> No countdown timer.
+
+54 Verify functionality of “Port Security”
+
+mode
+
+Change mode to Port security
+
+Enter Entry/Exit time as 2minutes
+
+> Verify Port security LED illuminated
+
+> Verify stage 1 LED blinks for 2minutes to prompt
+bridge exit
+
+> PIR's detect intruder after 2 minutes
+
+> PCB buzer sounds to indicate password required
+for mode change.
+
+> If mode not changed within 2 minutes Alarm
+sounds.
+
+55 Disable “Port Security” mode
+
+Change mode to ON
+
+> Alarms reset
+
+Communications Test with VDR connected
+
+Date  Test Pass Criteria
+61 Identify Data logging by VDR of Stage 0 | No corrupt data and Garbage values viewed
+alerm “SBNALR, ,000,V,A,C1=MAN;C2=03;C:
+C6=0*25"
+62 Identify Data logging by VDR of Stage 1 | No corrupt data and Garbage values viewed
+slrmas seen insection 5.1 “SBNALR, ,000,AV,C1=MAN;C2=03;C:
+C6=0*24"
+63 Identify Data logging in VDR of Stage 2 | No corrupt data and Garbage values viewed
+alarm as seen in Section 5.1
+“SBNALR, ,000,A,V,C1=MAN;C2=03;C: 4=0,C5=0;
+C6=0%27"
+
+Page 63 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 64 of 72
+==================================================
+navgard
+
+Navgard™ Operations Manual
+
+nazen
+
+6.4 Identify Data logging in VDR of Stage 3 | No corrupt data and Garbage values viewed
+alarm as seen in Section 5.1
+“SBNALR, ,000,A,V,C1=MAN;C2=03;C3=3; C4=0;C5=0;
+C6=0%26"
+65 Identify Data loggingin VDR of when | No corrupt data and Garbage values viewed
+tamper activated
+“SBNALR, ,000,V,V,C1=MAN;C2=03;C:
+C6=0*33"
+66 Identify Data loggingin VDR of when | No corrupt data and Garbage values viewed
+mains fail. activated
+“SBNALR, ,000,V,V,C1=MAN;C2=03;C3=0; C4=1;C5=0;
+C6=0*33"
+67 Identify Data loggingin VDR of when | No corrupt data and Garbage values viewed
+officer call activated
+“$BNALR, ,000,A,V,C1=MAN;C2=03;C 4=0,C5=0;
+C6=1*26"
+68 Identify Data loggingin VDR of when | No corrupt data and Garbage values viewed
+emergency call activated
+“SBNALR, ,000,A,V,C1=MAN;C2=03;C3=2; C4=0;C5=0;
+C6=1*26"
+SD Card (if Applicable)
+Date  Test Pass Cri
+69 Identify logging by SD Card of Stage 1 | No corrupt data and Garbage values viewed
+alarm, as tested in Section 4
+610 | Identify logging by SD Card of Stage 2 | No corrupt data and Garbage values viewed
+
+alarm, as tested in Section 4
+
+Page 64 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 65 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+MARINE
+
+611 | Identify logging by SD Card of Stage 3 | No corrupt data and Garbage values viewed
+
+alarm, as tested in Section 4
+
+Warranty Labels
+
+Date Test ss Criteria
+
+7.1 | Add anti-tamper warranty labels to | All peripherals should have anti-tamper warning
+
+all Peripherals and their respective | stickers over access screws post commissioning
+
+terminals.
+Any attempts to access these would result in
+approvals and system warranty being void.
+7.2 | Add anti-tamper warranty labels to | No unauthorized access to control panel.
+
+control panel and their respective
+
+Any attempts to access these would result in
+terminals.
+
+approvals and system warranty going void.
+
+Signature of Acceptance
+
+Martek Other commissioning Client / Surveyor
+
+Approved Engineer Engineer (if applicable)
+
+Print Name
+
+Signature
+
+Date
+
+Page 65 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 66 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard naze
+
+MARINE
+
+Appendix D - Technical component Specification
+
+Dimensions Cable Entry 13
+
+Temperature }
+(WxHXD) Rating
+
+Console panel -20°Cto +70°C | 220 x 280 x 160mm 12x M20
+
+23kg | 24v/60mA
+
+TSl 20°Cto+70°C | 280x250x135mm | 12xM20 | IP66 | 3.0kg | 24v/60mA
+PIR Directional 10°Cto455°C |  86x60x38mm Fixedto JB P44 | go7kg | 12v/12mA
+1xor 2x M20
+
+PIR 360 -35°C to +55°C 113x30mm Push out P44 | 0125 kg | 12v/10mA
+IO LTl 20°Cto+70°C | 94x94x8lmm | 1xor2xM20 | IP65 | O.3kg 12v
+EULC Il 20°C to +70°C | 150x150x120mm | 1xor2xM20 | IP65 | L5kg 12v
+
+sounder/seacon [ ITAIS 92x115mm Ixor2xM20 | P21 | ggy | 1828v/
+4oma
+
+—— 20°C 0 +70°C 95 x95mm Ixor2xM20 | P21 | ggy | 1828v/
+40ma
+
+Page 66 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 67 of 72
+==================================================
+Navgard™ Operations Manual
+
+navgard e
+
+Appendix E - Peripheral devices Detail
+
+360 PIR
+
+PCB KEYHOLE ADJUSTMENT SLOT
+
+LFTARLED AL 12V v _TeeR
+
+©|o|0|o|o|o|@
+
+A B CDODEFGH
+. TERMINAL BLOCK
+
+TAMPER SWITCH
+
+Page 67 of 72 Copyright © 2010 Martek Marine
+
+==================================================
+PAGE 68 of 72
+==================================================
+Navgard ™ Operations Manual
+
+Om 2m 4m 6m 8m  10m
+o 7" 131" 198" 262" 329"
+o
+
+329"
+
+198"
+
+ISER b
+
+Page 68 of 72 Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 69 of 72
+==================================================
+navgard
+
+Navgard ™ Operations Manual
+
+nazen
+
+Directional PIR
+
+@ setect the mounting location.
+
+Mounting Location Guidelines
+
++23m (76") mouning height
+Avoid Grect o reflected sunlght
+
++ Aim sensor away fom windows or heating!
+caoling devices.
+
++ Sensormust have a clear Ine-ofsight to
+proteciad area
+
+© separate the sensor housings and re-
+move the printed circult board (PCE).
+
++ Use a smallscrewdiiver to
+push in the housing latch
+atthe bottom of the sensor,
+and gently pull apart the
+housings.
+
+b4
+
+-
+
++ Push outward on the
+PCB latch and It the
+PCB out of the hous.
+ing.
+
+® wount the unit.
+
+Wiring Knockouts
+
+Wire Channel
+
+ Side the wire trough the wira channel and ire
+access inthe back housing
+
+« Mount the back housing fal a
+comer.
+
+« Replace the PCB.
+
+inst a wallorin a
+
+® wirethe unit.
+
++ Connet wires as shown using 0.64 - 163 mm?
+{1410 22 AWG) wire size. Obsorve prope
+polart,
+
+Page 69 of 72
+
+Switen —
+
+Aarm
+[
+
+)
+« Configure the IS-215T for the sensitviy best
+suted to the appication.
+
+SENSTIVITY  SwiTCH Sw2 POSITION
+LT — il
+I omal e saeT7) o
+
+© Walktest the sensor.
+
+High Sensitivity: 24 Steps
+
+(Pue Count )
+— °
+
+g4 - ‘;
+- J
+
+Low [Normal] Sensitvity: 35 Steps
+
+ol
+o
+<+
+O
+I =
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 70 of 72
+==================================================
+navgard
+
+ALARM LED DISABLE
+
+After walk-testing the sensor, disable the alarm
+LED by turning Switch $1 to the OFF position.
+
+SPECIFICATIONS
+
+Range:
+
+12mx12m
+
+40 x 40
+
+Power requirements:
+
+10- 14 VDC, W/LED - Alarm:
+10mA max.; w/o LED - Alarm.
+7mA max,; 12 VDO
+
+3V peak-to-peak at nominal
+12VDC
+
+Alarm relay:
+
+Form A SPST,
+
+90 mA, 16 VDC,
+
+15 Ohm protective resistor
+Tamper switch
+
+Closed with cover in place
+05A,30VDC
+
+RFl immunity:
+
+30V/m
+
+10 MHz - 1000 MHz
+
+PIR White light immunity:
+6,500 Lux
+
+PIR sensitivity:
+
+Switch selectable
+
+low [normal] (pulse count 2)
+35 steps.
+
+high (pulse count 1) 24 steps
+
+Navgard ™ Operations Manual
+
+PIR fields of view:
+
+dual element,
+
+44 long range zones
+
+14 intermediate, 8 lower,
+
+4 look-down
+
+Operating temperature:
+10°Cto +55°C (14°F 10 131°F)
+Relative humidity:
+
+5% to 95% noncondensing
+Dimensions:
+
+857 cm x 6.03 cm x 381 cm
+(3:3/8"H x2:3/8'W x1-1/2'D)
+Weight:
+
+66629 (2.3502)
+
+Packaged Product is 92.14 g
+82502)
+
+Approvals/listings:
+CE
+
+cULus
+C-Tick
+
+EN 50131-1
+
+Security Grade 2
+Environmental Class
+
+Important: For UL Certificated installations, the 1S215T must
+be connected to a UL isted power supply or UL listed control
+unitcapable of providing a minimum of four hours of standby
+
+power.
+
+Suitable for connection to an EN 60950 Class Il Limited Power
+
+Source.
+
+Page 70 0f 72
+
+nazen
+
+DETECTION PATTERNS
+
+TOP VIEW
+Wide Angle Lens
+
+o 7
+
+120 27 33 40
+6m
+
+am
+
+2m
+
+2m
+
+4m
+
+0 2m 4m &m 8m 10m 12m
+
+SIDE VIEW
+Wide Angle Lens
+
+0 7 13 20 27 3 4
+
+NS .
+
+o |2m am 6m 8m 10m 12m
+
+2.3m (76}
+
+Intermediate
+Long
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 71 of 72
+==================================================
+navgard
+
+Navgard™ Operations Manual
+
+nazen
+
+Beacon Sounder
+
+Tone *) Allerating Toves, 330/970Hz 0@ 247
+Grerational Perfomance Max. 24V DC
+
+|
+o Toncs cm‘m,..c.mhm. o [Tenes Cade Ouuicurrenlcument
+12345 (377 | (0A)% [imAi®s 12345 (@B [ Ars |(mAYs |
+1 | Atsmaing Tones 0070 Hz atokz 111 | B | A1 230 17 Intemilient 60z 1.8 sec.or 113 320 oF (01111 | 96 | 125 239
+2 | Sweoping B0OR/0 izt 7Hz wme| s | 61 257 |18 |Intennitent 60042 6.5 sec. on 13 s3c. oF |IMIC| S8 | 128 Y
+3 | Swanpiag BOETC -zat (Hz 101 | 0 | 145 252 || 9 |Cortnuous s6orr 2111|8515
+1 Cenlirucus a: 2950H2 1100 | 110 | 374 356 || 20 |Aewaling 354440 Hz at 1z 210|100 | -47
+5 | Swapping 2400 - 2850 He al THz 01 | 00 | 254 | 350 | |21 | intermitent 660Hz of 147 01011 | 95 | -3
+6 | Sweepina 2400 - 2850 Hz U 1H? w10 | 11z | 242 | 386 | |22 |intermitient 20501z 133ms on 00ms off |07010| 1 | -6.1
+7 | Slow Vahoos 11001| 101 | 147 | 258 | |23 |Sweep80c - 970 Hz at50Hz o001 | 88 | 477
+3 | Sveep 1200 - 500 Hz at 1Hz Ttooc | 100 | 157 | 262 || 24 |Swesp 240y - 2080 Hzatsol iz oo00| 19 327
+5 | Alleriaing Tones 24002850 Hzal 2Hz | 10111 112 | 264 | 357 | |25 |Infermilion- 970Kz 300ms on /500me off_ QU111 | 102 130
+10 |Inerrite™ Tones of 470Kz ot fhz | 101ic 10z | 190 | 248 || 26 |Interritier: 2850Hz 500ma on /500ms i 00110 | *14 135
+“1 | Aternaling Tones 800970 Hz at tHz  |10101 103 | 162 | 748 | |27 | Continuous at 4kHe 00101 (108 | 265
+“2 | nterm tem T1es of 2850Hz at 1Hz  |10100| 114 | 137 | 306 | |26 |intermiten: 400kz 520mson/500ma = Goi00| 98 | 132
++3 | 870z at 14 se. cr, 1 sec. ¢ woott| oa | 13| 235 | |20 |Intervitant 400Hz 530ms on/250ms 3 00¢11 | 95 | 135
+14 | Continuous ol €70Hz 0010| 106 19.8 | 250 | |20 |Sweepirg 3214480 H at 40Hz aociol 85 | 160
+16 | B5dHizfor 100ms and 440Mz for 4Comes |19007| 47 45 | 231 31 Irlemnient 2kbz 200ms on fSU0ms ot 0001 08 | 10
+1€ | Ircrmitont 880K 180ms on /16075 01| 1pu0| w3 47 | 234 32 Of coca0
+|
+
+= Onig 14781 and Tone2 a0 “1Typ cal Sound O.tput 21V at Im.
+
+= Typice! Canet o AHD3127-3.
+
+Lrs aogroved. Min Scund orasure vl all %, Typi Curantor AR-D3127-35.
+S T o el 78057
+05 w5
+8 o
+| 51 Sound Outgut Tone:Swien
+%45 5 LU toroNis 0", to numeric
+o @ vy PO
+153 %3 3 7 s
+NeUT
+“Tone 2i Swaeping Tones, ANOMGTOHZ @ 7Hz
+gy e, BEMPOED —TojeT Sound Output Level
+Operz:0-al Perfermanea Max. 24V CC SOUNDER
+e | SER ESTR ®92mm
+T 05 783 o ]
+i ] s ingross Procton: » )
+523 o iz (R, |2
+05” &2 83 g
+1387 ] sa3 El
+165” 52 w1 = —
+
+Page 71 of 72
+
+Copyright © 2011 Martek Marine
+
+==================================================
+PAGE 72 of 72
+==================================================
+. Navgard™ Operations Manual a
+navgard nazien
+
+)
+
+Onboard PIR
+
+JRISpRm—
+
+-
+
+s i s detochn o
+oot o e ooty o nthodagnon s Tame — R
+K er el e bty 134200 Tose W Tosame |
+
+g sl s cncelceac i, s e case I 4
+
+ot . sy ha e bt ot 50 dtaied e
+s o] Ut
+
+Copyright © 2011 Martek Marine
+
+Page 720f 72

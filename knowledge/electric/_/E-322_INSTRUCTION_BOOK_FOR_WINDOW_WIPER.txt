@@ -1,0 +1,1313 @@
+FILE: E-322 INSTRUCTION BOOK FOR WINDOW WIPER.pdf
+FOLDER: .
+DATE: 2026-03-06 22:03:40.014118
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FﬁBNDERS TENACITY
+
+INSTRUCTION BOOK FOR
+WINDOW WIPER
+
+This techmical document is the property of
+
+K ki Heavy Industries, Ltd (K1) and may
+ot he copied, nor disclosed o any third party
+without KIs prior w
+
+E - 322
+
+SCALE — ‘JOEN(} =
+3 |
+
+KAWASAK! HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+145
+
+--- PAGE 2 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+Fr
+
+INSTRUCTION BOOK FOR
+
+WINDOW WIPER
+
+withoul 1K1
+
+dacument i the praperty af
+caki Hleavy tndustiies, L (KTH) and may
+
+MANAGER
+
+CHIEF
+
+CHECKED
+
+E - 322
+
+DWG N
+
+SCALE
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+BRI
+
+KAWASAKI HEAVY INDUSTRIES, (.70
+
+7 SHrETs moC coven
+
+--- PAGE 3 ---
+MESSRS.
+
+DT B %
+KAWASAKT HEAVY INDUSTRIES,LTD. e
+
+T®F% WORK NO.
+
+hEF SHIP NO. 1456
+
+| E 7 A4
+ELECTRIC WINDOW WiPER
+
+FINAL DRAWINGS
+
+ABRTERBUASH
+KRHEZFHAMKITHI -5
+
+WA (06)581-81218 (ft)
+FAX. (06)584-2344
+
+OSAKA NUNOTAN| SEIKI €O0.,LTD.
+
+1-5 3-GHOME CHIYOSAKI NFiSHIKY OSAKA
+TEL. (08)591-8121 FAX. (0B)584-2344
+
+--- PAGE 4 ---
+[ 342970
+® gk - R #
+COMPONENT LLST
+geup N? ‘]456 DEH% '95.10.16
+
+[
+WAME OF DEVICE
+
+T @
+ELECTRIC WINDOW WIPER
+
+7
+
+4
+
+2
+
+4
+
+( EWP-036SH & BWP-6TH-THK )
+KE NASS ke
+REEYS k) o3 8 # =
+NO. | DWG. NO. NAME OF COMPONENT NO. | F E | R | REMARKS
+REQ. [ APPROX [ ACTUAL
+¥ H %
+1 — SPECIFICATION TABLE — — — -
+NE B o7 o4 PENDULUY
+2 | WP1-3212  BLECTRIC WINDOW WIPER 2 |12x2 | 12x2 | TYPE
+( EWP-036SH )
+o’
+3 | WP0-4268 | CONNECTION DIAGRAM — — — —
+AA v FHE
+4 | WP4-4328 | SWITCH BOX 2| 3x2 3Ix2
+(WF 2 H)
+! ® H %
+5 — SPECIFICATION TABLE — — — —
+E #H v 4 N HORIZONTAL
+6§ | WP1-3298 KELCTRIC HINDOW WIPER 160 60 TYPE
+ EWP-6TH-THK )
+# B )
+7 [ WP0-4342 ; CONNECTION DIAGRAN — — — -
+A4y FH |
+8 | WP4-4424 | SWITCH BOX 116 [S]
+- (HFH-K)
+F W OROE (GEH)
+9 | WP6-4208 | SPARE PARTS LIST (BOX) 1] 2 335
+(s-5)
+4C220V
+OSAKA NUNOTANI SEIKI CO., LTD
+
+--- PAGE 5 ---
+SPECIFICATION TABLE OF SWING TYPE ELECTRIC WINDOW WIPER
+
+B X % ¥ v 4 o B B %
+1. 1PE B &
+HISHBEFITTHE TYPE— PHIFIR 8-
+FBHP—D2E— 1 EWP—(265——-BWA-026H—EWP-0265H-
+| -6-HE-6K - -
+OUTSIDE FITTING TYPE A BERAE
+EWP-036 EWP-036S | EWP-036H | EWP-0365H
+CHECK Z sers
+2. NO. REQ. & B 2
+3. POMER SUPPLY / ¥ & AC220V 1¢ 58/60H
+4. COLOR R WIPER BODY 9 4 stikik N-9.0
+(HUNSELL 80, =¥ & A &E)
+SHITCH BOX %4 » 5% 7.5B867/2
+5. CLAND SIZE FIvEHAX NO. ¥ -20-  25b
+6. ARM LENGTH 7—hEE " A " DINENSION
+400 | 450 500 550| 600 | 650 700 756 800
+l CHECK O
+7. BLADE LEN6TH 7 v —FEX " B " DIENSION
+300{ 350 | 400 450 | 500 600
+[cHECK O
+8. CLEAR WIDTH Hem " C " DIMENSION c =800
+9. SWING ANGLE HEmE " o " DIHENSION «=60
+CHIN. 40" ~ MAX. 907, BN 40 ° ~ ¥X 90 ") —
+10. WIDE CYCLE Heay —S55EYEHEAMHE  , 10~55:5 CYCLE/HIR.
+1 1. MOTOR CURRENT - Rk 0.3 A
+1 2. HEATER WATTAGE :t—# % 100 W
+
+--- PAGE 6 ---
+=) i o v = [ S
+
+1 TIING PLATE (3 41 % zecl 4
+
+2 fser ¢ % f1 lssesssied fssin
+
+3 [eoor o ) wogalenr |
+aleacmine  (reasy ) [semercroter leman
+
+5 jcovir o o i Cast 20
+
+& Ui tuzzoapda ] —— [ —— | i
+> |eran ot (7377274 1 lproree Casting |5ca
+
+5 N GEAR (S 8Ny 1 —
+
+s loianp 1 iptastic 5747 |
+19 Jean b+ {orass hog 36080
+
+11 sum ARm e csrtess Seal |2:530
+
+12 fiepmimar — T
+13_uomn —
+
+16 |spRing stiriess Seesl _Jsusine [wea
+
+15 |aem Susctsss Siet|5uS
+
+16 [sLace mivetc Auboer | B 32]
+
+M,
+ko)
+TYPE |EWP-0364.q:
+r ooy Ton 2 F T
+)| 10 Wi -
+g mge g 7| l’ﬁ'"l N ELECTRIC WINDOW WIPER
+] ' GLAND SIZE SEE SPECIFICATION TABLE | . Ni\ | CRED 7 ANy
+) COLOR [ ) ”»_O‘ — — o
+AEHERE AR &L oo 3212
+) "01-20 | osaxi nunoTAI ELITIC A ) 5 Jw | WPI321
+
+--- PAGE 7 ---
+a
+
+WINDOW WIPER (2% 71/
+
+OPERATION TEMP,
+ON<20%3C
+QFF>30%5°C
+
+ST
+
+THERMUOSTAT
+(H-TRFw )
+
+HEATER
+
+X L«ﬂ (-5
+
+|
+
+[3.4 DR l
+
+SPEZD CONTROL RHEOSTAT
+AW EATLEAED
+
+20K
+
+e conroL umir 2 ":‘ Tom
+(ERFAE=-,1) 2
+g g S$S22M 10 S ©
+
+BATE
+J 1988-01-30
+
+SW[TCH BOXCRAw+% D
+
+AC2
+
+20V
+
+ELECTRIC
+
+CB T AN
+
+—— | SCAE (R ]
+( £9)
+nsnn T SEIXI CO.,LTO.
+
+18 5&/60HZ
+CONNECTION CIAGRAM
+
+[——|aw ) WPO -4268
+
+FOR
+WINDOW WIPER
+
+= 40D
+
+OGN
+
+3A3—28 = um
+
+--- PAGE 8 ---
+<
+
+T T
+%o MAUE OF PARTS gg&‘ MATERTAL REMARKS
+1] BODY { & ) 1 REEMQ}.%UME‘I ACTAF
+2| COVER (s w1 oo 00
+3| SPEED CONT. UNIT( s #iseis= = » 1)l 1
+4| NAME PLATE ) ALUMI. PLATE | A1050F
+5 | FUSE HOLDER ) Pl
+6| SWITCH ) 2 | ATK 01
+7| SPEED CONT, KNOB{ s iz 49 4 7% )1 -
+8 | TERMINAL BOARD ( wpm )1 KST20
+9 | NEON IND. LIGHT (ot Ry )| 1 BN-35
+A [wiNDOW WIPER]
+b 3 [SWITCH FOR HEATER
+o! <
+P
+=Y
+8 )
+w0
+i
+
+4-7 BOLT HOLE { & 4 &)
+
+LPANEL CUT S~
+
+T
+f f i
+! | b
+| ! o
+| ! w| N
+()| ( =
+‘\ e | 1
+i =t / 6 TAP
+ECOAMmG‘zoxeo 4-ME T
+168 (x208) g
+COLOR : SEE SPECIFICATION TABLE( MB®EE® ) TYPE [ WF2H
+[ CHECK ORAWN SWITCH BOX FOR
+”;,’5 ELECTRIC WINDOW WIPER
+{ﬂ‘/w - BE BB 74— x4y P H
+u 3~
+OATE SHE RBD | owono
+
+Tai_eB  mrwm
+
+--- PAGE 9 ---
+SPECIFICATION TABLE OF HORIZONTAL TYPE ELECTRIC WINDOW WIPER
+
+RYH A BY 7 4R
+
+B %
+
+1. TYPE ¥ #®  COUTSIDE FITTING TYPE  TWIN BLADE SYNCHRONOUS MOVEMENT TYPE
+SRR
+
+27—
+
+FHBEX BB
+
+~BHP-6T-RHK——BHR-G7T-THK——BWP—67WK- | EWP-B7H-RWK | EWP-67H-THK | EWP-GTH-URK
+
+CHECK
+
+o]
+
+2.
+
+10.
+
+. ARM LENGTH T—hEX "A"™ DIMENSION (" A
+
+NO. REQ. A B
+
+. POWER SUPPLY_~ HtidRiR A
+
+C220V 10 5660k
+
+. COLOR it WIPER BODY : N-
+
+(UNSELL NO. = veaEs)
+
+SWITCH BOX ¢ 7
+
+§. 0 (WHITE) ONLY
+SBG7/ 2
+
+. GLAND SIZE F3VEE4R NO.
+. STROKE LENGTH RAPu—2EE " St "DIMENSION ('S
+
+25b
+t ")
+
+RWK TWK
+
+1600]1800|2000)2200
+
+2400(260¢
+
+CHECK @)
+
+4507500550, 600|650
+
+760
+
+CHECK O
+
+. BLADE LENGTH  7L—FEZ "B DIMENSION ("B
+
+400 450 500
+
+6090
+
+CHECK
+
+. WIPE CYCLE B
+
+36000
+0~1.2m/ sec. [ m cycle / min.
+t +
+
+YoToR ==y ELECTRONICALLY CONTROLLE
+BFHEA Y5V a
+
+RATING B
+
+{ roroe cumsmr
+
+OUTPUT Y]
+
+. HEATER WATTAGE t-#&R
+
+D INDUCTION HOTOR
+vEe—45
+conmuous pt
+
+0SAKA NUNOTANY SEIKT CO.,LTD.
+
+--- PAGE 10 ---
+2 MATERIAL TRERARIS, |
+
+1 AR KLY CAST. [ ACTA-F.
+[ 2] FIXTORE SR 5]
+
+8O0, 511 [AUMINIE ALLOY | A50528.
+4 [cover ] Y 2=
+AL 324 ) 2 [SIANLESS STERI_{SUs304
+
+5] s 3| 2 JAth b MDY PATE [ASOS2P.
+2 & )
+] AT AT
+=2 1 [rcrem At e | ACTAF
+
+10 1] DO. 0o
+Hi EREN [Ssa1___[5n0,16
+2 .
+[BER! 1
+
+14 4
+154 2
+BEA 2
+
+17 5
+B 1
+
+18 2
+
+204 2
+fRL 2
+
+RWK} 1600 /1800 | 2450
+
+WT”/K 2000,/2200-| 2850 |
+\LJW&l 2400,/2600 | 3250
+
+TATBVST .
+Gimip sizE - SEE SPCIFICATION TABLE (B &%)
+
+TYPE | EWP-G67H SERIES
+
+i - Jm:x— EIITT]
+
+e
+K ‘ﬁ,\ -+ ELECTRE WIROOW WIPER
+S R
+
+BRHRH w e
+__&:ﬁmﬂ SEIKI co..LTo| ! qu 98
+
+--- PAGE 11 ---
+WINOOW WIPER (B4 7 413)
+MQTOR UerT HEATER UNIT
+
+HEATER (k-7
+
+4
+
+THERMOSTAT
+D/%’*/’ T (r-€x9vF)
+
+OPERATION TEMP.
+ON < 20+ 3°
+
+i ; ! OFF> 30+ 5°
+- T - 7 - !
+
+CONNECTED BY MAKER
+UF- 71 7 5% A R )
+SHIPYARD SUPPLY (35 %) P BX P %)
+
+| - -
+
+NEON_INDICATOR LIGHT
+F A RTRT)
+
+N
+[
+IS
+o
+3
+~
+E3
+
+H2E
+
+2C
+
+SPEED CONTROL UNIT
+
+SWITCH BOX (244 #a)
+AC 220V 19 56/60HZ
+
+X T T CONNCTION DIAGRAM FOR
+rﬁl ELECTRIC WINDOW WIPER
+W e o400 xE 450D
+! AREERBRRAR TERE T4 Jowcao)
+gy 199371202 oS RHOTANI SEIKI €O, , LT, — an ‘ WPO-4342
+
+3A3—2R ==
+
+--- PAGE 12 ---
+¢
+
+1 ng. [ _NAME OF PaaTs TAEL] MATERIAL | REMARKS
+FITTb om 15=6) o . 1 55400
+[CZEEED ! auor e
++ 4 | 2 | COvER [y .00,
+3| speep conr. it (RREE e
+4 |wave PLATE (8% MR _ -
+5 | FUSE HOLDER  (ci.z'twg- Fi
+6 | NEON IND.UGHT _(3{v LT BN-35
+7 [ SWITCH o Z4 4 !
+9 | speep cony. knop (PRIEN | 5
+10ﬁERM»NAL FET VR _
+At SPEED
+B! WIPER
+C: HEATER
+= At
+L 245 ||[N\A-9$65 soTHOE
+=
+265 Bz 44 50
+
+115
+
+165
+
+TYPE HFH-K
+s = _T o GRATR SWITCH BOX
+
+o ,55} ) FOR
+e
+i" - ECTR DOwW
+N > Y el A E( TRIC wﬂlN WIPER
+
+AESSMORRan [ SAE R Jowe o _
+oSAKE AT SR T LD, 1,5 |@m WP4-4424
+
+1993-12-02
+
+3A3—38 w0
+
+--- PAGE 13 ---
+70
+
+BOX NO. L
+sup o SPANE PARTS LIST FOR use e
+2
+1456 |ELECTRIC WINDOW WIPER
+® w7 g A 1
+quanTiTy Remancs
+1TEMm NAME OF WORKING
+NO. PART OUTUNE pen | pER SPARE|
+G | ves
+R BUE ) e
+! TR =T - ! 2 2
+EWP-036SH
+2 SPRING [ e W ) Vlote
+27Uy
+”
+HEXAGON WRENCH [ewmE)
+3 KEY [ [ I
+ANRBR
+4
+NCO 5A
+FUSE 105
+4 S ) [ 41818
+38 4
+T ——=——
+5 A B=T L —F 21212
+4| EwP-e7H-TWK
+|
+SPRING — |
+8| T uva = 21212
+i
+FUSE T Y NCO  5A
+T eai=x - Jrros 2l2|2
+k] R -
+NCO 10A
+FUSE $10.5
+8| Ea=% 3 I 2l2|2
+38 4
+SPARE PARTS ) ) MATERIAL - STEEL
+1 0x - —| ¢ LR
+O =man Q—;ﬁ ! "R 9‘
+MER'S NAME i 0SAKA NUNOTANI SEIKI CO.. LT, oRw. No. WP6-4208
+
+3A3—68B 2w
+
+--- PAGE 14 ---
+INSTRUCTION BOOK
+FOR
+ELECTRIC WINDOW WIPER
+
+OSAKA NUNOTANI! SEIKI €O., LTD.
+
+--- PAGE 15 ---
+CONTENTS
+
+General
+
+Components
+
+2-1 Electric Window Wiper
+
+2-2-1 Speed Requrator Box
+
+Licable to EWP-26S, EWP-26SH, EWP-265/D
+Applicable to pup 365) EWP-36SH, EWP-365/D
+2-2-2 Switch Box
+
+- . P~ D
+Applicable to DWE=26, EWP-26H, EWP-26/
+
+EWP-36, EWP-36H, EWP-36/D
+2-3-1 Spare Parts
+3-2-2 Spare Parts
+
+Mechanism and Operation
+
+3-1 Electric Window Wiper
+
+3-2-1 Spee@ Regulator Box
+Applicable t EWP-265, EWP-268H, EWP-265/D
+ppiicable to pup_365, EWP-36SH, EWP-365/D
+
+3-2-2 Switch Box
+
+5 EWP-26, EWP-26H, EWP-26/D
+Applicable o pun 367 myp-36H, EWe-36/D
+3-3-1 Window Wiper with Heater
+
+Applicable to EWP-26SH, EWP-36SH
+
+3-3-2 window Wiper with Heater
+Applicable to EWP-265, EWP-36S
+
+Installation
+
+Maintenance and Checking, Replacement Parts
+
+5-1 HMotor and Speed Reducer
+5-2 Condenser
+
+Link Rod
+
+Arm and Blade
+
+woo W
+(
+»oa W
+
+Speed Regulator
+
+EWP-265, EWP-26SH, EWP-25§5/D
+EWP-36S, EWP-36SH, EWP-36S/D
+5-6 Heater and Thermostat
+
+EWP-26H, EWP-26SH
+EWP-36H, EWP-36SH
+
+Applicable to
+
+Applicable to
+
+--- PAGE 16 ---
+1.
+
+General
+
+This electric window wiper is installed on the window of
+
+the wheel house to wipe off the rain water or sea water:
+
+splash in order to get clear view for safe sailing or
+
+watching.
+2. Components
+2-1. Electric Window Wiper
+
+{1} "Main Body
+(2) Arm and Blade
+
+(3). Plate
+
+(Needed for EWP-26, EWP-26S, EWP-2&H,
+
+EWP-26SH, EWP-26/D, EWP-26S/D that
+are inside fitting type.)
+
+2-2-1 Speed Regqulator Box
+
+EWP-26SH, EWP-36SH,
+
+<EWP—255, EWP-368, )
+EWP-265/D, EWP-36S/D
+
+2-3-1 Spare Parts
+
+(1) . Wiper Blade
+(Number in
+service)
+
+(2) Spring
+(Number in
+service)
+
+{3) Link Rod
+(Number in
+service}
+
+{4) Puse Case
+(Number in
+service)
+
+(5) Fuse Element
+{Double of
+number in
+service)
+
+(6) Spare Parts Box
+
+2-2-2 Switch Box
+
+EWP-~26H, EWP-36H,
+
+(EWP-—ZG, EWp-36,
+EWP-26/D, EWP-36/D
+
+2-3-2 Spare Parts
+
+(1) Wiper Blade
+(Number in
+service)
+
+(2) spring
+{Number in
+service)
+
+(3) Link Rod
+(Number in
+service)
+
+(4) Spare Parts Box
+
+--- PAGE 17 ---
+3. Mechanism and Operation
+
+3-1. Electric Window Wiper
+
+The electric motor, crank mechanism, shaft bearings, con-
+densers, terminal board, are installed in the main body of
+
+this window wiper.
+
+The principle of operation is that the electric motor drives
+the rotating disc and the rotary movement is changed to
+reciprocating motion by means of crank mechanism.. This
+reciprocating motion conveyed by the shaft from the rear
+side of the main body drives the arm on which the blade is
+
+nounted.
+
+The arm head is fitted on the end of the shaft by a bolt.
+In case of outside fitting, a sub-arm is fitted on the
+
+bearing case with sub-arm pin. In case of inside fitting,
+
+a plate is installed on the outside of the fitting surface
+of the wiper. The sub-arm pin is fitted onto this plate,
+and the sub-arm is fitted on this pin. The arm and sub-
+
+arm are connected with the fitting bolt at the blade.
+
+The purpose of the sub-arm is to let the blade swing in
+
+parallel fan-type motion.
+
+Synthetic rubber is used for the blade touching the glass,
+and the blade arm is spring loaded to obtain good contact
+of the blade to the glass. Adjust this spring to get
+
+proper contact pressure.
+
+--- PAGE 18 ---
+3-2-1 Speed Requlator Box
+
+EWP~-265H, EWP-36SH,
+
+(EWP—ZES, EWP-36S, >
+EWP~26S/D, EWP-36S/D
+
+The speed regulator box
+consists of the fuse,
+transformer (when the power
+supply is other than AC 100V)
+and speed regulator.
+
+The speed regulator can
+steplessly control the wiper
+from 0 to 60 cycle/minute.
+When the power supply is
+other than single phase 100V
+AC, 50/60Hz, the transformer
+is used to step down to 100V.
+The speed regulator is a
+variable resistor to control
+the input power to the wiper
+
+motor.
+
+Note: When the wiper is
+running while the
+window glass is dry,
+the motor may over-
+load. Aveid such
+
+running if possible.
+
+3-2-2 switch Box
+
+EWP-26H, EwWp-36H,
+
+(EWP—ZE, EWP-36, >
+EWP-26/D, EWP-36/D
+
+When the switch is turned
+from "Off" to "On", the
+
+wiper is switched on.
+
+Note: When the wiper is
+running while the
+window glass is dry,
+the motor may over-
+load.  Avoid such
+
+running if possible.
+
+--- PAGE 19 ---
+3-3-1 Window Wiper with
+Heater
+
+(EWP-26SH, EWP-38SH)
+
+The heater is fitted inside
+of the main body. When the
+arm and drive shaft is
+frozen, switch "ON" the
+heater to melt the ice.
+
+A thermostat is fitted near
+the heater, and it is OK to
+keep the switch "ON", but
+it is better to switch "OFF"
+the heater, when the wiper
+
+is running normally.
+
+Note: Avoid the use of
+heater except in
+frozen state.
+
+Avoid if possible
+the use of heater
+and motor at the same
+
+time.
+
+3-3-2 Window Wiper with
+Heater
+
+(EWP-265, EWP-365)
+
+The heater is fitted inside
+of the main body. When the
+arm and drive shaft is
+frozen, switch "ON" the
+heater so that the ice
+melts and normal xumning
+
+is possible.
+
+A thermostat is fitted near
+the heater, and it is OK to
+keep the switch "ON", but
+it is better to switch
+“OFF" the heater when the
+
+Wiper is running normally.
+
+Note: Avoid the use of
+heater except in
+frozen state.
+
+Keep the switch "OFE"
+
+when the wiper is not
+
+in use.
+
+--- PAGE 20 ---
+4. Installation
+
+EWP-36, EWP-363,
+(EWP—BGH, EWP-36SH, )
+EWP-36/D, EWP-36S/D.
+
+Install the electric wiper
+by means of 4 bolts in the
+fitting flange as shown by
+the sketch below.
+
+SUB-ARM PIN
+
+(GLS & Gas)
+
+QIL SEAL
+
+L
+|
+
+4. Installation
+
+EWP-26, EWP-26S,
+(EWF—ZEH, EWP-265H,
+EWP-26/D, EWP-265/D
+
+Install the electric wiper
+with 4 bolts onto the
+fitting flange as shown by
+the sketch below.
+
+Then install the plate on
+the outside against the
+fitting surface of the
+wiper. Use 4 bolts to
+tighten the plate in
+sandwich-like manner.
+
+"O" rings are fitted to
+each bolt from both sides
+to seal off the water:
+Alsc an oil-seal is fitted
+on the plate to get effec-
+
+tive water sealing.
+
+--- PAGE 21 ---
+5. Maintenance and Checking, Replacement Parts
+5-1. Motor and Speed Reducer
+
+A radial ball bearing is used in the motor shaft as well as
+the speed reducer shaft. These ball bearings are sealed.
+The speed reducer is filled with grease, therefore it is
+not necessary to apply oil to these parts.
+
+When it has become necessary t0 replace the motor znd speed
+reducer, open the cover of the wiper's main body ahd re-
+move the link rod from the disc, and also remove the motor
+together with the fitting base. The speed xeducer motor
+
+is an integral type and is fitted onto thé fitting base
+
+with 4 bolts.
+
+5-2. Condenser
+
+Open the cover of the wiper's main body and remove the f£it-~
+ting bolts of the condenser for replacement. Check the
+
+capacity of the condenser when replacing.
+
+5-3. Link Rod (Available as spare parts
+
+The bearing of this part is made of special alloy for bear-
+ings. The sliding surface is mirror finished to get good
+contact. Grease is filled in the cover so that oiling is
+not necessary. The reason for replacing may be that the
+matal fatigued after a long use. When replacing the link
+rod, loosen the screw of the crank disc as well as the
+
+screw of the link.
+
+--- PAGE 22 ---
+5-4. Arm and Blade (Blade is available as spare parts
+
+The oil-less metal is used in all bearings of the arm that
+are exposed on the outside. The casting parts are made o
+brass and other parts are made of stainless steel.
+
+It is normally not necessary to replace the arm, but when
+it does become necessary to replace the arm, remove it
+
+from the shaft by loosening the tightening bolt.
+
+The blade is made of good quality rubber with good anti-
+weather characteristics. By loosening the Fitting screws,
+the rubber blade can be removed.
+
+5-5. Speed Regulator (EWP—ZGS, EWP-26SH, EWP—ZSS/D)
+EWP-36S, EWP-36SH, EWP-365/D
+
+Semiconductors are used for this regulator, and they can
+
+be used semipermanently, unless there is a mistake in wiring
+or violent vibrations/shocks.. However, when replacing
+becomes necessary, remove the protector and pull it out from
+the socket. In case of DC 24V, loosen the nut and replace
+the whole unit, and avoid mistakes when rewiring.
+
+5-6. Heater and Thermostat (EWP-2GH, EWP—ZESH,)
+EWP-36H, EWP-36SH
+
+The heater and thermostat which are made of high corrosion
+resistant stainless steel are properly insulated, and are
+constructed to last.
+
+In order to avoid high temperatures during prolonged use,
+the thermostat is used to prevent insulation deterioration,
+as well as maintaining safety in running.
+
+When replacing the cover after maintenance work, close it
+
+tightly to prevent water seepage.
+
+--- PAGE 23 ---
+INSTRUCTION BOOK
+FOR
+HOR1ZONTAL
+ELECTRIC WINDOW WIPER
+
+OSAKA NUNOTANI SEtK! CO., LTD.
+
+--- PAGE 24 ---
+4.
+
+CONTENTS
+
+General
+
+Components
+
+2-1.
+
+2-2.
+
+2-3.
+
+Electric Horizontal Window Wiper
+Switch Box
+
+Spare Parts
+
+Mechanism and Operation
+
+3-1. Electric Horizontal Window Wiper
+3-1-1. Motor Unit
+3-1-2. Casing
+3-1-3. Wiper Arm
+3-1-4, Heater (Optional)
+3-2.  Switch Box
+Installation
+4-1. Electric Horizontal Window Wiper
+4-1-1, OQutside Fitting Type
+(EWP-47, EWP-67 Series)
+4-1-2. Inside Fitting Type
+(EWP-57, EWP-77 Series)
+4-1-3. Wiper Arm
+4-2.  switch Box
+
+Maintenance and Checking, Replacement Parts
+
+5-5.
+
+Motor Unit
+
+Wiper Arm and Blade
+Belt
+
+Speed Regulator Unit
+
+Heater Unit (Optional)
+
+Troubleshooting
+
+--- PAGE 25 ---
+1. General
+
+This Electric Horizontal Window Wiper is to wipe off rain water
+or splash of sea water on the front window glass of the steer~
+ing house, etc. in order to maintain a clear view for safe
+watchout and navigation.
+
+This device is designed so that the wiper arm (blade} moves
+horizontally by converting unilateral rotary motion of the
+motor into linear reciprocal motion by means of the belt and
+the crank mechanism.
+
+2.  Components
+2-1. Electric horizontal window wiper
+Outside fitting type (EWP-47, EWP-47H, EWP-67, EWP-G67H Series)
+
+1) Main body
+2) Wiper arm and blade
+
+Inside fitting type (EWP-57, EWP-57H, EWP-77, EWP-77H Series}
+
+1) Main body
+2) Wiper arm and blade
+3) Motor unit
+
+2-2. sSwitch box (Surface type, Flush type, and Panel type)
+
+2-3. Spare parts
+
+1) Wiper blade (number in service
+
+2) Spring (number in service
+
+3) Fuse (double of number in service)
+4) Spare parts box
+
+3.  Mechanism and Operation
+3-1. Electric horizontal window wiper
+
+The main body consists of the motor unit,. casing, and wiper
+arm with blade.
+
+3-1-1. Motor unit
+
+The motor unit consists of the motor, reduction gears, tacho-
+generator, and terminal board. The unit is of waterproof
+structure and at the end of its output shaft is fitted a
+pulley (for outside fitting type) or coupling (for inside
+fitting type).
+
+An electronically controlled induction motor with rated output
+of 70W is used to allow speed control. This unit is fitted to
+the wiper main body with four fitting bolts.
+
+--- PAGE 26 ---
+3-1-2, Casing (See Figs. 1 and 2.)
+
+The casing portion is composed of the main body case, belt,
+carriage plate, pulleys and rod.
+
+For the case, corrosion-resistant aluminium casting material
+(A5052S) is used., The case also serves as a guide rail on
+which the carriage plate runs.
+
+The rod, which is centered on the four roller carriage plate,
+is fixed to one point on the belt which extends between the
+driving and driven pulleys.
+
+This rod converts the rotary motion of the belt into recipro-
+cal motion, which causes the carriage plate to move between
+the upper and lower guide rails reciprocally.
+
+This motion is transmitted via the arm head and the arm to
+the blade, which thus wipes off rain/sea water.
+
+In the case of a two-blade type, the above-mentioned motion
+of the carriage plate is transmitted to an additional cax-
+riage plate. The method of transmission is as follows:
+
+A pair of pulleys is fitted outside of the aforementioned
+driving and driven pulleys, and the belt extended between
+these pulleys connects the two carriage plates. Thus, the
+driving carriage plate drives the additional carriage plate.
+
+3-1-3. Wiper arm
+
+The wiper arm which consists of the arm head, arn and blade
+is mounted to extend downward from the carriage plate.
+Synthetic rubber is fitted on the blade and an adjustable
+spring is provided in the bent portion between the arm head
+and the arm so that the rubber contacts the glass evenly.
+
+Adjust the blade pressure with this spring, as the force
+applied to the glass surface changes depending on the rela-
+tions between the wiper fitting surface and the window glass
+surface.
+
+3-1-4. Heater (Optional)
+
+During navigation in cold weather, ice often forms between the
+carriage plate and the casing, making the use of the wiper
+impossible, Therefore, a heater is provided to melt the ice
+in the casing.
+
+This heater is designed exclusively for the wiper and is not
+for window glass. Note that this heater i1s not effective when
+the blade is stuck frozen to the window glass.
+
+--- PAGE 27 ---
+Fig. 1 OME BLADE TYPE (EWP-47, EWP-57 Series)
+
+ROD BELT MAIN BODY CASE
+
+ORIVING PULLEY o 20l
+(MOTOR SIDE) DRIVING PULLEY
+
+ROLLER CARRTIAGE PLATE
+
+SERING ADJ. BOLT I i1
+
+MOTOR _UNIT
+
+1—& ARM FITTING BOLT
+
+_ARM HEAD
+
+ARM
+
+SPRING
+
+BLADE FITTING SCREW
+
+. BLADE
+
+Fig. 2 TWO BLADE TYPE (EWP-67, EWP-77 Series)
+
+/__PULLER i CARRIAGE PLATES
+
+\o
+
+BELT
+
+--- PAGE 28 ---
+3-2. Switch box
+
+The switch box contains the speed regulator, fuses, toggle
+switches, capacitor, terminal board, etc.
+
+The speed regulator carries out no-stage control of wiper
+speed within the range of 0 A maximum (which varies depending
+on types). By turning the speed regulator knob, the motor
+input is controlled for speed regulation.
+
+To stop the operation of the wiper, turn off the power switch
+{toeggle switch). When the switch is turned "ON", power shall
+be turned on to operate wiper.
+
+Turning the speed regulator knob to "HIGH" side will increase
+the blade speed, and turning it to "LOW" side will decrease
+the speed.
+
+The position of the knob can be selected without stages
+between "LOW" and "HIGH". A desired position fitting the
+condition of rain/sea water on the glass window can be
+selected.
+
+To stop the blade at a certain position, set the speed at
+"LOW" and turn “OFF" the power switch when the blade comes to
+the desired position.
+
+When the wiper is not in use, be sure to turn "OFF" the power
+switch.
+
+The operation of the wiper on a sunny day or when the window
+glass is dry, the motor may overload to cause troubles. In
+such case, sprinkle water on the glass surface while operating
+the wiper.
+
+If a heater is mounted, turn "ON' the heater switch (toggle
+switch) which will turn on power for the heater with simulta-
+neocus lighting of the heater indicator lamp.
+
+Although a thermostat is incorporated near the heater, be sure
+to turn "OFF" the heater switch when the wiper begins to
+operate normally.
+
+DO NOT USE THE HEATER unless the wiper is frozen,
+
+--- PAGE 29 ---
+
+
+--- PAGE 30 ---
+
+
+--- PAGE 31 ---
+
+
+--- PAGE 32 ---
+
+
+--- PAGE 33 ---
+
+
+--- PAGE 34 ---
+

@@ -1,0 +1,1214 @@
+SOURCE: E-13 WIRING DIAGRAM OF ELECTRIC LIGHT (ENGINE ROOM).pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:20:58.548392
+==================================================
+
+
+==================================================
+PAGE 1 of 29
+==================================================
+& | “This technical document is the property of
+Kawasaki Heavy Industries, Ltd. (K1) and may
+
+FINISHED PLAN -
+7FL§IjIDE1;§ TENAC;TS? ,7 ‘
+
+WIRING DIAGRAM OF
+ELECTREC ST G
+(ENGINE ROQM)
+
+ot be copied, nor disclosed (o any third party
+without KHI's prior written cansent.
+
+g KAWASAKI HEAVY INDUSTRIES, LTD.
+% ' 22 fd
+M forawn (B Yy fgela) SHIP DESIGN DEPT, SHIP GROUP
+. SAKAIDE -
+DATE ey =0 o ¢ 1456
+[T
+
+CHIEF
+
+MANAGER
+
+_|scaLe — JOBNO.  ——
+
+KAWASAKI HEAVY INDUSTRIES, LTO. 29 SHEETS INCL COVER
+
+==================================================
+PAGE 2 of 29
+==================================================
+P
+
+Note :
+The working plans which are referred to in this plan are revised as the
+finished plans as listed below. T
+
+Theretore the reference plan (finished plan) is to be referred to in
+
+accordance with the following list as necessary.
+
+Dwg. No. Title
+
+Rorking plan Finished plan
+
+42-101 E -~ 11 Wiring Diagram of Electric Power System
+44-101 E- 12 ¥iring Diagrem of Electric Light
+
+(Except Engine Room)
+
+44-102 E- 13 ¥iring Diagram of Electric Light
+(Engine Raom)
+
+45-101 E - 14{1/2) Wlring Disgram of Interior Communicatian
+& Nautical Equipment
+
+45-102 E - 15(1/2) ¥iring Diagram of Machinery Control &
+Instrumentation System
+
+45-103 E - 16 Wiring Diagram & Arrangement of Fire
+Alarm System Combined with General Alarm
+System
+
+47-101 E-T1 Wiring Disgram of Radio System
+
+§6-101 L-17 Riring Diagram of LPG Communication
+
+==================================================
+PAGE 3 of 29
+==================================================
+21ntass owe N0, 44-102 gt
+INDEX
+LINE ITEM PAGE REMARKS
+1 GENERAL DESCRIPTION a2
+2 LIST OF LIGHTING FITTINGS a3
+3 SCHEMA OF ELECTRIC DISTRIBUTION ca
+4 POVERING TABLE a5
+NORMAL LIGHTING SYSTEM i
+5 (LIGHTING DIST. BOARD L-NS ) FOR E/R sTeD S1DE
+6o,
+6 ( 0o L-np Y 6-11 | FOR E/R PORT SIDE
+EMERGENCY LIGHTING SYSTEM
+7 (LIGHTING DIST. BOARD L-ET ) 12-15 | FOR E/R STBD SIOE
+Do.
+8 ( Do, L-Ev ) 16-20 FOR E/R PORT SIDE
+9 TEMPORARY EMERBENCY LIGHT 21
+
+op00-1
+
+~ FORM 4
+
+==================================================
+PAGE 4 of 29
+==================================================
+GENERAL DESCRIPTION
+
+1. FOR DETAIL DF RELATIVE CIRCUITS REFERRED TO HEREIN.
+THE FOLLOWING PLANS RESPECTIVELY.
+
+SEE
+
+OVWG.NO. 42-10% "WIRING DIAGRAM OF ELECTRIC POVER SYSTEM®
+DVG. HO. 45-101 “WIRING DIAGRAM OF INTER[OR COMMUNICATION
+AND NAUTICAL EQUIPMENT®
+
+DVG. NO, 45-102 “NIRING DIAGRAM OF MACHINERY CONTROL
+
+AND INSTRUMENTATION SYSTEM®
+
+2. GABLE ARPLICATION
+
+IN GENERAL.THE CABLES USED HEREIN SHALL BE CONSTRUCTED I[N
+ACCORDANGE WITH yIS OR OTHER EQUIVALENT STANDARD (JCE 380)
+"FLAME RETARDANT CABLES® ACCEPTED BY CLASSIFICATION SOCIETY.
+
+ALL FLEXIBLE GORDS TO BE 66OVTPNP-1.25 UNLESS OTHERW]SE
+INDICATED.
+
+2-1 RATED VOLTAGE OF THE CARLES USED [N THIS DIAGRAM IS
+
+INDICATED BEFORE THE CABLE DESIGNATION (E.G..LDY-2). IN THIS
+CASE “H' MEANS 660 VOLTS & "L MEANS 250 VOLTS.
+2-2 THE CIRCUIT NUMBER AND CABLE DESIGNATION OF 1T CIRCUIT
+SHALL BE INDICATED ACCORDING TO THE FOLLOWING EXAMPLE:
+L-ne-1
+-2 N
+L : 250 RATED VOLTAGE CABLE(SEE, 2-1)
+o i CABLE DESIGNATION(AEBREVIATION 1S AS FOLLOWS)
+0...BPYC. DY...DRYCY. T...TRYC.
+Y e, JMEYC. MY . MPYCY.
+38 NOMI AL CROSS SECTIONAL AREA OF CONDUCTOR TH MMZ
+
+OR NUMBER OF THE CONDUCTOR
+EIRCUIT NUNBER OR MARK
+
+A : PVC COVER WHERE EXPOSED TO WEATHER
+
+3.
+
+a.
+
+2-3 EXPLANATION OF THE CABLES.
+
+A, THE FIRST LETTER STANDS FOR THE NUMSER QF THE CONDUGTOR
+T i TRIPLE CONDYCTOR Mt MULTIPLE CONDUCTOR
+D : DOUBLE CONDUCTOR MORE THAN THREE
+
+B. THE SECOND LETTER STANDS FOR THE KIND OF INSULATION
+MATERTAL.
+P €P (ETHYLENE-PROPYLENE) RUBBER
+SR : SILICON RUBBER
+
+C. THE THIRD LETTER STANDS FOR THE KIND DF SHEATH
+
+F TEFLON
+¥t POLYVIMYLCHLORIDE SHEATH
+L LEAD-ALLOY SHEATH
+
+D. THE FOURTH LETTER STANDS FOR THE TYPE OF ARMOR
+[ BASKET WEAVE STEEL WIRE ARMOR
+
+E. THE FIFTH LETTER STANDS FOR THE TYPE OF OUTER COVERING
+¥ SOLYYINYLCHLORIDE COVER
+
+PROTECTIVE DEVICE
+
+PROTECTIYE DEVICE FOR EACH BRANCH CIRCUIT 18 AS FOLLOWS
+
+TB-5P : BOAF/SETTING 10-50A(TERASAKI ELECTRIC CO.. MAKE)
+BREAKING CAPACITY @ 7.5KA {125V}
+2.5KkA (250¥)
+uct 30AF/SETTING 1-30ACUTSUNOMIYA ELECTRIC MEG CO.. MAKE)
+
+BREAKING CAPACITY : 50K& (500Y DC)
+THE MEANING OF THE MARKS BSFORE CABLE DESIGNATION [5 AS FOLLOWS
+
+4 : TO BE CONTROLLED IN A LUMP(FOR BUILDER'S USE ONLY)
+
+FORM 4
+
+o0n00-2
+
+sspintE
+
+20T-vp ON OAD
+
+za-¢
+
+==================================================
+PAGE 5 of 29
+==================================================
+21N1456 44-102 PAGE G3
+SYMBOL LIST LIGHTING €QUIPHENT(ENGINE ROOM) -~ 1/ 2
+CAPACITY GLAND
+SYMEOL NAME OF EQUIPMENT TYPE AC DC o a‘r REMARKS
+220v | 2av sizE
+| MERCURY PROJECTOR 400W Ve
+] WITHOUT FRONT GLASS a
+fie REFLECTOR LawP
+BALLAST FOR R (P PRODY VA
+1 400K * 2 MERCURY LAMP 2-LAMP TYPE 920, 0 2
+B4ZC
+WORK NG TABLE LIGHT wYP YA
+¥ITH S¥ITCK & VICE WITH SHADE 60.0 1
+v
+A WORKING TABLE L[GHT xep VA
+o UAKZR'S STANDARD 60.0 3
+PENDANT L1GHT WP, PLASTICS 0
+u CLEAR GLOBE 10 4|zoxa2
+PENCANT LTGHT WP.PLASTICS va I
+CLEAR GLOBE 50.0 1o |zoxe2
+PENDANT LIGHT WP. FLASTICS VA
+CLEAR BLORE 400
+40w
+PENDANT LIGHT VP, PLASTICS 23
+CLEAR GLOBE 100. 0 T20Xe2
+FLUORESCENT CEILING LIGHT WP VA
+— Coow * ) Clear sLoe 33.5 o
+HANGING TYPE
+FLUORESCENT GEILING LIGHT vp VA
+(20w = 2) tlear eLoee 67,0 15c82
+22 G
+HANBING TYPE
+57 [150e2
+FLUORESCENT CEILING LIGHT [ va
+C2ow = 2) CLEAR BLOBE §7.0
+22C FIXED TYPE
+FLUORESCENT CETLING LIGHT P VA
+{aow » 2} CLEAR GLOBE 100.5 a3 1504
+42 6 HANGING TYPE
+fo|s5ce2
+FLUORESCENT CEILTNG LIGHT v VA
+(agv v 2) CLEAR BLOBE 100.5
+3% Fixeo TveE
+FLUORESCENT CETLING LIGHT e VA
+(aov e 1) uiLky GLose s0.0
+ac
+FLUDRESCENT CEILING LIGHT WP VA
+(40w * 2) MILKY GLOBE 100. 5 e
+42C
+FLGORESCENT CEILIRG LIGHT s va v .
+(dow » 2) MILKY GLOBE 100, 5 5
+42C E [[WITH TEMPORARY EM'CY LIGHT
+FLUGRESCERT yaLL TianT o VA
+(20w % 1 33.5
+= MILKY 6LoBE
+[ PENDANT LIGHT WP, PLASTICS ¥
+CLEAR GLOBE 5 3
+
+==================================================
+PAGE 6 of 29
+==================================================
+21N1456 44-102 PAGE 63
+SYMBQOL L 1ST __ LIGHTING EGUIPMENT(ENGINE ROOM) 2/ 2
+CaPACITY GLAND
+sYMBOL NAME OF EQUIPKENT TYPE AT 0C o Ty REMARKS
+220v [ 2av siz6
+FLUDRESCENT WALL LIGHT P VA !
+2l (20w ® 1) MAKER'S STANDARD 235 22
+FLUORESCENT WALL LIGHT NP va
+— (15w ¢ 1) WAKER'S STANDARD 68.0 1
+[Ws%
+FLUORESCENT DESK LIGHT wr 0 va
+(15% » 1) . 6s.0
+05
+2-POLE & EARTH CONTACT e va
+SOCKET OUTLET LAsTICS 50.0 25
+& |ViTH z-roLE swiTeH
+2-POLE SWITCH e
+@ t1R2) PLasTICS “+
+T-POLE 3-WAY (G 72
+CHANGE-OVER S¥ITCH PLASTICS
+B  |i2en)
+WOLDED CASE CIRCUIT BREAKER
+7Y |tz-poLE oR 3-POLE) 37
+BRANCH BOX wp
+PLASTICS N
+]
+10 [20ea
+2-POLE 3-wAY nwe
+c7rcs | CHANGE-OVER SW1TCH FLASTICS 2
+Y. (DOUBLE TYPE) FLUSH MOUNT
+2-POLE & EARTH CONTACT NP
+- SOCKET OUTLET PLASTICS
+FLUSH MOUNT &
+2-POLE & EARTH CONTACT ve
+g [sooser ovrier PLASTICS
+2-POLE 4 EARTH CONTACT Nve °
+SO0CKET QUTLET PLASTICS
+(DOUBLE TYPE) FLUSH MOUNT
+JUNCTION 80X
+[ e
+L=
+BRANCH BOX nwp 3
+j PLASTICS
+2 -pale mWITCH Nwp.
+K puAsTics |
+FLUCRESENT caunG LUGHT | NW| v
+2 CooW B 2 ) MILKY GLORE &0 f
+
+==================================================
+PAGE 7 of 29
+==================================================
+21N1456
+
+VG NC. 44-102 P-4
+
+SCHEMA OF
+
+ELECTRIC DISTRIBUTION
+
+©Y sv 8D
+
+- C-eT EM'CY LIGHTING DIST BOARD
+
+Ac220v oMz 38
+
+(E/R 2ND DK 5TBD)
+
+— TEv EM'CY LIGHTING DIST BOARD
+
+{E/R ZND DK PORT)
+
+—] ’T),J
+
+430V /220V, 30
+
+.. EMERGENCY GENERATOR
+
+NO.1 EMERGENCY TRANSFORMER
+A40V/220V, 38
+
+__NO.2 EMERGENCY TRANSFORMER
+
+MALN SW'8D
+
+AC 220V goN2 38
+
+e sy
+souz 38
+
+a40v/2206V, 3%
+
+- L-NS | NORMAL LIGHTING DIST. BOARD
+(E/R 2ND DK STBD)
+
+- L-NP | NORMAL LIGHTING DIST. BOARD
+CE/R 2ND DK PORT)
+
+0080-3
+
+FORM 4
+
+==================================================
+PAGE 8 of 29
+==================================================
+Ows WO 4a-102
+
+2181456
+4 POWERING TABLE
+NORMAL CIRCUIT
+PHASE
+NAME OF R-S (Va) §-T (Va) T-RI{VA] TOTAL{VA)
+D1ST. PANEL
+L-NS 2, 528 2871 2,273 7,265
+L-NP 2,641 2,047.€ 2,305 7,078
+TOTAL &, 1€¢ K, 615 4, 862.8 /4,997
+EMERGENCY CIRCUIT
+PHASE
+NAME OF R-S (va) 5-T (va) T-R(VA} TOTALIVA)
+DIST. PANEL
+L-ET /, 006 0 7,920 & /. 366§ 2,842
+L-EV 2,088, 8 7,829. & /AL &, @02 C
+TOTAL 3,626 3 268 2,786 J.2e. 8
+CE
+
+TEMPORARY EMERGENCY CIRCUIT
+
+2000-4
+
+==================================================
+PAGE 9 of 29
+==================================================
+= CTENTING BISTRIBUTION 80D NOTE |F LT SReLES ARE 7o mE womk EXCERT AS SHOWN
+(L-NS)
+MALN S¥ITCHBOARD P-LO-NS 2ND.
+tac220v 80HZ 32) (SEE WG, NG 42-101) | STED.
+T L. DIST. BD
+L-ns
+50/104 50/10A
+< L-ns-1 rs frs L >
+Lo-2 2p 20 Lo-2
+7788 6v4 608 VA
+50/104 50/104
+4 L-5-3 st fst N LoNS-4 >
+62 20 2p B Loz
+830. 5v4| FYA v
+50/104 50/104
+P LoNs-8 e QR TN L-Ng-s >
+5-2 2 20 to-2
+089, 5v4)
+507104 507108
+< L-ns-7 /\es J st Lonsoe >
+[5-2 2p 2p o-2
+763, 5v4) VA
+S0/30A 50/10A 777
+L-ns-9 /e kst
+<+ e 2p 2p SPARE(10)]
+T80 VA
+§0/10A
+SPARE(11)
+i
+RS ¢ o=, &2t )
+STralevr
+TR 2,270
+7,367 va
+
+FORM 2A(8, 10,5, 40, 30. 90, 20. 30. 40. 5. 10)
+
+0g01-2
+
+95vINTZ
+
+20T-pp 0N BAD
+
+==================================================
+PAGE 10 of 29
+==================================================
+LOWER FLOOR LIGHTING 1 ALL CABLES ARE TO BE 4LD-2 EXCEFT A5 SHOWH
+5 NOTE
+(L-NS)
+LOWER FLOOR (STBD)
+= L
+[ Eaty STRO,
+NS-101 NS-1D2 NS-103 NS-104 uﬁvﬂusqos N§-106 NS-107
+%t;fz‘k iz G 2 G 26 22 G J 2 6 | 2 G '
+15Ce4 15Ce2 15Ce2 15C*q 15C#2 15042
+N5-108 NS-109 NB-110 NE-111 NS-112 NS-113
+42 G 22 Gl 1) 22 G 2 G 22 G
+15Ce s 15002 1sce2 15Ce2
+UNDER M/E UPPER GRATING
+M/E_FORE PART  Ns-201 s-202 ws-203 Ns-208 us-205 u5-206
+" JME-GF*
+26—~z al—-—zz ¢ 25 GF—-—22 G|
+15ce2 1502 150%2 1scez 15cnz LF. FORE.
+0 L UME-GE
+ON M/E
+H
+UNDER M/E MIDDLE GRATING
+ns-207 ns-208
+b—-— 42 G |--— 42 G
+150a2 15002
+
+FORM 2A(5, 1,4, 1,1, 252,20, 1, 1,1, 1)
+
+0001-2
+
+9spINTE
+
+20T-7p 'ON 9AQ
+
+==================================================
+PAGE 11 of 29
+==================================================
+3RD DECK LIGHTING T ALL CABLES ARE TG BE §L0-2 EXCEPT A5 SHOWN.
+
+5 NOTE
+
+(L-NS)
+3RD. DECK (STBD.)
+PURIFIER ROOM )
+N§-3D4 N§-302 N5-303 N$-304 NS-305 NS-306 380
+5780
+- - oxes 326 22 G % 6 a2 6. 12 G 42 6
+\15c~4 18cHz 15cv2 [ tscz J 15042 15ce2
+L-NS~3A .
+Zoxnz -8 7 2ox=2
+N5-307 NS-308 NS-30% NS -310
+2 G iz G @
+is5ce2 15caz
+3RD. DECK (STBD.) 380,
+5180
+NS-401 N§-4D2 NS-403
+72 G 72 G 2 G
+15C+q 18Ce2 15C#2
+NS-404 ns-405 §s-406 Ns-407 us-208 Ns-209
+72 6 22 G 2P @) 72 o t— R
+15040 1scez Z0xe2 20%52 ~ 15082
+NE-—432
+42§ -
+15ce2 1502
+FORM 2A(5,1,1,1,1.252,20.1. 4,4, 1) 0b0t-3
+
+SSEINTE
+
+207-vp-ON 9ma
+
+==================================================
+PAGE 12 of 29
+==================================================
+3RD DEGK & 2ND DECK LIGHTING NOTE || UL CRBLES ARE TO 8E mLD-Z EWcERT A SHOWN.
+5 [(t-ns)
+7
+3RD. DECK (STBD.)
+GENERATOR SPAGE
+Ns-501 ns-502 ns-503 Ns-604 s-505 NS-506 200,
+[ 2z G 2 G 2 G (4 ¢ R sree
+20xx4 JE 15ces 15ce2 150e2
+H§-507 NS-508
+{42 G 42 G
+15C¥2 16C*2
+2ND. DECK (STBD.) 2nD.
+sTeD
+3-601 NS-602 nS-803 us-604
+[ t—x:’av 42 6 42 & 2 G ——R
+1508q 1502 15ce2
+N5-B05 NS-806 HNS-807 NS-608B N§-B08 NS-640
+12 6_——R 42 G 42 G 22 @ ZENS
+15Ce4 15C4 16ce2 15Ca2 15cw2
+
+FORM 2A(5.1.4.4.1,252.20. 1. 1.3, 1)
+
+00012
+
+FETIE
+
+201-7p "ON 9AT
+
+==================================================
+PAGE 13 of 29
+==================================================
+ND DECK. ENG. CASING & TE |F AUTCRBLES ARE TO 8E sLo~E EXCeT AS SHOWN.
+. . N
+b FUNNEL LIGHTING (L-NS) °
+2ND. DECK _(STBD.)
+2ND,
+NS-701 Ns-702 ns-703 Ns-704 Ns=705 ¥s-108 5780
+> 42 G 42 G 42 G & 42 G 22 G
+15Ce4 15¢C#2 15G%2 15C2d 15Ce2
+us-107 Hs-708 NS-708
+% G 22 G 220
+i5Cw2 15Ce2 15C®2
+ENG. CASING
+UPPER DECK
+N5-801 NS-802 HS-803 NS-804 N5-BOS NS-806 NS-BO7 N5-BOB  _ns-goph  OAS
+22 G 2 6 22 6 22 6 ] 22 G {22 © {22 G g
+\nsc-g o 150w2 15ce2 16cs2 15042 15002 1502 ewz
+E
+A-DECK B-pEc
+NS-809 NS-£10 NA- Bt
+22 G 22 & 238 |
+15ce2 15cm2 1k :
+FUNNEL
+NS-901 ns-a0z N5-903 N3-904 Ng-90§ NS-908 N3-907 nd-soe
+20X%2 20%x%2 20%%2 20Xe2 20%%2 20%w2 20%a2 ELETE)
+
+FORM 2A(5.1.1.1.1, 252,20, 4. 4,1, 1)
+
+00038
+
+9spINTE
+
+207-7p "ON BA0
+
+==================================================
+PAGE 14 of 29
+==================================================
+g LIGHTING DISTRIBUTION BOARD noTe T ALL CABLES ARE TO BE XXXXX EXCEPT A5 SHOWN
+(L-NP)
+MAIN S¥ITCHBOARD NP o
+AC220V BOKZ 3 owe WO az-1017] .
+¢ 2) (SEE DWG.NO 42-101) PART.
+i L. DIST. 8O
+L-np
+507108 50/104
+L Lohe-a R s L-wp-2
+P L-np s |r
+(2] 2 2p 10-2
+629.6vA 555.5v4
+50/108 s0/10n
+AT E Lonpoa >
+2p 2p to-2
+087 va
+50,104 50/104
+P L-np-5 S fre N L-ne-s >
+to-2 2p 2r Lo-2
+909 va 7088 va
+50,104 50/104
+4 L1 vt B L-np-8 >
+[2F) 2P 2p [
+622.5v4 5905 un
+507108 50/10A
+P L-NP-8 TLrs RS /TN L-NP-10 >
+Lo-z 2» 2p to-2
+e20 v £
+507104 507108 6 va
+SPARE(11) SPARE(12)
+RS 12,691
+ST @ 2,047 &
+® 9. ¢
+7.07% va
+
+FORM 2A(5.10.5,40. 30. 80. 20, 30. 20, 5. 10)
+
+2002-1
+
+9spINTZ
+
+207-bb ON DMO
+
+==================================================
+PAGE 15 of 29
+==================================================
+'
+
+6 [LOWER FLODR LiGHTING e[ AU RBLES aRE o 5E wibe  Excery As s -
+{L-NP) NO
+LOWER FLOOR (PORT)
+ne-101 wp-102 NP-103 NP-104 wP-105 WP-106 NP-107 NP-108 LF. PORT.
+e IV 57 G 2 G R 22 & 22 G 22 G 2 G
+1604 15052 15C*2 15Ca2 15c82 15CH2 15Ce2
+i
+LOWER FLOQOR (PORT)
+LF. PORT.
+Np-201 we-202 up-203 NP-204 up-205 np-206 NP-207
+_up- = m—— =
+o> LLBNLZ - -—22 G 42 G 26— 26— 42 G
+1504 15Ce2 15cw2 16cea 15C#2
+
+FABM PA(S. 4414283, 304,11, 1)
+
+aspINTZ
+
+201-pp "ON BAQ
+
+==================================================
+PAGE 16 of 29
+==================================================
+3R0 DECK LIGHTING 1 ALL CABLES ARE TO BE #LD-2 EXCEPT AS SHOWN
+SRS NOTE
+
+3RD. DECK (PORT)
+ENGINE CONTROL ROOM
+
+NP-401 NP-402 NP-403 NP-404 NP-405 NP-406 NP-497
+L-NP-48 -
+
+23c 220 Ve 42C a2c_ | P a2c E | [ azc |
+o
+
+3RD. PORT,
+ENG
+
+it
+EONT RM
+
+MSB MAINT. SPACE
+
+NP-40B NP-309 wp-a10
+L-NP-aC
+e 420G 22 G
+
+20092 20%s2 15ce2 16cs2
+
+WNEGNE __ CoNTROL  RedM e
+
+N =3t Np-412 NP - 43 NP- g NP 1t NP 416
+Lowp-gp (7] cakA
+
+ceAB [ gae [T -dAD [T1 -eAE T
+
+osvINIZ
+
+20177 "ON 9AG
+
+FORM 2A15.1, 1.1, 1,262, 20, 1. 1, 1. 1) ey
+
+==================================================
+PAGE 17 of 29
+==================================================
+3RD DECK LIGHTING AL GABLES ARE T0 B §10-2  EXCEPT A5 SHOWN
+6 ¥ NOTE
+(L-NP)
+3RD. DECK (PORT)
+CENTRAL WORK SHOP gggr
+NP-503 ap-504 NP-505 NP-506 Np-507 HP-508 CENT WORK
+SHOF
+42 G 12 G 2z G 2 G 23 G 22 G
+15Cea 15ce2 15002 15ce2 t50e2 15c%2
+20xma
+UNIVERSAL
+WORKING TABLE GRINDER HACHINE
+NP-511 Nv—nz\s(v
+L-NP-58 o P L-NP-5C L-NP-5D
+3RD. DECK (PORT) s00
+PORT
+NP-801 Np-802 NP-603 aP-804 NP-805 NP-506 NP-507 Np-508
+D— 42 G 12 G 42 G 12 G 22 G 22 G 42 G
+2ox=a 15ces 150e2 15ce2 15092 15002 15082 15092
+NP-609 NP-610 fL SN T) HP-412 NP 413 W
+22 G 22 G 325 220
+15082 15ce2 [ tecHz
+
+FORM 2A{5.1.1.1.1.262, 20, 1. 1. 1. 1)
+
+ane-s
+
+sspiNEE
+
+201-pb ON OAT
+
+==================================================
+PAGE 18 of 29
+==================================================
+2ND DECK LIGHTING 3 ALL CABLES ARE TO BE ALD-2  EXCERT AS SHOWN,
+6 NOTE
+(L-NP)
+2ND DECK (PORT)
+Ne=701 Hp=702 NP=703 Np-70a Np-705 NP-708 Np=707
+LoNP-T 2ND,
+55 25 & % G 22 & 42 G 2 G 22 & e
+1502 15C#4 15Ce2 16CHa 15C#*2 16C#2 i
+'
+2ND DECK (PORT)
+np-801 NP-802 np-803 Np-g04 np-g0s xp-808 np-an?
+22 G 2 G 27 & 22 G 2 G 22 &
+15ca4 15cv2 15082 15ce2 15ce2 15cHz
+i Ap- be7A
+L-NP-8 20x%4
+5 - - #29
+Tecaz
+CENTRALIZED STORE
+NP-B0O HP~810 NP-811
+‘I’M"_"E’“@ 2 G a2 0
+20X%2 20x%2 15ce2 15Ce2
+i
+i
+
+FORM 2A(5. 1. 1. 1. 1.252.
+
+20,1, 1.1, 1)
+
+0002-5
+
+9STINTZ
+
+207-vv 0N BAQ
+
+0t-d
+
+==================================================
+PAGE 19 of 29
+==================================================
+3RD DECK LIGHTING NorE |F AUk GSLES ARe 16 BE Rie-s excert ae ewoen
+6 (L-NP)
+3RD. DECK (PORT)
+3RD. PORT
+NO. 5 GsP
+~ _ = - _ - LNOLT G5 PCR)
+3rD.
+—) ,J .
+pottente N Lone-g | L-tp-ag®
+5o \
+L-NP-BER
+VNO.& 6 5 PIAY
+~ - . NO.& B § PT8) T -
+2. PORT
+pess . PORT,
+L-NP-92 <30 L np-90%
+28D, 5780
+-np-g8 -
+L ) el LNP-902
+3
+
+FORM 2A(S. 5. B.10. 10, 30. 20, 30. 110. 30, 30)
+
+o02+8
+
+9srInTe
+
+20t-vp ON 9AD
+
+Ti-d
+
+==================================================
+PAGE 20 of 29
+==================================================
+L
+
+7 [LIGHTING OISTRIBUTION 50ARD NoTE [T L cRRLEE AR vo we wawn gwcerr As swows
+(L-ET)
+EMCY SWITCHBOARD P-LD-ET o
+2 38) -t teswe ariTeiTl "
+taca2oy 6oHZ 32) (SEE DWG.NO 42-101} STBO,
+- L.DI5T. 80
+i L-ET
+sost0a | s0/104
+P et e Jer i-gr-2 >
+-2 " 2p 2p 5-2
+6788va asava
+50104 s0/104
+L-ET-3 RS TR L-ET-4
+< >
+T5-2 2p 20 (0-2
+1005V s70vA
+50/10A 50/10A
+L-ET-5 Il
+< LD-2 28 2p  3PARECS)
+971, 5vA
+1,005
+1,440.6
+1,366.5
+2,812 yp
+
+FORM 2A(5,10.5.40.30.90,20.30,40.5.10)
+
+95PINTZ
+
+20T-py DN BAO
+
+2t-d
+
+==================================================
+PAGE 21 of 29
+==================================================
+LOWER FLOOR & 3RD DECK OTE 1 ALL CABLES ARE TO BE #LD-2 EXCEPY AS SHOWN
+7 |EM'CY LIGHTING  (L-ET) N
+
+LOWER FLQOR (STBD)
+
+LF,
+FORE 8. W. 5TBO
+£1-101 Er-102 ET-103 ET-104 ET-105 ET-106  ET-107
+> tif;“ -— 42 G 42 G 42 G 42 G 42 G 22 G
+1504 15Ca2 15cu2 20xs2
+UNDER /E UPPER GRATING
+LF,
+ET-201 ET-202 £T-203 ET-204 ET-205 E7-206 FORE,
+. JME-GF
+’»~22c -—122 G [22 ¢}——J22 G 1426 ——22 G ON MZE
+15C2 15C42 | 15Ce2 15Cw2 15CH2 15C#2
+‘, M/E FORE PART
+i |
+
+FEIaINt
+
+205-pv 0N BAD
+
+€1-d
+
+FORM 2A(5.1.1.1.1.252.20. 1, 1, 1. 1) 0003-2
+
+==================================================
+PAGE 22 of 29
+==================================================
+(L-ET}
+
+7 3RD DECK EM'CY LIGHTING
+
+T ALL CABLES ARE T0 BE BLD-2
+NOTE
+
+EXCEPT A5 SHOWN.
+
+L
+
+3RD. DECK (STBD)
+3RO
+PURIFIER ROOM sTRD
+£T-301 €r-302 E1-303 £r-304 ET-305
+iz & 7 G 2 G 42 G 2 6
+15Ca2 16C#2 15C#2 15Gw2 1502
+% L-ET-34
+[
+20x%2
+£1-35
+ET-306 ET-307 ET-308 z’r—aus ET-310
+- iz G iz G 42 G iz & 27 G
+15C»2 16C*a 15Ca2 1BCw2 15C*2 3RD,
+20x%a STBO
+3RD. DECK (STBD)
+GENERATOR SPACE
+ET-401 €1-402 E£1-an3 £T-d04 ET-408 [T €1-207
+o t;i"‘ —{22 & 42 G 42 G 12 6 42 G 2 G iz G
+15C#2 L5CHd 15C*2 15C#2 15C*2 15C#2 15Ca2
+
+~FORM 2A(%.1.1.1.1,252,20,1,1.1.1)
+
+espINIE
+
+201-vv "ON DAQ
+
+vi-d
+
+==================================================
+PAGE 23 of 29
+==================================================
+{ SND OECK & ENG. CASING e Nore [T eREs m o e wo moert A swown
+]7 EM'CY LIGHTING (L-ET})
+2ND. "DECK (STBD)
+ana,
+stan
+£1-501 €1-502 ET-503 ET-504 Er-s05 £1-s06
+e - 22 G 2 G 42 G 22 & 12 G 22 &
+15C%4 1502 15C*2 15Cw2 15ce2 16C2
+ET-507 ET-508 ET-509
+42 © 12 G 42 G '
+15Ce2 16C#2 16C%2 .
+UPPER DECK
+ET-510 CAs
+2 G
+sscez
+
+A-DECK
+
+€r-511
+i
+[
+i 15ce2
+!
+;
+
+FORM 2A(5.1.1.1.1.252,20.1.1.1.1)
+
+06034
+
+9sPENTE
+
+20T-7v "ON 9AQ
+
+§7-d
+
+==================================================
+PAGE 24 of 29
+==================================================
+8 TLIGHTING DISTRIEUTION BOARD ‘NDTE 1 ALL CABLES ARE TO BE XXXXX EXCEFT AS SHOWN
+(L-E
+
+EW'CY 5% ITCHBOARE
+
+; 2x0. .
+{ACZ20v 60KZ 32) PORT
+1 L.DIST. 80
+[Re
+507104 50,104
+“ L-Eve1 It EWa\ L-Ev-z N
+02 2p 2 -2
+25 va #0214
+50,104 507404
+< L-ev-3 ws |s1 N L-gv-a N
+L0-2 P 2p 2p " 162
+AREvh 7oettva )
+50/104 507104
+P L-EV-5 /R 5T L-EV-6 ~
+o2 2p 2F Lo-2
+HE4 S VA 920VA
+
+50/104 50/104
+
+SPARE(T) SPARE(B)
+
+RS ¢ 3,159.8
+
+ST R
+
+RIEROPY
+PO
+
+9gpINTE
+
+Z05-vp ‘0N DAO
+
+Fami 9elE 4n £ s = onoan an en e el .
+
+==================================================
+PAGE 25 of 29
+==================================================
+8 LOWER FLOOR NOTE
+
+EM'CY LIGHTING (L-EV)
+
+1 ALL CABLES ARE TO 8E #L0-2
+
+EXCEPT A§ SHOWN.
+
+LOWER FLOOR (PORT)
+
+Ev-101 Ev-102 ey-ios
+_ev-
+& ILu’Ea CHE— 2 G @ W5C |
+20%s4 ooz 20xn2 B
+FORE B. %
+Ev-104 Ev-105 EV-106 ev-to7 EV-108 a0,
+22 G iz 6 2z G Z G @ =€
+150%2 15CH2 15Ce 4 15C*2 20xs2 isc¥ 2
+
+LF.
+PORT
+
+FORM 2A(S5.5.5, 10, 20, 100, 10, 20. 70, 20, 20}
+
+95PINTZ
+
+20T-bP ON 9A0
+
+Li-d
+
+==================================================
+PAGE 26 of 29
+==================================================
+8 3RD DECK
+EM'CY L
+
+IGHTING (L-EV}
+
+NOTE
+
+1 ALL CABLES ARE TO BE §LD-2
+
+EXCEPT AS SHOWN.
+
+—ey-z
+
+3RD __ pesk
+
+CpoRT)
+
+R 5. ¥ - —
+
+Mol |
+.
+
+L. 21
+LB AR \
+
+NoZ G S.f (N
+
+ot G.SPA)
+
+i
+LB
+
+7 ]
+7,
+
+]
+
+aro.
+PORT
+
+FORM 2A{5.5.5.10.20, 100. 10, 20, 70, 2D. 20)
+
+0004-3
+
+ssvINIZ
+
+205-pp 0N DAD
+
+81-d
+
+==================================================
+PAGE 27 of 29
+==================================================
+(L-EV)
+
+8 3RD DBECK EMERGENCY LIGHTING
+
+NOTE
+
+1 ALL CABLES ARE TO BE HLD-2  EXCEFT AS SHOWN.
+
+DECK (PORT)
+
+3RD.
+ENGINE_CONTROL ROOM
+EV-307 EV-308 EV-309 EV-310 E¥-311 £¥-312
+ev-se
+I e iz TCE IS @c [ ¢ 7T
+PVRNYY “ow-
+qzc
+I MSE__pnNT.  SpACE
+V= 213 Ey=24e ev=28 EV= i/‘_
+—~Fh
+=26 e
+AoX %2 3223 Eaid TteR 2
+CENTRAL WORKEHDP
+ev-301 Ev-202 €v-203 V204 £v-308
+e =6 e 2: 6 6
+15Ceq 15C#2 15C*2 16Cs2 15C+*2
+oxk
+20xe4
+GENERATOR sACE
+ev-a01 ev-a02 Ev-03 Ev-204 ev-205 €v-a0s
+-Ev-a
+T e WA 22 G 2 G 2 G 2 G 2.6
+1sce 15ce2 156z 15cwa 1sce2 15ce2
+
+EV-408
+
+42 G
+
+15Cu2
+
+280,
+PORT,
+34
+CONT AM
+
+29,
+PP
+
+380,
+PORT
+
+FORM 2A(5. 1.1, 1, 1. 252,20, 4. 4. 1. 1)
+
+0604-4
+
+aspINe
+
+201-rv ‘ON OMO
+
+61-d
+
+==================================================
+PAGE 28 of 29
+==================================================
+- 1 T ALL CABLES RRE 10 BE 4L0-2  EXGERT A3 SAGWN.
+8 2ND DECK EMERGENCY LIGHTING NOTE \
+(L-EV) :
+2ND DECK (PORT)
+T
+e am =2 2N, PORT.
+_—
+cpony [ezgisoe 20D, PORT. CENTRALIZED STORE
+Ev-501 Ev-502 ev-503  E¥-504 v 510 &v-509 EV-508  CEMTRALIZED STORE
+ev-s I c 22 CF— 42 & 426} [z ¢ 42 4 = 5
+15084 15C*4 15C#2 15C*2 15C»2 15Ce2 15C%2
+@ L-EV-5A
+th-s
+z20x42 20x02
+505 &v-s507
+V. TRUNK
+3 2 6 1 ELEV. MACH RM ELEV. TRU 2HD. PORT
+T Ev-s11 LoweR o8
+t5cez 1scee | |
+P EE @ @-@-D
+15042 Zoxsz 2o Tock:  20x#2
+20xe2
+20%s4
+SR 2pp, porT
+L-EV-8 i P L-Ev-gA ev-g01 2ND, 5TBI.
+v- ev- V-
+v - - - - |
+Doz Pe2d Hid
+. 230, P0RT
+Logvzes 77, Evmeoz
+3
+
+FOPYM 2215.2.3.2.7. ¢
+
+5.16.10.75. 10, 301
+
+ssvINTE
+
+201y 'O BAO
+
+0z-d
+
+==================================================
+PAGE 29 of 29
+==================================================
+& DISCHARG BOARD
+
+g9 TEMPORARY EMERGENGCY LIGHT T ALL CABLES ARE TO BE #LD-3.5 EXCEFT AS SHOWN.
+NOTE
+3RD DECK
+ENGIN CONTROL ROOM '
+2501 0c-6a1 a2
+203 a0,
+c-oc-s L-DC-6A1 LDC-002 e PORT.
+(SEE OWG. ND. 45-101) ENG
+FROM 8ATT. CHARG. CONT RM
+1 DISCHARG BOARD
+2w i
+S| i
+= (NEAR DIESEL GEN.)
+0c-584 ne-683 Dc-682 oc-81 -
+‘E“‘ L-DC-584 IE’D L-0C-6B3 \F’Em L-DC-682 @‘“ PORT
+20582 zoxnz 20xx2 z0xe2
+ELEV. HACH ELEV. TRUNK
+LOVER Moo Top
+4-00-04
+(SEE DWG. ND. 45-102) B @ o (‘PE> T
+FROM BATT. CHARG, X 20x82 20x02 © Taoxsz
+
+FORM 2A{S.1.4,1,1,352,20, 4, 1.4.1)
+
+oo0a-s
+
+espENTEZ
+
+Z0T-pe ON 9A0
+
+Frzes

@@ -1,0 +1,1314 @@
+FILE: E-318 INSTRUCTION BOOK FOR GPS NAVIGATOR.pdf
+FOLDER: .
+DATE: 2026-03-06 21:50:06.356016
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+GPS NAVIGATOR
+
+“This technical docament is ‘e property of
+
+s, Lud (K1) and may
+ed to any third party
+ten consent
+
+MANAGER " : Rttt JOBNO. w—— j
+o | eneonen S Adauiheide| - KARASAKI HEAVY INDUSTRIES, LTD
+l; DRAWN — 7; SHIP DESIGN DEPT, SHIP GROUP |
+DATE | 77777&6 4
+
+--- PAGE 2 ---
+@PS NAVIGATOR
+
+JLR=6300)
+
+INSTRUCTION MWANUAL
+
+Deaos Ree Co, %,
+
+--- PAGE 3 ---
+Before You Begin
+
+This manual contains very important information on the installation and operation of your
+JLR-6800. For best results in operation and performance, please take the time to read this
+manual thoroughly.
+
+IMPORTANT NOTICE
+
+THIS DEVICE IS ONLY AN AID TO NAVIGATION. ITS ACCURACY CAN BE
+AFFECTED BY MANY FACTORS INCLUDING EQUIPMENT FAILURE, DEFECTS,
+ENVIRONMENTAL CONDITIONS AND IMPROPER HANDLING OR USE.
+
+IT IS THE USER’S RESPONSIBILITY TO EXERCISE COMMON PRUDENCE AND
+NAVIGATIONAL JUDGMENT, AND THIS DEVICE SHOULD NOT BE RELIED UPON
+AS A SUBSTITUTE FOR SUCH PRUDENCE AND JUDGMENT.
+
+--- PAGE 4 ---
+TABLE OF CONTENTS
+
+SECTIONI GENERAL INFORMATION
+11 INTRODUCTION
+1.2 GENERAL SPECIFICATIONS
+
+SECTIONT OPERATION
+21 THE KEYBOARD «revrreseseeeserseronmsamiamiesneinsesmsrecsonsossnesnmnas
+22 OPERATING MODES
+2.3 BASIC OPERATIONS -
+
+2.3.1 Turning the Unit “ON” -
+232 Controlling the LCD Display and the Keyboard Brightne:
+233 ToTum the Unit “OFF”
+234  SLEEP Mode
+235  The Self-Check
+2.4 THE INITIAL SETTING MODE
+241  Initializing Latitude/Longitude
+242  Entering the Date and Time -
+
+243  Emtering the Difference in Time
+244  Entering the Antenna Height -
+245 Selting the Course Dati +eresssserersssssioisssrssesssanrossssissssionees
+246  Seiting the Speed Dala
+
+25  THE LA1/L.ONG DISPLAY MODE
+251  Lat/Long, Specd and Course Display
+252 Lat/Long, VID, XTE and CMG Display ---
+253 Antenna Height, Time to Go, Drift and Set Display
+254  Manual Lat/Long Correction
+255  Geodetic Data Correction -+
+
+256 Magnetic Compass COMeClion = +=r s rrsssssmsr oo
+
+257 Memorizing the Current Position
+
+258  Saving the Current Position - 15
+
+259 The CDIBargraph -eseseserereess oo rorerecresessoseesssorarsasss s 15
+26 THE WAYPOINT MODE, ++ceessresserssossssesiserenrisssssarsencsnssiesssssons 17
+
+261  Eatry by Lat/Long
+262  Bitry by Bearing and Range
+263 Entry by Save Memory «ssereessesrersssssisssussisressssssnsssnnissinnies 27— 20
+2-20
+2-20
+2-20
+
+2.64  Kliminating old Waypoint
+2.6.5  Transferring Stored Waypoints Data
+2.6.6  Selection of Great Circle/Rhumb Line -
+
+--- PAGE 5 ---
+27 THE ROUTE MODE -+-rererererscrsommesemnerersemsseniasamsesmsinsenisesn
+271  Seiting the Direct Route
+272 Setting Automatic Raute Sequence
+
+273  By-Passing a Point
+274  Re-Starting a Route -
+275 Total Distance and Trip Distance of the Route -
+276 Setting the Alarm Ranges
+277 The Time Tunctions -
+28 SATELLITE STATUS DISPLAY MODE eretvrererresiserensrsninries
+2.9 THE SPECIAL FUNCTION MODE (SF) -
+29.1  Selecting Data Output Format
+292 Selecting the Unil (NM/KTS, SM/MPH, KM/KPH)
+2.9.3 Selecling the Antenna Mode
+294 Selecting the PDOP Level
+295  Sclecting Interval of Fix Mark Output (for JRC Format)
+29.6 Averaging Lat/Long/Speed/Course Display Readouts
+297 Cold Start -+~
+29.8 Software Level
+299 Master Reset
+
+SECTION HI INSTALLATION
+
+31 UNPACKING AND INSPECTION
+311  Equipment Supplicd
+312  Optional Equipment -
+
+32 RECEIVER INSTALLATION
+321 General
+3.22  Mounting the Receiver Unil
+
+33 INSTALLATING THE ANTENNA UNIT
+331 Determining the Location -+ -erresesmsisnnoniniiinns e
+332 Mounting the Antenna Unit
+333  Completing the Cable Run -
+334 Installing the Anteana Connectors
+
+33.5  Soaling the COMMECIOs ++++errrs sserrsesssreerasssersissisneusssassnssons 3
+34 CONNECTIONS
+341  Antenna
+342  The Power Input Connection -
+343 Data Outputs to Bxternal Naviids «rssereesereressssss s 3-13
+344  DataInpuis
+3.4.4.1 Installing the DR Interface -
+
+3-13
+
+--- PAGE 6 ---
+3.4.5 GYTO IBPULS ++r+esesessssrsrsstss o b 3-18
+346 Speed Log INpULs «wwsrressismsr s 3—20
+
+3.4.7  Extemnal Alarm Output or 200 pulse/NM Log pulse oulput 3-22
+3.5 GROUNDING 3-22
+3.6 NKG-22 PRINTER r+cseesveerereeerrmsermosomesontoesenomeotmressersersnsaness 3-122
+
+SECTION IV MAINTENANCE AND INSPECTION
+
+41  OUTLINE OF MAINTENANCE AND INSPECTION :--seoeseseseenses 4- 1
+
+411 AdjuSIMeEnt Of RECEIVEr w:-r-sresrsresssimimsmisisissisininssisia 4- 1
+
+412 Sensitive COMPONERLS «+ssrrsrsrsrssresrarssmstnmsnuristis st 4- 1
+
+413  Fuse - 1
+
+414 Baltery 1
+
+Disassembly - 1
+
+416 Replacing LAMps reresserrssnmesssmmcsoniissenmisnsrssen s nninnrens -1
+
+42 PRINCIPLE OF OPERATION 2
+
+4.3  MASTER RESETTING - 6
+
+44 PERIODIC MAINTENANCE - 6
+
+440 Replacing the Batlory «eerserrerssorrrsnrosioniesmissiossrsonscsarensins 41— 6
+
+SECTIONV REPLACEMENT PARTS ----rssrresresrrsssssrmsssmsassmraraasnsses P
+APPENDIX
+
+Waypaint Log Pages
+
+--- PAGE 7 ---
+11
+
+SECTIONI GENERAL INFORMATION
+INTRODUCTION
+
+The Navstar/GPS systcm is a satellite-based radio navigation system designed to
+pravide groval, continuous 24 hour-per-day, all weathicr, accurate position data for
+navigators worldwide.
+
+The GPS (Grobal Positioning Systcm) is bascd on a GPS receiver’s abilily to
+accurately measure the propagation time of signals transmitted from the orbited satellites.
+
+The GPS satellite orbit twice
+earch day at approximately
+11,000 miles from the earth. The
+complete constellation will con-
+sist of 24 satellites (3 spare
+satellites) in 6 orbilal planes.
+Four satellites are equally spaced
+in each plane.
+
+The satcllites  continuously
+broadcast their navigation mes-
+sages which includes the satel-
+lit’s  position  (orbit  and
+ephemeris data), precise time
+(clock) correction signals, and
+almanac data for the satellites
+constellation, al a frequency of
+1575.42MHz (for civilian usc)
+and intervals of 30 seconds.
+
+This message is a C/A (Coarse
+Acquisition) code which permits
+the user determine the best satel-
+lites to receive and caluculate the
+precise position rapidly.
+
+If it wore possible to measure
+the true ranges from satellites
+
+directly, it would only be neces-
+
+sary the data from any twa satel-
+lites to obtain a vessel’s
+Iatitude/longitude.
+
+In actual practice for marine navigation, a minimum of three satellites are normally
+
+1-1
+
+--- PAGE 8 ---
+required to caluculate the position in order to climinate the receiver’s own intornal clock
+timing bias error. And when four pseudo ranges are measured, the three dimensional
+position cun be determined.
+
+‘The JLR-6800 tracks up to 8 satellites (when they are visible} and uses all of them for
+caluculating the position accurately.
+
+The features of JLR-6800 are as follows.
+
+O Fully Automatic Reception and Positioning
+Once it is powered on befare the initial data is entered, the JLR-6800 automatically
+starls operating. ks salellile selection, receiving and position fixing are under
+‘microprocessor costroll.
+
+O Varicus Navigational Function
+The JLR-6800 can indicate not only positional data such as latitude/longitude, coursc
+and specd, but also various navigational data including waypoints, range, bearing and
+time to go to a destination, and course deviation. In additian, it can offer sophisticated
+functions such as route scquence, clock and stop-watch, course made good, velocity
+along route and velocity toward destination.
+
+O Basy-to-See Large LCD and CDI
+The JLR-6800 incorporates a hack-lit large liquid crystal display (LCD) which can
+indicate all necessary data simultancosly.
+
+O Differential GPS Function
+
+The JLR-680C can receive the differcntial GPS data from the beacon receiver and
+impraves the accuracy of position fixing remukably.
+
+e
+
+R
+
+--- PAGE 9 ---
+Measuring accuracy
+
+Receiving frequency
+Receiving sensitivity
+Dynamic range
+Signal acquisition
+
+and tracking
+Dilferential GPS
+
+function
+Maximum pumber
+of tracked satellites
+
+Manual data entry
+Data display
+Back lighting
+Waypoint memory capacity
+Memory prolection
+Clock
+Route function
+
+Display items
+
+Audible alarms.
+
+Corection
+
+Data parts
+
+Power supply
+
+Operational temperature
+
+: Position
+
+1.2 GENERAL SPECIFICATIONS
+
+15m RMS
+Speed 0.2knot RMS
+{When HDOP = 2.5, without SA})
+
+: 1575.42MHz (L1, C/A code)
+: 130dBm
+: 25dB
+
+: Fully autamatic by microcomputer control
+: Comply with RTCM SC-104 data format
+
+18
+
+: By key switches
+
+: Large LCD
+
+: KL for 1LCD and lamps for key switches
+
+: 99 points
+
+: By internal back-up battery
+
+: Internal permanent guartz clock
+
+: 1 raute by setling beginning point and ending point
+: Position latitude/longitude and altitudc)
+
+Course and speed
+Date and time
+
+Satellite data
+
+Range, bearing and time to destination
+
+Course deviation
+
+ Arival, anchor watch, off-course and boundary
+
+: Position correction (geodelic datum/manual)
+
+Magnetic compass correction (automatic/manual)
+
+3 indepent user sclectable
+
+(NMEAQ180/NMEAD183/JRC)
+1 for R§-232C or R8-422
+
+: Standard DC10 ~40v, 12W or lcss
+
+Option  AC100~115v/AC220~230v + 10%
+: Antenna <25~ +70°C
+Receiver indicator -15 ~ +55°C
+
+--- PAGE 10 ---
+24
+
+® B
+
+e
+
+THE KEYBOARD
+
+SECTIONII OPERATION
+
+The following table describes the keys and their purpose of operation.
+
+Key
+PWR
+OFF
+
+MODE SWITCH
+
+SLP
+
+1], [2]. (3],
+
+Iy
+
+ENT
+(]
+
+SAVE
+
+[rmEM]
+
+16,177, 8J, [8
+
+©
+
+Operation
+Turns the pawer “ON”
+Turns the power “OFF” when simultaneously pressed with
+the @ key.
+Selects the desired mode for display.
+Tums off Display and Back-lighting for saving power.
+
+Pressing again, return back to normal.
+Enters the digit 1, 2, 3, 4,5, 6,7, 8,9, and 0.
+
+Enters input data.
+Designates Waypoint, Route Sequence numbers, and 50 on.
+Saves current positions up o 10.
+
+(Not backed up by inner battery.)
+
+“1” selects North, or Cast.
+
+2-1
+
+--- PAGE 11 ---
+&e 666 6
+
+2.2 OPERATING MODES
+
+“MEM” memorizes current posilion up to 99.
+
+(Backed up by inner battery.)
+
+«.” selects South, or West.
+
+“RCL” recalls memorized position data.
+
+Clears crroncous entries.
+
+Changes mode from Auto to Manual, or vice versa.
+Activates LCD display test and special function. Re-entry of
+this key makes picture return back to normal.
+
+Changes display page from first to third one.
+
+Changes to the mext route leg when route scquence is
+activated.
+
+Changes time display in RTE page 3.
+
+Set Mag. Compass Corr. Value in L/L page 3.
+
+There are six operating modes in this equipment. The L/L (Latitude/Longitude mode),
+the INIT (Initial mode), the WPT (Waypoint mode), the RTE (Route mode), the SAT
+(Satellite mode), and the SF (Special Function mode). The SF mode is activated when
+
+SF | key is pushed. The other modes are controlled by the Mode Switch.
+
+White Mark
+
+__-Mode Switch
+
+Flgure2.2 The White Mark Indicates the Desired Mode.
+
+Mode Purpose
+L/L Displays navigation data, fcaturcs Lat/Long readouts
+
+INIT Used to enter the initialyzation and gyro/log ratio data
+
+WPT Used to enter waypoints into memory
+
+RTE Used to select a waypoint destination or route or ta set alarm zones.
+SAT Displays satellite data, set the deselected satellite numbers
+
+SF Used to set-up special operating conditions
+
+This manual is explained by grouping at each operating modes. It is useful only to
+know what can the unit does at each operating modes.
+
+2-2
+
+--- PAGE 12 ---
+The best way to learn this equipmeat is to dive right in. You can’t damage the unit by
+randofnly pushing the keys, so don’t be afraid to experiment. If at any time the results
+appear confusing, just push the [ GLR | key and start over again.
+
+23 BASIC OPERATIONS
+
+Assuming the installation of your unit has been properly completed we are ready to
+begin. Let’s turn this equipment to “ON".
+
+2.3.1 Turning the Unit “ON”
+
+Press the {PWR ' (red key) 1o turn the unit on. The power keys produce an audible
+“chirp” when pressed.
+
+2.3.2 Controlling the LCD Display and the Keyboard Brightness
+
+If you need control
+
+(1) Press the [SF | key to activate the brightness setup mode. All symbols appear on
+the LCD.
+
+(2) Press the [+MEM] to produce a higher level of brighiness of the LCD and the
+Keyboard, or press [-RCL] to produce a lower level of brighlness.
+
+(3) Press [SF] key again to turn “Off” the brightness setup mode.
+
+2.3.3 To Turn the Unit “OFF”
+
+Press [PWR| and [ OFF | (boti red keys) together. The display will disappear and the
+unit will be off.
+
+234 SLEEP Mode
+Press the [SLP key, the Backlight will be turned off and the display will disappear
+
+except “SLEEP”.
+
+Tn SLEEP maode, this equipment has been receiving signal.
+
+Press [SLP] again to return the normal mode.
+
+23.5 The Self-Check
+
+‘When turn on, the unit will diagnose itself automatically. While checking, all segment
+of the LCD are displayed. If there is no problem, display shift to the normal which is
+
+2-3
+
+--- PAGE 13 ---
+selected by mode switch.
+
+If there are some problems on the unit, indicate “NG™ on the LCD. Please check the
+
+connections of antenna cable and others.
+
+2.4 THE INITIAL SETTING MODE
+
+The initial setting mode is activated when the mode switch is positicned at INIT. This
+
+mode has following functions of setting and display.
+(1) Initializing Latitude/Langitude (Page 1)
+(2) Entering the Dale and Time (Page 1)
+(3) Hntering the Difference in Time (Page 1)
+(4) Entering the Antenna Height (Page 1)
+
+(5) Setting the Coursc Data (Page 2)
+(6) Setting the Specd Data (Page 3)
+
+2.4.1 Initializing Latitude/Longitude
+
+Enter the approximate initial position of your ship if possible (in the precision of within
+
++1° )
+
+The initial position serves as the start point for various calculations. If you have entered
+
+it once, it is preserved in memory even when you turn off the power.
+
+Enter your estimated position us shown below. In case of south and west, press
+
+Press [4] [3][2] [9][0] [0
+ENT | (North 43° 29.00" )
+press [7] 2] [3][0] [0
+
+[0] [[j(west 72° 30.00" )
+
+2.4.2 Entering the Date and Time
+
+432900
+
+. I IrUUT
+IS
+
+] key.
+
+Flash
+
+This cquipment has a built-in crystal clock with a calendar that is driven by the internal
+
+battery.
+
+Once initial setting has been done, you do not have to enter again, even if turning the
+
+unit off. The opcration is as follows.
+
+--- PAGE 14 ---
+Press 9] (5] [0][2][2 —_—
+6] [ENT
+
+Press [1][0][3 ure UT.C5’ FJJ35
+
+(1995)
+
+Press [ENT]. i r“."'.ifpw.
+(The display will change to [ A=) X} =
+
+local time and difference in
+
+time.)
+
+NOTE
+
+1
+- ]
+When enter the time and press 'ENT] key, sometimes the display of the time change |
+
+to erratic value. That is not error, but show the sctiing is not completed. All of initial
+setting are completed after antenna height entering. So please proceed to enter the
+difference in time and antenna height.
+
+243 Entering ihe Difference in Time
+
+‘Then enter the difference between UTC and local time, for example.
+
+9502r E
+
+Press [-] (7] (0] [0
+(-07 hours 00 minutes)
+Press [ENT).
+(Changes to antenna height enter dis-
+
+e '53 ( .
+
+2.44 Entering the Antenna Height
+
+To enter the height from the sea lovel to the top of the antenna, enter the antenna height
+and press the| ENT | key. If the current position is on land, add the height above the sea
+level to the height of the antenna from the ground level, and eater that result. (Om ~9999
+
+m)
+
+--- PAGE 15 ---
+For example
+Press [5]. - —_—
+Press [ENT ).
+
+Then the display will return to the
+display of latitude/longitade entering.
+
+HoT
+
+FUIC
+LILOL ¥
+
+—Flash
+
+2.4.5 Sctting the Course Data
+
+This equipment allows the setting of speed and course data for interpolation in dead
+reckoning up to the time of next salellite position fix in case positior fix has become
+impossible because two or less visible satellites are available.
+
+To enter the speed and course dala from the speed lag, gyrocompass/magnetic
+direction, you have 1o connect an aplional DR Interface (NNE-205) to this equipment.
+
+This cquipment has the following three course data input modes:
+
+A. Gyrocampass made (#0)
+
+B. Magnctic dircction input mode (#1)
+
+C. Manual course input mode (#2)
+
+To select the INIT function by Mode Switch, Press E’ (second page)
+
+A. Automatic course input from gyrocompass
+
+Course signal fram the gyrocampass can be input (o this equipment (hrough the DR
+interlace. To do this, you have 1o enter Lhe ratio (the number of revolutions of the repeater
+motor when the ship makes a full tura) of the gyracompass. The ratio diffcrs with the type
+of gyrocompass used on board the ship. For details, see page 3-18 “Specifications of
+Gyrocompass Course Signal Output And Setting Ratio” of this manual.
+
+Press [#] [0] [ENT] : Selecis gyrocompass mode.
+press [3] (6] [0] (ENT : Sels the gyrocompass ratio to 360
+Press [ 1]|3][5]|6]° [ENT] : Sets the initial course for the gyrocompass to 135.6°
+
+--- PAGE 16 ---
+Course Input Mode Gyro Ratio
+
+Course Date of
+Initial Sefting
+
+‘Then, the course data following up with the gyrocompass is displayed.
+
+B. Automatic input of magnetic direction
+
+1f an optional (lux gate sensor (930-550/551 produced by Marinex) is connected to the
+
+DR inlerface magnetic direction data can be inpul to this equipment.
+
+Press [#] (1] [ENT : Selects magnetic bearing input mode.
+
+Course Input Mode I r '
+[ X
+
+” 5 E E‘ii Magnetic Direction
+
+M
+
+7
+
+--- PAGE 17 ---
+C.
+
+Manual input of course
+
+Enter the course of Lhe ship as precisely s passible.
+
+Press #) [2] [ENT] : Selects manual course input mode.
+Pross 1]|3][8][5]° [ENT]} : Sets manual course at 138.5°
+
+S
+
+Course Inpur Mode
+
+:gEE——T» Manual Setting Course
+
+SN
+
+iy
+
+NOTE
+Enter a precise course immediately when the course of the ship has changed. If you
+fail 10 enter the course, and there arises an error between the course of the user and the
+} course input to the Navigator, the accoracy of the position obtained by dead reckoning
+
+will be adversely affected.
+
+2.4.6 Setting the Speed Data
+
+To enler the speed and course data from the speed log, you have to connect an optional
+DR Interface (NNE-205) to this equipment.
+
+This equipment has the following three speed data input modes:
+
+A. 1-axis speed log mode (#0)
+
+B. 2-axis speed log mode (#1)
+
+C. Manual speed input mode (#2)
+
+To select the INIT function by Mode Switch
+Press [CHG ! [CHG ] (Thitd page)
+
+A.  Automatic input of the distance data from the speed log
+
+The distance signal from a one-axis spced log such as an electromagnetic log, and
+Doppler log can be autamatically input to this cquipment through the DR interface. For
+this purpose, you have to enter the ratio (number of pulses per nautical mile) of distance
+
+2-8
+
+--- PAGE 18 ---
+“signal from the speed log. The ratio differs with the type of speed log instalied on board
+the ship. For details, see “Specification of Spced Log Trip Distance signal output and
+Scttings Ratio of this manual.
+
+Press |#|| O | ENT : Selects 1-axis speed log mode
+Press [2] [0] [0] [ENT] : Sets the spced log ratio at 200 (200 pulsés per nautical mile)
+
+YL
+T uu<——l—75cmngugRﬂm
+
+FuT_ |
+L(Lt
+
+Speed Data
+
+Then, the specd data following up with the speed log is displayed.
+Automatic input of the distancc data from 2-axis speed log
+
+Course signal from a lwo-axis speed log such as a Doppler finder can be input to this
+equipment through the DR interface. The speed in the bow direction, and that in the
+direction perpendicular (o the bow direction can be calculated and displayed based on the
+distance signal thus cnterd.
+
+Press [#] [1] [ENT] - Selects 2-axis speed log mode.
+
+Specd Input Mode — ‘)-
+
+[ |
+Lt
+
+|
+i |
+‘ Bow Speed
+
+P
+23 ‘
+! L PortiSterboard Speed
+
+--- PAGE 19 ---
+C. Manual input of speed
+
+Press [#] [2] [ENT : Selects manual speed input mode.
+5][ENT] : Sets the manual specd to 12.5KT.
+
+Speed Input Mode !‘ E
+
+»
+
+Press
+
+” E 5~— Manual Seting Speed
+
+NOTE
+
+Whenever the speed of the ship has been changed, enter the precise specd
+immediately.
+
+If there arises an etror between the actual ship’s speed and the speed already entered,
+the accuracy of the position found by dead reckoning will be adversely affected.
+
+2.5 THE LAT/LONG DISPLAY MODE
+
+The La/Long Display Mode is activated when the mode switch is positioned at INIT.
+This mode has following functions of display and setting.
+
+(1) Lat/Long, Speed and Course Display (Page 1)
+
+(2) Lat/Long, VD, XTE and CMG Display (Page 2)
+
+(3) Anteana Height, Time to Go, Drift and Set Display (Page 3)
+
+(4) Manual Lat/Logn Correction (Page 3)
+
+(5) Geodetic Data Correction (Page 3)
+
+(6) Magnetic Compass Correction (Page 3)
+
+(7) Memorizing the Current Position (Page 1 and 2)
+
+(8) Saving the Current Position (Page 1 and 2)
+
+(9) The CDI'Bargraph (Page 1 and 2)
+
+2-10
+
+--- PAGE 20 ---
+2.5.1 Lat/Long, Speed and Course Display
+
+Top Line —
+
+432959
+
+Line 3 —|
+
+Line 4 —
+Speed Civer Giround —|
+
+Line S —|
+
+v ‘isgﬁﬁi'/
+
+"7 4 "o
+il :ﬁ'jv
+5 ¢ S lj 17
+r =
+acd B P35
+
+Course Deviation
+-
+
+Indicator
+Curtent Position
+
+in Lat/Long
+
+—— Course Over Grouad
+
+Distance Ta Go
+
+Waypoint No. —
+
+f
+
+Bearing to Waypoint
+Display when D — GPS fixing
+
+2.5.2 Lat/Long, VTD, XTE and CMG Display
+
+Press | CHG
+
+Velocity Toward
+Destination
+
+Waypoint No. —
+
+to display Page 2.
+
+"45?555\
+
+- 23006
+
+CT 711
+b LL0
+wer v
+[y =] P B <11,
+[X]~ 0T b JL |
+
+Velocity Along Route
+
+Cross-Track-Extor bar graph
+— (indicates dircetion OFF-course
+& magnitude)
+
+Curvent Position
+in LatLong
+
+[«— Cross Track Frror
+
+—— Course Made Good
+
+SOL. indication is lighted when the equipment can not calculate the position due to no
+
+satellite signals or incorrect initial setting. (No Solution)
+
+--- PAGE 21 ---
+Starting point
+
+Currenf position
+
+VAR= v wcos{a =B}
+
+Destiration
+
++ Course Made Good (CMG) :
+
+your current
+
+Component
+ship’s specd
+
+Bearing from the starting waypoint to
+
+position.
+
+Velocity Along Route (VAR) :
+
+along the route of current
+
+Velocity Toward Destination (VTD) :
+
+Component toward destination of current
+
+ship’s speed.
+
+VD= v wcos(a — B )
+
+253 Antenna Height, Time to Go, Drift and Set Display
+
+Press [CHG | to display Page 3.
+
+“
+
+e e
+<L
+
+Ex EX
+=3
+b
+
+Latitude Longitude
+
+w "A Offset
+hord g e Time-To-G
+; il ] ime-To.Go
+Height - — LAt L4 (T ~f T (Hours ond Minutes)
+- A e
+_ s = .
+Drif . P ¥ | Magnetic Vaciati
+it 3 133 L0 T (ot
+Set
+
+The Navigator automatically calculates and displays the current drift and sct of flow
+
+(bearing) while it performs position fix using threc or more satcllites, and carrics out dead
+
+reckoning navigation using the speed from the speed log and course from the
+
+Byrocompass.
+
+2.5.4 Manual Lat/Long Correction
+
+The most accurate method of calibrating your GPS to a chart is to actually run to & sea
+
+buoy or fixed charted landmark and measure the exact difference between the charted
+
+position of the landmark and your GPS readout.
+
+In the examplo the buoy Latitude is
+the GPS Latitude was
+the buoy Longitude is
+
+N42°
+N4z2°®
+w70°
+
+10.000"
+10.150"
+30,1007
+
+2-12
+
+--- PAGE 22 ---
+the GPS Longitude was ~ W70° 30.060"
+To make this correction select L/L Tunction, press [CHG ], [CHG], third page is
+displayed. Max. of A L/L is 0.999
+Press [-], [1]. [6, 0, ENT] (0.150" 0r0.150" tosouth)
+Press [-], 0], [@ ., 0, ENT] (-0.040" 0r0.040" to west)
+Press [CHG |. The GPS Lat/Long display should now read the same Lat/Long as the
+
+charted position of the sea buoy.
+The “ A L/L” indicator will light showing that corrective data is being applied.
+
+NOTE
+
+GPS fixed positions are fluctuating in the maxmum of 100m (0.054NM). If the A L/L
+is less than 0.05NM, it is better not to correct.
+
+2.5.5 Geodetic Data Correction
+
+To program this equipment for automatic correction according to a specific geodetic
+datum, perform the following steps;
+A, Set the mode switch to L/L. Press [CHG | [CHG ] to display page 3.
+B. Press [#] [data number] (see table below),
+The corresponding geodetic program number will be displayed and will become
+
+activated.
+
+Data number
+
+0. Japan 1.USA
+2. Canada, Alaska 3. Europe N
+4. Australia 5. WGS-72
+6. England 7. WGS-84  Daa .,
+Number
+€ E‘
+g T sl
+“ e X} art
+SUEEP 1 g} X )
+oxr ser, ~ e
+Ixixi v Y
+L6 |5} 0ot
+
+2.5.6 Magnetic Compass Correction
+
+Course and bearing data may appear in “true” or “magnetic” degrees. The GPS’s data
+is Lrue.
+
+Magnetic data is accomplished by adding bearing correction factor to the GPS’s “truc”
+bearing data.
+
+This cquipment can automatically apply magnetic corrcction values from an internal
+
+2 13
+
+--- PAGE 23 ---
+
+
+--- PAGE 24 ---
+
+
+--- PAGE 25 ---
+
+
+--- PAGE 26 ---
+
+
+--- PAGE 27 ---
+
+
+--- PAGE 28 ---
+
+
+--- PAGE 29 ---
+
+
+--- PAGE 30 ---
+
+
+--- PAGE 31 ---
+
+
+--- PAGE 32 ---
+
+
+--- PAGE 33 ---
+
+
+--- PAGE 34 ---
+
+
+--- PAGE 35 ---
+
+
+--- PAGE 36 ---
+
+
+--- PAGE 37 ---
+
+
+--- PAGE 38 ---
+
+
+--- PAGE 39 ---
+
+
+--- PAGE 40 ---
+
+
+--- PAGE 41 ---
+
+
+--- PAGE 42 ---
+
+
+--- PAGE 43 ---
+
+
+--- PAGE 44 ---
+
+
+--- PAGE 45 ---
+
+
+--- PAGE 46 ---
+
+
+--- PAGE 47 ---
+
+
+--- PAGE 48 ---
+
+
+--- PAGE 49 ---
+
+
+--- PAGE 50 ---
+
+
+--- PAGE 51 ---
+
+
+--- PAGE 52 ---
+
+
+--- PAGE 53 ---
+
+
+--- PAGE 54 ---
+
+
+--- PAGE 55 ---
+
+
+--- PAGE 56 ---
+
+
+--- PAGE 57 ---
+
+
+--- PAGE 58 ---
+
+
+--- PAGE 59 ---
+
+
+--- PAGE 60 ---
+
+
+--- PAGE 61 ---
+
+
+--- PAGE 62 ---
+
+
+--- PAGE 63 ---
+
+
+--- PAGE 64 ---
+
+
+--- PAGE 65 ---
+
+
+--- PAGE 66 ---
+
+
+--- PAGE 67 ---
+
+
+--- PAGE 68 ---
+
+
+--- PAGE 69 ---
+
+
+--- PAGE 70 ---
+
+
+--- PAGE 71 ---
+
+
+--- PAGE 72 ---
+
+
+--- PAGE 73 ---
+
+
+--- PAGE 74 ---
+
+
+--- PAGE 75 ---
+
+
+--- PAGE 76 ---
+
+
+--- PAGE 77 ---
+
+
+--- PAGE 78 ---
+
+
+--- PAGE 79 ---
+
+
+--- PAGE 80 ---
+
+
+--- PAGE 81 ---
+
+
+--- PAGE 82 ---
+
+
+--- PAGE 83 ---
+
+
+--- PAGE 84 ---
+
+
+--- PAGE 85 ---
+
+
+--- PAGE 86 ---
+
+
+--- PAGE 87 ---
+
+
+--- PAGE 88 ---
+
+
+--- PAGE 89 ---
+
+
+--- PAGE 90 ---
+
+
+--- PAGE 91 ---
+
+
+--- PAGE 92 ---
+
+
+--- PAGE 93 ---
+
+
+--- PAGE 94 ---
+
+
+--- PAGE 95 ---
+
+
+--- PAGE 96 ---
+
+
+--- PAGE 97 ---
+
+
+--- PAGE 98 ---
+
+
+--- PAGE 99 ---
+
+
+--- PAGE 100 ---
+
+
+--- PAGE 101 ---
+
+
+--- PAGE 102 ---
+
+
+--- PAGE 103 ---
+
+
+--- PAGE 104 ---
+
+
+--- PAGE 105 ---
+
+
+--- PAGE 106 ---
+
+
+--- PAGE 107 ---
+

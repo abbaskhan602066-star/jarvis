@@ -1,0 +1,3144 @@
+FILE: E-310-1 fire alarm tyco system.pdf
+FOLDER: .
+DATE: 2026-03-06 21:15:07.095784
+==================================================
+
+
+--- PAGE 1 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+‘MX’ ADDRESSABLE FIRE CONTROLLERS
+
+OPERATING INSTRUCTIONS FOR VERSION 17
+
+LIST OF CONTENTS
+
+1. INTRODUCTION 5 35 ACCEPTEVENTS 18
+1.1 KEY FUNCTIONS AND FEATURES 5 36 VIEW STATUS 18
+37 ISOLATE/DE-ISOLATE 20
+38 TIME/DATE 21
+2. OPERATING INSTRUCTIONS 6 381 SETTIME/DATE 2
+2T O O SN ICATORS 6 382 SUMMER/WINTER 22
+39 EVENTLOG 22
+21.1 GENERAL 6 39.1 VIEW EVENT LOG 22
+212 OPERATORDISPLAY 6 39.2 PRINT EVENT LOG 23
+2.1.3 OPERATOR CONTROL 39.3 FILTER 28
+MODULE 9 3.10 VIEW/PRINT DATA 23
+2.1.4 DCM800 DISPLAY CONTROL 3.10.1VIEW/PRINT POINTS
+MODULE 9 ISOLATED 23
+22 LCD DISPLAY 11 3.10.2VIEW/PRINT POINTS
+221 FIRE WINDOW 1 UNTESTED/FAILED 24
+222 STATUS WINDOW 1 310.3VIEW/PRINT POINT VALUES 24
+223 MAIN WINDOW 1 310.4VIEW FAULTS 25
+224 SOFTKEY WINDOW 1 3.10.5VIEW LOOP POINT COUNTERS 25
+23 NORMAL OPERATION 12 310.6ACTIVE POINTS 26
+2.3.1 EVENT MONITORING 12 3.10.7BY FUNCTION 27
+2.32 EVENT DISPLAY 12 3.11 SERVIGE 28
+2.4 OPERATION IN ALARM 12 311.TWALKTEST 28
+2.4.1 SYSTEM RESPONSE 12 3.11.2MAINTENANGE 30
+242 SOUNDER SILENGING 13 3.11.3CONFIGURATION 32
+2.4.3 RESETTING THE CONTROLLER 14
+2.4.4 MULTIPLE EVENTS 14
+2.45 PRE-ALARM WARNINGS uw '}?Ug'éﬁ‘g:ff“ :2
+2.5 OPERATION IN FAULT CONDITION 14 :
+42 DAILY CHECKS 36
+25.1 SYSTEM RESPONSE 14 45 WEEKLY GHEOKS %
+252 OPERATOR ACTION 14 -
+2.6 FIRE CONTROL KEYS 15
+2.6.1 EVACUATE or FIRE ALARM 15 5 CPDINFORMATION a7
+2,62 DAYNIGHT MODE 15
+263 TEST 15
+2.7 AUXILIARY DISPLAY DEVICES 15
+27.1 GENERAL 15
+272 REPEATERS 16
+27.3 PRINTERS 16
+3. CONTROLLER FUNCTIONS 16
+3.1 ACCESS LEVELS 16
+3.1.1 GENERAL 16
+32 ENTERING PASSCODES 17
+33 VALID VALUES 17
+3.4 MAINMENU 18
+©2009 Tyco Safety Products PAGE 1 of 38
+
+Registered Company: Thorn Security Ltd.  Registered Office:  Dunhams Lane  Letchworth Garden
+
+ly Hertfordshire SG6 1BE
+
+--- PAGE 2 ---
+MX
+17A-05-0
+17 10/09
+
+This page intentionally left blank
+
+PAGE 2 of 38
+
+--- PAGE 3 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+T2000 ONLY
+
+i
+g
+
+Fig.1 MINERVA MX Fire Controller - Front Panel
+
+© 2009 Tyco Safety Products PAGE 3 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 4 ---
+MX
+
+17A-05-0
+17 10/09
+
+Fig. 2 MX2 Fire Controller - Front Cover
+
+PAGE 4 of 38
+
+--- PAGE 5 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+1. INTRODUCTION ® Power supply incorporates a 24V DC
+
+charger capable of charging up to 38Ah
+batteries to provide up to 72 hours backup
+and 30 minutes in alarm (BS 5839 : Part 1) or
+90 hours backup and 15 minutes in alarm.
+
+‘The instructions given in this document are common to all
+the *MX" range of fire controllers, any differences being
+outlined as appropriate This document is written for
+
+Firmware Version 17. ® Full EN54 compliant control switches and
+The MINERVA MX range, form a comprehensive and indicators with keyswitch enable and
+compatible range of modular and flexible EN54 approved optional programmable LED indicators and
+(the MX2 and MX Black Box Panel are additional MX control switches.
+
+compatible units which are fully EN54 : Part. 2 and Part. 4 ® Large backlit 16 line x 40 character LCD
+compliant) addressable fire controllers using Tyco MZX display  with  detailed and  precise
+Technology™. identification of all sectors, zones and points,
+
+Standard MINERVA MX fire controllers include: comprehensive 95 character emergency
+
+® MXI1000 - 250 point,16/32/ 40/80/120/160/
+200 or 240 zone network capable fire
+controller — 1 loop controller in compact
+designer housing.
+
+® MX4000 — 1000 point, 16/32/40/80/120/
+160/200 or 240 zone network capable fire
+controller - 2 to 8 loop controller in compact
+designer housing.
+
+® 2000 - 1000 point, 16/32/40/80/120/160/
+200 or 240 zone network capable fire
+controller - 2 to 8 loop controller in Marine
+approved compact housing.
+
+MXR - Fully functional repeater in compact
+designer housing.
+
+T2000 Marine Full Function Repeater.
+
+® MX2-100 - 250 point, 16/32/40/80/160/200
+or 240 zone network capable fire C.LE. - |
+loop C.LE. in housing with integral backup
+batteries.
+
+®  MX2-200- 1000 point, 16/32/40/80/160/200
+or 240 zone network capable fire C.LE. - 2to
+8loop C.LE. in housing with integral backup
+batteries.
+
+procedure instructions and full system status
+indication including counters of number of
+points in alarm, fault, disabled and test
+mode.
+
+Extensive menu driven and password
+controlled operator and engineer functions
+including extensive isolate, override, test,
+service and diagnostic functions.
+
+System manager and engineer functions
+including editing of point descriptions and
+viewing/printing of point values including
+CO levels, temperatures and detector
+obscuration levels.
+
+Optional self-test and  verification  of
+detectors from the controller.
+
+Peer-to-peer communication with up to 98
+other controllers providing a seamless
+operator interface to all other relevant
+defined controllers on the network.
+
+Event log for logging of up to 3000 events
+which can be viewed, selected and printed.
+Constant monitoring of all detectors and
+input circuits and processing of detector
+sensor information using standard, CCO and
+FastLogic fuzzy logic algorithms.
+
+Long term averaging and  condition
+All variants fully comply with the requirements of EN54 monitoring of smoke detectors with dirty
+parts 2 and 4 and may be installed in a system which detector identification.
+
+complies with the requirements of BS 5839 : Part 1. The ® Automatic or manual switching of detector
+Marine versions also comply with the requirements of modes and sensitivities according to changes
+S.0.L.A.S. and marine Classification Societies. in occupancy pattems (day mode) and
+variations in fire risk.
+
+1.1 KEY FUNCTIONS AND FEATURES ® Constant fault monitoring of all hardware
+
+) ) components, power supplies, batteries,
+All MINERVA MX controllers are built around common relays,  sounder and  speaker cireuits,
+
+hardware and software modules incorporating the following addressable loops. detectors and addressable
+common functions and features: devices, monitored input circuits, remote
+® An integral 110250V ac battery backed and local communication links.
+power supply providing 24V de (nominal) at .
+up to SA (alarm load) for powering
+conventional _detection zone  interfaces
+(DIMS00/DDMS00), conventional sounders
+and beacons, door release mechanisms and
+interface relays and remote full function
+repea
+© 2009 Tyco Safety Products PAGE 5 of 38
+
+Communication with up to 1000 addresses
+onup o8 detection loops per controller and
+a combination of up to 1500 auxiliary 1/0,
+controller plus 7 full function repeaters and
+multiple remote printers.
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 6 ---
+MX
+17A-05-0
+17 10/09
+
+Signalling, supervision, status and fault
+indication of central station alarm signalling
+equipment such as BT Redcare STU.
+
+Option for one repeater to be provided from a
+remote PC computer using MX-Remote
+service and diagnostics software over the
+public switched telephone network (PSTN).
+
+Default cause and effect providing computer
+control of all outputs, sounders, beacons and
+speakers in the event of alarm conditions.
+
+Powerful programmable cause and_effect
+using the flexible and easily configured
+MINERVA ~ group  based  event/action
+programming language.
+
+Synchronisation and multiple output pulse
+pattems for phased evacuation of up to 240
+zones using “Bell Mapping”.
+
+Arrangement of points in up to 240 detection
+zones per controller.
+
+2. OPERATING INSTRUCTIONS
+
+21 OPERATOR’S INDICATORS
+AND CONTROLS
+
+211 GENERAL
+
+ALL operator controls and indicators are mounted on the front
+panel. For the MX/T2000, these are provided by the Operator
+Display Module (ODMS00 - top module) and the Operator
+Control Module (OCMS00 - bottom module). The ODM
+contains the alphanumeric LCD display. keypad and
+‘Softkeys’. The OCM contains the ‘ENABLE KEY’,
+indicator LEDs and control keys.
+
+For MX2 systems all operator controls and indicators except
+the *ENABLE KEY" are provided by the Display Control
+Module (DCM800). The ‘ENABLE KEY' is provided
+separately at the bottom of the front panel.
+
+21.2 OPERATOR DISPLAY MODULE
+
+‘The Operator Display Module (Fig. 3) contains the following
+indicators and controls:
+
+® A 640 character backlit LCD alphanumeric
+display, arranged in 16 rows of 40 characters.
+‘This is used to display information about the
+system status and alarms. The backlight is on
+when the keyswitch is set to the ‘enable’
+position, when a key is pressed or when an
+Alarm or Fault is present.
+
+® Switches Fl to F5 - used to carry out the
+functions displayed on the bottom line of the
+LCD display.
+
+.
+
+An alphanumeric keypad used for entering
+access  codes, text
+information as follows:
+
+strings o general
+
+Used to enter the number 0
+
+Used to enter the number 1 or special
+symbols
+
+Used to enter the number 2 or letters ‘A’,
+B or'C
+
+Used to enter the number 3 or letters ‘D’
+Eor ‘F
+
+Used to enter the number 4 or letters
+Hor T
+
+Used to enter the number 5 or letters ‘J’,
+K or ‘L
+
+Used (0 enter the number 6 or letters *M’,
+N or '0°
+
+Used to enter the number 7 or leters ‘P’
+QR o 'S
+
+Used to enter the number § or letters
+U or v
+
+Used to enter the number 9 or letters
+XY or Z
+
+® SCROLL UP and SCROLL DOWN keys -
+used to scroll through a display or log one
+entry ata time. These keys will auto-repeat
+if held down, ie, will scroll continuously.
+
+® When used in conjunction with the
+Configuration menu, the UP key switches
+to upper case and the DOWN key to lower
+case.
+
+PAGE 6 of 38
+
+--- PAGE 7 ---
+MX
+
+EQUIPMENT:
+
+17A-05-0
+
+PUBLICATION:
+
+10/09
+
+17
+
+ISSUE No. & DATE:
+
+QVdAIN JIHINNNVHATY
+
+Sd vd
+
+NMOQ T10H2S
+
+uoT3RWIOFUI
+
+dn 77040S
+
+SADILIOS
+
+€d [£] =]
+
+Teisusd
+MODUTM / WOOIYSEM
+I00Td U3
+
+SS0€ 0€0 Suoz
+°ITd 3sel
+
+LTT wooy
+
+I0OPTIIOD IOOTJ 3IST
+Z00€ 200 suoz
+S9ITd 3sitd
+
+Fig.3 MX/T2000 - Operator Display Module
+
+PAGE 7 of 38
+
+© 2009 Tyco Safety Products
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+Thorn Security Ld. - Registered Office:
+
+Registered Company:
+
+--- PAGE 8 ---
+MX
+17A-05-0
+17 10/09
+
+SYsTEM
+wed, 01-Mar-08
+13:15
+
+Company Name
+
+W ccrren
+W rur
+
+LeD
+
+ALPHANUMERIC
+KEYPAD
+SCROLI
+
+|
+=
+
+scroLL
+DOWN I
+
+Fig.4 MX2 - Display Control Module
+
+PAGE 8 of 38
+
+--- PAGE 9 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+213  OPERATOR CONTROL MODULE CONTROLS
+.
+
+The Operator Control Module (Fig. 5) contains the
+following indicators and controls:
+
+INDICATORS
+GENERAL
+® 2 red General ALARM LEDs.
+® A yellow General Fault LED.
+® A yellow General Disablement LED.
+® A yellow General Test LED.
+
+PROTECTION
+® A red Activated LED.
+® A yellow LED to indicate Fault.
+® A yellow LED to indicate Disabled.
+
+DAY MODE
+® A yellow LED to indicate Day Mode.
+
+SIGNALLING
+® A red Signalling Activated LED.
+® A yellow Signalling Fault LED.
+® A yellow Signalling Disabled LED.
+
+SOUNDER
+® A red Sounders Activated LED.
+® A yellow Sounder Fault LED.
+® A yellow Sounders Disabled LED.
+
+CONTROLLER
+® A green Power ON LED.
+® A yellow Mains Fault LED.
+® A yellow System Fault LED.
+
+® A yellow Power Fault LED indicates loss of
+mains and back up power (T2000 only).
+
+‘ENABLE’ keyswitch - a two_position
+keyswitch, with positions *normal® (0) and
+“enable’ (1).
+
+Seven control switches:
+
++ ‘SILENCE BUZZER’ - used to silence
+the internal buzzer.
+
+« ‘SILENCE/RESOUND’ - used tosilence/
+resound external sounders.
+
++ ‘EVACUATE’ (FIKE ALARM T2000) -
+used to activate external sounders.
+
++ “RESET’ - used to reset the system after
+an alarm or event has occurred.
+
++ ‘DAY MODE’ - used to set the system
+into the daytime operation mode.
+
++ ‘INVESTIGATE DELAY’ -isusedtoend
+signalling delay time and start the
+investigation time.
+
++ “SPARE’ - is configurable to customer
+requirements.
+
+214 DCMB800 DISPLAY CONTROL
+MODULE
+
+The DCMS800 (Fig. 4) is used on the MX2 variants to
+provide all the functions of the OCMS00 and ODMS00 as
+used in the MX and T2000 variants.
+
+Indicators and controls are defined as for the ODMS00 and
+OCMS00 modules in Section 2.1.2 and 2.1.3. The
+DCMS$00 includes all indicators and controls listed in these
+two sections except for the ‘SPARE’ - FUNCTION KEY
+from the ODMS00.
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+PAGE 9 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 10 ---
+MX
+
+a1y 3w STHOLMS. HOLINSAZ
+
+1I0V4 4IMOd)
+KINO 00021 TiawNa
+
+KINO 00021
+
+i | [d [d [@l [&h
+R
+
+Lion annosay
+
+TR CUEEEEN sonansen
+
+armowaa
+
+[\ oo 00
+
+I ¢ | w5
+SH3IANNOS .
+aztavsia )
+
+a4 yamod |
+
+LINv4 WALSAS amavsia | nnvd B
+anv4 snivw B Rzl ¢ |
+NO Hamod | aawaLov | [
+o
+3
+S
+o?
+&b
+<
+<
+N~
+
+Fig. 5 MX/T2000 - Operator Control Module
+
+PAGE 10 0of 38
+
+--- PAGE 11 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+22 LCD DISPLAY
+‘The LCD display is divided into four windows as shown in Fig. 6:
+
+® Fire 19 characters x 8 lines
+
+® Main 19 characters x 14 lines
+
+® Suaws 19 characters x 5 lines
+
+® Softkeys F1,F2, F4 and F5 - 7 characters, F3 - 8 characters
+
+Fig. 6
+
+221  FIRE WINDOW 222  STATUS WINDOW
+The fire window in the quiescent mode will display the ‘The status window displays the number of faults, isolates
+product name, date/time and company name. etc.
+
+On detection of an Alarm condition, the fire window will
+display ‘First Fire' and associated information. For
+muliiple alarms in the system the fire window will display
+the first and last alarms. The main window displays logs, information text, menus
+The number of alarms is displayed at the right hand side of and device identification.
+
+line 5 in the fire window.
+
+223 MAIN WINDOW
+
+224 SOFTKEY WINDOW
+
+The softkey windows change dependant on the option
+selected.
+
+© 2009 Tyco Safety Products PAGE 11 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 12 ---
+MX
+17A-05-0
+17 10/09
+
+2.3 NORMAL OPERATION
+
+When the controller is initially powered up, with no faults or
+alarms in the system and the ‘Enable’ key in the ‘off’
+position, the following screen is displayed:
+
+2341 EVENT MONITORING
+
+The term “event’ is used to describe a change in system
+status that must be acknowledged and/or generates an
+output.
+
+Examples of events include:
+® Mains failure
+® Detection of a fire condition
+
+® Operation of 'EVACUATE/FIRE ALARM’
+key
+
+All events trigger a response, the category of which depends
+onthe event type and will be one of the following (in priority
+order):
+
+® Full Alarm or Alert
+® Pre-Alarm
+
+® Fault
+
+Tsolation
+
+® Test Mode
+Warning
+
+Information
+
+When an event oceurs, it is stored in the event log. The
+contents of this log may be displayed in two formats:
+
+® Unaccepted and locally accepted events
+
+® All events in chronological order of
+oceurrence
+
+The events are stored in chronological order with
+unaccepted events marked as outstanding. The event log
+may hold up to 3000 events; in the unlikely occurrence of
+the log filling up, the oldest record will be overwritten.
+
+232 EVENT DISPLAY
+
+The display automatically shows the last event of the
+category with the highest priority. With Scroll keys, it is
+possible to get all events in this category in chronological
+order. With Softkey F5 the user can change to another
+category (if available).
+
+Important: Category *Full Alarm/Alert” shows only the first
+point of a zone in alarm. If two points of one zone are in
+alamm, only the first one which was in alam will be
+displayed. The second alarm can only be accessed via the
+menu option *View Event Log’.
+
+2.4 OPERATION IN ALARM
+241 SYSTEM RESPONSE
+
+When a fire condition is detected. the system responds as
+follows:
+
+1) The intemal buzzer will sound in a
+continuous tone.
+
+2) Both red ‘FIRE’ LEDs will light.
+
+3) The SOUNDERS and SIGNALLING
+‘ACTIVATED' red LEDs will light.
+
+Note: If the alarms initiated by a detector, there may
+be a delay of from 1 to 10 minutes before the
+NOTIFICATION STATUS ‘ACTIVATED' led
+lights. This is to allow time for the alarm to be
+investigated and any relevant action taken
+before signalling is initiated. A Callpoint set to
+evacuate will initiate signalling
+immediately. Refer to Section 2.6.3.
+
+4) For the MX controllers, the sounders and
+any other configured outputs will be
+activated.
+
+5) The LCD will display a message in the
+format:
+
+PAGE 12 0f 38
+
+--- PAGE 13 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+6) Fora T2000 controller, the sounders and any
+other configured outputs will be
+activated. If the alarm is not accepted
+within the programmed delay period by
+pressing the ‘INVESTIGATE DELAY key,
+all other sounder outputs will be activated.
+
+‘The message format s as follows:
+Under ‘FIRE':
+
+‘The top line shows the Zone and Point number of the
+device in alarm.
+
+The second line shows the zone description (defined at
+configuration).
+
+‘The third line shows the point description (defined at
+configuration).
+
+‘The fourth line shows the type of alarm.
+1If no information text is shown:
+
+‘The fifth line shows date and time.
+‘The sixth line shows the device type.
+
+The seventh line shows the actual CURRENT
+temperature (if heat sensor).
+
+Note: The above is only displayed if Extended Alarm
+Information ~ has ~ been  selected  at
+configuration.
+
+Under ‘First Fire':
+
+The first three lines from ‘FIRE' are
+repeated.
+
+The number of alarms is displayed on the
+black bar underneath the first fire
+information.
+
+242 SOUNDER SILENCING
+
+‘When a FIRE ALARM is received, investigate the cause of
+the alarm.
+
+'WARNING:
+
+'WHEN SEARCHING AN AREA FOR THE
+SOURCE OF A FIRE ALARM SIGNAL,
+WHERE A FIRE ALARM HAS BEEN
+INITIATED BY A ‘CARBON MONOXIDE’
+FIRE DETECTOR, IT MUST BE
+REMEMBERED THAT A CARBON
+MONOXIDE FIRE DETECTOR MAY
+GENERATE AN ALARM BEFORE OTHER
+FIRE INDICATORS (SUCH AS SMOKE) ARE
+PRESENT.
+
+© 2009 Tyco Safety Products
+
+Registered Comy
+
+¢ Thorn Security Lid. ~ Registered Office:
+
+THIS OCCURS MOST NOTABLY IN DEEP
+SEATED FIRES IN DENSELY PACKED
+MATERIALS, AREAS WHERE FIRES MAY
+OCCUR IN CUPBOARDS AND
+STOREROOMS REMOTE FROM
+DETECTORS AND WHERE SMOKE
+IMPERVIOUS BARRIERS EXIST BETWEEN
+THE SEAT OF THE FIRE AND THE
+DETECTOR (SUCH AS WITHIN WALL
+CAVITIES). THESE FACTORS SHOULD BE
+CONSIDERED CAREFULLY BEFORE
+DECLARING SAFE ANY AREA WHERE A
+CARBON MONOXIDE FIRE DETECTOR
+HAS RAISED AN ALARM.
+
+Once the cause of the alarm has been determined and all
+appropriate action has been taken, silence the sounders as
+follows:
+
+a) Insert the key into the front panel keyswitch
+and trn it clockwise to the ‘enable’
+position.
+
+b) Press ‘SILENCE/RESOUND’.
+
+‘The system will respond as follows:
+i) The sounders will be silenced.
+
+ii) The ‘SOUNDER ACTIVATED' LED will
+extinguish.
+
+iii) Al other outputs will remain activated.
+iv) The LCD display will remain showing the
+type of alarm and the full zone
+identification. The ‘GENERAL' display
+
+window will show ‘Sound SIL.
+
+If it is required to manually resound the sounders, pressing
+the ‘SILENCE/RESOUND’ key will reactivate the
+sounders.
+
+PAGE 13 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 14 ---
+MX
+17A-05-0
+17 10/09
+
+243 RESETTING THE CONTROLLER
+Note:
+
+1) When the system is in a Fire Alarm state,
+Silence must be operated before Reset is
+possible. This interlock is always present
+under Fire Alarm condition, even if all sounders
+are isolated.
+
+2) The controller should also NOT be reset until
+the source of the alarm has been determined
+by the Fire Brigade or the cause otherwise
+found (and the condition removed).
+
+Once the notes above have been observed, press the
+*RESET" key. The display will show the following message:
+
+Reset
+in
+Progress. ..
+*
+
+After 17 to 20 seconds, the LCD will retum to the normal
+display (Section 2.3) if no faults or other events are present.
+
+244 MULTIPLE EVENTS
+
+If, when in alarm condition, a second alarm (of another
+zone) is received, the system response is dependent on the
+nature and source of the second alarm as follows:
+
+4) If the sounders have NOT been silenced, the
+following will occur:
+
+i) The internal buzzer will continue to sound
+without interruption.
+ii) The LCD will continue to display the
+
+alarm message for the FIRST fire alarm
+and also the last fire alarm.
+
+iii) The alarm count will be incremented.
+
+245 PRE-ALARM WARNINGS
+
+If the LCD shows a message including a “warning”
+indication, a pre-alarm condition has been detected by the
+controller. This may be indicated for example, if a detector
+identifies a build-up of smoke or heat that might result from
+afire, but the alarm threshold has not yet been reached. The
+internal buzzer will sound but the sounders and visual fire
+indicators will remain inactive at this stage. Proceed as
+follows:
+
+4) Accept the event, (if the option is available),
+noting the location of the event.
+
+b) Tnitiate action to deal with the condition
+indicated, taking care to determine if the
+waning was initiated by a fire condition or
+by a system fault.
+
+PAGE 14 0f 38
+
+If the detector subsequently shows an alarm condition, an
+alamm will be generated, regardless of whether the pre-
+alarm waming was accepted.
+
+2.5 OPERATION IN FAULT CONDITION
+25.1 SYSTEM RESPONSE
+
+When a Fault condition is detected, the system will respond
+as follows:
+
+) The intemal buzzer will pulse.
+
+b) The yellow ‘GENERAL FAULT’ LED will
+light.
+
+©) The LCD backlight will come on and will
+display the following type of screen:
+
+‘The message format is as follows:
+
+The top line shows the Zone and point
+number in fault condition.
+
+‘The second line shows the zone description
+(defined in configuration).
+
+‘The third line shows the point description
+(defined in configuration).
+
+‘The fourth line shows the type of fault.
+If no information text is shown:
+‘The fifth line shows the date and time.
+‘The sixth line shows the device type.
+
+The message will continue to be displayed until the
+intervention of an operator or the fault is cleared.
+
+25.2 OPERATOR ACTION
+When a Fault condition occurs, proceed as follows:
+
+4) Press the *SILENCE BUZZER' key.
+The internal buzzer will silence, but the
+LED and display will continue to operate as
+described.
+
+--- PAGE 15 ---
+b) Investigate the source of the fault and where
+possible remove.
+
+Note: If the fault cannot be cured, contact your local
+supplier and arrange for a service visit.
+
+The fault information will be displayed until the fault is
+cleared.
+
+2.6 FIRE CONTROL KEYS
+
+There are six fire control keys on the Operator Control Module
+(or Display Control Module for MX2), namely:
+
+® SILENCE BUZZER
+
+® SILENCE/RESOUND
+
+® RESET
+
+® DAY MODE
+
+® INVESTIGATE DELAY
+
+® EVACUATE (FIRE ALARM for Marine)
+
+Only the ‘SILENCE BUZZER' key is active without the
+‘Enable’ key being inserted and turned to the ‘Enabled’
+position.
+
+The functions of ‘SILENCE BUZZER', SILENCE/
+RESOUND’ and ‘RESET have already been described. The
+functions  of EVACUATE or FIRE ~ALARM',
+“INVESTIGATE DELAY" and "DAY MODE® are described in
+the following paragraphs.
+
+26.1 EVACUATE or FIRE ALARM
+
+Once enabled by the keyswitch, pressing ‘EVACUATE or
+FIRE ALARM’ will cause the following:
+
+) The internal buzzer will sound continuously.
+b) The red ‘FIRE’ LEDs will light.
+
+) The sounders and any other configured outputs
+are activated.
+
+d) The LCD will display the following type of
+screen:
+
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+
+ISSUE No. & DATE: 17 10/09
+262  DAY/NIGHT MODE
+
+In night mode the system activates immediately when an
+alamm is received, the internal buzzer, all sounders and
+alarm signalling outputs operate.
+
+In day mode, on receipt of an alar, only the internal
+buzzer and sounders are activated immediately. A delay
+time is started (default 60 seconds) in which the alamm
+message must be acknowledged (‘Investigate delay’
+switch) to start the investigation time. If there is no
+acknowledgement within this time, the alarm signalling
+outputs will be activated.
+
+The investigation time (default 10 minutes) is the time
+remaining for staff to carry out investigation of the alarm
+source, before the alarm signalling outputs will be
+activated.
+
+An evacuate callpoint will initiate an immediate alarm.
+
+Signalling is always immediate if sounder faults existin the
+system.
+
+26.3 INVESTIGATE DELAY
+
+‘The ‘INVESTIGATE DELAY” switch is only active when
+the controller is in the DAY MODE’ of operation. If a
+Fire Alertis received at the controller, the signalling output
+is delayed for | minute, if the ‘Tnvestigate Delay” switch is
+pressed during this period a further delay (configurable
+between | and 10 minutes) is initiated. This delay allows
+for the alarm to be investigated, if it is a false alarm, the
+cause of the alarm can be removed and the controller to be
+silenced and reset. If the alarm is real, then pressing the
+‘EVACUATE/FIRE ALARM’ switch will cause the
+signalling output to activate.
+
+26.4 TEST
+
+Pressing 9 “Test Buzzer, LEDs & Display’ causes all the
+LEDs and intemal buzzer to operate for  few seconds. If
+the system includes a repeater panel, only the panel that is
+operated is activated.
+
+2.7 AUXILIARY DISPLAY DEVICES
+271 GENERAL
+
+Depending on the configuration of the system, there may
+be one or more auxiliary display devices fitted. These
+devices may be of the following types:
+
+® Repeaters
+
+® Printers
+
+The functions of and operating instructions for these
+devices are given in the following paragraphs.
+
+© 2009 Tyco Safety Products
+
+PAGE 15 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 16 ---
+MX
+17A-05-0
+17 10/09
+
+272 REPEATERS
+
+A repeater allows the controller to be operated from a
+remote location and provides remote indications of the
+state of the controller. The front panel of the repeater is
+identical to that of the controller (see Fig. 1) and all
+controller operations may be performed at the repeater
+panel.
+
+273 PRINTERS
+
+Refer to the manual supplied with the printer for operating
+instructions.
+
+2731 LCD REPEATERS
+LCD Repeaters can:
+
+® Display the alarm and fault messages as
+displayed on the Controller on a backlit 4 x
+20-character alphanumeric display.
+
+®  Provide aninternal log for upto 150 events.
+
+® Provide an internal audible wamning of an
+event.
+
+® Allow the event log to be displayed using
+the scroll keys.
+
+® Silence the intenal buzzer and external
+sounder (if fitted) with the key.
+
+3. CONTROLLER FUNCTIONS
+
+As stated, the MX controller has built-in functions. These
+functions allow the operator to perform such actions 2
+viewing the event log, setting the date and time, etc. The
+functions are arranged according to sophistication and
+access to certain of them necessarily needs to be restricted
+to trained staff.
+
+The control of access has been achieved by assigning
+functions to Access Levels, each Access Level having an
+associated numeric passcode. The passcode for a
+
+particular Access Level is defined at system configuration.
+
+3.1 ACCESS LEVELS
+
+311  GENERAL
+
+The access levels available are as follows:
+® Customer Operator 1 to 7 - 4 digits
+®  Customer Manager 1 - 5 digits
+
+®  Customer Manager 2 - 5 digits
+
+These access levels are described in the following
+paragraphs. A maximum of 99 Passcodes are available
+which may be split between Access Levels as required.
+
+Note: The Customer Operator 1 Access Level is
+achieved by turning the ‘ENABLE' key to the
+enable position (ie, a Passcode is not
+required).
+
+Table 1 contains Access Levels and Menu Options
+available at each level.
+
+PAGE 16 of 38
+
+--- PAGE 17 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+Customer Operator
+N
+
+LaYBUZZE LD e
+Unfesrored Events
+Thformation Text
+
+ew Events (Scroling)
+
+Dat
+Sl time/Date
+Summer Winier
+
+Tog.
+ew Even Log
+PriRT EveR Log
+
+Tew/print sta N
+Poms Tsolied ON
+PO Unlesied/Failed ON
+POt Valties ON
+ew Fanlls ON
+Toop Point Coumier ON
+Tive Pomrs ON
+
+By Furction ONOFE
+
+ATk TeT
+VTAIRIETNCE CRETREET
+Fire Allrm Cyele Count
+‘Mainierancs Request
+Batkery Test
+Projeci Numbers
+Software Versions
+NMenir Pomts
+Configuration
+
+EEEECEERE
+
+Table.1 Menu Options and Access Levels
+
+3.2 ENTERING PASSCODES 3.3 VALID VALUES
+In order (o avoid repetition, however, the general procedure  The following are values which may be entered for each
+for entering a PASSCODE is described as follows: option:
+i) Tum the ‘ENABLE' key to the ON
+position, press F3 (Passcode), enter your Panel Number 1-99
+ID (press F5 “Enter” if the ID has only one Zone Number -
+digit). 240*
+Sector Number -240
+RBus Number| 0-15
+Real Point 24
+Pseudo Point  |1-8
+XBus Point 1-96
+Local 10
+Real Point T-18
+Pseudo Point  [1-42
+10Bus point 1-24
+Timer Point 1-10
+User Point 1-10
+
+“** depending on the configuration 16/32/40/80/120/160/
+200 or 240 zones.
+
+© 2009 Tyco Safety Products PAGE 17 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 18 ---
+MX
+17A-05-0
+17 10/09
+
+3.4 MAIN MENU
+
+When the system is in quiescent mode (ie, displaying the
+date and time), entering a passcode affords the user access
+o the main menu. The structure of this menu is shown
+
+below.
+
+MX Panel
+1 - Accept Events
+Thu, 26-Jul-07 2 - View Status
+00:01 3 - 1Isolate/De-Isol
+4 - Time / Date
+Company Name 5 - Event Log
+6 - View/Print Data
+General 7 - Service
+8 - Configuration
+9 - Test Buzzer,
+
+LEDs & Display
+0021
+
+Alarm Count:
+
+‘The menu shown is for Customer Manager 2 level. Only the
+options appropriate to the access level entered will be
+displayed.
+
+Each of the options available leads to further menus or
+functions, which are described in the following paragraphs.
+
+3.5 ACCEPTEVENTS
+
+Allows displayed events to be accepted. Press | from the
+main menu, the following type of screen will be displayed:
+
+SYSTEM
+Zone 000 R10
+System Zone
+Battery Fault IP
+BATTERY FAULT
+
+01-Mar-00 14:15:02
+Digital Input
+
+Thu, 26-Jul-07
+14:15
+
+Company Name
+
+1000
+
+Back
+
+Use the F4 Key ‘<<’ and F5 key *>> keys to move between
+events. Use F3 *Accept’ to accept an event.
+
+3.6 VIEW STATUS
+
+Allows the status of all points and zones on the system to be
+viewed. Press 2 from the Main menu, the following type of
+screen will be displayed:
+
+View Status
+
+Point.
+
+Point I/P cnly
+Point O/P cnly
+Zone
+
+Zone Maps
+Network Status
+
+Point - allows the status of any points on the system (both
+inputs and outputs) to be checked.
+
+Point I/P only - allows the status of only input devices to be
+checked (eg, detectors).
+
+Point O/P only- allows the status of only output devices to be
+checked (eg, sounders, functional bases, etc.).
+
+Zone - allows the total status of all points in a specified zone
+0 be checked.
+
+Zone Maps - a zone map can be displayed for Alarm, Fault,
+Test, Tsolated Inputs Protection Equipment, Sounders and
+Plant Equipment states. A grid of 80 zones is displayed
+which can be scrolled between pages.
+
+Network Status - allows the status of panels on the network
+0 be checked (only if a network is configured).
+
+Select the required number from the View
+following type of screen will be displayed:
+
+MX Panel
+
+Thu, 26-Jul-07
+14:15 1 - Loop Point
+2 - RBus_Point
+Company Name 3 - Local I/O Point
+
+General
+
+Select the type of Point or Zone:
+1) Loop Point (Addressable Loop).
+2) RBus Point.
+3) Local 1/0 Point.
+
+‘The following type of screen will be displayed:
+
+Note: If the panel is in a networked system, the panel
+number wil be shown as in the following
+
+example.
+
+PAGE 18 of 38
+
+--- PAGE 19 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+® Loop Point (Addressable Loop)
+Use the *+", *-* and ">>" keys to select the
+required Loop and Point, then press Enter
+key.
+
+® RBus Point (Remote Bus)
+Use the *+", *-* and ">>" keys to select the
+required RBus, Category and Point, then
+press Enter key.
+
+® Local VO Point (Field Interface Module)
+
+Use the *+", *-* and ">> keys 1o select the
+required Category and Point, then press Enter
+key.
+
+‘The following type of screen will be displayed:
+
+Point Tnput and Point Output are displayed in the same
+format.
+
+‘The top line shows the selected option.
+
+The second line shows the Zone and Point number of the
+device.
+
+The third line shows the Sector description (defined at
+configuration).
+
+The fourth line shows the Zone description (defined at
+configuration).
+
+The fifth line shows the Point description (defined at
+configuration).
+
+‘The sixth line shows the device type.
+
+Actual Status Input can be in one of the following state:
+® Normal
+® Fault
+® Active
+
+® PreAlarm
+
+Actual Status Output can be in one of the following
+conditions:
+
+® On
+® off
+® Pulsel
+
+® Pulse2
+
+Selecting Zone will display the following type of screen:
+
+Sereen display (the asterisks are not shown on the sreen):
+FYESINO
+**NONE/ PARTIAL/ALL
+
+Function Keys F3/F4 will decrement/increment the zone
+number.
+
+Description
+
+Alarm Yes One or more devices of a
+zone in Alarm Mode
+
+Fault Yes One or more devices of the
+zone in Fault Mode
+
+Isolate Al Al alarm input devices of
+the zone are Isolated
+
+Isolate Partial  |Atleast one, but not all
+alarm input devices are
+Isolated
+
+Wak Test ~ |Yes Al alarm input devices of
+the zone in Walk Test
+
+© 2009 Tyco Safety Products
+
+PAGE 19 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 20 ---
+MX
+
+17A-05-0
+
+17 10/09
+Node Type State of network communication to supervisor
+
+Good In Fault
+
+MX Panel o m’
+Minerva Panel N w
+Other Node, e.g. TXG 0 o
+Unconfigured Node
+Unexpected Reply From Unconfigured Node 7
+
+Table 1:
+
+For Zone Maps, select: 3.7 ISOLATE/DE-ISOLATE
+
+1 - Alarm 5 - Protection Eqp. The Isolate/De-isolate option allows the following to be
+2 - Fault 6 - Sounders isolated/de-isolated:
+
+3-Test 7 - Plant Equipment ® Point Complete 1
+4 - Tsolated Inputs ® Point Input
+
+®  Point Output
+
+oW
+
+® By Function
+
+*  Detectors 1
+
++ Callpoints
+(also interrupt devices)
+
+2
++ Alam UPs 3
++ Sounders 4
++ Protection Eqp. 5
++ Extinguishing 6
++ Plant Equipment 7
+
+2
+
+F3
+
+Extinguish Controls
+Active zones are shown by a letter indicating the type of zone ®  Fault Signalling
+map selected. .
+
+Alam Signalling F4
+
+Selecting 6 Network Status will display the following type of "
+screen (only available if a network is configured): All Sounders F5
+Press 3 from the Main menu. The following screen will be
+
+displayed:
+
+See Table | for an explanation of the displayed codes.
+
+Select the required number from the Isolate/De-Isolate
+menu, then select the type of point (as described in Section
+3.5):
+
+PAGE 20 of 38
+
+--- PAGE 21 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+® Loop Point (Addressable Loop) ‘The following screen shows an example of Zone isolation:
+
+Use the *+, *-* and *>>" keys to select the
+
+required Loop and Point, then press Enter
+key.
+
+® RBus Point (Remote Bus)
+Use the “+', *-" and “>>' keys to select the
+required RBus, Category and Point, then
+press Enter key.
+
+® Local /O Point (Field Interface Module)
+Use the “+', *-* and “>>' keys to select the
+required Category and Point, then press
+Enter key.
+
+CAUTION:
+
+Successes:  Number of points that were
+Isolating I/O points may break compliance with Isolated
+ENS54. Caution should be exercised when Matches:  Number of points in Zone (detectors)
+dealing with mandatory switches and
+indicators. Such operations are reserved for
+authorised trained personnel only.
+
+The following screen shows an example of All Sounders
+
+isolation:
+Successes: Number of sounders (De-)lsolated
+Matches: Number of sounders in Zone
+
+Isolation Status Tsola: Number of points
+
+In the *Customer Operator” access levels, only points on the 150.5: Number of isolated sounders
+
+addressable loop can be isolated or de-isolated.
+
+Tsolations are counted and displayed (eg. Tsol 001). If only
+
+the input or output of  point is isolated, this is counted as a
+
+complete isolation of the point.
+
+© 2009 Tyco Safety Products. PAGE 21 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 22 ---
+MX
+17A-05-0
+17 10/09
+
+3.8 TIME/DATE
+
+Press 4 from the Main menu. The following type of screen
+will be displayed:
+
+MX Panel
+
+1 - Set Time/Date
+2 - Summer/Winter
+
+Company Name
+General
+
+Back
+
+3.81 SET TIME/DATE
+
+Press 1 from the Time/Date menu. The following type of
+screen will be displayed:
+
+Back
+
+Use the *>>" key to move the cursor between options, enter
+date and time values via the keypad or Softkey F3 (*-") and
+F4 ().
+
+Note:
+
+1) When a value has been changed, F5 shows
+‘Save’, use this key when all editing has been
+completed.
+
+2) Months January to September can also be
+entered with the keypad:
+
+1= January
+
+PAGE 22 of 38
+
+3.8.2 SUMMER/WINTER
+
+Press 2 from the Time/Date menu. Select summer, the
+following type of screen will be displayed:
+
++1h
+28-Mar-10 +1h
+28-Mar-11  +1h
+28-Mar-12  +1h
+28-Mar-13  +1h
+28-Mar-14  +1h
+28-Mar-15  +1h
+28-Mar-16  +1h
+28-Mar-17  +1h
+28-Mar-18  +1h
+
+14:15
+
+‘These screens cannot be changed. use F5 to toggle between
+‘Winter and Summer.
+
+Dates are not shown on a T2000.
+
+3.9 EVENTLOG
+
+Press 5 from the Main menu. The following type of screen
+will be displayed:
+
+MX Panel
+
+Thu, 26-Jul-07
+00:01
+
+Company Name
+
+Back
+
+39.1 VIEW EVENT LOG
+
+‘This option allows all events in the event log to be viewed
+or printed.
+
+Select option 1 from the Event Log menu, the following
+type of screen will be displayed:
+
+Event Lo
+MK Panel
+Thu, 26-Jul-07 [fZone 000
+14:15 System Zone
+Company Name TEST FINISHED
+General 04-Feb-02 19:30:00
+Epty -
+R e oy
+0001/0010
+Back l<<
+
+--- PAGE 23 ---
+‘The latest event is displayed. use the ‘<<’ and *>>" keys to
+scroll through the log and the *|<<” to move to the back of
+the log or the *>>[' key to move to the front of the log.
+
+® EventID - Displays the absolute number of
+anevent (1 1065.535). After 65.535 it starts
+with 1 again.
+
+® 0001/0010 - The first number is the actual
+position in the event log (1 means it displays
+the newest event log entry. The second
+number displays the number of entries in the
+event log (max. 3,000).
+
+‘The newest/last event will be displayed when the Event Log
+is entered.
+
+3.9.2 PRINT EVENT LOG
+
+Select option 2 from the Event Log menu, the following
+type of screen will be displayed:
+
+‘This menu option is onl;
+
+ailable if at least one printer is
+configured.
+
+The destination printer can be selected if more than one
+printer is configured.
+
+‘The priorities available are shown in the following table:
+
+Cowest Priority _[Information Only
+Resel/Restarted
+Expected Events
+Tsolates
+Warnings
+Visible [solate
+Other Faults
+Critical Faults
+Gas Alert
+
+Alarm Threshold
+Non-Life Risk
+Tevel {
+
+Tife Risk Alarms
+General Alarm
+
+Highest Priority
+
+tis always printed from the selected priority (g, Non Life
+Risk) to the Highest Priority (g, Non Life Risk, Level 12,
+Life Risk Alarm and General Alarm).
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+393 FILTER
+
+Select option 3 from the Event Log menu, the following
+type of screen will be displayed:
+
+It is possible to view and to print the events of single
+categories. The category is selected by pressing the
+appropriate option number. It is also possible to select
+several categories, the selected categories are denoted by a
+“+ sign.
+
+Press F4 to view the selected categorie(s) as described in
+Section 3.8.1 or F5 to print the selected category(s) as
+described in Section 3.8.2.
+
+3.10 VIEW/PRINT DATA
+
+Allows the following options to be viewed/printed. On
+networked systems, the status of any panel on the network
+may be viewed/printed:
+
+®  Points Isolated
+
+Points Untested/Failed (during Walk Test)
+Point Values
+
+View Faults (no print option)
+
+Loop Point Counters (no print option)
+Active Points
+
+By Function
+
+Select option 6 from the Main menu, the following type of
+screen will be displayed:
+
+PAGE 23 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 24 ---
+MX
+
+17A-05-0
+17 10/09
+3.10.1  VIEW/PRINT POINTS ISOLATED Press FS to print the Untested/Failed points.
+
+Select option 1 from the View/Print Status menu, the
+following type of screen will be displayed:
+
+Points Tsolated
+
+Input
+Total
+
+Zome 001
+Point Text
+
+-001
+
+001 -002
+Point Text
+
+Back [ Output.
+
+Note: If the panel is part of a networked system,
+another screen is displayed before the above
+screen where the panel number may be
+
+selected.
+
+Press F5 “Print’ to print a list of all isolated points.
+‘The F2 Key selects either isolated inputs or isolated outputs.
+
+Points which are completely isolated (input and output) will
+be shown in both lists.
+
+310.2  VIEW/PRINT POINTS UNTESTED/
+FAILED
+
+Note: This option only works whilst still in Walktest.
+
+Select option 2 from the View/Print Status menu, the
+following type of screen will be displayed:
+
+Pts Untested/Failed
+
+MX Panel
+
+Thu, 26-Jul-07
+14:15
+
+Total : 004
+
+Zone 001
+Point Text
+
+-001 B
+Company Name
+
+Note:
+
+If the panel is part of a networked system,
+another screen is displayed before the above
+screen where the panel number may be
+selected.
+
+Points which are not tested or points which retur the wrong
+condition are then listed.
+
+3.10.3  VIEW/PRINT POINT VALUES
+
+Select option 3 from the View/Print Status menu, the
+following type of screen will be displayed:
+
+Point Values
+
+MX Panel
+
+Thu, 26-Jul-07
+14:15
+
+Company Name
+
+Select the panel number (if the panel is part of a networked
+system), loop and point number required.
+
+>>" - next field
+the number is decremented
+
+“+" - the number is incremented
+
+Pressing F5 displays the following screen:
+
+MX Panel
+
+Wed, 01-Jan-09
+14:15
+
+Conpany Name
+
+Press FS to print the Point Values of the selected loop (not
+only the displayed point).
+
+PAGE 24 of 38
+
+--- PAGE 25 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+3.10.4  VIEW FAULTS
+
+Select option 4 from the View/Print
+following type of screen will be displayed:
+
+, the
+
+View Faults
+
+MX Panel
+
+Wed, 01-Jan-08
+14:15
+
+Company Name
+General
+
+Flt P 002
+
+‘This option is view only.
+
+3.10.5 VIEW LOOP POINT COUNTERS
+
+‘This option is view only. Select option 5 from the View/
+Print Status menu, the following screen will be displayed:
+
+oop Point Counters
+
+MX Panel
+
+Thu, 26-Jul-07
+14:15
+
+Company Name
+
+Note: Only the Loop will be shown if the panel is not
+networked.
+
+Select the required panel (only if the panel is networked)
+and loop, then press the Enter key. The following message
+is displayed:
+
+Please Wai
+
+for approximately 2 minutes until the count is complete, if
+no faults are found, the following type of screen will be
+displayed:
+
+MX Panel
+
+Thu, 26-Jul-07
+14:15
+
+Campany Name
+General
+
+® Configured - the number of points
+configured.
+
+Conditions for ‘PASSED’
+® The number of configured points is equal
+the detected count of points on the loop.
+
+There are no unconfigured points.
+
+Detected points from left, right and both
+sides are equal.
+
+If all conditions are not satisfied, the *ATTENTION” screen
+will be displayed showing the relevant counters.
+
+Point Counters
+
+MX Panel
+Counter
+
+Thu, 26-Jul-07 Loop : A
+14:15 ATTENTION
+Company Neme Configured : 010
+
+General Conf. & Ident: 009
+
+Configured - the number of points
+configured.
+
+Conf & Ident - shows how many points are
+connected, identified and configured on the
+loop.
+
+Not Conf. - shows how many points were
+identified on the loop but not configured.
+
+® Both Sides/Left Side/Right Side - Shows
+how many points on the loop are recognised
+by the panel. “Left Side’ and “Right Side’ is
+the count from both sides. ‘Both Sides’
+means the detection of a closed loop.
+Note: If the value of ‘Conf & Ident is different to the
+
+number of installed devices, multiple reserved
+address may be the cause.
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+PAGE 25 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 26 ---
+MX
+17A-05-0
+17 10/09
+
+3.10.5.1 DETAILS
+
+Press the ‘Details’ key (F2), the following type of screen
+will be displayed:
+
+General
+
+All 250 addresses may be displayed using the *>>” key.
+The connection detail of each point is shown by the
+following symbols:
+
+o OK: point connected, configured and
+identified (eg, point 33 and points 60 to 64)
+Point was configured but not connected or
+identified (eg, point 21)
+
+Point was not configured but connected (eg,
+point 6)
+
+Function key F2 scrolls through the loop.
+
+31052 SCAN
+can’ key (F3), the following type of screen will
+
+Press the
+
+be displayed:
+
+Loop Point Counters
+
+MX Panel
+Left / Right Scan
+Thu, 26-Jul-07 Lo '+ &
+14:15 Foint 0123:!55“9
+Company Name 10 :
+20 :
+30 :
+
+20 :
+50
+80
+70
+80
+
+The points are shown which were detected from both sides
+(Left/Right).
+
+‘They are displayed as follows:
+
+Empty (not used)
+
+OK: detected from both sides (eg, points 33 and
+82)
+Only detected from left side (eg, points 4 and 21)
+
+[ Onlydetected from right side (eg, 60 to 64)
+Function key F2 scrolls through the loop.
+
+3.106
+
+Select option 7 from the View/Print
+
+ACTIVE POINTS
+
+following type of screen will be displaye
+
+MX Panel
+
+Current active pts.
+Wed, gl-A\lag-07 Total : 0
+
+Company Name
+
+Pressing Iso&Act (F2) will display the following screen:
+
+Active Points
+
+MX Panel Isolated active pts|
+Wed, 21-Aug-07 [JTotal : g
+08:01
+
+Company Name
+
+General
+
+PAGE 26 of 38
+
+--- PAGE 27 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+Pressing Iso&For (F2) will display the following screen:
+
+Active Polints
+
+MX Panel Isolated Forced pts|
+Wed, 21-Aug-07 [JTotal : 9
+08:01
+Company Name
+General
+Back 1 Act] Print
+3.10.7 BY FUNCTION
+
+Select option 8 (also available via FI (View) button) from
+the View/Print Status Menu. The following type of screen
+will be displayed:
+
+MX Panel
+
+- Fire Inputs
+Non-Fire Inputs|
+All Loop O/Ps
+Sounders
+Protection Eqp.
+
+- Plant Equipment|
+
+Wed, 21-Aug-07
+08:01
+
+Company Name
+
+General
+
+Sereens for options
+option 1 Fire Inputs.
+
+3,4,5 and 6 are the same type as for
+
+3.10.7.1 FIRE INPUTS
+
+Select option 1 from the By Function menu, the following
+screen will be displayed:
+
+MX Panel
+21 - 07 1 - Active
+-Aug- 2 - Fault
+08:01 3 - Isolated
+
+Company Name
+
+Wed,
+
+General
+
+Select option 1 from the Fire Inputs menu, the following
+screen will be displayed:
+
+Active Fire IPs
+
+MX Panel
+Wed, 21-Aug-07
+08:01
+
+General
+
+Select option 2 from the Fire Inputs menu, the following
+screen will be displayed:
+
+General
+
+Select option 3 from the Fire Inputs menu, the following
+screen will be displayed:
+
+MX Panel
+
+Wed, 21-Aug-07
+08:01
+
+Company Name
+General
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+PAGE 27 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 28 ---
+MX
+17A-05-0
+17 10/09
+
+3.11 SERVICE
+
+Press 7 from the Main menu. The following type of screen
+will be displayed:
+
+Note: The Maintenance and Diagnostics options are
+only available at Customer Manager level and
+will not be displayed for lower levels.
+
+3111  WALK TEST
+
+When selected, this option allows single or multiple points
+10 be tested without an alarm being raised.
+
+Press 1 from the Service menu.
+
+Only one Walk Test session can be active at one time.
+
+Use the *>>", "' and “+" keys to select the required
+options. The Panel number is only displayed when itis part
+of a networked system.
+
+Depending on the selected settings, the display will
+change. The following screen is an example of ‘Area’
+selected as *Point’.
+
+To start the Walk Test press F5.
+
+Possible Settings
+
+Panel
+
+Panel selection is only available for panels that are in a
+networked system.
+
+Area
+
+® Al Walk Test of all elements of a specific type.
+(Selection in the field “Type’ eg, callpoints).
+
+® Zone  Walk Test of all elements of a specific type
+ina special zone.
+® Point  Walk Test of the input of a single point.
+Type
+® Input ‘Walk Test of all inputs.
+® Detectors  Walk Test of detectors.
+® Alarm I/Ps  Walk Test of default inputs covered by
+
+supergroup “Fire Alarm Inputs SG'.
+Walk Test of call points.
+
+Walk Test of sounders by loop or all
+1oops plus FIM sounders.
+
+® Call Points
+® Sounders
+
+Loop
+Only with Area as *All’ or *Zone'.
+Walk Test of all loops or of a specific loop (A, B, C or D).
+
+Location
+Only with Area selected as ‘Point”.
+
+® Loop A point on the loop.
+
+PAGE 28 of 38
+
+--- PAGE 29 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+Zone 3.11.1.1 ALLINPUTS
+Only with Area selected as *Point’. Select the following settings:
+® Loop Selection of a specific zone is possible. ® Area: All
+® Type: Tnput
+Point * Loop Al
+
+Only with Area selected as ‘Point”.
+
+Selection of a specific zone s possible.
+
+Mode
+MANUAL
+
+Detectors to be tested manually.
+AUTOMATIC
+
+Only if type selected is *detector’
+
+Self test will be carried out by detectors.
+The following detectors support the self test
+
+function:
+
+80IPH 801PHEX
+811PH 811PHExn
+801CH 801CHEx
+811CH 811CHExn
+8011
+
+813P
+
+This mode is only available if an S13P detector is
+configured. If an 813P detector fails this test, it must be
+manually tested to confirm the failure.
+
+Multisensor
+
+® Full
+® Part
+Itis only possible to select either ‘Automatic’, ‘Lasertest’ or
+
+“Multisensor. The panel itself prevents selection of more
+than one option.
+
+Note: If Full' Walk Test s selected, both modes of the
+detector must be activated (eg, both heat and
+optical mode for 801PH).
+
+If ‘Part’ Walk Test is selected, the detector has
+to be activated in the mode in which it is
+operating (eg, for 801PH optical and heat, both
+modes active, then activation of either the
+optical or heat will activate the processing. If
+only the heat mode is active, then only
+activation of the heat mode will create an
+alarm.
+
+Press F5 1o start the Walk Test.
+
+‘The following screen shows an example for the Walk Test
+*All Inputs” option:
+
+Selected: Number of points selected by the test.
+
+Excluded: Number of Points not in Waik Test (ie,
+points isolated).
+
+Been Active:  Number of points which have been
+activated during Walk Test.
+
+BeenClear:  Number of points which were not
+active when starting Walk Test.
+
+Successful: Number of tested points.
+
+CurrActive:  Points which are currently active.
+
+TestZ: Number of zones which are in Walk
+
+Test. The pointer is only counted if all
+points in a zone are in Walk Test.
+
+Press F3 to display details of the Walk Test, press F4 for
+more details, press FS to print details.
+
+Press F3 to display selected settings.
+
+Press FS to end Walk Test.
+
+CAUTION:
+
+THE FINISHING OF A WALK TEST IS ONLY
+POSSIBLE IF ALL POINTS IN THE WALK
+TEST ARE INACTIVE.
+
+© 2009 Tyco Safety Products
+
+PAGE 29 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 30 ---
+MX
+17A-05-0
+17 10/09
+
+3.11.1.2 SOUNDERS
+Select *Sounders” in the Type field.
+
+No results will be shown on the display. The selected
+sounders will be activated in a pulsing mode.
+
+3.11.1.3 POINT
+
+Select the following settings:
+
+® Area: Point.
+
+® Type: Input (appears automatically).
+® Location:  Loop (appears automatically).
+® Zone: Required number.
+
+® Point: Required number.
+
+Press F5 1o start the Walk Test.
+
+‘The following screen shows an example for the Walk Test of
+*Point Input’:
+
+® Selected:
+Excluded:
+
+1, if point is in Walk test.
+1, if point is not in Walk Test (ie. if point
+is isolated).
+
+1, if point was activated during Walk
+Test.
+
+Yes, if point is currently active.
+
+Number of zones which are in Walk
+Test. (The pointer is only counted if all
+points of a zone are in Walk Test. If one
+detector on the zone is switched off, the
+pointer is not decreased. In the case of
+Walk Test for one point, the pointer is
+only decreased if that point is the only
+point on the zone).
+
+® Curr.Active:
+TestZ 001
+
+Press F3 for a display of selected settings.
+Press FS to end Walk Test.
+
+CAUTION:
+
+THE FINISHING OF A WALK TEST IS ONLY
+POSSIBLE IF ALL POINTS IN THE WALK
+TEST ARE INACTIVE.
+
+MAINTENANCE
+
+Press 2 from the Service menu. The following type of
+screen will be displayed:
+
+3112
+
+3.11.21 VIEW FIRE ALARM CYCLE COUNT
+
+When selected, the number of Alamm sequences may be
+viewed.
+
+Press 1 from the Maintenance menu. The following type of
+screen will be displayed:
+
+PAGE 30 of 38
+
+--- PAGE 31 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+3.11.22 VIEW/PRINT MAINTENANCE
+REQUEST
+
+‘When selected, this option displays a list of detectors which
+are near the limit of their threshold compensation limit.
+
+Press 3 from the Maintenance menu. The following type of
+screen will be displayed:
+
+Press F5 to print the Maintenance Request.
+
+3.11.2.3 BATTERY TEST
+
+‘When selected. this option allows the state of the battery and
+the charger current to be displayed.
+
+Press 4 from the Maintenance menu. The following type of
+screen will be display,
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+Battery State
+Battery Low
+
+Battery Voltage :
+20.764V o=
+
+Charger Current :
+500 A
+
+Back
+
+3.11.24 PROJECT NUMBERS
+
+When selected, this option allows the project and MZX
+CONSYS information to be displayed.
+
+Press 6 from the Maintenance menu. The following type of
+screen will be displayed:
+
+MX Panel
+
+Wed, 01-Mar-06
+00:01
+
+Company Neme
+
+ocaded:
+27-Jun-09 08:20
+
+3.11.25 SOFTWARE VERSIONS
+
+When selected, the software versions of the following are
+displayed:
+
+® Firmware
+® Local IO
+® Each Loop
+® Each MPM
+® Network card (if fitted)
+
+Press 7 from the Maintenance menu. The following type of
+screen will be displayed:
+
+Thu, 26-Jul-07
+14:15
+
+Company Neme
+
+Press F5(+) for additional details of the software versions.
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+PAGE 31 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 32 ---
+MX
+17A-05-0
+17 10/09
+
+3.11.26 MENU POINTS
+
+When selected, this option allows any configured point
+displayed to be operated by pressing the appropriate number
+
+button, this will toggle from OFF to ON and ON to OFF.
+
+Press 9 from the Maintenance menu. The following type of
+screen will be displayed:
+
+Menu Point 1:
+Isolate Zome
+
+OFF|
+
+Menu Point 2:
+Sensit.Change
+
+Menu Point 3:
+-Unconfigured-
+
+Menu Point 4:
+-Unconfigured-
+
+Back
+
+3.11.3
+
+CONFIGURATION
+
+Press 8 from the Main menu. The following screen will be
+displayed:
+
+Configuration
+1 - Change Text
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+“Menu option 9- Restart” will only be displayed if text has
+been changed and the changes saved.
+
+FOLLOWING OPTION
+
+When using Configuration menu option 1, ALWAYS
+commit configuration changes by using ‘Menu option 9 -
+Restart’ before leaving the panel.
+
+Avoid *inactivity’ timeouts.
+
+NEVER use the *Back’ option from the configuration menu
+if *Menu option 9 - Restart’ is showing.
+
+If you do not want to commit changes, by using ‘Menu
+option 9 - Restart’, option, turn the keyswitch to *OFF’
+position to avoid a timeout situation, do NOT USE the
+*Back’ option.
+
+Configuration changes across a network are possible, but
+changes to more than one panel at a time MUST NOT be
+attempted within one session. When a panels configuration
+has been changed, it must be restarted using menu option 9
+“Restart’.
+
+Failure to comply with these restrictions may lead to
+unpredictable effects or system instability.
+
+3.11.3.1 CHANGE TEXT
+
+Press | from the Configuration menu. The following
+screen will be displayed:
+
+e Point Text
+Mar- Zone Text
+wed, g1-ttar-08 Eensiex W
+: Panel Text
+@y e Info Text
+General
+
+Back
+
+3.11.3.2 POINT TEXT MODIFY
+
+Press | from the Change Text menu. The following screen
+will be displayed:
+
+Point Text Modify
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+Select the required loop and point then press Enter. The
+following type of screen will be displayed:
+
+PAGE 32 0f 38
+
+--- PAGE 33 ---
+EQUIPMENT: MX
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+
+Point Text Modify
+
+i Zone 255 -007 A
+Wed, 91 Mex-08 0ld_text.
+' Callp. alarm room
+Company Name
+
+New text
+
+*>>" - copies the ‘old text” to the ‘New text’ position.
+
+*-* moves the cursor back one position.
+*+* moves the cursor forward one position.
+
+Modify the old fext or insert new ftext the
+
+alphanumeric keypad, when finished press Enter.
+
+using
+
+Pressing the scroll up key () allows text to be entered in
+
+upper case.
+
+Pressing the scroll down key
+text.
+
+changes to lower case
+
+‘The message *Save Data?” appears and the functions change
+F4 1o *Yes' and F5 to *No’. Selecting F5 allows the text
+modifications to be changed.
+
+Selecting F4 Yes’ displays the message:
+
+Please wait.....
+
+then the following screen is displayed:
+
+Selecting F1 ‘Back’ will display the following screen:
+
+Configuration
+
+MX Panel
+Wed, 01-Mar-08
+14:15
+
+1 - Change Text
+
+Company Name
+General
+
+9 - Restart
+
+Only “Change Text’ and ‘Restart’ are available allowing
+more points to be changed or using *Restart’ to allow the
+changes to take effect.
+
+3.11.3.3 ZONE TEXT MODIFY
+
+Press 2 from the Configuration menu. The following screen
+will be displayed:
+
+General
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+1 - Point Text
+
+Company Name
+
+Itis now possible to change the text for another Point.
+
+Select the required and press Enter. The following type of
+screen will be displayed:
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+*>>" - copies the ‘old text’ to the New text’ position.
+*-* moves the cursor back one position.
+*+* moves the cursor forward one position.
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+PAGE 33 of 38
+
+Dunhans Lane  Leichworth Garden City Hertfordshire  SG6 1BE.
+
+--- PAGE 34 ---
+MX
+17A-05-0
+17 10/09
+
+Modify the old text or insert new fext using the
+alphanumeric keypad, when finished press Enter.
+
+ppears and the function change
+F4 10 *Yes' . Selecting F5 allows the text
+modifications to be changed.
+
+Selecting F4 *Yes' displays the message:
+
+Please wait.
+
+then the following screen is displayed:
+
+MX Panel
+
+Wed, 01-Mar-08 4 = e s
+
+14:15
+
+Company Name
+General
+
+Itis now possible to change the text for another Zone.
+
+Selecting F1 *Back’ will display the following screen:
+
+Configuration
+1 - Change Text
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+General
+
+9 - Restart
+
+Only “Change Text’ and “Restart’ are available allowing
+more points to be changed or using ‘Restart’ to allow the
+changes to take effect.
+
+3.11.3.4 SECTOR TEXT MODIFY
+
+Press 3 from the Configuration menu. The following
+screen will be displayed:
+
+Sector Text Modifyl
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+General
+
+Sector  : 001
+
+Select the required sector, then press Enter. The following
+type of screen will be displayed:
+
+Sector Text Modify
+
+. Sector 001
+Wed, 01-Mar-08
+’ 14: 01d text
+XD Sector 01
+Campany Name [Tee e
+
+*>>" - copies the ‘old text” to the ‘New text’ position.
+
+*-* moves the cursor back one position.
+*+* moves the cursor forward one position.
+
+Modify the old fext or insert new fext using the
+alphariumeric keypad, when finished press Enter.
+
+The message *Save D: ppears and the function change
+F4 10 *Yes® and F5 to *No'. Selecting F5 allows the text
+modifications to be changed.
+
+Selecting F4 *Yes’ displays the messa;
+
+Please wait.....
+
+PAGE 34 of 38
+
+--- PAGE 35 ---
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+ISSUE No. & DATE: 17 10/09
+then the following screen is displayed: Modify the old ftext or insert new lext using the
+
+alphanumeric keypad, when finished press Enter.
+
+‘The message *Save Data?’ appears and the function change
+F4 to *Yes' and FS to "No’. Selecting F5 allows the text
+modifications to be changed.
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+3 - Sactor Text Selecting F4 “Yes’ displays the message:
+
+Please wait.....
+
+then the following screen is displayed:
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+4 - Panel Text
+Itis now possible to change the text for another Sector.
+
+Selecting F1 ‘Back’ will display the following sreen:
+
+Configuration
+
+1 - Change Text
+
+Itis now possible to change the text for another Panel.
+
+5 - mestart Selecting F1 ‘Back’ will display the following screen:
+
+i Ll 1 - Change Text
+Wed, 01-Mar-08
+14:15
+
+3.11.3.5 PANEL TEXT MODIFY Company Name
+
+Press 4 from the Configuration menu. The following screen
+
+will be displayed: 9 - Restart
+
+Panel Text Modify
+
+MX Panel
+
+Wed, 01-Mar-08
+14:15
+
+Company Name
+
+Select the required Panel.
+*>>" - copies the ‘old text’ to the “New text’ position.
+*-* moves the cursor back one position.
+
+*+* moves the cursor forward one position.
+
+© 2009 Tyco Safety Products PAGE 35 of 38
+
+Registered Company: Thorn Security Lid. ~Registered Office:  Dunhams Lane  Lelchworth Garden City ~ Hertfordshire  SG6 1BE.
+
+--- PAGE 36 ---
+MX
+
+17A-05-0
+17 10/09
+3.11.3.6 INFO TEXT MODIFY 4. ROUTINE CHECKS
+
+‘This option allows Info Text created in CONSYS to be 4.1 GENERAL
+modified. Press 5 from the Change Text menu. The
+following screen will be displayed: In order to comply with the requirements of British
+Standard BS 5839 Part 1, the installation must be checked
+on a regular basis by a responsible member of staff to
+confirm that the controller and all ancillary devices are
+operating comectly. The required routine checks are
+described in the following paragraphs.
+
+ForMarine Systems, carry out routine checks in accordance
+with the customer’s own procedures.
+
+4.2 DAILY CHECKS
+Proceed as follows:
+
+) Ensure the front panel of the controller is
+indicating a normal condition (ie. no alarm
+or fault LEDs are lit and the LCD is
+displaying the date and time).
+
+Using the *+’ and *-* keys select the Info Text message to
+modify, then press ‘Enter’.
+
+The following type of screen will appear: Note: If the panelis not indicating a normal condition
+
+record the condition in the log book and take
+any necessary action.
+
+b) Check that any fault recorded on the
+previous day has received attention.
+
+4.3 WEEKLY CHECKS
+
+These checks would normally be carried out by a
+responsible member of the customer’s staff.
+
+'WARNING:
+The *>>' key deletes all text.
+‘WARN ALL PERSONNEL THAT THE
+
+The *+" key advances the cursor one space, the *-’ key goes SOUNDERS ARE ABOUT TO BE TESTED.
+one space back. g
+
+Use the alphanumeric keys to modify the text, when
+
+finished, press ‘Enter’.
+
+The following screen will be displayed: Proceed as follows:
+
+) If necessary, clean the front panel of the
+controller with a suitable cleansing agent.
+
+b) Set one device (either a callpoint or
+detector) from one zone into alarm and
+check that the system responds as follows:
+
+«  The controller’s internal buzzer sounds in
+acontinuous tone.
+
++ The two red FIRE' LEDs on the
+controller front panel light.
+
++ The appropriate red *FIRE ZONAL' LED
+flashes (if configured).
+
++ The general and zonal sounders operate.
+
+PAGE 36 of 38
+
+--- PAGE 37 ---
++ The alphanumeric display gives the
+location of the alarm.
+
+) Record the device used to initiate the test in
+the site log book and reset the controller.
+
+d) Check the condition of the printout on any
+printers attached to the system and replace
+the ribbon if it is becoming feint.
+
+) Ensure that each printer has an adequate
+supply of paper.
+
+Any defect should be recorded in the log book and
+appropriate action taken.
+
+CPD INFORMATION
+
+¢
+
+Tyco Safety Products
+Dunhams Lane
+Letchworth 5G6 18E
+[
+
+0
+
+0786-CPD-20840
+
+EN542
+ENSa-4
+
+Control and indicating equipment for fire
+detection and fire alarm systems for
+buildings
+
+MX1000, MX4000
+
+Provided options:
+
+Alarm counter
+
+Faultsignals
+
+Delays to outputs
+
+Dependency on more than one
+alam signal
+
+Disablement
+
+Test condition
+
+Fite alarm devices
+
+Fire alarm routing equipment
+Automatic fire protection equipment
+Fault waming routing equipment
+Standardised /O interface
+
+Installation Instructions 17A-03-1/C
+Servicelnstructions  17A04-5
+
+Other technical data: see doc. 174-02-D
+held by the manufacturer
+
+© 2009 Tyco Safety Products
+
+Registered Company: Thorn Security Lid. ~ Registered Office:
+
+EQUIPMENT: MX
+
+PUBLICATION: 17A-05-0
+
+ISSUE No. & DATE: 17
+
+10/09
+
+¢
+
+Tyco Safety Products
+Dunhams Lane
+Letchworth 5G6 18
+UK
+
+0
+
+0786-CPD-20838
+
+ENSa-2
+
+Control and indicating equipment for fire
+detection and fire alarm systems for
+buildings
+
+Mx2
+
+Provided options:
+
+Alarm counter
+
+Fault signals
+
+Delaysto outputs
+
+Dependency onmore than one
+alarm signal
+
+Disablement
+
+Test condition
+
+Fire alarm devices
+
+Fire alarm routing equipment
+Automatic ire protection equipment
+Fault warning routing equipment
+Standardised O interface
+
+Installation Instructions 17A-03-/C
+Service Instructions  17A-04-5
+
+Other technical data: see doc.17A-02-D
+
+held by the manufacturer
+
+Dunhams Lane  Leichworth Garden City
+
+PAGE 37 of 38
+
+Hertfordshire  SG6 1BE
+
+--- PAGE 38 ---
+MX
+17A-05-0
+17 10/09
+
+o
+
+Tyco Safety Products
+Dunhams Lane
+Letchworth 5G6 18
+UK
+
+0
+
+0786-CPD-20839
+
+EN542
+ENS4-4
+
+Control and indicating equipment for fire
+detection and fire alamm systems for
+buildings
+
+T2000
+
+Provided options;
+Alarm counter
+
+Fault signals
+
+Total loss of power supply
+
+Delays to outputs
+
+Dependency on more than one
+alarm signal
+
+Disablement
+
+Test condition
+
+Fire alarm devices
+
+Fire alarm routing equipment
+Automatic fie protection equipment
+Fault waming routing equipment
+Standardised |/0 interface
+
+Installation Instructions 17A-03-1/C
+Service Instructions  17A-04-5
+
+Other technical data:see doc. 17A4-02-D
+held by the manufacturer
+
+IM/mm
+6™ November 2009
+
+PAGE 38 of 38

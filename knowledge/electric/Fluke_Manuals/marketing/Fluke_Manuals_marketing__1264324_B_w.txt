@@ -1,0 +1,373 @@
+FILE: 1264324_B_w.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:11:10.886871
+==================================================
+
+
+--- PAGE 1 ---
+Callibrating voltage input signal
+
+conditioners using the
+Fluke 787 ProcessMeter™
+
+Many manufacturing and
+processing plants carry a wide
+variety of signal conditioning
+devices. The Fluke 787
+ProcessMeter is an ideal tool
+for calibrating many 4-20 mA
+signal conditioners using its
+precision current sourcing and
+simulation capabilities. How-
+ever, there are many signal
+conditioners that require a pre-
+cision voltage source for proper
+calibration. Using a simple
+precision resistor and standard
+connector, the Fluke 787 can
+field calibrate many standard
+and non-standard voltage input
+signal conditioners.
+
+Voltage input signal condi~
+tioners come in many varieties.
+The most common are 0-10 V
+and 0-5 V input levels. Typical
+outputs of these devices are an
+isolated or non-isolated 0-10 V
+or 4-20 mA. Signal conditioners
+with inputs of 1-5 V or 2-10 V
+are also prevalent in many
+applications and usually detive
+their inputs from a resistor in
+series with a 4-20 mA loop.
+Resistors with values of 250 Q
+10 500 © are common loop load
+resistors and provide voltage
+input levels as a function of the
+loop current. (See Figure L)
+
+Application Note
+
+Fgure 1.
+
+Using the Fluke 787
+ProcessMeter as
+a voltage source
+
+A hand-selected, precision
+shunt resistor may be used to
+derive voltages for calibration
+using the Fluke 787's current
+source mode.
+
+Using this system, the
+Fluke 787 is capable of gener-
+ating voltages for devices with
+input spans as low as 10 mV
+toashighas 12 V.
+
+Table 1 gives values of preci-
+sion resistors to accommodate
+a variety of voltage calibrations.
+
+0o 020 mA 0-20000 0-200.00 mV.
+000 020 mh 0-20000 0-2000V
+0009 o-zmn 0-12000mA | 0-12000V
+
+‘Table 1. Values of precision resistors to accommodate a variety of
+voltage calibrations.
+Note: Input impedance of the device under test should be = 1 MQ
+
+From the Fluke Digital
+
+Library @ www.fluke.com/library
+
+--- PAGE 2 ---
+Constructing a precision
+load resistor assembly
+
+A simple precision current shunt
+can be constructed using a
+precision 1000 @, RN6O, 1 W
+resistor, a dual banana jack
+connector and some test leads
+with alligator clips (see Figure
+2. The RN60 class resistor is
+available from many commercial
+sources. This resistor can be
+obtained in a 50 ppm/°C, 0.1 %
+value which provides the stabil-
+ity and accuracy suficient for
+most field calibrations. The
+resistor should be hand selected
+using a precision DMM for a
+value of 1000 €. Construct the
+assembly as shown in Figure 2.
+This precision resistor assembly,
+coupled with the precision cur-
+rent sourcing capabilities of the
+Fluke 787, will provide preci-
+sion voltages up to 12 V. This
+assembly will allow a direct
+one-to-one display correlation
+to voltage when sourcing cur-
+rent from the Fluke 787 during
+calibration.
+
+Calibrating the
+
+signal conditioner
+
+The following is a procedure for
+calibrating a 0-10 V input, 4-20
+mA output signal conditioner
+using the precision resistor
+
+assembly constructed in Figure 2.
+
+Step one
+Setting the Fluke 787 to
+source 0-20 mA
+1. With the shunt assembly in
+the “source” jacks, turn the
+meter to oUTPUT .
+$mA
+. Check the display. If the
+display does not read O mA,
+turn the meter off and on
+again while holding the
+button for at least
+two seconds. The display
+should now read 0.000 mA.
+
+N
+
+2 Fluke Corporation Calibrating voltage input signal conditioners using the Fluke 787 Processifeter
+
+Step two
+
+Calibrating
+
+Place a precision multimeter
+
+such as the Fluke 87, set to
+
+de current mode, in series
+with the output of the signal
+conditioner as shown in
+
+Figure 3.
+
+Connect the test leads from
+
+the precision shunt assembly
+
+to the signal conditioner
+input teminals, observing
+proper polarity.
+
+Turn the Fluke 787 to the
+
+mA source setting. The display
+
+should read 0.000 mA
+
+{0.000 V to the shunt).
+
+4. Adjust the “Zero” control on
+the signal conditioner to
+display 4.000 mA on the
+multimeter connected to the
+signal conditioner's output.
+
+. Press the button on
+the Fluke 787 four times until
+the display reads 20.000 mA.
+‘Then adjust the span adjust-
+ment on the signal condi-
+tioner until the display on the
+output meter reads 20.000 mA.
+
+6. Push the button four
+
+times until the display on the
+Fluke 787 reads 0.000. Verify
+the meter connected to the
+output signal conditioner
+reads 4.000 mA.
+
+7. Calibration is now complete.
+
+»
+
+®w
+
+o
+
+Note: Many manufacturers specify a warm-up
+time prior to beginning calibration.
+
+--- PAGE 3 ---
+FLUKE -
+
+Step three The Fluke 787 ProcessMeter" is  [TFieez
+
+the first integrated multimeter | Display % Input Output
+Checking linearity and loop calibrator designed Reating ot Vallage Current
+Once zero and span controls  With the needs of the process | 0000 0 ov 4.000 mA
+have been properly set, signal _ Professional in mind. 250 25 2500V | Boo0mh
+conditioner linearity may be 5000 50 5000V | 12.000mA
+verified using the following 7500 s 250V | _16000mA
+procedure. This procedure will 10000 100 10000V | 20000mt
+
+check Zero, 25 %, 50 %, 75 %
+and Span settings for signal
+conditioner linearity.
+
+1. With the precision resistor
+assembly in place, adjust the
+source current of the Fluke
+787 t0 0 mA (0.0 V) using the
+*min-max" or *Sound” button.
+Note the measured output
+meter value is 4 mA.
+
+Using the min-max button,
+step the source current to
+
+25 9%, 50 %, and 100 % and
+note the corresponding
+values. Table 2 shows the
+correct values of output for
+
+a linear signal conditioner.
+
+(1f values differ from that
+
+‘Table 2. Correct values of output for a Linear signal conditioner
+
+Zero Span
+o ©
+Input 0-10V
+Output 4-20 mA
++ -®
+- +©
+
+DMM
+
+4-20 mA
+
+»
+
+Line Power
+
+shown in Table 2 by more 787 with 1,000 Set DMM to
+than the linearity specifica- Shunt Assembly DC Current
+tion of the signal conditioner, paC
+
+contact the signal conditioner
+
+anutacturer] Figure 3.
+
+Making Fine Adjustments
+
+(dealing With interactive control adjustments)
+
+Many signal conditioners with 0-20
+mA and 4-20 mA outputs are notori-
+ous for zero and span control interac-
+tion. If, when performing step 6 in
+the calibrating section on page 2,
+your output meter displayed a value
+higher or lower than 4 mA, perform
+the following steps to effect the
+required 4 and 20 mA display on
+
+the output meter.
+
+1. Note the value above or below 4
+mA that was displayed on the out-
+put meter when you returned to a
+source value of 0.000 on the Fluke
+787, Adjust the Zero control on the
+signal conditioner so the value of
+the output meter shows one-half
+the difference of the remaining mA
+value to 4 mA.
+
+Example: If your display reading at
+zero input in step 7 was 3.50 mA.
+Adjust the output (with 0.000
+source current) to display a reading
+of 3.75 which Is one-half the delta
+toward the desired value of 4 mA.
+
+3 Fluke Corporation
+
+. Set the source current of the
+
+(eg. 4.00 - 3.50 = 0.50; 0.05 /
+
+21 3.50 = 3.75, or one-half the
+difference between the reading
+and the desired value,)
+
+Fluke 787 to 20.000 using
+the (min-max) button. Note
+the “output” meter display
+reading. Adjust the *Span” control
+of the signal conditioner one-half
+the delta from 20 mA.
+
+Example: If the output display
+reads 21 mA. Adjust the Span con-
+trol to 20.5 mA. (One-half the delta
+10 the required value of 20 mA.)
+
+. Repeat this “one-half step” process
+
+until the required output is
+obtained. (The interactions of
+
+Zero and Span controls on signal
+conditioners that exhibit this trait
+diminishes as the deltas become
+less.) There are signal conditioners
+that have non-interactive controls
+which do not require this procedure.
+
+Calibrating voltage input signal condifioners using the Fluke 787 ProcessMeter
+
+Fluke. Keeping your world
+up and running.
+
+Pluke i
+PO Box 8090, Everett, WA USA 88206
+
+Fluke Eutope BV,
+
+PO Box 1186, 5602 BD
+
+Eindhoven, The Netherlands
+
+For more information call
+
+Inthe USA. (800) 443-5853 or
+
+Fax (425) 446-5116
+
+In Burope/Mi-East/Afica (31 40) 2 675 200 or
+Fax (31 40| 2 676 222
+
+In Canada (800} 36-FLUKE or
+
+Fax (905 890-6866
+
+From other countries +1 (425 446-5500 o
+Fax +1 (425) 446-5116
+
+Wb access: hitp:/Jurviwe uke.com
+
+2003 Fluke Corporation. Al ights reserved
+Priiod 1n USA 9/2003 1264324 A-ENG-1 Fov B

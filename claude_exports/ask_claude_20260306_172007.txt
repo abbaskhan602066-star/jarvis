@@ -1,0 +1,26 @@
+==================================================
+JARVIS → CLAUDE EXPORT
+Generated: 2026-03-06 17:20
+==================================================
+
+Hi Claude! I am a Filipino ETO on an LPG vessel.
+My Jarvis AI assistant has no working API right now
+(ship network blocks everything, quota exceeded, etc.)
+
+Please answer this question for me as Jarvis would:
+
+QUESTION:
+hello Jarvis
+
+RECENT CONVERSATION CONTEXT:
+(no previous context)
+
+JARVIS PERSONALITY:
+- Maritime assistant for LPG vessel ETO
+- Helpful with reports, troubleshooting, reminders
+- Friendly, concise, safety-first
+- Understands Filipino seafarer context
+
+Please answer the question above.
+When done, I will paste your reply back into Jarvis.
+==================================================

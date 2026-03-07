@@ -1,0 +1,1284 @@
+FILE: E-321 INSTRUCTION BOOK FOR ELECTRIC CLOCK.pdf
+FOLDER: .
+DATE: 2026-03-06 22:02:52.863901
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+ELECTRIC CLOCK
+
+al document s the propert
+
+cavy Industrics, Ltd. (K111
+
+e copicd, nor disclosed to any thi
+without KII's prior written consent.
+
+CHIEF
+
+DWG he
+
+| DRAWN
+
+MANAGER
+
+— &
+N | CHECKED. £L2
+hal
+|
+
+oate M ANER
+
+= _ | scaLe . — JOBNO -
+
+Z Alagadieclon KAWASAKI HEAVY INDUSTRIES, LTD.
+TN 29756 -
+Gy, S ADE
+
+“oEsid D
+
+W31 wm WE@ A
+
+--- PAGE 2 ---
+AL
+
+INSTRUCTION
+
+ELECTRIC CLOCK
+
+SN0 1456
+
+TOKYO SOKKI CO., LTD.
+
+MO. 3—3, SOTOKANDA 1.CHOME,
+CHIYODAKU, TOKYO, 101 JAPAN.
+TEL 03 — 3253 —2991
+
+FAX 03 — 3253 — 2996
+
+maex 1.1.C-CITIZEN
+
+--- PAGE 3 ---
+PARTICULARS S N0 1456
+
+REMARKS
+
+AC 220V
+DC 247
+
+Haster Clock TXS~7 I 8 75BG7/2
+
+Standard Time
+
+PI-45(3T1) & 75BG7|2
+
+4 Hands (wall type)
+
+Standard Time
+
+3 Hands (wall type)
+
+Slave Clock
+
+3 Bands (wall type)
+
+Slave Clock
+
+3 Rands(flush type) | FI=3PP(211) 2 | 7sBG72
+
+Slave Clock
+
+ACTOOV
+
+FJ-3PFE 1
+with E.L
+
+{271+4) 75BG7/2
+
+3 Hands(flush type)
+
+Slave Clock
+
+2 Hands(vall type) FJ-28(1)-H 5| 75BG7I2
+
+Slave Clock
+
+2 Hands(flush type)
+
+Slave Clock
+Frosted
+
+FE~2D2(1)G Blaclk
+
+2 Hands(decorativetype)
+
+FI-20U{1)
+
+Slave Clock
+
+2 Rands(vaterprooftype} 75BG7/2
+
+Slave Clack
+
+2 Hands(doublefacetype)
+
+Slave Clock
+
+2 Hands(flush type)
+
+Second Adjust S.¥ F 840226m4
+
+Spare Parts Box TXE-T7-42B1 1
+
+75BG7i2
+
+--- PAGE 4 ---
+/0
+
+3 f1 &
+T v prosecrion OUTER VIEW A oE o
+PR Ryt RIS B0
+MASETER  CLOCK MOKITOR "CLDCX FOR SUAVE CLOCK
+(STANDARD _TINE) (LOCAL__STANDARD _TIME)
+o % & (R T
+HINGE HOLES
+3
+- T
+4 i
+i
+p=) R
+o Ojwo|
+|
+t 4
+& g
+K T
+123
+IEEIRRIER) L
+TH., EEERTL (h5)
+NOLES FOR EXTERNAL CONNECTION WIRES
+REAS 706 (REEHERT I HAV—H—HR)
+OPERATING FACILITIES
+{ EQUIPPED THE NMONITOR SPEARER FOR RADID STANDARD TINE SIGNAL)
+FARRE 5 IvEM (WE. A t
+I’ CABINET COLOR ; MUNSELL7.5B G7/2(OUTSIDE & INSIDE) L
+
+TH. KEERLENR S = 1/1
+DETAIL OF UOLES FOR BXTERNAL CONKECTION ¥IRES
+
+7
+CERRE 15 X6
+APPROX. ¥EIGHT 15 KG
+M3 ] STALE | FAT¥ ] KARE ‘nn'r .un‘ WOTE
+i BE| P -
+= = ‘ /:).,. HE z E [mRk][#% K| & E]
+5[ o MASTER CLOCK EQUIPNENT owe e
+Ed / uwéy‘m }yﬂ SURFACE_NOUNTING _TYPE TXS—-710S5
+
+a5 A4 mexm
+
+vt T 1.O-CITIZEN
+
+--- PAGE 5 ---
+BEERE
+A0) . SETTING
+
+B ER
+AUTO.ADS.
+
+Y A B | 6oz [ W EE AT FIERE
+DIVIDER AMPLIFIER WASTER CLOCK  SLAVE CLOCK
+3932, 16Kz | @ PL@
+QuaRTZ s
+I ST0P d}? NOR.
+. | ausnrz osc
+
+T SHIP'S
+
+SEC,HAND STOP
+
+|
+SIGHAL AMP.|
+
+s
+SIGNAL AP 6
+
+ar o
+DRIGHT O—O Py
+0 ) a e
+
+M R
+
+My,
+
+"o OFF © :
+REY. DARK T
+e G I
+
+oW FHAmER ! :
+30 SEC.SLAVE CLOCK B W & ~O\ploT D————[g e
+11
+
+PONER SUPPLY —~ :
+-S\o-0 0w TA LI — 58
+SYSTEX CONTROL FILIER o¥]
+
+ACGRH TR 57 (R)AC0V B0z 1V SHLUY
+ACZ0V 601z POR SLAVE CLOCKS, (2 VIRE SYSTEN NORE
+LESS § CLOCKS)
+
+J0EPAE (R SHHOD (IR)VC2AV 15000 408 BUK
+30 SEC,DC24V POLARIZED PULSE FOR SLAVE CLOCKS
+(3 VIRE SYSTEM HORE LESS 40 CLOCKS)
+
+LaoLs s 30BDATHER - (20 100aALAPY)
+nH— 30 SEC.POLARIZED PULSE
+LOGGER 3- (2 VIRE SYSTEH MORE LESS 100a4)
+LC; SRR + 24V
+COMXON LINE +24Y
+LAGSIEAT OV (100aALLHY)
+GO ON KDJUSTING 0V (KORE LESS 100aA)
+LR;EEH OV (100=hBAPY)
+i i GO ON REVERSING OV (HORE LESS 100mA)
+EARTI
+
+PUERB AL (6000 0.20)
+STAKDARD TIME SIGNAL (G0OR 0.2v)
+
+REERAMD () BEAA VEE BOER ; 0.5
+TROUBLE ALARM OUTPUT (2 VIRE SYSTEX) -KAKE CONTACT
+CONTACT POINT CAPACITY 7 0.54
+
+FORBAAD (2R) DC24Y 1,24
+EHERGENCY PO¥ER INPUT (2 VIRE SYSTEM) DC24V 1.ZA
+
+AT (1) ACZ20V 0,54
+MAIN AC POVER INPUT (2 VIRE SYSTEM) ACZ2V 0.54
+
+TXS =711 -4AD1
+
+--- PAGE 6 ---
+3 ik
+
+8
+g - :
+E " gl
+& of L=
+@ m .
+3 g oF
+2 * 3]
+[ ER _ <
+@x
+z
+N
+
+BRIl
+
+8yQ - 110D
+
+Uz
+
+[ +V
+Q\alo%ulw_ ,vna,
+o
+i
+—olo—42R
+o Ia
+= |
+a i
+
+[SCATE [FARTs W WANE
+
+AT AT Eadd
+
+20X 62,5 500
+
+P o,
+
+TXS -700- A<oxo
+
+3|
+&l
+
+CT R
+
+LS 23 E.?Eaﬁmz
+
+--- PAGE 7 ---
+Explanation of "Logger signal”
+
+DG24Y 30second polarized signal
+(regardless of advance and reverse)
+DC24V 307HIFES (E. BEH)
+24V COM ) -
+
+Neverse adjusting 24V continuous signal
+ALt 24V BHHER
+
+Reverse or advance adjusting 24V continuous signal
+
+#IEmit. IEHEIREh 24V ERIES
+
+FRlEEEM DR LT S Mo
+
++ 24V
+
+av
+
+—24v
+
++24v
+
+ov
+
+[+ 24V
+
+[
+
+7 H Normal
+
+o 307 gser O
+= o 10867 1533~
+533
+Feversa adjusting Advance adjusting
+WM | RGNS | TANS | BRI | N
+Normal | Normal | Normal
+A
+
+TXS =7 (B) — AZMO0O
+
+(920630)
+
+--- PAGE 8 ---
+L3S
+
+\
+
+O(HLLISH -4
+
+o omul
+
+B
+
+8t W ZTyF
+
+]
+1
+llw 4 M
+) | + L/‘
+I Uile
+IRt ¥
+| ) ] < B T
+®| | T MARK |
+ol ! 2 TETTET TS
+! e
+1 L~—]\\ 8 ijﬁm;r%mcx
+Pl ~ 7 "
+UL © o
+! 5 XQIALm [Foram R g’l
+— ] NUMERAL (COLORTBLACK
+3] 9 ¥ PE (T L
+3] -k CASE [COLOR:
+HOLES | an 2 H-2 IMUNSELL 25G %
+j 1 T oA Rt k.
+WEIGHT APPROX  13Kg &
+Y s R Vol ebdlw ) CETES
+NOTE R 40| deiegas3orst STANDARD TIME SLAVE CLOCK 4  HANDS
+[S;EEDND SANU: RED #:£2 | NAME! 2 4280  SURFACE MOUNTING TYPE
+.M. T. HANU @ GREEN $k 2 mcuﬁ‘gg OWE ] ANGLE '%Auf [ [OWE-ND.
+. 3 L RE |
+TS T hnos:BLACK mE L gl |3 PR TN | FJ—4S(3T1)G
+
+mwateit T.L.C-CIT1ZEN
+
+--- PAGE 9 ---
+13365
+
+A\
+
+CL12dde-rd
+
+SN 90
+
+e 3 P Wi e ns
+Aczov
+
+30 SEC JMPULSE
+mRanSs 30X ol AASTER CLack
+FPBLRTZ 3y ARDEEIAY
+
+140% (X EE®)
+
+188°
+
+1459
+
+WEIGHT APPROX 1.2Kg
+
+— o E g R
+s W3
+FOVERERT
+& }ﬁgllﬁs COLORT WRITE
+2 oL N.D e
+H ECONG: RE
+MOUNTING HOLE POSITIONS 4 38 £ IHERS: BLACK
+% A SLM LG NUMERA - BLACK
+e B SULIDLED 3 P et
+b CASE [COLOR:
+2
+1
+
+. r =2 PMUNSELL
+SETEL GILOED CHTOE
+5 = I FOA
+2 ~u§ & AL 3#FHEL SLAVE  CLOCK 3 HANDS
+{ NAME FLUSH
+
+SE N Y MOUNTING NORMAL  TYPE
+
+ICD iR oG ANGLE SCALE [ [0WG.NG.
+| |3 PPN M s P - 3PF(2T)
+st it T.1.C-CITIZEN
+
+--- PAGE 10 ---
+1334S
+
+\
+
+(v+t1e)34de-r4
+
+HOUNTING HOLE FOSITIONS
+R HRFY SLILED
+
+HOLES
+
+1457
+
+T
+
+@ 4 “ WM s
+Ac 209 0 sEc MPUSE A lDV
+FROM HASTER CLOCK  FROM DS, BoX.
+RBEIY T 2ersta 723
+
+FRuN 53 BaY
+AL IT8Y.
+
+WEIGHT APPROX
+
+i HEE
+
+Mo A W
+
+1.2Kg
+
+[WIRE_INLET HOLE:
+3=kl
+
+2-19¢
+
+X
+W3
+
+MOVEMENT
+
+s
+X
+
+[COLORORANGE _EL.
+BB ELT
+
+ELFR
+
+HANOS
+
+OND: RED
+OTHERS : BLACK
+
+-1
+NUMERAT
+X F
+
+[COLOR-BLACK
+Zem b
+
+CASE
+=2
+
+[COLOR:
+
+Bl ASY{C S0 (O] oA EN ] (o]
+
+BEZEL
+e
+
+TEM,
+
+Ph
+N
+
+7]
+
+BB Stk
+
+DESCRIFTION
+A%
+
+3t Iedt
+SE N
+
+SLAVE
+FLUSH
+
+CLOCK 3 HANDS
+
+MOUNTING © NORMAL
+
+TYPE
+
+BR[OWG i
+ﬁL.M
+
+ANGLE
+
+113 PROJECTIO
+
+Ny
+
+SCALE OWGRG.
+
+a® FJ-3PFEC2T1I+A)
+
+skt Y
+
+MN-CITY7EN
+
+--- PAGE 11 ---
+CIRCUIT DIA
+® b @
+-
+‘ A
+3¢ 7u W 79‘\21/\1(]?‘3 _|_
+ACioov! SOOKQO.BW ! ooV
+
+" .| BLECTRO
+
+¥ 14 LUMINESCENCE
+
+e 4 E.L 88 84K
+
+--- PAGE 12 ---
+n-yse-rd
+
+OH_pMa|
+
+L32HE
+
+(=]
+
+30 SEC_IMPULES.
+FROM MASTER CLOCK
+
+R oAkt By
+
+s
+|
+2187
+
+WEIGHT APPROX  l.2Kg
+B EE
+
+[WIRE_(NLET OLES
+D~FR
+
+3-19¢
+TERMYNKF%[RK
+-
+
+8
+7
+T OIAL [COUTRTWHITE
+5 AR 58
+4 BANDS [COLOR. BLACK
+2 B (1t
+3 FUMERAL [COLOR: BLACK
+X ¥ EEirr
+CASE COLOR:
+21 S T
+5 67 ol
+—5.50 BRast s 52 1 e s
+HIOLES P s OESCRIPTION
+
+& #ih) 28138t SLAVE: CLOCK 2 HANDS
+NAME| &% #2+ % SURFACE  MOUNTING NORMAL TYPE
+
+L] uw%;r,u ANGLE SCALE OWG.NO,
+sl ket |3 PRngicﬁmN—KJLVZ s FJ-25(1)-n
+
+st T.1.C-CITIZEN
+
+--- PAGE 13 ---
+L33HS
+
+912202 -M |
+
+0N 9HG
+\d (D 4
+M o "‘_,”;‘A“’__
+” 20 SEC. |MPULSE
+-- = j FROM HASTER CLOCK
+dd 1 I\® Rogeray
+&g
+@/ WEIGHT APPROX 2.0 Kg
+mHEEE
+s / \ ;
+; s
+R o 7] P TOmLATE
+6 WIRE]I!LFETl!iOLES 2-19¢
+5 TERMFI#A;BLOCK
+MOUNTING HOLE POSITION
+I R UL E 4} TR
+3 HARCS GOLD_PLATING
+M4 15 gt & 4o
+OR WooD SCREWS 2 NUX_MEE;AL GOLD, PLAQNG
+-] DIA}i FROéTED &LAO’(F
+3 le} ITEM& D[SCR\;QUN
+= & Al 281385 SLAVE  CLOCK 2 HANDS
+NngE Dﬁ il ORNAMEM_AE_ SURFACE MOUNTING TYPE
+10 e WG,’T ANGL. EQAk DWG.ND.
+ol A PRQJECTIO
+|l |3 PRETOE ) | FK=2D2(106
+
+#mseeat T.1.C-CITIZEN
+
+--- PAGE 14 ---
+7
+£
+\ &
+
+WNMe-r4 @
+
+-on"gr| B
+
+\
+
+Y T 30 SEC IHPULES.
+] . H FROM MASTER ‘CLOCK
+4 " ﬂ L L]
+
+T
+(=]
+
+WEIGHT APPROX 1.2Kg
+o3
+
+—
+\%r
+
+i 8§
+
+=, Vi ~ PRV T e 1se
+S W
+FOVEMER
+E1 3]
+
+|COLORTWHITE
+
+3 B &
+
+HARDS [COLORTBLACK
+
+3] LAY
+
+5
+NUMERAL ICOCORBLACK
+X ¥ A BT
+
+CASE COLOR:
+ro2
+
+8
+
+7
+
+6
+5[
+4
+
+3
+
+2
+
+1
+
+R
+N
+
+[MUNSELL
+BEZE, "TGILOED CHRCHE
+= AT 204 K y%
+T @ 3 PR B DESCRIFTION
+HOLES A AR 281385t SLAVE  CLOCK HANDS
+NAME | &% 81 3) SURFACE  MOUNTING ~ NORMAL TYPE
+|10 [beWS T ANGLE [ SEALE [ [OWG.RO.
+ﬁJ il [ 3 PRGN | FJ —2WUCD
+
+Fesr st T O CITIZEN
+
+--- PAGE 15 ---
+p-9220984 ¥
+
+“p1ana)
+
+T6 SLAVE Clock
+E3LENIN
+4040) A
+
+R SR SO
+
+TN ey 8T L
+Frovirsrer dadx
+SuoxEiy o ‘J{ —_ B
+Luz_ |_JB.2_,
+
+PUSH BUTTON SWITCH
+APZery (BARIER).
+
+Sl
+
+POUNTING HOLE FR S0 .
+Fy $H ¥ 2405 SECOND ADJUST.SWITCH
+
+T LRI
+> ANGLE ~TSCALE T[3)
+M=l & Wi ﬁ— 5 F840226-4
+
+--- PAGE 16 ---
+GROUP MO, BOX  NO. 3
+SHIP NO. | SPARE PARIS LIST FOR s E SETS PER VESSEL
+ELECTRIC CLOCK CRYSTAL  CLOCK
+TTEM | NAME OF PARTS OUTLINE QUARTITY REXARKS
+NO. WORKING | SPARE
+FUSE ¥ITH ZV\W s 1 3 ] P20 2 ep.
+3"
+1 | ALARN CONTACTS @j 1 3 | P-413 1.3 hup.
+EHEa L
+LANP
+2l g }D/@) 1 3 | PoR wav %
+RELAY 2 (1Xs-7)
+R ¥ f‘ij 3(Ta5-8) | 1 | RaBv193D024/4A
+L
+SCREV DRIVER
+4O SR L ZP 1 | SIZE L ()
+W
+SCRE¥ BRIVER )
+5] () K5 4R— k% 1o suE L
+A
+SPARE PARTS /\/«.-pn> §
+BOX < iy
+6| FHEE 1
+i
+|
+{
+i
+SHEET
+/ KFR'S NANE  TIC-CITIZEN' CO., LTD | DR¥.MO. | TXS—7(8) 4ZB:
+
+--- PAGE 17 ---
+T TEST WEPDRT ¥ -5
+
+PagE__1
+
+Py
+
+CUSTOHER: ARTICLE:
+HARINE X' TAL MASTER CLOCK
+
+'S N0.1456
+
+HRG.H0, | TWSP.ONT, | PasS GNT. DATE:2B SEP 1995
+1 [TX8-171S 7904 1 1 ROOH S0P 26 T
+7 = 1 T [mwmI: 45 %
+INSPECTOR:
+M. HIRANO
+NSIDLK PERSON: |
+£, SATO
+I v 0 T [ RESULT
+RATING Tnput Voltoge Y105 G0Nz 0.5 Awex, |
+TN s —
+
+DC 24 V30 sec. Polarized pulse
+
+g v
+
+wax, 100 nd Load
+
+Tor 2 hands, 1500 ©, up to 40 clacks
+
+(normal & reverse are not relation.)
+
+Continuous reversed pulse on correcting
+
+are max, 50 mA.
+
+4. { Alarm circuil to oulgoing 3
+
+contact points; capacity : 0.5 4
+
+Oscillating freguency 3932.160 Kllz
+
+Aecur Less than 0.3 sec
+
+(on 0 C~4+40C)
+
+MECIIANISH 1.
+
+Referring to DYG. No, T X S —7 IS
+
+Munsell Mo. _7.5BG7/2 Semi-mat
+
+--- PAGE 18 ---
+TEST "REPORT F -5 FAGE_ 2
+
+ARTICLE:
+MARTNE X’ TAL MASIER CLOCK
+[TTeEn N a 1 [ RESULT
+CIRCUTT 1. | Waster Clock Hanitor : NN
+FACULTIES | 1. Workings of hewds T Reed
+2. Dutgoings of 0 sec. and 30 sec. pulse. B Grod
+Miusting of bands by knob. T o
+2. e Clock Monitor ¢
+kaluzs of hands Good
+Good
+3. T
+T. Crys?LaJ Oscillator’s accuracy
+T +5 X107 on _26 % 77 Good
+2. Working o[ over-current delec tor of crystal output | Good
+“il!zhtlng of Trl\)
+Vorking of over-curcent detectar of 30 sec. signalo | Good
+& fogrers ]uzhflllg oI |Fﬂ) - )
+¥ nd hand stoppin
+T Clockuise J};v;! ing,
+mo(kmg OI Speakex by Llle radio
+" Volune addusting by YR. ) tiood
+4. | Qutput Voltage : T
+1. Crystal output 4 21 Von§¥lnads | feod
+2. 30 seo. pulse 0 _26 ¥ an 560 wh
+- " glave clocks' loads Good
+
+3. 30 sec. pulse oC 23 ¥ on 100 ab
+
+lnzgers lo s
+
+--- PAGE 19 ---
+TEST  REPORT
+
+PAGE__ 3
+
+ARTICLE:
+
+MARINE X’ TAL HASTER CLOCK
+
+T 1B W 0 ¥ T [ ResuLr
+5. | Nininun Vorking Vol lage § T
+A pover source  AC 80 V
+T T
+3. Dat altage of AC pover
+ OFF” an fC B0~75
+TN 7 on A 8590 V B T
+6. Consumvtmn Current ¢ )
+LA 220V 260wk on full Toads " Gooa
+200 24 ¥ 1200k on full loads " Good
+7. '{i..t.u.L Terninals T o
+. Crystal frequency A0V 60Nz 485 Good
+30 sec, polarized pulse )
+0C 24 ¥, norwal and reverse K, W &. B, | food
+
+A Lo
+
+rger 30 uluuz“d I'ulss
+
+DC 24 Y(nornal 8. reverse non relation) Good
+
+Pulses on carrecting and on reversing )
+[ lcleon+m ) taair 7 Good
+| 4 Marn cireuit T, 1. | Good |
+
+INSULATING
+
+1, A
+
+Terminals VS, Chassis:
+More Lhan 10 M(] with 500 V megger
+
+RESISTANCE
+TEST hetual value 1O OHD Good
+UG Tarminals VS. Gl -
+_Hore than 10 HQ with 500 ¥ megger
+
+Actual value 10 OMQ Gaod
+INSULATING
+STRENGTH Good
+TEST j
+
+--- PAGE 20 ---
+F-o2
+
+e 4
+TEST REPORT OF SLAVE CLOCKS
+INSPECTOR RESPONSTALZ PERSCN :
+Y. HIJIKATA ; £ . SATO
+SIZE NANE INSULATING RESISTANCE NININUN
+AR T ICLE QNT. NFG. Na, % 0oF ic cg:gﬁr:““ ég gIQRCUIT WORKING VOLT. RESULT
+COLAUR KOVEMENT 500 v MEGGER | 250 ¥ MEGGER | Ac 13 V|DC 158 v
+1 3 HANDS FLUSH 3004 | i
+2 Good Sn,-12 — 100 Mn| —— Good Good
+3005
+8 H
+SECOND ADJUST SWITCH
+3 Good — 100 Mol — | — — | cond
+I ! !
+f i -
+1 3 HANDS KLUSH E.L DIAL |
+i1 13447 Good S, =17 100Ma|l100 Ma;, Good | Good Good
+| 4 1ANDS SURRACE !
+i 1 |az80 Good s,-12 1100Ma 100 Ma| Good | Good | Good
+1B 2 s surFacE 5 4196 Good 58,12 i G Gosd
+00 s - 100 MOl — ood | Goo
+~
+4200 i |
+F |
+2 HANDS VATER-PROOF !
+1 14302 Good SE.-12 — 100 M| — Good Good
+CABLE ENT. ABOVE )
+- T ——e o
+& 4287 ~90
+2 HANDS ORNAMENTAL i
+9 Good 8F,-12 - 100Ma| T Gaod Good
+SURFACE ACRYLITE COVER 4966 ~70
+B
+
+--- PAGE 21 ---
+INSTRUCTION MANUAL
+
+FOR
+
+MARINE QUARTZ CLOCK SYSTEM
+
+TXS-THE-4#, (*/4)
+
+--- PAGE 22 ---
+1.
+
+KARINE QUARTZ CLOCK SYSTEM
+
+GENERAL
+
+This clock system provided with an accuracy of weekly errer of less than
+
+2,1 second is constructed under the control of the master clock,
+
+And designed for the use of vessels of the ocean service, deliberate
+
+consideration has been given to such conditions as vibration, temperature,
+
+humidity and handling.
+
+WIRE CONNECTION
+
+Use the convenient wire inlets for making connections, as they are
+
+provided at the backboard and the bottom of the case.
+
+Put "AC” and "DC” switches of operating facilities tec "OFF” positions
+
+before making connections.
+
+Terminals for connection as follows;
+
+4C 100V(8,8)
+
+DC 24V(~10,+11)
+L4,L5
+
+e
+
+LR
+
+LA
+
+EARTH{1}
+
+30 SEC. (H1,H2,H3)
+
+608z (4,5)
+
+ALARK(T, ,T.)
+
+RADIO SIGRAL
+(Py,Pe}
+
+Input power source 3 AC 100V 60H:
+
+Use non interrupted pover service.
+
+Input pover source ; DC 24V
+
+Logger cireuit ; 30 second polarized signal
+3 (r249)
+
+Holding reverse 3 (0V)
+
+Holding adjustment ; (OV)
+
+Earth § It is accommodated at the case of mester clock.
+
+Common for logger
+
+30 second polarized signal for 2 hands type slave clock.
+oC 24v, 15000
+
+Up to 40 slave clocks connectable.
+
+There are two circuits, and either of connecting.
+Standard time slave clock vith sveep running second hand.
+AC 20V, 60Hz slave clock with second hand type up to 5.
+External alarm circuit.
+
+Output of making contact points.
+
+Signal of the moniter for the radie standard time sigmal.
+Use the speaker with ratings of 0.Z¥ and 600Q
+
+TAS-THE-4K; (°/2)
+
+--- PAGE 23 ---
+3. OPERATION
+Operating facilities are arranged in the small cover of the lover part of
+the door, and on the control PCB (Printed Circuit Board) in the case.
+For the arrangement of operating facilities, Please refer to fig. l.
+Before using this clock system, put each operating facilities to following
+positions,
+(position)
+© "AC" power switch » OFF ”
+@ ”DC” pover switch » OFF
+® “Dimmer” switch ” OFF "
+@ "SEC.HAND” svitch ” STOP ”
+© ”LOCAL TINE 4DJ,” svitch of the hand directions ” AV, 7
+® “LOCAL TINE ADJ.” digital switeh ”00 "
+® “LOCAL TIME ADJ.” switch of change-over » OFF”
+® “RADIO SIGNAL” volume disl switch » OFF ”
+"OPERATION” seitch on the PCB ” QUARTZ "
+« START
+
+3-1 Put AC” seitch@® to “ON” position.
+3-2 Put "AC” switch®@ to "ON” position,
+3-3 Put ”SEC.HAND” svitch@ for the second hand stopping to ”NOR.” position,
+
+then the second hand of STANDARD TIME begins to start.
+
+3~4 Put "LOCAL TIME ADJ.” svitch® for change-over to "NOR.” position, then
+
+the master clock is to set the normal operation.
+
+3-5  Dperation change-over
+
+Put "OPERATION” switch of control PCB to "SHIP'S” position, if the
+master clock stops operation because of the failure of quartz oscillator.
+The master clock will supply the signal with rotating motor
+by receiving AC pover service of vessel.
+In this case, the clock accuracy depends on the generator of the vessel.
+
+3-6 AC operation or DC operation
+
+The clock system is usually cperated by AC pover but it can be kept on
+operating automatically by changing over to DG power in case of the
+
+failure of AC power service,
+
+3-7 Dimmer
+
+"Dimmer” switch@ can centrol the brightness of lighting on dial plate.
+It can be change into three state,
+"BRIGHT”, ”DARK” and "OFF”
+
+TAS-T E-4K, (/)
+
+--- PAGE 24 ---
+3-8 Honitor for the radio standard time signal
+In case of the second hand adjustment of the master clock,
+it will be able to monitor the radio standard time signal by turning
+PRADIO SIGNAL” dial@ teo clockwise, and to adjust a volume by turning
+the dial.
+Turn the dial to "OFF” position st the normal operation which has
+
+unnecessary to monitor the radic standard time signal,
+
+4. TIME CORRECTING
+4-1 Hands adjustment of STANDARD TIME
+Second hand }
+The second hand stops running while ”SEC.HAND” switch® is turned to
+»STOP” position, and to return to “NOR.” position, the second hand is
+to run again,
+Hour and minute hands:
+Open the door and set the hands by turnning the knob in the movement
+for STANDARD TINE. Cf, fig. 2
+4-2 Rands adjustment of LOCAL TIME
+At first, set the hands of all slave clocks by the hands of master
+clock’s "LOCAL TIME” by turmning the knob of the movement. Cf, fig, 3
+Advance 3
+Set "LOCAL TINE ADJ.” switch® of changing the hand directions to
+”ADV,” position, and set the digital svitch® for time setting to
+wanted time, then "LOCAL TINE ADJ,” switch® turn up to "ADJ.” position,
+{ As the switch® is rebound to ”NOR.” at once. )
+It will add the elapsed time in the adjusting,
+Ater adjusting te correct time, turn back to normal advance
+automatically, so need not toush the switches.
+
+Lighting LED® in the adjusting,
+
+Delay ¢
+Set down ”LOCAL TIHE ADJ.” switch® to ”REV.” position, and set the
+digital switch® for time setting to wanted time, then "LOCAL TIME
+ADJ." svitch@® turn up to ”ADJ.” position.
+It will reduce the elapsed time in the adjusting.
+After adjusting to correct time, turn back to normal advance.
+
+automatically, so need not touch the switches.
+
+TAS-TWE-2%, (*/5)
+
+--- PAGE 25 ---
+Stop
+Set down “LOCAL TIME ABJ,” switch® to "OFF” position,
+A11 slave clocks and "LOCAL TIE” monitor are to stop the advance.
+
+5. REPLACE THE LAMP
+Vhen the filament of the lamp had off, open the front door, and the lamp
+on the back side of the door exchange to the new one,
+6. EXCHANGE FUSE
+Vhen the fuse had off, alarm signal will be send out,
+
+On that time, come out the white mark in front of the fuse.
+
+AG DO AG D C  DMMER SECHAND —LOCAL TIME ADJ—— RADIO SIGNAL
+ADL [eRelye]
+
+ORHe9.Q cooce
+1 170
+
+:
+®
+
+fig. 1
+
+Fig, 1 Svitches for control
+
+AC pover switch
+
+DC power svitch
+
+Dimmer switch
+
+Svitch for second hand stopping
+
+Switch for advance-reverse of the hand directions
+Digital svitch for adjusting time setting
+Indicator (LED ; red) in the adjusting
+
+Change-over switch for adjusting
+
+[CRC RSN NN N SR
+
+Volune dial with svitch of the monitor
+for the redio standard time signal
+TXS-T T E-4H, (/)
+
+--- PAGE 26 ---
+Adjusting
+knob.
+
+Adjusting
+knob
+
+fig. 2 fig, 3
+¥ovement for STANDARD TIME Yovement for LOCAL TINME
+
+TXS-TUE-4M, (/)
+
+--- PAGE 27 ---
+BRI 4B A T,
+
+VWEFR AT AA—D—~,
+
+BiH &< 3 DO
+
+® 5463 b O— 3 RT LB
+
+A DrRTOY I LA - HENET. ERAAC, —X 7
+
+7oy 7 Ty Rt (e BREE, HoARe
+oEBEES AT L
+
+HUE - BPY - TSE  HESERET AT 4 BAIT - R 395
+
+BUSERESIRT Y AT A, BIE - LEHEHSRART AT 4,
+o RR— YRR AT L
+
+Jkik, Ax—. Mk, BRH, SEREARENE
+
+T A Ry R
+
+5t o BUF - (REPEIE
+maen T.1.C-CITIZEN
+
+Thinking, Imagining, Creating
+
+R AT L,
+
+= F162 B 5 GE TR
+HEEE T2 RAMBHWETERA2HF LT Loy g33067) 5 2
+FEERF T2 H
+
+WENEHRANT4 TE28%F 1% TEL 045(321) 8344
+T AX 045{(321) 8 3
+F465 pEEHEER--# 4 THI79EM TEL 062(701) 8291
+FAX 052(701) 8 4
+T536 KA ARKAKFESTE 3%20% TEL 06 (961) 8663
+FAX 06 (961) 8 6
+T L BN P X AT 3128 9 % TEL 082(228) 6721
+FAX 082(227) 9 1
+FI0 EAHHARFR1ITE 8 245 TEL 092(521) 130
+FAX 092(521) 1
+F060 ALt AL KA N4 FB 2 &M TEL 011(746) 385
+FAX 011(709) 4
+Te6O RS AWM F 4 T H10F 4 5 TEL 096(356) 4
+F AX. 096(324) 6
+PEHTH T84 FRESHEHAIIS TH 6 £125 T L 0423(83) 2
+FAX 0423(85) 7
+
+0
+4
+5
+4
+0
+3
+221
+7
+
+TEL 03(3268) 2261 {8 %
+
+6 4
+&
+4 2
+&
+01
+(3
+8 0
+&
+57
+1+

@@ -1,0 +1,619 @@
+SOURCE: E-111 LIST OF SPARE PARTS FOR RADIO EQUIPMENT.pdf
+FOLDER: .
+PROCESSED: 2026-03-06 20:15:02.993093
+==================================================
+
+
+==================================================
+PAGE 1 of 18
+==================================================
+FINISHED PLAN
+
+FLBNDERS TENACITY
+
+LIEST “OF SPARE PARRS HOR
+RADIO EQUIPMENT
+
+s Lad (K1) and
+ay third parly
+
+o
+mﬂu\ul K IH s prior le\u\ cons
+
+MANAGER
+CHIEF
+—
+¢ = |cHECKED
+—
+@
+B
+o
+B | DrAwN SHIP DESIGN DEPT, SHIP GROUP
+oaTE WA VLB 99 1456
+
+Wi R ED A
+
+KAWASAKI HEAVY INDUSTRIES, L 1D 18 suEeTs wcl coven
+
+==================================================
+PAGE 2 of 18
+==================================================
+22N1456  DWG.NO.
+
+LIST OF SPARE PARTS FOR RADIO EQUIPMENT
+
+47 - 901
+
+LOCATION
+CONTENT IN_RADID EQUIP. R? |
+NO ITEM MANUFACTURER'S NAME PAGE | Box No.
+1| RADIO EQUIPMENT JAPAN RADIO CO.. LTD. |
+1) ME/HF RADIO EQUIPMENT 2 |
+2) ACCESSORIES 3
+3) TOOLS 4-5
+2 | VHF RADIO TELEPHONE vo.
+1) VHF RADIO TELEPHONE 6
+2) VHF REMOTE CONTROLLER )
+3) PRINTER 8
+3| RADIO DIRECTION FINDER 0o, 9
+4| FACSIMILE 00. 10 Extel
+5| 400MHZ TRANSCEIVER 00. 1n
+6 | INMARSAT 00.
+1) INMARSAT (ST-B) 12
+2) FAX FOR INMARSAT(ST-B) 13
+3) INMARSAT (ST-C) 1
+7| TWO-WAY COMMUNICATION 0o. 15 |
+RADIO TELEPHONE
+8| SATELLITE EM'CY POSITION bo. 16
+INDICATING RADIO BEACON |
+(406MHZ SATELLITE EPIRB) i
+9| NAVTEX RECEIVER 00. 11
+
+Note :
+
+easy cheking and storing of the goods.
+
+Therefore,
+
+descrided ones.
+
+The main purposes of the sketches shown in this list are for
+
+some of the actual figures are not always same as
+
+==================================================
+PAGE 3 of 18
+==================================================
+. BOX NO
+
+s
+
+T
+SHIP KO | SPARE PARTS LiST FOR | u 5 E 5
+e e ——
+MF/HF RADIO INSTALLATION 4
+456 1
+JS8-720 &
+|
+QUANTITY REMARKS ]
+ITEM NA&\ERTOF . OuTLINE WORKING DESCRIPTION [SUB
+o (Dmension in m / m) PERPERTPARE MARK OF
+X SET |VESS JRC CODE NO [gox NO|
+| MFO1NM30 |
+1 | FUSE to3 | 1 2
+i 5ZFAA00073
+T I
+MFOINM20
+2 | FUSE & % 2
+5ZFADO0387 |
+MFGONR-3.15A
+3 | FUSE 1 2
+5ZFAD00362 i
+MF60NR-0.5A
+4 | FUSE 3 71 2
+| 5ZFAD00013
+MF60NR-1A
+5 | FUSE Y faandee i
+| | 5ZFADO0O14
+|
+i | MFGONR-2A
+6 | FUSE . " 1 |2
+5ZFAD00015
+
+DRW.NO.
+
+==================================================
+PAGE 4 of 18
+==================================================
+SHIP MO |
+
+"
+
+% 3
+
+NAME. OF PART
+
+Flashlight
+
+Tester
+
+==================================================
+PAGE 5 of 18
+==================================================
+r
+
+SETS PER|
+
+SHIP NQ U S
+
+u I8 "VESSEL
+— v
+LIST OF TOOLS
+1456 RADIO EQUIPMENT
+MODEL NO. 250 ?
+i— QUANTITY REMARKS [
+ITEM NAF{J‘I;_‘TOF OUTLINE WORKING| | pEScRiPTION [SUB |
+> (Dimension in m /m) PERFER] . et e
+
+SET|VESS JRC CODE NQ |gox NO
+
+|
+
+1 | STRONG PLIER
+
+2 |LONG NOSE PLIER
+
+3 | curTing pLIER
+
+4 TWEEZERS
+
+[5 FILE
+
+bR s S A L, 1 LI
+
+6 | DRIVER 1 SET
+
+SPANNER
+
+==================================================
+PAGE 6 of 18
+==================================================
+Box NO. _BSagls ePe Bl
+
+SETS PER|
+
+SHIP NQ v s € VESSEL
+LIST OF TOOLS
+|45 NOREL i v RADIO EQIUPMENT
+QUANTITY REMARKS
+TEM . Nawe oF OUTLINE WORKING| .| DEsoriTION [SUB
+NO. (Dimension in m / m) PERPER| . ARK OF|
+SET [VESS JRC CODE NQ |gox No
+8| spanner M 1 9:10
+.:‘nv"\—J_m_ |
+10 " 1 10; 12
+e pEibes
+11| SOLDERING IRON T e 1 100v  j0M
+12| SOLDER @ 1
+13 | SOLDERING PASTE %]ms 1 r
+L ae
+1 - - 3
+15 | BAR SPANNER 1 Jmm
+16 " 1 [
+17 TOOLS BAG , !
+
+JAPAN
+
+RADIO CO. LTD. |
+
+ORW NO
+
+Miaka
+
+==================================================
+PAGE 7 of 18
+==================================================
+SPARE PARTS LIST FOR
+
+RV H F 60000 16
+VHF RADIOTELEPHONE
+/ 955 JHS-32A
+gt
+i kd L3 * ® " QUANTITY ) REMM(K_S
+w o s [
+R o O ) i g SRR [ _workiNG | " |
+NAME OF PART OUTLINE L1 ?&“SPARE J
+ba-xX
+1 96.4 - g
+B s 30——7] 1 2 4 |[MF6ONR-5A
+Eal=x []]e6.4
+2 g - 2
+FUSE Erae 1 2 4 | MEGONR=10A
+3 |
+|
+4
+
+HoA®BHBR2H
+JAPAN RADIO CO.,LTD.
+
+WFAKS THL®LY
+
+Mitak g
+
+==================================================
+PAGE 8 of 18
+==================================================
+L SR R
+SHIP NO SPARE PARTS LIST FOR
+VHFE 53l 49 8
+VUF REMOTE CONTROLLER FOR JHS-32A VHF
+1456 NCH-414
+[ i s
+o kg L3 " L 2] QUANTITY
+#om K
+P TR T T IR S e _WORKING |
+L‘I:A NAME OF PART OUTLINE 1M
+e e 44—
+e — T2 Rl
+. : Rt ehs
+1 BUsE [ e ME6ONR=IA
+Ea-x | [46.4
+i 1 1 MF6ONR=2A
+! FUSE FeERl el
+£
+
+* WO R X
+.TD.
+
+"ok
+JAPAN RADIO €
+
+==================================================
+PAGE 9 of 18
+==================================================
+BOX NO.
+
+E-20|
+
+®___® T
+SHIP NO SPARE PARTS LIST FOR SETS PERVESS
+Fvv2-(EBRVHFA) $
+1
+
+1456
+
+PRINTER
+
+OUTLINE
+
+o e T ¥
+B v g R
+
+e 20
+
+MFS1NN-3.15A
+
+MFR'S NAME
+
+e SRR 3 B
+
+1, 5
+
+RESE I I -
+
+JAPAN RADIO CO., LTD. DRW. NO.
+
+XABZMOFAGSTA LS LS
+ome, Shimorenjaku, Mitaka 181 Japan
+
+TEL
+Telex
+
+0622-4h-9111
+2822-351
+
+==================================================
+PAGE 10 of 18
+==================================================
+;oo G T n: B n i #
+SHIP NO SPARE PARTS LIST FOR USE SETS PERVESS.
+x
+LD - 20A
+1456 - 1
+DIRECTION FINDER
+
+g s ACGIENE L W et T
+L] L3 " ® m QUANTITY REMARKS
+it i L & R T &R
+I
+N.‘;)EM NAME OF PART OUTLINE
+
+SPARE
+
+106318
+3 6.3V 0.15A
+
+k— 28 3%
+
+2 FUSE D:—D 6.4 | 1 1 2 | 2A (MFGONR-2A)
+A 2
+
+3 RELAY % 2 Azl 1 | He2 - 1 - pezav
+lex
+
+Bk M BKL2NH L} *
+
+JAPAN RADIO CO.,LTD.
+
+==================================================
+PAGE 11 of 18
+==================================================
+WEATHER FACSIMILE RECEIVER
+MODEL: JAX-90
+
+FOR
+
+Fooagacs g [ Sl
+L QUANTITY REMARKS
+- - Rekn] ta
+ITRY| e OF PaRT ITLINE L B Sparg|
+[o. ouTL e
+3
+1 1c 7.5‘ uPC1213C
+® K @B Ty % . SDAAA00317
+: = by TA78M12P
+e 10.3|0 e x i SDAAD00564
+T TR
+: -, TA78LOOSAP
+5'13 % % 5DAAD00048
+¥ s
+2 |
+i 10'3[—;\ — ! TA78M18P
+s Tere L % SDARD00565
+15.3
+5 TD62064BP-1
+5 s 6.5 1 1 B4BES
+| —+ SDDAE01800
+Bl e 19.9
+o B o
+b RELAY | 25.3 VS-12SMBU
+v | e 1 i SKEAD0001S
+«—29.2 —
+il
+=
+o i 22.0 C4D-282P 24¥DC
+* 1 1
+SKLEMOO105
+k—28.1 4
+r o 555
+8 FUSE *——-} 78 MF60NR-3.15A
+1 }52
+B SZFAD00362
+2 f— 30 —%\T 1
+|
+9 | | MF60NR-0. 2A
+> 2 SZFAD00052
+Lo | RECORDING PAPER o oo |
+6ZPTS00127
+
+==================================================
+PAGE 12 of 18
+==================================================
+BOX NO_g-201 P
+
+SETS PER
+VESSEL
+
+T 3
+6 BATIGHY OUREE 400MHZ FM TRANSCEIVER
+o % i
+145 W & ws-146
+e e QUANTITY REMARKS
+PART Breacion w7 5 WORKING DESCRIPTION [SUB
+NO. IR i I g PERIPER [SPARE] |ARK OF |
+SET |VESS rJHC CODE NQ 80X NO)
+ta=X 3,
+b USE D:]Ps.z 1 7 | 14 [MFSINN-1A
+F P— 20 —i -
+2
+3
+te
+A
+|
+
+| MFR's NAME | JAPAN RADIO CO., LTD.
+
+==================================================
+PAGE 13 of 18
+==================================================
+SPARE PARTS LIST FOR |
+
+T
+INMARSAT-B i
+
+SHIP EARTH STATION
+
+MODEL : JUE-300B1
+
+QUANTITY
+
+NAME OF | OUTLINE i
+
+WORKING
+
+(Dimension m m m)
+
+PERPER
+SET VESS
+
+ke d
+
+el it
+
+E e kil
+
+==================================================
+PAGE 14 of 18
+==================================================
+BoX NO.
+
+e-20|
+
+[snp o
+
+SPARE PARTS LIST FOR
+
+USE
+
+HIGH smpngcs[ma
+
+1456 INMARSAT (ST-8B)
+ITEV | NAKE OF OUTLINE hoa BT,
+YORKING [ | DESCRIPTION
+N. ART Dinension i
+P (Dinension in n/n) 1 | Gt G il
+Carrier
+Sheet /’/\\\ B4
+1 2
+H7s-h APXPO1287B
+Carrier
+Sheet M
+2 2
+BITsh \PXPOOBTTB
+Test Chart
+B4
+3| it 2
+62PTS00021
+Test Chart
+A
+4 |t P
+i 62PTS00031
+1 999200
+x ®5.2m | | 1 | 5ZFADO004S
+- 20em -3
+|
+|
+€| TAPAN RADIO CO.. LTD.
+
+==================================================
+PAGE 15 of 18
+==================================================
+BOX NO_E-20f P
+
+SPARE PARTS LIST FOR |
+
+INMARSAT-C
+
+MODEL: JUE-75A
+
+{__QUANTITY |
+| WORKING
+
+TPERPER SPARE—.—L—?#ARK
+| SET [VESS i JRC CODE NO |BoX NO,
+
+| MF6oNR-84
+
+OUTLINE
+
+{Dimension " m
+
+3 -
+SZFAD00268
+
+GGS 1 172
+1.54 5
+
+T
+|
+L
+|
+|
+|
+
+3
+
+5ZFAD00339
+
+==================================================
+PAGE 16 of 18
+==================================================
+BOX NQ_E-2°!
+SHIP NG | SPARE PARTS LIST FOR U S E
+
+o, S ®
+BATTERY CHARGER
+B & NBA-4141
+MODEL v
+
+VHF FM TWO-WAY RADIOTELEPHONE
+
+: = QUANTITY REMARKS |
+Y NET ~ OUTLINE WORKING DESCRIPTION [SUB
+o AR (Dimension in m / m) PERIPER 9AR4——————MARKOF
+SET [VESS JRC CODE NQ |BOX NO|
+$5.2 l—
+1 sl 3 1NN-0, SA
+SRR 20 1ol o
+
+DRW. NO.
+
+==================================================
+PAGE 17 of 18
+==================================================
+SHIP NO | SPARE PARTS LIST FO?Li U
+.
+
+406 MHz SATELLITE EPIRB ’
+
+L
+
+§ot MODEL : JQE-24-E l
+ITEM NAME OF QUTLINE
+o PART (Dimension in m / m) (3 Vbt stale )
+. SET|vEss| | JAC CODE Na|
+N G Ly -
+fow MFSINN-0.1a
+1| FusE el 3 :
+| e : 52FAD00039
+b
+E ; ' P12
+2 | 0 RING | 1 1
+2% ; BRPRO
+
+3REK00619
+
+==================================================
+PAGE 18 of 18
+==================================================
+T
+ity
+
+SPARE PARTS L1ST
+
+NCR-300A
+FTF gy ARIER
+NAVTEX RECEIVER
+IiH QUANTITY
+,,,,,,,,, W E
+TEM WORKING | 7
+NAME OF PART OUTLINE IR
+Rk ST S pumser |pmves | ST
+#3AEE e e
+£ % s I ] 2 2 2 34
+GLASS TUBE FUSE e boata =
+i i
+2
+BLANK y
+EE) |
+BLANK
+EH
+
+BLANK
+8]
+
+BLANK
+
+k- Az ]
+
+BLANK

@@ -1,0 +1,898 @@
+--- page_000.png ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR MOTOR
+
+ALL ELECTRIC MOTORS
+
+INCORPORATED INTO
+INTEGRATED EQUIPMENT
+
+Kawasali [Heavy Industries, L (K1) and may
+
+--- page_001.png ---
+ELECTRIC MFG.CO.LTO.
+
+* I NS TRUCT I ON MANUA L *
+* FOR *
+® ®
+* INDUCT I ON MO TOR *
+
+— 3 4 9
+
+TAIYO ELECTRIC MFG. CO., LTD.
+--- page_002.png ---
+CONTENTS
+
+1. Operation
+
+1-1 Preparations for operation 1
+1-2 Check after stapt s 1
+1-8 Check during operation — ---mrerrersmmmsrmm s 1
+2. Maintenance and Inspection 2
+2-1 Periodical inspection 2
+2-2 Maintenance of bearing — -───── 2
+2-3 Insulation resistance ---───── 5
+2-4 [tems of caution when the motor is rest ----r---───── 6
+2-5 Drying of winding Coil  —───── 6
+3. Troubleshooting o 7
+4, Disassembly and Assembly -~ 7
+4-1 General cautions — --ororerrssrsrrsssmss s 7
+
+4-2 Disassembly
+4-3 Assembly
+
+--- page_003.png ---
+Thank you very much for purchasing our products. Taiyo Induction Motors, with excellent
+durability, function and performance, are the products that show our long experience in
+producing the motors for ships. However, it is desirable to read through this
+Instruction Manual and to take due care of the handling, maintenance and inspection of
+the machine for upkeeping the efficiency of the machine.
+
+1. Operation
+1-1 Preparations for operation
+
+Be sure to check and confirm the following items before starting operation.
+
+(1) Cleaning:- HWipe off the dust, etc. from the motor; be sure to use a piece of dry
+cloth. Never use wet or oil-stained cloth to wipe the electrically conductive
+section.
+
+(2) Tightening sections:- Check the motor bolts for loosening and detachment, paying
+particular attention to the electrically conductive section,
+
+(3) Terminals:- Check the lead wires and cables for scratched or cracked coatings as
+well as the bolts for loosening.
+
+(4) Insulation resistance:- Measure the insulation resistance between motor windings
+and earth with a 500 V megger to make sure that the resistance is above the value
+given below,
+
+3X Rated voltage of the motor (V)
+
+Insulation resistance = MΩ)
+insulation resistance Rated output (kW) + 1000
+
+(Min. resistance:1MΩ)
+
+1-2 Check af ter start
+
+After starting the motor, carry out no-load or lighi-load operation to check the
+
+temperature, vibration. sound, etc. at each section.
+
+(1} Abnormal noise:- Check each section for abnormal noise by using a sound
+istening bar.
+(2) Abnormal vibration:- Check each section for abnormal vibration by touching with
+and or using a viorometer.
+(3) Temperature rise in bearing:- Should the bearing be found to have excessive
+temperature rise, install a thermometer to the bearing, and carry out inspection
+of the bearing according to the item 2-2, if the temperature exceeds 45 degree.
+1-3 Check during operation
+
+Daily watch and check of the wachine during operation are extremery important; check
+
+the following items.
+
+(1) Noise:- Check each section for abnormal noise by using a sound listening bar.
+
+(2) Odor:- Check for burning smell of varnish, oil, etc. to detect the abnormality.
+
+(3) Temperature rise:- Confirm the temperature at each section by means of the
+
+thermometer.
+(4) Vibration:- Check each section for abnormal vibration by touching with hand or
+
+using a vibrometer.
+--- page_004.png ---
+2. Maintenance and Inspection
+
+2-1 Periodical inspaction
+
+It is utterly important to have correct knowledge, and carry out proper handling and
+
+careful maintenance of a machine in order to upkeep the machine in best operating
+
+condition. The effective and proper maintenance and inspection of the machine help
+
+avert or minimize the accident. Be sure to carry out tl
+
+for periodical Inspection” given below.
+
+he checks in the “Ceck points
+
+Table-1 : Check Points for Periodical Inspection
+Place of | Inspection item Maintenance item Inter-
+inspection val
+Vibration Vibrometer, perception Check the leg bolts, etc D
+dbnormal noise Sound listening bar, Locate the source (of D
+out acoustic sense generation) and check.
+uler
+periplieral Frame temperature | Thermometer perception Check the power source, D
+sections load and ventilation.
+of motor) N "
+Check the inlet and Check the periphere of
+outlet air temperatures | inlet and outlet ports
+Ventilation as well as flow rate for obstruction and the M
+through sense and by nets for dust.
+using thermometer,
+Power source | Voltage, current, | Instrument panel Take care of variation D
+etc, rom rated values.
+caring sound Sound listening bar D
+caring Thermometer . D
+i temperature Replenish or/and
+eriphere of - - - " N " discharge the gzrease
+earing Bearing vibration | Vibration, perception §Ee51fled on tEe D
+- aution Plate”.
+ischarged grease |Color, odor and hardness 24~64
+0i1 leakage M
+iring megohm Hegger Carry out periodical M
+. cleaning; do not forget
+nside of Odor to clean the pipe if an D
+motor - air cooler is installed
+ust Dust, foreign substance | to the motor Y
+and water
+Compressed Additional tightening Y
+. terminal of bolts Lo
+nside of - Carry out periodical
+terminal box | Terminal stand Dust cleaning Y
+Lead wire Scratch and crack on coa Y
+ing
+Condition of | Coupling Y
+Others coupling section Check when the motor is
+- - not running
+ightening parts |Lleg bolts, etc. Y
+
+2-2 Maintenance of bearing
+
+The grease circulating, rolling bearing, adopted in this motor,is either open or sealed
+
+type ball bearing. A special duplex angular contact ball bearing (DB type) is used on
+
+the un-coupling side of the motor for steering gear in order to protect the bearing
+
+from vibration. Carry out the maintenance of bearing according to the maintenance
+
+procedures given helow.
+
+--- page_005.png ---
+(1) Type and construction of bearing:- Refer to the Drawing for completion for the
+type of bearing used in this motor. The construction of hearing differs according
+to the type of the bearing (open/sealed type ball bearing, duplex angular contact
+ball bearing, etc.).
+
+Fig.1 shows the construction of open type ball bearing. The sealed type ball
+bearing has normally the same construction with the grease nipple and rotating seal
+taken out, while the duplex angular contact ball bearing has 2 bearings in 1 set
+and has the construction similer to the Sectional Drawing of TTS motor.
+
+Grease injection and discharge can be easily carried out in the case of open type
+ball bearing and duplex angular contact ball bearing; take care, since this is
+
+not possitle for the sealed type ball bearing.
+
+racket Grease nipple
+
+Bearing cover Rotating seal
+
+Lock nut
+
+I
+
+Fig.1 : Open type Bearing construction
+
+(2) For starting the motor after a long rest
+
+(a) Be sure to inject the required amount of grease specified on the “Caution
+Plate” immediately after starting the motor. (This is not required for the
+sealed type ball bearing.)
+
+(b) Take care of rise and change in temperature of bearing after starting the
+motor.
+
+() Check the volume and tone of bearing sound.
+
+(d) Check the vibration of bearing.
+--- page_006.png ---
+(3) Greasing (not required for sealed type ball bearing).
+
+(a)
+
+(b)
+
+@
+
+able-2. Never use t
+
+the time of replenishment.
+
+Table-2 : List of Recommended Grease Brands
+
+he grease of dif
+
+supply grease replenishment.
+ULTEMP SRL grease (|
+
+from Taiyo factory.
+
+It is recommended that this brand o
+
+grease of same soap base (lithium type grease) from the
+erent soapradical.
+
+extract the grease by opening the cover of discharge port.
+efer to “Caution Plate” or "Table-8” for the guantity and intervel of
+
+Maker’s name
+
+Grease
+
+brand
+
+e sure to supply greasec when the motor is runing; do not forget to
+
+{yodo Yushi K.K.) is fill up at the time of shipment
+
+grease be used at
+
+In case this brand is not available, choese the
+
+rands given in
+
+KYopo USHI MULTEMP SRL
+
+NIPPON 01 MULTINOC GREASE NO.2
+
+MOBIL MOBILUX NO.2
+
+SHELL ALVANIA GREASE NO.2 or NO.3
+
+ESSO BEACON NO.2 or NO.3
+
+Table-3 : Grease Quantity and Greasing Interval
+
+. . Initial Greasing Greasing interval
+caring o | BN | Y& [2p 4P | 6P [ 8P [10P over
+--- page_007.png ---
+(4) Diagnosis of bearing
+
+(a) The abnormality of ball bearing can be most accurately detected by the sound
+
+generated in the bearing. Pay due attention to the bearing sound every day
+
+by applying a sound
+
+istening bar to the bearing.
+
+Table-4 : Diagnosis of Bearing
+
+i Type of sound | Sound volume Sound Countermeasure
+[ A whigpering sound (as if 2pon the |
+Racing sound Small pines), generated when the balls Normal sound.
+
+travel over the inner and outer
+
+j rings.
+
+& jingling like sound generated when | Replenish the grease.
+
+. Small~ the retainer vibrates during Check the bear%n if the
+
+Retainer sound Large |operation, causing the balls to sound volume 1§ large
+
+collide. even after replenishing
+
+the grease,
+This sound of ten goes down when
+. grease 1s_injected, but may appear
+Scratch sound | Medium~ shortly. The sound is audible at Replace the hearing.
+Large |specific place when the shaft is
+
+rotated, and may be heard
+
+continuously if there is rust.
+
+There is no periodicity in the
+Dust sound Small volume and interval of sound, and Clean or replace the
+
+the sound finally may develop to | bearing.
+
+scratch sound.
+
+Note:- The sea
+(b} The abnormal
+
+ed type ball bearing can not be greased or/and cleaned.
+
+temperature rise of bearing may be attributed to the excess,
+
+inadequacy or deterioration of grease. In such case, carry out discharging
+
+and replenis
+
+ing of grease. However, replace the bearing in the case of
+
+sealed type ball bearing, since greasing is not possible in this case.
+
+Tal
+
+le-5 : Permissible Temperature Rise of Bearing
+
+Permissible temperature rise
+(amblent temperature: 50°C
+
+For MULTEMP SRL and other heat
+resisting greases.
+
+45 deg.
+
+2-3 Insulation resistance
+(1) Since tl
+
+e insulation resistance is an important factor for judging the state of
+
+insulation, carry out periodical measurement of the resistance, and record the
+
+ambient temperature, relative fomidity and weather as well,
+
+@
+&
+
+Use a DC 500 V megger to measure the insulation resistance.
+
+above the level shown below.
+3% Rated voltage of the motor (V)
+
+Insulation resistance
+
+See that the insulation resistance, when measured with a DC 500 V megger, is
+
+Rated ocutput (kW) + 1000
+
+Q)
+
+(Min. resistance:1MQ)
+
+(4) Since the minimum permissible value of insulation resistance depends on the size
+
+and type of the machine, it is difficult to generalize the value. However, as a
+
+criterion for daily maintenance, the minimum permissible value shall be above IMQ.
+
+5
+--- page_008.png ---
+2-4 Ttems of caution when the motor is at rest
+
+It is desirable that the motor winding and insulator are always clean and dry.
+
+Take utmost care of humidity when the motor is at rest.
+
+In case the motor is not used over a long period, cover the whole motor unit with
+
+waterproof sheet and firmly fix with tape or rope and keep the motor in nearly
+
+enclosed (seai up) state in order to prevent the intrusion of moisture, dust, efc.
+
+Furthermore, connect to the space heater in order to prevent moisture absorption and
+
+perspriring of winding and bearing of the motor. However, if the space heater is not
+
+installed, put moisture absorbing agenis such as silica-gel, etc. into the water
+
+proof sheet before sealing.
+
+Since the grease, when left unused over a long period. has the oil component separated,
+
+causing the grease to get hardened and affected, carry out hand turning of the rotor
+
+once every two months when the grease is stored or the motor is not operated for a long
+
+time,
+
+2-5 Drying of winding coil
+
+In case the insulation resistance gets decreased due to moisture absorption by the
+
+insulator, and drying is necessary, be sure to thoroughly clean the whole motor unit
+
+including the winding coil before drying.
+
+(1) Cover the whole motor unit with the sheet and blow in hot air by using a hot air
+
+drying machine, taking care so that the hot air may not come directly on the winding
+coil and shaft to cause them to get locally heated. See to it that the maximum drying
+temperature is approximately 90~100°C, and install thermometer to carry out
+temperature control,
+
+When covering the sheet, provide proper space to enable thorough circulation of
+
+hot air,
+
+(Do not use coke, coal gas or kerosene stove as the heat source.)
+
+Measure the insulation resistance at a certain interval while drying, and carry
+
+out drying for over 24 hours, after the insulation resistance shows a constant
+level. The change of insulation resistance measured and recorded during is shown
+
+in Fig.2. Make sure that the value has reached the saturation point.
+
+Insulation
+
+resistance
+
+Time -
+
+Fig.2 : Change of Insulation Resistance
+6
+--- page_009.png ---
+(3) In case the insulation resistance does not return to normal even after drying, there
+
+must be some defect in insulation.
+
+In such case, do not turn the power to ON, and contact your Taiyo serviceman.
+
+Taiyo designs
+
+reliability.
+
+In such case,
+
+. Troubleshoating
+
+and manufactures the products to ensure high electrical and mechanical
+
+owever, some troubles may occur when using the machine over a long period.
+
+find the cause as early as possi
+
+le so as to minimize the trouble.
+
+Table-6 : Troubleshooting
+
+|
+
+Trouble
+
+Cause
+
+Coun termeasure
+
+Fails to start.
+
+Disconnection or shortcircuit
+of winding coil and lead wire
+
+ewind or repair.
+
+i nals,
+
+Slackening of connecting termi
+etc,
+
+Carr
+slac]
+
+out additional tightening of the
+ened portions.
+
+Disconnection or misconnection
+of starter
+
+epa
+Cl
+
+ir the disconnected part or make,
+ange according to the connection diagram
+
+InadequaC{ or unbalance of
+supply voltage
+
+1l
+
+Measure ierminal voliage and adjust it to
+e specified voltage.
+
+Single-phase operation
+
+£ tl
+
+he motor snarls. after the power is
+turned on, but fails to rotate,
+isconnection and repair.
+
+check fo:
+
+T
+
+Excessive over-load Check the auxiliary machinery side.
+Inadequate supply voltage Heasure the termjnal voltage, and adjust
+i to the normal voltage.
+The rotation — "
+against . | Variation in power frequency Measure the frequency, and adjust to the
+specified rpm is normal freauency.
+abnormal. - —
+Excessive slipping Check the rotor bar for breakage on check
+the joint of shortcircuit ring.
+
+Motor gets
+excessively
+heated.
+
+Inadequac;{ or unbalance of
+supply voltage
+
+Heasure
+to
+
+the terminal voltage, and adjust
+
+the normal voltage.
+
+Excessive over-load
+
+Chec.
+
+k tl
+
+e auxiliary machinery side.
+
+Shortcircuit between phases
+
+Rewind.
+
+Defective ventilation
+
+Remove the obstruction preventing the
+
+ventilation, and clean t
+
+air-coo
+
+i the pipe 1f
+ing machine is installed.
+
+4. Disassembly and Assembly
+
+4-1 General cautions
+
+Below are the general procedures and items of caution for disassembly and assembly
+
+motor. Be sure to read them thoroughly before starting the disassembly/assembly.
+
+(1) Disassembly or assembly by one person is not only inefficient but is likely to
+
+cause fatal damage to the machine,
+
+Hence, see to it that the job is carried out by two or more pcople.
+
+(2) Keep the place of disassembly in good order and well arranged to prevent
+
+mixing up of other parts and to improve the work efficiency.
+
+(3) Cover the disassembled parts, particularly the important rotating parts such
+
+as bearing, etc.,with vinyl or cloth to protect from dust.
+
+7
+
+Q
+--- page_010.png ---
+@)
+
+©)
+
+®
+
+)
+
+4-2 Disassembly
+
+Before pulling out or inserting the rotor from or into the stator, fit their
+shaft centers so that the two may not come in contact. Take particular care so
+as not to scratch the stator winding coil, rotor bar, shortcircuit ring, core,
+etc.
+
+Lay the rotor on a stand, and be sure to cover with vinyl or cloth, and wrap
+the bearing part of shaft with cloth for storage.
+
+When separating the fan and fan boss, be sure to put fitting marks, and use
+these marks at the time of reassembly.
+
+As shown in the Bearing construction in Fig.l, the bearing cover has the
+groove for the grease to pass through.
+
+At the time of assembly, pay due attention to the position of the groove.
+Erronecusly located groove causes failure in grease circulation, making the
+
+grease exchange impossible (not required for sealed type ball bearing).
+
+See the sectional drawings of the motor carefully to get the outline of the
+
+construction before starting disassembly.
+
+The sectional drawings of the motor are shown in figs.3~7.
+
+n
+@
+&
+@
+5
+)
+O}
+
+®
+
+1€)]
+
+10
+
+ap
+
+emove all external cables connected to the motor.
+emove the direct coupling.
+
+emove the bolts connecting the motor with auxiliary machine stand.
+
+Suspend the whole motor unit, and carry to the place of disassembly.
+
+n the case of vertical type motor, lay the motor down horizontally,
+
+ull out the coupling,
+
+n the case of motor with open type bearing, remove the grease nipple and
+grease injecting pipe.
+
+n the case of motor with external fan, remove the external fan cover, and
+unscrew the lock nut tightening the fan boss before removing the external fan.
+emove the bearing covers on both the coupling side and the opposite side.
+(Motor with small capacity may not have these covers.)
+
+emove the end brackets on the coupling side and the opposite side. When
+
+these brackets are removed, the spigot joint detached and, at the same time,
+the rotor drops down to the level equivalent to the air gap. causing the rotor
+and stator to collide vielently, and this may damage the core and winding
+coils. Hence, support both ends of the shaft with a crane or jack, or with
+hand (in case of motor with small capacity) before removing the end brackets.
+Pull out the rotor from the stator.
+
+4-3 Assembly (Reassembly)
+
+63}
+
+Carry out reassembly normally in the reverse order of disassembly.
+Before reassembly, thoroughly wipe off the dust, oil. etc. from the
+disassembly parts.
+--- page_011.png ---
+(2) Do not forget to replenish grease after installing the bearing.
+See Table-3 for the amount of grease to be replenished.
+
+(3) Remove the protectors used in each section before installing the parts, and
+after carrying out correct centering of direct coupling, make connection of
+electric circuits. This ends the reassembly.
+
+(4) On completion of reassembly, -check each section according to the “Operation”
+
+in item 1.
+--- page_012.png ---
+o]
+
+ENCLOSED VENTILATED DRIPPROOF MACHINE
+INDUCTION MOTOR
+
+TYPE:TID
+
+ﬁ“lwi i
+AP | A
+
+i) q
+>/
+i H .\
+
+J\h\mﬂ"\mlﬂlh
+]
+
+NO.( NAME OF PARTS MATERIAL No. NAME _OF PARTS MATERIAL NU.1 NAME OF PARTS MATERIAL
+1 [ TERMINAL BOX CAST iRON 8 | ROTQR CORE SILICON_STEEL 15| END BRACKET CAST_IRON
+2 | LOCKNUT & WASHER MILD STEEL 9 | sTATOR CORE SILICON STEFL 16| BEARING COVER CAST IRON
+3 | FAN_B05S CAST [RON 10| FRAME CAST 1RON 17| BALL BEARING HICH EARTE SreaL
+4 | ran MILD STEEL 11| STATOR CRAMPER MILD STEEL 8| SHAFT R e e
+S | COVER FOR COQLING FAN | MILD STEEL 12 | ROTOR BAR COPPER
+6 | ENO BRACKET CAST JRON 13 | END RING COPPER,
+7 } ROTOR CRAMPER CAST IRON 14 | STATOR__COIL INSULATION WIRE '
+P SEGTIONAL
+s ! DRAWING
+~ DATE 852,21 | TACE | R, YAZDA] -
+n~ - Fig.3
+s O RIS, DT
+e
+
+--- page_013.png ---
+LLI
+
+VERTICAL TYPE
+
+TYPE: TDV
+
+ENCLOSED VENTILATED DRIPPROOF MACHINE
+INDUCTION MQTOR
+
+M
+
+LS
+
+)
+
+No. NAME OF PARTS MATERIAL No. NAME OF PARTS MATERIAL No.| NAME OF PARTS MATERIAL
+
++ | ORIP_PROOF COVER MILD STEFL 8 | ROTOR CORE SILICON STEEL 15 | END_BRACKET CAST IRON
+
+2 | LOCKNUT & WASHER MILD STEEL 9 | STATOR CORE SILICON STEEL 16 | BEARING COVER CAST RON
+
+5 [ FAN 80SS CAST [RON 10 | FRAME CAST__IRON 17 | BALL BEARING T
+4 [Fan MILD STEEL 11| STATOR _CRAMPER MILD__ STEEL 18 | SHAFT | AR e
+
+5 | COVER FOR COOLING FAN| MILD STEEL 12 | ROTOR BAR COPPER 19 | TERMINAL BOX CAST IRON
+
+6 | END BRACKET CAST {RON 13 | END_RING COPPER
+
+7 | ROTOR CRAMPER CAST IROHN 14 | STATOR _COIL ‘\NSULAT\ON WIRE ‘
+
+TANE
+
+3 ra axoLg]
+
+EO
+
+prosecrios] e | i SECTIONAL
+
+scaig] vesicy | 5. KONDO| DRAWING
+
+DATE[B5, 2.21 | TAACE | B YAZDAA Fig.4
+JANYG, T
+
+--- page_014.png ---
+ZLI
+
+TOTALLY - ENCLOSED
+INDUCTIQN MOTOR
+
+FAN-COOLED MACHINE
+
+TYPE: TIT.
+
+THANGE
+
+S A g
+! il
+
+iy A
+
+b b il 2D
+
+b
+
+S L
+
+‘F‘r
+NO. NAME OF PARTS MATERIAL NO. NAME QF PARTS MATERIAL NO. NAME OF PARTS o rﬁilgs]eﬁ‘;{nmur«
+1 ] TERMINAL BOX CAST IRON 8 | ROTOR CORE SILICON STEEL 15 | BALL_BEARING BEARING  STEEL.
+2 | LOCKNUT 2 WASHER MILD STEEL 9 | STATOR CORE, SILICON STEEL 16 | SHAFT CARBON STEEL
+3 | FAN_B0SS ‘ CAST IRON 10 | FRAME CAST IRON
+4 | FAN ‘M\LD STEEL 11 STATQOR CRAMPER MILO STEEL
+S | COVER FOR_COQOLING FAN| MilLD STEEL 12 | STATQR_COIL INSULATION WIRE
+6 | ENO BRACKET CAST IRON 13 | END BRACKET CAST_IRON
+7 | BAR & £ND RING ALUMINIUM CASTING 14 | BEARING__COVER CAST IRON
+e e anns]  SECTIONAL
+ol 7 [omely frraxe DRAWING
+. DATE('3S 2 22 | TRACE [MLIGUCHI .
+Fig.5
+3 SRR (3] .3,-75519. TP T TTTT]
+
+TH=1
+
+--- page_015.png ---
+.
+
+TOTALLY ~ ENCLOSED FAN-COOLED MACHINE
+
+VERTICAL TYPE INDUCTION” MOTOR
+
+TYPE: TIV
+
+1y
+
+R
+
+I‘m’lﬂ" A\ﬂm’s\ﬂw )
+
+“[|U
+
+o
+e
+ol (19
+et Y
+.
+ﬁ i
+NO.| NAME OF PARTS MATERIAL NO.| NAME OF PARTS MATERIAL NO.| NAME OF PARTS o HATERIAL
+1 | DRIP PROOF COVER MILD STEEL 8 | ROTOR CORE SILICOM STEEL 15 | BALL BEARING BEARING STPEL
+2 |LoCKNUT & wASHER MILD_STEEL S | STATOR_CORE SILICON_STEEL 16 | SKAFT CARBON STEEL
+3 ) FAN_BOSS, CAST_IRON 10 | FRAME CAST- IRON 17 | TERMINAL BOX CAST IRON
+4 |ran MILD STEEL 11 | STATOR CRAMPER MILD STEEL
+5 |COVER FOR COOLING FAN| MILD STEEL 12 | STATOR coIL INSULATION WIRE
+6 |END_BRACKET CAST _IRON 13 | END_BRACKET CAST IROM
+7 | BaR 2 END RING ALUMINIUM CASTING (14 | BEARING COVER CAST_IRON
+= T o swore] S| G e | cE T QAL
+ProsecTios| e [ChEcK c
+S vesiow | T. GTARE DRAWING
+0aTE['85.2.22 | TRACE [MIGUCHT Fig.6
+@ .TANS, it
+
+T-u-3
+
+--- page_016.png ---
+¥
+
+TOTALLY -ENCLOSED FAN-COOLED MACHINE
+
+INDUCTION MOTOR
+
+TYPE:TTS
+
+][WI“Um”“mmklrl
+
+b Al
+FTUTAR
+SO
+2
+
+i i H
+
+T i T
+
+: . AME OF PARTS MATERIAL
+
+NO.| NAME OF PARTS MATERIAL NO.| 'NAME OF PARTS MATERIAL NO.|  NaME e ATERAL
+1 | TERMINAL _BOX CAST IRON 8 | ROTOR CORE SILICON STEEL 15 | BALL BEARING GEARING STEFL
+2 | LOCKNUT & WASHER MILD STEEL 9_| STATOR CORE SiLICON STEEL 16 | SHAFT, CARBON STEEL
+3 | FAN 80SS CAST IRON 10 | FRAME CAST_IRON
+4 | FaN MILD STEEL 11 | STATOR_CRAMPER MILD STEEL
+S | COVER FOR COOLING FAN| MILD_STEEL 12 | STATOR COIL INSULATION_ WIRE
+6 | END BRACKET CAST IRON 13 | END BRACKET CAST _IRON
+7 { BAR & END RING ALUMINIUM CASTING {14 | BEARING COVER CAST 1RON [
+
+CHAGE,
+
+13 0 rrces] 0T | cHiEr [k
+St e e [ [T SECTIONAL
+scas] ESIo | T, OTAKE. DRAWING
+DATE [85.2.23 | TRACE | M. yAzDa
+
+T g Fig.7
+
+8 JTAYD, o
+
+Too-3

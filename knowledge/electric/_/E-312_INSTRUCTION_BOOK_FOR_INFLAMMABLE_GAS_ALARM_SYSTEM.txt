@@ -1,0 +1,2676 @@
+FILE: E-312 INSTRUCTION BOOK FOR INFLAMMABLE GAS ALARM SYSTEM.pdf
+FOLDER: .
+DATE: 2026-03-06 21:24:13.699315
+==================================================
+
+
+--- PAGE 1 ---
+DWG Ne
+
+A v
+
+FLANDERS TENACITY
+
+FINISHED PLAN
+
+MANAGER
+
+CHIEF
+
+CHECKED
+
+DRAWN
+
+INSTRUCTION BOOK FOR
+INFLAMMABLE
+GAS ALARM SYSTEM
+
+| This technical docament is the property of |
+Kawasalt Heaey Indvstries, Lid (K110 and ay
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+weew pr
+
+KAWASAKI HEAVY INDUSTRIES. LTD Is weL coven
+
+--- PAGE 2 ---
+CONTBHTS : FINAL DRAWINGS AND DOCUMENTS
+
+CLIENT . KAWASAK) HEAVY INDUSTRIES, LTD.
+COMMODLTY : COMBUSTIBLE GAS ALARM MONITUR
+MODEL : GP-631A-0A8
+SHIP o, : 1456
+Salesman
+Rev do Date Page Description Prep’d ChK’ d
+<> [WALIT.96{ ALL e VLM
+<
+<>
+<
+<
+R Reguisition No. : N70663
+R.Serial No. : B2397686
+R File Ko. ;940612
+
+RIKEN KEIKI CO., LTD.
+
+--- PAGE 3 ---
+& B E 5 N70663
+R Requisition fo
+g /3 % # & 5 B29766
+R.Serial No.
+CONTENTS e
+S OE &R | 940612
+R Fife Mo !
+N— gl = i B o LG} %
+SHEBT Mo, I TEM WG. N REMARKS
+1~17 SPECIRICATIONS
+( SPECIFICATION AND DRAWIRGS )
+8 SYSTEM CONFIGURATION 3-199358
+g INDICATOR / ALARM UNIT 4153 50-00E GP-63LA
+10 INDICATOR / ALARM UNIT A4-0TT6TE RM-630
+11 INDICATOR / ALARM UNIT A-0TL04-K RY-630 i
+12 DETECTOR HEAD ! 4262-16ME GD-A8-16 |
+13 WEATHER-PROOF COVER : A4-08496 FOR GD-A8 !
+14 DETECTOR HEAD A3-039388 PANEL MUUNTING TYPE
+15 COKNECTING DIAGRAM | 3-16639E GP-631A-A8
+| ol e
+16~ 38 | INSTRUCTION MANUAL ETIT13E GP-631A/GP-631D
+| INSTRUCTION MANUAL TI3848 GD-A8
+
+--- PAGE 4 ---
+SPECIFICATIONS
+
+I SUMMARY
+This system is designed to detecl leakage gas and Lhe lealage gas
+concenlration is indicaled on woeter of the cach indicalor / alaim
+unit.
+When the gas concentralionexceeds Lhe alarm prescl level, alara
+
+will be aclivated.
+2. CONTIGURATTON
+
+(NDFCATUR/ALARN UN:T
+I
+
+gj |
+
+PORER SUPPLY ——r—) L——— GAS ALARM CONTACT DUTPUT
+AC 220V ( NOT USE)
+
+DETECTOR 1iBAD
+
+Any output of alarm contacts for this gas monitor should be used only to the cxiernal
+alarm buzzer or alarm lapp/annunciator.
+
+!
+OARATOQOZ2-106-08 /53
+
+--- PAGE 5 ---
+3. COMPOSITION
+Required fias Montoring System is composed by following unit.
+
+13 Control unit C Indicator / alarm unit }
+
+RUCTURE
+NOBEL T AMOUNT REHARKS
+WALL WOUNT PANEL MOUNT | CHANKRL,
+GP-631A ¢} : 1
+GP-631A (Sl 8
+2) Detector head
+HODEL AMOONT REMARKS
+GD-A8-16 9
+
+3} Others
+NAME MODEL AMOUNT REMARKS
+DETECTUR COVER DG No. A3-03938E 8 € PANEL HOUNTING )
+WEATHER- PRODF COVER DW(; PV(ﬂV. A4’08;196 1 l‘ i { WALL MF;UI\'TING )
+
+4) Standard tools and spare parts
+
+HAKB WODEL AHOBNT REVARKS
+HSE (1 AD 3 | ok op-o3ia
+HERMGON WRENCH KEY WK-2 | | L | rReas
+HEACON WRENCH KEY 1K 4 ) T
+SR ppEr ) e e
+
+HUIMAE. 05-31-26
+
+--- PAGE 6 ---
+1./2
+
+ALARH PAVTRRES [ STARDARD ] @, NG, G, 6 1
+
+1. GAS ALARM
+
+2nd LEYEL (1D
+
+Ist LI
+
+1ERD PCIAT
+
+ALARM LANP
+C YBLLOY / RED )
+
+&
+
+;0N
+
+1st ALARM CONTACT -
+COPTION ) i
+
+2nd ALARM CONTACT
+
+BUZZER
+
+--- PAGE 7 ---
+2. TRUUBLE ALARM
+
+TROVBLE ;
+
+TRQUBLE J T
+
+oRmGE
+
+TROVBLE LAWP ———— F
+
+o
+
+| onanGE |
+
+Lon
+
+; ofe
+
+TROUBLE -
+ALARM CONTACT H
+
+BUZZER -
+
+CURRENT  20wA -~
+OUTPUT
+
+LERD PUINT  dwh -~
+O -
+
+%
+
+--- PAGE 8 ---
+RIKEN KEIKI STANDARD WARRANTY
+GAS DETECTION INSTRUMENTS
+
+RIKEN KBIKI CO., LTD. warrants gas alarm equipment manufaciured and sold by us
+to be free from defects in materiais and workmanship for u period uf ome year
+from date of shipsieni from RIKDN KEIKI CO.. LTP. after satisfied function
+by inspectiva & testing. Any parts found defective within that veriod will be
+repaired or replaced, at cur oplion, free of charge. f.o.h. factory. This
+warranty does not apply to those items which by Lheir nature arc subjecl lo
+deterioration or consumption in normal service, and which must be cleaned,
+repaired or replaced on a routine basis. Such items may include :
+
+a) Lamp bulbs and fuses
+
+b) Pumn diaphragzas and valves
+
+¢) Absurbent cartridges
+
+d) Pillter elements
+
+e) Datteries i
+
+) Mest catalytic and electrochemical semsors are covered by a separate
+warranty of 12 months,
+
+Warranty is voided by abuse including rough handling, mechanical damage.
+Operalion, alleration, or repair procedures not in accordance with instruction
+manual. This warranty indicates the full extent of our liability, and we are
+ot responsible for removal or replacement costs. lvcal repair costs.
+transportation costs, or conlingent cxpenses incurred wighoul our prior approval.
+
+THIS WARRANTY 1S EXPRESSLY IN LIEU OF ANY AND ALL OTIER WARRANTILS AND
+REPRESNTATIONS, EXPRESSED OR IMPLICD, AND ALL OTHER OBLIGATIONS OR LIADILITIES
+ON THE PART OF RIKBN KBIKE €O.. LTD. [NCLUDING BUT NUT LIMITED T3, TIE WARRANTY
+OF MERCHANTABILITY OR FITNESS POR A PARTICULAR PURPOSE. K NO EVENT SHALL RIKEN
+KELK] €0., LTD. BE LIABLE FOR TNDIRECT, INCIDRNTAL OR CONSEQUENTIAL 10SS OR
+DAMAGE OF ANY XIND CONNCCTED WITH THE USE OF ITS PRODUCTS OR FAILURE OF ITS
+PRODUCT 'TO FUNCTION OR UPERATE PROPERLY.
+
+This warranty covers intrumeats and parts sold (to users) only by authorized
+distributors, dealers and representatives as appointed by RIKER KEIKQ CO., 1LTD.
+
+We do not assume the indeanification for apy accident or dwiage causcd by the
+aperatior of this gas monitor and our warranty is limited to the replacement
+of parts or aur complete geods
+
+--- PAGE 9 ---
+Caution items at the installation
+
+1. For indyor inslrumeatation panel and outdoor fustrumentalion pangl
+1) Make the installation works by atl means before the clectrical works.
+2) Do not open Lhe door before fixing the instrumentation panel on the panel top by
+eye-bolt. As Lhere is the posibility lo tilt down, il is dangerous,
+"3 Put the instruction manual in the file holder inside the panel or in lhe near-by
+Toresceable place.
+43 Avoid the followiug place install it.
+
+{1} Anbient temp : Place exceeding 35°C.
+
+{2) Anbient humidity + Place exceeding 9OKRIL
+
+(3) Ambient condition : Place of water, oil and medicine etc lo be
+sprayed.
+
+() Vibration ané impulse : Place to convey vibration directly Lo the
+instrument,
+
+(5) Electrical noise : Place to generate high vollage and high [requency.
+
+5) Make purge cleaning inside of the pipe before connecting lo the instrument side
+for exiernal sampling pipe.
+
+6) At conslruction work, do ot pul irom powder and. dust elc into Lhe inside of
+instrument.
+
+2. For gas detection
+
+1 Do sot put things into the detector head or made it as a foot stool.
+2) Do not touch the internal solutfon or dvink it.
+
+3 Avoid the following place and install it.
+
+(1) Ambient temp : Place exceeding 35°C.
+
+@) Ambient humidity ¢ Place exceeding ORI
+
+(3) Ambient condition < Place of water, oil and medicine etc to be
+sprayed.
+
+) Vibration and impulsc : Place to convey vibralion direclly Lo the
+instrumenl.
+
+(5) Electrical noise « Place to generate high voltage and high frequency.
+
+3. Others
+
+1) When make the expansion works and the transfer warks, comsult us ar with our local
+agent.
+
+2)  When make the expansion works and the transfer works. make electrical adjustment
+and gas calibralion by all means.
+
+3)  Make the wiring check by all means before complation of construction.
+Defore putting power ON, be sure to check wiring again.
+
+OYAMAOTI—-10-09
+
+--- PAGE 10 ---
+Box 10, ]
+
+SHP KOJ SEARE PARTS LisT Foa | R SRR P
+155 | GAS DETECTOR ALAKN ‘ GP-BIA-GAY |
+: TARTITV NERARKS
+TEW  HAME OF e PR
+QUTLINE PERIPEA SPANE
+M. PART o SET |vess!
+UERAGON WRENGH 76 |
+1 Wy == =[] = vor co-as
+Gik-) 1 .
+IEKAGON WRENCHE, | 1.60
+2 KiY g JE I I R Y
+D)
+
+-3 FUSEC 14 ) 3 | POR GP-G3LA
+
+i -
+
++ A | SRNSOR ELEDMENT 2 | FOR GD-RE.
+
+© 5| SPARR PARTS DOX tg o %.l b=
+~r ] |
+i |
+i
+I
+e SRR SRR S S S—
+i
+i
+1
+MFRS HAME | by, K0,
+2L IxXI0K Riken Keiki Fine Instrument Co.l.td
+
+7
+
+--- PAGE 11 ---
+Blsiaials
+o
+"
+a8z
+e
+071222
+fizjzl
+1
+i
+1
+I
+I
+FlOZIE
+
+50~120
+
+0.8
+
+18~507 3%
+
+015
+03
+0o
+
+RAT. MESS. RDOM
+
+7
+
+5
+
+0.4
+
+&
+
+il
+
+HPWAE 090 1028 g spmey
+
+INDICATOR/ALARM UNIT
+TGP-63141
+
+)
+GAS DETECTOR HEAD LS )
+7G0-43
+OFF. SHOK. RUOM E)—-————-
+( PANEL KOUNTING TYPE ) e e
+( PANEL MOUNTING TYPE )
+. INDICATOR/ALARM UNIT
+TGP-631A)
+GAS DETECTOR HEAD LS
+TGD-A8 S—
+OFF._UESS. ROOM &——— I
+« PAREL MOUNTING TYPE ) e
+{ PANEL MOUNTING TYPE )
+INDICATOR/ALARM UNIT
+. TGP-8314)
+1
+GAS DETECTOR HEAD @
+rGp-48)
+RAT. SHDK. ROOM &
+( PANEL MOUNTING TYPE ) e
+{ PANEL MOUNTING TYPE )
+
+INBIC
+
+6AS DETECTOR HEAD
+TGD-A8
+
+ATOR/ALARM
+TGP-B31AJ
+
+LS
+
+F—
+
+{ PANEL MOURTING TYPE }
+
+{ PANEL NOUNTIN
+
+INDICATOR/ALARM
+
+TGP-831A4
+
+GAS DETECTOR HEAD
+r6D-48)
+
+SHIP"S DFF.
+
+UNIT
+
+G TYPE )
+
+UNIT
+
+{ PAREL WOUNTING TYPE )
+
+CARGD CONT. ROOM
+
+A-DECR PASSAGE
+
+A-DECK PASSAGE
+
+GALLEY
+
+(8)
+
+[42]
+
+INDICATOR/ALARM UNIT
+
+1GP-63143
+LS
+GAS DETECTOR HEAD
+TGD-AB) —
+
+( PANEL MOUNTING TYPE )
+{ PANEL MOUNTING TYPE }
+
+TNDICATOR/ALARM
+rgP-63141
+
+=
+
+GAS DETECTOR HEAD f
+TGD-48]
+
+®______‘
+
+{ PANEL MOUNTING TYPE }
+
+UNIT
+
+{ PANEL MOUNTING TYPE }
+
+TNDICATOR/ALARM UNIT
+
+TGP-631A)
+
+=
+
+GAS DETECTOR HEAD
+rGD-4B)
+
+®——
+
+{ PANEL MOUNTIRG TYPE ) -
+
+{ PANEL MOUNTING TYPE )
+
+INBICATOR/ALARN
+r6P-8314)
+
+K
+
+UNIT
+
+GAS DETECTOR HEAR
+rGD-A83
+
+( WALL MOUNTING TYPE )
+{ WALL WOUNTING TYPE )
+
+" S ISTEK CONPIGURATION
+
+;7%”’ 3-199358
+
+P
+PEFHEHAZY RIKEN KETKI CO_LYD,
+
+w
+
+--- PAGE 12 ---
+SPRCIFICATIONS
+
+4153-50-00E
+
+INDICATOR/ALARM UNIT
+
+Model
+Structure
+
+Detector principle
+Detectable gas
+Measuring range
+Gas readout
+Initial clear time
+Power display
+Alarm preset point
+
+Alarm accuracy
+Response time
+
+Recorder output
+Bxternal contact
+
+Contact capacity
+
+Buzzer
+
+Ambient temp/humidity
+Dimensions
+
+Weight
+
+Case color
+
+Power requirement
+
+Pawer consumption
+
+{External alarm pattern>
+
+GP-631  [#A (4C Spec) I (D¢ Spec)
+Wall mounting (ZPane! mounting
+Chiannel mounting (Drip water proof)
+Catalytic cambustion
+
+LPG, NH3
+C~xﬂmﬁ—§d" Uptional range;
+Analogue meter
+Approx. 25 seconds
+Green LED lanp
+Gas alarm
+
+st (Yellow) 30 SLEL
+20d (Red) 30 RLEL
+2 color LED. TTasuing, Tatched mode
+Light on after reset, Non-latched mode.
+Trouble alarm : Yellow LED light on, Yon-latched mode.
++25% (Against alarm preset point)
+
+Less than 30sec (When introducing 1.6 time thicker gas
+
+than 2larm preset levels.)
+H=Rmgrt=5¥
+Gas alarm coniact (2nd) la=w=ix Latched mode,
+HMon-latching after reset.
+60W or 125VA MAX. 1A resistance load
+{In case of the inductive load, put a suitable spark on the
+load side.)
+Continucus buzzer sound aclivated at gas and iroublc alarm,
+Latching mode and it cancels at resetling.
+~10°C~50°C, 90KRY (But no dewing
+1250 > 215(K) X 87¢D)un
+Approg. 1. Lkg(Wall mounting)
+
+Heore 7.586 7,/ 2
+EAEESY:  ACZ20V L 10% 687601z
+Tor=BER4- ) eerp=iti
+
+18VA (AC)
+Eiisiiza
+
+1
+
+T T
+
+| dard | Option | | Option 2 | Option 3 | Harine
+
+| J i standard
+| T ~ }
+Recorder output | |
+| 4—20mA | Trouble st alarm | 4—20mA | Ist afarn
+| Uerninal a9, 10) | alarn e |
+Bxternal conlact T J‘ !
+
+|20d alarn | 2nd alarm | 2ad alarm jm% j Trouble
+
+(Terminal Foll, 12) | ) Jn\J alarm
+
+The out pui combination between 4~20mA aad Lst alarm is noi available.
+
+RM§20-01-05-23
+
+--- PAGE 13 ---
+I ‘r{ .
+=
+24
+[
+
+o
+bl /
+=l
+g
+F
+
+b
+1l
+2|
+<]
+=
+Wi
+
+ha w
+
+- &
+
+1ol
+;i
+[
+.
+B
+i
+i
+&
+3
+pelhia
+BN
+
+= T T | ]
+
+g (A)| ® (Cz] 1
+v — L -9 4.7 T
+:“;,:1 == T ‘l-t[:mjﬁ installation holes =
+]
+
+R
+e
+
+<| CABLE INLET
+
+<] (Marine watertight)
+
+- = () tor POWER (150)
+W [ (B)_For DETECTOR ___ (200>
+o] (C) For COVTER ALARM (15¢)
+]
+
+<
+
+: N
+
+36 3
+BEIET | LY
+[ JaN oo |tf-'nn|n.1(
+FERT vean TEE R R it TH e
+- o oy AM=530 0UlLING DRAHING
+e . 1N
+; H—
+3 ARG
+Rreiiio Sd ) WJRD e q«% F e
+ks Wt aa-07787E
+T @umsES e RIKEN KEIKE €018,
+
+199, CH) A
+
+--- PAGE 14 ---
+I
+
+e
+
+i S T I ]
+WP OLLC—tY
+weo e
+DES—WdH
+e
+I ONTINNOW TIRVE
+|
+12Ul 9|GRD
+A
+o S
+.
+Lk i
+In=tm
+TAGLING 13Nvd & -
+1 ! SR
+NOILYIIPLSN e
+{ L —L
+— ot
+i =]
+weEree
+
+N TTaY0
+
+--- PAGE 15 ---
+4262-16MC
+
+DETECTOR HIEAD
+
+Sodel : GD-A8-16
+Struclure + Wall mounting Lype 20( 504 ) ( Drip waler proof )
+Explosion proof ¢ Flameproof d3abd
+Approval No. 43642 ( By Ministry of Labour, Japan )
+Detection principle @ Catalytic combusiion
+Sanpling method © Dillusion type
+Ambignt conditions + —10~40°C, Less Lhan 95%RI
+Connecling cable ¢ 250V WPYC —1.25sq ( 5C )
+Outer dimension ¢ Approx. 1I0(LY X700 % 15001 mm
+Weight : Approx. 0. 9kg
+Painting color ¢ Deteclor head  Munselt N-5
+Name plate Munsell red
+
+OUTER DIMENSIORS DRAWINGS
+
+SENSOR
+TROTECTION
+TARD
+
+SOUT 4G
+BRACKET SENSOR
+GLMD
+TERMINAL
+
+UTSOE
+
+: Detectlng element
+
+0
+
+¢ : Compensallug clemenl
+
+R.S : Standardlzed reslslor
+for curreat
+
+§ i Comnectlon lermlmals
+
+STEC. 001-0G9~11
+
+--- PAGE 16 ---
+TERYINAL BOR COVER
+
+ISSTALLATION ANGLE
+
+T4THRL-PRUOF
+
+TERNTHAL BOT
+
+[P - E—]
+HOE PLATE
+LT YITH HRXAGON
+
+150
+
+| ~_BELL ¥OUTH
+
+PG -bAB-00 ~002&
+o e JATHER-PROCF COVER
+o 7L @& | TR Gd-AsC] ( FOR SHIP)
+- £ B BB e
+i % Ad -0
+7 | Al ARSIl 8496
+27« [eaointa o FIKEN REMI FHE INSTRUMENT CO . LT8 ]
+
+w oy
+
+T B0 1o 3.7 100 o
+
+--- PAGE 17 ---
+5 6 ’
+
+COVER- §
+- A
+-SRI
+5
+L
+¢
+o
+kAl 2}1
+— ARy
+] 3
+e
+.
+e '
+. . F
+iy HEADS
+) . . COVER
+e S Sice 7ot "
+i
+[l .
+&
+[
+] -
+iz 1 g
+<0 N
+[l -——Si—“ 'vJ Y
+%y -
+- it | |
+) 1‘ b =T PAINTING COLOR : WUNSELL T7.50G 7/2
+b 4
+= LQO |4
+H PARRL CUTQUT .
+A S o 8o S .
+= N P [wnsluzs
+RERIL 4 pR e - B B e
+- | soa reo£cT
+A Vak Tirecno covey
+3 /s | @ PAS], JOUNTING 1YPE
+SYFETTT o T |wae B0 @& owa o ’
+2 8| e [RTCTTI PY Dait
+iz Lol - s oy
+< 7»?7;7«4&‘ i 0\[»&&!} L).{,\QAML,, AR 730 A3-03 9 58 C.
+7 LRI T B - RIKEN KEIKI FINE INSTRUMENT CO. LTD.
+
+--- PAGE 18 ---
+L . R R S S
+-
+INDICATOR/ALARM UNIT
+GPr—-0631a
+1] J4Fﬂ~s_ Ak u]m‘n 1z
+L 1
+AT e
+i |
+’_“\ i _— Wl‘
+i T EARTIE
+POWER SUPPLY AJ -
+AC22 0V ' [IACT
+pe22 By | }xgg’%ltgsmmm CONTACY
+| 1
+IsL ALARN CONTACT
+——= | CNOT Uk )
+‘I —— Az(\fll\““"\"”“f"“
+- T v o
+s CNOT YSE )
+!
+|
+’ DEVECHOR LGAD
+|
+I GD-AQ
+-
+lJ[Hl A
+AR TEAT, BRI
+o
+IR T1ON DIAGRAM
+o mar N AN
+TGP GTTA-AY G s
+@ 2 3 T N
+anfonn, |l e i
+W ’ 4 3— 1663 9CE
+AT
+bttt o]
+FICEN ICENC IFIME NS TRUMEZHT GO LD
+
+RMGG0—-02-03-08
+
+‘5
+
+--- PAGE 19 ---
+iRiken combustible gas monitor
+
+Imstruction manual
+
+for
+
+MODEL GP-G31A/CP-~6310D
+
+Before this insfallation work and vperabion, read Lhis
+manual by afl neans.
+
+Requést for daily check
+
++ Cheek thal power lamp is on,
+
++ Check that the weter reading shows the appropriate range
+arourd zero point.
+
+[f the zero point is out of i&, make zero adjustuent after
+checking the gas by a porteble gas delector.
+
+When fostall sauple-drawing bype delector head, check that
+the Flow of flow monitor or flow weler s at the appropriate
+position, If the flow is oul of if, adjust it to the
+appropriate pasition,
+
++ Check whether the gas deteclion Is infeccupled or nol due o
+thing put on the deteclor head.
+
+2-1-G Azusawa {Labashii-ku Tokyo 174
+TAPAN
+Tet ¢ 03-396G-11(3
+Fax : 03-3558-9110
+TELEX @ 272 2638 RKNFHE §
+
+ET1713E
+
+--- PAGE 20 ---
+CONTENTS ———
+
+Page
+1. Caubion « v v v e 1
+2. 0Ubline ¢ v s e e 2
+3. Nane and function of sach part +  + + + + + 3
+4, lnstaltation method -« « + - g
+6. Mjustuent at the installation - - - - - - - 12
+6. baily operation mathod » » - v v v v v e s 14
+7. Malutenance chieek < v ot v e s e s 17
+8. Specifications for alarm action - - - - - - 18
+9. Specifications - <« - v v oo e .20
+
+ETITi3E
+
+--- PAGE 21 ---
+L
+
+-1
+
+f ET1713E
+
+T a wt i o m
+
+Caution at handling
+
+As this Is a fine fnstruent, do ot throw nor give a strong shock or
+inpulse.
+
+@ Do not splash water on the indicabor/alarm unit or detector head.
+
+. Caution at the installation or construction works.
+
+@ Do not install the indicator/alarm unlt in the foflowing place.
+i the place where raln splasies directly
+i the place under sun drought
+i bhe place where the lemp is drastically changed.
+i the place where the high frequency (s given,
+
+@ Check shiether the conrection error of cable is wade or nob before
+turalng on the power.
+
+For the installation webhod of detector head, see bie individual
+exclusive instrucktion manual.
+
+@ The wiring and detactuent of indicator/ataru unit and detector fead
+nust be wade after Lurning off Che power ol indicator/alaru unil or
+mains power,
+
+@ 'lh&. power of this gas mmlitor s specified below;
+
+spec (GP-6 (24Y 2107
+
+/\E spec (GP-B3IA) “\CZZO
+(IAL100/115/117/100V is available as
+oplion)
+
+© Do not usc the common power efiich contains high power load and high
+frequency a When forced to use it commonly, the fine {ilter etc
+will be usul on request and use it by separaling the noise source.
+
+@ Caution ab the use of the alarm contocts
+« For alarm contack, do not connect the load of capacity more than the
+rating,
+Rating : ACL25Y/0C30V (A (Resistance load)
+« o not use the [nductive load in p, ple.
++ Wen connect the ioad or the Inductive foad more than the standards,
+Install IL by seeing the caution ab the iostallation.
+
+@ Fully consider the lightning counlerucasure for bie singnal cable
+connected tu the outdoors or the power cable.
+
+@ For the cable conneclion belueen the indicatar/afann unil anmd the
+debector head, keep iL [rom Lhe equipment where the high {requency
+uay be possibly seneraled and near Lhe paralfed wirings wilh Lhe cables
+ol noise sou such as woti abie.
+
+. Caulion in operakion
+
+@ Uhen Lurn on the power again, wail fur over § seconds and then Luen §E
+on.
+
+@ Whew oparate the walky-talky wte around the indieator/alaru unit,
+dotector head and the wiriag cabie, It may cause the crror ackion of
+this gas monilor by the moise.
+
+ Alarm contacts wight be malfunctivaed at the power "BN" or ab the
+tnslant power failure. In such case, use the stand-by batlery or lake
+the appropriate action in the receiver side.
+“-
+
+2
+
+--- PAGE 22 ---
+ET1T18E
+
+2. OQut 1l ine
+
+Hodel GP~631 1s a single chennel conbustible gas wonitor based on
+
+the detection principle of catalybic combustion,
+
+This trstrunent consists of a) the detector head to detect gas and
+
+b) the jndicator/alara unit to read vut the gas and to give alorm. This
+detector head and the indicator/aiarm unit are connected wilh the Industrial
+cabie aad operated. The indicator/alarm unii (control unit) is installed
+where the man can supervise.
+
+On the oifier hand, the detector head is installed where the gas leakaze may
+Lake place. When cse Lhe detector head of the explosion proof enclosures,
+
+it can be installed where Lhe combusiible gases cte can possibly leak or stay.
+If the gas should leaked and goes down below the presel alarm fevel, this
+gives audible and visual alarus.
+
+The external alarm is designed to be cut off to prevent the afaru erroc by the
+calibration ete when wake the maintenance of this gas wonitor,
+
+(This zas monitor turns to the wainlesance wode by openlng tie slide cover and
+the aiara will not go outside.)
+
+--- PAGE 23 ---
+Meter
+
+@ _{Indicator
+Power lamp
+@ {light)
+
+ALZ adjustin)
+T VR
+
+@ ALl sdustin
+
+ALL check
+Bswitch
+
+PRSI
+
+Qeuse_(1a1)
+{Poower switch
+
+@Earth screw
+
+ETI718%
+
+ool f e t i on
+o 1 e a c I P a r t
+
+§0_Buzzer wiodow
+
+_ (D Alarm Lamp
+
+@ Trouble lanp
+
+& Resot switch
+
+gD _SEAN adjusting VR
+@
+
+|| (U MATNTE swii il
+
+| _HEAT volyme.
+ HEAT terminal
+
+@ Terninal plate
+
+98 Slide cover
+
+-3
+
+--- PAGE 24 ---
+it HNane Fuaction
+1{Heler (Indicator) Reads out gas concentratioa
+
+2 Power lawp (ligit) [Tlunivates green during rorual operation when
+the initial clear circuit works aad open "21
+slide cover” for maintenance, thls gets flashi-
+ing.
+
+)AL | adjusting YR Presets Ist alarm point.
+liold pressing "5. ALL check switch” and this can
+be adjusted by turning it,
+
+41 AL 2 adjustiog VR Presets 2nd afarw polnt.
+
+Hold pressing "6. AL2 check switeh” aad Lhis can
+be adjusted by turaing it.
+
+5[ AL T check suiteh Can chieck the adjustment of Ist alarm point,
+
+: This is used to adjust Ist alarw point.
+
+6] AL 2 check switch Can cheek the adjustuent of 2nd alarn point.
+This is used to adjusl Zod alacm poini.
+
+7| Ruse (1AT) 45, 2 X20wn 1A (Time lag) 250
+
+8 | Power swilch This is a power switch to make power on.
+
+(Pump also can stop operation in case of sawple-
+drawing type detector Dead}.
+
+9| Cacth scren This is the grounding for chassts amd never fail
+Lo ground,
+
+101 Buzzar window When activates alarw, the buzzer sounds (Latched
+node),  The er sound wilt be caacelled by
+pressing "13, Resel switeh”.
+
+1] Alarw taup (1ight) Isb alarn :Yellow color LED flashing (Lalched
+
+node)
+This is changed from ((lashing to
+iight-on by pressing "13 Resel switch
+(Nor-latehed node)
+
+2ad alaew sRed color LED flashing (Laluhed mods)
+This is changed Tron flashing to
+ight-on by pressing”13 Ressl swilch
+(Hon-lateied node)
+
+12 Trouble lawp (Light) § This sets Uight-on al the disconnection.
+
+Ab troubte iDrange color itlusinabion (Noa-
+fabehed wmie) .
+
+13 | Reset swileh When cancel | the buzzer soundiag at ajatn
+trigger, pross Lils swileh,
+
+14 | Span adjusting VR This is VR Lo adjust fhe sensibivily.
+
+Don' L turn it except Lhe calibration tive.
+
+-
+
+ETIT713E
+
+2
+
+--- PAGE 25 ---
+HNane
+
+Function
+
+17
+
+20
+21
+
+Zero adjusting VR
+
+Test switch
+
+HAINTE switch
+
+fIGAT ¥R
+
+HEAT terminal
+
+Terminal piate
+
+Slide cover
+
+This is VR to adjust the meler reading to zero.
+
+Siuulates the sensor fnput fo the full scale by
+pressing [t and can check whether the alarms can
+be activated norwally or not.
+
+External alarm conbacts can not work the
+mailenance time. (Bul while pressing “17 BAINTE
+suiteh”, the extecnal afarm conlacts can work)
+
+When bry to test the external alamu contact
+during the waintenance(With siide cover opened),
+gress this MAINTE switeh.
+
+(This is used Logether with "TBST" switcd)
+
+This is VR to adjust the sensor heater vollage.
+Cennect the voltmeter Bo HBAT terminal.
+
+This is terminal o adjust the sensor feater
+voltage. Connect (¥) Llerminal of volimeter to
+(+) and connect (7) terwiual of voltmeter to(-).
+
+Connect the cable frow the outside.
+
+This s Lhe cover closed or opened during the
+
+waitenance tiwe. Hever fall to close it
+
+rormally.
+
+(Note) Ghen the slide cover is opened, It gelbs
+into the maintenance condition and the
+external alarm can nob work.
+
+ETITLI3E
+
+--- PAGE 26 ---
+ET1713E
+
+Ixms tallatiomn method
+
+L. Cautlon in ihe position of the installalion and at ihe installation.
+1) The position of the installation for imdicalor/alarm unit and its caution
+
+* Easy-to-see pos
+# Vibration-{ree position
+
+# Place, free from dircel splash of raln and sea waber (In case of ship)
+® Piace, free [roa drought
+.
+*
+
+o
+
+Ptace withoul rapid change of temperature
+
+Place free from Lhe equipment generaling high [requency
+
+@ When open the siide cover due to the installation ete and install, be
+sure Lo chuck whiether the seal { QOQQOOCQOR ) juside the
+
+cover is Lhe saue as that of right flank or aot,
+
+(Note) Tu open and close the slide cover for installation, it is required
+to wake the waitenance space ab above 100wa in the fower part of
+Zas aonitor.
+
+Then for wall mounting type, it is required to make the slide space at
+
+above 20mn i Lhe upper part of gas monitor,
+
+take the wiring cornection or detachuenl undec power-off conditlon.
+
+ecified below;
+0%
+
+® The power supply for Lhis gas wmenitor s
+Pover vollage 2 DC 24
+AL spec @ ACZEOV
+(AC100/115/117/250V spec available)
+Insert power-off tolerance time: Approx 100w sec
+(Re~start for the power failure ai above
+100m sec)
+When the conkinuous speration is required, it s required to install the
+stand-by battery (CVCF) ebe oulside,
+
+@ Caution ai the operation of alaim contacts.
+Don' L conneck Lhe foad of capacily above the rating to the alarm
+contacts.
+Rating : ACIZ5Y/DC3QV 1h (Resistance load)
+
+Uon' L wse Lhe inductive load i srincipic (When use the inductive losd,
+very highly inverse electronalive nay be generated and the (ol loning
+obslacles may be easy to Lake place.)
+
+When forced Lo use the (ndustive load, take care for the contact
+protestion mentioned fn the following poge.
+
+a. The countact point of relaly is fused, the contact can not work.
+b. High veltage gels faside the s0s nonitor and a parts of electricals
+may be beoken,
+
+ES
+
+--- PAGE 27 ---
+ET1713E
+
+Example of inductive load
+"Pablight, Outer relay, Buzzer, Sirea, Fan, Fluorescent lanp motor” etc.,
+
+As unexpected noise may possibly come inlo the contacts, the trouble
+of previous page may take place dezpile the kind of lead. To nip in
+the bud those obslacies, il is required Lo tske the following
+preventive measure (contact protection) in a possible wanner if it is
+within the rating.
+
+& How Lo think the alarw contacts agzainst Lhe lnductive [oad.
+The contact rabing spec b the use of Inductive load wiil be less Lhen
+
+807 of resistance load.
+Rating : AC125%/DC 20¥ 0.54 {Inductive foad)
+
+@ How to protect the contacts
+
+When use the large current load more ihan standards or the inductive
+
+foad, protect the contacts by making the contact amplification oulside.
+
+[
+B
+
+]
+
+[
+’ Q
+o —
+L J i i
+AMars contact [ |
+Power supply Pover supply
+Relay
+(Low pressure celay)
+
+R-630 !
+
+This is relayed by o low voltage relay and used by [ixing the spark
+killer (SX) or diode (In case of UC) elc suitabls for the relay coil
+divectly to the relay.
+
+(2} Connection of cable
+@ Be sure to use Lhe desiznaled cable.
+
+© Yo not approach the high [requency cable or eosmect 10 in parallal.
+
+@ Before Lurning oo Lhe power, check again Lhal the wiriog of cable is
+aade correctly,
+
+--- PAGE 28 ---
+ETI713E
+
+@ Lightning protection of power cable and signal cabie, and this
+counterncasure for Lhe protection of lighloing
+
+Lighining surge
+The lighloing measures wasl be considered ia the following cases;
+
+a) The cable is connected oufdoors  in the factory plants ete.
+
+b) Even indoors, the paralle) cable distribution is made in the same
+duct with Lthe cabie pulted in {rom the outdoor.
+I the thunéer is a big source, lhe cable will be ils receiver and
+Loth apparatus connecled to Lhe cable way possibly be danaged,
+fvea though pul the cable into the pipe or the underground, Lhe
+tightaiag surge could not be probecled coupletely,
+
+Lightaing neasure
+There is nob the coupicte counterneasure for 1¢ bub the following
+sethod can be considered, Hake the suitable treatmenl accordingly.
+
+a} The Lraasnission sigaal route is arranged for conaeciion by the
+optical fiber cable ete.
+
+Counterucasure by the (ightaing arresber (Cable Safely relainer)
+There is the wiy to instail the lightaing arcester just before
+the field apparatus and bhe cesiral control station. The pesition
+of the [ightning arrester installation is ab vach polat of cable
+laid out feom the ouldoor bo the i
+The lightaiay arrester builds in cuit bo rewove the surge
+voltage to de Lhe source for the af field apparatus
+(Protection resistor, zero diode cte) and is designed to protect
+the apparabus, But as the signal may be ablenuated dus to the
+lightening arrester, check Lhe action and it is required to uss il
+
+b,
+
+© Surge nelse my be generaled by Lhe fightening of thunder or other than
+it. Frow this, it is required to ground for Ethe protection.
+
+() The fnstallation point of detector head (Gas inlel (or sawple-drawing
+type) amd ibs caulion.
+- Free-from-vibration point
++ Ho splash point for direct rain or sea wmler (In case of ship)
++Install ab the point close to the zas leaking soucce
+
+(4) The installation height of detector head ond its caubion
+
+fic gravity of ieaking gas gives this hint;
+vier yas Lhan alc stalled at 20-30cw hizh (row the [loor.
+as Lhan aic...installed al around Lhe celliog.
+
+© See Ui separale fustruction sanual Tor ke Installation welhod,
+
+@ Wiring connection shall be wade with power-off condiiion.
+
+25
+
+--- PAGE 29 ---
+ETLT13E
+
+4-2. External dimensions
+
+T !
+
+T =
+CXTI=D
+
+=] o
+
+|
+
+Hount_hole
+
+4-04_(Rear)
+
+=) REE = |
+ye
+. !
+
+Haunt lole 4-87
+
+Cadble inlet
+
+VAN
+
+2 |
+
+External dinensions (Uall mounting) Sxteenal dinensions (Panel mounting)
+
+26
+
+--- PAGE 30 ---
+4-3. Mounting dimeasioas
+
+| |
+
+feairas diearries
+
+e ]
+1700 space(No barrier) gi
+Bl
+|
+
+(ount hole)
+
+_MQ
+nount
+
+holes J(
+
+|
+Screy hol
+;/// ///// g 4
+
+(o bm.m %Malnlennnce spm/
+
+////////// (o barricr) |
+
+[enl
+
+|
+|
+=
+
+fHount
+
+W position
+Anzle
+
+posoition,
+
+223
+
+240
+255
+
+Uili mounling type dimensions
+
+Panel mouniing Lype dimensions
+
+ETI7i3E
+
+>7
+
+--- PAGE 31 ---
+ETL1713E
+
+4-4. The terminal connection
+
+= tround (Barlh}
+
+@ —f y GP-631A AC220v10% 50/60Hz
+} (ACI00/117/200 can be provided)
+
+@ — GP-6310 DC24V -+ 10%
+
+Q ——————————————— @ Diffusion saupling ty,veg
+detector head
+
+@ —| @ Gb-A8
+
+@ o}
+
+© ®
+
+@ —p——————————————|— @ Sauwple drawinz Lype
+detector head
+
+® ~f————————|— @ w18
+
+@ —— ) Renark 1) When sample drawing
+
+IA-EUW\ curcent output type detector fiead
+
+@ —|— —’ (+ Special spec availabie) aodel GO-B8 s used by
+combinalion wilh
+o —— a0
+
+) GP-621D, it is
+{20 atarn necessacy Lo provide
+P @~ o ) (A contacts, the poser source
+al emargency) ACLO0Y for pump
+— (= opecation.
+
+The external contacts for marine spec are provided with the lst alarm from
+@ ,@® and the troudle alarm from @, @
+
+*1 as special spec, provided with 1-5Y power oulpul, Isb alam (A or B
+cantact excitalion ab emergency) and trouble alarm (A or B contact, cxciting
+norua f1y)
+
+2 as iai sper, provided with 2nd alarm (8 contacts excitabion al
+encegeney) & brouble alarn (A or B contacts exciting normal ly
+Note) Use the cable-CYV cabie .25 or 2.0sq (4-core or G-vore) bebween Lhe
+
+cator/afacm unit and the detector head.
+
+-1t-
+
+2%
+
+--- PAGE 32 ---
+5. A d Jjus tmen t a b t h e
+i 1
+
+ins tal
+
+5-1. Preparation
+
+8
+
+(1) Check that the wicing connection with the terinal plate is made correctly
+according to the connection diagraw.
+
+(2) Chesk that the power supply and voilage is within the range of ratings,
+
+(3) As there may be alarm activation during the adjustuent, take care of it.
+
+-2, Power sultch ON
+
+Open the slide cover and turn on Che power swltch.
+Wihife Lhe slide cover is open, bhe external alarm contacts can nob be on,
+
+5-3. Adjustment of sensor heater vollage
+
+Check that combustibie gas s not existed around detector head.
+Yhea the gas is exisied, inbroduce {resh alr to detector head.
+
+Check that sensor feater valtage Is within the range of ratings by
+connection of the DT volt meter with HEAT Lerminal (#) and (=),
+
+General coubustible gases : 295mVL3u¥
+
+3) When the vollage is nol within above range of ratings, adjust to the
+voltage of ratings by HEAT volums.
+
+5-4, Adjustment of atarm point
+
+@
+
+Before the delivery, thie alarw point is adjusted, When bry o check or
+thange the alarm point, proceed to the following adjustment procedures;
+
+(1) 1st alaru point adjustnent
+Check it by meter by pressing on ® "AL 1 check switch.” When make
+this adjustnenl, adjust it to the desired level by pressing on ®
+"AL 1 check switeh” and turning @ "AL | adjusting VR,
+
+(2) 2nd atacu point adjustneat
+Check It by meter by pressing on ® "AL 2 check switch”
+When wake this adjustment, adjust it Lo the desiced Jevel by prossing
+on ® "Ml 2 check switeh” and turaing @ "AL 2 adjusting VR".
+
+(Mole) In this case, be sure Lo adjust the st alarm poinl Lo the higher
+tevel than the 2nd alarm point level,
+
+tnitial clear
+
+c
+
+After power on, the initial clear cicouib for alarm error prevention works
+for about 25 seconds and atarm functivn will stop wperalion,
+
+-12-
+
+ETL7L3E
+
+27
+
+--- PAGE 33 ---
+5-6.
+
+Zero ad)ustment
+
+(1) Check thab conbustible gas Is not existed around detector head, When
+
+the gas is existed, introduce fresh alr to detector head,
+
+When the indicaler needle of meter is not set to zero () under above
+item (1) condilion, adjust the indication value Lo zero (0} by turning
+® 2800 adjusting VR,
+
+Sensitivity adjustment
+Alter having {inished all the adjustments, proceed Lo the sensitivity
+adjustuent by the actual gas.
+
+See "6-4, Seasibivity adjusluent” or "6-5, Sensilivity adjustmenl by Lhe
+aclual gas”, .
+
+~13~
+
+ETi713E
+
+30
+
+--- PAGE 34 ---
+ET1713E
+6. Da i 1 ¥ o P e r at i omn
+m e L h o d
+
+6-1. Gas atarm
+(1) Waen detect the gas and 1t gets lower Lhan Lhe alam preset point
+(or above), "Atarw lamp” Jights on and the buzzer will, sound.
+AL this Lime, clheck the wcter reading. After grasping the dangerous
+vondition, lake an appropriate action,
+) Meler reading
+
+The stale of 0~100%LEL is shown in the ueter.
+
+Unit of LEL -
+
+LEL means the fower explosive limit, The lower exploslve [luit of
+combustible gas concentration is graduated with full seale 100% in Lhe
+meter scale.
+
+tndicatlon_ncedlc passed through 100YLEL,
+se, if there 1s soue ignibion or Tire source, the explosion or
+combustion will be occured, This condition ls very dangerous.
+
+hen Lhe indication needle {s closed to JOOZLEL.
+This case is very dangerous as well as that of over 100ZLEL.
+
+_bhen_ihe indicalion needle is indicated 25%LEL
+
+This case is nol dangerous condition Lo cause the explosion because Z5YLEL
+is equivalent Lo 1/4 against full scale as the fower explosive ljmit.
+llowever, even if Lhe indication of meter is lower point ai the detection
+place, It will be became to high density gas more.than lower explosive
+limlt in gas leakage place. In this case, take the caution,
+
+6-2. Trouble alarm
+
+(1) When the Lrouble laup lighls on and buzzer sounds, it is the disconnection
+of cable. Turn off the power switch and replace the sensor with new dne,
+
+(2) Cacry out replacement of sensor with refering the Insbruction manual of
+detector head, sensor replacenent.
+
+(Hote) Trouble atnrm will gound by disconnection oc incorrect sonnccbion
+between detector head and indicator/afarm unit, Check conduction of
+vable.
+
+6-3. Adjustuent of sensor healer voitoge
+
+It is umne
+Lhough the
+volLaye by
+
+sary to ceadjust sensor heater voltage of detector head even
+is replaced. [Howeve onfitn the ¥ hivater
+velering the fullowing procedure of sensor vollage check (1) and
+
+(1) Connecl {he DT vall meler with UBAT terminal (+) and (2 on £.0,
+indicalor/atarw unit,
+
+. of f
+
+~14-
+
+--- PAGE 35 ---
+ETI713E
+
+{2} Adjust the vollage vaiue by turning @ HEAT voluws so thal the voltweter
+is became o voltage valye which is cquivalent to sensor electrical current
+value marked on left side Lo inside of indlcator/alarm unit.
+
+General conbustible gases : 295mY 23u¥
+
+6-4. Change of alarw point
+
+When Ehe alarw point is devialed or changed, proceed it wilh "5-4,
+Adjustuent of alarm point”,
+
+G-5. Calibratiou by actuai gas
+
+(1) After rewoval of air in gas saupting bag, introduce the sanple zas of known
+coneentration, (1/2 of LEL is suitable.)
+
+tote} Use the sanple gas which is diluled by air, contained oxygen more
+than 10X and contained proper moisture.
+
+(2
+
+Alter confirnation of no existence of combustible gas around del
+adjust Imdication of meter to zero (0} by Lurning @ ZERO adj
+indicator/alarm unit,
+
+ector head,
+Ling VR of {
+
+( Gas ‘check. methed )
+
+Fig A adapter for /Dﬂm“‘b;g B
+
+YT
+i ey
+; 07 9
+. o9
+
+(In case of type GD-AS} (1n case of typa GD-DB)
+
+{3) In case of diffusion sampling type detector head,
+
+Ater fitting the cal. adapter (optivn) to Lhe diffusion Lype
+or head, pub the calibration gas into the dat r head by
+i3 Lhe saupling bag siightly with both haod shown in
+
+(4) In case of sauwple-deawing type detector fisad,
+Give the sanple gas by removing the half-union of HC (ilter with
+fiow monitor part as shown in Fi
+
+32
+
+--- PAGE 36 ---
+ETI7T13E
+
+(5) Heter reading of the indicator/alarm unit will slowly zo up and some later,
+
+NG
+
+4
+
+the meter reading will stop going up to yet stable. AL Lhis tine, when
+this meter reading is deviated from the value of saple gas, adjust it Lo
+the gas value by turning ” @ Span adjusbing VA",
+
+After flnishing this calibration,
+
+Remove the cal adapter for diffusion type deteclor head. In case of sawple
+drauing type detector head, put the pipe where it was.
+
+After this sensitivity adjustment, it can nol zeb Lhe sensitivity of
+calibration zas on Lhe meter reading by turning " Span adjusting VR",
+This means the expiry of sensor and it Is required to replace 1t with new
+one.
+
+When replace the sensor, proceed agaln bo "6-5 Sensitivily adjustment by
+the actual zas” and make it by bhe procedure of (1) to (7).
+
+# Sepsor is recomtendsd to replace every [ to 3 years.
+
+~16-
+
+33
+
+--- PAGE 37 ---
+<
+
+ET1713E
+
+Ma i nt enance c h e c k
+
+T-1, Onee/daily check
+
+(1) Can "Power faup” be on ?
+(2) Uoes the meter xmdmg [ndicator ZERD (0?2
+(3) ‘Wnile TR0 (0) is shifting, check Lhal the conbustible gas is nob
+ed around detector head,  Then, adjust the meter readiug to
+RO Q) by buruing "14. ZERD adjusting WR".
+(4) Does any obstacle such as things or cloths be pub on the detector head?
+
+1-2. Once/a wonlh chack
+
+7-3. Once/3 months ch
+
+(1) Lheck that the alara lawp flashes and buzzer sounds by pressing
+"® Test switch”,
+The one wonth check iten includes above "T-1 Once/daily check”,
+
+(ot 1.) Bxternal alarm conlacts will nob work under the "slide cover”
+opened. When make the action test for the external alarn
+contacts,press it only for testing because Lhe contacls work
+anly wiile hoid pressing ” @ MAINTE switeh”.
+
+(Hote 2.) When check the alarw aclion or alarw conbacts, it Is required
+Lo anuoun £ to your departuents concerned beforehand and to
+take this necessary action.
+
+(§) Make the sensitivity adjustwent by Lhe aclual was.
+"6-5 Sensitivily adjustuent by the actual ga
+check ilew of once/three wonths includes *7
+Unce/daily check " and "7-2" Onee/a moath check”.
+
+T-4. 1t Us recommended Lo receive Lhe check once in a year by the service
+coupany authorized by Riken Keiki.
+7-5, Caulion
+
+"5lide cover” afler Lhe waitenance check by all weans.
+QWote)  Bxternal alam conlacts can nob work
+uhie the stide cover (s opeaed.
+
+- 17 -
+
+--- PAGE 38 ---
+ET1713E
+
+action
+
+: Specifications for alarm
+
+1. Gas alarm
+
+-
+°
+&
+£
+o
+
+P
+©
+n
+
+-
+
+2nd alazm point
+
+Zero polnt
+
+(Yellow/Red)
+
+Alarm lamp
+
+Alarm contact
+
+{1st)
+
+{Option}
+
+(2nd)
+
+Alarm contact
+
+Buzzer
+
+Resel
+
+{Yellow/Red)
+
+Alarm lanp
+
+Alarm contact
+
+{option)
+
+)
+o4
+&
+
+o
+2
+c
+5
+51
+5
+=
+=2
+
+et
+
+Buzzs
+Rest
+
+- 1g~
+
+--- PAGE 39 ---
+ETL713L
+
+alarm
+
+Trouble
+
+Zero point
+
+Trouble
+Trouble lamp
+{Light)
+Alarm contacts
+(srolible)
+Buzzer
+
+Reset
+
+20mA ==
+
+Current
+
+Qutput
+
+Zero point
+
+- 30—
+
+24
+
+--- PAGE 40 ---
+ET1713E
+
+9. Speci f icatiomn
+
+Hodel GP-6314/6310
+
+Power requi rement GP-631A : AC220V +)0%
+(ACL00/115/117/200V is available as option)
+GP-G3LD ¢ DC24VL 107
+
+Pover consumption GP-631A : 18VA
+GP-631D & 1IN
+Outer dim\_:nsivns 125 (W) x 215 (D x 67 (0) (for wall mounting type)
+Weight B Wall wounting type @ approx, 1.1lkg
+Panel mounting type : approx. 1.2kg
+lleasurable gas Conbustible gaves T
+Heasuring range 0 - 100%LEL (standard}
+Alaru aceuraey Hithin +25% ﬂEﬂi(?st alarm setling value
+Response Line $ithin 30 sec. when delect 1.6 Lives as gas densily
+
+as that of alarm presat point.
+
+Alarm proset point ist alarm ¢ 0 ~ F.S, (Adjustable)
+
+2o alarm @ 0 - F.S. (Adjustabie)
+
+Mote) Ist alarm preset polnt [s seb to be lower than
+2md alarm,
+
+Afara indication ist alarm @ Yellow color LED flashing (Labelied mode)
+
+*1
+Alarm Light turns to conllnuous lighling
+node and buzzer sound stops after reset
+operation (Non—Tatched wode)
+
+Red color LED fiashing (Latched mode) €]
+Alarm Ught turns to continuous lighting
+uods and buzzer sound stops alter reset
+aperation {fon-fatched node)
+
+2nd alarw
+
+Trouble alarm @ Urange color iHunination.
+(Hon-lalched mode)
+Buzzer sound stops after reset
+operatlon.
+
+Alarm souil Buzzer ¢ Acbuabion on gas alarm and trouble alacm,
+Buzzor sound stops afler reset operabion.
+(Hon=Talehed node)
+
+4 - 20nh (DC) Resistance load less than 300 ohn «2
+
+Recarder oulput
+
+--- PAGE 41 ---
+ET1713E
+
+Alarn contact Gag alarn contact :
+2nd alarm; Hormally open (H.0.)
+(excitation at ewergency) *3
+(Latched wode)
+Non-labched wode after reset operation
+
+Contacl capacity :
+
+Hax, ACIZ5V/0C30Y, 1A resistance Joad
+
+ote) When the inductive load is used, fix the spark
+killee (3K} for relay coil,
+
+Operating tewpe— Tewp. @ -10° C ~ +50° C
+rature and humidity fhnidity + Less Lhan 90ZRH
+
+hppileable cable Between indicalor/afarm unil and deteclor head :
+CY¥ 1.28sq or 2.0sq for jndustrial use
+. (4~core or G-core)
+
+Powet source : CVY 1.25sq or 2.0sq for industrial use
+
+(Z-core)
+Transulsslon CVY 1,255q = 750m
+distance €YV 2.0sq ¢ 1600n
+Painking color Ivory
+Struclure Wall mounting or pane! mounting |
+
+(specify Tt when ordering)
+(Wien installs ouldoor, the optional drip and weather
+proof cover is required.)
+
+Others (1) The alarm check switeh ls provided,
+{2) After power on, the initial clear circuit for
+alarm error prevention works is provided,
+
+Rewark =1) Latehed mode — Special spec. such as non-latched mode available.
+
+Rewark #2} Voltage oulpul (1 - 5Y D)
+st alarm contact oulpub (Excitation at emergency, Mormaliy open
+(A} or normally close (B) conlacl)
+Trouble alaru conlact output
+(Always excited, Normally open (A) or
+normally close (B) contact).
+Spacial spae, available.
+
+Remark =3) 2nd alacn conlack oubput (Bxcitabion ab ewcrgency, Hormally close
+() contact)
+
+vakoul.
+(Bacitation ab emergency, Normally open
+(A} or nermally close (B) conlact).
+Special spec, aveilable,
+
+Trouble alarm conba
+
+(-
+
+B
+
+--- PAGE 42 ---
+(Issued on April, 198N
+
+T1384E
+REV2
+
+INSTRUCTION MANUAL
+FOR
+
+RIKEN DIFFUSION SAMPLING TYPE
+DETECTOR HEAD MODEL GD-AS
+¢ FOR MARINE >
+(CATALYTIG COMBUSTION METHOD)
+
+RIKEN KEIKI[ CO.. LTD.
+2-T-6 AZUSAWA ITABASHT-KU TOKYO, 174 JAPaN
+
+Phone : TOKYQ (03)3966-1111
+
+Telex : 272 2638 RKNFNE
+
+Cable : RIKENFINE TOKYO
+
+Telefax : TGHYO (03)3558-0043 GI)
+
+--- PAGE 43 ---
+b Iooa
+
+Please read this instruction manual carefully when operate RIKEN DIFFUSION
+SAMPLING TYPE DETECTOR HEAD HODEL GD-48 correctly.
+
+SPECIFICATIONS
+
+This gas detector head is installed in combination of 1 versus { with an
+indicator/alarm wnit usually.
+
+Generally, this gas detector head is installed in the hazardous area and
+the indicator/alarm unit is installed in the son-hazardous area. 5-core
+cable is used for the wiring connection between the detector head and the
+indicator/alam wnit. )
+
+This detector head GD-48 is hased on the detection principle of catalytic
+combustion. And the values of LEL (Lower Explosive Limit) concentration
+
+are almost the same except for some cases.
+
+Ce. @ = const...
+(Burgers Kheeler"s Law)
+Ce : Concentration at the lower explosive limit (LEL)
+
+0 : Calorific valve of combustion per mol (kcal/mol)
+
+45 a detection principle of combustible gas detector which is used for pre-
+vention of explosion, a method to measure the calorific value of combustion
+is the most sujtable and ideal.
+
+Combustible gas is introduced to the seasor preheated to an appropriate
+temperature so that its catalytic combustion is caused, and the changes in
+electric resistance of platinum filament due to the then generated heat of
+combustion are detected o the wheatdtane bridge. This electric output is
+
+directly in proportion to the concentration of cumbustible gas in air.
+
+) : Detecting sensor
+c : Compensating sensor
+R1, B2 : Fixed resistor
+(R1, R2 modulized)
+u 5 lleter
+YRl : Zero adj. poteatiometer
+CR2 : Yoltage adj. potentiometer
+
+e
+
+--- PAGE 44 ---
+o
+
+-
+
+Hodel
+
+Model GB-33 : GD of GD-A8 is omitted in combination
+of the iadicator/alars unit and alse,
+this detector head may be expressed as
+just A8,
+
+Measuring zas
+
+General combustible gas (standard) cr Methane in the
+
+air
+
+Detection principle
+
+Catalytic combustion method
+
+Explosion proof
+
+Comforms to flame proof 3aGd, JIS C-0303
+dpproval NoA3642 by the Hiaistry of Labour in Japan
+» This detector head does not apely to
+the measurement of Acethylese and
+Carbon disulfide (CS2)
+* The detector head model GB-A8-15 is
+
+used for Acethylene measurement,
+
+Operating temperature
+and humidity
+
+- 10T to + 40T, Less than 95 X RH.
+
+Connecting cable
+
+The thickness (am2) of cable is selected by the
+distance between the indicator/alarm unit and
+detector head and also. by the kind of combustible
+
+gas sensor,
+
+Dimensions and weight
+
+Refer to the external drawing of fig. 1.
+Approx. 0.9 kas
+
+Quality of material
+
+Detector head : Alumioum die casting
+
+Sensor flame arrestor-: Stainless
+
+Surface treatment
+—
+
+Painting Q(funsel ¥5) after the alumilite treatment
+
+Others
+
+When the detector head is used at outdoors,
+the drip/weather proof cover is necessary.
+( Refer to fig. 4, 5. )
+
+i
+
+--- PAGE 45 ---
+Inside of
+terminal box |
+
+termiaal box | Ferminel box
+N
+
+Cavar for Sensor
+pratostian
+part §
+
+ert
+
+Name plate
+
+llzxagon balt
+
+Ry
+Hounting
+bracket | | \Sensor
+t=2 Grand terminal
+
+(Outaide) |
+
+Gland- terminal,
+
+2-46
+
+(Inside)
+
+Hount ing
+hole
+
+150
+
+55
+
+Tig. 1 EXTERNAL DRAWING FOR HOLEL GD-A8
+
+Bell mouth
+
+W
+
+il
+
+z
+
+433
+
+--- PAGE 46 ---
+T1384E
+
+2. HOW TO [NSTALL THE DETECTOR HEAD AND HOW TO MAXE EXPLOSION-PROOF CABLE
+CONNECTLON WORK
+
+2-1. Caution in the cable connection work
+=Take care of the following items {1}~ (8) when make this work.
+
+(D Make the cable conmection workinz for explosion proof construction
+
+when detector head is installed in a hazardous area.
+
+@
+
+When the detector head is installed, consider easy maintemance for
+gas calibration and sensor replacement etc at the-place suited for
+
+the detection of gas leakage or gas stagnation.
+
+@
+
+Whea the detector head is installed at the outdoors or at auch
+existent place of dust and mist, instail the drip/weather proof cover
+
+on the detector head certainly. (Brip/weather proof cover is option.}
+
+«
+
+Take care of the crack or flaw on the contact point of explosion proof
+
+construction in working and make tightea each screws fully.
+
+(5} This detector head may be influenced by some unexpected outside large
+oise. Them, make wiring cosnection apart from large generated source
+
+of noise or electrical wire line of high voltage.
+(6) Install the detector head at the place where a vibration is not caused.
+
+(D The cable connection (5uire) method to the terminal plate of detector
+head is described into the approval drawing or complete drawing. Make
+the cable connection in accordance with the drawing of cable comnectioa
+between the indicator/alarm unit and the detector head.
+
+(8) Don”t use the paints including the silicone around the drip/weather
+proof cover or the detector head. [f silicone vapour should exist
+
+around the detector head, the sensor may be damaged.
+
+--- PAGE 47 ---
+T1284€ 5
+
+2-2. How to fix the detector head
+
+» [nstall certainly the detector head and carry out the cable connection
+working for explosion-proof construction in accordance with the follow-
+ing procedure from item No. 1 to item No, 9.
+
+(1) Carry out the installatioa of the wounting bracket and fix the detectar
+head. )
+There are following three installation methods for the detector head.
+Select one installation from following three method ( @ to @).
+After the installation of the mounting bracket or the drip/weather proof
+cover base, fix the detector head temporarily so that the termimal box
+should be in oblique direction to the left or right side of front side.
+
+(Direction for easy wire connection.}
+
+' i Rubber cover
+
+Protector pipe for cable
+
+(When required, procure
+it in customer's side.)
+
+.
+
+--- PAGE 48 ---
+Cover for
+terminal box
+
+Mounting
+bracket
+t=2Y
+
+Tarminal box
+
+art
+
+127
+
+Eansor
+proteation
+
+Eart
+
+Grand terminal
+
+{Outaide) i
+
+2-46
+Hounting
+hole
+
+Name plate
+
+Jiexagon bolt
+
+Fig. 3
+
+s300pJN0 Jo OTIEIEISUL 20y ()
+
+(u017e]|EISUT PIEpUEYS)
+
+el L
+
+--- PAGE 49 ---
+@ For the use of drip/weather proof cover (Option)
+
+Prip/weather | w .
+- 3 (PR T M—
+3-46 5 {
+
+roof cover lastic
+P
+
+Hi i k -,
+Hownting Role 3,5 - | knob  Drip/weather
+
+2roof _cover
+
+Installation dimensions
+57
+
+for drip/weather proof cover
+Fig. 4
+@ For installation of pole stand by using the drip/weather proof cover.
+
+{Option)
+28 pipe
+
+U-bolt, mountiag bracket, nut
+
+Note =
+T-oalt . .
+2B and spring washer are options.
+Material : Tron
+Fig. 5
+
+4
+
+--- PAGE 50 ---
+@
+
+&)
+
+@
+
+384k 8
+
+Put the cable into the terminal box of the detector head after passing
+
+through the rubber cover, packing gland, washer and packing.
+
+Install the terminal lug for 4 mm screws to the end of cable (5 core).
+
+(Refer to tig. 2)
+
+= Note : The washer and pressure-proof packing consists of following
+three kinds and is included as one of accessories in the table.
+Select and install an suitable parts depending upon the outer
+
+diameter of cable.
+
+Oyter dianeter | Inner dlamgter | Iyuer dianster
+of Gab 1"Gacking (on) | of washar (an)
+
+$ 3 ¢ 13 4 14
+
+s 11 e iz
+
+Connect the terminal lug of cable to the terminal plate of detector head
+without misconnection for comnection procedure of 4 core cable.
+
+(In this case, it is easy to work if make.tighten the packing gland to
+the detector head temporarily.)
+
+The numbers of 3, 4, S, 5 are marked on the terminal plate of detectdr
+head as following fig. 6. Then, take care so that any cable can.not be
+
+pinched when the caver for terminal box is installed.
+
+4 mm screw
+
+Install the cover for
+terminal box aad make
+tighten 4 pcs of bolt
+
+on it certainly.
+
+Hexagon srench
+
+a7
+
+--- PAGE 51 ---
+[N SR
+
+&) Make loosen the mounting bracket and turn the detector head to direction
+
+of left side. Fix the detector head after turning the sessor for front
+side.
+
+Younting bracket
+
+(6) After screwing the cable packing gland into the detector head. fix the
+packing gland with fixing screw of flange. (Refer to fig. 9)
+
+(T} Fix the cable after tighting the screw. of cable clamp for the packing
+gland.
+
+Packing gland
+
+(8) Rise up the rubber cover and put it into the cabie gland and [lange.
+In this case, .set it so that the packing gland is met with polygon of
+the detector head.
+
+48
+
+--- PAGE 52 ---
+@) Carry
+
+[ Reler g »lo
+
+out the installation of the drip/weather proof cover ia accordance
+
+with the following procedurs. -
+
+9 for
+
+the use of the box type drip/weather proof cover
+
+= Installation to the wall eic
+
+When the detector head is installed to the wall etc by using.the
+drip/weather proof cover, fix the drip/weather proof cover base
+to the wall etc and fix the detector head to the mounting bracket
+temporarily. (Refer to fig. 4)
+
+Carry out the cable working in accordance with fixing method of
+the detector head in the item 2-2 on this instruction manval.
+
+* [nstallation of the drip/weather proof cover to the pole stand
+
+* How
+
+When the detector head is installed to the pole stand and the pipe
+by using the drip/weather proof cover; install the drip/weather
+proof cover hase to the exclusive metal (option) for pole stand.
+And then, fix the detector head to the mounting bracket for pole
+stand temporarily. (Refer to fig. 3)
+
+Carry out the cable working in accordance with the fixing method
+of the detector head in the item 2-2.
+
+to remove the drip/wealhe_r proof cover
+
+Lift the concave part ( I ) of the drip/weather proof cover to
+same height of coavex part ( £1) of the drip/weather proof cover
+and when shift to the downward, it is fixed temporarily.
+
+And fix it by finger pressing the plastic knob on upper part of
+
+the drip/weather proof cover.
+
+Plastic knob
+
+Convex part
+() Cancave part
+Qo]
+-~
+|8,
+
+Box type drip/weather
+
+Hounting proof cover
+bracker
+
+ap
+
+--- PAGE 53 ---
+T1384E
+
+. © For use of the round type drip/weather proof cover
+
+When use the round type drip/weather proof cover for geeral use or
+ship use, install the detector head horizontally and caver the round
+type drip/weather proof cover on it as following fig. 1l.
+
+&
+~ &
+5%3 LT §
+s R Epina e
+b B rias
+¥4 cEy-Cpdyliet,
+§z i 1
+
+in)
+s
+
+Mouniting
+bracket
+t=2
+
+--- PAGE 54 ---
+3. MAINTENANCE AND CHECK
+
+3-1. Gas sensitivity (calibration) adjustment method
+
+* Carry out the gas sensitivily adjustment with the c;llibration gas in
+accordance with following method every 3 to 6 moaths. i
+
+(1
+
+Prepare the known gas concentration of calibration (around 1/2 of LEL =
+50 % LEL) to the gas sampling bag.
+
+(2) Conmect the gas check adaptor to the tube end of the gzas sampling bag.
+
+3) After covering the gas check adaptor to the detector head, introduce
+the calibration gas into the detector head by squeezing slightly the
+gas sampling bag.
+
+Detector head
+
+check_adaptor
+
+Fig. 12
+
+{4 Hhen the calibration gas starts being introduced into the detector head,
+the indication of the indicator/alarm unit goes up and gets stable after
+some decade seconds.
+
+When the reading does not coincide with the reading of calibration gas,
+adjust the reading of the indicator/alarm unit to the reading of cali-
+bration gas by use of “cal screw (CAL)".
+
+When it can be adjusted to the reading of calibration gas, the gas sem-
+sitivity adjustment procedure is [inished.
+
+--- PAGE 55 ---
+[Wisl=2%4 13
+
+() 8s result of check for the gas sensitivity adjustmeat at item (4), when
+the sensitivily can not be obtained by turning cal screw at maximum, the
+sensor life is terminated. And thea replace the sensor with new one
+after make the power switch “OFF", See item 3-2 for the replacement of
+gas sensor. .
+
+Hote) When the sensor is replaced with new one, confirm the sensor
+
+type stuck on the detector head.
+
+(6) Huen the sensor is replaced with new one, confirm the voltage (bridge
+voltage) and electrical current for new sensor.
+Carry out the sensitivity calibration in accordance with item (1) - (4}.
+
+* (a) Calibration gas (standard gas), (b) gas samaling bag and (<) gas check
+adaptor are option and supplied by us or our nearest agent if required.
+3-2. How to replace the sensor with new one
+* Carry out the replacement of seasor in the following procedure
+
+(1) Turn the power swiich of indicator/alarm unit to “OFF~.
+(The power is not supplied to the detector head.)
+
+@
+
+Make loosen 2 pcs of hexagon bolt of sensor guard and then remove the
+sensor guard. (fexagon bolt of this sensor guard is not dropped from
+
+seasor guard even if il were loosened.)
+
+(3) Pinch the upper part (sintered metal) of defective sensor by finger and
+pull out to front Side. At this time, the 0-ring can be also removed.
+(hen the O-ring is not crooked or damaged, it can be recycled.}
+
+{4 Prepare the new sensor and confirm that oue of five piss on the bottos
+of sensor is longer than other four pins. Insert slightly (shortly}
+this long pin to the socket of hole of detector head as fig. 12..
+
+When the long pin is fitted with the socket of hole of detector head by
+turning the sensor to left or rizht side slightly, the pin can be
+inserted into the concave ( M) part of socket hole. -The sensor cam be
+further inserted deeply by pushing this sensor,
+
+42
+
+--- PAGE 56 ---
+T1384E 14
+
+(5) Insert the O-ring removed on item (3) or new O-ring to the ditch
+
+correctly between the sensor and detector hole.
+
+&
+
+Cover the sensor guard on the sensor and make tighten 2 pcs of hexagon
+bolt.
+
+{1y After the finishment of replacement of sensor, make the power switch
+of indicator/alarm unit "ON" and make the check of sensar veltage
+{sensor bridge voltage) or electrical current in the indicator/alarm
+
+wait. (Refer Lo the instruction manual for the indicator/zlarm umit.)
+
+@
+
+In approx. 10 minutes after power switch “ON, make the adjustment of
+gas seasitivity in accordance with item 3-1.
+
+= Long pin
+
+Detector hole
+
+The figure of gas sensor
+sean from the bottom side.
+Cable inlet
+
+Fig. 13

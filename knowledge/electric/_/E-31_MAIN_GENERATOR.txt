@@ -1,0 +1,750 @@
+FILE: E-31 MAIN GENERATOR.pdf
+FOLDER: .
+DATE: 2026-03-06 21:09:38.035102
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+fLANDéRS TENACITY
+
+MAIM GENERATOR
+
+| “This technical document i
+Kawasalki Heavy Industries, Lid (K1) and may
+nol be copied, nor disclosed to any thind party
+
+| without KI1l's prios written consent
+
+MANAGER SCALE — (JOBNO =
+CHIEF 7
+i At RCL KAWASAKI HEAYY INDUSTRIES, LTD.
+e
+o T
+B SHIP DESIGN DEPT, SHIP GROUP
+1456
+IR T KAWASAKI HEAVY INDUSTRIES, LTD T wiEers wo coven
+
+¥=.
+
+--- PAGE 2 ---
+MESSRS
+
+DRAWINGS
+FOR
+| COMPLETION
+
+MATN GENERATOR
+
+HISTORY OF DRAWING
+
+TAIY.
+
+ELECTRIC CO. LTR
+
+APPROVED FLKUMAZARY
+
+A. Asano
+
+DESIGN | L AMANO
+
+M. MIZO
+
+DATE
+
+1994 10 3t
+
+NO.
+
+94 - 4479 - 02
+
+--- PAGE 3 ---
+LEmpeaRE,
+
+KAWASAK[_HEAVY INDUSY
+
+agLL v
+aett M
+
+P
+[ NID E X
+= = =
+
+Ly
+
+PARA. RUN.
+
+BRUSHLESS AC GENERATOR HODEL (o] 4
+75 Y UARRI R WET VB 4505 -8
+SR ngw?r}g" S T
+[ B 0.896
+%5 WA 18.7 VA 0.086
+SoNg I NpuS 0.0
+[ 105 Vim 145 0010 |
+187 A 03 A
+ET 3¢ EFFICIENCY : 93.2%
+60 | 16 ke _ ]
+T TR 5 wor| — B
+A & M 900 rpm B B
+AT m 0.8 0.95
+T v . 40AusrivG LinRs 1p081mG, nouT
+15 = WENLRI. RRAMER QOLT,
+[ PR % | DISTIRGUISIIING | U: GREEN
+ic - o COLOURS | Vi YELLOW
+20 v [ 06 7/2 maNg | W BROW
+T e e T
+I O T S o
+N 5 g | B | meRRiT o SApLE gL
+n R5 T 1187 T S6a 36 | .
+AR 3 A B L-DPYC-2.0 lexl | i
+HEATE [ A - !
+- SEARCH COIL, Tu.. A LHPIC- 12 25hx1
+| APPROVED [K0MAZAR | REVIBWED | A psano o TAIYD
+DESIGN | 1 AMANO | FREPARED | M. MTZO abonecats |
+
+--- PAGE 4 ---
+L1ST O0F DRAWIKG
+i ifi ® ]
+WAME OF PARTS | DRAW NO. @ W] & B ® A R K S
+# i3 ERE IR #
+1L o L 006 - 1304 1| -
+2 | SIART 3 611 - 1514 [
+3 | sBeTionA, DRARIAC 3 050 - 626-)
+4 | SECTIDHAL DRANING. an 065 - 194 |
+5 | AVR BOX 48 015 - 081 g ASC-32-474 (o)
+[FyvT—
+5 R 4E 903 - 096 J 508 30002 (W)
+7 rRavsromMER 48 035 - 144 4| on-4oi 120005 Ceery |
+) $OR SEARCH COL. M 457423
+9 | CURNECTION BIAG. AE 167 - 214
+coNNEGTION nTAG.
+10 For Fann. nu 48 161 - 214
+_ — I
+!
+— - - —— — |
+. 1
+APPROVED | wrumazars | REVIGHED | A Asano @ TAIYD
+DUSIGN | 1 AMANO | PROPARED | M. MIZO EEeraie co,L75.
+
+s
+
+T o4z
+
+--- PAGE 5 ---
+v
+
+ENCLOSED VENTILATED DRIPPROOF MACHINE
+
+BRUSHLESS A.C. GENERATOR
+MOQDEL = FE 45A5-8 - 2105 48
+380 a0 1145 Il
+350 - 700 . 875
+n 0| | 222 230
+air _ 180 MAINTENANCE
+\ . SPACE
+ERMOIMETER
+i 0~i00%)
+!
+| & ST
+SiE ! r
+ol et
+™ T i
+555 50
+—— N S
+24)0 1145
+1025 1 590 R
+1145
+) m
+= 2-420
+=< . FOR TAPER KNOCK PIN
+N IS
+no [ S—
+N 2 LUBRICATING % T
+Gl 1. QUANTITY 7.5 §/se7 o)
+DE 45
+. 4-635
+i 4-M20 FOR M30 EOLTS
+b
+J
+9 R -
+&
+N FTTYE 0 %
+o OHSEE 3 np avorg] VAT | APR. [HKUMAZRE
+s ;
+TOTAL WEIGHT Ca, 3470 K8 PROIECTION] == | REY.
+DES. [&. Asanc OUTLlNE
+s | T8 M. M1ZO| A M
+S TAIYO AMO06-1304
+ruecTare nr canirn EERENNE
+
+--- PAGE 6 ---
+[N — T s
+MODEL : FE(FEK) 45AS-8 T*‘
+R0.2 043, a5
+R3
+£
+- [ .
+Q] ﬁ S| DETAIL OF A" DETAIL OF =8~
+EY S\_/ e D ——
+o om12 . 2093 o4 ;
+2085 0.8 i g
+P 1221 #02 . 864 +02 -
+- 1 429
+" 1019 02 34i.5x02
+12 23 [
+: ; 8 84 e, 15 851 %02 259 ., 825 s s25 215 1le0
+SECTION C C 131,32, 175,39, 56202 134 80, 145 T 8-$32 DRILL
+=7 Bg g 14 14 281 14 el ; 1 @ —
+o ‘ ez LT E |
+g ol 3 ool s RO4
+5 cl
+RiS| g R2.| Rudfl| B2 . 2-M24
+o 0.4 N AN R30I
+S il i = A /L —p-
+— = i ¢ — T ] [Z%w: i i
+N - 2
+| L LT T4 D
+; = = = - - w[ Fa
+Td =g o i o 2% B o o o
+7 gl S 1 B of =9 93 =5 <l J 9
+S S S i o o 3 g o XEN !
+< ! & SHE F 34 & & g g § £ g e
+a DEPTH IS i o AT A = Rl @ El
+ME 2 & ole Sl =
+SHE Sf g = Siz e z
+B BIE] 2} Zi8
+EIN wlu
+
+3M005 -~
+3Macs
+
+]
+&
+&
+jo)
+2
+E
+L5 RLS 915
+SPECIFICATION |
+
+WELGHT&GD" o A : o
+— T : =
+— FErcRT G (] & 161 82 2 191]-62 ) 19482
+[FFor 123 17
+- ROTOR| 1402 | 2i5 EQUIVALENT LENGTH 68 cm
+: FAN 86| 3l X T
+R TOTAL| 1611 | 263 =
+]g MATERT AL N.B. THE PORTION WITH THE ¥MARKED %1] 1201900 | UD/IUDO
+o R DIMENSION IS MACHINED SO THAT (2] S91000 1 9% 0c0 |
+DS CHANGE FORGED STEEL (SF€0) THE INTERFERENCE BETWEEN ROTOR 3 ro ancie| VT] APR. '-KUMAZAKI'
+o TENSILE STRENGTH 60k/w* CORE_AND SHAFT BECOMES procnen) - | REV. B Asamo | ] ANGE SHAFT
+X TGO Y ACCGRDING TOQ ACTUAL scae] 7 DES. 7 ARG
+MEASUREMENT OF THE INSIDE DATE[94.11,2¢ | TRA. |M, MIZO| 2% 75
+DIAMETER OF THE ROTOR CORE. @ ?’@EV@ 3M 6 11-15 AMTL
+! clecTmc mraco LT | 1 ]
+
+--- PAGE 7 ---
+3
+
+[~ ENCLOSEL VENTILATED DRIPPROOF MACHINE
+
+BRUSHLESS A.C. GENERATOR
+
+SOTE:SEE OUTLINE FOR POSITION
+OF THE CABLE GLANDS.
+i
+
+¥e. NAME OF PARTS r MATER{AL . NAME OF PARTS MATERIAL §O. NAME OF PARIS ity it wo. NAYE CF PARTS MATERIAL
+1 [or cauce | PlastIc 9 | Por"BxE3%En | MgNETIC StERL || 17 | ROTOR COIL | nisarrey 25 | SLEEVE BEARING SiiTa herat
+7| STATIC BXCITER 10| CoveR FoR EXCITER | WilD StEmL | 18 {staro coil | INSLiTIoN @IRE || 25 | searr FORGED STEEL ALR INLET
+3 | bureer a2 COPPER 10| FRAE WILD StERL 19| eorow cLuwE | MILD SR 7o, an
+4 IRE Toaarsir® | CAST laOK 12| STATOR CORE SILICON STEeL__ || 20 | PN MBS || 2 h‘ﬁﬁ: IS AT 1RO VENTILATION
+5 [ ROTATING RECTIFIER 13 [ UCT PIRCE HILD STERL 71| Fa Boss CISTSTEERL || 29 | VENTILATION COVER | WILD STERL | COVER
+6 |fon artiran © INSULATION KIRE | 14 | ROTOR CORE RAGNETIC STEEL || 22 | COVER I STEEL || 30 [S003F RERraa | MILD STEEL
+T |t ieaizen | SILICON steeL_ || 1s | Darpew FLaze coPPER 2| THEROYETER ) _ i
+8 [PiFExites INSULATION WIRE || 16 | STATOR CLAWER | AILD STERL 24" eeaeive case st itk L _
+
+AT
+
+A pan
+
+|
+|
+i
+
+=i
+
+3 a0 anore] AT ] cEr K. MORT CE———-——-CTIONAL__J
+PROJECTION| ww | GECX |7 HORT| ™ — AN
+fonl o Temirinte]  DRAWING
+
+| oATE (1389, 7 22 | TRACE |5/ .
+| ®TANO
+
+AN i
+
+--- PAGE 8 ---
+FE/3 - FEK/3
+
+STATIC EXCITER MODEL: SE41T45AR
+
+No.
+
+sYMBOL NAME OF PARTS
+
+1 cT
+
+CURRENT TRANSFORMER
+
+SIDE COVER
+
+DR1P PROOF COVER
+
+CABLE SUPPFORTER
+
+—
+
+AUX. TERMINAL
+
+FRAME
+
+MAIN TERMINAL
+
+SILICON RECTIFIER
+
+SILISTOR
+
+DISCHARGE RESISTOR
+
+REACTOR
+
+CABLE GLANDS
+
+3 Ro ancig| T
+PROJECTION] =
+
+=y SECTIONAL
+
+SCALE]
+
+4
+
+ossiox|_Aseno DRAWING
+
+DaTE
+
+| § JAIYO,
+
+52.4.8
+
+TRACE KL TAKEYAMA DRAW.
+
+o
+Ieat]
+
+055184
+|
+
+T-o1-3
+
+--- PAGE 9 ---
+AYR _BOX
+ODEL:ASC-32-( 174
+
+184 134
+100
+
+[FFWATIC ToLTAGE Areveaion)
+
+270
+230
+
+1
+TERMINAL
+
+TERMINAL ARRANGEMENT
+
+RIS1ITI k £ k2f2 1 2
+
+3 A
+@[L@_@@@@@T@@@@
+
+[
+S
+&)
+®
+&)
+
+WEIGHT: 5. 4kg
+
+CRANGE 30 awoos | ONIT [OHTEF |v TARASARI
+"""""" P ~
+prossorion| mn fonsck [mrumazan | () 1 I
+SCALE|NoT DESTaN| N, SATO
+TRV O
+
+DATE |1350.5.31 |TRACE |K QHGAMI
+
+AVG 4L 015~
+FNTANC) ‘
+
+LRCTRIC MEE edaitn
+
+oo
+e
+
+--- PAGE 10 ---
+TYPE: S0W 300Q
+
+36- ]‘T
+
+2.5
+
+LOCK NUT.
+
+3.2
+
+\NAME PLATE
+
+d\_m‘rs
+
+) 6.5%
+| : i
+|
+
+SETTING HQLE
+
+|
+NAMEBLATE e i67: 1806
+
+310 avour | S | SHEF [Kitwwamara T TAGE CONTROL
+PROJECTION | m | CHECK | M, KAWADE]
+A Asauo RHEOSTAT
+
+seatE] DESIoN A
+DATE 1987 29| Thace TRAW. N
+
+& TAI BIYO 4E9031:o96
+
+surdrme nrG conts. ]
+
+CHANGE,
+
+ronover TOBLLA)
+
+--- PAGE 11 ---
+107
+
+MODEL: CW-40LM 801 ~12004
+
+M3 BOLT
+
+|t
+
+5
+2R T
+s i ] _9
+1 @] @ L #
+T T T
+’ l25] 3]
+FOR 7-M 122 s
+BOLT i IF3 i
+LENGTHWISE MOUNTING
+51
+S
+3
+A
+& T[]
+=
+| 38| |ror z-Ms 105
+66 BOLT 158
+178
+— — SIDELONG_MOUNTING
+10004/5A
+%}:A/s;\
+
+NOTE ¢
+
+THIS CROSS CURRENT COMPEN, TRANSFORMER CAN BE MOUNTED EITHER SIDELONG OR
+
+WEIGHT: 1.3 kg
+
+LENGTHWISE ACCORDING TO THE CHANGE OF POSITIONS QF_FITTING
+
+METALS_
+
+CRAGE 3 ro anue| VT [ QUEF PLSAIODA | ppagS CURRENT COMPEN
+provecTion| ~ | crEcx
+seae] pEsicH |A. lwamna TRANSFORMER
+e |81 706 e | o W NDF 035-144
+[ewovm TOBITA @ sIﬁ !;Xg. il ] [ I f_
+- Totma
+
+--- PAGE 12 ---
+lu lw v v A W e A
+Q 0 o o e 9o o Q
+H 1 i l +
+N I 1 B t
+X X
+/ V] w V:/\J Iw
+
+A.C. GENERATOR
+
+(SPARE)
+
+SEARGH COlL_SPEC.
+
+RESISTANCE VALUE
+
+P1 100 al '
+
+RATED CURRENT
+
+10 mA
+
+CLASS
+
+JIS G 1604 05
+
+MEASURE SPAN
+
+0~ 150"
+
+o
+
+CHANGE
+
+uNIT | CHIEF
+
+3 o avoLE
+
+PROJECTION] mm | CHECK
+
+I I0SGRAA
+
+CONNECTION DIAG)
+
+DESIGN
+
+A_meenc| FOR SEARCH COIL
+
+a7
+onte |55, 4,15
+
+TRACE [iLkanamo it [BIAW. NG
+
+G TAIYO
+
+ELECTAIC HFG.EO.LTO.
+
+157 423|>
+
+Tl
+
+--- PAGE 13 ---
+A. C. GENERATOR&EXCITER
+
+SWITCH BOARD
+
+Bl |m o
+ua_ ] lis
+
+SPACE HEATER cT
+
+—— Tu, - (U
+aiL jmunmesy
+- vy | B
+SEARCH|__(SPARE) Wl
+SorL ned
+2L b1
+
+| S
+
+N. B. 1. THE EACH CIRCUIT CURRENT IS5 ACCORDING TQ INDEX.
+
+JNAME OF PARTS
+
+NAME QOF PARTS
+
+G __|GENERATOR
+
+CT |CURRENT TRANSFORMER
+
+Fi [|GENERATOR FIELD
+
+RT |REACTOR
+
+Si: [SILISTOR
+
+CCT|CROSS CURR. COMPEN, TRANSFORMER
+
+SuaySILICON RECTIFIER
+
+AYR[AUTQ, YOLTAGE REGULATOR
+
+Ex (EXCITER ARMATURE
+
+VR |YOLTAGE CONTROL RHEOSTAT
+
+F1 |EXCITER FIELD
+
+Re [DISCHARGE RESISTOR
+
+CRANGE
+
+CHIEF L TARASAR)
+
+CHECK
+
+ECTION
+
+I, Asaug
+
+AF 167-214 |
+& TAIYO TITITIT
+
+DIAGRAM
+
+S HIROSE
+
+--- PAGE 14 ---
+A. C. GENERATOR H’B/
+S ACB
+! R ;Ic
+GI ; = ¥
+T CCT.
+! W Is 1
+; - 234t
+BCT
+A. C. GENERATOR | f 2
+| el =
+Lo AVR 22
+! R
+@ : : g 0
+T CCT
+i ki 1 B
+; .- amst
+DCT
+As C. GENERATOR } .
+k2
+42
+ACB
+{l}
+Kol Lo Tl
+cer [N
+ki 3
+1nat S ol
+A C. GENERATOR } LYY I
+A C. GENERATOR
+: H
+b s T
+NAME OF PARTS NAME OF PARTS
+ACB[AIR CIRCUIT BREAKER DCT|DIFFERENTIAL CURR. TRANSFORMER
+
+CCT|CROSS CURR. COMPEN. TRANSFORMER|CCR|CROSS CURR. COMPEN. RESISTOR
+AVR|AUTO. VOLTAGE REGULATOR
+
+CRANGE 310 oLz | V7 [ORIER | citamamun
+7R0IECTION] an [oRECK CONNECTION DIAG.
+SoatE ststan| & Asang | FOR PARA. RUN.
+DATE |'90-12-27 |TRACE | M. DHGAMI [DRAW.NO
+
+4E 161—- 214
+
+| & Ae. T \
+
+--- PAGE 15 ---
+BOX KD P14
+
+KAWASAK -
+SHiP NG S
+6 B |
+1456 925kYA 450V 900rpm g 4
+i
+11EM HANE OF U LINE ,,,,%",“Jlg,m o ;EEW"K;
+:@l S e [ L“J‘JU“—VVMSM —
+) ECHE L
+BEARING BUSH
+R == 4 1| o 2t5/180 180
+b %
+OIL RING
+7| -2 9 ‘ 2| 6 27019
+\ |
+?—m i BEARING BUSH |
+i ;
+3| ERR 114 |1 monwise-ao
+=M. {
+——1 4 21 86 22015
+24 Br i
+_— SILICON T
+HE| RECTIFIER 8 | sicoi-in
+L I R
+s x-om
+— ] SILISTOR
+p |-l 6| 893
+YAy — i
+[ TV R
+A i 4| T08-2094 N0.3
+| -
+e 8 17 T0S-2098 0OLS
+1.K1IMAZ,
+szt g | AREIE P R
+— g SREREL x
+RV I7=7 AN
+\|Asano {-- ,L —— —
+I OISCHARCE
+. AMANO RESTSTON i
+o | 10 1 ¢ 3000 2000
+4| mMrzo TAIYE 147490 117
+
+--- PAGE 16 ---
+b3/
+
+. BOX N
+KAWASAK]
+SEV? fER VESS.
+B ®n
+1
+1456 925kVA 450¥ 900rpm 4
+ITEM ] NAME OF 0UT LIRE QUANTLTY
+10 PARTS
+L-Cl
+VOLTAGE CONTROL B
+RHEOSTAT i
+- U men |- 40 17 son300m
+TR AT T i
+i (BhEy Al i Va2 | orsee-os0
+. P—‘(”
+N
+3 - 4011 r3
+fm—— B N
+i 414 254
+H B 4 IF 2 aLF £ 4 4
+PRINTED r
+HIRING 80ARD 0
+51 -— 57—~ 41 1| easn
+7.586 7/2 EREE %
+ETEE | T -
+G0
+»\‘voé’?b
+It !
+b e
+t
+: 300 .
+SPARE PARTS 00X F—= 1TEN KO.1,2
+1 | TIiom 2 ITEN NO.5~8, 10~13, 15
+PR, F ol = | St
+HKUMAZAK] S
+SPARE PARTS BOX | LTEN §0.3,4
+REY i o 4 | :
+THaE = Vi STEEL
+A.|Asano — — o :
+1 AMANO SPARE PARTS BOX ":; " - 195K 10,9, 14
+PRE. e K i
+= i STEEL
+. MIZO|
+
+TAlYe
+
+1474956 9/

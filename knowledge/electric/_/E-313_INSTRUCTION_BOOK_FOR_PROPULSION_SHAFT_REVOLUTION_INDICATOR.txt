@@ -1,0 +1,2177 @@
+FILE: E-313 INSTRUCTION BOOK FOR PROPULSION SHAFT REVOLUTION INDICATOR.pdf
+FOLDER: .
+DATE: 2026-03-06 21:30:38.654321
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+PROPULSION SHAFT
+REVOLUTION INDICATOR
+
+L Ihis technical document is the property
+
+Kawasaki Heavy Industries, Ltd (I and may |
+! ot be copied, nor disclosed o any thivd parly ‘
+| without KIl's prior written consent
+
+MANAGER L ISCALE e JOBNO,  ——
+
+CHIEF
+
+cuecken L%
+
+KAWASAKI HEAVY INDUSTRIES, LTD
+
+DRAWN SHIP DESIGN DEPT, SHIP GROUP
+
+DATE
+
+1456
+
+11 R W-EE Al AWASAKI HEAVY INDUSTRIES, LTO / SHEETS wEL coveR
+
+--- PAGE 2 ---
+Messrs. KAWASAKI HEAVY INDUSTRIES. LTD
+Work No.
+
+or 7
+SHIP No 1456
+
+ELECTRIC PROPELLER SHAFT REVO. INDICATOR
+
+SPECIFICATIONS[
+FOR DELIVERY
+
+NUNOTANI HAKUYD KEIKI KOGYO CO., LTD.
+AMAGASAKI FACTORY
+
+2-6-10. NISHINAGASUCHO. AMAGASAK |
+
+TEL. OSAKA (06) 482— 1131
+
+CHECKED BY
+
+CHIEF OF SUBSEC. (Z A2 ﬁ_,d‘_
+CHIEF_OF SEC.
+____%,‘;w_p;— f’
+
+SECTION.
+
+--- PAGE 3 ---
+g - W&
+COMPONENTS LIST
+
+" # K. H'sl.s & [E— — i
+SHIP M0, 1456 d‘_fﬁME OF DEVICE PROPELLER SHAFT REVO., INDICATOR :
+- % # lE | EIE 5
+NAME OF COMPONENT ;\'f'_ REQ 'APPR i DWG. NO.
+1| SENSER BOX cPSs0-2 .~ | 1 20 2.0 3K1-10446 -2
+i 1 - I
+) CONTORL BOX PA-SPA _~ | & 5! 1.5 4K1-30564
+4 INDICATOR SL200K / 2 6.0x 2 5852 4K1-20349
+4 | INDICATOR FL200SK - i i ) | 50 ‘{ 4K1-20375
+5 | INDICATOR FE150SK,~ - 2 3.0 | 30 4K1-20374
+| i |
+o T T T
+6 REVO. COUNTER  RE-S&DR S 45 | 4K1-30360 |
+—
+
+SPARE PARTS BOX  SS
+
+0| 30 |
+
+4K1-30331
+
+--- PAGE 4 ---
+W/H OUTSIDE WALL WIH FEINT W W/H DUTSIDE WALL
+
+(PORT WING) (STED HING)
+5L200K % FL20OSK 3 * 5L200%
+INDICATOR __~ DIMMER S INDICATOR DIMMER S OIMMER SW.  INDIGATOR
+
+i x 1
+
+|0 © B ax]
+
+filstiNily |
+
+MAIN CONTROL CONSOLE
+
+| o | S— —
+B ConTrOL uT_pacses [
+ENG. RM. f REF M ELWWCAL M
+OWG NO = CONT, B0 &
+- 1(3-01894 2 —
+FLV‘
+WAEE! |
+lﬂg t‘VJJLI%S_!dUhEJ—Igm |
+Wi el ol
+_ ==c=s=ct=tag
+3 - — 4
+L - S - |
+PULS2 {
+
+J SHIP YARDC SUPPLY
+
+KA
+
+aL-0y- BLLE
+
+CONNECTION DIAGRAM FOR
+CONTACTLESS SHAFT REVO.INDICATOR
+
+R
+
+3-0. 234&5
+
+SRR . EX U I
+
+DESIGN DEPANTMENT. NUNDTANI HAK YD %EKIKOGYO CO.LTD. AMAGASAKI FACTORI =
+
+--- PAGE 5 ---
+|
+
+|
+|
+
+o
+
+1
+Lt It
+
+1NAES
+PULSE 516
+&5
+
+64 puLes rev, -
+
+0
+
+i
+
+P
+POWER .
+
+! oo PGB TYPE (FV-111 TAC-A)
+iNpUT - FY RS
+! L% pgoxiMiTy Sw v 6 B
+Fust SIGNAL MONDSTA VR vR e
+F1 - B TISEN WST AHD| GAIN ADJ. i
+- . e ‘ Yea
+AR gene 224375
+e COURLER 5
+— e« e "
+4 FLIP 44 whiES
+. FROP CIRCUIT 0P
+n co - ouTPuT S16.
+W%! _} i Juez || wEb-w o
+2007 TG 10N d AR
+; [ >~ (AR ,0458 rom
+= a o 0160 1z
+| { | Plokun S16.] !
+Fe S - Ceoa
+- v ] BINARY o
+| i \‘ [ counieg[teoa i
+BE |
+L 23]
+i
+1
+(93,7 rem -+ I
+(625 v | i
+W= T |
+[ x |
+Ea-% |
+FUsE
+Fo
+Lot
+NoisE
+FILTER
+G- 1
+_— - I TS
+CONTROL UNIT
+LESS REV. IND.
+CONTROL UNIT
+] EEEAEITT WD 0 o | R
+
+o | 3K3-01804A
+
+TS, L5, T
+
+--- PAGE 6 ---
+T7SEGMENT
+
+INC Ssw,
+j SHIFT SW, :
+
+!
+
+CLR sw,
+
+RPM SW,
+
+CPU BOARD (ON94D)
+
+DIP sw2 |
+
+1]2] 4] 8]i6]s2f64
+
+DIP SW1
+T
+
+112
+
+IPULSE/L
+
+1/2]|3 5|6|7
+
+on]
+
+=
+)
+
+1/10REV,
+1/100REV,
+
+CAPACITY
+24V1I0mA
+
+i~ADD-AC
+
+NOISE
+
+FILTER
+
+VTMO55C24 1A
+3A
+
+PULSE SIGNAL (65PULSE/IREVO)
+
+1
+
+COUNTER RATIO= copiT 1
+
+PULSE (64)
+
+TO DATA LOGGER
+(1PULSE/ 10REVO.)
+
+TEL, LOGGER
+
+UPuLsE/:OR[vo.)
+
+POWER DC24V
+—
+
+‘TYPE RE-S8DR
+
+CONNECTION DIAGRAM OF
+REVOLUTION COUNTER
+
+DESIGN DEPARTMENT. NUNGTANT RETKT
+
+SEISAKUSHO GO, LTD.
+
+--- PAGE 7 ---
+[t 1| et 206
+Snd - ] [ -
+BETMLS S ruy wesL = 4
+e | 1 —
+NUMBER OF TEETH 64. |3
+! — 2y 7RE I 1] ssar
+O—_ = Sremuscie o [3200] % I
+| 2 [ 3342 § BENEET
+'
+| zm5-2 6 1] ssa }
+| MAIN EngiNg TYPE - ;
+5S70MC ws ||
+
+INSTALLATION
+
+mwr-
+GAUGE 32
+
+MIN.70
+FLY WHEEL
+IIARA—
+_ 120
+
+fo—
+35 50 35
+L
+
+RESE | GPS-50 - 2
+
+AN | JE— (s e ) 05k DER tUiR
+7.5867/2 SENSOR BOX FOR
+- - PROPELLER SHAFT
+T T KT WG NLTSTD REVO, INDICATOR
+¥ ot e 4- NOV-1994 || 3Kt
+
+L
+o T TESIGN DEFARTHENT. NUNGTANT KEIK, SEilSAKUSHG GO
+
+T,
+
+--- PAGE 8 ---
+NAME OF PAR!S (£#) QMM_L ”
+PARTICULARS (% )| | 1]BODY (A 1| castine ks
+WG | (2| COVER (55)] 1 | —Do— ACTAT
+3 |POINTER (3#t)] 1| |ALUNINUM PLATE  @20177|
+10Y 41DIAL (s26)| | |SHEET RESIN T
+CURRENT (%) SmA | T5TGOVER GLASS (353 | |GLASS |
+© [TERNINAL COVER _ (W¥73)| 1 | gmeme Aov AGTAF |
+7 [GLAND (757F)] 1 |[PLASTIG PBT [NO.20
+8 |GLAND ¢ 49 0 | —po— PBT [N0.20C
+9 |[TERMINAL GHFE)| 1 —_—
+10 [ADJUSTOR (mgEagE)| 1 i
+N |EL PLATE (EL#D)] 1 |
+e ®
+o2 Ss.
+® T )
+
+___ 0250
+
+|
+
+4- SET HOLES FOR 'MI0 SET BOLTS
+
+WING {-W/H OUTSIDE WALL)
+
+WEIGHT(E®)|
+
+5.8Kg SL200K
+FAINTING GOLOR| WORE Wo. woRE snor
+SL200K INDICATOR OF
+_7,5BG7/2 ELEGTRIG PROPELLER SHAFT
+
+REVO. IND.
+
+SoALE R cuier
+
+CHEGK [ DRAWN
+owa.
+
+w8 nn:‘lstUNﬂQS? no.| 4K1-20349
+KEIK! SEISAKUSHO CO.. LTD, 8/
+
+DESIGN DEPAR NUNOTANT
+
+--- PAGE 9 ---
+NO.[NANZ OF PARTS ( % # J|Igpy|NATERIAL ( # ® )| Ty
+1 [COVER GLASS (E®AS2Z)| 1 |6LASS 152
+PARTICULARS (##) | [ 2 [COVER (A N- 1 e ACTAF|
+TYPE_ (=) MOVING COIL | [ 3 | PONTER (% #t O] 1 [ALUNINUM PLATE [roim
+VOLTAGE(RE) 10V 4 [DIAL (ES®)| | |SHEET RESIN 448K
+CURRENT(®R)  Sma 5 | E.L PLATE (E.L&) 1 |
+6 | COANING (xgRiz) 2
+[ 7 o0y case 2w 1| o o AcTar]
+8 | ADIUSTOR (Rg8) 1
+[SERRDE . S
+40, o5
+
+WEIGHT (E8
+
+©-5.8 FLAT HEAD SCREW FOLES@
+
+(5"3 SMAXIHHR)
+
+PANEL CUT
+[GEIE-TCE )
+
+W/H FRONT WALL
+
+ELECTRIC SHAFT REVO, INDICATOR
+(RRXTORSHBEH FL200OSKEES)
+
+FL200SK
+
+TYPE FL200SK INDICATOR
+
+--- PAGE 10 ---
+Wol vArE oF pARITER) R
+
+71 soor (£ #) 1™
+
+2] cover ( 7 %) |} |—po —
+
+J | poNTER( & Er) | 1 |ALyrunurt PLATE w0
+
+g oAL  (EHBR) | 1 | JHeer rEsv M
+[ P4k TLART AR || J | COVER GLATS (ZamIX) | / GLASS T2 68557
+;";ﬁffémgﬁ‘ga 6| ZERMINAL R F E )| T | 20 |
+(oL AGE®E), 10 v ADTUSTER (R N E—— | |
+CURRENTER)| 5 mA I T 1
+
+TE TCREW (6 ST RERANS) et
+
+770 |
+
+MAIN CONT. CONSOLE
+
+1
+
+TYPE | Fe150 5K
+
+WORK_NG
+
+5 NDICATOR
+éZfC:J).W(Cﬁf REVO. IND
+
+F
+
+BB
+
+1€
+
+--- PAGE 11 ---
+COLOR SCHEME (& & %)
+[GROUND (REEFEE)| WHITE (H ©.)
+LETTERING|AHEAD (i ) BLACKUE &)
+(X % ) [ASTERN (% ¢
+CRADUATION %0 BASE LINE
+(. S UREFD BLACK (F, &
+EL_PATE (EL3m) M85,
+
+SL200K (STRD WING )
+FLZDOSK (W/H FRONT)
+
+MATERIAL (A% ) - SHEET RESIN (&wietie)
+
+TYPE | DI-I150A
+
+Earnie coon 1 oo 1 NDJCATOR DIAL OF
+EZEC’?F/CJ‘HAFT TACHOMETER _
+
+=@ e
+
+DESIGN DEPARTMENT NUNOTANIHAKUYO KEIKIKOGYO CO.LTD.AMAGASAKI FACTORY
+
+--- PAGE 12 ---
+CO0LOR SCREME (%, & )
+GROUND RIETAES, )| WHITE(E &)
+LETTERING|AHEAD (Wi 3B BLACK(®E &)
+(X 5 ) |ASTERN (i& 38) RED GF %)
+GRADUATION . B & |suckox B
+EL PLATE _(E LX) W5 o) |
+
+FE150SK (MAIN CONT CONSOLE
+MATERIAL (¥ ) ~SHEET RESIN (&iasbie] oL 200K (PORT WING )
+TYPE DI-1508B
+
+/NDICATOR DIAL OF
+o EZECTP/C‘\EHAZ-'T TACHOMETER,
+
+a ElgEE] EEaR
+
+e 5oy 979| e | dk2-20343-B
+
+NERIGN NEPARTMENT NIINNTANIHAKLIVO KFIKIKOGYO CO | Th AMAGASAKI FACTORY 12
+
+--- PAGE 13 ---
+a
+
+INVLONON “INSHLI¥V4EQ NOIS.
+
+"OD OHSNIVSISS INIEY
+
+i« B ]
+
+09S0E-INY mZGGI~NﬂF~QEM
+
+€l
+
+BHCSWDLEER)
+
+=g
+
+ZEEE £
+
+#
+YOLVDIANI "OAZY
+
+(
+
+VHS DI¥LD31E
+
+14
+
+¥O4 YSLNNOD NOILNTOASY
+
+_[NAME OF PARTS (£ o5
+
+MATERIAL (1§)
+
+t | FRONT COVER (@ii3/f-) ! | SHEET RASIN
+2 | TSEGMENT DISPLAY (1t7ohx) 8 | COMPLETE
+
+3 | PUSH BUTTON _(#30)| 4
+
+4 | BODY Catp)l 1
+
+5 | PRINTED BOARD (FyvrB)|
+
+6 | COVER (=)t | STEEL
+
+7 | TERMINAL (#F) t | COMPLETE
+
+doHs uom
+
+TYPE RE-S8DR
+Nunotani Keiki Seisakusho
+GouLtd,
+
+140
+
+152 \
+
+BACK VIEW
+
+l@l I
+C1C2C3E) E2EIE4F6 PAY
+
+220
+¢
+4-4,5SET HOLES
+} PANEL CUT
+'
+130 £l
+L 8
+—o—
+_4-M4 140
+TAP gl
+
+--- PAGE 14 ---
+2
+
+NAME PLATE (88
+SUS 404
+
+MATERIAL (#
+
+WEIGHT(E®)
+
+SPARE PARTS BOX OF
+
+DESIGN DEPARTMENT, NUNOTANI
+
+KEIK!
+
+ELECTRIC PROPELLER .SHAFT
+REVOLUTION INDICATOR.
+(REXTOSUOEHFHRKA)
+
+SEISAKUSHO CO. LTD,
+
+--- PAGE 15 ---
+80X N0 P
+SHP NO| SPARE PARTS LIST FOR s £ SEE
+K.H.l | PROPELLER SHAET REVO. “
+INDICATOR. 1
+1456
+QUANTITY REMAR
+ITEM|  NAME OF N T FMAPK‘S
+[ QUILINE mKLNEGR SPRE]|
+No| PaRT | [
+" I
+|, | PROXIMITY = — PRI OMRON
+" switcH EIEHBO 120201 Txes 7
+'La— 1 :
+L2 | cover %—L 1 | 30 SL200K IND. _|
+| oLass =5 1 | FL20OSK IND,
+e T |
+15 | ]
+| | cover P )
+GLASS 111 (1| FE150SK IND. ]
+S |
+" BER K IND
+fa ‘ 103 |1 st0 A
+PACKING | : FL200SK IND. |
+i . T5L ; |
+Bk L1 L1 1| Fe1sosk IND, 4
+! |
+) | I SATO PARTS
+Le| Fuse = 21212 A i
+20 7 F-7142
+s -
+-
+|
+MFR S NAME| NUNOTANI KEIKI SEISAKUSFO €O, LTD. | DRW. NO| 4 K 5-0032]
+
+15
+
+--- PAGE 16 ---
+HET
+
+tossrs. KAWASAK! HEAV'Y INDUSTRIES
+
+gy ELECTRIC PROPELLER SHAFT
+
+B R #
+TEST RECORD
+
+B
+tate: 6 JUN - 1595
+
+B i R R
+NUNGTANI KETKI SEISAKUSHO CO.. LID
+
+JEMHPE R 2 T 63105
+6-10. NISHINAGASU-CHO 2-CHOME AMAGASAK!
+
+ARTICLE REVO, INDICATOR
+0 i Bt 5
+SHIP NO 1456 MANUFACTURED M0. B ¢ 8039
+B R o
+RER S TEST CODE “‘,1?'1",8,5,“’ -
+TEST NO E ¢cG039
+1. ERIEHRE
+Insulation resistance inspection
+& & SL200K FL200SK
+I INDICATOR CINDICATOR |
+# o
+Resistance(MQ2) 100 100
+& & RE-SBAR FET50SK
+ITEM | REVO. COUNTER INDICATOR
+B
+Resistance(HQ) 100 162
+] # i
+ITEN - D
+5 i
+Resistance(Q2)
+& #
+E
+Resistance(M(2)
+2. BRERE 500
+High voltage inspection  (A.C 500 VOLIS. 1 MINUIE)
+R
+good
+3. frEsm
+Operation inspection
+B
+good
+i . :
+EXAMINED BY Lzl
+
+--- PAGE 17 ---
+INSTRUCTION BOOK
+FOR
+BELECTRIC PROPELLER SHAFT
+REVOLUTTON TANDICATORS
+(CONTACTLESS TYPE)
+
+NUNOTANT KEIKI SEISAKUSHO CO.. LTD.
+
+--- PAGE 18 ---
+[1] OUTLINE
+1. Explanation 2. Block diagram ol system
+
+2. Structures
+
+{1 THEORY OF WORKING
+
+[m] CONSTRUCTION
+
+sor Box 2. Contrel box
+
+3. Receiver 4. Dimmer switch
+
+(V] CHARACTERISTICS
+
+of sensor hox
+
+1. Characteristics
+2. Characteristics of control box
+3. Characteristics of receivers
+
+4. General characteristics
+(V] INSTALLATION
+
+1. Sensor box
+
+2. Control box
+
+3. Receivers
+
+[Vi] MAINTENANCE
+
+[VI] TROUBLE SHOOTING
+
+--- PAGE 19 ---
+1
+
+2. Block diagram of sy
+
+[ OUTLINE
+
+Explanation
+The propeller shaft revoltion indicator detects revolution
+of the fly wheel for the main engine by the proximity switch
+
+and produces a revolution voltage signal. This signal is fed
+
+to the revolution meter.
+
+The propeller shaft reveltion in
+electric meter with which the mo
+tion of rotation of the screw shaft of vessel can precisely
+and easily be learned at any distance, and which plavs an
+important part in the protection of the and in the calculation
+of the vessel's speed
+
+icator is a complicaterd
+v velocity and the direc-
+
+tem
+
+This meter is manufactured in accordance with JIS-F-8520 and
+the system of its parls is shown in the following figure.
+
+2 power
+2 ot A
+i Rl o
+i
+i |
+dimmer switch | dimmer switch dimmer switch
+o . | ==
+=1 r—
+erminal box
+i receiver
+
+i control box
+Ac22ov
+
+vy
+
+o rev. counter
+
+s T
+
+pick up
+
+--- PAGE 20 ---
+L
+
+The structures of the set ¢f the Meter are as follows;
+a. sensor box
+b. control box
+¢. receiver
+d. revolution counter
+e. dimmer switch
+f. spare parts box
+11 THEORY OF WORKING
+The followings are features employed in this unit.
+a. The non-contact detector (proximity switch) and the
+turning gear are employed.
+b. Revolution is conducted by counting intervals of the
+deatected pulses.
+Sensor box
+
+The pick-up device consits of the proximity switch and the
+amplifier. The signal lavel detected is enough to drive
+
+the converter at the disiant up to 100m.
+
+e two pick-up
+
+devices are provided with the transmitter; one for measure-
+ment and the other for sensing the reveluting direction.
+
+--- PAGE 21 ---
+™
+
+Contrel box
+
+Signal detected by the pick-up 2 (pu2) is converted into a
+pulse train, which is fed to the interval counter circuit.
+The pick-up (pul) is provided to detect the turning direction
+
+1) power supply circuit
+
+#J, =I8Y¥ -ver-e for IC integrated circuits
++15Y, —15V s eever for F/V converter and operationa
+amplifier
+Sy for revolution output
+PR . rweae + for pick-up circuits
+
+2) ahead:
+It is assymed that pick-ups 1, 2 and the turning grear are
+situated as in Fig. 1.
+
+tern discriminator
+
+PU1 PUZ
+
+__AHEAD Fig. |
+
+When the main engine rotates in an astern dir
+1 becom:
+
+tion, the pick-up
+ON with the pick-up 2 on. For revelution in an ahead
+direction, when the pick-up 2 is turned on, the pick-up 1 has
+been already turned off Thus, the revolution direction is dis-
+criminated. Operation of this circuit is given in detail as
+follows.
+
+--- PAGE 22 ---
+The pick up signal “PUl” and “PU2” indicator LEDS go on anc
+off when the pulse signals from PUL and PU2 pickups (proxmi-
+ty switches) where are installed at engine side are supplied
+to terminals I1-IE and [2-IE
+
+The pick up signal “1/2” and "1/236" indicator LEDS go on
+
+and off each 1 time per 2 and 236 input pulse signals.
+
+Note: It is only possible to see at engine revolution
+by turning motcr. It seems to light continuously
+for fuel running.
+
+Test Switch
+
+It is possible to do selfcheck without input pulse signal
+from pickups, as quarts osci!lator (fixed frequency 50, 100
+or 200Hz) is built in the control box
+
+When test switch is shifted to "AHEAD" position, ocutput
+voltage is +(plus) value in proportion to quartz frequency.
+When “ASTERN” position, cutput voltage is -(minus) value.
+Test Switch is to be set to “NORMAL" position during engine
+
+running.
+
+Pulse Signal
+The frequency of ouput pulse signal from control hox is same
+as output of pickup.
+
+Number of teeth : ( 64 ) pulse/l revo
+
+--- PAGE 23 ---
+PRINTED CARD
+PICK-UP SiG. 1256
+
+/ —-00.— V2
+P 3
+
+AHEAD. = -] NoRMAL
+TEST SW. "’/[ ~
+
+o~
+
+j AN |
+ASTERN. \\ et
+><
+N %
+(PU2) @i \
+PR PSE | oF . p
+oo 128 /
+
+(PUT)
+
+--- PAGE 24 ---
+LU RS rcB (FV-111 TAG-A)
+et
+- st proutmTy o v &
+[ Fuse S wONOST AR in vr e
+a7t - o HOLTEATR e GAiN A0,
+G R ey P S I ¢ Wy |
+e B teve it \ | F"W
+W/ COUPLER
+£ - -
+= N o
+I — ] wmeurr 0Pk oureuT sie.
+— - | e -] ol
+rucse sie, 1 01| ) L S s e
+- L= i 05757 w578 1es | 0N AR
+(84 runissirey, - = 62— | Re sa Lo
+oA | anue < |
+| = (- - { | -
+i | | e
+I | b O [ o SR ) Pes
+i A resT swilon | o) T
+| ‘ LIT T Jrssrsmler oo poad—foa
+
+ON a1 AND a7
+b AsT: 400
+937
+
+T
+
+i
+POWE R -
+
+L
+. CONTROI
+
+--- PAGE 25 ---
+L.
+
+II CONSTRUCTION
+
+Sensor box
+Splashproof, iastalled in the engine room.
+Set pick-up in terminal box
+Set pick-up in supporter
+Supporter ---+-+ engine maker supply
+
+Control box
+Splashp
+
+, installed in the control room console.
+
+Body steel (SS41p)
+Printed board ~------ F/V converter
+Receiver
+
+The case is perfectly water proffed. The terminal box is
+set at the bottor and electroluminescence are used for
+lighting. By removing the front glass, the pointing arrow
+can easily be placed at zero.
+
+The receivér is of moving coil style. [t has the magnetic
+poles of permanent magnet, a series resistance, coil, spring
+and moving coil supported by sapphire holder
+
+Its calibration makes on the dial extent about 125" to the
+left ( “ASTERN” side) and the same to right ( “AHEAD" side).
+The dial plate, both for steering room and for engine room.
+is white and has black letters on the “AHEAD" side and red
+ones on the “ASTERN" side
+
+Dimmer switch
+
+This is a rheostat, regulating the brightness of bulbs which
+illuminate the dial. [t is contained in & drip proof case
+or in receiver, and is operated by turning the outside knoh.
+This rheostai serves aslo as a switch of cutting the electric
+power. The resistance value of this light regulator should
+differ corresponding to the elctric power of the vessel
+
+--- PAGE 26 ---
+IV CHARACTERISTICS
+
+1. Sensor box
+2 ggmlERI2n24m
+a) Gap between pick-up and turning gear ----+ 3 mm-TLXPS
+5 SLYPEO
+
+b) Turn the pick-up to eleck wise or cew till the L.E.D.
+in terminal box is light and tighten it.
+
+2. Control box
+a) output signal
+
+revolution output «+«-+ - 10V to +10V, less than 60 mA.
+
+3. Receiver
+
+a) Terminal voltage at the full scale +---- 10 ¥.
+b) Working current at the full scale «---- 5 mA.
+c) loner resistance ~ eere 2,000 ohm
+
+d) Average graduation,
+The graduation is the same on the “AHED” side and the
+“ASTERN” side. The number cf rotation at the gratest
+
+and at the smallest graduaticn is following.
+
+At the greatest graduauqn
+rew o) 200 250
+
+At the greatest graduation
+red 20 @ 2 S
+
+[
+
+The mode of graduation
+
+There are three kinds of the greatest graduation as shown
+in (d), and the direction of rotation is shown progressing
+on the right side facing the Receiver, and in the case of
+double shaft the left and the right are symmetrically for
+the starboard and the port,
+
+--- PAGE 27 ---
+f) Voltage for lighting bulbs (Average).
+100, 110, 115V, (220%)
+
+4. General chara
+a) Error of
+*0
+
+istics
+
+ceiver at the temparature of 20° C is less than
+5% of the sum of the graduation on the left and the right
+side.
+
+V. INSTALLATION
+
+The control box mainly comprises the sophisticated electronic
+paris, so careful examination of the connections before power-
+ing is indispensable.
+
+1. Sensor box '
+
+Piecase fix the gap between pick up and fly wheel to ( “A" ) mm
+at following sketch by useing thickness gauge etc.
+Check after connection and installation that the L7E
+
+.D. in sensor
+box is lit (on/off) by feed the eleciric source and turn the tur
+nning gear by motor
+
+(NOT If wiring is miss coanection, pick up is damaged.)
+
+After fixed the sensor box, when re-adjustment of gap is nece—
+ssary, loosen the not of pick up and set the position of pick up
+to chock wise or ccw scparately
+
+Proximity switch
+
+--- PAGE 28 ---
+2
+
+5
+
+Installation of a control box
+
+Control box should be located at the place where vibration
+is the least, the humidity is the lowest possible and the
+surronnding tenperature does not change very much and where
+
+the examination, cleaning and repair are convenient. It is
+of course, necessary tc be careful Lo splash water or oil
+upon it,
+
+Receiver
+Receivers are usually installed in the whe
+
+house, the engine
+
+roon of the chief engineer's rocm. Consid peculiar
+
+ided in
+
+ing
+on should be a
+
+and vibrati
+
+comnpos
+choosing the place where for the receiver to be installed
+
+ion, daapn
+
+If the place for instrallment is not on the same level as
+
+rec r, distortion will be™ {after its installment
+cllor or even disablement engendered or fissure may be pro-
+duced.  Its installmest should be done vertically, so that the
+top of the pointing arrow can be made right upward, of if
+impossible owing to unaveidable circumstances, should be done
+an angle of 10° at least, right or left and hefore or
+
+behind.
+
+As receiver is particularly delicate to a shock, special care
+should be taken of seiting end rewoving it, and careful ex-
+amination taken, after setting of removing, about the lid of
+terminal and the putty cramming of gland nuts and the loosing
+
+if any, of screws, in order to keep dust o damp from stealing
+
+in.
+
+—10-
+
+--- PAGE 29 ---
+VI MAINTENANCE
+
+The tachometer is disigned to detect and indicate
+wirning speed and total revolution number of the shaft.
+A pick up installed on a turaing gear of main engine
+to detect the frequency of crossing of the teeth of turning
+gear. The frequency detected by the pick up is converted
+to an electric signal through a semiconductor circuit to
+indicate the turning d. The system therefore contains
+neither the pa rically operated nor electrical con-
+tacts, thus no particular maintenance is necessary.
+However, being exposed to continuos vibration, the pick up
+should be exmined in its terminal screws which may become
+irsl examination should be perfomed a week after
+
+N
+
+5 I
+
+Loos The
+since the system has first been installed.
+
+Next is to be a month after then once a half year cr year
+
+accordiiig to the circums
+
+TROUBLE SHOOT ING
+
+If a trouble should occur in all receivers during operation
+of the main ecngine (several recivers are installed in ship),
+the cause is probably in the sensor box. proximity switch, or
+control box of contactless shaft revolution indicator.
+
+If different troubles occur in receivers, the cause is in the
+specific receiver.
+
+Therefore, when a Lrouble takes place, first
+it is a common trouble or an individual one, and then check
+the frnllowing paints.
+
+eck whether
+
+wetlf o ==
+
+--- PAGE 30 ---
+T
+
+Trouble
+
+Check
+
+Remedy
+
+The revolution indicator
+
+receiver does not show
+anything during opera-
+tion.
+
+a. Check if AC220V is supplied between
+external terminals U and V, -BR—BE—24¥—
+batwasntand¥-in the control box of
+contactless shaft revolution indicater
+
+(abbr. control box).
+
+o
+
+No >
+Yes
+
+b. Check if DC 24V is supplied between |
+control bex terminals 124, T E, |
+No -
+
+Yes
+[
+
+C. Check if signal from proximity switch
+is normally fed into the control box.
+Connect tester between terminals I}
+and IE, and 12 and IE in contrel box,
+and check if voltage pulses are turned
+on and of!l.
+
+No -
+Yes
+d. Check if outputl voltage is detectled
+between control box terminals I0P, TON.
+
+No -
+Yes
++
+e. Check if wire is connected correctly to
+the revolution indicalor réceiver.
+No -
+
+Yes
+
+a. 1f not suplied,
+power,
+
+Teed specified
+
+b. The voltage stabiliz |
+of F/V converter carc. ‘
+|
+
+efective. Ask the maker
+repair.
+
+e helween
+and fly-
+[f signals are not
+generated after deu. wment,
+replace with a spare proximity |
+switch. i
+
+d. The circ
+
+L the clearanc
+the proximity swit
+wheel, [f
+
+uit in the F/V conver—
+
+ter circuit card is bably
+defective. Ask the maker for |
+service.
+
+e. Connect correctly, and check |
+again, i
+Ask the u
+
+--- PAGE 31 ---
+—g1-
+
+Check
+
+Remedy
+
+A same error ¢
+trouble occu
+volution indi
+
+aosimi
+in all re-
+cator recei-
+
+vers during opeation of
+main engine.
+
+Check if all proxinity switches detect—
+ing the engine rmp by teeth of [lywheel
+are operating normally.
+
+Proxim switch for revelution
+indicator PUL, 2
+
+When these proximity switches detect
+the teeth, check if the LED lights up.
+
+No - i L
+
+Yes
+4
+Check if a voltage corresponding to
+the revolution speed is generated at
+control box terminals 10P, TON.
+
+No -
+
+£0 to 10V = £0 to revoluti
+indicator
+full le rpm
+
+&
+
+Yess
+
+|
+
+Adjust the clearance between
+
+proximity switch and flywheal,
+1t the LED of switch does not
+light after adustment, replace |
+with a sp one.
+
+in F/V
+
+n control
+
+converter card box. |
+
+VR, AHD.
+VR. AST.
+
+|
+
+i
+Adjust correctly by using |
+screwdriver.
+
+Adjustable about £0.5V
+
+Ask the maker. ‘
+
+--- PAGE 32 ---
+it
+
+Trouble
+
+Check
+
+Remedy
+
+The revolution indicator
+receiver is different
+from the rotating direc-
+tion of the main engine
+during operation of main
+engine.
+
+. Check if the wiring is reverse between
+
+PUL and PUZ in the senscr box.
+
+Proximity switch
+
+TLXPS IFR. 12, 24. 11
+PUI Red - 124 - Brown
+White - 11 - Black
+Black - 1 E - Blue
+PUZ  Red - 124 - Brown
+White -1 1 - Black
+Black = 1 &= Blus
+
+Make sure the connection is as shown
+above. Check also the external wiring
+for wrong connection.
+
+No - | h. Connect correctly.
+
+Yes
+¥
+
+i. One of the two proximity switches(PUl or
+
+PU2) is not detecting flywheel teelth.
+Yes -
+No
+i
+
+j. Check if wire is connected correttly
+
+box.
+
+10P Normally, receiver to '+ terminals
+
+|
+|
+|
+from the output voltage of the control ‘
+|
+I0N/Normally, receiver to - terminals |
+
+No -
+Yes
+
+i
+
+Adjust the clearance between
+the failing switch and fly-
+wheel. if not working normally
+
+after adjustment,
+a spare switch.
+
+Connect correctly
+
+Ask the maker.
+
+replace with
+
+|
+
+--- PAGE 33 ---
+Remedy
+
+e revolu= |
+
+fers in each cne e 1
+with the |
+
+volution indicator |
+| receivers during opere-
+tion of main engine. |
+
+for the receiver showing |
+| | or, adjusi to the normal |
+
+| rpn value by using the varia- i
+ble resistor provided in the i
+
+|
+
+|
+
+receiver to cancel the dif
+fwnpce between the main
+i | engine
+
+| When wmain engine stops i ,5 designed 1o indics
+i
+i
+
+81~
+
+| t cal at DC 10V, ch
+| 1 the B wmmalx, i
+[ | dummy vo! £0 to 10V DO, |
+Il 4 i
+P ; Ne o | L AJJH&‘. with the variable re- |
+ol i { or Lo normal rom so that |
+Pt | may funciion por- |
+i {
+| |
+| |
+-
+i i
+| 1 |
+o Yos | v‘
+; i : e | Ask the maker.
+| | !
+
+--- PAGE 34 ---
+iﬁ*****k*****************kxt):
++ ELECTRIC REVOLUTION COUNTER »
++ TVPE  “RE-SSAR” “RE-SSDR’ X
+£ “RE-S8A"  “RE-SSD” &
+* *
+* INSTRUCTION MANUAL :
+
+NUNOTANT KEIKI SEISAKUSHO C0., LID.
+
+--- PAGE 35 ---
+Instruction Manual of Electric Revolution Counter
+
+Table of Contents
+
+i, el e e s st s 1
+2. Type & Composition «e=erseeeer NS— o
+2-1. Type
+
+2-2. Composition
+
+3. Description of Operation --:---crereece-- 3
+3-1. Operation
+
+3-2. Connection
+
+4. Method of Use
+
+4-1, Front panel
+4-2. Push button switch
+4-3. Measureent of average speed (RE-S8AR & RE-S8DR Only)
+
+5. Setting
+5-1. Outline & Connection diagram.
+5-2. Setting of Dip switch 1
+5-3. Setting of Dip switch 2
+
+8. General Specifications  ss» =evevss swswus 16
+
+7. Troubleshooting Hints  +ecevrvevecenennes 17
+
+--- PAGE 36 ---
+1. General
+
+The electric revolution counter is a device to electrically indicate
+
+the number of revoltions of the propeller shaft of main engine, and
+
+is designed to read the revolutions at an arbitrary position remote
+
+from the propeller shaft or main engine. The features to this coun-
+
+ter include the Tollowing.
+
+[$¥]
+(@)
+
+)
+)
+
+@]
+
+The revolutinn is indicated in & digits (7-segment LED display).
+The signal from the transmitter is divided down by an arbitrary
+puise signal in the counter.
+
+The unit operates on DC24V, AC100 to 115V, power source.
+
+The electronic circuit is composed of C MOC IC, and the power
+consumption is small and the reliability is enhanced.
+
+The counter display can be casily adjusted by the switch on Lhe
+front panel.
+
+Since the count is held by the memory IC in case of power f{li‘lll‘
+re, the interrupted count is displayed when the power is reco-
+vcr(‘)d, regardless of the duration of power failure.
+
+Depending on the revolution of the propeller shaft or main en-
+gine, no-voltage contact pulse signals can be supplied in two
+contacts, and any one of 1 pulse/l revolution, 1 pulse/10 re-
+
+volutios, and 1 pulse/100 revolution modes can be selected.
+
+--- PAGE 37 ---
+2. Type (RE-SBAR, RE-S8DR, RE-S8A, RE-S8D) and composition
+2-1. Type
+This counter is available in fore types.
+RE-S8A type: AC100 to 115V | without measuring the average
+RE-S8D type: DC24V speed of revolution.
+
+RE-S8A type: AC100 to 115V | without measuring the average
+RE-S8D type: DC24V speed of revolution.
+
+2-2. Composition
+This revolution counter is composed of the following three
+parts,
+© Display board
+o CPU board
+
+© Constant voltage board -
+
+--- PAGE 38 ---
+3. Description of operation
+
+The operation is described by referring to the following block
+
+| PSR .. L
+
+voltage stablilzer
+
+diagram.
+: L - . Front panel, |
+| j | Teseamen LEY L operation switches i
+i - i
+H i RS O ——— - &
+| Control board J
+i (CPU board) |
+" = 1
+% |
+- switch 1
+No-voltage contact. - o ‘
+pulse signal |
+‘ L 8-bit !
+| } DIP switch i
+. Revolution slgnal crPu |
+el pulse S — }
+o —— ROM H
+El o (progran) |
+g ! | - |
+8 i | i
+|
+i — i
+! | i
+i i
+i
+|
+
+[ - i
+! i — Pawer fallure |
+power supply | derection ;
+section | circuit |
+t |
+
+i
+
+AC100V ~ 115V OR DC24V
+
+--- PAGE 39 ---
+3-1.
+
+3-2.
+
+o
+
+Operation
+
+This revolution counter is set to zero before shipping, and
+when the power is turned on, “0" will be displayed.
+
+As the engine is put in opration, the counter counts up one by
+one at every revolution. At the same time, external output
+signals (F1 to E4) are delivered m;r'm'ding to the setting of
+DIP switch. The maximum reading is “99998999” , which then
+goes back to zero.
+
+If the power supply of the counter is cut off due to accident
+or other reason, the count of revoltions immediately before
+failure is stored in the memory element, and when the power is
+
+recovered, the counting is resumed [rom the iatrrupted moment.
+
+Connection
+
+Connect the external input, output signals.and the power scurce
+as follows. (Connect to the terminal board at the back of the
+unit.)
+
+Connect revolution pulse signal between Cl (=) and (2.
+Terminal €3 is for +12V DC 200mA voltage output.
+
+Il to 4 are output terminals of no-voltage contact pulse sig-
+nals. A same pulsc is delivered between El and [2, and bet-
+ween E3 and E4.  Use at the load of 24V cr less and 0.1 A or
+less.  Where other than resistance load is applied, insert a
+protective circuit at the load side.
+
+Terninal FG is for frame ground, which should be connected to
+the hull, that is, the mounting console of this counter.
+Terminal U and V are for connecting the ACI00 to 115V power
+
+source (RE-S8AR type RE-S84 only).
+
+—q-
+
+--- PAGE 40 ---
+o Terminals P and N are for conneeting the DC24V power source.
+Terminal P is positive and N is negative.
+
+Do not conneet in wrong polarity. (RE-S8DR, RE-S8D type only).
+
+4. Method of use
+Install the unit and connect the wires correctly, and then supply
+the power source of AC 100 to UéV or DC24V.
+Lvery time the propeller shaft (or main engine) makes one revolu-
+tion, the meter counts up and carries sequentially.
+
+No particular adjustment is necessary before start of operation.
+
+--- PAGE 41 ---
+4-1. Front panel
+(Type: RE-S8AR. RE-S8DR )
+
+- e —
+REVOLUTION COUNTER C\ -
+r -
+AVERAGE [ B
+M OE o S Ofswer |
+TYPE  RE-S8AR }()i““”
+Nunotani Keiki Seisakusho Co. Lid el
+Front panel
+(Type: RE-S8A. RE-S8D )
+REVOLUTION COUNTER [
+| ING
+1O
+[(O)lsmrr
+- ||
+TYPE  RE SBA L() RESET |
+Nunotani Keiki Seisakushe Ltd e
+
+4-2. Push button switch
+The following buttons are provided on the front panel.
+
+INC. --- Every time the button is pressed, the display ~
+of the smallest digit (the rightmost digit) is
+increased by 1 each,
+
+SHIFT --- The display of 8 digits is shifted to the left
+by one digit when this button is pressed once.
+
+12345678 Lo 23456788: 1002 to 10022
+
+RESET -+ When the button is pressed, the display is reset to
+zero,
+
+* Do not push INC., SHIFT or RESET button while counting.
+
+--- PAGE 42 ---
+ABERAGE RPN: Used when measuring the average speed of revolu-
+tion. See below for details.
+
+Examples of starting from an arbitrary count arc given below.
+
+Example 1. To start from “10000"
+
+1. Press RESET button to return to “0.”
+
+Press INC. button once to make “1.
+
+Press SHIFT button once to make “11.
+
+I
+
+Press INC. button nine times to return the first digit to
+
+“0" so that the display is “10."
+
+5. Press SHIFT button three times to make “10000."
+
+Example 2. To start from “123”
+
+1. Press RESET button to return to “0."
+
+2. Press INC. button to make “1" and then push SHIFT button
+once to make “11."
+
+3. Press INC. button once tc make “12.”
+
+4. Press SHIFT button once to make “122."
+
+5. Press INC. button once to make “123."
+
+Measurement of average speed of revolution (Type: RE-S8AR,
+RE-S8DR only. )
+
+This counter can measure the average speed of revolution in
+
+I to 5 minutes without affecting the total counting of the num-
+ber of revolutions. This measuring method is explained below.
+When tha AVERAGE RPM button is pressed while the engine is run-
+ning, the display flickers at “00000000” to tell that the measu-
+rement has begun. In this state, the measurement cannot be sto-
+
+pped for at léast for a minute.
+
+--- PAGE 43 ---
+When one minute has passed, the flickering display changes to
+“11111111" and it changes to "222222" and “"33333333” and so
+forth at every minute. That is, the flickering numeral indi-
+cates the lapse of time from start. For instance, the flicker-
+ing “33333333" means threc minutes have passed from the start.
+The maximum measuring duration is b minutes, and Lhe measurement
+is stopped automatically, and the average spead of revolution in
+the past five minutes is displayed for 30 seconds, and then the
+display returns to the original revolution counting. When the
+AVERAGE RPM button is pressed while the average specd is being
+displayed, the display returns to the revolution counting.
+
+When the AVERAGE RPM button is pressed while the display is
+flickering with numeral 1 to 4, the measurement stops, and the
+average speed al that time is displayed for 30 seconds, then
+the display returns to the original revalution counting.
+
+_ Similarly, when the AVERAGE RPM button is pressed during the
+speed display, it returns to the revoution counting.
+
+The average speed is displayed to the first decimal by rounding
+off the second decimal: for example, 1213.4 (rpm).
+
+If revolution signals are supplied only for 10 seconds during
+measurement, it is stopped, and the display returns to the ori-
+ginal revolution counting.
+
+If AVERAGE RPM button is pressed while the engine is stopped,
+“00000000” is displayed for 10 seconds, and the display returns
+to the revolution counting.
+
+When Lhe average speed is measured while the revolution is slow,
+being below 30 rpm, it may Lake a slightly longer time until
+the speed is displayed after the measuremnt is stopped.
+
+(For example, at 20 rpm, the maximum Lime is 3 seconds.)
+
+—8-
+
+--- PAGE 44 ---
+5. Setting
+Since the DIP switch 1 or 2 has been adjusted to the specification
+
+of the ship, it is not neccssary to set particularly on the ship.
+
+5-1. Outline & conection diagran.
+
+POWER_UNIT
+
+NOISE_FILTER
+
+TERMINAL
+
+_DISPLAY_BOARD __
+
+--- PAGE 45 ---
+-RE-SBAR type (547)
+
+- %
+
+| DISPLAY BOARD (ONG5D)
+
+1
+e
+[N
+
+TSEGMENT
+
+oo ﬂ:] Il
+
+O\\Ol NG SW,
+
+! — 71 00 CLR SW,
+— T }‘ B 7‘ro‘o'!-2v"m SW.
+
+!'| cPU BOARD (ONG4D)
+
+—setfeled e Lol
+|
+
+DIP sW1
+I
+
+Min
+
+1PULSE/ 1 [oForH
+1/10REV, [0 MoFg
+
+0
+1/100REY,, Ol"a(l
+
+CAPACITY
+2AV10 mp
+
+c|C E|E|E|E|F
+N L LI Ak elalﬁjc Uvi,
+PULSE SIGNAL ( PULSE/IREVO)
+*1 COUNT ) "
+COUNTER RATIO~——
+Mo=%0isec
+’_‘POWER AC VSO/GUI[Z\\A
+
+--- PAGE 46 ---
+RE-S8DR tvpe (?-{7_)
+
+DISPLAY BOARQ (ON95D)
+
+ING 8w, i
+
+SHIFT SW,
+
+GLR SW,.-{
+
+GPU F]D/\
+
+DIP SW1
+T
+
+2
+
+oFH
+
+PULSE/ 1 [orror
+1/10REV. 0N
+(17100REY, [oro
+
+UNIT
+{ONg4) &
+i-ADD- Acl
+
+: POWER[ P
+
+'l noisy |
+FILTER
+
+!
+[
+I
+
+S
+
+PULSE SIGNAL ( PULSE/IREVO) L >
+
+LTI
+GOUNT
+COUNTE T T E
+B RATIO- ST se(
+
+POWER DG24V
+
+=YY=
+
+--- PAGE 47 ---
+RE~S8A_ type _(_5’{7)7
+
+DISPLAY BOARD (ONQ5D)
+
+TSEGMENT
+
+—
+
+00
+o (»1
+|
+
+|
+~O1GLR 8w, |
+
+ING sw, I
+
+SHIFT SW,
+
+! o RPM sw,
+!
+| 615515 41sals? s;fc G st Lo, it
+GPU BOARD (ON94D) = _?‘0.\‘0\:‘] DIP SW2 %1 | i
+DIP SW1 b 5 \o:iij 2| 4]8]i6[32[s4)28] |
+1 r 2~y 1BE
+‘ &) 100! 1]2[3]4]5]e[7]8|
+il ol |
+! apu [— ROM
+—- RAM
+[1POLSE/1 m{n?ﬁ o
+i 1/10REV.[ON{cF; CAPACIT
+| 1/100REV, [0Fro — 2410007
+H b ey oo 8V
+
+Clc[o[efe[elelFT T
+iy SR R e . 1j2f3l1]|2]|3]4le B
+PULSE SIGNAL ¢ PULSE/Hmvo;g L *
+1 4 —
+GOUNT 1
+GOUN 000 .
+DUNTER RATIO~-pErcr -
+
+~POWER AG  V50,/60HZ14
+
+.l -
+
+--- PAGE 48 ---
+RE ~ SBD type (947) -
+
+| Dl‘SPL;\Y BOARD ('ONQSD) 7SEGMENT !
+
+) | 1 NG 8w,
+RTaTra pe p T A
+Ly Lj LI D L Ly lo- ku R SW. iv
+G RPM SW, “
+
+CSPU BOARD
+
+| DIP SWI
+
+cPU
+
+1PULSE/| |OFFIOFF| -
+1/10REV, O NGFe]
+1/100ReY, [oFElo (-
+
+NOISE
+FILTER
+
+D VINOSSG24 1A |
+| 3h TS 3
+!E fc[eE[ETETFT, [
+L Y ,1L231234(;_VJ
+“ SIGNAL (  PULSE/IREVO) L A
+o GOUNT 1
+GOUNTER RATIO= 5 cory
+
+POWER DG24V
+>
+
+] B
+
+--- PAGE 49 ---
+2) As the output, a same pulse is delivered between EL and 12,
+and between E3 and Ed4, and the pulse ON time (the contact clo—
+
+sed time) is fixed at 200 msec.
+
+Therefore, if the specd exceeds 250rpm, the external output
+pulse must be set at 1/30 or 1/100.
+
+3) When external outputl is not used, set at 1/100.
+
+5-3. Setting of DIP swiich 2
+
+The number of teeth of turning gear is set by DIP
+
+switch 2. change the setting by turning off the power
+
+source.
+
+o Setting of the number of teeth of (ur;zing gear
+
+1) The number of teeth par revolution is set by the
+8-bit DIP switch (SK2).
+
+2) This is set in binary system, and positions 1 Lo 8 of the
+DIP switch correspond to the decimal notation as fo!lows.
+I:1, 202, 8: 4, 4: B, B« 18, 8: 32, V: 64, 8: 128
+
+3) The number of test caa be set from | to 255. When set at
+zero (turning off all from positions 1 to 8) and the power
+source is turned on, the display [lickers at “PPPPPPPP” and
+
+this counter does not operate.
+
+--- PAGE 50 ---
+4) The tooth number setting method is explained below by referr-
+ing to certain examples
+To set 64 teeth: Turn on position 7 only (64).
+To set 96 tecth: Turn on position 6 and 7
+
+(32 + 64 = 96).
+
+To set 100 teeth: Turn on positions 3, 6, and 7
+
+(4 + 32 + 64 = 100). a®
+
+To set 135 teeth: Turn on positions 1, 2, 3, and 8
+
+(1 %2 + 4+ 128 = 1356).
+
+5) When changing the setting of the number of te
+
+th, turn off
+the power source. It must be noted that the previous setting
+is not changed of the DIP switch is operated while the power
+
+is being turned on.
+
+6. General specifications
+
+1) Indicator
+
+Green lamp display by 7-segment 1
+Max. display: 99399999
+2) Microcomputer
+CPU: 1D6803 8-bit CPU
+RAM capacity: 128 bytes
+ROM capacity: 4 kilobytes
+3) Power source
+RE-S8AR: AC 100 to 115V +10%, 50/60 liz
+RE-S8DRx DC 24V 4:10%
+4) Power consumption
+RE-S8AR: 5.8 W max.
+RE-S8DR: 10 W max.
+
+16—
+
+--- PAGE 51 ---
+5) Max. countable frequency of revolution pulse signal
+In the case of proximity switch (without chattering): 2 Kz
+In the case of microswitch (with chattlering): 20 liz
+6) Date menory method (in case of power failure)
+By memory IC.
+7) Setting of the number of teeth
+Binary set methold by 8-bit DIP switch (1 to 258).
+8) External output.
+No-voltage contact pulse signal of two circuits
+ON time: [ixed at 200 msec
+Contact capacity: 24V, 0.1A (resistance load)
+1/1, 1/10, 1/100 outputs pessible (selected by DIP switch).
+9) Average speed
+
+S minmites is indi
+
+The average speed of revolution for 1 to
+cated for 30 seconds at maximum.
+Precision: £0.05 rpm.
+
+% Specifications are subject to change without notice.
+
+7. Troubleshooting hints
+When a trouble occurs, check the following items. 17 the normal
+state is not restored, report the description of abnormality and
+result of checking to our service scction.
+1) Check the input and output terminals for looseness.
+2) Check if the supply voltage is normal,
+3) Make sure the DIP switches (SK, SW2) are set correctly.
+
+4) Check the functions of INC., SHIFT, RESET, AVERAGE RPN buttons.
+
+s
+
+--- PAGE 52 ---
+5) Measurc the voltage between terminals CI (=) and C3 (+)
+
+on the terminal board, and make sure it is about 12V.
+
+Typical examples are explained below.
+
+Example 1: The counting is not increascd.
+Disconnect the external wires from input terminals Cl and
+€2, and short circuit between Cl and (2, and check if the
+counter counts up. If counting up, it means revolution pulse
+signal is not fed from the transmitter--check the Lransmitter
+side. If not counting up, the counter itself seems defective
+—--call for service.
+
+Example 2: The counting is not correct.
+1) Check if the DIP switch (SW2) is sel correctly.
+2) To check if specified pulse is nol coming from the trans—
+
+mitter, try to replace the proximity switch with a sparc
+
+one. M
+
+Example 3: The decimal point is shown in the first digit.
+It means the supply voltage is low. Check the voltage.
+Example 4: Nothing is displayed.
+If nothing is displayed when the switch is pressed.
+
+the counter is defective. Call for service.
+
+=18 =
+
+--- PAGE 53 ---
+o Test mode
+
+If
+
+any abnormlity occurs, it can be judged approximately
+
+whether the trouble is duc to the defect of the counter itself
+
+or
+9%
+1]
+
+2)
+
+3
+
+4)
+
+not by setting in the tesi mode. An example of test mode in
+teeth is shown below.
+
+Turn off the power source, and turn on positions 2 and 3 of
+DIP switch SWI.
+
+Turn on the power. Then the display of section A is coun-
+ted up from o to 96 (as set by SW2) one by one. and returns
+to 0 after 96. At the same time, +1 is added to the display
+of section B, which goes up to “09998" and relurns to zero.
+To check the operation, it is normal when the display of
+section A is counted up to the number of tecth set by SW2
+and +1 is counted up ir display B at the same time.
+
+In test mode, external output signal is not delivered.
+
+(* gV ———
+
+s1@=
+
+--- PAGE 54 ---
+o Error display
+When any one of the foliowing errcr displays appears upon
+turning on the power, remedy as specifidid.
+
+In this case, the computer is stopped
+1) Flickering of “EEl
+
+It means the program (the data in the ROM) is
+
+broken by some cause.
+
+Remedy: 1f the same phenomenon appears when the
+power is turned on again, the counter is
+unusable. Call our service scction.
+
+2) Flickering of “LLLLLLLL"
+
+It signifies an error in testing of memory IC.
+
+Remedy: If the same phenomenon appears when the
+power is turned on again, the counter is
+unusable. Call our service section
+
+3) Flickering of “PPFPPPPP”
+
+It means the number of teeth is set at zero. -
+
+Remedy: Turn off the power switch, and set the
+number of teeth of turning gear correctly
+
+by using DIP switch (SW2).
+
+-20-

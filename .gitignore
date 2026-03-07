@@ -1,0 +1,12 @@
+keys.txt
+config.py
+.env
+*.env
+__pycache__/
+*.pyc
+ml_env/
+jarvis_logs/
+jarvis_session.json
+memory.json
+file_cache.json
+*.log

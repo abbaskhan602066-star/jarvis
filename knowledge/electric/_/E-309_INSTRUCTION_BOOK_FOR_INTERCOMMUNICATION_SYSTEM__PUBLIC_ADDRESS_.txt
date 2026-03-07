@@ -1,0 +1,2372 @@
+FILE: E-309 INSTRUCTION BOOK FOR INTERCOMMUNICATION SYSTEM (PUBLIC ADDRESS).pdf
+FOLDER: .
+DATE: 2026-03-06 21:07:15.043193
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+INTERCOMMUNICATION SYSTEM
+
+LPhis teehnical document is the property of i
+Kawasaki Heavy Industries, Ltd. (IX111) and may
+not be copied, nor disclosed to any thivd party
+
+{ withoot KILI's prior written consent
+
+MANAGER ' SCALE - JOBNO.  —
+
+CHIEF
+
+KAWASAK! HEAVY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+AKI HEAVY INDUSTRIES, LTO. SHEETS mCL coven
+
+--- PAGE 2 ---
+Messrs. KAWASAKD HEAVY INDUSTRIES LTD.
+
+SoNo. 45§
+
+MODEI : NVA-JR0AMKITA
+50% PGBLIC ADDRESS SYSTEM
+
+FINISHED DRAWING
+18 Decenber, 1895
+
+Japarn Radio Co, Ltd.
+
+Maritine Conzunfeations Section HI
+Enginsering Departmeat 1
+Mitine Electronics Division
+
+TEL 0420-45-8548
+FAL 0420-45-9957
+
+2TH-3836 checked by ia charge
+
+&)
+
+--- PAGE 3 ---
+v
+
+Messrs, KAWASAKI HEAVY INDUSTRIES CO,LTD. 5 No, 1456
+
+FORMATIO
+
+OF PER-SET
+
+No.B-6 171
+
+AFPELLATION WODEL RATING COLOR REMARKS
+| ABBRaSsee  [WVA-ISOSMKEA|QUTPUT _ 5 0 WG EARe of w/ H
+HCE-B000A " BRIDGE
+2 | CONTROLLER  [NCE-B000B " 5/ OFFICE 1
+NCE- - —
+3| SPEAKER GK-2124 7.5BG7/2 ]
+| TURN TABLE _|GK-47C " 1.
+w4918 | 50W 300 =
+- [nis-4704 30W 50G .
+" [tvs-414B 15% 10Ca "
+NVS-435D 2w 6008 i
+WATER TIGHT (NVS-453A (oW 1539 L
+41 cppaker Al10W _ 16CQ "
+Ws-400 [B[LOW 1500 "
+[c]Tow 1500 "
+NVS-440A 10w 1500 "
+[NV3-4358 5W 3000 . G=2000he] 4
+NYS-405 5% 3000 | Z¥Suparn FLUSH TYPE 1
+CABIN & [WS~410 W 6004 " ONE SIGE TYPE | =
+5| paAssAGH Wig-415 oW 6000 " BOTH SIDE TVPE | o
+SPEAKER V5 ~420 oW 6000 " FLUSH TYPE 7
+WYS-405 2% 6000 - R
+A[HAND TYPE » CURL CORD 304 )
+wr-pqq  (BIHAND TYPE " L=5n
+6 | MICROPHONE C|HAND TYPE " L=10m
+D] HAND TYPR " L=15m
+NVT-40 | FLEXIBLE TVOE K
+NGE-IS0AC__ | G=20¢ R O RAE O nox
+ME-180AC | 6=200 - o ficion pox
+7 | VATER TIGHT |NGE-180AZ _ | G=13b, 20c " [
+IOINT BOX  [NGE-180A) | G=25b " WG ESE o |
+MGE 95014 G=13h, 10N [ JUNCTION BOX | 1
+- NGE-{ 00A . R oo
+8 | CONNECTOR  [NGE-108D R ESRREBroR Ao
+. {02667 |L=3n " e
+g | MICROPHONE 88500 M .
+HOOK BP-50F - I
+i
+THE OTHERS
+SPARE PARTS
+
+--- PAGE 4 ---
+No,B-6 171
+
+(SP10)
+
+.| ONIIOOW THOL|
+
+LNOD 440/9
+
+i
+|
+T
+
+T TNOW
+ANOD HAM
+
+Mz
+ASNOH T3TH,
+
+[spq
+
+Q[0
+O | OF
+
+Q| C*
+
+Q
+Ox
+[oNe)
+
+WZ
+WY INOD DN
+[ZXMSTLTxMZ
+SSvd B Qv
+
+(355 tsp7 1
+
+— e
+A3
+
+Ca| Ozl Cdf
+
+|
+NOLLYLS 214
+
+EslZ MZ
+
+"AHYH AQd]
+Wl T ARG
+YT DNIMIALS|
+IS T RO
+INIOOW LY
+
+o}
+On_Owl O Ol O
+
+SHcENN Rel o)
+Cal Ox] O O
+Osl T4l
+
+1
+
+TVIS Mol
+
+]
+|
+T
+I
+
+P2-3SpA | SP515pg  sPE | 5P L35,
+
+MG
+(SS) HNIM
+
+o) !
+
+MG
+(Sd) BNIM
+
+MOS
+S SSYEWQD|
+
+-
+
+z
+5]
+B
+<
+o
+ol
+n.
+)
+29
+o]
+[E5
+z
+)
+E
+
+N
+e
+WS
+
+MICROPECNE
+PLACE
+
+W H
+WH
+
+W/ H
+W/ H,
+
+S/QFFEIC
+
+it
+
+]
+
+S/OF
+S/OFFRIC
+TEL,
+
+COMPASS DK |W/H
+
+OFF
+
+BOW & STERH
+
+CAB & PASS
+EMERG,
+
+COMPASS DKIS/CFFiCE
+
+CABLPASS
+
+EMERG,
+'0” DIAL
+
+R
+R
+st
+
+R
+
+R
+WHEEL HOUSE
+CONTROLLER
+
+2nd
+
+SHIPS QFFICE
+CONTROLLER
+13r d AUTO TEL
+
+i
+
+velume cantrals atiached,
+
+ths zaximum volume {3 usad neglssting thz sst positicn of
+
+NOTE; At mark % spsakar,
+
+--- PAGE 5 ---
+3.
+
+1
+WING (P, S) WING (5. S) COMPASS DK
+
+SHIP'S OFFICE
+
+NVS-4358 NQE-8508
+SW{300Q)
+
+NYS-4358
+5(3000)
+
+NVS-4804 v
+S0¥(30Q)
+
+NVS- 420
+— 2w{500Q)
+
+. -- ’ SHIPS OFFIC
+2w(goom) w_?’ P : 159 g.gcé i )Sgct g
+
+. NVT-2004 éo BRIDGE CONSOLE NCE-50008 5
+
+NCE-90004 W/H GONTROLLER _ MIC8 33 —_— Micafo
+
+) - S/oFF_CONTROLLER o
+
+& 3 NAVIGAT)ION CONSOLE
+. - —— EIS SIGNAL
+i NVA-1805MKIA 50W PUBLIC ADDRESS SYSTEM
+\ MioT o Mica  SPT SPS SPg STR SPR MICY  MIOW SPWSPh . TEL
+%%bé%é%o&% 5388583435
+<3 - _ __ L 4
+AC220Y BHzL®(151VA)
+o 0 9G24V (110%]
+= 8 TO AUTO TEL EXCHANGER
+O g DOCK SUPPLY_ - 1
+® 5 I | NVS-420 (2WFLUSH TIPE) § PCS
+SE NVS-435 (SWEHRRTES | PCS
+123 S 2 g ] % ' NVS-415 {ZWRTSIDETPR Q PCS |
+NVS-410 (2W0€ SIDE T8 3 PCS ‘
+| — D i | oS
+. NV -435B(5W om TYPE Gag) 2 |
+
+o CABRPASS
+NVS-440
+
+10w{150Q)
+
+(2ag NVS-4404
+1 tow{1soal
+
+NYS-435D NYS-435Dp
+2Z¥ (5o02) 2% {6009y
+
+1!
+@D:] @Uj L RE ING SPACE
+
+ARRANGE 1,
+
+1805A2
+
+T MOOR
+
+NVS-4404
+
+g By ) r;vws(-xusm - NVA-1805MKIA 5O [ T
+E PROV,HAND F|RE ; scm PUBLIC ADDRESS SYSTEM |
+
+SPACE STAT|ON _ENG CONT RM
+
+DRAHING NO.
+
+STEERING GEAR RM -
+
+3rd Angla System  Dimension mm
+
+W
+% [ A3 [P
+
+--- PAGE 6 ---
+30
+
+s 1
+FIRIIG HOLE
+
+]
+
+WIRING HOLE
+ECT{ON A4
+
+i
+T
+
+&
+DJ
+
+ARRANGE NO.
+
+REVISIONS
+
+T CHECRED,
+
+y
+3
+g g
+4 3
+T
+B
+o O;
+- _
+8 foptesi
+b e
+
+ST
+
+SPEAKER SEU
+
+PARTIAL VIEW "B"
+
+NN
+
+DESTENE D ORANH |
+ol
+
+‘ Hapan Radio Co, Lid.
+
+PROYED
+
+50W  NVA-1BOSMKIA
+PUBLIC ADRESSER SYSTEM.|
+
+TTLE
+
+Eya]
+
+i PANTONE 425C
+T PANTONE 4771
+
+(NEAR
+
+PANEL_COLQR
+30Dy COLCR
+
+SHEET HO.
+
+5T
+
+MIVIAL=I( 1% 0B IMIKITIAL
+
+DRANING KO,
+
+B
+
+3rd Angle System
+
+Dimension mm
+
+210
+
+--- PAGE 7 ---
+0N JNVERY
+
+weishs alBUY PIg
+
+VOLUME
+
+ww uoisuswg
+
+130
+EM-MW-SW TUNER
+DECK (OPTION)
+
+Ty O
+
+T
+
+6060060
+
+[eooo]
+00060660660
+
+T28456789M1
+
+T
+[R Y
+
+i}
+
+CAL-8604
+S50W P A
+
+]
+50|
+
+1
+M) M1
+
+W8 K-BZGAFI0Z04A
+
+8t
+H6ZCAFIOZ00A
+
+it
+I 8zearouios
+
+&)
+1BzCAR00 198,
+
+w2
+K*6zoAFUaZ2l
+
+P
+HBZCAFUDR LG
+
+1 =
+[ 2caeoozis
+
+a
+g
+g
+g
+g
+5
+g
+z
+g
+
+2
+g
+&
+)
+g
+g
+a
+=
+5
+g
+g
+&
+i
+4
+g
+g
+
+ENT
+
+O INIMYED
+
+=
+
+--- PAGE 8 ---
+weisks aBuy pig
+
+[rpE—
+
+— . . P . . l . . .
+®
+g
+REVISIONS m o [5] @ bed
+
+i, ]
+i} i
+|
+| izl
+it z) o[
+| S e
+S [uit
+| |iuluunuuurn IEEY = [1 )3 < i
+J T2346123461234612348 12345 12125456781- A
+Lwier - Luicad Luicad Lwica Lires 4 et In COHBUSY Bk o fu
+! [ i ol
+5 fin
+5[5 b
+H 25 s
+ule
+: 2|2
+o M
+i —*lo
+:étm
+| i 2|2
+[MICO [(MIGT MICB [MIC9 MICIDY B2 A AR ALKD ALY AL B
+l2345123451234512845  12345i2(dfdfd{die
+| . .
+T”TWF‘T Ynu $ 718 2 ml
+! ‘ | | | { ] ~ o s
+[ J
+H [ - o [sp
+= & | o
+s S [ofos
+R e - | — o
+\ 3 BERREE S
+| i DBl ETE A El o
+N - ] - 5 fsrs
+H - = — aler
+‘ Plpp k83 PERRIER
+Iu T T 2 [ Ty ER 210 g
+E},‘zj | 12945876 ¢ RURBUB G [1eeisb BT RIERIEEND = i
+g e . — = S
+3 Priere 3 e ce2 (] ) Fa s
+i 12 312 ] i wne
+N | @S 3 231 o oo
+= 2 L o4
+s B & | —m[C
+s g g 2o
+5-9 32 H w rzgasmm
+"I Epry | — 8l e
+& ~ 1 BOOSTER
+=4 ' 24
+5 T N - - B ) SPLY Spud SRS O 8,
+E” I Gvr® [3i2(23i{23({2i23 ipipi2i2ia3i2 Wik
+Ll (AT S ) ‘Eil 'l =] lg o
+gl's aL1ry ? IARRASABASENERRARNRASROE SN oles
+i R 1197113103003 oyl e o e o o .
+o 1] H AN
+O Ol ua L luﬁ L L[ ]‘ A3 » a fiston
+i a8 H
+o o T i o1 82 s o [ast 00
+° £ Iyt s
+5 olag oS (050, 1 oo
+= 52 4 3
+BECIEE ?» F -
+o | 8 < L o
+5 E& L i
+@ -
+= £ oL B |
+> g | T8 l
+= i
+- S — S
+
+ON SNIAYYO
+ON 13345
+
+--- PAGE 9 ---
+3 & T 5 7 E} I 9
+A ————— 5550500 S—
+S AT AR TS
+&5
+suszonast 233
+— N iz( SRR P
+| (RN
+]
+8 i
+- ERRETETE 2 T352063A7 |
+! . | )
+v i [y o o] 2
+. <] i Wk
+4 A} =t 3 s
+] -] FeaT ] B
+R Y = m o
+! El
+TS o
+1
+0 @ )
+g L n
+s L 1
+m2 1 [
+I~ g i Is
+sy L L &
+ax o
+o sz, s A
+= B T i
+D T 1 ‘
+= BT i3 A
+S W o
+am
+ERTTY g Y 1 K-67CAFD0346E
+@ | e N =T [
+P =0, wp =T o=
+- = ors. ¢ m ey o
+- : B Kl Tl —
+- £y <l & ;
+AT oo EY %
+oaareR @k B 5 oz
+E
+Bl iRl
+5, ENEREE sl ol o sl rsislir L iz«
+5000000048808500060606060 —2[ ob0bobabodanaroabatossode 5 5548605G506856505086000606006030606000006
+; R} [EEXERBEEIEE T+ TEE) TH W FOR W W W W ST T SR N EE S 3] T IR
+I 48RANGE 30 SIS LR Wiiink 5% Be 3 %
+I
+i
+[ FROYED |- s 7
+! H g 91.5-31 WE} cp-ago1 CPU-I/D BOARD e
+z SCHEMATIC DIAGRAY
+= CHECKED ~
+oy
+S Andle System
+
+--- PAGE 10 ---
+1 2 3 3 5
+
+- A
+. B
+£ - 3USY2 i
+[ —]
+=St
+c | e
+—_— [ ————
+]
+-
+wrater -
+sn
+i ExT
+B [ =
+D e 1 . =
+b g o
+, oL [E—— =
+o o | e el
+05 Ta00p S
+b =
+@ L & L.
+| o = =
+B m =
+3
+| i A P
+A | — & - Lolee
+: o e e F.
+E oo pusar S 8 3 Y EE | g I i
+s e £ ugo ] 1104 oz
+= W : e 1L 3 B! 180 [roy
+[T e, " aillg
+* B = TInd
+AL M. - N
+% i . ka0
+ARRANGENG. | | ] )
+|
+£ > N T
+: - L - Cpu-8sol CFU- /0 BOARD e
+E 4 [0 - SOALE| SCHEMATIC DIAGRAM
+h CHECKED | .. DESIGNED DRAWN -
+; K oo ts> St ainTn A3
+
+@ e 3r¢ Angle System  Dimension mm
+
+--- PAGE 11 ---
+=
+
+|_op1
+SALED
+SBLED
+STLED
+SELED
+S5LED
+S4LED
+S3LED
+S2LED
+S1LED
+
+3 IL” ° ;‘wba
+[
+
+Q00000
+
+ENEEEERE
+
+Q0090
+
+ARRANGE NO.
+
+REVISIONS
+
+i S
+
+\ m 5 DD 0 0 TR W
+
+-w O e o e e
+SCHEMATIC DIAGRAM
+
+CiMiDi~:8
+
+o 03 3rd Angle System Dimension mm \Z
+
+--- PAGE 12 ---
+1 2 3 4 S <] 7 8 ]
+A - ag
+CAL-8804 a.ze 25C3856-0
+St L) r
+s 470, ZSOIOEY
+ca 1009w 2sciaisy airlerr
+BT H-eLASG0004!
+29 =%
+—— l—
+<2 soon o Lo
+sy | =0 ’ fe ns | ea¥ gy [ zan
+R 7av PR oy
+3 53 Rl Fheia eniz 208
+] 220 ™ cos
+- B - W e ] it
+-t fe)l T ws fs | e
+, 10k 0K 22¢ s L 0a
+aF s
+: 1ok =
+i 5 TRS
+R el stasy |50
+s | ot = TRy arop Te nosa
+o 1 wox L | 2sDiaveY 25010087 N
+H-LR&FO0OIT A RS
+4t 25c3858-0
+100,
+s |
+uia
+20v | o+ .
+Pigiae «i 1/ew o0 2 28 20 x2
+ac |OFfs 2 cos | o7
+TSy ‘- ar S
+L1 | | 47000 -
+3
+D i i an
+8lo|ss
+3 - 210 | +aev
+.
+0
+@ w|ole wl lm . Lo et
+=, e NanreizFA
+92.5.20 4700y 33
+Il _ | R .
+we b leeo ces] ez
+“3E Ed Im.. au]- -
+- 2o |re-e
+3o Nomreoara
+E ™3 ol Lse
+m ch. <] ez .
+oY o 28y
+.oa. oos .
+o | ne-e
+P.A BOARD
+6FCAF0Q2728
+ARRANGE HO. | | ] | E—
+£ PPRQVED 29d"| CAL-8604 P.A BOARD TME| TR
+2 seLe| SC AT A
+# CHECKED Sesionen or| HEMATIC DIAGRAM ~
+N /(4 = % A3 C’o0'Q - DRAWING NO.
+~
+JRC MM&,M CiAatL!~:8:6:014 + 1+
+@ 3rd Angle System Dimension mm 7 B
+
+--- PAGE 13 ---
+= BT S —]
+| 41 .
+Al SISO, = &
+N@ﬂ 2 Wl ¥
+N i el 3
+N z o
+N H9CE ol
+NER &l
+:THEN N 3 a4
+N i a4
+N E “
+3 & 1
+w
+| Z
+PN
+2 2
+n il
+] P
++ ‘04
+] | - |
+RRARGE M mul 2 = Ju0E" DY
+¥
+anlmooo> TINE SHEET Na
+/ W/H CONTROLLER | .~
+A e
+[YRC) Fapass Radio Co, L4d. NICIE {1~ 18]01010iA | |¥
+
+o 3rd Angla System Dimension mm
+
+--- PAGE 14 ---
+T z 3 3 5 5 T 7 T B8 S
+Al CERCN
+i H Res ¢ 1.
+=’\D‘59 !; 15028 L ‘\ 5054 5P
+—’g : sic ¢ v ; 1 334
+S i L gy daldddang [oom. Dworl |
+= ] 2 e 3 ok ]
+|
+o RSN T s drenicasty
+B P o ——r ancise L z .
+T sscceHooe o0 TR =Lt RIETLERT,
+v w1 a2 b
+Lt s N
+mM s
+L tﬂ ) s
+@ e e res s 4 =)
+frcz T e | 4 2 —
+T 1t ke e [ Vil rene v o :
+T * o] cou i
+c A b o o7} —— STXz4 |
+Zx_. ‘ i 29 - S }:3 Lowzar ny ! i
+&E ! ‘ B o o u!f{‘j # C:: ;°‘§§f" i
+—a i + s ) remcisz poz; cos R4 ¥ :
+Tosezosar | §lhe = ! ¢
+-2 o oo clice ws tie ol | Uen P hawaa i :
+TTRI T T Wl el Tedie | | vesisse 52 ool zr: ] i
+pi
+b S &8,
+H &8 o
+- 25v Oy
+3 L rresroosene
+£ = Ty
+= % s
+R E oo
+i ;
+&g
+T3 ‘ i ‘
+b wsz h ]
+» & 1 3
+2%, PR S S NN S ] lo 3 i‘!‘i—ﬁa o
+RIS S S S A A ves ot Ve T
+ARRANGE NO. cpi sPe  sPz-i s5P2-2 SRl
+MNCE-BqDpA
+Ter -=TB{— NCE-010B/c
+i
+: 2 m NCE-B8000 CONTROLLER ~IMf] seei
+i g 25> { x| SCHEMATIC DIAGRAM ]
+] CKECKED DESIGNED mu "
+
+A e 3rd Agle System.  Dimension mm -
+
+--- PAGE 15 ---
+Ny
+W
+N
+
+ARRANGE 0.
+
+A (=]
+o
+fot
+Eom
+= o
+8y F
+B
+e .\(')4.
+1
+g 308
+= -+ 258
+2 BN o of o
+; s sy B
+et fOA Y gmd
+% 03 - <
+c [ 20 28 T
+58
+a
+B 8
+3 g
+2 £
+b4
+jo]
+>
+3 .
+2 H
+]
+4
+3 N
+4
+8
+H
+=
+E
+- «
+&
+IPPROYED DATE - TITLE | SHEET NO.
+r 90 CCK-B700 NO.2 R
+T o] x SE|CONTROLLER SCHEMATIC DIAGRAM | %
+K. Fender | A, A4 DD OO - DRARING O,
+JapanRadio Co, L. |\ c.ci- 180005 § ; |
+i m Ard Angle Syslem Dimension mm v
+
+--- PAGE 16 ---
+] e ] 2 <
+\\X'#\ \\\ AN \ b\\ﬁr
+A s AN !
+N S
+SER 5
+N q& 2 o | e
+N N E S
+t\\ N = z ‘é’ =
+I NI A
+HERNR ?\\\\\\\\\\W <=
+— L 2 — %{l}[%
+W = 3 S E)(UZJ §
+—— I~
+o | § %
+B ¥z
+<§] i
+- b ey — s
+Al E} Jir 1) e |
+I R et i
+£ ' iRCATIIEG
+e DRI S
+Ao B B ) . L
+ARTAMIE W0 § ]
+7 PROVED P [ BEGE
+_ ™| NCE-80008
+h e '/‘,[:u “"‘ s/o0FF  CONTROLLER L:/' B
+} X k| \ﬂ P 1/ A4 BZE 10 < TR
+(URC) Japan Radio Co. L1d. L\UC&E"‘W*O?O‘O"T‘
+by Ard Angle Syslsm Dimension mm
+
+--- PAGE 17 ---
+T z 3 2 5 3 7 3 5
+A . = b cox-oron)
+(R Yo o S (S ) so [N S RPN I I O RS B ST
+¢ \ OO @ | | LT o B 33
+ORGCODCEC Bt @ }‘?@'— i Toxa
+| B |
+8 =1 T e
+T gl bl :‘,
+J
+o]
+ji H
+c
+S & i TDB2305AF I lﬁ‘"
+" ks i | ey SO0 ciice os e oo Less i
+| —— | elie 171 Tl il Tuhie] he] Ttu TeaIzsR T
+b o : i)
+Doxen | TC1iCz IC3 ICA 105 IC7 108 100 11 1012 ]
+I B i J
+3 ! { ] Jf 2| B <7 ’is :5 ca o :z 9 ko | +2av lwz Pes Jes Cex-aron
+1: : e I e —
+wy N S S TSI E 3 - s T3 1 ds ry Y 7 ﬂ,_q\
+43 E TR T TR TR D % T e ] S T T
+s #8905 8 9000 o % »o o ¢ vo P oo Iy Iy oo
+wo <t P ! !
+* T
+2 T F L | .
+= boddd b4 4 IEEEEEEN] 54 % E
+T Teeee s T S3%9s IR A
+it W e ses s seez w | L
+o NCE-8o50A
+—Th|— NCE-08000/¢
+§ -W JP| NCE-BOOO CONTROLLER W
+g !
+= Ml.
+N = cx[n n:smm nxm SCHEMATIC DIAGRAM ~%
+) D 000 DRAKING NG,
+
+aapan/&'dw au:u.
+
+A s om 3re Angle System | Dimensiom mm - !
+
+--- PAGE 18 ---
+TRI
+2soia08Y 9
+
+NJM2504D
+
+74HCI38
+
++5Y
+
+74HCIB]
+
+MBI953AL
+
+ARRANGE MO,
+
+. W CCK-B8700 NO.2 R ES
+lr sl
+cmm iz Dmn CONTROLLER SCHEMATIC DIAGRAM
+Zy> DRAVING 0.
+ﬁapan Radio Co, L.
+
+@ BED 3rd Angle System Dimension mm v
+
+REVISIONS
+
+--- PAGE 19 ---
+/
+
+SErine melf
+
+a-rrt
+
+ARRANGE N0,
+
+REVISIDNS
+
+gt V“ TITUE | SHEET A0
+X( M’" SPEAKER TURN TABIE .
+D[SIGH[\IDRMK GA - aTC
+Aa
+
+o 3rd Angla System  Dimension mm
+
+--- PAGE 20 ---
+20e*5
+|
+
+LINE IMP | JRg__cpoENojl
+30n | NVS-490A
+
+\ 1500100
+D m
+- %
+. H « g
+@ 7 [® Ivs!
+L)}
+ik 78 !
+o <
+o
+|~
+ull t
+<o)
+3 L 9 ‘;1
+! 2 Z|
+S S B W
+/8
+ARRANGE RO
+WEIGHT=7.5Kg
+NV 549 O JTLE } SKEET MO,
+
+BLSIAED CRARK
+
+7
+
+WATER PROOF SPEAKER -~
+
+B
+¥ it
+
+DRANS 10
+
+wm 3id Angle System | Dimension
+
+--- PAGE 21 ---
+(\)
+
+ARRAT
+
+i
+1 :
+Mo PLATE
+
+B TErRMinaL
+
+N
+
+i
+&
+z
+b
+
+NOTE
+1. FOR Z-WIHE OPERATION, CONNECT INPUT LINES ACROSS TERMINALS 2 ANDZ
+2. FOR 2-WIRE OPERATION. WITH HO-OFF-FOSITION VOLUME-CONTROL , DISCONNECT
+THE LINE ACROS3 TERMINALS 2AND3
+
+—
+zl j%ﬂ
+
+AF’ \uNE IMP]JRC CODE NO
+NYS /JBD 6000 NYS-—4 350
+
+WEIGHT = 3.7 Kg
+
+-
+
+FEo | gy BGE | SHEET o
+7@2 ey 20 NYS-435D
+S | WATER PROGF SPEAKER
+
+L”'/T/" /ZJJQ«XZ)J A4 [DZ 107 TRAVING 10
+
+Japan Radio Co, L. MIVISI=i413151D¢ 11 g
+
+rd Angle System  Dimension mm
+
+--- PAGE 22 ---
+TERMINAL
+PLATE
+2
+e
+! ‘:I;g()ljl1 1
+R e
+160
+® T MobEL T CAP [ LINE iMp | JRC CODE NO
+NYS-640A 10W{ 1500 NVYS-4640A
+{; . B Swl_3000 * B
+
+ARRANGE .
+
+RENISIONS |
+
+WEIGHT=35Kg
+
+THLE] SHEET 0.
+
+NVS-440
+st ] WATER PROOF SPEAKER 7
+
+DRAING N0,
+
+CHECKED
+
+K haidis | Dbt BE T
+
+ot 3rd Angle System  Dimansion mm
+
+--- PAGE 23 ---
+5
+
+g
+P42 =]
+
+[1
+AME PLATE,
+
+TERMIMNAL
+BOARQD
+
+NOTE .
+I. FOR 2-WIRE OPERATION, CONNECT INPUT LINES ACROSS TERMINALS 2AND3
+
+2. FOR 2-WIRE OPERATION. WITH NO-OFF-POSIT(ON VOLUME-~CONTROL, BISCONNECT
+THE LINE ACROSS TERMINALS 2AND3
+
+[LINE_IMP]JRC CODE NO,
+1508 NYS-435A
+3006 + B |
+
+ARRANGE KO,
+
+NVS-435 THLE | SHEET Mo,
+oo i} WATER PROOF. SPEAKER 7
+
+EH[CKED %m" - — T .
+A4 |[DETT0T— DRAVIKG X0,
+@gapmwoﬁo.,w. 'N:‘v:s,;;:‘gusz.‘;:
+
+G 3rd Angle System  Dimension mm
+
+--- PAGE 24 ---
+IOUNT NG HOLE
+(4-35%)
+
+MOUNTING HOLE $=1/5
+
+MODEL CA| JRC CODE No
+NVS-405| 5W 6USKDO004 1
+
+COLOR: NEAR MUNSELIL 10Y4/1
+
+WEIGHT = 4. 1kg.
+THLE | SHEET NO.
+NVs - 405
+FLUSH TYPE SPEAKER
+PE 10—~
+
+DRAWIKG NO.
+
+ARRANGE NO.
+
+REVISIONS
+
+MATERIAL: ABS RESIN
+
+w m 3rd Angle Syatem  Dimension mm 54
+
+--- PAGE 25 ---
+ARRANGE NC.
+
+MOUNTING HOLE
+(4 - 56y
+
+WIRING HOLE
+(20x 40)
+
+ey BACK VIEW
+170/ Monfien COLO
+
+PANEL : NGAR, 1ov4/1
+
+10Y7/1
+
+NVs-4i0 7W‘ 6000} |6U5KD00031
+
+MATERIAL: ABS RESIN
+
+MWEIGHT 5  L5kg .
+| =
+
+Sl X S| ONE SIDE TYPE SPEAKER
+AR AN wy s praas
+
+Jawan Radio
+
+ard Angle Sy Di
+
+n mm o
+
+--- PAGE 26 ---
+I
+
+COLOR _ PANEL:NEAR MUNSELL 10¥4/1
+BODY :NEAR MUNSFLL 10Y7/1
+CAP_ILINE IMP. | JRC CODE NO.
+ARRANGE HO. NVS- 415] 2w [ 6000 [6USKDO0032
+
+REVISIONS
+
+MATERIAL : ABS RESIN =
+y)Jg:?m NVS -415 TITLE | SHEET No.
+BOTH SIDE TYPE SPEAKER
+
+DESIGHED wwn
+
+@ 3rd Angle Syatem  Dimension mm
+
+--- PAGE 27 ---
+[ 235 —
+
+\ -
+
+MOUNT ING_HOLE §=
+
+COLOR: NEAR MUNSLLL 10Y7/1
+
+REVISIONS
+
+WEIGHT & 1.1kq
+
+NVS - 420
+
+FLUSH TYP|E SPEAKER
+
+ﬁapan /(’adzo C’o.,
+
+3rd Angls System
+
+N VS -1 4,20,
+
+--- PAGE 28 ---
+ARRANGE NO.
+
+REVISIGNS |
+
+(NEAR MUNSELL N-4)
+
+A
+)
+B
+o
+]
+5|
+@
+C
+ml 3
+i
+L 3
+D
+PULG FML4-5P
+| | MODEL L
+NVT-200A | CURL GCORD
+s B 5m
+»C 10m
+» D L5m
+b E 20m
+E »_F 25m
+» G 30m
+NOTE
+MATER!AL : HEAT RESISTANT ABS
+T COLER :  PANTONE 4250
+
+WE{GHT & 0, 3Kg
+==
+
+NVT-200 TITLE | SHEET hO.
+
+DYNAMIC MIOROPHONE
+(WATER PROOF TYPE) 7
+
+DRFA
+
+NiViTi=i210(0] P
+
+0 - DRAWING H0.
+
+3rd Angle System Dimansion mm \7
+
+--- PAGE 29 ---
+3 I Z
+
+CABLE GLAND ARRANGEMENT
+
+ARRANGE NO.
+
+REVISIONS
+
+NAME MATERIAL MODEL L
+BODY FRP(DMC) INQE-350A[ #10x 615 122
+GASKET INECPRENE - B]_ _010x920 127
+COVER SUS304
+SCREW BsBM
+CABLE GLAND _[BsBM
+[MOUNTING PLATE [SUS304
+[ —J
+
+2-07
+
+FIXING HOLES :
+[
+
+®
+
+3
+e
+|
+
+WEIGHT 5 590 ¢
+o | NQE - 950 TTLE | SHEET Ho.
+/
+
+Z (o]
+LQIEi-i915i0 4 b Lo 1d
+
+3rd Angle System
+
+Gimanston mm
+
+ES]
+
+--- PAGE 30 ---
+A
+e
+
+: 8
+
+. i85 ¢
+
+c
+
+2-845
+40 1 FIXING HOLE
+35 10
+
+@
+40
+
+® ® i =
+E g
+i
+® @ |
+ARRAHGE WD, | 2
+4
+g WEIGHT 20.5Kg
+- AFPROVED 9. DEC DATE BP*SO F TITLE | SHEET NO.
+. K= ] 111 Ml MICROPHONE  HOL DER pd
+K Aty ; A4 _[pE 10 - SN
+
+0. -
+- (URE) Japan Radio Co, L4d. Bipi-i510F: L L 44 4o
+
+o 30 Angle Systam  Gimanwon mm \]
+
+--- PAGE 31 ---
+BOX NO p_L/L
+SHIP NO|SPARE PARTS LIST FOR y 5 E SVEEESFEELR
+(asg| NVA-1805MKIA
+PUBLIC ADDRESSER
+QUANTITY REMARKS
+ITEM|  NAME OF CUTLINE WORKING sus
+NO PART . N PER[PER IMARK 0F
+(Dimenslon in m/m) | 5ET|yESS 50X NO
+1
+, | oLass Tuse 6354 | , 2
+FUSE - 2
+! L— 3o ——
+2 " " 1 2 5 A
+3 " ! ' 2| 1o0a
+4 " " 1 21 6. 3A
+— ST ]
+iﬁi NVsS-440A
+5 | spEAKER L4 3 1| 1ow Usom)
+56, T
+NVT-200A
+6 | micRoPHONE {@ 2 U1 teure corp)
+7 | BLANK
+8 | BLANK
+9 | BLANK
+SPARE PARTS WELGHT=
+10 | Box 1 400g
+MFR'S NAME| JAPAN RADIO CO.LTD. |DRY.NO | DNOO-B-617( |
+
+--- PAGE 32 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+@Main Office
+‘Akasaka Twin “rwar{Main)
+
+1722 Akasaka 2-chome.
+Minato-kuTaxyo 107
+
+Maritime Sales Department |
+Phone : 03 35848731
+
+Finx - 03-3884-8795
+
+Maritime Sales Jepartment I
+Phone: 03-3584-8834
+
+Fax: 03-3584-6735
+
+International Busimess Depa-tment
+Phone : 03-3584-8836
+
+Fax; 03-3584-8878
+
+International Warketing Department
+Shone : 03-3684-8845
+
+Fax: 03-3584-8859
+
+@URC (UK) Limited
+
+Ground Floor.Temple Crzmbers,
+Tempie Avente, London.C. 4
+Phare: 44.171-33-1960,583-744C
+Fox: 44-171-353-3321
+
+QuSA
+Japan Radic Co.,td. /New York Branch
+430 Park Avens, Neww York,
+
+How York 10322
+
+Phone: 212.355- 1180
+
+Fax: 212-319-5227
+
+@indonesia
+Japan Radio Co.Ltd.
+
+Mulia Taver 12 Fioor
+
+Jalan Jeaderal Gator Subroto Kav.5-1 I,
+Jnkarta 12830
+
+Phone ; 21-5204053 + 5204056
+
+Fax: 21 5204159
+
+@Philippines
+
+Japan Baco Co. | 1
+
+7320 Taft Avende,
+MaiateManila
+
+Phana - 2.50-8565 » 57-1490
+Fax: 2521-6049
+
+@Thailand
+
+Japan Radio Co..Ltd.
+Chiarturong; ArPhon Puilding
+457 phre Sumaru Strest,
+Banghok 0200
+
+Phoin/Fax 22830401
+
+®india
+
+Japan Racia Co.Ltd
+
+5 ASagar Aparments,
+
+6 Tilak Marg;, New Delhi-1 10001
+Phone: |1-38-6751
+
+Fax: 11-38-4571
+
+®Mitaka Plant
+1,SHiTorenaku S-chame Nitaka
+~okyo 181
+Phore : 0422-45-91 11
+Fax: 0422.45-3110
+
+@JRC do Brasi| Empreendimentos.
+Electronicos Ltda,
+
+AvAbirante Barroso,63.Gr.5/2707
+
+20031 Rio de Janeiro,2)
+
+Fhone  21-220-8121 262.92¢ 1
+
+Fax: 212406324
+
+QusA
+Japan Ratfio Co, Ltd.
+
+/o Raytteon Marine Company 676 Islend
+Pond Fioad Manchester,iH 03109,1.5.A.
+Phone : 603-624.4841
+
+Fax: 803 634-484
+
+@United Kingdom
+Jzpan Rado Ce. Ltc
+/o Raytireon Marine Eurcpe
+Anchorage ParkPortsmouth,
+Harpshire,P03 5TD, LK.
+Phonc : 44:705-663233
+
+Fax - 44-705-663241
+
+@Netperiands
+
+Japan Radio Co. L1d.
+
+/0 Iacio-Hollanz Ky,
+Eekiautsirazt 2,
+
+087 AB Rotterdam
+
+Phone: 10-429-4581 + 10-429-1088
+Fax: 114282253
+
+®Spai
+Japan Radio Co.Ltd
+/0 TOSA CANARIAS S.L.Doctor
+
+Juzn Dominguez Perez 44, urbanizaclon
+EL GEBADAL, Lgs Paimas de Gran Canaria
+Phone : 34-28-6-5191 - 34-2816.5291
+Fax: 14.28-45-2398
+
+952
+
+--- PAGE 33 ---
+For further infarmation contact :
+
+Japan Radio Co., Lid.
+
+Since 1915
+HEAD OFFICE & Akasaka Twin Tower(Main),
+SALES DEPT. 17-22, Akasaka 2-chome,Minato-ku, Tokyo.
+Phone : 03-3584-8711
+MAIN PLANT 1-1,Shimorenjaku 5-chome,Mitaka-shi, Tokyo.
+
+Phone : 0422-45-9111
+Fax :0422-45-0110
+Telex :02822-351 JRCMTK J
+
+--- PAGE 34 ---
+nic
+— <
+
+9o~
+
+1
+
+Y=
+
+B 6T/
+
+Messis. KawAsdk| HEAVY [NDUSTRIES CQ,L7D
+
+S.No_ (156
+
+INSPECTION DATA
+
+_PUBLIC ADDRESSER -
+
+Mol wa= /¥ 0 CMKIA
+Seriat NO. MP_ /4§64
+Date of inspection 0T /7 /?7(?
+
+Tasted by C/./\ﬂ?{l‘/zt —
+Approved by 'qu\ ,g/f 04/@4
+
+Sec.chief
+
+Recelver Sact. of Iilispsctinnr eg;anmsnt )
+
+Japan Radio Co. L1d.
+
+--- PAGE 35 ---
+e
+
+SERTAL No. MP /§ fﬁ—(
+
+- HERSUREMENT -
+CHECK ITEM METHOD RATINGS RESULT
+RUNNING
+R Zﬁ,ﬂff
+INSULATE BETWEEN POWER
+? MORE THAN LoMQ
+RESTSTANCE  |{SUPPLY CIRCUTT oo > MR
+00 EARTH BY 500V MEGGER . ;3()0
+| MO TROUBLE BY |
+INSULATE
+FRL up o INTECT 500V IN
+‘ ONE MINOTE
+’ 7 () 4O o
+INPUT TO QU= |poe euT (-) 40 asm| ovrput oW
+PUT ClARAC- [ FHENE MG wrur(~) 43 dabn| ourpuw 26w
+CERTSTICS NE RECEPTACLE
+eur (-} ¢ asm|. ourrur (2 em
+GENERAL
+FUNCTION
+
+ki
+
+CHARACTERIS~
+
+AT 1000Hz 04B
+IN 300-8000Hz
+
+PICS OF LOW |INPUT MICRO- S0-d000mz
+FREQUENCY PHONE RECEPTACLE [O0r 0" PEVIA
+AMPLIPIER
+
+LESS THAN 16dB
+
+AT 1000Hz
+DISTORTION OF OUTPUT .
+LOW FREQUENCY ur Do .8
+AMPLIFIER DISTORTION
+
+LESS TUAN 5%
+
+AT 1000Hz
+5/N RATIO ouTPDT p W
+TEST MORE ‘IHAN 45dB
+POWER .
+CONSUMPTION
+
+--- PAGE 36 ---
+PUBLIC ADDRESSER SYSTEM
+
+MODEL : NVAIBOOMKIA SERIES
+
+INSTRUCTION MANUAL
+
+Japan Radio Co. L1,
+
+--- PAGE 37 ---
+T.Features....
+
+Table of
+
+2.Location and function of contro
+
+3.Basic Operation,.......
+
+.1 Turning
+
+Micropho
+
+Talkback
+
+0 @ e W e
+PR A
+
+4.8pecificatio
+
+S.Maintenancae
+
+on
+
+ne
+
+ns
+
+and
+
+the power
+
+broadeasting
+
+Alarm broadcasting
+Broadcasting of the externa
+
+Emergency broadcasting
+
+Broadcasting with on-board
+
+and performance,
+
+CLEY-] S
+
+contant
+
+sourc
+
+telepho
+
+Broadcasting with the controller i
+
+n
+
+2
+e 4
+e(paging)
+and controller 2
+
+--- PAGE 38 ---
+1.Features
+
+@ Contralling hy a micro computer
+The control circuit is completely digitalized by employing CHOS
+1. Espocially,in the linear part,our specially developed HIC are
+uscd.
+
+@ Touch-kay
+Flat keys which are operable with one touch ars used. Those fiat
+keys allow you to operate sguipment very sinply.Also, lanps
+(LEDs) are provided to know which keys aro working with one
+alance,
+
+® Mute function
+The level of the audio line is lowarad when changing the input
+and ouwtpet. With this mute function,the click sound which occurs
+at pressing the push-button switch on the microphono or changing
+-over the speaker is nuted,
+
+@ Responding to naeds of users
+
+Contrelling is programmed in such a way that it will follow the
+
+ussr’s need.
+
+® MNot-requiring to match with speakers
+Since the constant voltage method is adopted in the output
+cireuit,it is not necessary to match with speakers unless
+overioad ocsurs,
+
+® Adopting the AC/DC changeavar circuit
+
+Sinea the sutomatic AC/DC changeover circuit is adopted,
+
+equipment sperates even in case of AC power failure,
+@ Compact and light-weight
+
+The pane) is pracessed with the ABS resin molding.Thus,the size
+and the weight are ramarkable reduced.
+
+--- PAGE 39 ---
+2 Location and function of controls
+
+“@BUSY
+@D M
+GEXT
+BALM
+@8R OFF
+
+UBLIC ADDRESEER
+OMIC HCOK --omoeeem
+
+@SPEAKEK S$ELECT __
+
+SW|TCHES B 00—
+
+. ] -l @EMG
+
+: OoErEo e Ol Sasve
+
+i ——— METER
+BNVZ-130C BMONT VOL
+
+@MIC/EXT VAL
+
+@®MIC (microphone) hook
+
+@ Speaker selact switches
+Use to selact the speaker.The lamp on ths depressed smitch lights
+up.
+
+@ Radio cassette
+Only when equipment is equipped with the radio cassette.
+
+@ POYER switch
+Turn on or off the power of the equipment.By setting this POVER
+switch to OM,the built-in lamp lights up.
+
+@HIC (microphone) connector
+Connect the NVT-200 microphone.
+
+® BUSY lamp
+This Jamp lights when the microphone and-so on which are prior to
+the equipment is being usad.While this BUSY lamp is on,broadcasting
+form the equipment is not allowed,
+
+--- PAGE 40 ---
+@DIM (dimmar) switch
+This switch adjusts fuminanco of lamps.Whenever you press this
+switch, luminance is changed in the order of HIGH,MID,LOW,0FF and
+HIGH.
+
+@ EXT (external) switch
+This switch is used to connect or disconnect the external source.
+8y pressing this switch once,the switch is set to ON and LED
+lights.By pressing this switch again, it is set to OFF,
+
+@ ALY (alarm) switeh
+Whilte pressing this switch,the alarm sound of 300Hz is broadcasted.
+Betwesn this ALYl switch and tha microphone,the ane which is
+operated first is prior te the other.
+
+@ SP OFF (speaker off) switch
+This switch is used to select the SP OFF operation from the table
+of the speaker operation,
+
+@EMG (emergency) switch
+Press to select the emergency broadcasting from the table of the
+speaker operatian,
+
+@Llevel mater
+The green zane of the mater which corresponds to about half of tha
+maximum output is the ideal level.Use this green zons as the
+standard when adjusting the level,
+
+®MON! VOL (monitor volume) control
+This control adjusts the output level af the monitor speaker,
+
+®WIC/EXT (microphona/extarnal source volume) control
+This control adjusts the output Jevel of the micraphone and
+axternal source.
+
+@®Monitor speaker
+Speaker for monitoring.
+
+--- PAGE 41 ---
+8.Basic aperation
+
+3,
+
+1 Turning on the power
+(1)Set the POWER switch to ON.
+
+The lamp on the switch lights up to show that the power is
+suppiied.When the power is turned on,the SP OFF oparation is
+automatically sefected from speaker operation and DIN is sat
+to HIGH,
+
+(2)Selact the desired spsaker output with tho speaker select
+
+switches,The lamp on the selscted switeh lights
+
+up,
+
+(3)Sat WIC/EXT VOL and MONI VOL to nsarly medium position.
+
+Note
+
+If those volumes are set in the fully clockwise position,houling
+
+may acenr,
+
+i
+\
+
+Note
+
+While the BUSY iamp is on, it is not allowed ta make
+
+broadcasting such as microphone broadcasting and so on,Make sure
+
+that the BUSY lamp is not lit,
+
+3
+
+.2 Microphone broadcasting
+
+While keeping the push-buttan on the microphans depressed, make
+
+microphene broadcasting.Adjust the output volume with MIC/EXT
+
+oL,
+
+.3 Alarm broadcasting
+
+By pressing the ALM switch,the alarm sound of 800Hz is
+
+broadcastad.Use this broadeasting for the purpose of sign or
+
+in case of emergency.
+
+Note
+
+Between the push-button switch on the microphone and the ALM
+
+switch,the one which is pressed first is prior to
+
+capnot uss bath switches at ths same time.
+
+-
+
+the othar,You
+
+--- PAGE 42 ---
+3.4 Broadcasting of the external source
+Press the EXT switch,The EXT lamp lights up.By pressing the EXT
+switch, the radio program of the built-in radio cassette
+(NVZ-1300) or the external source connectaed to the EXT connector
+can be broadcasted, (When the radio cassettes is not built in,the
+program source is only the external source.)
+Adjust the KIC/EXT ¥OL control so as to obtain the optimum
+output level. Refer to the user's manual of NVZ-1300 serias,as
+for operations of the HVZ-1300 radio cassotte,
+
+3.5 Emergency broadcasting
+By pressing the EWG switch,the tamp on-the EMG switch Iights up
+and the emergency broadcasting can be made.The emargency
+broadcasting is made with the maximom volume regardless to the
+
+set positions of volume controls attached,
+
+3.6 Taikback
+Pross the talkback switch among speakor solact switches and talk
+as keeping the push-button on the microphone depressad.For
+talkback operation, rafer to the table of the speaker operation,
+
+3.7 Broadcasting with on-hoard telephonss (paging)
+When the on-board auto-exchange is cannected to the equipment,by
+dialing the specific number with the on-hoard telephons, the
+pewer of the equipment is automatically turned on,and the paging
+broadcasting can be mada,
+
+3.8 Broadcasting with controllers
+Two controllers (NGE-8000,nat supplied) can be connacted to the
+NVA-1800MK Il . The NCE-8000 controller connectad to the squipment
+allows you to make all sorts of broadcastings remotsly .For
+detailed information, read the instruction manual of the
+NCE-8000.
+
+Note
+
+There is a priority vrder among micrephone,alarm,EXT and paging.
+Check their priarity arders referring to ths table of speaker
+
+operation,
+
+--- PAGE 43 ---
+4, Specifications
+
+4.1 Specifications
+
+and performance
+
+Tnputs wie Input impadance 40 Q
+[[Tnput lovel -40 to ~70 dBm
+EXT | Input inmpodance 10 KO
+Input level 10 to 0 dbnm
+EXT__ for built-in radio cassstte
+EXT I for external source input
+EXT 2 for external source input
+TEL | Input inpedance 600 Q )
+Input level -10 to 0 dBm
+Group paging is available with TEL | to TEL 3
+outputs SP | Rated output 50 W (50¥ P.A 240 load)
+Rated output 100 W (1000 P.A 12Q load)
+Pouwer AC 100 to 230 V
+roquirement DC 24y
+Povor AC | NVA-1B0SHKI A 150VA or lsss
+consymption /iNVAi\EVSIAK!V B YEOVVA or less
+/NVA)"IBTDMKH A EEEVA or less
+NVA-1810MKIt B 350VA or less
+DC | NVA-805MK Il A 1108 or loss
+NVA-TBOSHRIN B T10W or less
+NVA-1B10HK I A 1859 or Iass ’/
+o NVA-T810NKI B 1800 or less
+Dinens lons W | 39tan
+W | 515mm
+27 .kzﬁﬂmm T —
+Weight T WVA-1805MKI A 25kg
+WVA-1805UKH B 26kg
+WVA-181O0MKI A 27kg
+NVA-1810UKI B 28kg
+
+--- PAGE 44 ---
+4.2 Parformance
+
+NYA-1805MK Il
+
+Low frequency ampiifier | Rated cutput 508
+
+Frequency B00Hz to 8kHz within
+
+characteristics £ §dB
+
+Distartion 5% or less(with rated
+output) _
+
+S/N 50dB or more -
+
+WYA-18TONK I
+
+Low frequency amplifiar
+
+Rated ovtput 100U
+
+Frequency 300Hz to 8kHz within
+
+characteristics + 8dB
+
+Distortion 5% or less(uith rated ]
+output)
+
+I's/n 5048 or mors
+
+--- PAGE 45 ---
+5.flaintenance and chack
+
+5.1 Maintenance
+
+Since the working life of appliances depends largely upon the
+suitability of its maintenance and damages may be enlarged without
+suitable maintenance, it is preferable to carry out the maintenance
+as periodically as possibis. Check in detaiis whather or not there
+are any defective parts, rust of lcad wires of parts and the
+condition of soldered parts as mell as corrosion of coppsr foil of
+PC boards,and so on.
+
+Care must bo taken to sce whether or not any abnormal phenomena
+exist by msually chacking voltages of the respsctive circuit
+points,
+
+Note
+
+Make sure to turn off the main POWER switch before checking or
+order to prevent the elecctrical shocks and short-circuits.
+
+5.2 Cleaning
+
+Clean the cabinet,panel and controls with a dry soft cloth
+
+periadically, ®hen it is difficult to sweep of dust,clean them as
+
+tollaws.
+
+1 Lightly moisten a soft cloth with a nild detergent solution
+weakaned with a warm water (or cold water),
+
+2 Squeeze a met cloth well and rub the surface ta remove dust.
+
+3 After rubbing with a soft cloth with a mild detergent solution,
+wipe aff with a cloth wet with a water and squeszed wall.
+
+4 Then,wipe off with a dry clath,
+
+Hote
+
+0o not use any type of solvent,such as thinner or benzine which |
+might damage the finish or cause discoloration, l
+
+--- PAGE 46 ---
+14
+
+CONTROLLER
+
+MODEL: NCE-8000
+
+INSTRUGTION MANUAL
+
+JAPAN RADLO GO., LTD.
+
+--- PAGE 47 ---
+Rasic operation
+3.
+
+2
+3
+.4
+5
+
+@ ow @ ow
+
+1
+
+Turning on the power
+
+Microphone broadcastling
+
+Table of contents
+
+Alarm broadeasting .. .......eeoeoooooaaiian
+
+Emergency broadcasting ..........c..ooooi.aoua..
+
+Talkback
+
+--- PAGE 48 ---
+1
+
+Features
+
+Compact and light-weigh
+
+The LOHtPOl clircuits of the NCE-8000 controller are
+
+digitallezed. Besides, the controller has been designed to
+
+be compact so that the size and the weight can be reduced.
+
+[same design as the on-board office control equipment
+
+The same design as the office control equipment (NVA—1700MKI
+NVA-1800MKIL) is adopted
+
+Touc
+
+eys
+Flat keys which are operable with one touch are used.
+Those flat keys allow you to operate equipment very simply.
+Also, lamps(LEDs) are provided to know which keys are
+
+working with one glance.
+
+{Wall mount and 1n%e!t1ng type
+
+Both Wall mount and inserting-mount are available
+
+You can select desired apeakel oufput from eight kinds of
+
+speaker outputs including OFF and EMG
+
+--- PAGE 49 ---
+2.
+
+2
+
+a
+
+5
+
+Location and function of controls
+
+) 2]
+Mic hook ol | —®Level meter
+| —@BUSY
+—@DIM
+FIE A —®ALM
+: @M
+Ll ~—@ SP OFF
+= —@ Speaxer
+=5 D = . Selgct
+ween, | B8 pe i A R
+N o e T——@ MON L YOL
+s B 5%
+POWER @— s - @MIc voL
+® ®
+
+Microphone hook
+
+Monitor speaker
+
+Speaker for monitoring.
+
+MIC(microphone) connector
+
+Gonnect the NVI-200 microphone.
+
+POWER switch
+
+Turns on or off the power of the main unit. By setting
+thls POWER switch to ON, the built-in lamp lights up.
+Level meter
+
+The green zone of the meter which corresponds to about
+half of the maximum output is the ideal level. Use this
+
+green zone as the standard when adjusting the level.
+
+-~ 2~
+
+--- PAGE 50 ---
+-
+
+10
+
+11
+
+12
+
+13
+
+BUSY lamp
+
+Lights when the microphione and so on which are prior to the
+controller 1s being used. While this BUSY lamp is on,
+broadcasting from the controller is not allowed.
+DIM{dimmer) switch
+
+Adjusts luminance of lamps. Whenever you press this
+switch, luminance is changed In the order of HIGH, MID, LOW
+and OFF.
+
+ALM{alarm) switch
+
+While depressing this switch, the alarm sound of 800Hz is
+broadcasted, Between this ALM switch and the controller
+microphone, the one which is operated first is prior to the
+other.
+
+EMG{emergency) switch
+
+Press to select the emergency broadcasting from the table
+of speaker operation.
+
+SP OFF{speaker off) switch
+
+Selects the SP OFF operation from the table of the spsaker
+operation.
+
+speaker select swilches
+
+Select the speaker. Tho lamp on the depressed switch
+lights up.
+
+MONI VOL(monitor volume)
+
+Adjusts the output level of the monitor speaker
+
+MIC VOL
+
+Adjusts the output level of the microphoue.
+
+--- PAGE 51 ---
+Basic operation
+
+3.1 Turning on the power
+
+1) Set the POWER swtich to ON.
+
+The lamp on the switch lights up to show that the
+power is supplied. When the power is turned on, the
+SP OFF operakion is automatically selected from
+speaker operations.
+
+2) Select the desired speaker output with the speaker
+select switches. The lamp on the selected switch
+lights up.
+
+3) Set MIC VOL and MONI VOL to nearly medium position
+
+Note ]
+If those volumes are in the extremely clockwise i
+|
+
+{ position, howling may occur.
+
+‘AMQSEL |
+‘while the BUSY lamp is on; it is not allowed to i
+make broadeasting. Sefore broadcasting, make
+
+L}ure that the BUSY lamp is off. )
+
+.2 Microphone broadeasting
+
+While keeping the push-button on the microphone
+depressed, make microphone broadeasting.
+
+Adjust the output level with MIG VOL.
+
+.3 Alarm broadcasting
+
+By pressing the ALM switch, the alarm sound of 80Hz is
+broadcasted. Us this broadcasting for the purpose of
+
+sign or in case of emergency.
+
+Note
+Between the push-button switch on the microphone
+and the ALM switch, the one which is pressed
+
+first is prior to the other. You cannot use
+
+both switches at the same time.
+
+--- PAGE 52 ---
+3.4 Emergency broadcasting
+
+By pressing the EMG switch, the emergency broadeasting
+can be made. The emergency broadcasting is made with the
+maximum volume regardiess to the set positions of volume
+
+controls attached.
+
+Talkback
+Press the talkback switch among speaker select switches
+for performing the talkback operation. For the talkback
+
+operation, refer to the table of the speaker operation.
+
+Note
+There is a priority order among microphone,
+alarm, EXT and paging. Check their priority
+orders referring to the table of speaker
+
+operation.

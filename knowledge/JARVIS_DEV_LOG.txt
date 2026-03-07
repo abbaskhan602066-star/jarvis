@@ -1,0 +1,350 @@
+═══════════════════════════════════════════════════════
+JARVIS DEVELOPMENT LOG — KNOWN ISSUES & FIXES
+Last Updated: 2026-03-07
+Vessel: Siam Lucky Athena (LPG)
+Developer: ETO + Claude AI
+═══════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #001 — DOUBLE MESSAGE IN UI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅
+Date: 2026-03-07
+File: jarvis_ui.py
+
+CAUSE:
+  Voice flow adds user bubble via addMsg() in stopRec,
+  then sendMsg() adds another bubble = double message.
+  Also: touchstart + mousedown both firing on Android.
+  Also: Enter key not checking sending lock.
+
+FIX:
+  1. sendMsg(text, skipBubble=true) when called from voice
+     → skips addMsg if skipBubble=true
+  2. Timestamp lock: lastSend=Date.now()
+     block if now-lastSend < 3000ms
+  3. mic button uses addEventListener not inline handlers
+     touchstart calls e.preventDefault() to block mousedown
+  4. micLocked flag prevents rapid re-trigger
+
+KEY CODE:
+  async function sendMsg(text=null, skipBubble=false){
+    const now=Date.now();
+    if(now-lastSend < 3000)return;
+    lastSend=now;
+    const q=text||textIn.value.trim();
+    if(!q)return;
+    textIn.value='';
+    if(!skipBubble)addMsg(q,'user');
+    ...
+  }
+  // Voice calls: sendMsg(data.text, true)
+  // Text calls:  sendMsg() or sendMsg(text)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #002 — VOICE NOT RECORDING (UNCLEAR)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅
+Date: 2026-03-07
+File: jarvis_ui.py
+
+CAUSE:
+  startRec() was using OLD browser MediaRecorder code
+  instead of termux-microphone-record.
+  stopRec() was updated but startRec() was missed.
+  Also: termux-microphone-record saves to its OWN
+  path regardless of -f flag given:
+  ACTUAL PATH: ~/termux_organized/projects/Jarvis/jarvis_logs/
+  NOT:         ~/Jarvis/jarvis_logs/
+
+FIX:
+  1. startRec() must call /voice_start endpoint
+     NOT navigator.mediaDevices.getUserMedia()
+  2. voice_stop in Python must read from:
+     ~/termux_organized/projects/Jarvis/jarvis_logs/voice_raw.wav
+     with fallback to ~/Jarvis/jarvis_logs/voice_raw.wav
+
+KEY CODE (startRec correct version):
+  async function startRec(e){
+    e.preventDefault();
+    e.stopPropagation();
+    if(recording||micLocked)return;
+    micLocked=true;
+    recording=true;
+    await fetch('/voice_start',{method:'POST'});
+  }
+
+  termux_log = os.path.expanduser(
+      "~/termux_organized/projects/Jarvis/jarvis_logs"
+  )
+  raw_file = os.path.join(termux_log, "voice_raw.wav")
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #003 — AI HALLUCINATING MANUAL CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅
+Date: 2026-03-07
+File: brain.py
+
+CAUSE:
+  Groq was answering from general AI knowledge
+  without searching local manual files first.
+  Invented fake page numbers, table numbers,
+  specifications not in actual ship manuals.
+  DANGEROUS for ship operations.
+
+FIX:
+  search_local_knowledge() searches all .txt files
+  in ~/Jarvis/knowledge/ recursively before asking AI.
+  build_groq_prompt() injects found text into prompt.
+  AI instructed to answer ONLY from manual excerpts.
+  If not found = clearly states "general knowledge only"
+
+KEY CODE:
+  def build_groq_prompt(user_input):
+      local_data = search_local_knowledge(user_input)
+      if local_data:
+          return f"SHIP MANUAL EXCERPTS:\n{local_data}
+                   \nAnswer based on excerpts above.
+                   \nState which file info came from.
+                   \nNEVER invent page/table numbers."
+      else:
+          return f"⚠️ Not found in local manuals.
+                   \nAnswer from general knowledge only.
+                   \nClearly label as general knowledge."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #004 — STORAGE FULL DURING PDF PROCESSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅
+Date: 2026-03-07
+File: process_electric_manuals.py
+
+CAUSE:
+  ImageMagick default memory limit = 7.46GB RAM
+  Default map limit = 14.9GB
+  Default disk limit = UNLIMITED
+  Converting large PDFs created 8GB swap file!
+  Also: convert created ALL pages as PNG at once
+  before OCR, using hundreds of MB temp storage.
+
+FIX:
+  1. Set ImageMagick policy.xml limits:
+     memory=128MB, map=256MB, disk=512MB
+     File: /data/data/com.termux/files/usr/etc/
+           ImageMagick-7/policy.xml
+  2. Convert ONE page at a time using [page_num] syntax:
+     convert "file.pdf[0]" page_000.png
+     Delete each PNG immediately after OCR.
+  3. Peak temp storage now = ~2MB only (one page)
+
+KEY CODE:
+  for page_num in range(num_pages):
+      subprocess.run(["convert",
+          f"{pdf_path}[{page_num}]", tmp_img])
+      # OCR immediately
+      tesseract(tmp_img)
+      # Delete immediately
+      os.remove(tmp_img)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #005 — GROQ MODEL DECOMMISSIONED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅
+Date: 2026-03-07
+File: brain.py
+
+CAUSE:
+  brain.py used model: llama3-8b-8192
+  This model was decommissioned by Groq.
+
+FIX:
+  Change to: llama-3.1-8b-instant
+  Command: sed -i 's/llama3-8b-8192/llama-3.1-8b-instant/g' brain.py
+  Check current models at: console.groq.com/docs/models
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #006 — PYMUPDF COMPILATION FAILURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: RESOLVED (alternative used) ✅
+Date: 2026-03-07
+
+CAUSE:
+  pip install pymupdf tries to compile from source
+  Requires: swig, libclang, BISON, PCRE2, Rust
+  Fails on Android/Termux ARM64
+  Downloads 400MB+ before failing
+
+SOLUTION:
+  DO NOT use pymupdf on Termux/Android
+  USE INSTEAD:
+  - ImageMagick (pkg install) → convert PDF to PNG
+  - tesseract (installed with mupdf pkg) → OCR PNG
+  - ghostscript (gs command) → for simple PDFs
+  Pipeline: PDF → convert → PNG → tesseract → TXT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #007 — PDFPLUMBER/CRYPTOGRAPHY RUST ERROR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: RESOLVED (avoided) ✅
+Date: 2026-03-07
+
+CAUSE:
+  pdfplumber depends on cryptography
+  cryptography depends on maturin (Rust compiler)
+  Rust not available on Termux Python 3.12 ARM64
+  Error: "Unsupported platform: 312"
+
+SOLUTION:
+  DO NOT install pdfplumber or cryptography via pip
+  If cryptography needed: pkg install python-cryptography
+  (prebuilt Termux package, no Rust needed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SYSTEM ARCHITECTURE NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+JARVIS FOLDER: ~/Jarvis/
+  brain.py          - AI brain (Groq→Gemini→Claude export)
+  jarvis.py         - Main entry point
+  jarvis_ui.py      - Flask browser UI (localhost:5000)
+  voice.py          - Voice I/O + maritime autocorrect
+  keys.txt          - API keys (GROQ_KEY, GEMINI_KEY)
+  plugins/          - Drop .py here = new feature
+  knowledge/        - All searchable manual text files
+  knowledge/electric/ - Electric part manuals
+  jarvis_logs/      - Logs, temp files, reports
+  claude_exports/   - Generated when APIs fail
+
+TERMUX MIC ACTUAL SAVE PATH:
+  ~/termux_organized/projects/Jarvis/jarvis_logs/
+  (NOT ~/Jarvis/jarvis_logs/ despite -f flag)
+
+AI BRAIN CASCADE:
+  1. Groq API (llama-3.1-8b-instant) — fastest
+  2. Gemini API (gemini-2.0-flash)   — backup
+  3. Claude export file              — offline fallback
+
+SHIP PDF PROCESSING:
+  Source: ~/storage/downloads/3) ELECTRIC PART/
+  Output: ~/Jarvis/knowledge/electric/
+  Script: process_electric_manuals.py
+  Progress: jarvis_logs/electric_progress.json
+  Resume: run script again, skips done files
+
+GROQ BLOCKED ON SHIP WIFI:
+  api.groq.com blocked on satellite WiFi
+  Use phone mobile data for API access
+  Or wait until port WiFi (less restricted)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INSTALLED PACKAGES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+pkg: python, flask, ffmpeg, termux-api, mupdf,
+     tesseract, flac, portaudio, ghostscript,
+     imagemagick, python-cryptography
+
+pip: flask, gtts, speechrecognition, textblob,
+     requests, pyaudio, pillow
+
+DO NOT pip install:
+  pymupdf      (compile fails, use imagemagick)
+  pdfplumber   (needs Rust via cryptography)
+  faster-whisper (compile fails)
+  groq package  (needs pydantic v2 + Rust)
+  Use requests library directly for all APIs
+
+═══════════════════════════════════════════════════════
+END OF DEV LOG
+═══════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #008 — JARVIS SAYS "DONE." FOR ALL RESPONSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅ | Date: 2026-03-07 | File: jarvis.py
+CAUSE:
+  process_query() finetune wrapper never called
+  process_query_original() - just fell through
+FIX:
+  Add: return process_query_original(query)
+  before closing of process_query()
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #009 — AI HALLUCINATING ON ALL QUESTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅ | Date: 2026-03-07 | File: brain.py
+CAUSE:
+  Anti-hallucination rule was TOO strict
+  Returned "Not specified" for ALL questions
+  including coding, chat, general questions
+FIX:
+  Added is_maritime_query() to detect if question
+  needs manual search. Only maritime/technical
+  keywords trigger local search.
+  General questions go straight to AI.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #010 — AI ADDS FILLER TEXT TO REPLIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅ | Date: 2026-03-07 | File: brain.py
+CAUSE:
+  Groq model adds "By the way..." and unrelated
+  ship operation comments at end of every reply
+FIX:
+  Added to prompt: "NO filler text, NO by the way,
+  NO padding, keep replies focused and practical"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE: FILIPINO/HILIGAYNON VOICE FINETUNE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: ADDED ✅ | Date: 2026-03-07
+File: voice_finetune.py
+USAGE:
+  finetune <wrong> = <correct>
+  list finetune
+  show finetune
+STORAGE: ~/Jarvis/knowledge/voice_corrections.json
+INCLUDES: 150+ Filipino/Hiligaynon accent patterns
+  P/F confusion, V/B confusion, TH→D substitution,
+  maritime terms, ETO equipment, numbers/units
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE: NOTES AND REMINDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: WORKING ✅ | Date: 2026-03-07
+Plugin: plugins/organizer.py
+COMMANDS:
+  note <text>                  Save a note
+  show notes                   View all notes
+  remind <text> in 30 minutes  Natural language reminder
+  remind 30mins <message>      Time-first format
+  remind 08:30 <message>       Specific time reminder
+  show reminders               View pending reminders
+  remember <key> is <value>    Save to memory
+  recall <key>                 Recall from memory
+STORAGE:
+  ~/Jarvis/jarvis_logs/notes.json
+  ~/Jarvis/jarvis_logs/reminders.json
+  ~/Jarvis/jarvis_logs/memory.json
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BUG #011 — PLUGINS NOT LOADING IN UI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: FIXED ✅ | Date: 2026-03-07 | File: jarvis_ui.py
+CAUSE:
+  jarvis_ui.py calls process_query() but
+  loaded_plugins dict was empty - plugins
+  never loaded when running via Flask UI
+FIX:
+  Add before process_query() call:
+    from jarvis import process_query, load_plugins, loaded_plugins
+    if not loaded_plugins:
+        load_plugins()
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURE: REMINDER ALARM SOUND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Status: WORKING ✅ | Date: 2026-03-07
+ALARM: vibrate + Yahoo Chime + gTTS speech
+SOUND: /sdcard/Notifications/Yahoo - Chime.mp3
+NOTE: Use subprocess.Popen() NOT subprocess.run()
+      with capture_output=True — that suppresses audio!

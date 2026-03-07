@@ -1,0 +1,222 @@
+FILE: E-42 ELECTRIC SIGNAL DEVICE.pdf
+FOLDER: .
+DATE: 2026-03-07 08:05:58.210420
+==================================================
+
+
+--- PAGE 1 ---
+FLANDERS TENACITY
+
+ELECTRIC SIGNAL DEVICE
+
+DWG Me
+E -742
+
+This nical document is the property aof
+a aki Heavy Indus . (K1) and may
+nat be copicd, nor dis o any Lhitd party
+without KHI's prior wrilten consent
+MANAGER SCALE  —— JOBNO.  ——
+
+CHIEF
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+KAWASAKI HEAVY INDUSTAIES, LTO
+
+SubETS MO CovER l
+
+R e A -
+
+--- PAGE 2 ---
+MESSRS
+
+SHI?YVARD KAWASAKI HEAVY INDUSTRIES, LTD.
+
+XIND OF SHIT
+
+SHIP'S NO. 22N1456
+
+SHIP' 8 NAME
+
+FINISHED DRAWING
+APR. 23TH 190§
+
+ELECTRIC SCGNAL DEVICE
+
+—{EfrmE AR
+
+SANSHIN SENPAKU DENGU CO., LTD.
+
+y 74
+SANSHIN
+
+DRAW. DATE 0CT. 19TH 1994
+DRAW. NO.
+
+TEL:03-3295~1831
+FAX:03-5259-7162
+
+--- PAGE 3 ---
+19EX MESSRS SHIPYARD SHIP'S NO. M4 | 221466
+KAWASAK] BEAVY INBUSTRIES, LTD.
+=g ox X o A SITP'S HAME R &
+W.| TANE TYPE | DEW. NO. | VOLTAGE| CAPACITY | GLAND | GLOBR ;mm T TV FINISH | RENARES
+: !
+# # RRBUEE| M % |4 FE|m B rwr 00 | vmh mel w & & %
+| [ FLUSH TYPE PUSH BUTTON SHITCH T e 247 isxz | 1| 7580772
+2 | FLUSH TYPE ELECTRIC BUZZER WiTH SWITCH | 4SL-DC24F |5 42041A |Do.  |XP2H  |Da. EIED 1 [pe.
+Tanp prLoT Lawp R
+3 |¥.7. ELECTRIC BUZZER WITH PILOT LAMP 25L $5-106804 | Do. | Do. 5exl  |Do. | Fbisl | 1 |ska/3 |
+I R I R R R o
+S [ AN MR ISR U IR S
+
+--- PAGE 4 ---
+N0. MEASURE NAME PLATE USE Q' TY
+A [AID CALL 1-FHB 1
+
+40
+1 HOSPITAL CALL 28L-DC24F 1
+
+i
+
+|
+
+BEF. CHAMBER ALARY
+
+3SL
+
+GROUND :
+LETTER :
+
+WHITE
+RED
+
+SANSHIN SENPAKU DENGU CO., LTD,
+
+--- PAGE 5 ---
+l SYMBOL
+
+150
+125
+
+4 -¢a5 85
+SETING POLES
+PUSH-ON
+PUSH-OFF }—'
+
+R
+
+NAME NON-WATERTLGHT FLLSH TYPE PUSH
+7lasme [ [ o [ 159 BUTTON SWITCH
+6 [Termmal Boarg|  — 1 RIee, B EAMT Ry
+5 [P T = A A ST
+4 MODEL NO | ~_ brawngro[ss ]
+3 [cuwe screw | BRass 2 |Mas CHIEF SCALE /5
+2 | cover STEEL PUATE | | |PANTING |CHECKED Y] WETGATBNTG 45 kg
+|| 80X ISTEEL PLATE | | | PANTING otawWN | 5 N D A T EfMarch. 1975
+
+NAME OF PARTS| M AT ELTALRQUAN REMARX S |SANSHIN SENPAKU DENGU COAT.
+
+--- PAGE 6 ---
+1
+
+50
+44,5 78
+SETTING HOLES 85
+
+NO,
+
+e
+
+-
+._e mm l 2 915 NAME FLUSH TYPE ELECTRIC BUZZER WITH
+- 1 T SWITCH AND PILOT LAMP
+SWITCH - 1 SBRT Ay dav REIIH T~
+L PILOT LAYP - 1l moaw |1 Y P ezl De2iE Searacity]
+4 |BUZZER - 1 | zp-40 _ [MODE NOJ =" DRAWNGNO|SS- 420414
+BRASS PN CHIEF scale Ll
+1| PALNTING |cHECKED BY] WEIGHT| 0.8 &
+1
+
+PAINTING |D3AWIN 8Y
+
+SANSHIN SENPAKU DENGU C0. 1T0.
+
+D A T E[JUNE 1987
+
+--- PAGE 7 ---
+NAK
+
+BZSW-40680
+
+3-7;
+
+SETTING
+
+HotEs
+
+SYMBOL
+
+a®aur_ 103
+
+2z
+
+N
+
+!
+
+T
+
+il
+| T
+oug
+- w ¥
+. 4
+i : i
+50 e 25
+io
+{
+10 caBLE  GLANO BRASS I Is FA8OL - 15¢ :
+s Jeanrw renmivac | snass ]
+o fremvinaL Boseo — | “u"_’;;r'f'l NAME. WATERTIGHT TYPE ELECTRIC BUZZER
+WITH PILOT LAMP FOR MARINE USE
++ lane soLoen — . Jusresor-rars " A
+. < - :
+o[ sroreJomes mesm | [neo tsmt R kRS AR
+s [etaws semew | amass e’ T v E|a)  [carsciry
++ | aasxer RS MO0EL NC ™~ - prAWING NO| 35 +0 sa0a
+G T I T T STald o a
+2 | caven lsrece sate | 1 pwrowe saring JCHECKED 8Y WEIGHT 38 kg
+L[ soer cast_imok | eamring_ [ORAWIN 8Y] s mmms |0 A T Efuan, 1970
+NO.|NAME OF PARTS|M ATERTALQUAN, REMARK S [SANSHIN SENPAKU DENGU CO.LTD
+
+--- PAGE 8 ---
+BOX NO 3
+®F 5 E
+SHIP NO[ SPARE PARTS LIST FOR U 3 E SETS PER]
+e B 0+ ® & = " @ VESSEL
+=
+| 221456+ ELECTRIC SIGNAL DEVICE
+| — -
+QUANTITY REMARKS
+TTEM} NAME OF QUTLINE # B # A
+ORKING
+NO PART %_H % ‘SPARE
+ER|PER i
+HE| % # # # = EETNER| 2
+14|18
+} 1 { GLOBE «éﬁ- 1 1| RED
+! KP 24V 2%
+2 | Lap - 1 1
+{ = BALS
+3 | GLOBE . E 1 1 | RED
+| KP 24V 20
+L o4 | Lae { T ! 1 1| Elo
+
+L s SPARE PARTS
+BOX

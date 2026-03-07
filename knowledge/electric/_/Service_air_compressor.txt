@@ -1,0 +1,24 @@
+FILE: Service air compressor.pdf
+FOLDER: .
+DATE: 2026-03-07 10:08:56.826520
+==================================================
+
+
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+[4_ Design and Functions
+[4_ Design and Functions
+
+4.4 System Flow Disgram of Machinery
+
+[=g=
+
+1. Air inlet filter sensor 10.0il filter 14 Post-cooler
+2. Air inlet valve  6.0il tank 11.0il cooler 15 Pressure
+3.Drive motor 7.0il separator 12.0ne direction sensor
+4.Compressor 8.0il outlet ball valve 16.Solenoid
+element valve 13 Minimun valve
+
+5. Temperature 9 Safety valve pressure valve

@@ -1,0 +1,2365 @@
+FILE: H-344 INSTRUCTION BOOK FOR SEWAGE TREATMENT UNIT.pdf
+FOLDER: .
+DATE: 2026-03-07 09:46:31.146863
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+SEWAGE TREATMENT UNIT
+
+g
+
+This technical document is the property of |
+Kawasald Heavy lndustries, Ltd (K1) and may |
+not be copied, nor disclosed to any third party
+
+without KHI's prior wril 2
+
+CHIEF
+
+CHECKED
+
+DWG N
+H - 344
+
+ni e
+
+MANAGER
+
+SCALE = JOBNO.
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SHIP GROUP
+
+1456
+
+N KAWASAKI HIEAVY INDUSTRIES, LTD A4 % | sneers weL covem
+
+--- PAGE 2 ---
+CUSTORER © KAWASAKI RAVY THDUSTRIES LTD.
+ISEDFOR 1456
+SEWAGE TREATMENT PLANT
+
+"SUPER TRIDENT”
+ST-3AN
+
+SASAKURA ENGINEERING €0., LTD
+0SAKA JAPAN
+
+TrEI. = 06-473—2134
+FAX : 06—-473-5540
+TLX : 523-3188
+
+[FILE: ST-SPEC) Print : 94/12/1¢
+
+--- PAGE 3 ---
+SASAKURA—HAMWORTIIY SEWAGE TREATMENT PLANT
+” SUPER TRIDENT 7
+ST—3AN
+Licensee of HAHWORTHY Engineering Co. ,Ltd.
+1.5, Coast. Guard Certification Number 159.015/3549/0 ( B3CFR 159 Type II )
+
+CISTONER. KAWASAKI HAVY INDUSTRIES L1D..
+USED FOR 1456
+
+GOnE WY, usce
+
+ME'G NO. 1 set/ship
+
+i. Particulars L
+Purificalion Process Fotivatod Sludge (Exlended heration) Process
+Inflow Liquid Toilet Sewage
+Treatment Capability ax, Flow 2310 1/day ~ (MAX. 38 persons--:60 I1/man/day  Bese)
+iffivent Quality 50D, : Below 40 ppm (ROD-+ BICCHEMICAL OXYGEN CEMAND)
+s$ : Below 40 ppm (SS----SUSPENDED, SCLID)
+Coliforn : Below 200/100 ml
+Power Source MG 480 VoIt ,  60'Hz , 3 Phase R
+External Painting Color Tquipnent :  7.5BG7/2 Control Panel i 7,5B57/2
+QISCHARGE PUMP :7,58G72
+air Requirement | 230 litre/min., 7.7 kg/cm?
+2. Construction
+Parts Set Haterial T Remarks
+Tank(Including Partition Plate) i Hild Steel | Tar Epoxy Coating
+Piping_(Drain Line} 1 Carbon Steel | Tar Epaxy Coating
+Piping (Sludge Return Line) 1 P.%.C. H
+Piping_(Sir Supply Line) i Carbon Stee] Galvanized
+Air Diffusor 2 Styrens Resin
+iiypochlarinator |- BV.C
+3. Accessories (per Plant)
+= Teen Set | Size Haterial Location
+Level Switeh 3 | 5%-6bA | Stainless Steel | Chlorin, Cospart, ( Float Type Yagnetic Switch)
+Plug Cock | 2 | P13/8 | Brass Uhir Supply Line
+Check Valve | 1 |eTi/2 | Cast Bronze ! Do,
+Gate Valve 2 |pT1/2 | Brass Do, { For Diffuser )
+Sanpling Cock 1| PE3/4 | Brass heration Compartuent
+Sanpling Cock | 17T PF1/4 | Brass Chlorination Compartment
+Gate Volve 3 50A | Cast Jron Eff lvent Line
+Pross, Rednce Valve | | PTI/4 | 4lumi, Die Casting Air Supply Line (Set 3 ke/en2)
+Flow Controller 1| PTi/a 1 Aloni. Die Casting Air Supply Line
+_Test e
+Tank _ JHydrauric Test 2.5 v at the top part of the tank
+
+(Note}  The characteristic test of the unit is not held because of the
+difficult condition for carrying it out,
+
+— Ivate: 13841239 7
+ved T 3 ,«E‘ Vorks Mo, 055~ 3158 DUG, N, Fev.
+Figaed 4 15602612 (1/2) 0
+
+(FILE:ST-SPEC) SASAKURA ENGINEERING CO. ,LTD.
+
+--- PAGE 4 ---
+5. Mechanical Equipment o N
+Tten Set Type & Capacity Waterials Resark
+Control Panel 1 | Drip Proof Type Panel ; Mild Steel
+Starter :
+Discharge Punp  (AUTO & MANU,)
+| Control Gircuit : AC 220V, 60Fz v
+" Discharge Pump | 1 | Pump : Casing_: Cast Iron
+& otor | Centrifugs! Non Clog Type Tapoller: Aluniniun Bronze
+7 a3/h X 16 mh shall  : Stainless Steel
+|
+Notor :
+Type : T.ET.C
+1,5k , 2 Poles
+Tnsulation Class * B *
+;
+i
+i
+i
+Spare and Tools
+See the atsached List,
+7. Attached Drawings e
+General Arrangenent. Control Fanel Gutline
+Piping Diagram ! Control Panel Connection Niagram
+Discharge Fump Dimensions .
+Discharge Punp Cross Section !
+Motor for Discharge Punp ]
+8. Remarks
+_PUMP CASING PAINT } ;
+MANUFAC TURER BRAND NAME DRY FILM THICKHESS
+FRIMER DAINIPPON PAINT L2 PRIMER 1S4 %1 S
+FINISH PAINT DAINIFPON_PAINT__ | TAIKG MARINE | B4 %2
+DHG. 0. g{ev.
+
+15602612 (2/2)
+
+{FILE: ST-5PED)
+
+SASAKURA ENGINEERING CO. ,LTD.
+
+--- PAGE 5 ---
+' " 1
+
+. wof e )
+-
+- g SN
+#8 g f
+oS L
+
+ST
+
+o HIGH_ALERY
+_LEyEL ST
+
+BICHLEVEL SICY
+
+SeMERIG T
+
+_(SHIZ YARG SUBRLY
+
+CEwREETIoN R ] FanEL [ ik
+NE URINAL 1hLET SISSE 1508
+| GAS VENT OUTLET EY
+
+e
+Lbeddsis,
+LaW CONTROLLER \ /gzss_a»:numnuw L
+B
+
+of Lmv = a s ST
+2 - ol B
+: =
+K [ | i
+
+[N
+
+; : d
+i P | I g
+
+' : samelivg _corx
+
+GATE VAWE foRChLommATEN
+
+Conti
+
+[APPROX WEIGHT
+
+: WalER INLET g
+0 Sewatt ouiLeT |
+“[EMERGENCY ovERTLOW (NSEK - 50k
+5 | COMPRESSED AlR INLET ClPT YA -
+R OIFFUSER WITHGRAW A, PROVIDE ACCESS 30 BOTH
+1RE_PLALE 5 OF i
+%’N‘ 2 FOR CHLORINATER WITHORAWAL, PEQVIDE ACLESS
+i TG 10P OF PLANT °
+3 IME WIDIN OF 3457 2LATC IS BE HORE THAN. 306 mu HICH_
+15 FIITED_ BT SHIARD_AS_ITS_YIOTH . SHALL 8E.__
+i _MiNgs_Q.mn LOAGER FAOI SIF BLATC UL ORDER TR L
+L 5.E20RL SOE L ATE
+a0 L 7%
+¢
+A
+
+i
+
+fuie €
+
+av2s
+
+T .
+1759
+
+GENERAL ARRANGEMERT OF
+SK=SUPER TRIDENT
+513
+
+NG CO., 1D
+
+SASAKLRA ENGINE
+GiakA 1A1AS
+S B
+T ez i
+
+Koy
+
+--- PAGE 6 ---
+US.Department Commandant 2106 Second Street SW.
+
+ommandent Washingion. 0C 205ga00
+
+of Transportation 2@ S ot G 5‘:’5".5’"’%“(‘202{%267}13444
+; Frone: -
+
+United states /=4 fao
+
+Telefax: (202} 267-1069
+Coast Guard
+
+16714/159.15/Sasakura
+July 16, 1991
+
+Sasakura Engineering Co., Ltd.
+Attn: Mr. K. Murata
+
+7-32, Takeshima 4-Chome
+Nishiyodogewa-Ku, Osaka 8§55
+JAPAN
+
+USCG RECERTIFICATION OF SASAKURA MARINE SANITATION DEVICES
+
+Ve have reviewed your request to extend the USCG certification of your
+marine sanitation devices. These devices continue to mest the
+requirements of 33 CFR 159. Therefore, in accordance with 33 CFR 159.16,
+your marine sanitation devices are recertified for inspected and
+uninspected vessels. The certification numbers previously assigned remain
+valid as follows:
+
+CAPACTTY REF. CERTIFICATE # NEW CERTIFICATE # CERTIFIED FOR
+
+360 GFD  159.15/1035/ 1/IT .159.015/3501/0 Uninspected Vessels
+720 GPD  159.13/1035/ 2/II° 159.015/3502/0 Uninspected Vessels
+1080 GPD 159.15/1035/ 3/IT 159.015/3503/0 Inspected Vessels
+
+1440 GPD 159.15/1035/ 4/IT 159.015/3504/0 Inspected Vessels
+
+1800 GPD  159.15/1035/ 5/IT 159.015/3505/0 Inspected Vessels
+
+2700 GPD 159.15/1035/ 6/I1 159.015/3506/0 Inspected Vessels
+
+3600 GPD 159.15/1035/ 7/I1 159.015/3507/0 Inspected Vessels
+
+180 GPD  159.15/1035/ 8/II 159.015/3508/0 Uninspected Vessels
+360 GPD  159.15/1035/ 9/I1 159.015/3508/0 Uninspected Vessels
+540 GPD  159.15/1035/10/IT 159.015/3510/0 Uninspected Vessels
+720 GFD  159.15/1035/11/11 159.015/3511/0 Uninspected Vessels
+900 GPD  159.15/1035/12/I1 159.015/3512/0 Uninspected Vessels
+1080 GPD 159.15/1035/13/I1 159.015/3513/0 Uninspected Vessels
+1350 GPD  159.15/1035/14/IT 159.015/3514/0 Uninspected Vessels
+1800 GPD 159.15/1035/15/I1 159.015/3515/0 Uninspected Vessels
+1360 lpd 159.15/1035/44/I1 159.015/3544/0 Uninspected Vessels
+2310 lpd 159.15/1035/45/I1 159.015/3545/0 Uninspected Vessels
+2725 lpd 159.15/1035/46/I1 159.015/3546/0 Uninspected Vessels
+4088 lpd 159.15/1035/47/I1 159.015/3547/0 Uninspected Vessels
+1360 lpd 159.15/1035/48/I1 159.015/3548/0 Uninspected Vessels
+
+TeST-34N 2310 lpd 159.15/1035/49/11 159.015/3549/0 Uninspected Vessels
+ST-4AN 2725 lpd 159.15/1035/50/11 159.015/3550/0 Uninspected Vessels
+ST-8AN 4088 lpd 159.15/1035/51/11 Uninspected Vessecls
+
+This certification remains valid for five years from this date unless we
+suspend, withdraw, or terminate it. You may apply for this certification te be
+extended by writing to the Commandant (G-MVI-3) beforc it expires. You cannct
+transfer this certification to another manufacturer without written
+authorization from the Commandant (G-MVI-3). You must notify the Commandant
+{G-MVI-3) in writing when you make any change in the design or comstruction of
+these devices or when you cease manufacturing these devices.
+
+--- PAGE 7 ---
+Subj: USCG RECERTIFICATION OF SASAKURA MARINE SANITATION DEVICES
+
+We have enclosed a copy of cur current list of your certificated devices.
+Please let us know if it contains any information which needs to bes revised.
+
+Should you have further questions, please contact Mr. Berringer of my staff.
+Singérely,
+
+L2
+1. ¥ E
+
+Chief, Survival Systems Branch
+
+Merchant Vessel Inspection andd
+Documentation Division
+
+By direction of the Commatidant
+
+Encl: (1) Certification list
+
+--- PAGE 8 ---
+UNITED KINGDOM OF GREAT BRITAIN
+AND
+NORTHERN [RELAND
+
+CERTIFICATE OF TYPE TEST
+FOR SEWAGE TREATMENT PLANTS
+
+This is 1o certify that a specimen of Sewzge Treatment Equipment, Type SASAKURA S!
+
+231 cbic metres per day, (m/d),
+
+IDENT ST34
+
+ing a designed hydraulic loading of .
+
+an arganic loading
+
+. Xg per day Biochemical Oxygen Demand (SOD}
+
+JR4 ENGINEERING CO LTD, OSAXA, JAPAN .
+TN UL of the design shown
+
+manufactused by .
+
+an Drawing Nos . 8502514 to 15602527, 15602586, 15602557 (all dated 12/2/86)
+
+€O 17D
+
+15602200 to 15602229 {all ;atﬂd 15/10/83)
+
+Control equipment manufactured by
+
+to Drawing Nos
+
+has been examined in accordance with the Inter-Governmental Maritime Consultative Organization Resolution
+MEPC.2({V\] to meet the operational requirements referred to in Regulation 3(13(a)fi) of Annex IV of the
+Internationat Convention for the Preventicn of Pollution from Ships, 1973,
+
+The equipment which was tested produced an cHluent which, on analysis, did not exceed:
+
+250 faecal coliform per 100 millilitre MPN, and a2 geometric mean of total Suspended Solids of
+{50 milfigrams per litre)”
+
+($3 mikigsamepe s heeebirmbeatzsses isx il sy
+
+The control and sensor ecuipment were tested for shock and vibratior.,
+
+This acceptance is based on examination of drawings and on satisfactory tests carried out under the supervision of
+nts of Trade ( ision) & Indus {Leboratory of the Government Chemis
+
+o a similar_treatment plant having a designed hydraulic loading of .3.0L . cubic metres per day and zn organic
+leading of 3-Z . . kilograms per day Biochemicai Oxygen Demand.
+
+The Department is satisfied that the equipment:
+
+(i) has been designed so that the geomenic mean of the S-day Biochemical Oxygen Demand (80D;) doss
+nat exceed 50 milligrams per titre, and
+
+(il can operate under conditions of hieel of up to at least 15°.
+
+A plate or durable labe! containing data of the manufacturer’s name, type and serial numbers, hydraufis loading
+and date of manufacture is to be fitted on each uait.
+
+A copy of this Certificate shall at all times be corried on board zny vessel equipped with the above described unit,
+
+Signed .
+——— O tHeTeT Stamg 1 Administration of the United Kingdom af Great Britain
+o and Northern Ireland
+G
+DEPRRTHENT OF | Dated this . 209 . day ot . ARTEL 18
+EPART
+sl BN
+‘.D'H
+
+vaiss
+
+--- PAGE 9 ---
+then
+
+SASAKURA — HAMWORTHY
+SEWAGE TREATMENT PLANT “SUPER TRIDENT,,
+PIPING DIAGRAM
+
+Air Quantity
+
+Nome of
+
+H ST-280 190 ¢ /min Every Comporiment
+
+I —=ST-38H . 230 ¢/min [ A |aeration Comp.
+-3 s ST-hay - 269 ¢ /uin ificotion  Comy
+g ST-6AN ... 28 g fmin | o JClorienten Comp
+H U S 1) Chlerination Come,
+= - - il -
+27 COMPRESSZID a1 { 7.7 Ko/CM2)
+
+m EMERGENCY
+Overfiow
+— TG POLLUTED W, TANK
+A
+
+1
+
+Fresh o Sea Water
+
+——(BPH — To Overboors
+
+Ingication Symbots
+& | ischorge Pump I+ Gore Volve
+X Flaw_Contraller oky Press. Redycirg Valve (sl SKG/CM2)
+=i | cnlerineter 50 | wen Rerwrn vame
+== Surfoce Ski [y Plog Cock 7
+= air Ditfuser Lt Sompling  Cock
+[ »= Check Valve B
+" 5T -3aN
+ote ST-ZANST = 4AN o 2 5e15 e
+Number of diftuser ossemblics an pipes
+8N, ST 10N ST — (5N 4 sers
+o e g sers
+728N 7 sers
+Remarks sT-300 s B oot
+V. Frovide by-poss uverbowrd dischorge fine on tow suwage inlel G
+2. T ks recommenced to lesd gos vent piping up 30 funnst
+3. Fresh o sea woler conmeclion sholl be ovallable for infiial operation and
+Gleoning fenk inside,
+4. T rop of tons is coove Grought wetsr lins, then pumo dischorgs line must e looped
+above fop o lank of I lonk s inciclied below draushi water hne svch heigh of leop
+“ool should be nbove it 979 provide syphen breaking pipe of the top of loop seal ihe
+height of it 4 he above tne hewd ot pump.
+5. Emergency overflow can only be cifective when the lank overflows. Piping should be
+Jome 50 thet fhe fiow iake place. M smergency wverflow is belaw maximum weler level,
+
+connect to bilge.
+
+ORIGHNAL
+
+--- PAGE 10 ---
+T
+MODEL NO. MODIL NO.2 MODEL NC.3 -
+4-15
+1 BOLT HOLES
+T
+Lmr‘Q 1 535
+LA_"LBOMJ L_:LO_J"\
+_SUC. FLANGE sis Skoked DEL, FLANGE 1S 5 Kalird
+SPECIFICATION
+: PUMP._ MOTOR
+SNTRIFUGAL MON CLOG TYFE  Tvpe  CHNK-50 TotaiLy
+BORE 50 mm €4CLOSED Fax COOLED!
+CapaciTy 7 " PuT 15 kw.
+T UniT55 GTERwiSE SPECPCATED ToTAL neap 16 m#a SwpER S 29 s
+TOMEINSIONS BAE N wm SPEg0_ 347 VOiTAGE 440 v
+Tweignr creLes 60
+PoLEs 22
+ToTac weigHT 48 ky GLano SEE 00T
+REHINE
+SEWAGE TREATMENT PLANT
+DISCHARGE PUMP 5 [ -
+2 SUPER TRIDENT
+{Fore S [wocel
+_ CHNR - S0 °
+e pl Frn o i ErarT
+/27 FEEZ 1724 [sasakuRa ENGINEERING COLTD|T""® ]
+TCAE e
+~ osaka  saran 15602558
+
+BRIGLAA
+
+--- PAGE 11 ---
+TMPELLER T
+
+GIASA  TAPAR
+
+i ¢ SUS334 | 1 [ 866/1 | SET SCREW Ci W5 STREL SO 1
+103 | [MPELLER KET SUS304 | 1 40574 | MEXAGOR 1t 30LT CARBON STEEL SWRMID [ 4
+101 | SHAFT SUS30d | 1 22178 SPRIXG WASHIR STAINLESS STEEL R
+
+5010 RIHG RUEBER T e/ [oRan pLue | carso_STEEL WIXE
+
+H FISG BO% | CAST [RCY Ft 23 t 341 MECHAN(CAL SEAL | .
+
+| DPELLER ALUNTNTUN BRONZS ] 805/4 | NEXAGON H. BOLT CARBON STEEL
+
+L CAS TR CAST [RON i 1 14 INPELLER RASHER | STAIML:SS STEEL
+FART NAME NATEREAL J ¢ TY FO, FART NAME MATERLAL
+R CROSS SECTION HACH 2
+
+CHECE'D SEWAGE TRREATHERT
+K UAMASEI T oF
+
+DS D USED FOR | HAME
+
+o RoTANASHITA DISCHARGE PUMP SUPER TRIDENT
+DRAWS o .
+
+N TYHE . HODEL
+DATE CHNR-50
+12-T03, 1985
+SCALE | Sh3AKUZE ZHGIKEERING CO., LT UKG. §0.
+~ 156026549
+
+REY.
+
+HSD-23-1
+
+--- PAGE 12 ---
+VOLTS, _a POLES [ TNSEL CLASE RATING ANE. TEHP.
+= 5 ] b CONT, 50
+
+10 N 7 ) OoRT. 5
+sz | wonel wo. | OUTTVT D s 1 owew SEALED BUARING 1 RETCRT | ¢y | ppave o,
+
+L )| S O 1 .
+
+{ = 3 N R A N m
+] o
+P I 0 [P ) W]
+
+ROTATION
+
+TOTALLY ENCLOSED FAN CODLED
+SQUIRREL CAGE ROTOR EQUIPPED WITH SEALED BALL BEARINGS.
+
+REX.
+
+B MACHTHE
+o RNUMT } MOTOR ’
+THECK'D STHAGE TRREATMENT PLART
+K YAMASHITA FOR
+USED FoR | NANE
+X, YAMASRITA DISCHARGE PUMP i SUPER TRIDENT
+TRAR —- — — e
+| riee HoDEL
+TATE !
+12-FEB. 188¢ SASARCRA ESGINELRING O, LTO T )
+‘ 15602560
+
+L o~ 0SAkA JARAY i
+WE-23-1
+
+--- PAGE 13 ---
+g g 0
+D] |
+FArmc'\ OEERATING
+NP HNOTE PLATE] o d |
+AN i
+: 250 | N@2-652 200
+! E-)
+39y
+J LETTERING
+i i SEWAGE TREATMENT
+k. ! PLANT N
+,,,,, SOURGE i gllJSNCHARGE PUMP - o
+[~ DISCHARGE PUMP. e —- -
+S 4_| SOURCE i
+I 5_|_MANU. OFF AUTO
+PANEL 6 | START
+F— HaLS
+7 | siop_ - - N
+| b---HLALARM Lo
+NOTE - — :
+
+| SOUDLINE 5 AkZR supbLY
+. DOTTEDLINE: YARD
+WIRING PERFORMANCE,
+
+SUPPLY
+
+Ky 7| CABLE CLAND SIZE
+T :
+skxt | 2.9a MO TOR ICOMTROUALARM
+COMTROL - PANCL. QUTLINE
+
+osara
+
+BRSAXUHA ENGLNEEING CO.,LTD
+RESEN
+
+15602203
+
+--- PAGE 14 ---
+RST
+Fl - = F2 )
+R TR a3
+v B il 0
+FERL) 2
+7L T
+BED
+e 1 Y
+
+vo ¥D W
+il Bl DIS. PUHP
+voven v | nronen L
+oER CLOSE
+N S —
+N EXT. ALARN [ ZNG/NG CoNTRoL R20AT
+Fs [Fais le 5 } NOR.ELOSE Nwaow cawiRoi CowSOLE
+[l
+
+HIGH ALARN LEVEL OPEN
+
+T
+
+THI
+——— y
+! |
+twl wl B8 D 1R 2 a
+- 1 i
+T Fl | R N Ry WS [ WO
+S0OURCE D. FUMP LSL LSH HaLs ALARH
+(HICH LEVEL ALARM)
+v
+v
+DISCHARGE PUMP
+
+CONTROL PANEL
+i
+CONNECTION DIAGRAL ‘ SING
+
+SASAKURA ENGINEERING CQ.. L7D.
+QSAKA JaPAN
+
+--- PAGE 15 ---
+A VAVVAVVAVAVIVivAYS
+
+CIEICATIONS -
+
+F_PRESS. s e | 1500 KR} (270 PSEY
+WORKING PRESS. RANGE,  05~99 4/im |50~ 990 573 | (7 p50 7L
+WORKING FLUID AIR
+AHEIENT FEMP. AND WORKING FLUID TENP. 5 ~ 60 "C (40 ~ 140°F)
+
+PORT S17E. L 2PT Yy
+
+207348 | MEEDLE | Al Bak | [ IR TN
+
+srlrassi 2 |07 Rwe /
+
+SOV IS T | LO0CK MUT |/ HROAIE TRENIENT
+gl/E3773 | A 2 —
+Pl s [/AO | HANDLE ZHCDENSTING |/ YwmorrE rmennt
+7 VAP RNE SAMLESS STER | £\ A anos s
+s SCREW. STEEL _WIRE 4 |Max07:8
+Sl/43/97 [0 mme I EZ- N
+4743/ 45| orrme " [smmirss srer | 4
+
+| S| sE3LS | wvE NER e
+24572 Car SIHELPLATE 7 Noievae s
+fl/g3sdd | Booy et i Exsais |7 Yewrersie ey
+
+5 | PART Mo PART NAME MATERIAL _purr{ REMARKS
+
+TITLE  Frow  CONTROLLER
+SHOKETSU KINZOKU KOGYO CO., LTD.
+H. Tt
+7. 747703
+
+— THIRD MGLE P
+KD BY SCALE DWG. NO,
+Sare
+hPPRD BY |
+
+oatE
+
+% @ AS4000-02
+
+--- PAGE 16 ---
+Goramandart 2100 Seqond Street SW.
+
+US Department < Guar Washirgtor, 9C B
+of Transportation 1S Goast Guird priniials et
+
+iy Frone:  (202) 267-1d44
+United States Telefax: (202) 267-1069
+Coast Guard
+
+16714/159.15/Sasakura
+July 16, 1991
+
+Sasakura Fngineering Co., Ltd.
+Attn: Mr. K. Murata
+
+7-32, Takeshina 4-Chome
+Nishiyodogawa-Ku, Osaka 555
+JAPAN
+
+USCG RECERTIFICATION OF SASAKURA MARINE SANITATION DEVICES
+
+¥e have reviewed your request to extend the USCG certification of your
+marine sanitation devices. These devices continue to meet the
+requirements of 33 CFR 159, Therefore, in accordance with 33 CFR 159.16,
+your marine sanitation devices are recertified for inspecled and
+uninspected vessels. The certification mumbors previously assigned remain
+valid as follows:
+
+MODEL GAPACITY REF. CERTIFICATE # NEW CERTIFICATE # CERTIFIED FOR
+
+360 GPD 169.15/1036/ 1/I1  159.015/3501/0 Uninspected Vessels
+720 GPD  159.15/1035/ 2/I1 159,015/3502/0 Uninspected Vessels
+1080 GPD  159.15/1035/ 3/I1 159.015/3503/0 Inspected Vessels
+1440 GPD 159.15/1035/ 4/I1 159.015/3504/0 Inspected Vessels
+1800 GPD 159.16/1036/ 5/11 158.015/3505/0 Inspected Vessels
+2700 GPD 159.15/1035/ 6/11 159.015/3506/0 Inspected Vessels
+3800 GPD  159.15/1035/ 7/11 159,015/3507/0 Inspected Vessels
+180 GPD  159.15/1035/ 8/I1 159,015/3508/0 Uninspected Vessels
+360 GPD  159.15/1035/ 9/IT 158.015/3509/0 Uninspected Vessels
+540 GPD  159.15/1035/10/IT 159.015/3510/0 Uninspected Vessels
+720 GPD  159.15/1035/11/1T 159.015/3511/0 Uninspected Vessels
+960 GPD  159.15/1035/12/I1 155.015/3512/0 Uninspected Vessels
+1080 GPD 159.15/1035/13/11 159,015/3513/0 Uninspected Vessels
+1350 GPD  158.15/1035/14/I1 159.015/3514/0 Uninspected Vessels
+1800 GPD 159.15/1035/16/11 159.015/3515/0 Uninspected Vessels
+1360 1pd 159.15/1035/44/11 158.015/3544/0 Uninspected Vessels
+2310 lpd 159.15/1035/45/11 159.015/3545/0 Ininspected Vessels
+2725 1pd 159.15/1035/46/I1 158.015/3546/0 Uninspected Vessels
+4088 lpd 159.15/1035/47/I1 159.015/3547/0 Uninspected Vessels
+1360 lpd 159.15/1035/48/11 159.015/3548/0 Uninspected
+2310 1pd 159.15/1035/49/FF 159.015/3549/0 inspactod
+2725 1pd 159.15/1035/60/1F 159.015/3550/0 Uninspected Vessels
+4088 lpd 159.15/1035/51/IT 159.015/3551/0 Uninspected Vessels
+
+This certification remains valid for five years from this date unless we
+suspend, wilhdraw, or terminate it. You may epply for this certification to be
+extended by writing to the Commmdant (G-MVI-3) before it expires. You camnot
+transfer this certification to another menufacturer without written
+authorization from the Commandant (G-MVI-3}. You must notify the Commandant
+(G-MVI-3) in writing when you make any change in the design or construction of
+these devices or when you cease manufacturing these devices,
+
+--- PAGE 17 ---
+Subj: USCG RECERTIFICATION OF SASAKURA MARINE SANITATION DEVICES
+
+We have enclased a copy of our current list of your certificated devices.
+Please let us know if it contains any information which needs to be revised.
+
+Should you have further questions, please contact Mr. Berringer of my staff.
+
+Singdrely,
+
+.+ L. M2
+
+Chief, Survival Systems Branch
+
+Merchant, Vessel Inspection andd
+Documentation Division
+
+By direction of the Commandant
+
+Encl: (1) Certification list
+
+--- PAGE 18 ---
+UNITED KINGDOM OF GREAT BRITAIN
+AND
+NORTHERN [RELAND
+
+CERTIFICATE OF TYPE TEST
+FOR SEWAGE TREATMENT PLANTS
+
+RIDENT ST3A
+
+This is to certify that a specimen of Sewage Treatment Equipment, Type SAS 0¥
+
+3L cubic metres per day, (m*/d),
+
+having a designed hydraulic loading of .
+
+1.8
+an organic loading of ., , . . . kg per day Biochemical Oxygen Demand (BOD}
+
+SASAKURA ENGINESRING CO LTD, OSAKA, JAPAN
+
+manufactured by .
+
+on Drawing Nos , 23802514 to 1560
+
+- ... of the design shown
+527, 15602556, 16602557 (all dated 12/2/86)
+
+3
+25
+
+Centrol equipment manufactured by .
+
+to Drawing Nos . 13903200 to 156077
+
+has been examined in ccordance with the Inter-Governmental Maritime Consultative Organization Resolution
+MEPC.2(Vi} to meet the vperativnal recuirements referred 1o in Regulation 3{11a}i) of Annex IV of the
+International Canvention for the Preventian of Pollution from Ships, 1973.
+
+The equipment which was tested produced an cfffuent which, on analysis, did not exceed
+
+250 fascal coliform per 100 millilitre MPN, and a geometric mean of total Suspended Solids of
+{50 milligrams per litre) *
+
+(18 miMigramsiper fitreaboxes shoombimbarates user X Hushing parposs K
+
+The control and sensor equipment were tested for shock and vibration.
+
+This acceptance is based on examination of drawings and on satisfactory tests cartied out under the supervision of
+bivision) & Industry (Laboratory of the Government Chemis
+
+o a similar,_treatment plant havlnq a designed hydrauic loading of 3.0, . cubic metres per day and an organic
+joadling af 2+% .. kilograms per day Biochemical Oxygen Demand,
+
+The Department is satisfied that the equipment:
+
+(i) has been designed so that the geometric mean of the 5-day Biochemical Gxygen Osmand {BOD;) does
+not exceed 50 milligrams per litre, and
+
+(i) can operatz under conditions of heel of up to at least 15°,
+
+A plate or durable label cantaining data af the manufacturer’s name, type and serial numbers, hydraulic loading
+and date of manulacture is to be fitted on each unit,
+
+A copy of this Certificate shall at all times be carried un boand sny vessel equlpped with the abave described unit.
+
+Signed,..'.:Dﬁgj S = T
+
+Administration of the United Kingdam of Grest Britain
+and Northern Ireland
+
+Doted this .27, day o, ARTIL 1 5PE
+
+MA"NL CH(L Attt
+LoNneoR
+
+vzt
+
+--- PAGE 19 ---
+" SASAKURA SUPER TRIDENT"
+
+MARINE SEWAGE TREATMENT PLANT
+INSTRUCTION MANUAL
+
+(ST-2AN - ST-6AN)
+
+SASAKURA ENGINEERING CO., LTD.
+MAIN OFFICE  :  7-32, Takeshima 4-chome
+Nishiyodogawa-ku, Osaka, 555, Japan
+TEL {06)473-2134
+TELEX:523-3188
+FAX : (06)-473 5540
+
+TOKYO OFFICE : 3-8, Yaesu I-chome
+Chuo-ku, Tokyo, 103, Japan
+TEL «03)271-7771
+TELEX:222-2351
+FAX : (03) 281 - 1928
+
+15602709
+(JuLY., 1986)
+
+--- PAGE 20 ---
+L
+
+2.
+
+6.
+
+CONTENTS
+
+INTRODUCTION
+
+GENERAL
+
+PRINCIPLE and COMPONENTS
+
+| General Description
+2 Aeration Compartment
+3 Clarification Compartment
+4 Chlorination Compartment
+5 Chlorinator
+
+6 Discharge Pump
+7 Air Requirement
+8 Float Switch
+
+9 Electric Contro}
+10 Reducing Valve
+
+Ll Flow Controller
+
+3-
+3
+3-
+3.
+3.
+3m
+3.
+3-
+3.
+3
+3
+
+OPERATION
+
+4-] Before Operation
+4-2  Operating Procedure
+4-3  Measurement of the Residual Chlorine Content
+
+REMARKS
+
+5-1 Remarkson Operation ..
+5-2 Handling and Storage of Calcium Hypochlorite Tablets
+
+MAINTENANCE SCHEDULE
+
+1 Inspection Program
+
+2 Cleaning
+
+-3 Repair of the Tank Inside Coating
+4 Inspection of Discharge Pump -
+
+DISCHARGE PUMP INSTALLATION (Fig.2)
+
+GUARANTEE e
+
+PARTS LIST
+
+SECTIONAL ARRANGEMENT OF THE PLANT ...
+
+~
+
+VU R S W W N
+
+1
+15
+16
+16
+17
+17
+18
+
+20
+
+--- PAGE 21 ---
+INTRODUCTION
+
+The Sasakura Super Trident Sewage Treatment Plant is manufactured under the
+technical licence agreement with Hamworthy Engineering Ltd., U.K.
+
+The Sasakura Super Trident Sewage Treatment Plant is a system for the complete
+purification and treatment of sewage from ships and rigs before it is discharged
+overboard and thus prevents the pollution of harbours, coastal waters, and inland
+waterways.
+
+This system approved by the U.S. Coast Guard as the "Type Il Marine Sanitation
+Device" and also certified by DOT, England, based on the international Standard, IMO
+(1973), can efficiently cope with the warld's existing and prospected sewage discharge
+control regulations.
+
+The system adopts the activated sludge process, especially total oxidation (extended
+aeration) process to minimize excess sludge. Also, the system is provided with a
+sterilization means for the treated sewage. Thus, the system is characterized as a
+very compact, highly efficient sewage treatment plant and can be used satisfactory
+on salt, fresh or brackish waters.
+
+Sasakura Super Trident has ST-2A - ST-6A models equipped with exclusive air
+compressar on the skid, and ST-2AN - ST-6AN models exclusive compressor
+eliminated by using ships' compressed air. This manual describes for
+
+5T-2AN - ST-6AN.
+
+GENERAL
+
+This system adopts activated sludge process which is a water purification process
+utilizing the biological sludge called activated sludge. Biological sludge is of
+complicated components, mainly consists of aerobic bacteria to which adheres
+suspended solid both organic and inorganic, including protozoa, metazoa, and bacillus.
+These aerobic bacteria are highly adsorptive and are able to break down organisms by
+combustion activities of these microbes. When placed static, these aerobic bacteria
+flocculate, forming flocs which facilitate settiing out of themselves. While alr is
+supplied 1o the sewage by aerating, the sewage and activated sludge contact each
+other.
+
+Consequently, activated sludge adsorbs most of the waste matters in the sludge both
+organic and inorganic with its powerful adsorbing ability.
+
+The adsorbed waste matters serve as nutritions source for microbes in the sludge.
+Part of the adsorbed waste matters is broken down into such harmless elements as
+
+water, carbon dioxide, etc, Part of it forms cell of the activated sludge.
+
+--- PAGE 22 ---
+3-1
+
+Various ways can be considered as the activated sludge process depending on each
+purpose. One of them is a method usually called "Complete Oxidation Process" which
+is adopted by Sasakura Super Trident Sewage Treatment Plant.
+
+In the complete oxidation process, the sewage and the activated sludge are contacted
+each other for a very long hours, with which waste matters (nutritions source for the
+activated sludge) per sludge unit are relatively decreased and microbes are
+consequently starved and begin metabolic activities using their own cytoplasm. Thus
+they consume most of their own cytoplasm which they once synthesized. And so,
+cven after an operation of long hours, quantity of the sludge increase is extremely
+small, which is desirable for an easy maintenance and is the most suitable method for
+a compact plant. Immediately after the satisfactory contact of the activated sludge
+with the sewage and holding them still, the activated sludge forms large flocs and
+casily settles out. The bacteria settled out as the activated sludge are returned to
+the aeration compartment in order to maintain the constant sludge density in the
+
+aeration compartment.
+
+PRINCIPLE AND COMPONENTS
+
+General Description
+
+The Sasakura Super Trident Sewage Treatment Plant comprises three compartments-
+an aeration compartment, a clarification compartment, and a chlorination
+compartment, as shown in Fig.l. The incoming sewage enters the aeration
+compartment, where it is supplied with air and is digested and broken down by the
+activated sludge. The sewage, after being fully purified in the aeration
+compartment, flows into the clarification compartment, where the activated sludge
+settles out and the pure clean water separated fram the activated sludge is sterilized
+
+in the chlorination compartment and then is discharged overboard.
+Savage Ince Bas Vanr
+
+O
+
+Activered Studae
+Retura Line
+
+<
+
+Chtarinatar Hign lerm Floac
+Switen
+
+/z
+
+-
+
+=
+
+Fisating Ouariz
+
+Retumn Ling
+PN High Lovel Fiaae
+
+switen
+2 Low Lt Fionr
+
+. Swirch
+
+C
+Sererion Faravion Chiorination o
+(Fig. 1) "SASAKURA SUPER TRIDENT"
+
+SEWAGE TREATMENT PLANT
+-2~
+
+--- PAGE 23 ---
+3-2
+
+3.
+
+»
+
+34
+
+Aeration Compartment
+
+In this compartment of the treatment plants, the activated sludge which imbibes
+dissolved oxygen reduces the influent waste material which mainly comprises Carbon,
+Oxygen, Hydrogen, Nitrogen, and Sulphur into Carbon Dioxide, water and new
+bacteria cells.
+
+The carbon dioxide is emitted through the vent system, while the water together with
+the bacteria cells are displaced, after approximately 24 hours, into the clarification
+compartment. Air is supplied to the sewage by connecting with ship's compressed air
+system through a number of fine bubble diffusers, located at the bottom of the tank
+but removable from a manhole at its side for ease of maintenance. This air provides
+the life giving oxygen to the aerabic organisms and also keeps the contents of the
+tank intimately mixed with the incoming raw sewage and the returned settled
+
+activated sludge.
+
+Clarification Compartment
+
+The mixed fluid flowed into the clarification compartment settles out and the pure
+clean water separated from the activated sludge is sent to the chlorination
+compartment through an over-flow pipe located in the clarification compartment,
+while the activated sludge settled out is returned to the aeration compartment from
+the bottom of the clarification compartment by the airlift tube, via a visual vinyl
+hose which enables a check to be made on the sludge return.
+
+The clarification compartment is of the hopper type. The sloping sides prevent the
+settled sludge from accumulating and direct it to the suction side of the air lift tube.
+A skimmer is provided at the upper center of the clarification compartment to skim
+off and return surface debris back to the aeration tank by way of the same method
+taken for the return of the activated sludge.
+
+Chlorination Compartment
+
+The pure clean water overflowed from the clarification compartment dissolves
+chiorination tablets in the chlorinator and then flows into the chlorination
+compartment, where it is sterilized.
+
+At the side of the tank provided are two level regulators {float switch) to control the
+operation of pump, An additional float switch is fitted which operates an alarm
+signal should the level rise above the normal "high” level position. An emergency
+overfiow pipe is fitted to prevent abnormal overflow of the treated water to the
+
+outside of the tank.
+
+-3-
+
+--- PAGE 24 ---
+3-5
+
+3-6
+
+3.7
+
+3-8
+
+Chlorinator
+
+In the chlorinatar the pure clean water passes through sterilizing tablets in such a
+way that it directly contacts the tablets, thus chlorine solution is made. The
+chlorinator comprises rectangular chlorinator body and three cylinders for filling the
+chlorinator with tablets.
+
+At the bottom of the filling cylinder several cuts are provided to bring the flowed-in
+fluid contact with tablets placed in the cylinder, and the required amount of chlorine
+is dissolved. At the outlet of the chlorinator is a control weir arranged so that as the
+effluent flow increases the level rises and more tablets come into contact with the
+effluent. In this way the chlorine uptake is always sufficient for sterilization of the
+efiluent.
+
+Discharge Pump
+
+The discharge pump is a centrifugal, non—clog type rigid coupled to the motor.
+Usually, the pump automatically discharges the treated water during operation and
+with a manual operation taking out the sludge from each compartment is enabled
+during the cleaning of the tank inside,
+
+For details of the pump, please refer to the separate Instruction Manual.
+
+Air Requirement (Ship's compressed air shall be used.)
+Connect ship's utility air line (3.5 - 9.5 kg/CmZG) to the compressed air inlet of the
+sewage treatment plant. Necessary air quantity is specified in the drawing. An air
+
+valve shall be provided in the customer air supply line.
+
+Float Switch
+Three float switches, high level, low level and high alarm level switch are fitted on
+
+the chlorination compartment.
+
+4
+
+--- PAGE 25 ---
+3-9 Electric Control
+The panel contains the starter of the discharge pumip which is subject to the sequence
+of operations as follows:
+When the control switch is in the "AUTO" position, the discharge pump starts to
+operate automatically. When the liquid reaches the "High" level float switch in the
+chlorination compartment, the pump motor is started and the liquid is discharged
+until it drops to the level of the "Low" level float switch, when the motor is switched
+off.
+For manual operation, the control switch is moved to the "MANU" position and the
+"START" push button switch is operated to run the pump motor. Push the "STOP"
+button and the pump stops.
+Should the liquid go over the high leve! for some reason, the alarm circuit is switched
+
+on.
+
+3-10Reducing Valve
+Reducing valve is fitted to keep constant air supply in case ship's air pressure should
+fluctuate. Reducing valve need not be adjusted on board as it is previously set at
+prescribed pressure (3 kgfcm? as standard, details per separate drawings) in the
+factory.
+
+3-11Flow Controller
+Flow controller is provided to supply constant aeration air even if pressure in the
+aeration compartment should fluctuate.
+Flow controller must not be changed of the adjustment as it is previously adjusted in
+the factory. If the flow controller is changed by error, adjust flow rate with flow
+meter by turning the needle of controller, so as the correct flow rate specified in the
+
+drawings is to be achieved,
+
+-5-
+
+--- PAGE 26 ---
+L
+
+OPERATION
+
+4-1 Before Operation
+
+4-2
+
+The following checks must be finished before operation.
+
+w
+
+@
+
+3
+
+Check that the control structures and the related portion have no damages and
+no Jooseness at the fitting portion. Check also that the discharge pump, etc. are
+
+ready for the normal operation.
+Check that wiring is completed.
+(Please refer to Wiring Diagram attached to the insidé of the control panel
+
+cover.)
+
+Check the rotation direction of the discharge pump.
+
+Operating Procedure (Refer to Fig.2)
+
+¢Y]
+
+&)
+
+3
+
+O]
+
+&]
+
+<6
+
+Turn the power switch to "ON" and set the select switch of the discharge pump
+at "AUTON
+
+Close the valve 2, and the valve 4, and open the valve | and valve 3.
+
+Fill the tank with water until the water flows through the chlorinator.
+Close the valve 1 and valve 3, and open the valve 2 and valve 5.
+
+Open the lid of the tablets feed tube to fill it with tablets.
+Usually, only one tube out of the three shall be filled.
+
+Open air valve and lead the compressed air to the unit.
+
+Fully open all valves of the air feed line on the tank top.
+Since flow controller and pressure reducing valve is previously adjusted in the
+factory, do not change the adjustment. Also open the air feed plug cock of scum
+return fine fully, and lead compressed air by opening the air valve, then ensure
+that the reading on the pressure gauge of reducing valve is same value as
+specified in the drawing (3 kg/cm? as standard).
+
+In case reading on the pressure gauge of reducing valve is not specified value,
+
+adjust pressure reducing valve to show correct value.
+
+-6-
+
+--- PAGE 27 ---
+{7) Make sure that the fluid is being sent back through the sludge return vinyl hose
+at the upper part of the aeration compartment exterior. Of the two hoses at the
+said part, the one at the tank center is for scum return to return the surface
+debris in the clarification compartment back to the aeration compartment,
+through which the fluid flows only when sewage flows into the sewage treatment
+plant.
+
+Since the airflow for sludge return is previously adjusted by the plug cock in the
+factory, do not change the adjustment. If the plug is changed by error, adjust
+the opening so as the water flow in the sludge return viny! hose is kept at about a
+half level.
+
+Now that the preparation for operation is over, open the sewage inlet valve to
+
+flow sewage into the device.
+
+4-3 Measurement of the Residual Chlorine Content
+A chlorine test kit for the measurement of the residual chlorine content in the
+treated water effluent is provided. Sample water is taken from the sampling cock of
+the chlorination compartment. As to the measuring method, please refer to the
+direction sheet provided in the device. If the residual chlorine contents results less
+than | ppm, use both two or three tablet feed tubes.
+
+-7-
+
+--- PAGE 28 ---
+5. REMARKS
+
+5.1 Remarks on Operation
+
+At the operation of this system in which the sewage is treated by the biological
+
+sludge, the followings ought to be obeyed.
+
+(1} After the starting up of the system, it takes a certain period (usually from 10
+days to one month, though can be varied depending upon the operating
+circumstancies) before the aercbic bacteria breed.
+
+Therefore, the expected result can not always be obtained from the very
+beginning. As bacteria get breeded, the treated water improves its quality sa
+the operation have to be continued without suspension.
+
+(This fact is true of the re-operation after the Cleaning.)
+
+{2) Even outside the restricted waters, the system shall be kept operated, where,
+however, chlorination is not necessary. If the operation is suspended for more
+than 24 hours, treatment efficiency would be affected due to decreased or died
+
+out bacteria caused by lack of oxygen and nutrition supply to aerobic bacteria.
+
+{3} If the system has to be suspended by any reason, be sure to clean the inside fully.
+For the method of cleaning, refer to "6-2 Cleaning".
+
+{4) Ship's compressed air must be supplied to the plant so as to keep the treatment
+efficiency normally.
+When ship's air should not be available by some reason, the system shall not be
+used.
+
+(5) It is recommended not ta use chemicals for cleaning the lavatory which if mixed
+
+into, might destroy the aerobic bacteria and deteriorate the system,
+
+(6) If the electricity stoppage continues long, prohibit the use of the lavatory or
+
+take a necessary measure to block entering of the sewage into the system.
+
+(7) Provide a litter box in the lavatory to avoid those materials as bits of cloth,
+
+paper towel or viny! being thrown away into the lavatory.
+{8) If the flushing water of stools is kept flowing, the water flow into the system
+
+becomes excessive and the treatment efficiency would be affected. Be sure to
+
+flush water only when the lavatory is used and to stop flushing after use.
+
+8-
+
+--- PAGE 29 ---
+(9) NOTE: The EPA standards state that in freshwater lakes, freshwater reservoirs
+
+or other freshwater impoundments whose inlets or outlets are such as to
+prevent the ingress or egress by vesse! traffic subject to this regulation,
+or in rivers not capable of navigation by interstate vessel traffic subject
+to this regulation, marine sanitation devices certified by the U.S. Coast
+Guard installed on all vessels shall be designed and operated to prevent
+the overboard discharge of sewage, treated or untreated, or of any waste
+derived from sewage. The EPA standards further state that this shall
+not be construed to prohibit the carriage of Coast Guard-certified flow-
+through treatment devices which have been secured so as to prevent such
+discharges. They also state that waters where a Coast Guard-certified
+marine sanitation device permitting discharge is allowed include coastal
+waters and estuaries, the Great Lakes and interconnected waterways,
+freshwater lakes and impoundments accessible through locks, and other
+flowing waters that are navigable interstate by vessels subject to this
+regulation (40 CFR 140.3).
+
+( CGD 73.83, 40 FR 4624, Jan 30, 1975, as amended by CGD 75-213, 41
+FR 15325, Apr. 12, 1976)
+
+5-2 Directions for Handling and Storage of Calcium Hypochlorite Tablets (Chlerine
+
+Tablets)
+
+Since the tablets'are an oxidant of high power, close attention shall be paid to the
+
+following points.
+
+(1) Keep off the tablets from any combustible materials or chemicals such as fire,
+
+@
+
+3)
+
+heat, acid, alkali, grease, oil, waste cloth, paint, thinner, dust, detergent,
+vineger, charcoal, and sulfur as the direct contact or mixing with these may
+possibly cuase an explosion or fire. Also refrain from storing the tablets with
+
+any one of those materials.
+Keep the tablets off a cigarette fire or the like as it can be the cause of fire.
+Handle the tablets with a set of clean and dry rubber gloves or a metal utensil.
+
+If handled with some contaminated object, such may be the cause of fire.
+Do not touch the tablets with wet hands directly.
+
+9.
+
+--- PAGE 30 ---
+O]
+
+(5)
+
+9
+
+Should a fire break out, drench it and coot off the surroundings with:plenty of
+water.
+
+Special care must be taken because the tablets may be splashed or a gas may be
+generated at the fire extinguishing.
+
+While carrying tablets container, be careful to avoid mixing with any foreign
+substance or water and to prevent damage to the container or spreading of the
+tablets due to dropping or impact.
+
+Keep the tablet tightly-closed in the original container to avoid humidity at a
+dark and cool (80 °C or lower) place. Take care not to fall it down and deep out
+
+of children's reach. Refrain from re-packing the tablets into another container.
+
+All the spilled or stained tablets shall be used out and shall not be returned to
+the original container. Wash off residual tablets with plenty of water.
+
+Flush the container after use fully with water to clear out all the residual tablets
+and discard the clean container, to a safe place.
+
+Emergency Remedy
+
+)] Wash off any particles of the tablets getting into an eye with plenty of
+water for more than 15 minutes, then take a treatment by an oculist
+promptly.
+
+2) Also wash off with plenty of water any tablets on the bady or clothing.
+
+If irritation to skin persists, get medical attention.
+3) i swallowed, dring milk, raw egg, white or rice gruel immediately, then
+
+take an emetic (tablespoon of mustard in a glass of tepid water).
+
+Call a physician promptly.
+
+-10-
+
+--- PAGE 31 ---
+6. MAINTENANCE SCHEDULE
+6-1  Inspection Program
+
+i Program) ?lace tobe | Matt.ers to be Disposal :
+, | inspected | confirmed
+! SR | . SR ]
+: i i
+[Bvery | Pressure | Reading of pressure Adjust reading to be specified value
+| day ‘5 reducing | gauge should be correct. (3 kg/em? standart), :
+| vabeat Drain must not be Drain if accumulated. :
+I air inlet accumulated more than .
+1 } Limit level. !
+:_*7,,, S— +,,_ S P S O
+| Sludge return | Sludge and scum are being | If sludge and scum are not being
+. ; line and scum | returned. {Note that the returned, follow Note | on Page 13
+! remrnline | soum returns through the | for the measure. i
+' i {NOTE1) | hose only when sewage | ;"
+i | 3 flows into the plant.)
+¢ Chlorination ‘ The tube must be filled Remove the top cover and fill the |}
+i | tabletsin ! with tablets at least tube with the tablets full.
+; t o the up to one-fourth
+i i chiorinator  * height from the bottom,
+i (NOTED) |
+| Every Residual & Residual chlorine Should the residual chlorine
+i week chiorine ! content must be content exceeds 5 ppm use only one |
+content of 1 ppm - 5 ppm. tube. Should the residual chlorine
+the treated content below | ppm, use two {
+water | or three tubes.
+. (NOTE 3 o
+
+.
+
+--- PAGE 32 ---
+Place to be Matters to be { Dispasal
+
+Program
+
+inspected F:onﬁrmed i
+
+manual of discharge pump.
+
+| i
+| Every Chlorinator | The tube inside must | Remove the chiorinator and clean ;
+! month {NOTE 4 not be clogged. ! it ;
+Discharge Check the leakage of | If leakage rate exceeds 0.5 cc/min., 5
+| pump { mechanical seal. } repair in accordance with the 1
+| |
+
+|
+!
+|
+]
+i
+| |
+|
+¢
+i
+i
+
+— — S
+Every Aeration Discharge the ékcess Stop ship's air supply and the
+2or3 compartment . sludge. flow in of the soil to the plant {
+months for about hatf an hour. .
+
+I
+
+|
+
+§
+
+! Then pump out through the discharge
+| pump about 75% of the mixed ;
+| solution in the aeration
+
+| compartment.
+
+This operation is limited ta the
+unrestricted territory.
+
+Before re-starting the cperation
+after the discharging, fill the
+
+| tank with water again.
+
+)
+i
+{
+|
+i
+H
+{
+t
+|
+i
+i
+|
+
+Check if the interior If soiled, clogged, clean with
+
+screen is soiled. fresh water or pure sea water.
+Clarification | Check if the inside If soiled, clean with fresh water
+compartment | is soiled,
+
+-12-
+
+--- PAGE 33 ---
+[ ;ogra:} “Place tobe | Matterstobe | ;;p;; T 'T
+| | inspected contirmed |
+- L — S . ‘
+‘ Every | Tank, Inspect the tank After discharging the mixed E
+1 year | discharge inside, discharge solution, clean the inside with |
+| L pump | pump and other fresh or sea water and check each |
+i i accessories. part. %
+| | | Repait or renew if they have trouble. |
+i k*-————-——— e O aaT T —— [ERE—
+‘ ! Pressure Filter shall not Clean if clogged.
+
+| reducing be clogged.
+
+1 valve |
+
+S S — —
+
+l Tank Damage to inside Re-coat the damaged part.
+| dyears | inside coating. |
+
+(NOTE 1) Countermeasures at failure of sludge and scum return lines
+
+1. Cause
+No air is supplied to each return line or the pipe of the return line is
+clogged.
+
+2. Checking and Measures
+
+{1} Check if ship's are is correctly supplied and treat to be supplied
+if not.
+
+(2) Check if the plug cock of the air feed line is opened and open it if
+closed.
+
+(3) Check air leakage from the joints of the air feed line and repair the
+joint of any leakage.
+
+(4) Make sure that the fine portions of the air feed line (such as the
+fitting at the end of vinyl tube in the tank, for example) is not
+clogged, and remove clogging if any.
+
+(5) Check if sludge or scum is staying in the return lines, and remove the
+clogging in the following procedure, if any.
+
+1) Stop compressed air supply by shutting the air valve, remove the
+vinyl hose and clean the hose.
+2) Remove the elbows and nipples of the return lines, and remove
+
+the sludge and scum accumulated inside.
+
+13-
+
+--- PAGE 34 ---
+(NOTE 2)
+
+(NOTE 3)
+
+(NOTE 4)
+
+{6) Reassmble the return lines and make sure that sludge and scum are
+returned. Check the return flow when the lavatory use is at the peak
+since the scum return does not flow through the hase except that
+sewage flows into the plant.
+
+As to the chlorination tablets, use the standard supply defivered by the
+maker.
+
+If any equivalent or chemicals from other makers has to be used for any
+reason, clean the chiorinator fully before using. Contaminaticn with
+
+foreign matter may result is fire or explosion.
+
+A residual chlorine test kit is delivered by the maker placed in the spare
+parts box.
+
+As the cleaning period of the chlorinator depends on the operating
+condition, determine the period as occasion requires.
+If the chlorinator is not in use at the outside of restricted water, clean it
+
+after taking out the tablets.
+
+4o
+
+--- PAGE 35 ---
+6-2 Cleaning
+
+[t¥]
+
+2
+
+Cleaning of the Chlorinator
+
+The chlorinator must be cleaned periodically, as in the chlorinator, calcium
+
+hypochlorite tablets are dissolved with the treated water, which leaves
+
+undissolved stuff deposited inside or stuck to the inner surface of the unit.
+
+(CAUTION)
+
+* Prior to cleaning with acid, sterilizing tablets and its particles have to be
+completely remeved.
+
+* If not, dangerous chlorine gas will be given off.
+Bring the chlorinator to the washing place of goad water convenience, and
+wash it down.
+
+* Do not use water of more than 65°C (150 °F)
+
+* Be careful at removing as P.V.C. resins used for the chlorinator are sensitive
+to the hitting damage.
+
+I) Remove the chlorinator off from the system. And at the place of convenient
+water supply, wash away the tablets particles.
+
+2) Remove the undissolved deposit completely with a spange ar a brush.
+
+3) Throughly wash the body of the chlorinator with fresh water until it is clean.
+
+4) Refill the tube with calcium hypochlorite tablets.
+
+Cleaning of the Tanks
+
+(As to the number of valves, refer to Fig. 2.}
+
+{CAUTION)
+
+* Cleaning must be carried out at the outside of the restricted territory.
+
+*  When cleaning, keep the compressed air supplied. If air supply is suspended
+for cleaning, the sludge may flow black to the sludge line resulting in a
+clogging-
+
+* Cleaning must be carried out at least 10 days before entering the restricted
+territory.
+
+(1t takes at least 10 days before the normal activated sludge density is
+attained after cleaning.)
+
+*  When discharge mixed selution of waste water and activated sludge in the
+
+plant, the discharge pump should not be allowed to run dry.
+
+-15-
+
+--- PAGE 36 ---
+n
+
+2)
+3)
+4
+5}
+
+6)
+7
+
+8)
+9)
+
+Close all the valves on the raw sewage inlet lines.
+
+If valves are not provided on the lines, prohibit the use of sewage source.
+Select the discharge pump switch on the control panel to "OFF".
+
+Open the valves 2, 3, 4 and 5.
+
+Confirm that the valve ! is closed.
+
+Move the select switch for the discharge pump on the control panel to
+“MANU" and push the "START" push button to run the discharge pump and
+empty the plant inside.
+
+When the plant inside is emptied, stop the pump with the "STOP" push button.
+Wash up the tank inside with water from the sea water feed line or water
+around or from the fresh water service hose connection.
+
+If the cleaning is not complete, it may cause corrosion of the tank, clogging
+of the piping and valves, and sticking of the pump.
+
+Stop compressed air supply.
+
+Check if the inside of the system is dirty or damaged.
+
+Repair if necessary.
+
+6-3 Repair of the Tank Inside Coating
+
+At the cleaning of the tank, if any damages are found upon the inside coating re-coat that
+
+part without fail.
+
+Materials : BITULUCK COATING No.203 (USAGIDA KAGAKU CO., LTD.}
+
+or
+
+SDC COATING No. 402 {DAI NIPPON TORYO CO., LTD.)
+or
+
+LUXATAR 5 (KOBE PAINTS LTD.)
+
+{CAUTION)
+
+Suitable breathing apparatus to avoid toxic fumes must be worn when working inside
+
+the tank.
+
+6-4 Inspection of Discharge Pump
+
+For this purpose required refer to the separate "Instruction Manual of Discharge
+
+Pump".
+
+_16-
+
+--- PAGE 37 ---
+7.
+
+DISCHARGE PUMP INSTALLATION
+
+2. <
+1.
+3
+2.
+3,
+4,
+5
+Fig. 2
+GUARANTEE
+
+Filling valve
+Effluent/chlorination tank discharge valve
+Aeration tank drain vaive
+
+Clarification tank drain valve
+
+Discharge pump discharge valve
+
+The guarantee period is within L8 months after the delivery or within 12 months after
+
+starting the operation.
+
+Should any trouble happen for the reasons to be attributed to our fautts, such as some
+
+defects or materials, designs, manufacturing, and etc. necessary repair or
+
+replacement of the spares will be provided without compensation, within the time
+
+limited by the guarantee period.
+
+Also, the guarantee is applicable only when the contents of the "Manufacturer's
+
+Handbook" are obeyed.
+
+_17-
+
+--- PAGE 38 ---
+9. PARTS LIST (for ST-2AN - ST-6AN}
+WHEN ORDERING SPARE PARTSOR IN ANY CORRESPONDENCE RELATING
+TQ THE PLANT, PLEASE GIVE THE DRAWING NUMBER AND ITEM NUMBER
+OF THE SPARE PART REQUIRED.
+{RE. DWG. NO, :15602557 FOR ST2AN-ST6AN)
+
+ITEM No. DESCRIPTION QTY ITEM No. DESCRIPTION Qy
+1 DISH.PUMP/MOTOR | 25  EQUAL CROSS 2
+2 DISH.PUMP/MOTOR I 26  EQUAL TEE 46
+
+(OPTION) 27 PIPE PIECE 1
+3 LEVEL SWITCH 3 28 PIPE PIECE 1
+4 CONTROL PANEL 1 29 HEX. NIPPLE ]
+5 REDUCING VALVE 1 30 PIPE PIECE 1
+31 AIRLIFT TUBE 1
+6 FLOW CONTROLLER 1 (SLUDGE RETURN)
+32 AIR LIFT TUBE 1
+7 PRESSURE GAUGE 1 (SLUDGE RETURN)
+8 NON-RETURN VALVE 1 33 AIR LIFT TUBE 1
+9 SLUICE VALVE 3 (SCUM RETURN}
+10 AIR DIFFUSER 2,4 3% AIR LIFT TUBE 1
+I PLUG COCK H (SCUM RETURN)
+12 SAMPLING COCK 1 35  FLEX.HOSE 1
+(AERATION TANK) (SLUDGE RETURN)
+13 SAMPLING COCK 1 36  FLEX.HOSE L
+(CHLORINATION TANK}) (SCUM RETURN)
+14 BUTTERFLY VALVE 2 37 AIR LIFT TUBE 1
+(DUAL DISH. PUMP ONLY) (SLUDGE RETURN}
+38 AIR LIFT TUBE L
+15  CHLORINATIOR 1 (SCUM RETURN)
+16  SCREEN 1 39 FLEX.HOSE 2,4
+17 PLUG 4 40 FLEX.HOSE 2
+18 PLUG L
+19 HEX.NIPPLE 63 42 ELEX.HOSE L
+20 90°STREETELBOW 2,4 43 SLUICE VALVE 2,4
+21 BUSH 3 4 BUSH 2
+22 HEX. NIPPLE 2 45 HEX.NIPPLE 2
+23 909STREET ELBOW 4 4  HOSE CLIP 2
+26 HOSE CONECTOR PIFE 4 47 HOSE CLIP 2
+
+18-
+
+--- PAGE 39 ---
+ITEM No. DESCRIPTION QTY ITEM No. DESCRIPTION Q'ty
+
+48 HOSE CLIP 2 81 BOLTS 4
+49 HOSE CLIP 2 (DUAL DISH.PUMP ONLY})
+50 HOSE CLIP 2 82  BOLTS 4
+51 SURFACE SKIMMER 1 83 BOLTS 4
+
+8%  BOLTS 3
+53 TANK 1 85  BOLTS 4
+54 INSPECTION L (DUAL DISH. PUMP ONLY)
+HOLE COVER
+55  GASKET 1 87  NAME PLATE L
+56 MANHOLE COVER 1 38 NAME PLATE L
+57 GASKET 1 89 NAME PLATE !
+58  MANHOLE COVER i 90  CAUTIONPLATE 1
+59 . GASKET i 91 BOLTS 4
+60  MANHOLE COVER L
+61 GASKET 1
+62 MANHOLE COVER L
+63 GASKET L
+64  FLEX.HOSE 1
+65  GASKET 3
+66 GASKET 1
+67  GASKET 3
+68 GASKET 1
+69 GASKET 1
+70 MANIFOLD 1
+7L MANIFOLD 1
+(DUAL DISH.PUMP ONLY)
+72 GASKET L
+(DUAL DISH.PUMP ONLY)
+73 BOLTS 14,18
+7% BOLTS 14,18
+75 BOLTS 14,18
+76  BOLTS 18,18
+77 BOLTS 8
+78 BOLTS 12
+79 BOLTS 1z
+
+8  BOLTS 4
+
+-19-
+
+--- PAGE 40 ---
+N
+
+eeuonk angst 51-g:
+
+o_p
+
+4dd busw
+
+o
+
+SECTION 4= p
+
+[ EsEE—————Tess
+
+ERQNT W —————-————— SECTION -8
+
+SIDE vigw
+
+--- PAGE 41 ---
+INSTRUCTION MANUAL
+
+PUMP (TYPE CHNR)
+FOR
+SEWAGE: TREATMENT PLANT
+
+SASAKURA ENGINEERING CO., LTD.
+
+MAIN OFFICE H 7-32, Takeshima 4-chome
+Nishiyodogawa-ku, Osaka, 555, Japan
+TEL : (06) 473-2134
+TLX :523-3188 -
+FAX :(06)473-5540
+
+TOKYO COFFICE : 3-8, Yaesu l-chome,
+Chuo-ku, Tokyo 103, Japan
+TEL £ (03) 32717771
+TLX 1 222-2351
+FAX :(03) 281-1928
+
+DWG No. 15602710
+(MAY,,1986)
+
+--- PAGE 42 ---
+Section 1.
+
+1.
+
+2.
+
+Section 2.
+
+1.
+
+INSTALLATION
+
+Install the pump lower than the suction water level to ensure forced
+operation.
+
+The pump bed shall be strong enough to bear the weight of the pump and
+others, and the bed shall be horizontal.
+
+Don't put the weight of the piping on the pump. If any load is put on the
+pump, adequate supports must be provided.
+
+Note that any excessive load onto the pump deforms the pump body, makes
+the lives of bearings and mechanical seals short, and causes leakage from
+
+mechanical seals.
+<
+
+HANDLING
+Inspection before initial operation
+
+Prior to the initial operation after completion of installation or re-
+
+assembling, following points shall be checked.
+
+(1) Remove the dust-proof cloth tape from the penetrated part of the
+pump shaft. (Be careful not to put any foreign things into the gap in
+the shaft.)
+
+{2)  Turn the coupling by hand two to three times to check smooth
+revolution of it.
+
+(3)  Contirm rotating direction of the motor. If wrong, correct wiring.
+
+(4)  Make sure that the valve on the suction side piping is fully opened.
+
+Starting-up -
+
+(1) Close the discharge valve fully.
+
+(2)  Open the suction valve fully.
+
+{3)  Start the pump.
+
+(4)  Qpen the discharge valve gradually.
+
+Stopping
+
+(1) Close the discharge valve first and then turn off the switch.
+
+(2)  In case the pump is dismounted from the piping for storage, screw off
+the drain plug to discharge water in the casing.
+
+(3) I the pump which has already been piped like a stand-by pump is not
+used for a long time, it must be tentatively operated for about 5
+
+minutes at least once a month.
+
+--- PAGE 43 ---
+Section 3. MAINTENANCE
+
+You are requested to do a perfect maintenance in order to prevent pump
+
+troubles, to minimize weac of the parts and 1o keep the best performance as long
+
+as possible.
+
+1. Cautions during operation
+
+9]
+2
+()
+
+Never close suction valve during operation to prevent dry running.
+Never run the pump dry.
+Never run the pump for more than one minute with the discharge valve
+
+closed.
+
+2. Inspection
+
+w
+
+)
+
+&3]
+
+@)
+
+Leakage from mechanical seal
+Under the normal condition of operation, water seldom leaks.
+
+1f abnormal leakage of more than 0.5 cc/min. happens, immediate
+repair is required.
+
+Heat and abnormal noise from mechanical seal
+
+Unsuificient lubrication causes abnormal defacement of sealing
+surface due to unusual heat andfor dry contact.
+
+Never disassemble the mechanical seal except when it is replaced with
+a new one.
+
+Corrosion
+
+Periodical inspection must be dane at least once a year and
+
+consumable parts shall be renewed.
+
+3. Ball bearings
+
+No greasing is required as scaled type ball bearings are adopted.
+
+Replace the old bearing with a new one when its life ends.
+
+Section 4. DISASSEMBLING & RE-ASSEMBLING
+
+Disassembling & re-assembling must be made according to the following
+
+procedure referring to the attached drawings of pump (Fig. 1) & mechanical
+seal (Fig. 2).
+
+I. Disassembling
+
+6]
+2
+3
+
+(%)
+
+Remove bolts (Part No. 805/4) of casing and stuifing box..
+Remove casing.
+
+Remove impeller nut, spring washer and impeller washer.
+The impeller nut is right-hand screw.
+
+Remove bolts (Part No. 805/4) of the stufting box and motor flange.
+
+-2-
+
+--- PAGE 44 ---
+(5) Remove stuffing box. (Part No. 008)
+(6) Parts No.1,2,5,6,7 & 8 of mechanical seal can be removed from shaft
+together with stuffing box.
+Parts No. 5, 6, 7, 8 of mechanical seal are to be puiled out from shaft.
+(7)) Loose set screw (866/1) of shaft and draw out shaft from motor.
+(8)  Remove parts (1){2) of mechanical seal in the stuffing box.
+
+Assembling
+
+Assembling can be made in reverse order of disassembling with giving
+
+attention to the following matters.
+
+(1) Wash each parts with oil, remove rust and scale completely and check
+flaw, spot & burr of the fitting parts.
+
+(2)  Carefully check fitting marks of the fitting parts if the marks are
+provided.
+
+(3)  Tighten nuts of rotating parts in the directjon of rotation,
+
+Assembling the mechanical seal
+
+A special attention must be paid to this job, because sealing performance of
+
+mechanical seal is largely influenced by assembling.
+
+(1) Wash sealing surface & packings with clean, unleaded gasoline, wipe
+them with soft cloth without putting foreign things.
+
+{2)  Don't scratch or hit sealing surface & packings. _
+
+(3)  Lubricate sealing surface & packings before fitting.
+
+(4)  Fitting of floating seat
+Carefuly insert it completely to the end without hurting.
+
+(5) Fitting of rotating parts
+Assemble rotating parts correctly, insert them to shaft.
+Fix packings on shaft with drive ring and fit case and spring on the
+proper positions.
+
+(6)  Final check
+Aiter fitting of rotating parts, confirm that seal rings can slide on the
+shaft. If this movement of seal rings is not good, sealing can not be
+
+perfect.
+
+--- PAGE 45 ---
+Section 5.
+
+A good maintenance ensures a good performance.
+
+TROUBLE-SHOOTING
+
+Should troubles happen, take the adequate measures immediately.
+The following table shows the causes of troubles tend to happen ordinarily
+
+and the guide for counter-measure.
+
+TROUBLES
+
+CAUSES
+
+MEASURES
+
+No discharging or
+insufficient
+
+discharge
+
+1.
+
+The pump is not
+filled with water
+or water is
+
+insufficient.
+
+1.
+
+Try priming again.
+
+contact with pump
+
+casing.
+
+2. Rotation to the L. Check the direction.
+opposite direction.
+
+3. Clogging of suction 3. Check inside of the
+pipe suction pipe.
+
+4. Clogging of 4. Check inside of
+impeller impeller.
+
+5. Air leakage into 5. Check suction pipe.
+pump
+
+6. Low revolutions 6. Check with a
+
+revolution meter.
+Motor over-load L. Impeller is in 1. Check the
+
+instailation condition
+of pump and looseness
+
+of bearings.
+
+Pump vibration
+
+Disorder of shaft
+
+center
+
+Check the shaft center
+
+of pump and motor.
+
+--- PAGE 46 ---
+TROUBLES
+
+CAUSES
+
+MEASURES
+
+Pump vibration
+
+©
+
+. Foreign things clog
+
+somewhere in impeller
+
+2. Check the inside
+
+impelier
+
+3. Rotating parts are
+in contact with
+
+stationary part.
+
+3. Check center and
+bend of the shaft.
+
+Leakage from
+
+mechanical seal
+
+1. Damage of defacement
+
+of sealing surface
+
+1. Remove the
+mechanical seal to
+check the sealing
+
+surface.
+
+2. Foreign matters on
+
+the sealing surface
+
+2. ditto
+
+b
+
+Packing is damaged.
+
+3. Check the packing.
+
+F
+
+Scales sticking to
+packings make clearance
+between sealing surface
+
+and shaft.
+
+4. Remove the scale
+completely by
+disassembling
+
+mechanical seal-
+
+Abnormal heat of
+
+mechanical seal
+
+1.Dry cunning of pump
+
+1. Stop the pump
+operation
+
+immediately.
+
+Troubles of
+
+ball bezrings
+
+1. Damage of balls or
+volling surface
+
+1. Replace the ball
+bearing with new one.
+
+2. Excessive gap due 2. ditto
+to abnormal wear.
+3. Abnormal wear of 3. ditto
+
+retainer.
+
+--- PAGE 47 ---
+1zefwpeer wut TS suss04] ) | 288 ser  screw Sen |soms |t
+103|mpenizn ke [T susao4] 1 | g AGON H. 8OLT |Srae” lswamia | 4
+10 1] 5HarT T suszes] 1| 82tisaming wasner |TTarisussosl o
+asolo_mine cussen ] e T I e e I
+oos|sturrine 8ox Justwelrc 23 {1 ] 520{MECHANICAL SEAL iser i
+003| meeLLER aaonre (atacz | 1 | 895 exacon w. soLt |R0Y |swamia] 4 i
+0ai]casing corwonFeas || 12afimPELLER waSHER|® Thres S|sus30a] ¢ l
+7
+No.| ParT wamg :mrz.:m,[ s1s Jorrrosarsiuo.| parT  nane fuarcaed 15 [0 Trinoiescc
+) - racHme
+AN CROSS  SECTION . |SEWAGE TREATMENT pLanT
+[Gezs ., | ° A< A EE
+K Famaslidh, OF  PuMP Pl e g
+e oy f 8 SUPER TRIDENT
+B A 74 a RETROFIT  TRIDENT
+TYrE P
+CENR - 50 2
+SASAKURA ENGINEERING CQ,LTD. J 3
+GSaAKA  JAPAN Fra 1 - HE
+
+A
+
+--- PAGE 48 ---
+puMpP SIDE
+
+MOToR SIDE
+
+5 [roxir war | |
+7 SUS 304| | !
+3 sussasf 1|
+5 |G A sic |1
+2 | EREE Runen neR ) !
+AR sic |
+Wa | rant maws e ot [pron
+T N N p
+L oo ACHINE  3E K b rg B
+CRECKT Av=psolE B |8 i
+> s > i « |SEWAGE TREATMENT PLANT
+ET < - A
+U, Tanaslilh CROSS SECTION OF o [vame A—¥- F7d7 1
+o MECHANICAL SEAL | 2| 5 SoDER JRORNT
+GaTE RETROFIT TRIDENT
+#ﬂw SASAKURA ENGINEERING CO, LTD. £ 2
+N ~ 0SAKA JAPAN FIG. 2 REV
+
+EE.

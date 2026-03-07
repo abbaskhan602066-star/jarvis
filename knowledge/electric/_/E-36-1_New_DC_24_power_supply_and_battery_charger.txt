@@ -1,0 +1,75 @@
+FILE: E-36-1 New DC 24 power supply and battery charger.pdf
+FOLDER: .
+DATE: 2026-03-07 07:41:53.042041
+==================================================
+
+
+--- PAGE 1 ---
+NEW BATTERY CHARGER
+
+AC440, IPHASE, 601z
+- EWCY'SVITCH BOARD
+PoEF-3L (TPYC-20)
+wwviv
+s3
+071
+>
+——
+©
+-
+w
+~
+- [ ne
+M KPI-1 & KP2-1
+Py
+[ [
+
+$ne
+
+Ke-2
+
+]
+
+°133 00>
+SrsTen FawLT
+VPC CONTACT
+
+o132 00>
+
+. ©
+
+| [se]
+
+>er| o3
+
+0| BATIERY CAHARGER & PSU UPGRADING G20
+No. DESCRPTION
+
+Vessel Nome: LPG/C ATHENA
+Vessel Type : IQUEFIED GAS CARRER
+Vessel Flag : THAILAND
+
+oS
+
+1. This drowing is mode n refrence with as etaled onboord & dota provded.
+2 Awaye use this i conknction with orghal drawinge/manucl
+
+(B0 16831 / AEODS 2612),
+3. Any comactions shal be notifed o perie.
+
+s GOODWOOD SHIP MANAGEMENT
+20 Science Park Road402-34/36,
+TeleTech Pork,Singopore 117674
+' BATTERY CHARGER & DISCHG BOARD
+"
+MARETEK SINGAPORE PTE LTD
+TSOON LEE STRCET 1 SPACE 40417 SG27608)
+! ahonci o i
+3 e | OhE o0
+SCHEMATIC DRAWING | 0 | st ‘E
+o & [wnn || mome
+oo [ & [wna MSG
+EoNs 3 [ | [oe-tomecy
+o 405502 3-B0-35-1000 | w0 | s v o 1
+
+T GG, OOV IR, B0 SR R o P o T SB[ WO R TUBISIED O X COORAB155 W Y EFSSt RGN W T WL V0T B COPED i T AR, U0 78 VAN ACAE, 500, PR, WO U0 1 T DCAWON O 540 ol 1 WO ERMSSON T RPN TRV AES W1 0 DR IS GOV YA 10 T G PRTES DUEP T8 TESE SPEGRE PARUSES T8 YWY TS ORRNG 1 s

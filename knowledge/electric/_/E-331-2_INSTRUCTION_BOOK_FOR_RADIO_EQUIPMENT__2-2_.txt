@@ -1,0 +1,4470 @@
+FILE: E-331-2 INSTRUCTION BOOK FOR RADIO EQUIPMENT (2-2).pdf
+FOLDER: .
+DATE: 2026-03-07 06:59:45.757405
+==================================================
+
+
+--- PAGE 1 ---
+» FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+RADIO EQUIPMENT
+
+sperly of
+KU and way |
+thind panty
+
+AR il ‘ SCALE JOBNO -
+
+S\] CHIEF 2 T i
+s, |oweoneo LA ddagpacdide | KaWASAKI EAYY INDUSTRIES, LTD. |
+
+»
+DRAWN i = T SHIP DESIGN DEPT, SHIP GROUP
+
+e
+
+OATE M A Y ~ZE316
+
+ML M HER a0
+A
+
+1456 f
+G
+
+TS Mol coven
+
+KAWASAKI HEAVY INDUSTRIES, LT0. 2 e
+
+!
+
+--- PAGE 2 ---
+RADIO EQUIPHENY
+
+NO N & W E MODEL Q'ty REMARKS
+1 400% MF/HF RADIO EQUIPMENT Jss-120 1
+
+SEE DWG. NO.
+2 RADAR TRANSPONDER JQX-204 2 F-3s1L/2)
+
+3 SATELLITE EMERGENCY POSITION JQE-2A-E '
+INDICATING RADIO BEACON )
+
+4 THO-WAY RADIOTELEPHONE JHS-7 3
+
+Foaeloay
+
+--- PAGE 3 ---
+2TH-3836
+
+Messrs. KANASAKL HEAVY INDUSTRIES LTD.
+S.No. 1456
+
+MODEL : FQE-2A-E
+406MBz SATELLITE EPIRB
+
+FINISHED DRAWIRG
+5 OCTOBER 1993
+
+dapan Radio Co, [Hd.
+
+Maritine Satellite Communications
+Engincering Departwent I
+Marine Electronics Division
+TEL 0422-45-9547
+
+FAX GAZ2-5-9957 s
+
+checked by in charge
+
+s
+
+(53 2
+
+--- PAGE 4 ---
+CONTENTS
+
+COPANERES LAST vouurnvnrnienenenianeneeieianeanns
+
+SPECIFLEALIONS +rnauensanane et e enaneaenn it ..
+
+Outline Schematics
+
+Installation useienennennannnn DR NI .
+
+Spate Parts List s........... e e
+
+--- PAGE 5 ---
+_COMPONENTS LIST
+
+406MRz SATELLITE EPIRB JQE-24
+
+Color : MUNSELL 9.5R5.5/11
+
+NAME
+
+TYPE REMARKS Qty ¥t
+
+Buoy
+
+JQE-24 (Batteries including) 1 6 Kg
+
+Float-frce Release
+Bracket of Buoy
+
+1
+i NYH-10 1 4 kg
+
+Spare Parts
+
+BZXSCTE003 1 Set
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Note : The color can
+
+not be changed. for the aylon material.
+
+--- PAGE 6 ---
+SPECIFI CATIONS
+
+1) Physical Specifications
+
+130
+
+~
+™~ TFloat-free
+
+Release
+
+Bracket
+
+(Fig. 1)
+
+Dimensions
+
+2) Electrical Specifications
+
+(a) 408HHz beacon
+Carrier frequency
+Output power
+Modulation
+Storage temperature range
+COperating temperature range :
+
++ 406.025MHz 2 0. D02Kz
+v SHE2dB
+
+Antenna : vertical whip antenna
+Nominal voltage ¢ 12.5Y
+Low duty cyele light : 0.75ed
+
+-Activation : Automatic and wanual
+-Water-proofness : Watertight at a
+depth of 10w for at
+
+least 5 min.
++Buoyance 1.5 kg Kin.
+-Materials : Nylon
+-Dimensions & Weight :
+Beacon
+Weight 6.0 kg
+Height : 865 mm Max.
+(including antenna)
+Diameter : 245 um Dia. Max.
+Bracket
+Weight : 4.0 kg
+Height : 318 mm
+¥idth 278 o
+Depth 150 on
+
+Phase modulation 1.130.1 radians peak(51B)
+-30°C to +65°C
+-20°C to +35°C
+
+--- PAGE 7 ---
+(b) Homing
+
+(¢
+
+Carrier frequency : 121.3HHz
+
+Peak envelope output power : 25m¥ into 5U~ohm load
+
+Modulation : Awplitude wodulated (3K2043¥)
+
+Modulation frequency : An audio signal (betwéen 400 and 1,333Hz) Swept upward
+¥edulation factor : 0.85
+
+Sweep repitition rate : 2~4Hz
+
+Antenna : Vertical whip Antenna
+
+Battery type
+3B76 fully packed lithiuw battery
+Mznufacturer’s name : El
+
+Battery chemistry : S0Clz + Brll
+
+Type of cells + 3876
+
+HNumber co4
+
+Connection of cells : series comnection
+
+Protective devices : diode protection and internal fuse
+
+Battery life
+Operaling life time : 48 hours or mare
+Useful life term : 3 years after plant delivery
+
+--- PAGE 8 ---
+{OUTLINE SCHEMATICS
+
+--- PAGE 9 ---
+INSTALLATION
+
+Bracket Instailation
+
+The bracket is desizned to be fixed on the bulkhead of the ship, and should be through
+
+bolted or nut fixed using stainless sieel bolts or nuts H1{ or equivalent.
+The bracket should not be installed in a part of the ship likely to be flooded, or where
+
+danage may occur due to the use of fishing gear or cargo derrick.
+
+The EPIRB unit should be installed on a place easily accessible in case of emergency.
+
+el o
+Bulkhead /
+
+Mounting Taps or Bolts 4 places
+(Dockyard Supply) (Note.l,2)
+
+8 1000 MIn
+
+=
+
+=
+=1 500 MIN
+2
+—~ 3
+5
+j:::j g 4-11.5 Dia,
+) W i
+' ounting holes
+2
+Washer Spring
+Rut
+——
+| NO OBSTRUCTJONS J \/
+—
+. Y -Bolt
+
+(Fig. B (Dockyard Supply)
+
+Note.1 MHounting taps shauld be sufficient deep for mounting bolts.
+Note.2 Hounting bolts should not be lenger than 40 from the bulkhead surface.
+
+-5~
+
+--- PAGE 10 ---
+Setting procedure of the EPIRB (See Fig. 6).
+Operation of the'aode switch is as follows (deactivation for maintemance).
+
+Remove the protective stop (Refer to Fig. 4).
+Rotate the mode switch to "OFF” position (Refer ta Fig. 5) and the EPIRB will
+
+be deactivated.
+Upon completion of maintenance, rotate the mode switch to "AUTO” position and
+
+restore protective stop.
+
+(Fig. &) (Fig. 3)
+
+The EPIRB should be set on the bracket by the following procedure:
+
+1) Place the EPIRB on the bottom stopper, and turn the EPIRB so that the markings
+AY patch.
+
+2) Llay the WIRE as shown in the figures.
+
+3) Push the WIRE RING into the RELEASE SENSOR.
+
+4) Hook the WIRE end with the FASTENER.
+
+§) Fasten the WIRE.
+
+fml
+
+L
+
+MARKED A
+ON THE EPIRB
+
+WIRE
+PUSH
+¥
+
+WIRE RING,
+
+©
+
+RELEASE
+SENSOR
+
+o
+
+SIDE VIEW FRONT VIEW SIDE VIEW
+
+(Fig. 6)
+
+--- PAGE 11 ---
+30X NO p_i/1
+
+- N - SETS PER
+SHIP NO | SPARE PARTS LIST FOR u S £ VESSEL
+406 MHz SATELLITE EPIRB .
+/4'5é MODEL : JQE-2A
+L
+QUANTITY REMARKS
+ITE! NAPN/IAERTOF QUTLINE WORKING DESGRIPTION |SUB
+o {Dimension in m / m) SERPERPARE MARK OF
+SET|[VESS JRC CODE NC |Box NO,
+MF5INN-0.14
+1 FUSE 1 3
+SZFADODO32
+P11.2
+2 ¢ RING 1 1
+BRPKOOS14
+G200
+3 " 1 1 E_i
+| EIBRPKOOGLQ
+!
+I
+SPARE PARTS m/'i 1
+BoX —— 320 —" » ey
+MFR'S NAME | JAPAN RADIO CO., LTD. |DRW.NC. 62X$C75003
+
+ADDRESS 5-1-1, Shimorenjaku, Mitaka-shi, Tokyo 181 Japan
+TEL (422-45-9547 Facsimile 0422-45-9957
+
+--- PAGE 12 ---
+.
+
+Main Office & Plants
+
+Overseas Subsidiaries
+
+QOverseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+@Main Office
+
+Akasake Twin ~ower(Main)
+17.22,Akasaks 2-chome,
+Mingfo-kuTaiyn 10/
+
+Martime Sales Department |
+Phane ; 03.3584.8791
+
+Fox; 03-3534.8735
+
+Maritime Sales Department I
+Phone ; 03.3584.8834
+
+Fac: 3-3524.8795
+
+Iternatiaral Business Departinenl.
+Prone : 03-3584-8836
+
+Fax: 03-3584-8878
+
+Internatianal Marketing Department
+Phone ; 03-3584-8845
+
+Fn : 03-3584-8859
+
+®URC [UK) Limited
+Ground # loor | emple Chambers,
+Tempie Avcruc, Longon E.C. &
+Phare: 44.171-353-1960,543.7460
+Fax: 44.17:.353-3321
+
+uss
+
+Japan Radio Co.,Ld, /8w York Brench
+330 Park Avenue. New Yok,
+
+New York 10022
+
+Phone : 212356 1135
+
+Fax: 2123185227
+
+@Indonesio
+Japan Radia Co. Ltd
+
+Mulfa Tower °2 th Fioor
+
+Jalan Jendera! Gafor Subroto Kav.-11
+Jakarta 12931
+
+Phone : 21.5224053 - 5224056
+
+Fox: 21 5204058
+
+®Fhiippines
+Japan Zadio Co,Ltc
+2320 Tait Avende.
+Malzte,Menila
+
+Phone 2508585 - 57.149¢
+Fan: 25215040
+
+®Thailond
+Japan Rada Ca. Ltd
+Charturong ArPhon Buldirg.
+457 phra Samaru Street.
+Bangsa< 16200
+Phone/Fa : 2-280-0401
+
+@india
+
+Jepan Redio o, Ltd
+
+5 4 Sagar Apartments,
+
+6 Tiiak Marg, New Delhi- 10051
+Paene - 11-36-5751
+
+Fae: 11-38457)
+
+@Nitaka Plant.
+-1 Shimorenjak 5-chome Mitaka
+Tokyo |51
+
+Phone : 6422-45-81 11
+
+Fax: 0422.45-9110
+
+®JRC da Brasil Empreendimentos
+Electronicos Ltds
+
+AvAlniirante Sarroso63-Gr.5/2707
+
+7003 Rio de JaneiroR)
+
+Phone : 21-220-8121,262-9281
+
+Fax: 212406324
+
+ousA
+Japar. Radio o, Lts
+
+/o Reytheo1 Narine Corrpany 576 rsland
+Fond Koa Marchester,NH 03109,U.5 A
+Phone ; 503-634-4840
+
+Fax: £03-634-284
+
+@Urited Kingdom
+Jzpan Rado Co L
+
+/o Raytneon Marine Evrope
+Anchorage Park Portsmouth,
+Hampstire P03 5TD,11 K
+Phone: 44705563239
+
+Fax: 44-705-66324
+
+®Notherfands
+Japan Radia o, o
+
+/0 Radio-Holland B.Y,
+Fesnnutstraat 7,
+
+3087 48 Rotordamn
+
+Phone : 10-420-05R1 + 17-¢29-1088
+Fax: 10-422 2259
+
+®Spain
+Japan Radio Co Ltd
+
+/> TOSA GANARIAS 5.L.Doctor
+
+Juan Doningaez Perez 44, urbanizacion
+=1 CLBADAL, Las Palmas 82 Gran Canaria
+Phonc: 32 26 46 5191 - 34.23-46 5231
+Fax: 34.28.45-2398
+
+952
+
+--- PAGE 13 ---
+For further infarmation contact :
+
+Japan Radio Co., Ltd.
+
+HEAD OFFICE & Akasaka Twin Tower(Main),
+SALES DEPT. 17-22. Akasaka 2-chome,Minato-ku, Tokyo.
+Phone : 03-3384-
+Fax :03-3381-8715
+
+N Telex : 0 420 JRCTOK J
+MAIN PLANT 1-1,Shimorenjuaku 3-chome, Mitaka-shi, Tokyo.
+Phone:
+
+Tax 4
+Telex : 02822-38
+
+--- PAGE 14 ---
+1/4
+
+MessrS.  wawasaxr meavy INDUSTRIES LTD. SNo. 1456
+
+INSPECTION DATA
+
+406MHz SATELLITE EPIRB
+MODEL JOE-2A- =
+
+Serial No. 524942
+
+Date of Inspection APR/ 16/ 1996
+
+1
+Tested by
+
+wr T Yl s
+
+Section Maritime Satellite Commurication
+
+Inspection Department
+
+Japan Radio Co., Lid.
+
+2TH-8836
+
+--- PAGE 15 ---
+Shigs Kame : FLANDERS TENACILY
+
+2/4
+
+Serial No. GP 24942
+
+Ll Sigy LXFC
+MMS T 253013000
+i bs, 9FABRT75034D34D1 3
+1. Verlfication to specification Judgemenl Good
+2. Structual Inspection Good
+3. Pertormance Inspsction Judgement Good
+3.4_406Miiz Transwitter test
+Item Specification Resylls
+311 | Oulgul Power WU 17d8m) +20B +37,0 9%m
+302 | Teansmitted Frequency Accuracy A06.025MM2 o+ 2Kz 416 W
+313 | Phase Deviation Lirag L 0lrad Good
+304 1 Oigilat Message
+<Bil syac 15bils "1
+<Frame sync 9bi1s (000101411} Good
+:Formal Niag thits
+tdenlification code t0hits
+:Parily code 21nils
+:Emergency code Bits f
+3.2 121.5MH Homing Transmittes .
+fem Specification Resuits
+-+ 6dB.
+3.21 | Peak Enveiope Oulput Power 25w+ 14dBm)” 2o +17.4
+322 | Teansmilled Frequency Accuracy 1215MHe & 2Ktz +1643 1
+113 1 Modulalion Swepl Upward Good
+3.3 Strobe Light —
+Item Specilication Results
+301 | Flashing Times 20~ 30/min Good
+
+--- PAGE 16 ---
+406MHz SATELLITE £EPTRB DISITAL MESSAGE
+
+MEMORY DATAChex )
+
+Bit Synchronizatlon
+
+Frame Synchronizeiion
+
+Myssage format flag
+
+Protocol flag
+
+Couniry
+
+User protocel type
+
+$iB or radic call sign
+
+Specific satellite EPIRS
+
+Not used
+
+itoming facility
+
+Error corpecting Code
+
+Cmergancy code tlag
+
+Acttvation code
+
+Natyrs of distress
+
+19 Apr 1936
+
+B3FABLTSA3AR34D1
+
+1111010083108
+
+020101111
+
+short mmssage
+
+uszr plotocsl
+
+mariting
+
+P13000
+
+-1
+
+1245012
+
+GO01RR1 1 1L1001101IB1%
+
+[
+
+0082
+
+14:58:23
+
+Ser.GFR4942
+
+%
+
+oK
+
+oK
+
+13
+
+oK
+
+[
+
+K
+
+QK
+
+0K
+
+oK
+
+[:3
+
+DK
+
+T R L L N T LT T T TP TP
+
+PHASE DEVIATION
+
+FREQUENCY
+
+1.03rad
+
+406. 22517
+
+608Hz
+
+oK
+
+UK
+
+--- PAGE 17 ---
+LIST of MEASljREMEN'I' EQUIPMENT
+
+oz AR — B 2%
+
+MODEL MANAGERENT CINE
+
+L WO oE
+FREQUERCY TIE INTERVAL ANALYZER 5371A 11-1-553
+FABL T = NTFFAY
+SYNTIESIZER/LEYEL GENERATOR 33354 54-0-082
+Ay
+POFER NETER : 4354 1990-0141
+Ry—j—% 1990-0£14
+POTER SENSOR 84814 69-1-034-M
+gt b 1997-0420
+FREQENCY COUNTER 53154 11-1-303
+BB
+FRERENCY CORYERTOR GHHA-501
+g
+TERSORAL COMPUTER PCYUBOIFA GHHA-0A-5
+Ry NavEa-¥
+POYER SUPPLY GPO35-10 GHHA-G0G
+
+S
+
+/4
+
+--- PAGE 18 ---
+Messts. KAWASAKI HEAVY INDUSTRIES L7D.
+
+S.No. 1456
+
+MODEL : JHS-T
+VHF FM TWO-WAY RADIOTELEPHONE
+
+FINISHED DRA¥ING
+§ NOVEMBER 1995
+
+Japan Radio Co, Ltd.
+
+Maritioe Comoenications Section
+Engineering Department 1
+
+Maring Electronics Division
+TEL 0422-45-9538
+FAX 0422-45-9357
+
+2TE-8336 checked by in charge
+
+248-5726
+N/
+
+--- PAGE 19 ---
+TABLE OF CONTENTS
+1. COMPOSITION
+P =2
+
+3. 150MH: FW TRANSCEIVER JHS-7
+
+4. L5OMH: P TRANSCEIVER JHS-7
+
+5. BATTERY CHARGER NBA-4141
+emopaREioNE= =stMIceseeE=
+=5—LEDGE-FOR-BATIERE-CINREER= =
+=SSR
+
+374-3856
+
+Wl eB-576
+
+BLOCK DIAGRAM
+
+QUTLINE DRAWING
+
+D0,
+
+AU SEFSF
+
+--- PAGE 20 ---
+1.
+
+COMPOSITION
+
+No. Iten Hodel Qty Remarks
+1S0MH:
+] 5isT 3 with Anteans
+Bt Transceiver
+2 | Battery Pack NBB-248 3
+3 | Carrying Sirap HPYPO2384 3
+Jzpanese —
+4 | Instruction Yanual
+English b
+5 | Test Data 4 in Japanese and English
+i sc220V
+6 | Battery Charger KBA-4141 3
+Spare Fuse(0.54)x1
+7 | Spare Battery Pack NBB-248 _—
+8 | Barphone BUMIDO000S | ——
+Extarmal
+3 6UMID00028 | ——
+Speaker/Microphone
+10 | Carrying Case MPXPO2368 ——
+Ledge for
+1 NzB- — | lLeyout(  sew)
+Battery Chiarser
+
+&2 —Df
+
+--- PAGE 21 ---
+otz BLOCK DIAGRAM - . . f -
+
+ammm e m e mm e oo
+i
+! we st
+)
+.
+'
+' i
+=l e
+I
+I {a tan =
+1 T exr e
+1 e o |
+-4 H - oo
+) '
+22 '
+1
+EE] i
+£z '
+B '
+<1 1
+S |
+H i
+2 )
+'
+I
+'
+'
+'
+)
+Cui-za1 wATK UNIT
+
+wo8-248
+
+--- PAGE 22 ---
+QUTLINE DRAWING «
+
+2 s-7
+
+BOTTOM VIEW
+
+%
+
+«%\J
+
+®
+
+BoB
+
+Cl
+
+=
+
+B 1]
+
+v —1
+
+EeT
+
+JHS-7 TWO-WAY VHE RADIOTELEPHONE
+QUTLINE DRAWING
+
+--- PAGE 23 ---
+1900+
+
+f
+
+L
+
+Q
+
+105
+
+4955
+
+MOUNTING HOLE
+
+TOTTCE o CPERATION
+
+100
+
+170
+
+210
+
+NBA-4141 BATTERY CHARGER
+CUTLINE DRAWING
+
+WEIGHT |.5kg
+
+--- PAGE 24 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+@Nsin Office.
+Akasaka Twin Tower{Main)
+17:22,Akasaka 2-chome,
+Minalo-hu,Tokyo 07
+
+Maritime Sales Department |
+Phane ; 13-3584-8/31
+
+Fax: 03:3584-8735
+
+Maritime Sales Department !
+Phone ; 93-3564-8834
+
+Fax: 03.3584-B736
+
+International Busingss Departinent
+Phone : 13-3584-8535
+
+Fax: [3.3584-8878
+
+Intersafional Marketing Department
+Phone ; 03-3584-8845
+
+Fax: £3-3584-8855
+
+®RC (UK) Limited
+Graund Eloar, T &mila Char
+Torapls Avenic, Londor EC. 4
+Phane 17963 583.740
+Fex: 44171 3533321
+
+oUSA
+Japan Rado Co. L1, /New York Branch
+230 Park Averue, New York,
+
+fiew Yerd, 10022
+
+Phon: 22 355- 1130
+
+Fax: 212.312.6227
+
+®indonesia
+Japar Radio Co.. t
+
+ealla Tover 12 11 Ficor
+
+Jalan Jenderal Gator Subrofo Kav9-11
+Jakarte (2930
+
+Phone : 21524053 » 520406
+
+Fasx: 215204053
+
+®Fhilppines
+Japar Hadio Co.1td.
+
+2320 Talt Avenue
+
+Malate Manila
+
+Phonz  2.50.8365 » 57-1430
+Fax: 7.571-503
+
+@Thailand
+
+Japar: Radio Co. Lt
+Charturong ArPhor: Building
+457 gFra Sumar 1 Street,
+Bangkok 19200
+
+Fhana/Fax : 2.280-0401
+
+®india
+
+Japan Sadio Cu. Lt
+
+5 A Sagar Apartmens,
+
+5 Tiak Marg, New De-hi-110001
+Phone; | 1-38-575F
+
+For: 1384571
+
+@Witaka Plant.
+
+11 Shirmorenjaku 5
+Tokyo 181
+
+Phone : 0422459111
+Fax: 0222459110
+
+ome,Mitaka
+
+®JRC do Brasi) Empreendimentos
+Electronicos Ltda.
+
+fvAbmirarte Barraso,63.Ge.§/2707
+
+20031 Rin de Janero k]
+
+Phonc : 21220 8121 2629281
+
+Fax: 2120637
+
+ouUsA
+Jmpan Raito Co. L1,
+
+/o Raytheon Marie Coipany,676 lslard
+Pond Raad Manchester N- 131D9,U.5.A
+Phane : 503.634-4840
+
+Fex: 603-61-4841
+
+@United Kingdom
+Japan Rad 0o Lt
+
+c/o Raytneon Marine Exrope
+Arctorage Park Portsmoutr,
+Fainpshire.PL3 5TO.UK.
+Prone.: 40.705-603739
+
+Fax': 470566324 1
+
+@Natherlands
+Jepan Rada Co. Ltd
+
+/6 Racio Hol'and 3.Y,
+EekEourstrast 2,
+
+3087 AB Rotterdam
+
+Phone: 10-420.4581 + 10-629- 1088
+Fac: 104282259
+
+®Spain
+
+Jzpan Radio Co. Lid.
+
+/0 TOSA CANARIAS 5. Doctor
+
+Juan Deminguse Peres 44, urbanizacion
+Fi_ CLBADAL, Las Paimas 06 Gran Canaria
+Phone : 34.26-£6.5191 + 34.28-46.5281
+Fag: 30.70.6-2398
+
+--- PAGE 25 ---
+For further information contact
+
+dapan Radio Co., Ltd.
+
+HEAD OFFICE & Akasaka Twin Tower(Main),
+SALES DEPT. a 2-chome, Minato-ku, Tokyo.
+
+242-5420 JRCTOK J
+MAIN PLANT 1-1.Shimorenjaku 5-chome,Mitaka-shi, Tokyo.
+
+:02822-351 JRCMTK J
+
+--- PAGE 26 ---
+1/3
+
+Messrs. i34
+i |5 &=
+INSPECTION DATA
+RMAmMERBELZEE
+TWO-WAY VHF RABIOTELEPHONE
+JHS-7
+
+| ik o 2L
+EBS 51 cnoa
+ﬁﬁeﬁolﬁﬁcﬁon SERL 1998
+
+Approved by
+®E R
+
+T:stedlry _/_(
+
+iﬁgi‘ﬁ LEEr A I‘Fﬁk
+
+Receiver Sect. of lnspection nepartmm
+
+Japan Radio Co. Ltd.
+
+--- PAGE 27 ---
+¥ % -
+Model  JHS7
+B
+Serial No. BH 20947
+1. fEERs HoE 2
+Verification to specification Judgement Good
+Visua! inspection Judgement Gaod
+3. AR WooE "
+Performance test Judgemen! Good
+3.1 BAMERRRUE MRS " oE A
+Overall operation test and Electrieal Judgement Good
+characteristic test
+3.2 FAETCHEK
+Transmiter test
+3.2.1 EEMHRUBERRKIRS
+RE Power output and Frequency tolerance
+Faw kN EAEIEY:E-4 £ A A B &R %
+Channel No. RF Frequency RF Power output RF Frequency Tolerance
+0.5wT20% +10X 10°LIPAT
+S —20% Within £10%10°¢
+| _CHIs 156.75 MHz 0.8 W - 00 Nz
+CH 16 156.80 MHz 0.8 W + 00 Hz
+i CH 17 156.85 MHz 0.8 W + /00 Hz
+3.2.2 TAHE
+Modulation Characteristics
+Test Frequency CH 16  156.80 MHz
+il ) # E
+Ttem Specification Judgement .
+mARERREY Ly -3
+Masitmm freq, deviation + 5 kHz ot less Good
+BAZLSURE Bk
+" Diortion - N e oot
+Mow %M ot * 787
+Fre-emphasis 6 B e &
+3.2.3 27T REWE
+Spurious and Harmonics
+# AWM —55dBLIF AR —49dBLLT
+Specification In Band  (25.W) or less Out Rand (10,W) or less
+- 2 fr 3 fr
+Judgement " B
+Good Good
+
+2/2
+
+--- PAGE 28 ---
+® &
+Model
+
+JHS-7
+LER S
+serial No. BH 20947
+
+3.3 Z4
+Receiver test
+3.3.1 REBE
+Sensitivity
+Fr v i S i1
+Channel No. Rec. Frequency Sensitivity 6dBALT
+(24V) or less
+i CH 15 156.75 MHz -2 dBx
+CH16 | 15680 MHz__ _22 aBe
+CH 17 156.85 MHz -22 aRx_|
+3.3.2 40E RIE  Z7YTR FEEZ EEAETF
+Bandwidth, Selectivity, Spurious respense, Intermodulation, Desensitization
+ES 4R 2
+Test Freauency CH 16  156.80 MHz
+S ]
+Item Specification i Judgement
+-3 ” = B Lk B
+Bandwidth 12 kHz or more Good
+i ks 4 c uF
+Selectivity 25 kHz or less G?od
+firl/2 1F A
+2 7y 7 o= _q0ap W | (45.95MH) Good
+Spurious response otles) g IF "
+~ . e (113.4 MHz) Good o
+A Lk &8
+Intérmvodulation 65 dBu or more Good
+B OE & T UL
+Desensitization 80 dB or more Gﬁd
+3.3.3 ML
+Demodulation characteristics
+3 7
+ltem Specification Judgement
+BAESIURE Mt
+" “Distortion 2 dB or more Ha
+I - - - ] - *25—=7 -3
+De-emphasis 6 dB/ Cive Good
+Ay N F @ e B2
+Sauelch operation Good
+
+--- PAGE 29 ---
+1/3
+
+Messts. B
+
+INSPECTION DATA
+B HmERERRE
+TWO-WAY VHF RADIOTELEPHONE
+JHS-7
+
+.
+e AT
+e
+
+BEile sep sepe
+
+R 3
+Approved by A
+
+o
+Tested by / .
+iﬁf?ﬁé’%ﬂf"ﬁ R S (e 2R
+
+Receiver Sect. of Inspectian Department
+
+Japan Radio Co, Ltd.
+
+--- PAGE 30 ---
+JHS-7
+
+S by 70948
+
+1. fREHRE #oOE
+Verification to specification Judgement Gesd
+2. RBEHE #ooE
+Visual inspection | Judgement S
+3. fEfiEREs HooE B
+Performance test Judgement Gaod
+
+3.1 EAIERMRUT SRR MoE 2
+nerall aparation test and Blectrical Judgernent Good
+characteristic test
+‘Transmitter test
+
+3.2.1 B
+RE Power outont and Frequency tolerance
+Fa vl SRR HEAR R Ao
+Channel No, RF Frequency RF Power ontout RF Frequency Tolerance
+o.8w +20% 410X 102517
+O —20% Within 10X 1076
+T 156.75 MHz o8 W___|_ 40 _Hz
+CH 16 156,80 MHz 0.5 W - 40 He
+CH 17 156.85 MHz 0.8 W  _ 40 Iz
+Characteristics
+M
+Test Frequency CH 16 156.80 MHz
+H B S 1% k2] o
+ltem Specification Judgement
+e KR E KRG B LY 2
+Maximun freq. devistion + 5 kHz or less Good
+BEEBI VD Lk
+" Distartion % dB ot more Good
+S 9 5—7
+Pre-emphasis 6 dB/ Ctave Good
+1.2.3 A7V 7 R
+Spurious and Harmonics
+# t BEP —55dBIIT AWM —9CBRIT
+Specification InBand  (25,W) or less Out Band (10, W) or less
+W 2 fr 3 1
+Judgement, B I3
+Goud Good
+
+--- PAGE 31 ---
+0 P4
+Sensmvny
+| 5w A REFER & 3
+
+Channe) No. Rec. Frequency Sensitivity 6dBUT |
+
+(2uV) or less
+
+CH 15 _ _ _156.75 MHz - /9 dBu
+
+CH 16 156.80 MHz - 1. dBx
+
+— CH 17 115685 Milz ~ .9 _dBu
+
+BRE  ATNTA B LW
+
+Banwidt, Seleciivity, Spurious response, Infermodulation, Desensitization
+
+BB
+
+Test Frequency CH 16  196.80 MHz
+g 2 1 i
+Ttem Specification Judgement
+# i " } Bk
+Bandwidth 12 kHz or more S
+[ & ® & H T !
+i Selectivity 25 kHz or less G‘Eod
+i fo1/2 IF B
+2 7 ) 7 = _7pdp L | (14555 Mo . Good
+Spurious response arles 5 IF a
+(1134 MHz) Good
+# A % W BE
+Intermodulation 55 By or more &
+s E & F wE
+Desensitization 80 dBy or more Gz;Eod
+3.3.3 {EIRHE .
+Demodulation characteristics
+A 8 #l 3
+Ttem Specification Judgement
+HAEBLURY B
+" Distartion 20 dB of more G}?},d
+IS - - S - *25—=7
+De-ermphasis —6 dB/ave Gﬁd
+A r vt W
+
+Sauelch operation |
+
+B
+Good
+
+--- PAGE 32 ---
+1/3
+
+Messrs. ] e
+
+BoE R B E
+INSPECTION DATA
+R 1 AR o
+TWO-WAY VHF RADIOTELEPHONE
+
+JHS-7
+
+LEE® s o949
+A
+ija:teﬂil‘n:sg?ﬂlm SEP PP
+
+I 2 g; retaes
+Apmmny
+
+L
+Tested hy
+
+*ﬁ*?ﬂ EE fﬁE“B LR
+
+Receiver Sect. of Inspection llepnrtmen(
+
+Japan Radio Co, Lid.
+
+--- PAGE 33 ---
+® & .
+Model JHS-7
+wate
+Serial No. BH 20949
+RS RS &
+Verification to specification Judgement Good
+e o % a
+Visual inspection Judgement Good
+HERERE HoE B
+Performance test Judgement | Good
+3.1 FAMIERARUT SIS HoE a2
+Bveral aperacion est and Blectrical Judgement Good
+characteristic test
+3.2 L5
+Transmitter test
+3.2.1 EELHRUEERIE
+RF Power output and Frequency tolerance
+Frvin I EAEW D SR IS
+Channei No. RF Frequency RF Po\\'er cL\tD\.\K RF Frequency Tolerance
+o.swt £10% 1011
+I Within -10x10°¢ |
+CH 15 6B MHz | .8 W P
+CH 16 156.80 MHz 0.8 W Y
+CH 17 156.85 MHz 0.8 W 30 He
+3.2.2 EW
+Modulation Characteristics
+A B R
+Test Frequency CH 16 136.80 Mtz
+w & ] # t | [l %
+Item - Specification Judgement
+BAEEEBR LT B
+Masimm freq. deviation £6kH: i Good
+HBAEBLUMY Bk
+" “Distortion 20 dB or Thore o
+[ - S L A7 5—7
+Fre-emphasis & 4B/ Cerave 2
+3.2.3 2707 RHHE
+Spurious and Harmanics
+i WP -s5dB LR W ~49dBLIT
+Specification InBand  (254W) or less Out Band  (10,W) or less
+- 26 36
+Judgement " 2
+Gaod Good
+
+2/3
+
+--- PAGE 34 ---
+3/3
+
+ot JHS-7
+
+RS
+
+M
+
+3.3 ¥ 3
+Receiver test
+
+3.3.1 Zf3!
+Sensitivity
+
+Fa AN AL 3
+Channel No. Rec. Frequency Sensitivity 6dBuLLF
+{2V or less
+CH1 T T 156.7 MHz - 20 dBx
+CH 16 156.80 MHz Y aBx
+CH 17 156.85 MHz, -2 dBx
+3.3.2 WM BIRE  RFTUTR HFLHE LT
+Bandwidth, Selectivity, Spurious response, Intermodulation, Desensitization
+B B q
+Fest Troquencs CH 16  156.80 Mllz
+- ——= = = )
+el H S i ! kil |
+Ttem Specification Judgement
+TR Lt :
+" Bandwidth i 12 kHz ar more | Good
+F ) 5 BT
+Selectivity ~ 25 kHz orless Gﬁd
+fe-1/2 IF 7
+27 07 oz 19 qp W | (8. MEs | Good
+Spurious response ortess (3 IR N
+. (113.4 MHz) Good
+18 ;W Bk
+Intérmodulation 65 dBy or mare Good
+
+N %0 dB, [E
+
+Desensitization or more Good
+
+3.3.3 {EEIHE
+
+Demodulation characteristics
+
+Item Specification Judgement
+BLEBIUHRY 20 dB L
+" “Distortion or more Good
+How oK % % _ F78—7
+De-emphasis i 6 9B/ ciave s
+2y F O B’
+Squelch operation Gond
+
+--- PAGE 35 ---
+JAE-EA-E
+
+406MHz SATELLITE EPIRB
+
+INSTRUCTION
+MANUAL
+
+--- PAGE 36 ---
+SECTION 1
+1.0
+1.1
+
+SECTION 2
+2.
+
+2.
+2z
+
+SECTION $
+
+PR
+
+SECTION 4
+4.0
+41
+
+SECTION §
+
+B Lanyard ceeeeeereeresiecnienis
+
+TABLE OF CONTENTS
+
+GENERAL DESCRIPTION -
+Introduction -
+Specifications «
+
+IKSTALLATION ------- e
+Unpacking and Inspection
+Equipment Supplied :---
+Instructions for Mounting Float Free Release Brackel
+
+1 Selecting a Mounting Location for the Floal Free Release Bracket
+7 Mounting Clearances for the Float Free Release Bracket -
+
+3 Bemoval of the JQE-2A-E EPIRB from the Floal Free Release Bracket
+4 Installation of the Float Free Release Bracket
+
+5 Installation of the JQE-ZA-E EPIRB into the Float Free
+
+Release Bracket =«eeeeevrees
+
+OPERATIOX -~
+Mode Switch
+AUTO Position
+MARUAL Position
+TEST Position
+OFF Position -
+
+MATHTENANCE - -
+General ----
+Testing the EPIRB
+
+ANNEX
+IRC SERVICE NETHORK «eeoverensrersnenenn
+
+--- PAGE 37 ---
+SECTION 1
+GENERAL DESCRIPTION
+
+1.0 Iatroduction
+
+The IQE-2A-E 406MHz Satellite Emergency Position Indicating Radio Beacon (Satcllite
+EPIRB) is designed for use by marimers in distress to initiate the transmission of an
+emergency distress locating signal to the COSPAS/SARSAT Sateilites.
+
+The IQE-24-E EPIRB houses two (2) tramsmitters. When the JQE-24-E is activated,
+one tramsmitter transmits the digitally encoded emergency message which contains the
+vessels identity and nationality to the satellite at a frequency of 404.025MHz
+
+When the 406.025YHz emergency signal is detected by the satellits, it is relayed
+to a ground receiving station which can quickly determine the location of the vessel
+in disiress, anyshere in the vorld. vithir a few niles
+
+The location of the vessel in distress is immedialely relzved through a Mission
+Control Center to an Aviation or Maritime Rescue Coordinaties Center in the vieinity
+of the vessel, so that Search and Rescue units can be deployed immediately.
+
+The second transmitter transmils a signal on 121.5MHz which is used by search and
+rescue units as a "homing” signal. There is also a strobe light built inte the top of
+the JQE-24-E shich upon activation will begin to flash. providing a visual aid to the
+search and rescue units.
+
+The global coverage provided by Lhe COSPAS/SARSAT satellites greatly increases the
+chance of hearing the distress signals anywhere in the world. The basic system iz shown
+in Fig. 1-1.
+
+The JQE-2A-E is capable of transmitting the t¥o emergency signals and the visual
+indication for a minimum of 48 hours from the time of activation and at temperalure
+extremes of -40 to +55 degrees C.
+
+The JQE-2A-E EPIRB with a Float Free Release Bracket meets the requirements of the
+ETSI (Buropean Telecommunications Standards Institute) class 1.
+
+The JQE-ZA-E's rugged design and waterproof construction meet all the requirements
+of IMO/CCIR, ETSI, and COSPAS/SARSAT to emsure reliable operation in the marine
+environment.
+
+--- PAGE 38 ---
+SATELLITE
+
+1.6 GHz
+
+san Foces
+=
+s A
+/ L
+¥ RCC
+
+DISTRESSED .
+o K
+SQE-2A=E EPIRB
+Fig. 1-1
+
+Specifications
+
+Operating Frequency
+Frequency Stability
+Output Power
+Modulation
+Heming Transmitter Freguemey
+Output Power
+Modulation
+Antenna
+Polarization
+Battery Pack Type
+Operating Life
+Activation Methods
+Strobelight
+Intensity
+Fiash Rate
+Digital Message
+Repetition Rate
+Transmission Time
+
+Rescus Coordinatio” Center
+
+BASIC COSPAS/SARSAT SYSTEM
+
+406,025+ 002 Mz
+
+2x107 (100 msec) short term
+
+5 ¥atts=2 dB into 50 ohms
+Phase modulation {1.1%0.1 radians peak)
+121. SMz
+
+25 nf or 75 a¥ into 50 ohn load
+Amplitude modulation
+
+Vertical whip
+
+Linear
+
+Lithiug, 12.5 YDC, Type 3BT6
+
+44 hours {or more)
+
+Automatic or Manual
+
+.75 candela (effective)
+
+20~30 times/min. or more than 50 tines/min.
+
+Once sach 50 sec* 5%
+440 msect1% (short message)
+
+--- PAGE 39 ---
+Temperature Range
+Storage
+Operating
+
+Mounting Brackets
+
+Dimensions
+Beacon
+
+Float Free Bracket
+
+Keight
+Beacon
+Float Free Bracket
+
+-40 to +85 degrees {
+-40 to +55 degrees C (class 1 ETSI)
+Float Free type w/hydrostatic release
+
+245 nm (dia.) x 395 ma (H) x [8.87 (dia.) X
+15.87 (7 ]
+
+278 mm (K) x 318 mm (H) x 180 mm (D)
+L1 X 12,77 (8) x6.47 (D) ]
+
+Approx 6 kg (13.2 1bs}
+Approx 4 kg (8.8 1bs)
+
+THIS TRAYSMITTER IS AUTHORIZED FOR USE OXLY DURING SITCATICNS
+OF GRAVE AND IMMINENT DANGER.
+
+FARNING
+
+--- PAGE 40 ---
+SECTION 2
+INSTALLATION
+
+2.0 Unpacking and Inspection
+
+Use care when unpacking the unit from the shipping carton to prevent damage to
+the contents. It is also good practice to save the carton and the interior packing
+material until the unit has been satisfactorily installed on the vessel. The original
+packing material should be used in the untikely event that it is necessary to retura
+the unit to the factory.
+
+FARNING
+
+DO_NOT REMOVE THE IQE-2A-E EPIRB FROM ITS FLOAT FREE BRACKET
+UNTIL DIRECTED 70 DO S0.
+
+2.1 Equipment Supplied
+
+¥hen the JQE-2A-E EPIRB is unpacked the following items will appear in the carton.
+
+EPIRB Beacon JQE-2A-E 1 ea.
+Antenna NAU-108A 1 ea.
+Float Free Release Bracket NYH-10-E ! ea
+Instruction Manual 1 ea.
+
+Antenna (NAU-1064)
+
+EPIRB Beacon(JQE-2A-E)
+
+Fig. 2-1
+
+Float Free Bracks:
+(NYH-10-E) S4-
+
+--- PAGE 41 ---
+2.2 Instructions for Mounting Float Free Release Bracket
+2.2.1 Selecting 2 Mounting Location for the Float Free Release Bracket
+
+¥hen selecting a mounting location for the JQE-ZA-E EPIRB and its Float Free
+Release Bracket the following items should be considered:
+
+1. The JQE-2A-E and its bracket must be installed in an upright position.
+
+2. The JQE-2A-E must be installed in 2 location that is clear of obstructions.
+Do not install the unit in any location where-obstacles such as overheads,
+catwalks, or anything else would prevent the JQE-2A-E from reaching the water
+surface when the hydrostatic release is activated.
+
+3. The JQE-2A-E should not be installed in any part of the ship which is likely to
+flood, or where the use of fishing gear, boat davits, or cargo derricks may
+cause damage to the unit.
+
+2.2.2 Mounting Clearances for the Float Free Release Bracket
+
+The minimum clearances recommended when instailing a Float Free Release B3racket
+are shown in Figure 2-2.
+
+FABNING
+DO _NCT REMOYE THE IQE-2A-E EPIRR FROM_{T§ FLOAT FREE BRACKET
+UNT1L DIRECTED TG DO SC.
+
+NO
+OBSTAUCTIONS
+
+=
+g
+00 MIN MOUNTING HOLES 4 PLACES
+L et
+
+506 MIN 15 + 0.5
+
+|
+< ]
+
+A
+Min
+
+VR
+N\
+\\Q\
+
+N
+N
+
+W\
+\
+\\
+
+{unit: me}
+
+FIG. 2-2 MOUNTING CLEARANCES
+
+.5-
+
+--- PAGE 42 ---
+2.2.3  Removal of the JQE-2A-E EPIRB from its Float Free Belease Bracket
+
+The JQE-2A-E EPIRB must be removed from its Float Free Release Bracket before
+installing the Float Free Release Bracket on the bulkhead. (See Fig. 2-3.)
+
+TARKING
+RESTORE THE JQE-2A-E EPIRB [NTO THE FLOTAT FREE RELEASE BRACKET
+WITEIN THREE HOURES [N ACCORDANCE WITH SECTION 2.2.5, AFTER THE
+JQE~2A-E EPIRB IS REMOYED FROM THE FLOAT FREE RELEASE BRACKET.
+JQE-2A-E RELEASED FROM THE FLOAT FREE RELEASE BRACKET WILL REDUSE
+THE LIFE OF THE BATTERY BUILT IN IT.
+
+L. Pull the fastener toward you, and then the wire is untied from the JQE-2A-E.
+2. Remove the JQE-2A-E from the Float Free Release Bracket.
+
+RN
+
+Aoy
+
+===
+Y
+
+FASTENER
+
+FRONT VIEW RIGHT SIDE VIEW
+
+Fig. 2-3
+
+--- PAGE 43 ---
+2.2.4 Installation of tbe Float Free Release Bracket
+
+The mounting Float Free Release Bracket can be bolied to the bulkhead using four
+¥i0 stainless steel bolts of sufficient length to penetrate the bracket and bulkhead
+and allow for the placement of washers and nuts on the opposite side. The mounting
+hardware is not supplied.
+
+Tie following procedure is recommended for mounting the bracket to the bulkhead.
+(Refer to Fig. 2-4.)
+
+1. Position the brackel at the selected location and mark the four mounting holes
+2. Drill the four holes using a 12ma drill bit.
+3. Position the bracket and secure in place using the ¥10 hardware.
+
+T ik e
+o No,
+oz OBSTRUCTICNS
+T -
+gl
+g -
+g 700 MK MOUNTING HOLES & PLACES
+100 iy, h
+15100 MIN /
+
+300 My
+
+300 MI
+
+Bracket Magnet Housing
+
+4—11.6 DIA.
+MOUNTING HOLES
+
+LOCK WASHERS
+
+Hydrostatic
+Release Sensor
+
+(e e
+{CUSTOMER SUPPLIED)
+
+[unit: mm]
+
+Fig. 2-4
+
+--- PAGE 44 ---
+2.2.5 JMounting of the JQE-2A-E EPIRR into the Float Free Releasc Bracket
+
+¥hen placing the JQE-2A-E EPIRB into the Float Free Release Bracket follow the
+steps below. (Refer to Fig. 2-3.)
+
+1. Insert the ring on the wire into the release sensor and insure that it is seated
+properly.
+
+RELEASE SENSOR
+
+—
+
+2. Locate the black arrow on the top of the JQE-24-E housing. Place the JQE-24-E
+into the bracket so that the arros marked on the top of the JQE-24-E and the
+arrow on the brackei ate facing each other. Position the JQE-2A-E on tae bracset
+so that the JQE-2A~E is resting on the two botiom stoppers on the bracket.
+
+ToP viEw
+
+--- PAGE 45 ---
+3. Lay the wire from the release sensor over the plastic stud on the left side of
+the JQE-2A-E under the forward 1ip across to and over the right stud. and fasten
+the wire to the spring fastener. Lock the spring fastener closed.
+
+2
+FastenER”
+RELEASE
+SENSOR
+BOTTOM
+sToPPER
+LEFT SIDE VIEW FRONT VIEW RIGHT SIDE VIEW
+
+Fig. 2-5 INSTALLING THE JQE-2A-E INTO A FLOAT FREE RELEASE BRACKET
+
+--- PAGE 46 ---
+2.2.6 Lanyard
+
+The lanyard attached to the top of the JQE-2A-E EPIRB is used to tether the
+JQE-2A-E to a survival eraft, life raft, or to the life jacket of a survivor.
+
+The lanyard is stowed with the hook end wrapped around the antenna connector and
+attached to a loop of the coil as shown below. The lanyard can be extended to a
+length of 20 meters by releasing the hook. grasping it, and pulling to uncoil the
+lanyard.
+
+The lanyard should be tied to the survival craft, life raft, or a life jacket
+when it {s necessary to abandon ship. The hook is intended for stowage of the
+lanyard only, and should not be used as the means to secure the JQE-24-E to the
+survival craft, life raft, or a life jacket.
+
+HOOK
+
+LANYARD LOOP
+
+n ANTENNA
+
+Untasten the hook from the lanyard.
+
+LANYARD
+
+T
+
+--- PAGE 47 ---
+The lanyard whan incoiled will extend spproximately 20 meters.
+
+Survival crae, stc.
+
+ond st e lamyard 1@ the wurial raft
+e e ke,
+
+--- PAGE 48 ---
+NOTE: DO NOT USE THE HOOK
+IT 15 FOR STOWAGE ONLY!
+AN
+
+P
+
+NO)
+AR
+
+A
+Ny
+
+WABNING: DO NOT ATTACH THE OPEN END OF THE LANYARD
+TO ANY PART OF THE MOUNTING BRACKET OR THE
+SHIP STRECTURE.
+
+Now that your JQE-24-E EPIRB is ready to be placed inio operation; before going to
+the operations section insure that the following have been completed:
+
+J. ALl bracket hardware has been tightened.
+2. The JQE-24-E is correctly positioned in the bracket. arrows aligned.
+3. ¥ire correctly installed to hoid the JQE-24-E in the bracket.
+
+WABNING
+THE TRANSMITTER S AUTHORIZED FOR USE ONLY DURING SITUATIONS OF
+GRAVE AND IMMINENT DANGER.
+
+- 17 -
+
+--- PAGE 49 ---
+SECTION 3
+OPERATION
+
+3.0 Mode Switch
+The JQE-2A-E is capable of being automatically activated. manually activated. tested
+without access to the satellite. and manually deactivated. The operation procedures are
+
+also given in the instruction label on the side of the beacon case.
+
+The JQE-2A-E is controlled its operation by the Yode switch. The svitch has four
+positions. They are AUTO, MANUAL, TEST and OFF.
+
+AUTO ... Permits automatically turning on the beacon the JQE-2A-E has been
+released from the Float Free Release Bracke: in the sea.
+
+MANUAL ...... Permits manually turning on the beacon.
+
+TEST . Permits the checking of the JQE-24-E transmitter operation.
+
+OFF ..
+
+. Permits manually turning OFF the beacon.
+
+The JQE-2A-E EPIRB is shipped from the factory with the Mode switch in the AUTO
+position (in "locked”) by the sealing the nylon pratective stop lever. This prevents
+the JQE-24-E from being accidentally deactivated in distress of the vessel.
+
+That is. Lhe Mode switch of JQE-2A-E_Is not necessary to rotate from the AUTO position
+10_the other one.
+
+LED INDICATOR
+
+FROTECTIVE
+STOP LEVER Locking Peg
+Seal
+MODE
+SWITCH
+
+Protactive Stop Lever
+
+Lifting Tab
+
+JQE-2A-E Mode Switeh
+
+Fig. $-1 MODE S¥ITCH
+
+-1 -
+
+--- PAGE 50 ---
+3.1 AUTO Position
+
+keep the mode switch at AUTO position for the usual use.
+
+¥hen the mode switch has been set to the other position. set the switch to AUTO
+position as the following procedures:
+
+(1) Lift the tab of the protective stop lever to release it from its locking peg.
+
+(2) Swing the lever out so that the switch can be rotated without hitting a stopping
+stud, and then rotate the switch to the AUTO position.
+
+(3) Swing the lever back in and secure it on the locking peg.
+
+(4) Fix the lever with a wire and a lead seal by our Authorized Service Agent.
+
+Lacking Peg
+
+cking Peg———=-O Seal
+—_
+
+—
+
+PROTECTIVE STOP LEVER
+
+>
+354
+
+.@,v
+ZUTD ors WP
+
+Protective Stop Lever
+
+Fig. 3-2 AUTO POSITION
+
+MODE SWITCH POSITIOR OF JQE-2A-E
+
+MODE SWITCH POSITION
+
+TAUTO"
+
+-1 -
+
+--- PAGE 51 ---
+AL the AUTO position, the JQE-2A-E is ready to transmil the emergency signals
+automatically, whenever ‘it has been in the water after being released from the
+hydrostatic release bracket.
+
+AL the AUTO position, while the JQE-2A-E is mounted in the Float Free Release
+Bracket the transmitter is not activated even if the beacon is soaked with water
+because the magnet switch installed on the brackel disables the activation switch in
+the beacon.
+
+4t the AUTO position, i{f the IQE-2A-F is released from the bracked by the
+maintenance purpose or an accident, the transmitter is mot activated because the
+conductive svitch mounted on the beacon disables the activatjon switeh in the beacon
+
+Caution
+
+The JQE-ZA-E must be restored into the Float Free Release Bracket within three hours
+after removing from its bracket. Because. the conductive syitch circuits will start to
+operate after the beacon is removed from its bracket, and the currenis will reduce tie
+battery life
+
+WARNING
+THIS TRANSMITTER IS AUTHORIZED FOR USE ONLY DIRING SITUATINNS
+OF GRAVE AXD IMMINENT DANGER.
+
+15 -
+
+--- PAGE 52 ---
+8.2 MANDAL Position
+
+WARNING
+THIS POSITION OF THE S¥ITCH SHOULD BE SELECTED ONLY IN SITUATIONS
+INVOLYING GRAYE OR IMMINENT DANGER.
+
+The manual po m_places the JQE nto immediate emergency operation
+regardless of whether it is mounted in the Float Free Release Bracket.
+
+The setting procedures are as follows:
+
+(1) Break the seal on the protective stop lever, and lift the tab of the lever to
+release it from its locking peg. (See Fig. 3-3)
+
+(2) Swing the lever out so that the switch can be rotated without hitting 2 stopping
+stud, and then rotate the switch to the MANUAL positiom.
+
+(3) Swing the lever back in and secure it on the locking peg. (See Fig. 3-3.)
+
+The JQE-2A-E will begin transmitting the 406.025MHz and 121.5MHz emergency signals
+and the strobe light will begin flashing as soon as the syitch is placed in the MANUAL
+position.
+
+To deactivate the JQE-2A-E, release the protective stop lever, and rotate the
+s¥itch to the OFF position.
+
+Locking Peg
+
+L\
+=t
+
+Protective Stop Laver
+
+Mode Switch
+
+Fig. 3-3 MAKGAL POSITION
+
+- 16 -
+
+--- PAGE 53 ---
+3.3 TEST Position
+
+This test must be perforped at a minimum of once a month.
+
+The test procedures are as follows:
+
+(1) Hold the mode switch at the TEST position for about § seconds.
+
+(2) Check the "Green’ lamp illuminates for 0.5 seconds approx. after strobe light
+flashing twice or three times. (See Fig.3-4.)
+
+(3) Release the switch after testing.
+The switch will spring back to the AUTO position. (spring loaded)
+
+See Section 4.1 (Testing the EPIRB) for additional information on performing
+this test,
+
+Strope Light Lers
+
+“TEST" LED INDICATOR
+
+spring loaded
+
+Fig. $-4 TEST POSITION -
+
+Note: (1) JQE-24-E transmit 406MHz test signal (one burst) to check the digitally
+encoded emergency message. The test signal meets the COSPAS-SARSAT
+Specification.
+
+(2) Performance of this test does not significantly reduce the life of the
+battery pack.
+The discharge rate of this test over the battery life amounts to only
+0.2% of the total battery pack capacity.
+
+Other than making the above performance test, routine inspection and cleaning,
+there is no further maintenance for the EPIRB.
+
+If the performance test result is abnormal and the LED does not iliuminate, or if
+it {s time for the battery to be replaced, comtact your nearest Authorized Service
+Agent.
+
+HOTICE
+SERVICE AND MAINTENANCE FOR THIS JQE-2A-E MUST BE PERFORMED
+BY AUTHORIZED SERVICE AGENTS ONLY!
+
+-7 -
+
+--- PAGE 54 ---
+S.4  OFF Position
+Set the mode switch to OFF position on the following cases:
+
+(1) To turn off the accidentally activated JQE-24-E.
+
+(2) To perfors maintenance on the JQE-ZA-E.
+
+(3) To remove the JQE-2A-E from its Float Free Release Bracket for any purpose for
+long time other than an emergency
+
+At the OFF position, all EPIRB circuits are deactivated foreibly.
+The setting procedures are as.follows:
+{1) Lift the tab of the protective stop lever to release it from its locking peg.
+(2) Swing the lever out so that the switch can be rotated without hitting z stopping
+
+stub, and then rotate the switeh to the OFF position.
+(3) Swing the lever back in'and secure it on (he locking peg. (See Fig. 3-5)
+
+Pig. 3-5 MODE SFITCH "OFF™ POSITION
+
+18 -
+
+--- PAGE 55 ---
+SECTION 4
+MAINTENANCE
+
+4.0 General
+
+To verify that the JQE-ZA-E EPIRB will function properly. in the event of an
+emergency situation, it is lmportant to perform a routine inspection. maintenance,
+and system test at least once each month. The following recommended checks should
+be made at that time:
+
+1. Keep the IQE-24-E and the Float Free Release Bracket as clean as possible. The
+housing of JQE-ZA-E, the antenna, and the bracket should be inspected and should
+be rinsed off periodically with fresh water.
+
+Care must be taken not o dakage the components.
+
+2. Confirm that no debris such as rags of other materials are stored on or about the
+IQE-24-E assembly. Confirm that no new structures or obstacles have been installed
+or stored in the area of the JQE-24-E that might inhibit its proper release (“om
+its bracket.
+
+3. During the monthly inspection of the JQE-2A-E and [t's mounting bracket include the
+following checks:
+
+A. Check the mounting hardware for tightness.
+
+B, Check the antenna, the bracket, and the mounting hardware for any signs of
+corrosion. Clean off the corrosion and replace the hardware if necessary.
+
+C. Inspect the JQE-24-E case for any signs of deterioration. cracks or other WJamage.
+
+D. Check the battery replacement date sticker on the JQE-24-E for the expiration/
+replacement date of the battery {(Normally every 3 years). The battery replacement
+label loeation is shown in Fig. 4-1.
+
+If battery replacement is indicated. contact your nearest Authorized Service
+Agent to have the battery replaced.
+
+E. Check the replacement date Sticker of the Hydrostatic Release Sensor. The sensor
+is to be replaced every 4 years. If replacement is indicated, contact your
+nearest Authorized Service Agent to have the mechanism replaced. The release
+sensor repiacement label location is shown in Fig. 4-2.
+
+- 19 -
+
+--- PAGE 56 ---
+£
+NAME OF VESSEL
+
+ARRRF RS
+RADIO CALL SIGN
+
+vtz
+BATTERY MODEL
+EEH 2R
+
+REPLACE BATTERY
+AFTER THIS DATE
+
+NEB-184A
+
+Fig. 4-1 BATTERY REFLACEMENT LABEL & LOCATIOK
+
+KEH-BH
+RELEASE SENSOR
+MODEL : MPXLO0850
+
+KE &2 —HLNIR
+REPLACE RELEASE
+
+SENSOR AFTER THIS
+DATE:
+
+Fig. 4-7 BELEASE SENSOR REPLACEMENT LABEL & LOCATION
+
+- 90 -
+
+--- PAGE 57 ---
+4.1 Testing the JQE~ZA-E EPIRB
+
+Once 3 month you must test your I PIRB for proper operation.
+
+in the TEST position, JQE-2A-E will transmit the 406MHz test signal {one burst) ta
+check the digitally encoded emergency message. This test signal meets the COSPAS/SARSAT
+Specification. Unless the switches held in this position (spring-loaded), it will
+spring back.to the AUTO position. (See Pig.d-)
+
+Therefore held in the TEST position for about 5 seconds, the strobe light will flash
+during test and a "Green” LED indicator will illumirate for approx 0.5 seconds below
+the strobe light globe, indicating that normal EPIRB transmitter operation has been
+verified.
+
+Strobe Light Lens
+
+Lostang Peg
+
+"TEST* LED INDICATOR
+seal
+
+spring loaded
+
+Fig. 4-8 TEST POSITION
+
+NOTE: Performance of this test does not significantly reduce the life of the
+battery pack.
+The discharge rate of this test over the battery life only amounts to 0.2%
+of the total battery pack capacity.
+
+If the performance test result was abnormal and the LED did not illuminate, or if
+it is time for the battery to be replaced, contact your nearest Authorized Service
+Agent.
+
+KOTICE
+
+SERVICE AND MAINTENANCE FOR THE JQE~ZA~E EPIRB MUST BE PERFORVED
+BY AUTHORIZED SERVICE AGENTS ONLY!
+
+-2 -
+
+--- PAGE 58 ---
+SECTION 5
+ANNEX
+
+JRC SERVICE NETWORK
+
+IRC fully recognizes the importance of maintenance and services based on our long
+years' of experiences in manufacturing electronics equipments for marine use and contin-
+ued efforts are rendered for the establishment of complete service network.
+
+JRC has established the maintenance and service nerwork throughout Japan and also at
+most major ports in the world for this ship terminal.
+
+Addresses of sales office in Japan is listed in Table 1-1, service agents in each coun-
+uy and main depots in the world where the maintenance and service are available is
+listed in Table 1.2, and addresses of JRC's liaison office is listed in Table 1.2.
+
+Table 1.1 List of Sales Office in Japan
+
+| TELEPHONE
+SALES OFFICE ! ADDRESS TELEX
+
+Head Office Akasaka Twin Tower, {Main 5, 6 L) ! 03-584-8781/8786
+Maritime Sales Dept. or 17-22, Akasaka 2-chome, Minato-ku, i 2425420%
+Internztional Sales Dept.. Tokye 107, JAPAN ! JRCTOK J
+
+HOKKAIDG Hokkaido-Suisan Building £11-281-8321
+Branch Office | Kita 3-jo Nishi 7, Chuo, Sapporo 060
+
+TOHOKU " Tayama Building 022.225-6831
+Branch Office 3-9-8, Kokubu, Aoba, Sendai 980 |
+
+TOKAI 6-29, Shimazaki, Shimizu 424 i 0543-53:0138
+Branch Office '
+
+CHUBU | Shirakawa Building Bekkan -203-1
+Branch Office 2-6-1, Sakae, Naka, Nagoya 460
+
+KANSAI 1-4-28, Dojima Hama, Kits, Osaka 530 06-344-1631
+Branch Office
+
+KOBE Shosen Building 078:321:2421
+Branch Office | 8, Kaigan-dori, Ikuta, Kobe 650
+
+CHUGOKU ‘Yuraku Building 082:-243-0686
+Branch Office | 2-4, Shintenchi, Nake Hiroshima 730
+
+ONOMICHI 118 Nishitsuchido, Onomichi 722 0848-23-6062
+Office
+
+KYUSYU ‘ Fukusyu Building 1 ge2.761-2636
+Branch Office ! 4-9-18, Watanabe-dori, Chuo, Fukuoka 810 722503
+
+NAGASAKI | 1-20, Asahi, Nagasaki 852 0956-61-8148
+Branch Office | :
+
+KAGOSHIMA 14-31 Kamoikeshinmachi | 0992-50- 1
+
+___B(ﬂnchiorﬁlce +  Kagoshima 880 | -
+
+OKINAWA ' Daiichi-Eiko Building £988-77:9613
+Sales Office | 218, Minatogawa, Urazoe, Okinawa 901-21 |
+
+*: international telex
+
+-7 -
+
+--- PAGE 59 ---
+Countzy | port - Nome & Address Tix, Cable, Tel, Fax
+——
+Egype Alexandria [ Pan Arab Co., 1 54123 PASCO UM
+i1 League of Arab States Tel 808801
+?.0. Eox 19 Alexandria,
+EcyeT
+Finland Felstnki Akuteollisuus oy Tix 131385 START F
+O | 5.0. Box 60 Tel 356-0-90-52501
+$P-02631 Espoo 63 A 358-0-30-8747769
+FINLAND
+France Le Havre Etudes Technigues Et Nouvelles i-nx ENTA 190855F
+O | applications ire1 33-35-440022
+17 ) 76930 Octeville sur Mer i 33-15-440553
+B.P. L0G7-76062 Le Havre i
+czpEx
+FRANCE
+raris [ [ nead oftice: TIX  CRM 280085F
+* | Compagnie Radic-Waritime CRM CRM 29067BF
+6, rue lavoisie:, 75008 Paris  |Calve  EXPLORADEC PARIS
+FRANCE Te1 33-1-266-58%
+(DEPOT)
+| Marsellle ¢ others
+aramer TH.E. Eiosing xc RV
+Ol Gosbenstrasse 12 Te1 49-421-345058
+} D-2800 bremen Fax 49-421-3495012
+{ cERMANY, :
+Germany § SERMANY
+Enden TH.E. Eissing XG iThe 27873
+O Hansastzasse 2 45-4921-8008-0
+2970 Enden 1 19-4321-800819
+SERNANY i
+Gresce ! Piraeus Greek Technical Radic Tix 212311 GREC GR
+i x| Electronic Comsars lcasie  swiecenes Fraacus
+Akti Miaouli €9, Pirasus Tel
+P.C. 10
+GREECE
+Marel ELSCCronics 5.A. TTw
+Ol 6. Sotizos Dios st 7ol So-1-a172838
+§ GREECE 36-1-4123943
+i 30-1-4127730
+Hong Kang | Homg Xong | s | Electech Services Ltd. jTlx | HX61720, BX73217
+48/F., Hopewell Center Cable  ELECTECHK
+183, Queen’s Road, East, Tel s-283911,
+HONG KONG 5-296022
+Thaia [r— | Head orrice TIx oL 33
+NIRERS (india) Privace Ltd. Tal 267960, 263707
+Halnotra House, 3rd Floor
+Opp. G.P.0., Bombay-400 DOL
+Repuslic of DNOIA
+Indonesia | Jakarta Japan Radio Co., Ltd. TIx | JXT 46331
+@/ Jakarta Liaison Office Cable  JAPANRADIO JAKARTA
+/o Sahid Jaya Boulevard Hotel |Tel  62-21-583400
+2nd Floor, Pome No. 4, { 62-21-584151
+Jakarta | 62-21-564152
+NDaNEsIA 62-21-384153
+62-21-584154
+62-21-5€4255
+62-21-584156
+61-21-584157
+62-21-584158
+! 62-22-584159
+j Fax_ 62-31-586186
+
+T ©  JRC's overseas office
+O Sales and ser
+* © Service agent
+
+e agent
+
+- 23 -
+
+--- PAGE 60 ---
+Table 1.2 Satellite Communication Service Network of JRC
+
+Country Port tame ¢ Address TiK. Cable, Tel, Fax
+Asstralia | fielbourne C.H. smith Marine Pty., Ltd. Tix cusvic AA 139700
+Ol 16 Langridge streer Tel  (031417-1077
+P.0. Box 20
+Collingwood Victoria, 3066
+} | commonweaith of ausTRALIA
+rishane || TG Electronics Fey. Led. T Leises
+! 280 Tingal Road, el (008) 77-7835
+| Wynnum, 4178, g'land., (07} 396-3303
+AUSTRALIA
+Freemantle || McCorkills Coastal Electzamics |Tlx  AA92352 MCORKL
+pertn 108 Marine Tce. Fremantle, rel <091 335-4800
+WA 616, AUSTRALIA Fax £091335-5295
+®.0. Box 383, Fremantle, ¥A 6160
+Eahrain Hina Sulman| | Head Office Tix 8226 ATS BN
+#| Reradic Technical Services W.L.L|Cable AERTECH BAHRAIN
+P.0. Box 26803, Mina Sulman Tel  973-243390
+Industrial Area A 73713917
+BRHRAIN §73-712856
+§73-258523
+Fax 973727811
+Belgium Rntwerp Antwerp Merine Radlo Company  [T1x 31734 AMRC £
+Ol Pasrdermarkt 87,200 - Antwesrp Cable AMRC B
+BELGIM Tel 32-2137780
+AM. 32-3-2336092
+32-2-2310487
+32-3-3214715
+Fax 32-3-3252845
+srazit ®io de JRC do Brazil Empresndimentos  |Tix | 2130428 JRCR aR
+Janeire  |@| Electronicos Ltda. el 55-21-220-6121
+Au. Almirante Barroso, 63
+§/2727 20,031 Rio de Janeiro-R3
+BRRZIL
+Ceraca Mentreal kead office: [ ©03-837827
+O! Canadian Marcons Company Tel 1-514-341-5078
+74 Trenton Avenue 24 Hrs answering Service
+. tontreal, Quebec, HIP 1¥9
+CANADA
+(DEPOT}
+Halifax, Toronto, Vancowver
+& others
+[enina ead office Thx | 22264 0B CFX O
+Beijing || Warine Electronic Equipment Tel 554010
+Dalian Engineering Company of
+Guangzhou COSCO (COSCOMEEE)
+shanghai 6 Dong Chang An.St., Beljing
+The Peaples Republic of CHINA
+ThiTe TeRTiage TRTER EXPORT Lida- TIx $A0L9E TRFORT CKT |
+C| calvez 83, Casilla 9269 Tel 6980335, 6985948
+sanciage
+Repuslic of CHILE
+Denmark Copenhagen Raytheon Marine Ssles and Tix 31473 RAYCO DK
+O| service company el 45-3L-269710
+Damptasrgevej 27 Fax  45-31-383355
+DK-2100 Copenhagen §
+DENMARK
+RAGE HEWPEL Interfational A/S  |Tlx 15231 MEMPEL DX
+Ol Havnegade 35-DK-1058 Tel 45-31-126%€7
+.| copennagen x
+DENMARK
+
+EET ©: JRCs overseas office
+
+O Sales and service agent
+
+Service agent
+
+- -
+
+--- PAGE 61 ---
+Country Forc ; Name & Aodiess TIx, Casle, Tel, Far
+lreland Cork AX SES Electrotechnic Service Tlx Corx 52262
+Ut rea.
+{15 Lesurin Strees, Cork
+Republic of IRELAND
+Tealy Roma Head Otfice: Tix 61i6es TELERO 1
++ | Compagnia Cenerale Telemar Cable  TELEMAR-ROWA
+via le Tiziano, 13, 00196 Rome |Tel  39-6-3361200
+{Headquarters] 39-6-391898
+T 39-6-392734
+3961963815
+39-£-393950
+servics from
+i | oesen Civitavecchia
+Genova ¢ otners to Gaeta, incl.
+Torea Susan arine Radio Coo, Lii. Tix <5202 AARAGIO
+*1 $141-132, 3-ka, Namhang-dong Cacle  MARDNERADIO SUSAN
+ Yeongeo-iu, Bassn Ter | i6-5425-9
+| (5.0, Box Vo. 237 Busam Fas DS1-413-2606
+| repubiic of Kormr
+Cina AL |, | Kevais 0Ll Tameer Go. SA.K., | Tix 44201 HLWIAWK R
+| ermact Engineering Dpartme: 44202 MINATANK 2 2T
+Shuaiza 5.0, Box 25208, Sefa: A Kowait
+Mina Staze of KUWAIT 58, 911759,
+Abdullen 12 (stace Lines)
+Shiwaith 4154, 4129 (Anmad
+Kuwas
+madi: 4115,
+: 3 (5. pier)
+; 4103 . eien)
+| Shusiba: 961264
+Klang i Padi: Electronics Tix TEXEA MA 19447
+sdn. ena. 26, N
+Lorong J tong Tel &c 312214
+| Southern Park AR ec-i-dizala
+| Kelany. selangor €0-3-320165
+| maarsia 603317551
+et | Valleeta Halts brygochs TIx | eoei2n1 omeors
++| The Docks, halca Cale  DRYDOCKS MAITA
+wata Ter  136-822451
+156-822491
+Fecheriands | Rotterdam Fesd OFfice TIx 78150 FROT WL
+Radia-tiolisnd 8.V, Cabie  RADIOKOLLAND
+Eckhostetrast 2, 3087 A8 ROTTERDAN
+Rotterdan, P.0. Box 5068,3008 | Tel  31-10-4231088
+a8 Rotcerdan Fex  3l-10-az01498
+THE vETHERLADS
+Rotteram Japan Reais Co., Lta., The 30130 RIOT KL
+@] Rotterdam Liaison Office Cable  RACIO-HOLIAND
+©/o RADIO-HOLLAND B.V. ROTTERDAM
+Eekhoutstraat 2, JOB7 AB Tel 31-10-4291088
+Rotterdam, P.0O, Box 5068,3008 11-10-429458]
+A6 Rotterdam Fax  Ji-10-a382259
+g NETAERLANDS
+Newnerianas | Ciragas Easd orfice: Tix 1195 mioca n
+Antilles | Willemstad | x| Radi-Hollsnd Carribbeen N.v. | Cable  RADIGHOLIAND-
+Pletteryueg 2/8. P.0. Box 894 HILEWSTAD CURACAO
+Willenstad, Curaces T Sseeseer7sTy
+e RS £ T
+! 2-9-G1104E
+
+™ ©: JRC's overseas office
+O . Sales and service agent
+
+= : Service agent
+
+- 25 -
+
+--- PAGE 62 ---
+Country Port Name & hadress Tix, Cable, Tel, rax
+New Zealand | Wellington Head Office: Tix GYRC NZ 1688
+* | IT Wright Ltd. Atten: Gyro
+221 Newlands Roac Cable GYRO, WELLINGTON
+£.0. Box 26051 Tel  785-343, 787-875
+Newiands, wellington 4, An. 788~374
+NEW ZEALAND 3ia. Richardson tel 676-676
+‘Aukland ~ | Smith Markwell, Lté. Tel (09)B36-6048
+-} 448, Rosebank Road, Fax {091 887-046
+| avondale, Auckland,
+NEW ZEALAND
+Norvay oslo /5 Norske Telektron Tix 76485 TELEK N
+O| Drammensveien 126, 0277 Gslo 2 |Tel  47-2-560420
+NORWAY,
+Philippines | maniln Japen Radio Co., Ltd. Tix  63-2-508565
+@ | Manila Liaison Office 63-2-571490
+2320 Taftave., Malate, Manila, Fax 63-2-5215049
+PRILIPPINES
+Portugal Liston Head Office: Tlx | 16572 OoEx P
+G} Ondex-Representagses Cable  ONDEX-LISBOM
+j Electroicas. 1da Tel  351-1-865177
+campo das Cebolas, 39-43, 351-1-87:313
+Lisbon 2 351-1-869872
+FORTUGAL
+Saudl Jeaden | | Yusuf bin Ahmed fanco TIx | 403051 KRR SJ
+Arsbia { | communications pivision Tel  966-2-53432
+5.0. Box 812
+Kilo 7 Medina Road Jeddah
+SAUDI ARABIA
+Singapore | Simgapore Codar (Pte.) Lta. T Coons RS22il6
+O} vait 1006/7, 10th Floor cavle  CoonreRON
+315 Outram Road #11-06107 Tel £5-22:0310
+Tan Soon Liat Building (4 Lines!
+Singapore 0316 A 63-665117
+SINGAPORE
+Soutn Copatowm S0 Telecommunications (Py) | |Tix | 570247 54
+atrica *| Lta. Coble  RADAR CAPE TOWN
+FCU Builcing, Cumberlsnd Road  |Tel  27-21-510556
+/0. Box 82, 7420 Pasrden AR 27-21-4617%7
+Eiland, Cape Province
+SOUTE_AFRICA
+(bFoT)
+burban & others
+Spain Tas Felmas | | Japan Radlo Co.. Ltd., las Tix | 96133 NIPA E
+©f Palmas Liatson Office Tel  34-26-264154
+/o Tosa 34-28-264158
+c/Albareda, $6-5 Fax 34-28-220351
+Les Palmas de Gran Canaria
+seamn
+Hodr1d Wesd OFfice: Tix <7775 uRoT E.
+O zurotronica 5.3 - marine
+bpt. Naval, D. Remon de la 27204 £uROT £
+Cruz, 90, Madrid- Cable EUROTROMICA
+seamn Tel  34-1-1015200
+34-1-4020640
+34-1-4020725
+
+@ : JRC's overseas office
+O+ Sales and service agent
+» : Service agenl
+
+- 26 -
+
+--- PAGE 63 ---
+Tix, Cable, Tel, Fax
+
+u. K.
+
+Country Port I Name & radress
+Surinam Pacamaribo Japan Radic Co., Ltd Tix  SUIAFI SN 276
+©| Paramaribo Liaison office* Cable SUIAF] PARRMARIEO
+c/o SUIAFL SURINAM
+5.0. Box 1237, Suhoza Tel  597-81122
+SURINAN
+Sweden Stocknoln Ranatec A5 TIx 14964 FANATE S
+Oj skydraget 38 Tel  46-8-7602730
+5-16) 55 Spanga
+SHEDEN
+Taiwan Keelung | Shin Fon Electronics Co., Ltd. |Caple SHINFONCO KEELUNG
+| No. 638 chung Cheng Road Tel  (U32)629981,629982
+Reslung, TATWAN A.H. (032)623185,623196
+Kaohsiung {(y| Shin Fon Electronics Co., Lta. |Tix 72220 SAINFON
+I~ ¥o. 66 piahai 1 Road, Kaohsiung |Canie  SHINFONCO
+TRIRAN KACHS TUNG
+Ter  (07)£217767-8
+Traitand Bangkok | | CODAR (Thailand) Co., Led. Tix 21385 CODAR TH
+53/2 501 Somprasong 3, Tel 25243325
+Fhetburi FA. Anphur Phyacha
+Bangkok 10430,
+Kingdon of THAILAND
+UoAE Dubai, ALBWARDY 1AL Tix 46296 ABIAL EM
+Shazjah. | % | P.0. Box 10380, Dubai Cable INTAERIO DUBAT
+Ras 2l Rashidiyan Fd, Pashidiyan, Tel  971-a-257111
+Xnanman Dubain
+uAE
+(A3 Aberdeen Trspectrate T.A.E. Limited T 73407
+O| aberacer, u.x. Tel  44-22a-724265
+Unit 3, uellneads way,
+byce Industrial Pack, Dyce
+ity
+Bristol BROADGATE LINITED Tlx  4aas7e
+Unit 15 Avomback Industrial  |Tel  44-272-235035
+Center Fax  44-272-235045
+| west Town Road Avormoush
+Bristol BS11 90E,
+x
+Tondon JRC (UK) LINITED Tlx 855629 JAPRAD G
+©| Suite 100, Temple Chanbers Te1 - 49-71-353-7960
+Temple Avenue, London 44-71-583-7400
+ECay 00T Fax  44-71-353-3321
+u. k.
+eninsular Eleceronics Lid. Tix 8956304 PELLON G
+O 13-17 Leng Lame Tel  44-71-726-2464
+London £C 1a5PN Fax  44-71-726-8760
+
+23 ©: JRC's overseas office
+O Sales and service agent
+» © Service agent
+
+- 97 -
+
+--- PAGE 64 ---
+=T
+
+[
+
+Name & Address
+
+T
+
+Tix, Cable,
+
+Tel, Fax
+
+t
+
+Seattle wa 98108
+y.s. A
+
+Wanchester ead Office Tix 666911 SESHAN G
+» |Staveley Electratechnic Coble RADARMAN MANCHESTER
+Sservices Ltd. Tel  44-61-273-6121
+68 Grosvenor Street, Manchester (10 Lines)
+Py Fax  44-61-273-5814
+u. k.
+(DEPOT)
+Glasgow, Horth East/
+Newcastle & others
+FREREY Sacksonville] | Mackay Commmication Tix | 56351 MACRROGRR JAX
+ [6722-24 Arlington Tel 1-904-733-2400
+Expressvay Fax 1-904-733-4133
+P.0. Box 832
+Jacksonville, Florida 32239
+u. 5 A
+Los Angeles | | Mackay Commuricaric Tix 631402 VACRADGRH 1GB
+| 2429 nagnolia Avenue Long Beach|Tel  1-213-435-0086
+California 90813 Fax  1-213-432-1549
+v.5 A
+Manchester Rayteon Hazine Company Tix | 94-3459
+Ol676 1sland Pond Road Tet 1-603-666-1600
+Manchester KH 03103
+0. 5. A
+Wlam Nackay Commuricatian Tix 803273
+«[1581 N.4. BBtn Avenue Tel  1-305-531-3399
+iamt, Florida 33172 Fax  1-305-591-1879
+U. 5. A
+New Orleans | |Nackay Communication Tk $84266 MACRADGRY MRIE|
+#5612 Jensen, Suite R Tel  1-504-733-5824/25/26/
+Harahan Luisiara 70123 2
+g 5. A Fox  1-50i-734-8535
+Hew York Japan Radio Co., LEd TIx 961114 JAPANRADIO MYk
+@|New York Branen off:ce Tel  1-212-355-1060
+30 Park Avenue, 1-212-355-1119
+New York, N. Y. 10022 Fax  1-212-319-3227
+u. 5. A
+Wend Otfice: Tix 136647 WACRADGRM ELZ
+# [wackay Communication Cable  MACRACGRM NEWYORK
+?.0. Box 131, Tel  1-201-671-0333-6
+441 U, . Highvay ¥1, Fax  1-201-527-835§
+Elfzabeth, New Jersey 07202
+v s A
+(DEPCT)
+Houston, Los Angeles, Miami
+4 otners
+San Wackay Communization TIX 336430
+Franciseo | 4733 Allston Way Tel  1-415-549-0577
+Berkeley, Calif. 94710-2261 1-415-441-7989
+v 5. A
+Seattic Japan Fadic Co., Ltd. Tix  RAYTHEONSEA
+@|seattle Liaison orfice ae 2091
+/o Rayteon Harine Co. Tel  1-206-763-3479
+suidling D Fax  1-206-762-3097
+1521 § 92nd Place
+Seattie WA 58108
+Y. 5. A
+Raytheon Marine Campany Tix 510 4a4 2081
+O|ruidiing o Tei  1-206-763-7500
+1521 5 92nd Place Fax  1-206-762-3097
+
+®: JRC's overseas office
+O Sales and service agent
+* @ Service agent
+
+- 28 -
+
+--- PAGE 65 ---
+Main Office & Plants
+
+Overseas Subsidiaries
+
+Overseas Branch Offices
+
+Overseas
+Liaison & Service Offices
+
+@hain Office
+
+Akasaka Twin Tower(Wain)
+17.22,Akasaka 2 chome,
+Miatc-ku, Tokyo 107
+Maritime Sales Department |
+Phana : 03-3584-8731
+
+Fax 03.3564-3795
+Masitimo Sales Department I
+Phone : 0335848834
+
+Fax: 033588105
+International Business Department
+3-3584-8836
+
+International Marketing Dopartment
+Phone : 0325618505
+Fax D3-3584-8859
+
+®URC (UK) Limited
+Graund Floor, Tampte Chambers,
+Temple Avenus, London E.C. 4
+Phone: 44-171-353.7960,543-7440
+Fax: 401713533321
+
+QUSA
+
+Japan Radio Co, Lid. /New York Branch
+430 Park Avenue, Now York,
+
+New York 10022
+
+Phone : 212-355-1180
+Far:212.319-5227
+
+®@indonssia
+Japan Redio Co Ltd.
+
+Mulia Tawer (2 Floor
+
+Jatan Jenderai Gator S0broto Kav.9-11,
+Jakarta 12330
+
+Phone : 21 5204063 » 5204055
+
+Fax.; 215204059
+
+@Philppines
+Japon Radio Co.Ltd.
+
+2320 Tait Avanis,
+
+Htate Hianila
+
+Plione  2-50855 - 571490
+Fax 26215043
+
+@Thailand
+fapan Radio Co 19
+Gharturang ArPhon Bulding
+457 phra Sumora Sireet,
+Bangkk 10200
+
+Phore/Fax- 2-20-0201
+
+®india
+
+Japan Ratio Co. Lid
+
+54 Sagar Apartments,
+
+5 Hiak Warg, New Dehi 110001
+Phone: | 1585751
+
+Fax: 11384571
+
+®Mitaka Plant
+11 Shimoreniaku 5-chame, Mitaka
+Tokya 18]
+
+Phone : 0422.45.9111
+
+@.RC do Brasil Empreendimontos
+Electronicos Ltda,
+
+Av.Amirante Barraso,63-Gr.S/2107
+
+20031 Rio de Janeiro,R)
+
+Phone : 21-22018121,262-8281
+
+Fax: 21200 6324
+
+oUSA
+
+Japan Radio Co, Lto.
+
+/0 Raytheon Marine Company,676 Island
+Pond Road Manchester,NIi 03103,15.A,
+Phone : 603-634-4840
+
+Fax: 026341841
+
+@United Kingdom
+
+Japan Radio Co. .t
+
+/o Raytheon Marine Europe
+Anchorage Park Postsmouth,
+Hampshire.F03 5TD,U.
+Phione 44 705-G83735
+Fax: 4470566324
+
+@Netherlands
+Japan Radio Cu L id
+
+/0 Radio-Holland B.Y.
+Eekhoutstraat 2,
+
+3097 AR Rotterdam
+
+Phone : 10-429-4581 - 10-429-1088
+Fax: 10.428.2253
+
+@Spain
+
+lapan Radio Co. Ltd,
+
+/0 TOSA CANARIAS §.1 Dactor
+
+Juan Dominguez Perez 4é, urbanizacion
+L. CEBADAL, Las Palmas ds Gran Canarie
+Phone : 31.26-46-5 191 - 34.28-45-529)
+Fox: 34.28-06-2398
+
+952
+
+--- PAGE 66 ---
+For further informatien contact
+
+Japan Radio Co, Ltd.
+
+Since 1915
+
+HEAD OFFICE & Akaszka Twin Tower{Main),
+SALES DEPT. 17-22,Akasaka 2-chome, Minato-ku, Tokyo.
+
+Phone : 03-3584-8711
+Fax  :03-3584-8715
+Telex :0242-6420 JRCTOK T
+
+MAIN PLANT 1.1 Shimorenjalu 5-chome, Mitaka-shi, Tokyo.
+Phone : 0422-45-9111
+Fax :0422-45-9110
+Telex :02822-351 JRCMTK J
+
+--- PAGE 67 ---
+i, 1y TALEY CADIOTALENTE PP
+
+JnS=7
+
+INSTTRUCTIERN MIARULAL
+
+MIMW B [Criamnets]
+J!ED W}E (UPSATIRD 04661
+HORIA000:
+[ LR DRI (0,
+[(Tirteen] ﬂnera ﬂy Chann
+[MPTRIAERNIAEER
+3
+
+=
+
+§§
+
+&
+
+[ORBOARDJEOMMUNIGATION
+[METRRARAN) &!?
+
+5 )—-v
+
+Wi
+izernyeficy
+
+07 S50 GO [
+T
+
+D 1,
+
+CCRTIRAARRONGEEIR
+W6 )
+
+Plerzn Radbo Con L.
+
+--- PAGE 68 ---
+[ ——————
+
+|
+
+] Cautions for Use ]
+
+LT |
+
+& ‘Warning 4
+
+Refrain from any of the actions below in handling the Ni-Cd battery (NBB-248) [or this trans-
+ceiver, Mishandling will cause the risk of hicat generation, busst or clectrolyte Jeakage
+
++ DO NOT heat or dispose of in fire.
+* DO NOT disassemble or modily.
+* DO NOT short-circuit the *+" and "-" terminals.
+
+DO NOT use this transceiver in hazardous areas subject to the presence of explosive gases.
+
+A Cautions
+
+Charge the Ni-Cd batiery (NBB-248) before using the transceiver at the first time to revive the
+reduced capacity during transportation.
+
+To charge the battery, usc the dedicated batiery charger (NBA-4141).
+
+Charge the battery only in the normal temperature range (0 to 40°C). Avoid charging it
+especially at the temperatures below 0°C, as this may causc gases development in the battery to
+operate safoty vent,
+
+To ensure long-life perfarmance of the ballery. follow the instructions selow:
+
+* When have finished charging, disconnect the battery from the charger to store. Recharge
+the battery at approximately three month interval even if not used.
+
+« Keep the battory in a dry place with little temperature change. Storage in a place with high
+temperature, high humid and/or direct sunlight will cause serious deterioration of the
+battery performance.
+
++ Do ot leave the batiery in the charger for storage (trickle charging). Trickle charging will
+not causc overcharging, however, will cause deterioration of the battery performance.
+
++ Turn off he power switch of the transccivor after using. Overdischarge of the battery (6V or
+Tower) will cause serious deleripration of the baltery performance.
+Roturn the dead or unusable Ni-cd battery to a nearest JRC branch, sales office or dealer.
+
+Do not try to disconnect the antenna. f antenna disconnection is under nccessity, consult a
+nearest JRC branch, sales office or dealer. Antenna disconnection without using dedicaled tool
+will cause damage of the antenna and/or the transceiver.
+
+--- PAGE 69 ---
+CAUTION
+
+Fully charge the Ni-Cd Battery pack before the use of the equipment. Upon
+shipment, the battery is charged, but self discharge may ocecur before the
+radiotelephone is delivered.
+
+The charging method is described in Chapter 4.
+
+The ambient temperature should be between 0°C and 40°C when the Ni-Cd
+battery is charged. Avoid charging it especially at an ambient temperature
+below 0°C.
+
+‘When the Ni-Cd battery is out of use, bring it lo a nearby JRC sales office,
+branch, or dealer.
+
+The antenna is firmly assembled with the radictelephone. Any attempt to
+foreibily remove the antenna will cause damage to the antenna or the
+equipment. When it is nccessary to remove it, ask a nearest JRC dealer or
+branch,
+
+Usable channels of the JHS-7 for JG Flag are restricted to three channcls,
+i.e, CH15, CH16 and CH17.
+
+‘When any non-programmed channel is selected, internal speaker makes
+buzz for prevention of misoperation.
+
+--- PAGE 70 ---
+TABLE OF CONTENTS
+
+GENERAL
+
+13 COMPOSIION  +rerereeserssossessnsonrsnsntsnssnsssssstsnssssensssssnsenssnsensans |
+
+131  Standard Components
+182 Optional ACCESSOries «+-rssreesssrssssiessrmssasssessississssissisnns 2
+
+133  Optional channel PrOramming -+« rseeeeresrermscomssincscnne 2
+
+SPECIFICATIONS -
+
+2.2 Transmitter
+
+w W N
+
+2.3 RECEIVEE »+rversrrrerrnsmntretiittnttisiirnthsettie i tbties i setsiebesatasetienen
+
+3.1 DESCrIPHIOR =+ resses oo srsvassu st st rma et b sra bt b s s b s e s
+3.2 Operating Pracediure «+s«swessmrsreememssimtmrsias s ens ettt s
+32.1 Preparation
+322 Cal
+
+323 ClOSIng dawn - ereeresreeremessrmmesrneesrmsmenenemsinsstsnnss i
+3.3  Replacement of Battery Pack NBB-248 »exrrevesersvrerrsvranisvmaninenenens
+3.4 Handling of Battery Charger NBA-4141 {Optional)
+
+341 Installation -
+342  Replacement of Fuse «+++rewsrresrsrrreriesssmssmnsiesassasasisanancs
+3.4.3  Change of Power Supply Voltage
+3.4.4  Parallel Wiring of Power Cables
+
+3.5 Handling of the Accessories
+
+3.5.1  Carrying Strap
+
+© @ © O m N NN D B B B e e
+
+352 Belt Cliprererseeeereeresnsessnrenesrisrmsmssessmmsossonnecsoesasossoneon
+
+--- PAGE 71 ---
+35.3  Connecting of the Earphone and External Speaker/Microphone
+10
+
+4.1 Period of time to charge -+
+42 Precautions on Charging  +r«wesessresessssmsessssninss o nsessssnrasnnns 1)
+43 Charging Procoure  +eessesrsssssssessssnenmiinscrsnssissassesssunsssnrasnnns )
+
+MAINTENANCE AND INSPECTION ++vesterseensenriineenanmnniens 11
+
+5.1  Daily Maintenance
+
+52 Regular Inspection
+
+6.1 Precautions
+62 Troubleshooting Guide -+ resessrrreressrorrersecrresasssomronsscrneccnunnrene 12
+6.3 Simple AdJustment ««sesseeerssse s merss e s s 13
+6.3.1  Checking of Voltages »+vweseresssessessssaeniisesissssiesisiniins 18
+6.3.2  Adjustment of the Synthesizer ««---rresevererscrssemmeainienianane 14
+633  Frequency AQJUSHIEnt «+-ssesesersessarsensssserassensniensssesans 14
+634 Transmit output AJustment +-s-seseseseressreesscossenessenreesenens 14
+6.3.5  Tuning of the RECIver -+ +wrsessessrssesssmunsinssinsingesessniins 14
+
+OPTIONS
+7.1 Battery Charger NBA-4141 -+ sesseesressersrnennscissannnnissee s [ 4
+
+7.2 Battery Pack NBB-248  «rsereresrssseeosarntnccrencsineenssemnecssarsocnnncens 14
+7.3 Earphone SUMIDOO04 «+--escoeeessesersserrerenemertnranesenmnecesrnsennneens 14
+7.4 External Speaker/Micraphone 6UMJDO002Q +++ v+ rsrererersenseenareeneees 14
+7.5 Carrying Case MPXP02368
+
+--- PAGE 72 ---
+Appended Drawings
+Block Diagram
+Outline Drawing
+Circuil Diagram
+
+Assembly Drawing
+
+Appended Drawing (Optional)
+NBA-4141 Battery Charger Outline Drawing
+NBA-4141 Battery Charger Circuit Diagram
+6UMJD00004 Earphone Qutline Drawing
+6UMJD00029 External Speaker/Microphone Outline Drawing
+
+--- PAGE 73 ---
+1. GENERAL
+
+1.1 General
+
+‘This equipment is designed and
+manufacturad for two-way communication
+between survival crafts, between survival
+craft and main ship, and between main ship
+and a rescue boat in accordance with the
+Safety of Life at Sea convension (SOLAS).
+is 150MIIz/1W portable radiotelophono
+wable of instelling 13{hirteen)
+operating channels for international marine
+mobile service, also can be used as on-board
+communication equipment.
+
+1.2 Features
+
+(1) Watertighiness
+This radiotelephone is of the watertight
+structure Lo a depth of one meler.
+
+(2) Thirteen operating channels
+13(Thirtecn) single-froquency voice
+channels are provided including channel
+16 for safety which can also be selecied
+casily by an independent switch,
+However, usable channels of the J11S-7 for
+1G Flag are restricted to CH15, CH16 and
+CHIT.
+
+(3) Easy handling
+Controls and switches are designed and
+located for easy operation, and can be
+manipulated even when thick gloves arc
+worn.
+
+{4) Small size and light weight
+‘This radiotclephone is designed in compact
+with dimensions of 62mm {width) x
+165mm (height) x 45.5mm (depth), and
+weight approximately 600g, inchuding
+Battery Pack. And its shape is designed 10
+facilitate carrying by hand for a long
+period of lime. Moreover, carrying strap
+and a belt clip come with it for easy
+carrying.
+
+(8] Low power consumplion
+Since its power consumption is extremely
+tuw, this radiolelephonie can operate for a
+lang time {more than § hours with
+{ransmission reception and stand-by in the
+Tatio of 1 to 1 to 8} once the battery is
+charged.
+
+(6] Frequency synthesizer
+The se of a frequency synthesizer assures
+high frequency stabilily for all the
+channels,
+
+1.
+
+&
+
+(7) Display of transmitting condition
+‘The Tx laanp indicates whelher
+transmitling outpul is on or off.
+During press-to-talk operation, the Tx
+lamp lights up by monitoring carrier level
+to indicate that signals are being
+trenswmitted.
+
+{8} Charge lamp
+When the battery energy is almost
+cansumed, the BUSY lamp blinks for
+indicaling necessity of (he battery
+charging.
+
+(9} Highreliability
+Surfacc-mounting typo ICs. transistor
+resistors, and capacitors, which are
+suitable for automatic mounting, assure
+homogeneous avality and high stability
+
+{10) Removable hattery pack (Ni-Cd battery}
+The battery pack can be easily replaced
+because of its easy removal from the
+radiotelephone. The battery pack
+‘mounting assembly is protected so that
+baltery pack can be replaced even under a
+Tain fall.
+Quick charging {within three hours} can he
+done by inserling the ballery pack nto the
+optional battery chager NBA-4141
+
+Composition
+1.3.1 Standard Components
+
+ltem Model |Q'ty| Remarks
+Radio s 7 1
+telephone Includes the
+Carrying  (MPXP02384 | 1 |battery pack
+Strap (NBB-248)
+Instruction T |nd the
+manual
+oo dots T amtentia,
+
+--- PAGE 74 ---
+1.32 Optional Accessories
+
+Tiem Model
+Battery NBA-4141
+charger
+Battery pack | NBB-248
+Earphone 6UM/DO0004,
+External 6UMJDU002Y
+speaker/
+
+microphone
+Carrying case__| MPXP02368
+
+1.3.3 Optional channel programming
+(max, Tehannelsh
+Accarding to your separate arder, your JHS-7
+with optional channells) will be shipped from
+JRC factory. Please designate reguired
+channel Nofs) from simplex voice channcls
+specifiod in Appendix 18 of the Radio
+Regulation.
+Note: The JHS- for JG Flag is equipped
+with no optional channel.
+
+2, SPECIFICATIONS
+2.1 General
+(1) Operating channcls: ~ CH16
+(156.800MHz)
+CH 6
+{156.300MHz}
+CHI3
+{156.650Milz)
+CHI5
+{156.750MHz)
+CHI7
+{136.850MI1z)
+CH67
+{156.375MHz}
+Note : Usable channels of the JHS-7 for
+JG Flag arc restricted to CHIS.
+CHI6 and CH17.
+
+Optional channels:  Seven simplex
+channels
+selectable froma
+range of 156,300 lo
+156 875MHz
+
+=
+
+@
+
+Communication
+
+modo: Simplex
+
+Type of emission:  G3E/F3E
+
+5} Antenna: Vertical, non-
+directional type
+(nominal 5002)
+Gain -3dB
+
+Ga
+
+3
+
+Continuous operation
+time: More lhan 8 hours
+ina duty cycle of 6
+soconds of
+transmission, 6
+seconds of
+receiption and 48
+seconds of stand-
+by.
+(7} Power source: Nickel-cadmium
+battery
+{7.2VDC,
+1000mAH)
+{8) Warm-up time: Less than §
+seconds
+(9) CH switching period:  Less than 5
+seconds
+(10) Transmission/reccption
+switching period: Within 0.3 second
+{11} Operating temperature
+range: —20°C lo +56°C
+(12) Storage temperature
+range: -30°C to +70°C
+
+--- PAGE 75 ---
+(13) Humidity:
+
+93% at 40°C
+
+(14) Safely distance from standard
+
+magnetic compass:
+
+0.4m
+
+(15) Safoty distance from stcaring magnotic
+
+compas:
+(16) Shock resistance:
+
+(17) Vibration resistance:
+
+{18) Water-tightness:
+
+{19) Overall dimensions:
+
+(20} Weight:
+
+2.2 Transmitter
+
+(1) Carrier outpul power:
+
+(2} Effective radiated
+power:
+
+{3) Oscillation:
+
+{4) Modutation:
+
+{5) Frequency stability:
+(6) Pre-empha:
+
+0.4m
+
+No troubles after a
+fall on the hard
+wood floor from a
+height of .
+
+No troubles after
+vibrations, up and
+down, right and
+left, and back and
+forth for 15 min.
+under each of the
+following
+conditions:
+
+60to 750
+times/min., full
+amplitude of
+3.2mm; 750 to
+1500 times/min.,
+full amplitude of
+0.76mm; and 1500
+10 3000 times/min.,
+full amplitude of
+0.2mm.
+
+Operates normally
+after itis
+immersed in water
+to the depth of one
+moter for 5
+minutes.
+
+64(W} x 165(H)
+X 455(DImm
+{excluding
+projections)
+Approx. 6008
+
+1w
+
+More than 0.25W
+Frequency
+synthesizer
+Variable reactance
+frequency
+modulation
+Within 10 % 107
+6B per octave
+
+3
+
+Modulation
+frequency:
+{8} Splatter filter
+characteristic:
+
+19;
+
+Occupied
+
+bandwidth:
+
+{16) Maximum frequency
+deviation:
+
+{11) Distortion:
+
+{12) Modulation input
+fmpedance:
+{13} Spurious:
+
+23 Receiver
+(1} Receiving system:
+
+=
+
+Maximum usable
+sensitivity:
+
+{3l
+
+Selectivity:
+
+{4) Spurious response:
+
+(5) Local frequency
+variation:
+
+{6) Blocking:
+
+(7) Intermodulation:
+
+(8) De-emphasis:
+
+(9) Rated AF oulput
+power:
+
+{10} Distortion:
+(11) Squelch sensitivity:
+
+(12} Speaker impedance:
+
+300 to 3000Hz
+
+ADlog {f/3),f = 310
+18kHz
+
+Within 16kHz
+
+Within +5kHz
+10% or less,
+standard
+modulation
+
+6000
+Less than 2.5 2 W
+
+Double
+superheterodyne
+lst intermediate
+froguency:
+21.7MHz
+
+2nd intermediate
+frequency: 455kHz
+
+6dB 2 or less,
+S+N+D/N ratio
+of 20dB
+
+64R bandwidth:
+12Kl1z or more
+70dB bandwidth:
+25kHz or less
+70dB or more
+
+0.001% or less
+90dB # or more
+70dB or more
+6dB per octave
+
+200mW or more
+
+(with distortion
+
+rate of 10%)
+
+10% or less
+
+Not more than
+
+maimum usable
+
+sensitivity level,
+
+and not exceeds
++304B fe.
+
+80
+
+--- PAGE 76 ---
+3. OPERATION
+
+3.1 Description
+
+Figure 3~1 Appaarance
+
+(e N R CRER )
+
+Figure 3—2 Operation Pane!
+
+@
+
+{1} Helical antenna
+The flexible helical antenna is firmly
+assembled with this radiotelephone. To
+remove the antenna, exclusive wrench is
+required
+
+{2) Shoulder belt fitlings
+Fasten Lhe atiached shoulder bell Lo these
+fittings before using the belt to carry
+Radiotelcphone.
+
+{3) PTT {press-to-talk) button
+Depressing the switch enables
+transmission, and releasing it cnablos
+reception.
+
+(4} Speaker
+Produces received sounds.
+
+{5) MIC (microphone)
+Talk {o the microphone during calling.
+
+(6) PUSH button
+Press this hutton to unlock the battery
+pack () when removing it.
+
+{7} Battery pack NBB-248
+Supplies power to the radiotelephone.
+{Includes a nickel-cadmium battery.)
+Section 3.3 describes how to replace the
+attery pack.
+
+{8) Belt clip
+Use this clip to hold the radiotelephone
+with « belt.
+
+--- PAGE 77 ---
+(5] RMT {remote terminal} connector
+For connecting the optional earphone
+6UMJDO0004 or external
+speaker/microphone SUMID00029 to the
+radiotelephone. When the earphone is
+connected, the inlernal speaker is
+automatically turned off. When the
+extornal speakor/microphone is connccted,
+both the internal speaker and interral
+microphone are turned off.
+
+The output terminals have the following
+Functions:
+
+Function
+1 E Ground of the
+radiotelephone.
+2 EXT Control line lor
+PTT external control of
+
+PTT. Grounding it
+enables transmission.
+
+3 EXT | Input terminal for the
+MIC | external microphone.
+ILalso outputs a bias
+voltage for Bloctrot
+Condenser
+microphone.
+
+earphone and
+external speaker.
+
+1 BAR | AT ontput (8Q) for the
+
+5 MIC Control linc for
+CONT | control of the external
+microphone.
+
+Grounding this
+terminal turns off the
+internal microphone.
+
+6 Sp Control line for
+CONT | control of the internal
+speaker output.
+Grounding this
+
+terminal turns of [ the
+inlernal speaker.
+
+{10) Tx lamp
+Lights red during press-to-talk operation.
+It monitors the transmission output. Tf the
+Tx lamp does not light even when the PTT
+button is depressed, the transmission
+cireuit may be faully,
+
+(11) PWR/VOL {power switch/volume)
+
+control
+
+‘Works as power switch and volume control.
+Turning the PWR/VOL control fully
+counterclockwise furns off the power.
+Turning it clockwise turns on the power.
+
+Sound volume incroascs as it is turned
+clockwise.
+
+(12) BUSY lamp
+Lights green while the squelch is open.
+It also monitors the battery condition.
+When the ballery enargy is almos.
+consumed, the BUSY lamp blinks for
+warning.
+
+{13} 16 (CII16 indicator)
+Lights orange when CH16 s selected.
+This lamp also monitors the condition of
+the intornal frequency synthesizor. The 16
+indicator blinks if the frequency
+synthesizer has any trouble (unlocking).
+
+(14} CH16 switch
+A Loggle switch for CHI6. Setting it Lo the
+16 position selects CH16. Setting it to the
+CH position sclects the channel number
+specified in the following subparagraph
+(16).
+
+(1) Backgrownd illumination for a channel
+
+number
+
+Tiluminates 1o enzble easy reading of the
+channel number selected the following
+subparagraph {16).
+
+(16) Channel selting swilch
+Use this switch to select other CHs when
+the CHL6 switch is set to the CII position.
+The speaker makes alarm buzz when no
+preprogrammed channel is selected.
+
+{17) SQ {squolch} control
+Turning it fully counterclockwise opens
+the squelch. As it is tumned clockwise,
+highor input level is roguired to apen the
+squelch.
+
+--- PAGE 78 ---
+3.2 Operating Procedure
+
+3.2.1 Preparation
+(1} Set a desired channel number.
+(2} Turn the squelch control fully
+counterclockwise.
+(3) Turn the PWR/VOL control clockwise.
+Just after the power is turned on, noise is
+heard from the speaker. Adjust sound
+
+the end of each speech as
+shown in the above
+examples before releasing
+the PTT bulton.
+(2} Asso0n as you get an answer from the
+
+partner station, inform it of the
+
+receiving conditions using numbers
+
+shown in Table 3-1 below.
+
+volume properly by turning the Example: “The sensitivity and
+
+PWR/VOL control. clarity of your falk s 4.
+{4) Turn the $Q control until noise from How much s our
+the speaker is supprossed. Turn the SQ sensitivity and clarity?
+control a little clockwise from that Please.”
+position. Do not turn It 100 much, Table 3-1
+because the squelch will not open wkena Sensitivity | Recel
+weak signal is reccived. Thus, Jelarity | condition
+radiotelephone is in stand-by mode, and 1 | Extremely
+reads for reception. poor
+2 Poor
+322 Call 3 Normal
+{1} While holding down the PTT button on
+the: left side of the radiatelephone, call 4 Good
+up the partner station {called Station A 5 Excellent
+
+for now}. (Depressing the PTT button
+lights up the Tx lamp.)
+Calling is performed as described below.
+Example:  "Station A, Station A, this
+Station B. How do yo
+
+323 Closing down
+Turn the PWR/VOL control fully
+counterclockwise Lo turn off the power.
+
+read please.” If vou leave the power on, the Ni-Cd
+
+Release the PTT button to battery will have excessive discharge and
+
+set the equipment ready deterioraled greally.
+
+for reception as soon as
+
+this call is over, and wait
+
+for an answer from
+
+Station A.
+
+Station A may reply in
+
+such a manner as shown
+
+below.
+
+“Station B, Station B, this
+
+is Station A. I've gotten
+
+you, please.” Since this
+
+radiotelophane cmploys
+
+the press-io-talk
+
+communication system,
+
+onlly one-way message is
+
+available. Therefore,
+
+with the aim of smooth
+
+canversation, it is
+
+preferable to insert a
+
+word “please” or "over” al
+
+--- PAGE 79 ---
+3.3 Replacement of Battery Pack NBE-248
+
+(1} Removal
+While holding down the PUSIT button on
+the lefL side of the radiolelephone, twist
+Battery Pack counterclockwise. (See
+Figure 3-3.)
+
+{2) Mounting
+Align the concave on the fop of {he battery
+pack with the convex on the bottom of
+radiotclophone. Twist the battery pack
+clockwise until you feel a click. Tt is not
+necessary to press the PUSH bulton.
+
+Front View
+
+= [
+
+3.4 Handling of Battery Charger NBA-4141
+
+{Optional)
+
+34.1 Installation
+The ballery charger can be installed on &
+desk lop or on a wall. Figures 3-4, 3-5, and
+3-6 illustrate how to install it.
+‘When it is installed on a wall, the fixing
+angle A may be 0%, 30°, or 45°. If its
+location needs to be changed (rom a desk
+top to a wall, change the position of the
+fittings as shown in Figure 3-7.
+
+Side View
+
+Radiotelephone !
+
+Figure 3-4 Example of
+aDesk Tep mounting
+
+Figure 3~5 Example of a bulkhead
+mounting: Example 1{Fixing angle: 0°]
+
+Push button
+
+/f L3
+&)
+
+Flgure 3-3
+
+Side View
+Radiotelephons
+
+Concave
+
+— Mounting direction
+> Removing direction
+
+Battery pack
+
+Figure 3~8 Example of 3 hulkhead
+mounting: Example 2 {Fixing angle: 307
+
+--- PAGE 80 ---
+Remove thres screws.
+
+Projection of
+battery charger
+
+¥ the fixing angle is 30° or 46°. locte:
+in place so that the projection of the
+battery charger will engage in this
+hole.
+
+I the fixing angle is 0° locate in place:
+<o that the projection of the battery
+chavger will engate in this hole.
+
+‘The anglebeing set, fx the fittings to
+the Battery Charger with 3 scrows.
+
+Change the fittings on the opposite.
+side the same way,
+
+Figure 3—7 Changing the Position of Fittings
+
+342 Replacement of Fuse
+
+(1) Remove the plug of the AC power
+cable for the battery charger from the
+convenience outlet.
+
+{2} Remove the power supply terminal
+protecting cover on the front of the
+battery charger as shown in Figure 3-8.
+
+{3)  Remove Lhe [use from the fuse holder,
+and mount a new fuse. Usea 250V,
+054,52 X 20L fuse,
+
+(4} Put back the cover.
+
+Front View Quter cover
+Pawer terminal protecting cover /
+VOGE wl GRERRTION
+
+@ Fuse holder
+
+Slide the cover downward to remove it
+
+Figure 3-8
+
+3.4.3 Change of Power Supply Vollage
+AC105, 115, 210, or 230 V can be selected
+hy changing among the taps on the
+internal transformer. A soldering iron is
+needed for the change.
+
+{1} Remova tho plig for the AC power
+supply cable for the battery charger.
+{2) Remove the power supply terminal
+
+protecting cover as shown in Figure 3-8.
+
+(3) Remove five screws from the bottom of
+Batlery Charger. (See Figure 3-9.)
+
+(4) Remove the outer cover. (See Figure
+3.8)
+
+(5} Solder the cable to any desired
+voltage terminal of the power
+transformer. (See Figure 3-10.)
+
+() Assemble the battery charger
+properly.
+
+Bottom View Remove five screws.
+
+Pawwar transformer
+
+&l
+
+Solder the cable to
+
+TTPowercable  yny desived tap.
+
+Figure 39 Figure 3—10
+
+--- PAGE 81 ---
+344 Parallel Wiring of Power Cables
+It is advisable 1o put the power cables in
+parallel when several battery chargers are
+used.
+In the following exzmple, three battery
+chargers are used. No wiring materials
+are necessary bocause the attached cables
+are used after cutting it
+{1} Determine the locations of battery
+chargers and the suitable length of
+cables for wiring.
+Remove the power supply erminal
+protecting covers. (See Figure 3-8,
+Tt s not necessaty to remove the
+attached power cables from the
+termiual boards.
+According to the wiring diagram
+shown in Figure 3- 11, cut and
+connect the altached power cables
+for the first two battery chargers.
+For casy work, the attached crimp-
+style lerminals may be used. R is
+not necessary to cut the power cable
+of the romaining bhattery charger,
+Put back the power terminal
+protecting cover.
+{6) Insert the plug of the power cable of
+be Jast batlery charger into the AC
+convenience autlet
+
+2
+
+T
+
+(4
+
+6]
+
+fst 2nd Id Power terminsis
+B ]
+Al ol
+{
+—t
+Figure3—1
+
+3.5 Handling of the Accessories
+35.1 Carrving Strap
+The attached carrying strap facilitates
+carrying the radiotelophonc on shoulder.
+To laslen the strap, use the two fittings on
+the upper part of the radiotelephone as
+shownin Figures 3-12 and 3-13.
+
+|
+
+Carryi
+|, Comving nrap\k
+
+Fastening of
+the Carrying Strap
+
+Figure 3—12
+Radiotelephone with
+CarryingStrap Fastened
+
+3.5.2 Belt Clip
+The belt clip allows the radiotelephone (o
+be attached to one’s belt or hreast packet.
+Press the top of the belt clip to open its
+lower part as shown in Figure 3-14, and
+hool it to your belt.
+
+|#—Press this portion.
+
+e Bett clip
+
+Side View
+
+Figura 3—12
+
+--- PAGE 82 ---
+353 Counecting of the Earphone and
+External Speaker/Microphane
+
+Connect the optional earphone
+6UMJD00004 and external
+speaker/microphone 6UMJD00029 to the
+RMT {remotc terminal) conncctor on the
+radiotelephone as shown in Figure 3-15.
+Either the earphane or the
+speaker/microphane can be connected and
+
+used.
+—
+External speaker/microphane [} =
+6UMJD00029
+Earphone
+6UMIDO0004
+
+RMT connector
+{Remove the rubber can.)
+
+Radiotelephone —elf:
+
+M
+
+Figure 315
+
+4. BATTERY CHARGING
+
+4.1 Period of time to charge
+‘When the battery energy is almost
+consumed, the BUSY lamp blinks to indicate
+it, Charge the battery whenaver the BUSY
+1amp begins to blink.
+
+4.2 Precaulions on Charging
+{1} Charging should never be done at a
+
+temperature below the freczing point.
+
+For charging, always use the attached
+
+batlery charger NBA-4141.
+
+{3) Even when the radiotelephone is not
+nsed for a long period, it is requested to
+charge the battery every {hree months.
+
+(4) I the battery charger is not fixed ena
+desk or bulkhead, put it in a stable
+position.
+
+{6) Never touch the charging terminals with
+a metallic bar or bare hand. When the
+plug is inserted to the AC convenience
+outlet, an output immediately appears at
+the charging terminals.
+
+(2
+
+(6} Do not perform transmission during
+charging.
+
+(7} Detach the carrying case from the
+radiotclephane.
+
+43 Charging Procedure
+(1} Attach the AC plug of the battery
+
+charger NBA-4141 to the convenience
+
+outlet.
+
+Turn off the JHS-7. and inscrt tha
+
+battery pack into the batlery charger, a5
+
+shown in Figure 4-1, with or without the
+radiotelphone mounted on the pack. It is
+not possible to fusert the pack in
+direction different from that shown in
+the figure because of a preventing
+mechanism,
+
+When the battery pack s inserted
+
+carrectly, the QUICK lmp lights up red,
+
+and quick charging begins.
+
+(3} When quick charging is complete, the
+QUICK Jatap goes out. Then, the
+TRICKLE lamp lights green, indicating
+that trickle charging begins.
+
+With the charger in this condition, the
+
+S5
+
+--- PAGE 83 ---
+battery pack is fully charged, nd
+cliarging is complete. Since trickle
+charge makes up for the natural
+discherging of the battery pack, the
+battery back is always charged folly as
+long as in the trickle charge condition
+alter quick chirge.
+
+)
+
+Aadiotelephone
+
+Battery pack
+NBB-245
+
+N
+Battery pack NBB-248
+{5 removed from radiotelephone;
+
+\
+Ya— Battery charger NBA 4141
+
+Figure 41 Inserting of Battery Pack
+
+11
+
+5. MAINTENAN
+
+5.1 Daily Mainlenance
+The life of an equipment like the
+radiotelephone largely depends on the
+quality of maintenance. It is very important
+to check the radiotelephone regularly to koop
+it in its best condition. Regular inspection
+helps to find a symptom of trouble or prevent
+trouble before it oceurs. It is quite desirable
+to perform routine Inspection and
+maintenance every day according Lo Table 5-
+1 belows,
+
+Table 5-1 Routine Checking
+
+Step | Checkine Description
+1 |Battory Y Tamp on
+should not
+be blinking. If it
+! blinks, charge the
+baltery.
+
+2 |PWR/VOL | As you turn the
+
+control control, the power
+should be wrned on,
+and sound volime
+should he increased
+gradually,
+
+3 |SQontrol | Noise should be
+eliminated quickly
+when the 5Q conlrol
+s turned clockwise.
+
+4| Transmit The T lamp should
+
+outpul be turned on during
+transmission.
+
+5 |Transmitting | Normal
+
+and receiving | communication
+
+condition | should be performed
+with partner
+stations,
+
+52 Regular Inspection
+Conduct talking test once a month at least to
+check functions of the radiotelephone,
+
+--- PAGE 84 ---
+6. TROUBLESHOOTING
+
+6.1 Procantions
+{1} Exclusive wronch is needod to remove
+the antenna from the radiotelepbone. If
+the removal is forced by any other means,
+
+the antenna or the radiotelphone will be
+damaged. Ask 4 nearest JRC dealer or
+branch if the removal is necessary.
+
+(2} Beforo making repairs or asking for
+repairs, check fundamental matters such
+as operating procedures and batlery
+conditians.
+
+(3) Unless having suitable measuring
+instruments or qualification to make
+repair, never disassemble this equipment.
+
+(4) When disassembling this cquipment,
+refer {o Figure 6 1.
+
+6.2 Troubleshooting Guide
+
+" Possible
+No. | Trouble pioros Remedy
+1 [Channel (11Battery  |(1)Charge
+indicator dis battery
+doos not light | " chorged  |(2)Check
+when power  |(Z)Failurein |  vollages
+swilch is power
+turned on. supply
+circuit
+2 |Nosound (11Wire (1)Roplace
+disconnec- | speaker
+o tionin  |(2)Check
+BUSY lamp spoaker connestor
+is on. (2)Loose and
+conlactin | speaker
+comnactor | cable
+[3)Failure in |(3)Check
+; AF the AF
+! amplifier | mplifier
+3 |BUSY lamp |(L)Squelch |(11Turn SQ
+off and no closed conirol
+voiceheard.  |(2)Failurein | fully
+IF counter-
+amplifier | clockwisc
+(2)Check IF
+amplifier
+4 [CHl6lamp  |()Failurein |(1}Chock
+blinks butno | syntbe- synthe-
+voice beard. sizer sizer
+5 [Txlampnot |(UFailurcin |(1)Check
+it duri trans- trans-
+s mitter mitler
+6 |Txlamplit |(JUseof  |(1)Make
+during different | sure of
+trangmission | channel channe!
+but number numbor
+communicati
+on
+impossihle.
+
+--- PAGE 85 ---
+6.3 Simple Adjustment
+This subparagraph doscribes simple
+adjustment procedure Lbat can be [ollowed
+withoul use of special measuring
+instruments.
+Before simple adjustment, perform the
+following initial settings:
+(1} SQ control: Turned fully
+cotnter clackwise
+(2) Channel umber: ~ CH16
+(3} PWR/VOL switch;  Upon adjustment,
+torned clockwise
+to switch on the
+power.
+
+6.3.1 Checking af Voltages
+The power supply vollage should be 7.2V,
+
+Vb | Measur- | Measur-
+Step JSignal | Check | ing ement
+P equipment | (standard)
+1}72v | 201 (Circuil 72v
+| pin8 |tester or
+digital
+volumeter
+2 | sv | 02 ” 5V
+ping |
+31 Rs | J0L 7|5V during
+pin 1 reception
+0V during
+trans-
+mission
+4 5V
+3 0V during
+reception
+7V during
+trans-
+mission
+
+Figure 61 Assembly Drawing of tha Radiotefephone
+
+13
+
+--- PAGE 86 ---
+6.3.2 Adjustment of the Synthesizer
+Cannect a digital voltmeter to the check
+point $»on the CMN-241 main unit,
+
+Stcp | Control | Sheck Procedurc
+
+1 Cv2 CMN-241 | Set the voltage
+@ |at2EvDC
+40.2V for
+reception.
+
+2 | cva 2 Set the voliage
+al 2.5V bC
++0.2V for
+
+6.3.3 Frequency Adjustment
+
+{1} Connect 4 simple whip antenna to the
+input terminal of the frequency counter.
+
+{2) Bring the antenna of the
+radiotelephone near the antenna of the
+frequency counler, and put the
+radiotelephone in transmission mode.
+
+(3) Adjust CV4 on the CMN-241 main
+unit so (bl the frequency may be set al
+156.8MHz +100Hz.
+
+6.34 Transmit Output Adjustment
+
+{1} Remove the antenna using the
+exclusive wrench.
+
+{2) Connecl a power meler (5082} to the
+antenua terminal.
+
+(3) Adjust RV1 on the CMN-241 main
+wunit so thal the transmit output may be
+0.8W +20%.
+
+6.3.5 Tuning of the Receiver
+
+(1) Connect a standard signal generator
+(500) to the antenna terminal.
+
+{2) Sel the frequency and oulput level of
+the standard signal generator at
+156.8MHz and 0dB , respectively.
+
+(3) Adjust L5 through L8, T1, and T2 on
+the CMN-214 main unit so that the noise
+from the speaker may be minimized.
+
+7. OPTIONS
+
+7.
+
+72
+
+73
+
+The following options are available to make
+the hest use of the JIIS-7.
+
+Battery Charger NBA-4141
+‘The hattcry charger s sad to charge the
+battery pack. The charging is possible with
+or without the radiotelephone mounted on
+the pack. The battery charger can be fixed to
+a desk top or a wall.
+Atachments: Fuse (0.58,5.2 X
+20L) X 1, crimp
+style terminal (R1
+253} x 3, wood
+serew X 4
+100/120/220/240%
+AC selected using
+
+4 tap lstandard:
+
+Power supply voltage:
+
+100V ACH
+Applicable battery
+v NBB-248
+Charging lime: Not more than 3
+hours
+Overall dimensions: 210(W} x 100(H)
+ 105(D)
+Weight: Approx. 1.5kg
+
+Battery Pack NRRB-248
+
+Battery used: Ni-Cd batrery
+
+Quipul capacitance: 7.2V, 1000mAH
+Overall dimensins: 62(W) x 54{H) x
+41(D)
+
+Weight Approx. 200g
+TEarphone 6UMIDON004
+
+The earphone s helpful when voices from the
+speaker are not clear due to noisy
+surroundings.
+
+Impedance: 80
+Cable length: m
+Weight: Approx. 20g
+
+Txternal Speaker/Microphone
+
+The external speaker/microphone is helpful
+when the radiotelephone is carried aronnd
+one’s waisl.
+
+Microphone sensitivity: —66dRt4dBat
+1kHz{0dB=1V/ pbar}
+
+Speaker output: 0.5W (891)
+
+--- PAGE 87 ---
+7.5
+
+Cable: Curled cord
+
+Overall dimensions: B4(W) x 94 (H) X
+35(D}
+Weight: Avprox. 280g
+
+Carry'ng Case MPXP02368
+The carrying case protects the surface of the
+radiotelephone againsi damage.
+
+--- PAGE 88 ---
+WYHOVIQ Y2018
+
+INOHAITALOITYH JHA AYM-OML L-SHP
+
+o =
+
+! .
+| e (czoz  1hBGS o SR T 0 e a1 T - a2
+i e e | Lo Ly R mo] =
+] { T 18— e [ v [ t ) el .
+! 1ca0s [ T [y N . S e Hloam
+| i Trzos B | covt comr| =
+1 T 17 55 Il -
+1 7.2 EET -
+I - - - PALCRCC R |
+Vo 1 =y et = T
+e we P T= Sl
+[ coo-s27_coutmoL TAIT, . s 2L . cammzan
+BATTERY PACK oo | d$a ousy | cinel on | T
+
+NeE-2a8
+
+--- PAGE 89 ---
+% [ ol
+
+ROTTOM VIEW
+
+ooooooooooo

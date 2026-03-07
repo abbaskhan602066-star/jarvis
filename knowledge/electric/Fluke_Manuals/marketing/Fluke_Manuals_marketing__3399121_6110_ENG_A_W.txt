@@ -1,0 +1,277 @@
+FILE: 3399121_6110_ENG_A_W.pdf
+FOLDER: Fluke Manuals/marketing
+DATE: 2026-03-07 11:18:25.782600
+==================================================
+
+
+--- PAGE 1 ---
+Instrumentation meets
+electrical signaling at a
+high-tech ceramics plant
+
+Testing
+Functions
+Case
+Study
+
+Tools: Fluke 789 ProcessMeter,
+Fluke 741 Documenting Process
+Calibrator, Fluke 97 ScopeMeter®
+
+Operator: Ron Shull, Instrument
+Technician, CoorsTek
+
+Measurements: Simulating 4-20 mA,
+calibrating P/I converters, checking
+encoder outputs, evaluating proximity
+sensor signals, VFD thyristor bank
+check, dc power supply evaluation
+
+CoorsTek, whose history
+extends back to before 1910,
+‘manufactures high-tech ceramic
+components for use in indus-
+tries from aerospace to chemical
+processing to electronics to
+body armor and beyond. Head-
+quartered in Golden, CO, the
+company has manufacturing
+facilities in seven states in the
+U.S. and overseas in Scotland
+and Korea.
+
+Ron Shull is an instrument
+technician at the company’s
+Clear Creek Valley Plant in
+Golden, where his main job is
+to maintain and keep tempera-
+ture controllers functioning, and
+‘make sure that they're accurate.
+Ron has been in the business
+for quite a few years, and he's a
+master electrician, but his main
+job at the plant is maintaining
+the instrumentation.
+
+FLUKE.
+
+Application Note
+
+Among his main tools for this
+are a Fluke 741 Documenting
+Process Calibrator and a Fluke
+789 ProcessMeter™; he also has
+an old Fluke 97 ScopeMeter®
+test tool.
+
+Hot boxes
+
+At the heart of a ceramic manu-
+facturing process is a kiln, and
+the Golden plant has quite a few
+of them, including box kilns, in
+which the bottom lifts up with
+the product and seals in place,
+and long tunnel kilns. The box
+kilns are electrically heated,
+running on 480 V single or
+three-phase power, depend-
+
+ing on size. They're controlled
+using thermocouples (T/Cs),
+temperature controllers, and SCR
+controllers to vary power to the
+heating elements.
+
+--- PAGE 2 ---
+The tunnel kilns are gas fired,
+with temperature control via
+dampers that modulate airflow.
+Controlling the dampers involves
+measuring draft pressures in
+the range of plus or minus 0.25
+inches of water. The pressures
+are monitored by pressure-to-
+current (P/]) transducers that
+send 4 mA to 20 mA signals to
+the temperature controllers.
+
+Shull uses his Fluke 741
+Documenting Process Calibra-
+tor to check the outputs of
+thermocouples and to provide
+a simulated T/C signal to the
+temperature controllers; he uses
+his 789 ProcessMeter to provide
+a 4 mA to 20 mA signal as input
+to temperature and pressure
+controllers for damper motors
+while simultaneously monitor-
+ing controller outputs. *I can
+plug a thermocouple in and see
+what it's reading;” he explains.
+*I can also tie into the back of
+the temperature controller and
+source the thermocouple signal
+and make sure my temperature
+controller is functioning properly
+and is calibrated.”
+
+Shull is delighted with how
+easy the 789 makes checking
+out the temperature controls on
+the electric kilns. “To be able
+10 go in there and simulate the
+temperature controller with a 4
+mA to 20 mA signal to my SCR
+unit is great,” he says, “because
+then I can also hook up an amp
+meter and I can set my zero and
+I can set my gain.” He sets the
+SCR controllers to zero output at
+4 mA and full output at 20 mA.
+*It's 50 nice to dial in 4, set my
+zero pot on my SCR controller,
+
+2 Auke Corporation
+
+dial 20 mA, set my span for
+somewhere around 40 A on the
+amp meter.” He finds the auto
+step mode on the 789 especially
+useful: "It just steps it up 4, 8,
+12, 20, and then it will go right
+back down. It just runs it through
+its ranges. It works so great,” he
+says. "It’s something that I didn’t
+quite know [ was getting when
+
+T bought the thing, and it has
+really helped me out a lot.”
+
+Shull recently discovered that
+many of the 100 P/I converters
+around the plant were out of cal-
+ibration. To fix the problem, he
+goes out with his Fluke 789, his
+pressure module and his pump
+and connects to P/I converters. T
+have my Fluke pressure module
+going into my documenting
+process calibrator, and when my
+documenting process calibrator
+says [ have 1/4 inch of water
+column, my controller should say
+it has 1/4 inch of water column
+as well. If not, I adjust my P/
+transducers accordingly.”
+
+Multiple uses for
+the ScopeMeter:
+
+Shull has found his Fluke
+
+ScopeMeter useful in a number
+of applications. On the automa-
+tion side of the plant he uses it
+to check the outputs of encoders
+on robots and other automated
+‘machinery. *Everything seems to
+have an encoder these days,” he
+says, “and until we started using
+the scope, no one knew how to
+verify whether an encoder was
+working or not. It’s nice to put
+that oscilloscope on there and
+see if you're getting your pulse
+trains out of the encoder.”
+
+Hon Schullat his bench
+with his Scopeleter,
+Processlieter, and DI,
+
+Onsite, onscreen DMM trending fises problems at a food processor
+
+In another automation appli-
+cation, he says, the ScopeMeter
+has been valuable in spotting
+problems with proximity sensors.
+“Sometimes you may find that
+your pulse is breaking-up and
+you are getting two pulses for
+one piece of product every once
+in a while. Adjusting your gain
+for a slightly longer pulse will
+eliminate the second pulse, and
+have your high speed counter
+back to counting accurately.”
+Something similar can happen
+with photo-eyes, he adds. It's
+possible to get “an extra little
+blip off of a top of something that
+you're sensing,” and at the end
+of a run "everything else looks
+like it's fine but the counter is off
+a few hundred each time.” The
+oscilloscope can spot the occa-
+sional second pulse that upsets
+the count.
+
+Shull also uses the ScopeMe-
+ter to check out variable speed
+dc motor drives. "We can check
+with that oscilloscope to make
+sure that all three phases, all
+three of our thyristor banks are
+firing,” he explains. *You can
+definitely tell if you're missing an
+SCR bank."
+
+The same method also works
+on dc power supplies, he con-
+tinues. "I have found a couple of
+power supplies where either the
+capacitors in them or something
+else has gone wrong, and you've
+got a heck of a ripple on top, and
+there’s just no way you're going
+to find that without an oscillo-
+scope.”
+
+Fluke. Keeping your world
+up and running:s
+
+Fluke Corparation
+PO Box 8080, Everett, WA 98206 USA
+
+Fluke Europe B.Y.
+
+PO Box 1186, 5602 BD
+
+Eindhoven, The Netherlands
+
+For more information call:
+
+In'the USA. (800} 443-5853 or
+
+Fax (425) 446-5116
+
+In Burope/li-Easy/Aftica +31 (0} 40 2675 200 or
+Pax +31 (0] 40 2675 222
+
+In Canada (800}-36-FLUKE or
+
+Pax (905 890-6866
+
+Prom other countries +1 (425 446-5500 o
+
+Pax +1 (425 446-5116
+
+Web acoess: hitp://wwww.fuke.com
+
+£2008 Fhke Corpration.
+Specifcations subect to chango without notie.
+Priniodin US A 11/2008 3309121 AW-E-N Fov A
+
+Modiication of this document is 1ot permitted
+without writen permission from Fiuko Corporation.

@@ -1,0 +1,902 @@
+FILE: E-306 INSTRUCTION BOOK FOR ELECTRIC WELDER.pdf
+FOLDER: .
+DATE: 2026-03-06 21:01:37.959794
+==================================================
+
+
+--- PAGE 1 ---
+i
+{ FINISHED PLAN Fr
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+ELECTRIC WELDER
+
+is the property of
+Heavy Industries, Lid. (K1) and may
+copied, nor disclosed to any third party
+without KII's prior written consent.
+
+MANAGER
+
+CHIEF
+
+--- PAGE 2 ---
+KT-1163
+
+-MARINE AC ARC WELDER
+ATTACHED
+VOLTAGE REDUCING DEVICE
+
+OPERATION MANUAL
+
+National
+
+| 220 /YL
+
+MATSUSHITA INDUSTRIAL EQUIPMENT CO., LTD.
+
+--- PAGE 3 ---
+Many thanks for your purchase of marine A.C. Arc Welder.
+
+- In accordance with the requirements specified in JIS-C-9301,this
+machine is particularly designed and constructed to be light
+and ‘compact A.C. Arc Welder specifically suitable as a marine-
+mount type ,employing moving core and H class insulation.’
+
+o Also, “this machine is attached the voltiqé reducu;’q’-devlce to
+
+protect apera‘tcrs from electric shock hazards cnused by output
+
+no-load voltage condition of the A.C. Arc Heldex" oo
+Our'slncere hcpe is that this manual is carefully studied‘ before
+
+operating this muchine in order -to work it under the most proper
+
+operating conditions. il 5 R e
+
+_Ratings
+
+Standard accessories
+
+_ Installation of welder
+
+__Connections
+
+Handlxng and nperut&on 5
+
+g . Welding _current and duty cycle e
+
+Cautions
+
+--- PAGE 4 ---
+RATINGS
+
+1.A.C." Arc Welder
+
+; - YK-306FL-42 YK-506FL-4Z
+5 Specifications
+Class : AR-300 © AW-500
+Rated output current A 300 § 500
+Rated input,voltage - v | Ac.as0 | Rean] |
+
+Phase Single phase siphgle phage
+Rated frequency Hz 60 : “ 1
+
+Rated input / kVA 24.5
+
+Rated input kW 13.0
+
+ox o v v w [V
+Current range .- e 45 ~ 300
+
+Rated Resistance volt.| V 35 ;-
+
+load
+
+volt. Reactance volt.:| .V . 20
+
+Rated duty’cycle %6 40
+Insulation’class H-class.-5;:
+Temperaturé rise '« . e c | :Max.160.:
+Case . -.-1 Drip-proof
+
+, Weight izt e missenl kg 2170 343 3aa
+
+Input cable gland - BAz38b a5
+% Connector for JB-500
+output terminal - By e (SANRITU Make) ,
+
+No ‘fus€ “breaker = = v NF100SS2P60A
+(500V,604)
+
+--- PAGE 5 ---
+2.Voltage Reducing Device
+
+5 Model g YC-505P-3T1
+Rated input voltage * A.C.200V
+5 Rated frequency ‘60Hz 3
+? Output no load voltage > 'zsz'
+%5 St‘artinq time ¥ approx. 0.03sec
+Required contact 0.01~0.02sec
+for start i
+¥ Delay time approx. 1.0sec ‘-
+Starting sensitivity 1.5Q
+‘ﬂse ; Drip-proof
+" | -Weight 3 ¥ 7%g 7
+
+* Power source is supplied by the down transformer 3
+
+(440V /200V) inside of the welder.
+
+--- PAGE 6 ---
+STANDARD ACCESSORIES
+
+s QoA C. L ArciaNdIdRT s anac Tl Tt
+
+Name | Code No. or Spec. Remarks
+
+Connecter | JB-500PNK Plug
+
+' Mounting plate
+
+KFP50117
+
+For cable gland size
+
+* for cable A-45(1,A-50(]
+
+gland
+Mounting plate| . "~ ° “° =] ‘For cable-gland size
+for cablé™ . KFP50119 A-30(])~
+
+gland '~
+
+* -Mounting plate for cable gland should be used when
+
+changed cable gland size.
+
+2. Voltage . Reducing Device
+
+|Qt . r Remarks
+
+Name Code No. or Spe
+
+Fuse 1A
+
+3A
+
+Fuse
+
+‘Fuse
+
+--- PAGE 7 ---
+INSTALLATION OF WELDER
+
+When installing - this welder , take special care for the
+required environment as follows:
+
+Required environment
+
+I) Ambient temperature should be within -10 C~50 C . 2
+1
+
+2) Relative humidity should not exceed 95% at above
+temperature.
+
+3) Tilt and ranging of the welder should not exceed 15° in
+lateral way and 10° In longitudinal way and rolling of 22.5%
+
+Vibration of the welder should not exceed aniplituda 3 mm and
+© frequency 16.7Hz.
+
+4
+
+S) No oil, vapor, or other detrimental corrosive or explosive
+gas should be allowed in the field. g
+
+)
+
+Dirts and dusts should be as least as possible in the field.
+
+7) Altitude should not exceed 1000m.
+
+--- PAGE 8 ---
+CONNECTIONS
+Please have a reference to the ([Connection Diagram].
+
+1. Grounding
+On the lower part of case,there is the earth terminal,with
+which grounding must be necessarily made by means of cable
+(copper) of about 10~ ldmm’. - =
+
+2. Connections ‘at input side of welder
+
+1) Make connections in such manner that for the welder is
+provided one switch box containing safety device against
+over-current such as breaker and fuse leading to power
+'source and that cable connection is provided between the
+output side and the input side of welder. Please have a
+reference to the ‘table 2 for capacity of swn‘.:h box and
+cable size.
+Particularly for the over-current breaker including fuse,
+take special care to use approprlnte capacity tc insure
+
+safety operatlions.
+i)"Ther‘e‘“ar‘é provided the input, terminals in the terminal box
+
+as shown in figure 1.
+
+Fix the appropriate cahles (refer to the table 2) by the
+
+cable gland packing, connect the cables to the respective
+
+terminals U and V.
+
+Packing
+
+Cable gland
+
+--- PAGE 9 ---
+Replacing cable gland
+
+When replacing a cable gland,
+
+use the supplied mounting
+plate. (Refer to the fig 2) .
+
+Rubber packling
+
+Mounting plate
+
+Set-screw
+
+cable gland
+e (M4x10)
+
+Fig 2
+The mounting plate differs, depending on the cable gland size;
+use a proper one. (Refer to the table 1)
+
+Table 1
+Mounting plate Applicable Remarks
+cable gland
+Code No. Cable gland ;s
+
+mounting
+
+hole dia. ;
+
+A-45[1, A-500)
+
+7
+Accessorfes
+
+Already nou_ntld
+_|.in terminal box
+
+A-350), A-40(]
+
+--- PAGE 10 ---
+3. Connections at output side welder .
+There are provided the plug terminals (female) as denoted by
+polarity u and v.
+
+They should be connected by means of the corresponding
+
+attachment plug terminals (male).
+
+These connections should be completed in such manner as by 1
+fully inserting the plugs and positively locking.
+
+{Refer to the fig 3)
+
+” Machine body
+
+~ Inserting and locking
+
+Cable
+
+Fig 3
+
+[caution) 3
+Whenever making cable connections, ‘first of all, the source s
+line must be turn off.
+
+4. Capacity of switch box and cable size
+
+Table 2
+
+‘capacity
+switch box (A)
+
+3004 Type
+
+--- PAGE 11 ---
+Connection diagram
+
+means of cable
+
+mnchlne lncludes only the drawn by solid line.
+
+T‘Yi.ﬂhenever making cable connections, first of'all, the
+
+<~ source "line must be turn off.
+
+G a e _
+
+Welding rod holder
+TR
+
+Vc].taql nduclnq devico
+
+Earth cable
+
+Input terminals (M8 bolts)
+
+o [omtoptuns |
+ﬂﬂ
+I T SR
+
+--- PAGE 12 ---
+HANDLING AND OPERATIONS =
+
+Perform operation in the following order: -7
+
+Preparation(Installation and
+
+1. Turn ON source switch in Connections)
+switch bax. 5
+
+2. Turn ON source switch 4 - Throw the handle to ON position.
+(no fuse breaker) of X The pilot lamp of voltage
+the welder. reducing device is lighting
+darkly. ¥ -
+3. Push the check button vBeEore weldlﬂévo'peratian, push
+switch of the voltage the check button switch to make
+reducing device. sure for its normal operation.
+
+(Check button switch is provided
+at the bottom of casing.)
+The peratlen will be normal,
+vlt- the magnet switch is.thrown
+in and the pilot lamp is lighted, ..
+_and when the check button switch
+is released the ‘magnet swltn:h
+-+ . ..|..1s released about 1 second later
+
+~and the pilot lamp becomes dim.
+
+4. Adjust
+
+--- PAGE 13 ---
+5%
+
+6.
+7.
+
+8.
+
+9.
+
+P10,
+
+welding current will be indicated
+by the pointer moving along the
+scale on the bedy. front.
+
+Arc starts The magnet switch contact of the
+voltage reducing device closes.
+
+welding ¢ -
+
+Welding completes.
+
+Turn OFF source switch —The magnet switch contact of the
+(no fuse bro&ker] of the voltage reducing device opens.
+welder. 2 3 ‘
+Turn OFF source switch Elementary conditions for safety
+in switch box. operations are proper working
+
+clothes and suitable guard.
+
+--- PAGE 14 ---
+Voltage reducing device
+
+'
+
+3.
+
+Pilot lamp
+
+The pilot lamp lights up brightly when the output side is not
+loaded. S :
+During welding, however, the brightness changes according to
+arc volt%qe.
+
+This Indicates that the brighter the pilot lamp is, the
+higher the output voltage is.
+
+Daily check
+
+Before starting everyday shift, Eirst push the check button
+
+switch to make sure for its normal operation.
+
+Dirts depogxts on the pilot lamp Indicating machine 4
+operation will block such confirmation from outside, requiring
+occasional cleanings.
+
+Cation
+
+1) The voltage reducing device is most effective for preventing
+possible electric shocks during welding work.
+However, this device i{s not always almighty.
+For example, for about 1, second following the welding
+operation, nut;;\;t no-load voltage of AC Arc f%elder |is
+1nev1ta6{y”gbplxgg between the base metal and welding rod holder
+
+This willnrequuj’e |use. of perfectly insulated welding rod
+holder and Xeuthér.qloves whenever attempting weldings.
+
+2) If the machine is used with the output cable wound, the
+voltage reducing device may malfunction.
+
+Consequently, do not use the machine in the output cable
+‘wound conditions.
+
+3) If the output cable insulation deteriorates and the
+insulation resistance to ground reaches 0.1MQ or less, the
+voltage reducing device may malfunction. A
+Always replace the insulation deteriorated cable with a
+
+new one.
+
+--- PAGE 15 ---
+Method of arc start
+
+There is a little difference in arc start method between
+
+the case using the voltage reducing device and atherwise. i
+Namely, conventfonal method aims to start arc, however; |
+when using the voltage reducing devise, an operator should 4
+aim to operate the magnet switch In the voltage reducing
+
+devise. Accordingly it is necessary to makg caertain contact
+between the weldgng rod and the base metal. -
+
+When lnterrupted arcl the head of the welding rod is shaped
+iike figure 4
+
+Because cold flux is an insulator, such a welding rod cannot
+cperata this devica when touched slightly to the base
+metal. Su, T is _necessary to take away the flux on the
+head of the weldlng rod, Qeatlng it to the base metal orv
+according to the figure 5, to drag the welding rod on the
+base metal pushing it on the base metal.
+
+Fig 4 Fig 5
+
+--- PAGE 16 ---
+WELDING CURRENT AND DUTY CYCLE
+
+Welding Current
+While the welding current intensity to Table 3
+
+be used depends upon size and type of Welding Welding
+welding rod, thickness of work piece rod (mm¢)| Current(A)
+and operating manner or posture,the 2.6 - 60 ~ 80
+
+relations between sizes of i{lmenite
+type welding rod and welding current
+
+intensity are, in general, as shown in . *| 170 ~ 230
+the table 3.
+
+320 ~ 420
+Duty Cycle 7
+The table 4 shows. rated duty cycle for - Table 4
+
+AC Arc Welder.:The term -duty cycle means
+a ratio of actual welding time to overall
+working time (assuming a cycle period being
+10 minutes). For example, duty cycle of
+
+300A Type
+
+4026 shall mean that the machine i{s put in operation for 4 minutes
+and kept at rest for 6 minutes during a cycle period of 10 minutes.
+As the duty cycle is to be determined with reference to the rated
+current, and therefore when the machine is used at a current lower
+than rated, higher duty cycle may be naturally applied.—
+
+In such case the applicable duty cycie can be determined by the
+following formul o ki
+
+Applicable - duty cycle (Rated output currentfx Rated duty cycle
+for actual output current (Actual output current)?
+
+- .
+Above relations are graphically fllustrated in the fig 6.
+
+Fig. 6 Relation between duty cycle and operating current
+
+--- PAGE 17 ---
+CAUTIONS
+
+Do not abuse the mechine, having
+careful reference‘to the rated
+specifications shown on the name
+plate of the machine.
+
+Do not use the machine beyond the
+duty cycle, if otherwise used the
+results are: # ;
+
+1) In extreme cise, burn-out or shorter service life .ot
+machine. ¥
+
+2) Humming or current adjust handle being hard to Acl;-eraite..
+Avold abuse of machine, having reference to the figure 6.
+
+Connections between welder terminals and cable should be
+positively tight to assure their mutual contacts as perfect as
+practicable.
+
+It should be rememberd that if their
+connections are left imperfect, this
+may cause burns of terminals and cables.
+
+Use of too long ocutput cable may
+
+make the proper butput current hard
+
+to be produced with greater power loss.
+And an extended use of old cable may
+lead to breakage.of sheath insulation
+with incidental unstable arc, electric Check tha cable for
+hazards and malfunction of the voltage .. brukage of 1ts
+
+reducing’ device.” ‘-~ - - e .sheath lnsula lon
+
+Therefore replace such old cables ulth & and ‘for ns lcose
+
+new ones. connections.
+
+At the :nd ol eldlng cperatzons."
+necessaruy shut’off the’ power source:
+
+As the inner slide .for the'movipq cor‘e has been gpproprlitely
+adjusted in factory, {t should not be tampered unless so
+required.
+
+--- PAGE 18 ---
+7. In summer avoid an use of machine under direct sun shine for
+a long time but preferably place {t in the shade.
+Also avoid leaving the machine in the rain or in a place tu11
+of moisture, dirts or dusts.
+
+condltic S, thara is no fear of burn-out because of
+enplcynent ut 'H ,cluss insulation.
+
+. 9. If the no tuse breaker turn on the trip yusstlon (automeHc
+open circuit), please carefully check up on tne cause of
+troubles.
+
+After rapalr the trnuhla,_return the handle tD OFF pus“’.io .
+next turn :ON ;
+
+Flgure is shown anch positlnn of handle OFF . TRIP and oN .
+
+S e ~ofine
+(Automatic opei
+
+_clrcuit)
+
+Fig.7
+
+poulbl Y The source voltage 'fluctuation is 'not:favor:
+o AC Arc Haldur us thn same of general electric appu
+
+--- PAGE 19 ---
+With source voltage substantially higher than rated input
+voltage;
+
+1) Extra welding current may flow.
+2) Humming or hard feeling of current adjust handle wheel.
+s 3) Burning or malfunction of the voltage reducing device.
+4) Shorter service life of machine. e
+3 Due to some fluctuations of source voltage the output i
+characteristics of welder may inevitably vary accordingly.
+However the range of fluctuation should be held within £109.
+
+i1, Iﬂ order to protect operator from
+
+accidents during operation, proper %
+working clothes and suitable guard @ ; ]
+
+should be put on. 250
+
+--- PAGE 20 ---
+MAINTENANCE AND CHECK-UPS
+
+In order to defend operator from accidents, operator ought to °
+check up at}out daily check of the voltage reducing device, and
+
+at least every 6 month on the following item.
+
+Whenever making the checkings, first turn off the source switch
+
+in the switch box and source switch (no fuse breaker) of the
+welder.. y 3
+
+In the event of failure of machine or lts components requiring
+repairs, contact dealer informing of the machine model and MFD. NO.
+at your earliest convenience. i
+
+1. AC Arc Welder * Gl
+
+1) Blow off dirts and dusts deposits on the transformer coil or
+uther pcrtlons by compressed air.
+nlrts and dusts deposits on such portions may reduce the
+insulating property or cause overheated coil.
+2) Remove dirts and dusts deposits on the feed screw and slide
+guide for the moving core as thoroughly as possible.
+Then such parts should be well lubricated.
+Refer to the following chart .
+The slide guide is self-lubring,
+needing no oiling.
+01ling it so applied on the gulde
+rail, could rather impair the
+
+inherent property.
+
+Most suitable oil is liquidized
+molybdenum disulfide ( LIQUI-
+MOLY LM-32)
+
+4 "/__slide bar
+(Oilless material) Fi9-8
+
+3) Measure the insulation resistance between primary and
+secondary coils and between the coils and earth by an
+available megger, and make sure the measurements are not
+
+less than 1 MQ .
+
+Carefully check bolts and set-screws for tldhtensss.
+
+--- PAGE 21 ---
+2.
+
+Voltage reducing device
+
+1) Blow off dirts and dusts inside of the case by compressed
+air. .
+
+Dirts and dusts deposits may reduce the Insulating property or
+cause overheated. &
+
+2) Carefully check bolts and set-screws for t-ighteness‘. ‘and
+retigthten if found loose. k.
+
+3) Check contacts af the magnet switch and if contact surface is
+rough, replace contacts new one.
+
+--- PAGE 22 ---
+TROUBLE SHOOTING OF THE VOLTAGE REDUCING DEVICE
+
+Should the device be found trouble in its operation, check and
+
+repair in the following manner.
+Trouble Probable cause Remedy
+With short-circuited 1.Blown off fuse 1.Replace fuse.
+welding rod and base (Ful,Fu2)
+metal, device fails to
+operate. 2.Faulty printed 2.Replace printed
+Also device fails to circuit board. circuit board.
+operate with check
+button switch ON.
+With short-circuited |1.Blown off fuse 1.Replace fuse.
+welding rod and base (Fu3)
+metal, device fails to
+operate. 2.Faulty printed 2.Replace printed
+Operate properly with circuit board. circuit board.
+check button switch
+ON. 3.Faulty CT 3.Replace CT.
+4 .Mis-contact of 4.Replace the sub-
+
+sub-contacts of
+the magnet switch
+
+Magnet switch chatters
+
+1.The input voltage|l
+
+.Improve the power
+
+contacts or put
+the case verti-
+
+cally
+
+gquently blown off.
+
+The fuse (Fu3) is fre-
+
+or unsteady operation. is out of the equipment.
+ratings.
+2.Faulty printed 2.Replace printed
+circuit board. circuit board.
+Extremely short delay |1.Faulty printed 1.Replace printed
+time. circuit board. circuit board.
+
+1.The input voltage
+is out of the
+ratings.
+
+2.Poor contact of
+electrical and
+wiring parts.
+
+1.Improve
+
+2.Find poor contact
+
+the. power
+equipment.
+
+parts and attempt
+to maintain a
+sure contact.
+
+--- PAGE 23 ---
+Replacement of printed circuit board
+
+To correct faulty printed circuit board it should be replaced
+
+new one.
+
+When replacing the printed circuit bca’rd,huse'piiers clamping
+
+rubber piece, as shown in figure to draw it out in a
+
+arrow-direction.
+
+Printed circuit board
+
+Rubber piece
+
+Fig 9
+
+--- PAGE 24 ---
+orzsinin
+
+A00Z/AOFY
+
+Y03 “A00S
+Licd ¥09d2SS00 TN
+a3mog
+
+99.n0s osny o F‘
+
+e
+[ -.:E!,WT
+
+10 "oy epoy
+
+£002./A0PY o1estnln ——
+Y001 ‘Ao0S sonwaiq
+401 jas B i
+b 00143550014 sing ey AN
+. ‘sumsy Buiplop | -ain
+syavuay 10 oy spoy ousy 1oquAg
+5 116-d505-0% 0 {
+20ja5q Sujonpsy  98¥3[op _
+o
+o—O0n
+ADTYIY
+andu]
+A0YY
+0 A
+
+Z29-14905-HA
+
+WY¥9OVId
+
+11§-d508-0A
+_ . aoiasg Bujonpsy eBuijop
+
+anding
+
+LINJYID
+
+--- PAGE 25 ---
+Circuit diagram
+
+___ ZUEP0043SA
+
+C-505P-3T1
+Y505t )
+
+Nane
+
+¥S | Magnetic switch
+
+(CR) Relay
+
+Reatrks
+
+UTU11620
+
+Fuse
+
+115V, 108
+
+--- PAGE 26 ---
+[sien upiieg
+Ta5q= sy
+
+1safpy juazgng N\
+- i i
+
+| i (43q9eaq asnj
+g% ﬁ._u:-n 35anos
+) ;
+
+ZY—14908—%A
+Zyr—TA90E—NA |
+
+ONImMYHQ FalswLno
+
+Xoq [vujuiz) ndu] E S{evinIer TRde]
+
+|
+| i
+
+--- PAGE 27 ---
+=R
+
+ACCEZSSORIES & SPARE PARTS LIST FOR ELECTRIC WELD
+
+I varae ounwriny
+
+SSCREPTION SXETCH Q' sngl
+
+HELMET TYPE
+SHIELD
+
+HAND SHIELD
+
+L\ (D
+
+g TRANSPARENT m SR
+GLASS . : A (
+
+ARC SHIELD
+
+4 |euass @
+‘/@
+Q
+| GLovEs :
+WELDING " |. .
+rOLDER wiTH| &L
+: 3 o~
+
+“asLELJOINT | $-300
+CABLEgJOINT e
+
+e 5 WIRE BRUSH
+
+TIPPING
+HAMMER
+
+WELDER'S
+
+35500
+
+| WELDING
+| cabLe '\}’,_/‘7; ﬂ?
+
+38:500

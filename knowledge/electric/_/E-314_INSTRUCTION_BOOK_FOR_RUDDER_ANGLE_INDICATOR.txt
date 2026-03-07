@@ -1,0 +1,889 @@
+FILE: E-314 INSTRUCTION BOOK FOR RUDDER ANGLE INDICATOR.pdf
+FOLDER: .
+DATE: 2026-03-06 21:32:59.107586
+==================================================
+
+
+--- PAGE 1 ---
+e
+
+DWG
+
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+INSTRUCTION BOOK FOR
+RUDDER ANGLE INDICATOR
+
+echinical document
+
+ty of
+Kawasali Heavy Industries, 1 1) and may l
+disi Lo any third pasty ||
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+DRAWN SHIP DESIGN DEPT, SHIP GROUP
+
+DATE
+
+20 W NED At
+
+1456
+
+7 SHEETS Ml covER
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+
+--- PAGE 2 ---
+MESSRS.
+
+NMETRHERX &
+KARASAKI HEAVY INDUSTRIES.LTD. B
+
+I®%5 WORK NO.
+
+o E 5 SHIP NO. ‘]456
+
+BRASY T ITIA Vv IT =%
+ELECTRIC RUDDER ANGLE INDICATOR
+
+FINAL DRAWINGS
+
+KIEH EMEHA T4
+
+AERHHEEFREITHEL-S
+
+WA 0615818121 ({t)
+FAX. (06)584-2344
+
+OSAKA NUNOTANI SEIKI CO.,LTD.
+
+1-5 3-CNOME CHITOSAK} NISHIKU DSAKA
+TEL. (06)581 8121 FAX. (08)584-234¢
+
+--- PAGE 3 ---
+54 -3966
+& B - R R
+COMPONENT LIST
+B H{§
+SHIP NO. 1456 DAT 95 11.01
+= 2 BAXG Y —FvIndvor—y%
+NAME OF DEVICE ELECTRIC RUDDER ANGLE INDICATOR
+KR MASS ke
+HE %S & o) S —  BEE
+NO. | DMG.NO. NAME OF COMPONENT ¥o, | ¥ s |® m| COLOR
+REQ. | APPROX | ACTUAL
+% W=
+1 | RA0-42003 | CONNECTION DIAGRAM - - — —
+2 8
+2 | RA2-4096 | TRANSHITTER ( TAL-TS472) 1175 75 | 758672
+2 Z o5
+3 | ma3-4384 | DNDICATOR ( 3C300 )| 1|9 9 oo
+- - 5
+4 |Ra3-4363 | DNoiChtoR ( SLzoo »| 2 | €xz| &x2} DO
+H 2 ® o
+5 | RA5-4178 | INDICATOR DIAL 2] — — —
+X E m B OB -
+§ | RA4-4397 | DINWER RESISTOR BOX(DS)| 2 |1.2x2| 1.2x2| 75BG7/2
+F W OR K (H)
+7 | RA6-4870 | SPARE PARTS LIST(BOX) 1|6 65 Do.
+OSAKA NUNOTANI SEIKI C€O.., LTD.
+
+--- PAGE 4 ---
+DIMMER RESISTOR __(£.ENBHE)
+
+o 25w, ow SHIPYARD -OFstw DS
+%fkn SUPPLY 10w| o
+x3
+56 [L1sT8
+U LL
+.
+
+Jka| DS
+
+10w
+3ka)
+
+PWiNG  SL200 WA 3C300 S-WING SL200
+INDICATOR (%% %} INDICATOR (412 %) INDICATOR (216 % )
+:~»EL
+”’g‘ :
+1
+
+3C
+
+7 .
+I_CONNECTION BOX(HEt#H
+_ SHIPYARD™ SOPPLY
+
+TYPE ' L3L
+
+Cotor | mpes | G Creck orAv | CONNECTION DIAGRAM
+@ % s FOR ELECTRIC RUDDER
+
+7 2 - ANGLE_INDICATOR
+i f/z*‘&”—‘-qw’/ &b e e e
+
+Iy
+
+oATE ST R Towe,
+ARFEMBALLL ~o
+(AB,[BSA*OS-OB oS R TR R B L. — e wn ;RAO-42003
+
+3A3~2B) )
+
+--- PAGE 5 ---
+2
+
+NG NAME OF PARTS N MATERIAL T RemaRKS
+110 Ca L1 e e [acrak |
+2 loaskeT (AR ok 1 PNTRERS e [AmTa O RING
+3loracker (e it & ) 1 [H00 Gt [ACTA-F |
+4RG> 7owm — —_{1si7an
+|5 le00y (& ot A‘EEEA{N&EUN ACoAE |
+6 [TERMINAL HOLDER ( e e )| 1 A ihe saeiing |ACTAF |
+r7]]ERMINAL BOARD (3% F43)| 1 — | —_ icws
+i
+] | !
+9 TErMInaL cover (T 1 PMERLAREY Acn- Fl
+10 |caskeT (RATyr ) 1»"””5"5 £a I,
+11 [MOVABLE GEAR (iizénth _[pRonE st c‘aca
+12|FIXE0 GEAR (B )| 1 [SRONZE CASTINGBC3
+3 3 |SPRING ( 277 1 |sPRING STEELIsuas |
+14 |GEAR ( # & ) 1 |BRASS ROD  'c3804BD
+15 [ADJUSTABLE LEVER{ %) 1 |STEEL BAR Issat
+16 |SHAFT (%% )| 1 ISTEEL BAR  lssar |
+17 |HEXAGON NUT (& F»F)| 4 [STEEL Issa1 |
+18 [6Lano (773 k)1 PLASTIC |F5R47IND. 20
+i
+
+TYPE TAL=-TS472
+
+TRANSMITTER FOR
+
+ELECTRIC RUDDER
+ANGLE INDICATOR
+
+WRRFT-TIAL - FRIE%
+
+AEHERBBKAY
+
+OSAKA KUNGTANT SEIX! CO..LTO.
+
+SOLE BB [ pweno,
+
+1, |@m | RA2-4096
+
+SAs—zB %L
+
+--- PAGE 6 ---
+3
+
+—
+
+NG
+
+NO. NAME OF PARTS REG MATERIAL REMARKS
+1 [ soDY C_m_ ol1 [ATeNEY e [aCTA-F
+2 |LamP HOLDER ( Y7y k)| 3 - —_| FB-15
+J |ELECTRIC LAMP( & ER )| 3 — — |BAISD19
+4 |O1AL (B @) 3| PLASTIC _ [793F+7
+5 | COVER SR PLASTIC 733747
+EESSF:'LI:ER T 6 | POINTER ( 38 #r)| 3 [BRASS PLATE |C2801P
+(BEIESIT) | 7 ! cover [ EYIE it\i’é‘}ﬁ;{l% ACTIA-F
+S ECEIVER 18| TR (v 7omm) 1 — — [ rssn |
+GEAR RATIO 1°4 | 9 |coaming (2 [ 1] — | 20x40
+(RfE2WEIL) 10 | TERMINAL BOARD( 1 — —
+
+4—12 BOLT HOLE ( BFT5T )
+
+55
+
+130
+
+185
+
+TYPE |
+
+3C300
+
+X
+
+A8
+
+1983-07-15
+
+GEG | omRwn TNDICATOR FOR
+| ELECTRIC RUDDER
+ol \W@;v ANGLE INDICATOR
+; [l f\\ WERTFTVINA VST G FEE
+SCAE (RED_ | pwano,]
+asufﬁfwﬁmssgﬁﬁg.m, 5 @® | RA3-4384
+
+3a3—2B AL
+
+--- PAGE 7 ---
++
+
+HO. NAME OF PARTS % MATERIAL REMARKS
+
+1 | POINTER (45 __gh)| 1_|euastic PR F 7 -
+2 | COVER GLASS (REA32)| 1 |6Lass 3R
+
+3 | TERMINAL BOARD % F ) 1 — — |cie-1
+
+4 | TERMINAL COVER (88 %3 10] 1 | Arity teting |ACTA-F
+
+5 | COVER G 1) —Do.— 00— |
+6 |DIAL (B8 2R 1 [pastic 732% 7]
+
+7 | BODY (& )| 1 | Ailoy casting |aCTA-F |
+
+9 | “RERONRYS (v pumh| 1 — — | 755N
+
+10 |E.L PLATE (ELAR)[ 1 haynd -
+
+11 | GLAND (73 v F)| 1 | PLASTIC F7xFI| NO-254
+
+12 | GLAND (778 — 00— —oa.~ | NO.20C
+
+TYPE ‘ SL 200
+COLOR MASS CHIE. =3 INDICATOR FOR
+@ R oK ® iz ELECTRIC RUDDER
+— |s P =~ __ANGLE INDICATOR
+LY, TRXIF-TVINALCT-9 RER
+
+OATE . N SCALE (RED [oworo,
+(na)983-07-15 osaK e ) TE') [ RA3-4363
+
+TA3—2B WL
+
+--- PAGE 8 ---
+COLOR SCHEME (B & %))
+
+[WITH_{LLUMINATOR[WITH OUT ILLUMINATOR
+GROUND (# i #) |WHITE ¢ % g) | WHITE (B B
+“PORT” RED (4 @) | RED _ 3B
+“STARBD” GREEN (# #) | GREEN (% #)
+OTHERS (#as)| BLACK (& &) (%_£)
+MATERIAL (3280 | PR o~
+
+EL PLATE — ORANGE
+
+TYPE | D3-40A
+= — INDICATOR DIAL FOR ELECTRIC
+fou” LS e “M' RUDDER ANGL% [NDipATO.R
+o ; \(y/ \Wﬁm WHAF 77 AT RERERHE
+
+SCHE (RED fawg o
+i+ —
+amy1982-08-05 i R R L. —— |@m | RAS- 4178
+
+3A3—2B e
+
+CHIEF CHECK ORAVN
+
+--- PAGE 9 ---
+5 % |n | o w % *
+N0 NAME QF PARTS 189, MATERIAL REMARKS
+
+1| kOB A4l L+ [ PHENOLIC MOLDING | PN-BG
+2 | NAME PLATE 861 1 A1 At0sop
+3 | NAME PLATE K4l 1 A1050P
+o win oomvmrR | 1] —— | — |cw |
+5 | COVER P || ALUMINIIM A CAS.i AC7A'[77 B
+& | GASKRT ﬂ‘Z‘f‘y N | SYNTHETIC RUBDBE =N o
+T | BoDY th T | ALLMINIUM A, CAS. ;X&'l/\ F‘
+
+L 8 | GLAND 770K )};jEASTIC 75 X'f 7’;”7 NO.20 C
+9 | GLAND AN I | PLASTIC T52F 7 |NL20C
+
+130
+
+3 -7 BOLT HOLES
+
+HRATHT
+
+TYPE DS
+
+COLOR | MASS
+(& % &) &
+
+i
+
+X
+
+DRAWN
+
+i
+
+W\ﬁ@
+
+DIMMER RESISTOR BOX FUR
+SLECTRIC RUDI
+
+i ANGLE INDICATOR
+
+BRAS ST o TN DY
+
+kd A
+o SCALE (R T
+- 1991-02-14 ARSSHBEIEN 1‘ B Jowe.no
+A8 DSAKA NUNATAN SEIKI €O _LTD. . Lo gy
+
+--- PAGE 10 ---
+7
+
+BOX NO. P
+
+SETS FER
+SHIP NO. SPARE PARTS LIST FOR USE VESSEL
+
+ELECTRIC RUDDER
+ANGLE [NDICATOR j
+
+1456 AN 577 701
+
+QUANTITY REMARKS
+rem NAME OF -
+NG, OUTUNE
+PART PER ] PER SPARE
+_ T vess| | ]
+SYNCHRONOUS 53— TYPE TS472
+] GENERATOR T 1 '1 1
+EHA 708K ‘397{ :E_
+bt
+SYNCHRONOUS p—100~ TYPE TSSN
+2 | __RECEWER T :D 3|3 ,
+#xdofy | 0
+
+4 RUBBER _PACKING
+
+EP¥E] 2|2 FOR ¢200 (INDICATCR
+
+3 | _cover GL»A.SS 212 1 |for g200 NOICATOR
+t @uaz
+
+L
+i
+|
+170x100x1 |
+|
+|
+|
+
+RHEQSTAT :
+B 6
+5 R w 2|2 HBK 25w 3k
+ELECTFNCV AMP. | BAGC;){Q.
+LAM| 3
+6 7 s 313|3| 220v S w
+P
+V/V;PARE PARTS ! 00 MATERIAL - STEEL
+BOX
+10| 2 J
+EER] |
+_ -
+MER'S NAME 0SAKA MINOTANI SBIKI CO. ., LTD. ORY. NO. RA6 -4870
+- e wnl
+
+3A3—68 a1
+
+--- PAGE 11 ---
+INSTRUCTION BOOK
+FOR
+ELECTRIC RUDDER ANGLE {NDICATOR
+
+OSAKA NUNOTAN! SEIK{I CO., LTD.
+
+--- PAGE 12 ---
+CONTENTS
+
+General
+
+Components
+
+Principle of operation
+
+Mechanism
+4-1. Transmitter
+4-2. Indicator
+
+4-2-1. Surface type indicator
+
+4-2-2. Semi-flush type indicator
+
+4-2-3. Flush type indicator - circulax type
+4-2-4. Flush type indicator - square type
+4-2-5. Three face type indicator
+
+4-2-6. Indicator dial
+
+4-2-7. EL plate
+
+4-3.  Dimmers
+4-4.  Connection box
+4-5. Spare parts
+
+Adjustment and replacement
+
+5 Adjustment of pointing nescle of indicator
+5-2.  Replacing of front cover glass and packing
+
+5-3.  Replacing of dimmers
+
+--- PAGE 13 ---
+1. General
+
+This instrument indicates the angle as well as the direction of
+rudder of ship by means of pointing needle and calibrated dial
+installed in the wheel house or elsewhere, which is a important
+instrument for the operation of ships.
+
+" The mechanical position is converted to the electrical signal by
+means of synchro-motor in order to operate the indicator.
+
+The indicator has dial calibrated in 4 times of actual rudder
+angle (standard is 40° - 0° - 40°), thus the angle on the dial
+is 160° - 0° ~ 160°. A pointing needle indicates the rudder
+angle and its direction on the dial. A transmitter is mechani-
+cally connected to the tiller. The transmitter and the indica—
+tor installed elsewhere are connected by means of electric wires,
+and the angle of rudder is transmitted to the indicator without
+a moment of delay.
+
+In case of three face type, the gear ratio of transmitter is 1:3
+to multiply the rudder angle by 3, thus the angle on the dial is
+120° - 0° - 120°.
+
+Each parts are specially selected for use on board ship and is
+made according to the JIS specifications, the performance of
+which is excellent.
+
+2.  Components
+
+2-1. Transmitter
+2-2. Indicator
+
+2-2-1. Surface type indicator
+2-2-2. Semi~flush type indicator
+2-2-3. Flush type indicator - circular type
+2-2-4. Flush type indicator - square type
+2-2-5. Three face type indicator
+
+2-3. Dimmers
+
+2-4. Connectior box
+
+2-5. Spare parts
+
+Up to 6 indicators can be installed depending upon the type of
+synchro-motor of the transmitter
+
+In case of DC, use inverter. In case of AC, use transformer
+unless the voltage is 100 - 115 V.
+
+--- PAGE 14 ---
+3. Principle of operation
+
+The both transmitter and indicator are based upon the theory of
+synchro-motor, the principle of which is explained below.
+
+The synchro-motor consists of primary and secondary windings,
+which are the rotor as well as stator coils. The terminals of
+transmitter is connected to that of indicator correspondingly.
+The primary coil is connected to the power source (Rl and R2)
+and forms a predetermined magnetic fields. The secondary wind-
+ing of the tramsmitter is connected to the corresponding coil of
+indicator for each phase (S1, 52 and s3).
+
+When the relative position of the primary and secondary coils is
+the same as in the indicator, the voltage induced in the second-
+ary coils in the transmitter and the jindicator are same and
+there is no current flow. Transmitter Indicator
+
+When the shaft of the
+indicator is locked and
+the snaft of the trans-
+mitter is rotated 30°,
+there will be unbalance
+as shown by the sketch
+in the right.
+
+In such case, current
+flews in all the coils
+of stator, and most
+
+current flows in the ~—0.55A
+
+part where there is 0.75A—
+
+most unbalanced voltage. When two shafts are in different
+position.
+
+The electromagnetic force resulting from the current in the
+stator coil causes the rotor to have a torque to rotate the
+shaft of the indicator to the same position as that of the trans-
+mitter. If the shaft of the indicator is free, the shaft is
+rotated 30°.
+
+Thus the synchro follows, and from theoretical point of view
+there should be no difference in the angle indication between the
+transmitter and indicator, but because of some friction in the
+moving parts and accuracy of machining etc., there is some error.
+This error is the accuracy (error in the indication.)
+
+--- PAGE 15 ---
+4. Mechanism
+4-1. Transmitter
+
+Splashproof construction, flat position type, made of aluminum
+alloy casting. A driving system is fitted on the top. The
+ériving shaft fitted on the top cover and cut in square to in-
+
+‘ stall the driving system. The gears fitted inside multiply the
+motion of tiller by 4 times (gear ratio is 1:4). The gear on the
+driving shaft consists of two gears with springs acting to pre-
+vent the back lash of the gears. Thus the driving gear is meshed
+with driven gear of the synchro without any play.
+
+As explained in the General, when three face type indicator
+(3L200 type) is used, the angle of tiller is multiplied by three.
+
+The synchro-metor is fitted by means screw onto the bracket and
+
+2 pinion is fitted in the end of the shaft. The bracket is fit-
+ted onto the top cover together with driving mechanism. When the
+top cover is removed, everything including the synchro can be
+taken out. A terminal board contained in terminal box with gland
+nut for cable can be opened by loosening 4 screws. The cable
+should be connected to the specified terminal as numbered.
+
+4-2. Indicator
+4-2-1. surface type indicator
+(SP200, SL200, SE200, SDL50, SL150, SEL50)
+
+Watertight construction, wall mount type, made of aluminum alloy
+casting. The front cover glass is tightened with rubber packing
+strip, and its frame is fitted on the case with packing. & dial
+is fitted in front and the synchro-motor is fitted on the bracket
+with screw.
+
+The pointing needle is fitted on the shaft of synchro-motor by
+means of a special screw. The pointing needle can be removed by
+loosening the screw by a screw driver in order to change the
+pointing angle. The color of the needle is white when the dial
+is black and black when the dial is white.
+
+The light bulb is mounted on a special double ring socket to-
+gether with holder. The bulb can be easily changed.
+
+The indicator with light comtrol has rheostat contained in z case
+mounted on the right side of the indicator case.
+
+The light can be controlled by rotating the rheostat
+
+When a EL plate is used for the lighting of the dial, the EL
+plate is fitted under the dial to illuminate the whole dial.
+
+A terminal cover is located in the bottom of the case and the
+cable is connected through the gland nut to the internal termi-
+nal board as numbered.
+
+--- PAGE 16 ---
+4-2-2. Semi-flush type indicator
+(HL250, HE250, HL200, HE200, HL150, HEL50
+
+Dripproof construction, made of aluminum alloy casting. The
+front glass cover glass is tightened with rubber packing strip,
+and its frame is fitted on the case with packing. A dial is fit-
+ted in front and the synchro-motor is fitted on the bracket with
+screws.
+
+The pointing needle is fitted on the shaft of synchro-motor by
+
+‘! means of a special screw. The pointing needle can be removed by
+loosening the screw by a screw driver in order to change the
+pointing angle. The color of the needle is white when the dial
+is black and black when the dial is white.
+
+For lighting system, there are electric light bulb with socket
+as well as EL plate which can illuminate the dial evealy. The
+EL plate is mainly used.
+
+For fitting this indicator first drill holes as specified and
+then install the indicator case. Then connect the cable to the
+terminal box. After connecting the wire to the terminal, install
+the syachro-motor.
+
+4-2°3. Flush type indicator - circular type
+(FL200, FE200, FL150, FE150, FL200S, FE200S, FL150S,
+FE1508}
+
+Dripproof copstruction, made of aluminum alloy casting. The
+
+nt cover is same as surface type. The front cover is tihgten-
+ed with rubber packing strip, and the frame is fitted on the
+
+case with packing. & dial is fitted in front and the synchro-~
+motor is fitted on the bracket with screws.
+
+The pointing needle is fitted on the shaft of synchro-motor by
+means of a spécial screw. The pointing needle can be removed
+by loosening the screw by a screw driver in order tc change the
+pointing angle. The color of the needle is white when the @ial
+is black and black when the dial is white.
+
+The synchro-motor is mounted on the bracket and the bracket %o
+the case. There are two types. One with fitting flange and
+one without flange. The one without flange can be installed by
+removing the cover.
+
+The cable can be connected to the terminal boaré in the case
+through the gland packing. The illumination of the dial is
+made by EL plate which is fitted under the dial to give an even
+lighting.
+
+4-2-4. type indicator - square type
+
+, FE130, FL100, FELQO0, FL30, FE30
+
+A compact and light weight indicator designed for installation
+in the control panel for flush fitting. 2 round glass cover is
+fitted in the sguare plastic cover. This cover and synchro-
+motor are fitted on a bracket. The cover and glass for the 120
+and 110 are one piece make.
+
+Since the synchro-motor is exposed, the wiring can be done
+easily. The pointing needle is fitted on the shaft of the syn-
+chro-motor by means of a special tightening device. The pointing
+needie can be removed by a screw driver to change the indicating
+angle.
+
+--- PAGE 17 ---
+4-2-5. Three face type indicator
+
+This type is a dripproof construction to be mounted on ceiling
+of wheel house. It is possible to read the indication from the
+starboard, port and front (three directions). The material is
+aluminum alloy casting. The cover is a square, transparent
+plastic and is designed for easy reading from wide angle.
+
+In order to install this indicator, remove the screw for the
+bottom plate and remove the plastic cover, after which put the
+bolt in the four corners of the fitting base and tihgten to the
+ceiling surface. The synchro-motor is fitted inside of the fit-
+ting base. The weight of the synchro being about 12 kg in total,
+be careful not to damage the dial and pointing needle etc.
+
+Three synchros are fitted on each face, and are connected in
+parallel. The construction of each synchro are same as any other
+type, alsc wires can be connected to the each terminal in the
+same manner as in the one synchro type.
+
+The illuminating device can be either EL plate or electric light
+bulb. The light controller can be installed separately.
+
+4-2-6. Indicator dial
+The standard specification is as follows:
+
+For EL illumination, the dial is white plastie. When illumina-
+tion is not used, the dial is made of corrosion-proof aluminum
+alloy or plastic plate (white surface).
+
+With Zero in the top center, the right side is marked "STARED"
+in green, and the left side "PORT" in red. The angle calibra-
+tion for left and right are 40 degrees each. The calibrazion
+is spread by 4 times, and number is entered for 5 degree each
+The line and the number is black for white surface of the dial,
+and white for black surface of the dial
+
+For three face type indicator, the multiplication of spread is
+3 times.
+
+4-2-7. EL Plate
+
+EL is the abbreviation for
+new light source that st
+
+electro-luminescence, which is the
+nes in all the surfaces.
+
+EL Plate is different from the electric light bulb which has
+heated filament, or electric discharge of a certain type of gas.
+Tne phenomenon is calleé light emission from electrostatic field.
+The light is emitted from the solid state when electric field is
+applied to a semi-conductor, which is an entirely new principle
+of light emission. This EL plate is fitted under the plastic
+dial to illuminate the dial. 1In case of electric light bulb,
+such mechanical trouble as broken filament or loose base of the
+bulb, but in the EL such trouble is eliminated. However the
+
+EL plate is deteriorated by moisture, and it is sealed ih plas-
+tic to prevent it from moisture. The EL plate can be used semi-
+permanently, unless it is scratched on the surface or lead wire
+pulied off.
+
+--- PAGE 18 ---
+4-3. Dimmers
+
+There are three types of surface type, flush type and panel flush
+type, the material is aluminum alloy casting. Rheostat and ter=
+
+minal board are fitted inside of surface type and flush type.
+
+For panel flush type, the rheostat is exposed and terminal board
+
+is omitted.
+
+The light can be controlle@ from outside by means of bakelite
+molded star shaped handle. When the handle is turned toward
+clockwise, the light is intensified, and when turned toward anti-
+clockwise, the light is darkened. When turned to extreme anti-
+clockwise, the light is cut off.
+
+4-4. Connection box
+
+Used for comnecting the transmitter and indicator. - The size of
+box changes according to the number of indicator to be used.
+
+The material is aluminum alloy casting, and cable is connected
+through gland nut. This item is to be installed when specified.
+
+4-5. Spare parts
+
+According to your specification, they are contained in either
+steel or wood box. Parts list is attached to the inside of the
+1iad.
+
+adjustment and replacement
+
+5-1. »adjustment of pointing needle of indicator
+
+Install each instrument at desired position and connect wires
+according to the wiring diagram, then switch on. Then put the
+rudder at 0° position. If the needle is not in the 0° position,
+adjust the indicator according to the following procedures.
+
+5-1-1.
+
+Remove the front cover by loosening the screw (2) shown by the
+Fig. 1 and 2.
+
+5-1-2. (See Fig. 1 and 2.)
+
+Hold lightly the pointing
+needle (4) and loosen
+the adjusting screw (3)
+with a screw driver.
+
+Then the pointing needle
+{4) become free. Then
+set the needle to the 0°
+position. Then hold
+lightly the pointing
+needle (4) and tighten the
+adjusting screw (3) with
+a screw driver.
+
+--- PAGE 19 ---
+5-1-3.
+
+When the pointing needle
+turns inversely from that
+of the actual rudder,
+
+open the cover of terminal
+box (6) by loosening the
+screw (5) with a driver
+and switch the wires to
+the terminal 2 and 4.
+
+In case of Fig. 2, switch
+the wires to the terminals
+S1 and $2 of the synchro (8)
+and follow the procedures
+specified in 5-1-1 and
+5-1-2.
+
+Fig 2
+
+5-2. Replacing of front cover glass and packing
+When the front cover glass and the packing are damaged, replace
+
+them according to the Fig. 3 and 4. (See figures in the follow-
+ing page.)
+
+)
+
+¥ {2 3
+
+Fig 3
+
+Remove the front cover accoréing to the 5-1-1 in the previous
+page, then remove the glass, packing (2) and inside frame (3}
+shown by the Fig. 3. Replace the glass and packing with new
+ones, ané assemble them accoré@ing to the Fig. 3. The packing
+should be applied to the periphery of the glass by pulling them
+by hand, then the rubber packing will contact the edge of the
+glass. After the rubber packing is fitted, place the glass in
+the cover and tighten the screw. After tightening the screw,
+cut off the outside of packing with a knife.
+
+--- PAGE 20 ---
+In case of FL130 and FEL3D, proceed as shown by the Fig. 4.
+Loasen the screw {3) and remove the glass from the cover (1).
+Apply putty to the A slot, insert screw (3} to the hole, then
+put on the cover (1).
+
+In case of FL100,
+FE100, FL30 and — — )
+FE90, one piece @
+cover with front
+glass and front
+cover which is
+made of plastic
+is used.
+(2}
+) A siot
+
+1
+
+Fig 4
+
+5-3. Replacing of dimmers
+
+when the rheostat of the light controller is damaged, replace it
+as shown by the Fig. 5.
+
+Loosen the screw (7) 4}
+
+and remove the cover é
+(8) from the case. ? @)
+
+Loosen the screw (1)
+
+anad pull out the i
+
+hasdle (2). Loosen M @ W]'I
+screw (3) and remove Sl A il
+
+the nameplate (4). @ g
+
+The rheostat (9) can //
+be removed when the (@) Do .
+screw (5) on the cover [
+(8) is loosened. /
+
+Replace the rheostat D
+
+with a new one, and @
+
+assemble following Oz |
+
+the above procedure in o) _?
+reverse.
+
+Fig 5

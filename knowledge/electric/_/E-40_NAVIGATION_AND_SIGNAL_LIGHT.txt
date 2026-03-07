@@ -1,0 +1,1180 @@
+FILE: E-40 NAVIGATION AND SIGNAL LIGHT.pdf
+FOLDER: .
+DATE: 2026-03-07 07:52:53.822005
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+NAVIGATION & SIGNAL LIGHT
+
+This technical document is the property of
+
+i Kawasaki Heavy Industries, Ltd. (K1) and may
+Dot be copied, nor disclosed third party
+withaut KII's prior written cons
+MANAGER _____ —— 4 LCHTRIHCALE | JOBNO.  ——
+CHIEF V/ R ™ g
+B | CHESHED, - {37"""4’ = KAWASAKI HEAYY INDUSTRIES, LTD.
+M| ofawnyyy 29 Ros” SHIP DESIGN DEPT, SHIP GROUP
+
+DATE
+
+B doio . 1456
+
+KAWASAKI HEAVY INDUSTRIES, LTO SHEETS WCL COVER
+
+SRPU—-—-
+
+--- PAGE 2 ---
+1.
+
+NAVIGATION & SIGNAL LIGHT
+
+1) NAVIGATION LIGHT
+
+2) SIGNAL LIGHT
+
+3) SUEZ CANAL SEARCHLIGHT
+
+4) PORTABLE DAYLIGHT SIGNALLING
+
+CONTENT
+
+LAMP
+
+Page
+
+2=ty
+10 ~17
+18 ~25
+26 ~33
+
+--- PAGE 3 ---
+BEPORIE WORE I.IjC
+
+NAVIGATION LIGHTS
+(FTECTRIC USE)
+
+€9 HAME R AR B 377
+
+® 535 KRATMWXAN2THS®H 115
+o B I I L ot S B )
+727+ S OTOBIRA = 3250
+
+NIPPON SENTO CO,, LTD. OSAKA OFFICE. No5-11, 2-Chome. Akagawa, Asahi-ku, Osaka.
+
+_.J
+i e R e . i
+
+--- PAGE 4 ---
+SNO. 1456
+
+NO| NAME TYPE |V x W[QTY|[DWG NO|REMARKS SYMBOL
+NAST NEAD | CLASS A-2 | 220V CORD TPNP-2. 0
+1 | LIGUT DUAL TYPE | x 2 Pes| P22ME 1.5n
+(ELECTRIC) | NO P23 [0
+STBD SIDE | CLASS A-2 | 220V
+2 | LIGuT DUAL TYPE o 1pPc | P22SE .
+(ELECTRIC) | NO P23 GO¥
+PORT SIDE .| CLASS A-2 | 220V p
+3 | Lient DUAL TYPE 3 1Pc | P22PE .
+(ELECTRIC) | NO P23 60%
+STERN CLASS A-2 | 2207
+4 | Licut DUAL TYPE x 1Pc | P221E .
+(ELECTRIC) | NO P23 408
+WIITE CLASS A-2 | 2207
+LIGIT x 4 Pes| P2INE .
+(ELECTRIC) | NO P23 408
+ANCHOR LIGHT
+RED CLASS A-2 | 220V -
+LIGIT x 8 Pes| P2IRE "'v:'sgiz'ilgg:s: fo\
+(ELECTRIC) | NO P23 60¥ RAINED BY HER Y/
+DRAUGHT LIGHT :
+RED CLASS A-2 | 220V i“ .
+LIGHT X 4 Pes| P2IRE VESSEL CONST A
+(ELECTRIC) | NO P23 608 RAINED BY HER N\,
+DRAUGHT LIGHT
+SPARE
+PARTS
+LIST
+
+--- PAGE 5 ---
+MAST HEAD LIGHT(ELECTRICICLASS A-2 DUAL TYPE NO.P23 |- SCALE |
+
+g DIMENSION
+
+IR e DIMENSION
+
+- NO.OF TYPE
+
+APPROVAL |
+
+WEIGHT | ca. 34 kg1
+
+PROJECTANGLE 7
+
+[ oFtighr | ?2°
+
+VISIBLE
+_RANGE
+
+NOTE
+
+1. FOR THE VESSELS OF
+e 50m. OR MORE IN
+~ 225" ><10 SETTING HOLE_.  LENGTH.
+
+Pt SYNBOL
+
+[
+|
+(463)
+
+CRCREE Rl - o
+ITEM[  NAME MATERIAL[REMARK [ITEM  NAME MATERIAL [REMARK
+~_|BRASS 8 [ SHELTER | BRASS .
+BRASS | | 9|sSockET | heshet|FE26
+ol __|BRASS | 10 [TERMINALBOARD | e§iitt ' [TYPE 0102
+4 [LENS | REGNAE fount mansed ) 1 [EARTH TERMINAL | BRASS ;
+5 |SCREEN  [BRASS | |12 | CABLE GLAND | BRASS 200
+BASE PLATE | BRASS 13|LEG | BRASS
+ETTING GUIDE | BRASS | 14 | NAME PLATE | BRASS
+
+NIPEIONES ENTOLREO., 51D 228 ﬂ
+
+--- PAGE 6 ---
+SIDE LIGHT(ELECTRIC) CLASS A-2 DUAL TYPE NOP23| SCALE
+DIMENSION | mm
+NO.OF TYPE  |GREEN 1754
+_APPROVAL |RED 1752
+WEIGHT _ |ca3.6kg |
+PROJECTANGLE] .
+OF LIGHT i
+
+VISIBLE |
+
+.65
+
+(OVER 3 nm.
+
+1.THIS FIGURE SHOWS THE
+STAR BOARD SIDE LIGHT
+(GREEN).
+
+2.THE PORT SIDE LIGHT
+(RED) IS SYMMETRICAL
+TO THE ABOVE.
+
+" N0SETTINGHOLE 3.FOR THE VESSELS OF
+CZ 1k e J 50m. OR MORE IN
+LENGTH,
+
+SYMBOL
+o
+b
+~3|
+[=]
+o
+BOTTOM COVEI
+ITEM_ NAME MATERIAL[REMARK [ITEM[ NAME MATERIAL[REMARK
+KNOB _8|SHELTER | BRASS .
+2 | COVER 9 [SOCKET | frShe |FE26
+i3 | BODY ~ |BRASS TYPE 0102
+4 |POLOURED LENS T ARTH | AL
+5 | SCREEN BRASS 12 | CABLE: GLAND
+6 | SITN: beBow |BRASS |- e S
+[_;E!MLTE__ BRASS NAME PLATE | BRASS |
+
+NIPPON SENTO CO., LTD. P22SE(P22PE) ii
+
+--- PAGE 7 ---
+STERN LIGHT(ELECTRIC) CLASS A-2 DUAL TYPE NOP23 | SCALE | 174~ |,
+DIMENSION | mm
+
+NO.OF TYPE
+APPROVAL
+WEIGHT
+
+JECTANGLE| 13 5¢
+
+r%or LIGHT .
+
+VISIBLE
+
+Rigz  [PVER 3nm.
+
+NOTE
+
+1.FOR THE VESSELS OF
+50m. OR MORE IN
+LENGTH.
+
+0 SETTING HOLE
+
+SYMBOL
+
+8
+
+116
+
+(463)
+
+88.5
+
+e+ /
+- "'/‘“'_‘“il:ﬁl
+
+it
+
+I
+
+: 9|
+ITEM|  NAME MATERIAL [REMARK [ITEM| — NAME MATERIAL[REMARK
+1_|KNOB .| BRASS 8 | SOCKET e |FE28
+2 |COVER BRASS . |- 9 [TERMNAL BOARD | RSt [TYPEOI0-2 |
+3 |Booy BRASS 10 [EARTH TERMINAL| BRASS |2BISA
+4 |LENS A Puers 111 |CABLE GLAND | BRASS |20b
+5 |SCREEN BRASS 12 |LEG BRASS
+6 |BASE PLATE | BRASS 13 |NAME PLATE | BRASS
+7 | SETTING GUIDE_| BRASS
+
+NIPPON SENTO CO. LTD
+
+) P22TE
+
+--- PAGE 8 ---
+3
+
+WHITE LIGHT(ELECTRIC) CLASS A—2 NO.P23
+
+SCALE
+
+DIMENSION
+NO.OF TYPE
+| APREaEE]
+WEIGHT
+IPROJECT ANGLE,
+
+OF LIGHT
+VISIBLE
+_RANGE
+
+L
+
+NOTE
+
+1. FOR THE VESSELS OF
+50m. OR MORE IN
+LENGTH.
+
+SYMBOL
+
+&
+
+234
+
+TEM NAME MATERIAL[REMARK [TEM[ NAME MATERIAL[REMARK
+
+1 |COVER BRASS 7 | LOWER BODY | BRASS |
+
+2 |UPPRE BODY |BRASS | 8 | HUNGER BRASS
+
+3 |LENS RnTe lwwsore) 9 | CABLE GLAND | BRASS |20b ]
+4 | SOCKET [y |FE s 5 TVOLEG BRASS
+
+5_[TERMINAL BOARD |#£4°C1 |TYPE0102| 11 | NAME PLATE | BRASS |
+6 [EARTH TERMINAL| BRASS [2B15A |~
+
+NIPPON SENTOiCO‘, LTE;
+
+--- PAGE 9 ---
+RED LIGHT(ELECTRIC) CLASS A-2 NO.P 23
+
+3-10 SETTING HOLE
+
+LENGTH,
+
+SCALE V3
+DIMENSION | mm
+NO.OF TYPE
+aperovaL | O
+_WEIGHT  |ca. 1.75 kg
+ROJECTANGLE 3 6 e
+
+OF LIGHT Ao
+VISIBLE s it
+| RANGE _ |
+NOTE
+
+1. FOR THE VESSELS OF
+50m. OR MORE IN
+
+SYNBOL
+
+¥
+)
+N
+x
+ITEM|  NAME MATERIAL[REMARK JITEM]  NAME MATERIAL[REMARK
+1 |coveR i BRASS 7 | LOWER BODY | BRASS
+2 | UPPRE BODY | BRASS 8 | HUNGER BRASS |
+3 |COLOURED LENS | 273wz [amiaeis) 9 | CABLE GLAND | BRASS |20b
+4 | SOCKET (e [FE26 10 | LEG BRASS
+5 [TERMINAL BOARD |™£224/< |TYPE0102] 11 | NAME PLATE | BRASS
+6 [EARTH TERMINAL | BRASS |2B15A |
+NIPPON SENTO CO, LTD. RZIRE J
+
+--- PAGE 10 ---
+RED LIGHT(ELECTRIC) CLASS A-2 NO.P 23 _ SCALESSSISHaG s 1
+
+TR SYNBOL
+
+DIMENSION | _mm
+NO.OF TYPE
+APPROVAL SIS
+| WEIGHT _ [ca. 1.75 kg
+ VISIBLE
+RANGE |
+
+1761
+
+OVER 3 nm|
+
+NOTE
+
+1.FOR THE VESSELS OF
+50m. OR MORE IN
+LENGTH.
+
+3
+8
+b !
+! |
+@ i e
+E 1 P
+va ;
+X
+0
+N
+1
+ITEM NAME MATERIAL|REMARK {ITEM NAME MATERIAL|REMARK
+1 | COVER BRASS 7 | LOWER BODY | BRASS
+2 | UPPRE BODY | BRASS 8 | HUNGER BRASS
+3 |COLOURED LENS | #% wfe Inamin s 9 | CABLE GLAND | BRASS |20b
+4 | SOCKET s IFE26 - |10 LEG BRASS
+5 |TERMINAL BOARD |™£M241¢ [TYPE0I02] 11 | NAME PLATE | BRASS
+6 [EARTH TERMINAL | BRASS |2B15A |-
+
+NIPPON SENTO
+
+P2IRE i‘
+
+Co, LTD.
+
+--- PAGE 11 ---
+SHIPBUILDING YARD | KAWASAK/ (o€ ) il CHECK m%;«d
+SHIP O, /455 SPECIFICATION IN GHECK T ZoloRres O
+CLASSIPICATION R i DATE NOV. /&, 1994
+POWER SOURCE [aeoxveom Joe v SIGNAL  LIGHT SETTLE NO. | A— /4008
+I T T t |
+G 'NO.iSYIBOL NAME (WATT DRAWING NO. QTY |[MATERIAL gsit! LAHPNOLD!!‘T!KMIIAL GLOBE |FINISH REMARKS |
+i SUEZ CANAL K6207| A9-00 GLASS BULK
+Bia @ SIENAL LIGHT | 4o ERd el otesTER :ﬁ;’. FE-27 | p20-2 | FI04 | 767,
+| (CLEAR) & (CLEAR) | (S45-632)
+i | SuEz caAL  |tGaon| T AT
+| 2 SiowaL LigaT | dow |-FHSHRRAZEO. 4 Lext | pro7 | prp-2 | F9sAR | pees7)
+! "(PED) L POLTESTER | guwpxi | - (PED) |¢Surasn)
+SUEZ CANAL  |Ke2wv 5 GIASS Bk
+| AN C 20ex | e
+[ @ SIGNAL uof)ﬂ qow | -EHR2EI=00.] PESTER | g FE-27 | 020-2 | F9ode- | 76867,
+| | (GREEN ) (EREEN) | 15532
+SUEZ CAMAL K207 2 GUASS BULK
+4 @ STERN RED LIGHT | 4pw |-EMS2TORA=00. | B e on | pao-r| FRoAR | 2687 |
+| «©) % POUESTER | 1 | (RED) | fousms32) i
+| HUGE VESSEL LIGHT | KN2XT 4 i CoFB - JLTFNP-2 x 2m
+7 @] (GREEN ‘Zg)“‘ SR | | BRASS | 0cX\ | FE-24 /$a-2p | GREEN | NATURAL /Eiffjvig_zf'izkr
+FIASHING-) | ES
+: ko207 L GLASS BULK
+b @ %L)/M 4(0\;/ MR 2Sedd e ! payester sz:;il FE-27 | 020-2 | F1°48 | p5ge
+U 2 (BULE) |(Se852)
+| PAVGEROUS K20 LYFS9R 62~ | T CoRD T HTNF-24 2m |
+¢ @ CARGO: LIGHT - §baW I875 o S iR e /| BRASS | 2oexi | FE-2b | /SA-2p | RED | NATURAL |[RSFCTVE RUSSER-
+- (PED) ) LIE SHEATH
+NOTE MATERIAL OF |PHENOL RESIN] PORCELAIN
+e
+
+LAMPHOLDER 1}7 |
+LRORESHE j
+
+--- PAGE 12 ---
+DEVISIONS.
+
+HINGE _ |BRASS
+
+SCREW
+
+BRASS
+
+COVER
+
+GASKET |NEOPRENE
+
+oL
+
+GASKET
+
+NEOPRENE
+
+TERMINAL BLK,
+
+PHENOL RESIN
+
+GLOBE FRAME | Sores BULX
+
+LAMPHOLDER
+
+PORCELAIN
+
+SIGNAL LIGHT
+FIXED TYPE
+
+40w
+
+CABLE GLAND
+
+POLYCARBONATE|
+
+GLOBE
+
+GLASS
+
+_s[roloufs|onjov ||| oo
+
+BODY
+
+PLASE BELK
+
+o
+
+NAME
+
+MATERIAL |1
+
+GODE WO,
+
+--- PAGE 13 ---
+TMARK |_DATE DEVISIONS Ton.
+@ 8
+\\
+B
+o
+©
+0
+b
+o
+65 28
+"
+" 20
+l/,,
+3-#10 FITTING HOLES
+v s
+r{la g5
+| AR T
+N
+A
+3
+APPR 1 [HINGE BRASS 1
+O|SCREW |BRASS 3 [M8
+QICOVER. 1 1t2.0 X
+BlGASKET |NEOPRENE | 1 |14.0 @
+CHKD | 7 ]G A S K € T [NEOPRENE 1 N/
+6 | TERMINAL BLK. [PHENOL RESIN | 1 | 020~
+5 [GLOBE FRAME |SHs 00X | 1 | 1P-56 | SIGNAL LIGHT
+LAMPHOLDER |PORCELAIN | 1 | FE2T ’“1“/3 FIXED TYPE 40W
+3 [CABLE GLAND | POLYCARBONATE| 2 Ve
+2]cLOBE [GLASS 1| FR0AR gy 1.9k WO
+1/e0DY TR 1 DATE 4 ST L
+X EM|  NAME MATERAL |No| wote "S- ¥ F'M s 2.5 0R,9,-.0.0]
+ROROSHO
+
+--- PAGE 14 ---
+DEVISIONS
+
+APPR_| 11 [HINGE  |BRASS
+SCREW BRASS
+COVER
+G ASKET | NEOPRENE
+NEOPRENE
+
+SIGNAL LIGHT
+
+Rchm FIXED TYPE .40W
+
+CABLE GLAND
+GLOBE
+
+NAME. MATERIAL
+
+xoxos M
+
+--- PAGE 15 ---
+DEVISIONS
+
+HINGE BRASS
+SCREW BRASS
+COVER
+
+GASKET |NEOPRENE
+GASKET |NEOPRENE
+TERMINAL BLK,
+GLOBE FRAME |35 £
+LAMPHOLDER | PORCELAIN
+CABLE GLAND
+GLOBE
+BODY
+NAME MATERIAL
+
+--- PAGE 16 ---
+SCALE
+DIMENSION
+
+FLASHING LIGHT GREEN CLASS B TYPE NFGB-P2l
+HUGE VESSEL LIBHT
+
+VISIBLE
+RANGE
+
+NOTE
+
+1. A LIGHT FREQUENCY
+1S 180 FLASHES PER
+MINUTE
+
+, @
+
+ITEM[  NAME  [MATERIAL | REMARK [ITE NAME MATERIAL| REMARK
+T [coveR BRASS FUASHER T
+2 |UPPRE BODY_| BRASS | OWER BODY | BRASS |
+3 | COLOURED LENS imgg"f‘g, E BRI HANGER BRASS |
+
+4 | SOCKET | nes - |FE 26 ] 10 | CABLE GLAND | BRASS | 9pc x/
+5 [TERMNALBOARD | FHENOT™ [TvPECD2| T1 | LEG BRASS B
+p 6_[EARTHA]§_@\_MN5L BRASS | 2815A | 17 |NAME PLATE | BRASS | 3
+
+MR
+
+--- PAGE 17 ---
+TR Fm T T T |
+
+S CREE N |CUPPER 1
+11 [HINGE  [BRASS 1
+10 [S CREW .|BRASS 3 |M8
+
+OlcoveER [SANEES. TT (120
+G ASKET |NEOPRENE [t4.0
+G AS K E T [NEOFRENE
+
+TERMINAL BLK. [PHENOL RESIN
+
+020-2
+
+1P-66 | STEERING LIGHT =
+FIXED TYPE _ 40W
+
+4
+
+3 |CABLE GLAND | POLYCARBONATE
+2 [GLOBE [GUASS
+500  [EERRAT
+NAME. MATERIAL
+
+FSOAB gue TE
+
+1
+1
+1
+1
+LAMPHOLDER - | PORCELAIN 1 |FE27
+2
+1
+1
+
+NO.
+
+NOTE 1% ‘i:_‘“fr%“R 2501579 -—‘0 [¢]
+KOKOSHD
+
+--- PAGE 18 ---
+FLASHING LIGHT RED CLASS A TYPE NFRA-P2
+
+DANGEROUS CARGO "LIGHT
+
+VISIBLE
+RANGE
+
+NOTE
+
+1. A LIGHT FREQUENCY
+IS 120 FLASHES PER
+MINUTE.
+
+LYFS9Rb2-36 !
+
+ATERIAL] REMARK [ITEM
+
+NAME _ MATERIAL| REMARK
+
+BRASS | 2P15A | 12 | NAME PLATE }BRASS
+
+1 BRASS 7 | FLASHER ‘ —
+
+2 BRASS 4 |LOWER BODY | BRASS
+
+3 | COLOURED LENS | oo | nenmhoss| 9 |HANGER . | BRASS | -
+
+4 Peic FE 26 |10 [CABLE GLAND [ BRASS | 20C x{.
+5_[TERMINAL BOARD| REHE™ [TYFE010-2[ 11 | LEG BRASS
+
+6
+
+R
+
+MM SR o
+
+T R TP T R
+
+--- PAGE 19 ---
+MESSRS \
+
+SHIPYARD KAWASAKI HEAVY INDUSTRIES, LTD.
+
+KIND OF SHIP
+
+SHIP'S NO. 22N1456
+
+SHIP' S NAME
+
+FINISHED DRAWING
+APR., 23TH 1996
+
+SUEZ CANAL SEARCHLIGHT
+
+S},}ﬁ S{EHAINE B bk a kT
+
+SANSHIN SENPAKU DENGU CO., LTD.
+
+DRAW. DATE NOV. 17TH 1994
+DRAW. NO.
+
+TEL:03-3295-1831
+FAX:03-5259-7162
+
+--- PAGE 20 ---
+INDEX MESSRS SHIPYARD SHIP'S NO. A% [2eNiass |
+KAWASAKI HEAVY INDUSTRIES, LTD.
+BEEHZE & X X & M AT SHIP’S NAME M &
+NO. NAME TYPE DRW. NO. VOLTAGE] CAPACITY GLAND GLOBE LAMP ’TY| FINISH | REMARKS
+HOLDER | |
+|
+; £ " BARURE | B & | E|s5 ®|rwv (e | oo gel 2w 6 x|
+1 | SUEZ CANAL SEARCHLIGHT SCS-50PS_— | 3A00522 | AC220V | 3kW 256x1 619 1| 7.5867/2
+2 | INTERLOCK CONNECTION BOX RSN3-2 4A00443 | 550V | 304 250x1 1 Do.
+
+br-d
+
+--- PAGE 21 ---
+e
+R e [izava ] | i
+{ *| Phowr reame |Snmcaae waee | 17 | |
+m w7 2 (mEzsz |, | 1
+| Pont ks Pbenes sass |
+3 B  xrivz |
+g Soor Tramwiess srues
+o8 " [} e, AL
+Torvecron Fver
+E-ramnsra | 7z/-Aum r
+et Bl
+Toz7amnsre 2z -ram |,
+|7 | CAMP cHANGING HANGLE | PHENGL RESIN [WITH SWITCH|
+B * R 2 |
+Serina nanoee | sk |
+e W S AR r
+12| Borvonring amut | Kinamian atsov
+NEY LI , 1
+{10 & R e |
+WE. & & [zrzsw .
+1" sase Al ALLOY CASTING.
+[[eammnzrn |z27zvcz e
+|72 Tummig coame wanote | ramisas stee | |
+I lsmraeoe | e o
+3| Samaccuae | (R i)
+azars i e T 1
+res300 | Barers e | |
+|® % & - 2 | |orrion
+14| bt v | 1 Joemo
+apsuicanLe Lamp casryne casie exuaust Hose
+= [No] vourace (v caracrrviwi] [N enaTH(m)] REMARKS [No LenaTH (m | sEMARKS
+| KNI 100 1 3 STANDARD 1] 0 STANDARD
+| FRNRIT) so0o |zl 5 formen ] [Z] [orrion
+ST s
+] PR
+5 100 SYMBOL
+i AR o
+7 s ss])
+—~[8] 220 Tﬁ
+NAME OF MATS | MATERIAL | o | REARKS [No| NAME OF mARTS | WATERAL | o] SEARKS
+wn oot | 2 aperoveD 37 | w8 CrecKeo 3 | 54 e
+@G 50 kg | | 2z XZAREMT
+= e e e SUEZ CANAL SEARCHLIGHT
+DEGREE OF PROTECTION : IP56 nie {Fesara) | [5% nooeLre sca-sars
+= = B =
+e L L et e aeas |
+o5 sanmrins sanmAKU SenaU co.ra | 3A005 |
+
+--- PAGE 22 ---
+6loumo cover 700 PLUG
+S [LAMP SCREW  |STAINLESS | 6 PUATING |11 FARTH TERMINAL
+ockeT-outteT | ———— | 1 |Shan ) [iofaBLe GLan
+GASKET G AN TERMINAL BOARD
+COVER STANCESS Ty PanTinG | 8 [switc HanoLE
+BODY 5510 pantinG | 7 switcn
+NAME OF PARTS MATERIAL ALOUAN REMARKS [No MNAME OF PARTS l MATERIAL
+
+RM® SCALE
+
+oW WEIGHT
+2.75 kg
+| *# PAINT
+
+MR APPROVED BY
+
+Y DESIGNED BY
+
+M CHECKED BY
+
+I ORAWN BY
+
+A TITLE
+INTERLOCK CONNECTION BOX FOR
+SUEZ CANAL SEARCHLIGHT
+
+mm
+
+] TOYODA g | Mt MODEL N RSN 3-2 3
+G UNITS =1{E e ERE k=t EMIMT DRAWING No.
+
+SANSHIN SENPAKU DENGU CO.LTD.
+
+. 4A00AL3 ‘ ]
+
+--- PAGE 23 ---
+SE-1548
+
+Rom X GE ] IR B KT
+SUEZ CANAL SEARCHLIGHT
+
+HR 5% Bt AH W&
+
+AR L IR B g O I il R T 1) MIAIN U AGES
+
+MODEL :SCS-60PS
+
+=AM TE B ks N=x vt
+SANSHIN SENPAKU DENGU CO.,LTD
+TOKYO JAPAN
+
+--- PAGE 24 ---
+FORWARD
+‘This instrument is used for vessels navigating through the Suez Canal at night,
+and is designed and manufactured so as to comply with the Suez Canal Navigation Rule
+In order to meet the capacity required by the Rule, full consideration is made in
+such details as optical efficiency, vaterproofness, anti-corrosiveness,
+virbration-proofness and operational capacity.
+Furthermore, in order to make it moved or conveyed more easily, it is small-sized
+. and |ight-weighted.
+For the sake of exploiting the capacity of this instrument more surely, you are
+
+cordially solicited to use it after reading this instruction.
+
+1 Installatlon - of SearchHilght
+O Whenever a Suez Canal Searchlight is installed aboard a carrier of petroleum,
+LPG, LNG or other inflammable material, or a vessel from which gas has not been
+
+freed, install it at a well-ventilated, safe location avoiding dangerous areas.
+
+--- PAGE 25 ---
+2.
+
+Lamp setting
+
+Remove the front glass frame.
+By
+
+Insert the lamps Into the sockets,
+
+set the lamp to the center of
+
+reflector, and then fasten.
+
+As illustrated on the right figure,
+
+Pront glass
+frame
+
+install the lamps so as to set their
+
+silvery reflection faces back to back.
+If set contrary, the illumination will
+be made only by the light of lamps failing to reach afar. In such a case,
+
+it dose not work as a Searchlight. Please take care of this thing.
+
+spdid ting of llght beam
+Turn the operation lever in rear under of the light body to the SINGLE BEAM
+side, and the light beams will be parallel.
+Turn to the SPLIT BEAM side, two crossing beames will be illuminated with a
+0°~10"dark sector at the center. Thus the instrument will serve as a
+
+Suez Canal Searchlight.
+
+Dark Q'O
+sector
+
+SINGLE BEAM SPLIT BEAM
+
+Lamp Change—-over
+Yhenever a lamp burns out, you may switch over
+to the spare lamp by turning 180° the change-over
+handle under the Light body.
+Set the change-over handle at center, and the
+
+switch will turn off placing the pover at OFF status.
+
+--- PAGE 26 ---
+5. Exhaust
+O Since the light body is tightly constructed, the exhaust of internal hot air is
+designed to be led to the sea level by fixing a exhaust hose onto the device
+
+with a safety valve in front under the light body.
+
+Gross-sectional view of the Searchlight
+
+Front frame
+
+Bod
+
+Reflector
+
+Elevating
+clamp
+
+Cabtyre handle
+—coxd_
+
+\ Bean
+s aplitter Exhauation
+change-over hoes
+handle
+
+Tuentng B Outline of lamp
+clemp hendle ~ : AR e
+
+Suez Canal
+Searchlight
+Type
+
+appl iance Remarks
+
+Voltage | Capacity
+w w) lamp
+
+2000 A100V 2000W
+
+Standard lamp for
+110 2000 AL10V 2000W General Searchlight
+
+Type-40
+115 2000 ALLSY 2000V‘J
+
+A220V 2000%
+
+2000
+
+3000 2100V 3000%
+
+5CS-50
+110 3000 2110V 3000¥
+
+Exclusive use
+
+3000 Z115V 3000%
+
+2220V 3000V
+
+[EORTR FTUe S o U O STy A, i
+
+--- PAGE 27 ---
+MESSRS
+
+SHIPYARD KAWASAKI HEAVY INDUSTRIES, LTD.
+
+KIND OF SHIP
+
+SHIP' S NO. 22N1456
+
+SHIP' S NAME
+
+FINISHED DRAWING
+APR. 23TH 1996
+
+PORTABLE DAYLIGHT SIGNALLING LAMP
+
+fitAn B Btk A=tk
+
+SANSHIN SENPAKU DENGU CO., LTD.
+
+DRAW. DATE FEB. 23TH 1995
+DRAW. NO.
+
+TEL:03-3295-1831
+FAX:03-5259-7162
+
+--- PAGE 28 ---
+SHIPYARD SHIP'S NO.
+
+#E | 22N1456
+
+KAWASAKI HEAVY INDUSTRIES, LTD.
+
+& fa AR
+DRW. NO.
+
+SHIP'S NAME #8 %
+~ [ LAMP
+
+CAPACITY FINISH | REMARKS |
+
+TYPE VOLTAGE
+
+; HOLDER
+; & # BARUEE | @ & |® E|® ®|rwr|roer | vy BE 2 ¥ (O
+1 | PORTABLE DAYLIGHT SIGNALLING LAMP SPS-10A §5-41186A DC 24V | 60W | 1 { BLACK
+2 | DAYLIGHT SIGNALLING LAMP CASE BOX-1C 4400706 1 {Do.
+2| 7.5867/2
+
+3 |N.W.T. FLUSH TYPE SOCKET-OUTLET RE-254F ﬂSS-MQB(‘M 24V 54 $15x2 |
+
+--- PAGE 29 ---
+Col. NO| DLUP-41l86 J
+
+ABOUT 170.6
+
+(ABOUT 186.¢
+
+3 @' 14) 3
+
+T )
+
+> -
+
+3
+
+| @
+
+12) (13 & 15 et
+16
+
+2
+
+13 |REFLECTOR GLASS Fere
+
+e mm;‘cu. A‘/t\iglvmuu ol
+
+1 N LAMP o 1
+
+10 ETE ""g"“‘"’% RUBBER | | o
+
+9 PACK-SIGHT | STEEL PLATE | |
+
+8 Fore-siaHT [arter oM | o NAME.
+
+7 SIGHTING ALUMINIUM I MARINE PORTABLE DAYLIGHT SIGNALLING LAMP
+
+T T e P e W B S T
+
+5 FRONT GLASS | GLASS | 1oy 0 g|SFSEVOR “le s p ACITA Bow
+
+4 {nom FRAME _gﬁ:‘)’v’"“" \ I T IbrAWING NO|S5- 4 1 1864
+@ | 3 kcLamp scrRew| BRASS CHIE Flrkitazawa [SC A LE '/a
+| e R g qu(cxm 8|5 noxi WEIGHT 3.0 ko
+9 [ NeurraL pirenaUBINIUR |  [orawin r|v nawiTa D A T EluL 1984
+
+NO |NAME OF PARTS|M ATER I A LQUAN| REMARK S [SANSHIN SENPAKU DENGU CO.110
+
+--- PAGE 30 ---
+CABTYRE CORD DAYLIGHT SIGNALLING LAMP
+
+SPARE_LAMP
+
+LIST OF CONTENTS
+
+S APPROX .
+HAME QTY. | WEIGHT(kg)
+DAYLIGHT SIGNALLING LAMP
+WITH CABTYRE CORD 10m 1 3.0
+
+AND PLUG
+
+LIGHT REDUCING FILTER
+
+SPARE LAMP
+
+STEEL
+PLASTIC
+
+DAYLIGHT SIGNALLING LAMP CASE
+
+W& ORAWN BY
+T.Toyoda
+
+SlEmmER Rt
+
+SANSHIN SENPAKU DENGU CO.LTD.
+
+Wi MODEL No. BOX - 1C
+DRHRS DHAW!NG No_
+
+4A00706
+
+--- PAGE 31 ---
+CONNECTION
+
+SOCKET-QUTLET
+
+_AsOT gg
+
+DIAGRAM
+
+O
+O]~
+
+TERMINAL BOARD
+
+NAME  FLUSH TYPE SOCKET-OUTLET FOR
+
+PORTABLE DAYLIGHT SIGNALLING LAMP
+o Jovsns e = e IR F IR FNT FSEA LT 7 P IL
+5 [remanad sonno = ' soovzoaze [T Y P E[me-zsar  [CAPACITY[ 24v 3
+o [recermce | conass) + ws-zsm [Mo0E NO prawiGro[ss 41
+s [ccams scnew | onass 2 [Ma CHIEFlruimazawa [SC A LE Va
+2 '(ovu STEEL pLATE RS = CHECKED BY|y.a0x1 WEIGHT[*®T o4 kg
+v [wox STEE Pate | 1 | ouwring |DRAWIN BY|v. faiira |0 A T E o, 1984
+NAME OF PARTS|MATERIALIQUAN] REMARK S [SANSHIN SENPAKU DENGU CO.110.
+
+--- PAGE 32 ---
+SE-1513
+
+i FHOIE RS N2 A& RS AE S 4T
+PORTABLE DAYLIGHT SIGNALLING LAMPS
+
+Hx % ® vl
+I NSAD BLE -G T OB, MANUAL
+
+MODEL :SPS-10A, SPS-10B
+
+EARANTE FA =
+SANSHIN SENPAKU DENGU CO..LTD.
+TOKYO, IAPAN
+
+--- PAGE 33 ---
+1. Specifications
+
+Model SPS-10A SPS-108
+Rated voltage 2 uv 1y
+Applicable lamp 24V 60W halogen lamp | 12V 60¥ halogen lamp
+Max. luminous intensity 60000 cd or more
+»-~B”n ang]e i 6° or more
+?;:;::ngathins d’i’sl;n; 2 nautical miles or more
+Signalling lamp 2.55
+Hﬂ:r”d“i” 0.05
+Weight (kg) | Spare lamp 3 0.023
+Case—wm 2.50
+Total 53123
+i Magnification Approx. 4
+Telescope [
+View angle Approx. 3°
+¢ Degre‘: of protection > P44
+
+2. Power
+
+2.1 Case where DC of in-ship power is used
+A receptacle matching the vlllx attached to the signalling lamp shall be
+installed.
+
+2.2 Case where DC and AC of in-ship power is used.
+A switch hox which can convert the power into DC and into AC shall be
+installed.  And on output side, a receptacle maching the plug attached to
+the signalling lamp shall be installed.
+
+3. Method of operation
+
+3.1 Signal operation
+
+(1) Connect signalling lamp cord (D to power supply.
+
+(2) Hold grip @ at hand, then grasp switch lever 3 with hand simultaneously,
+thus lamp Iit.
+
+(3) Turn lamp in the direction of receiving side, then collimate it with either
+one of sighting telescope @ or
+
+(4) Operate signal lever ©, then 1ight beam is discharge for signal transmi-
+ssion.
+
+3.2 Lamp replacement
+
+(1) Loosen clamp screws (D), Lhen removed front frame @.
+In this case, be careful not to damage refrector, since it comes out with
+the front frame.
+
+=
+
+--- PAGE 34 ---
+(2) While pulling signal lever @, remove lamp @.
+(3) Insert spare lamp into socket.
+3.3 Focusing adjustment
+
+In focusing adjustment, project light of signalling lamp on a screen or
+wall, measure width of light beam for the adjustment. In controlling
+scattering of light beam, turn focus adjusting knob @0. The following tabl
+indicates dimensions corresponding to beam angle of 6 degrees.
+
+Distance (m) 10
+
+Width (m) ¢ b 1.05
+
+3.4 Signal operation during night time
+In signal operation during night Lime, apply nentral filter GD on front
+glass of signalling lamp with clamp screw @ before application.
+Method of signal operation is identical to the above 3.1.
+
+3
+10
+2
+8
+1
+7
+
+4. Precautions of Halogen lamp
+(1) Lamp bulb not be handled with bare fingers as skin oils cause bulb deter-
+ioration.  If the bulb is touched, wipe-clean with a cloth and alcohol
+(2) To avoid risk of hurns or personal injury, never insert lamp into a live
+socket.  Make sure switch is OFF
+(3) Don’t bump or bounce.
+(4) Don’t touch lamp when it is ON as the temperature is considerably high
+
+P R

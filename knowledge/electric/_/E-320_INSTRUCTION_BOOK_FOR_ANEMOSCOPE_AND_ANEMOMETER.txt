@@ -1,0 +1,940 @@
+FILE: E-320 INSTRUCTION BOOK FOR ANEMOSCOPE AND ANEMOMETER.pdf
+FOLDER: .
+DATE: 2026-03-06 22:00:53.201616
+==================================================
+
+
+--- PAGE 1 ---
+WG Na
+
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+MANAGER
+CHIEF
+
+CHECKED
+
+DRAWN
+
+ANEMOSCOPE AND ANEMOMET
+
+DATE § A Vg
+
+INSTRUCTION BOOK FOR
+
+This lechnical
+
+Ld (IO and may
+
+document is the property of
+any third party
+nt
+
+_ | scaLe JOBNO
+
+KAWASAKI HEAYY INDUSTRIES, LTD.
+
+SHIP DESIGN DEPT, SKIP GROUP
+
+1456
+
+3T e e ED g
+
+-
+
+KAWASAKI HEAVY INDUSTRIES, LT
+
+--- PAGE 2 ---
+MESSRS.
+
+AT T R 2
+KAWASAKI HEAVY INDUSTRIES,LTO. ki
+
+I®%% WORK NO.
+
+wes suie no. 1450
+
+B @ B & &
+WIND INDICATOR
+
+FINAL DRAWINGS
+
+KEmEMBAMR ST
+
+ARHGEXFREITAL-S
+
+TAEANR (06)58L-8121% (&)
+FAX. (06)584-2344
+
+OSAKA NUNOTANI SELK! CO.,LTD.
+
+1-5 3-GHOME GHITOSAK) NISHIKU OSAKA
+TEL. (08)581-8121 FAX, (08)584-2344
+
+--- PAGE 3 ---
+| oe-3969 |
+
+% K — R &
+COMPONENT LIST
+B g f}
+SHIP NO, 1456 DATE | '95. 8.29
+&z | BoW R @ |
+NAME OF DEVICE WIND INDICATOR
+TR MASS ks
+M &% £ 7 [liE= BEE
+NO. | DHG NO. NANE OF COMPONENT NO. F OEIE R COLOR
+REQ. | APPROX | ACTUAL
+#® 4 ® |
+1 | WI0-4681 | CONNECTION DIAGRAM
+R & B =
+2 | WI2-4063 _4 TRANSKITTER 1| 4 4 75B67/2
+4PN)
+H g
+3 | WI3-4301 RECEIVER(WIND DIRECTION) 1 4.8 5 [s]eN
+e FL200SEL )
+B o2 &
+4 | WI3-4301 |RECEIVER  (WIND SPEED) | 1| 4.8 | 5 [aleX
+(FLZOOSEL)
+H 2 K
+5 | W15-4109 | RECEIVER DIAL 2| — | —
+IR i
+6 | WI3-4373 , | RECEIVER(WIND DIRECTION) 1 1.5 | 15 BLACK
+(FE100)
+R & .
+1 W13-4374/ RECEIVER (WIND SPEED) 1 1.5 1.5 H DO.
+(FEL00)
+H B &
+8 | WI5-4110 RECEIVER DIAL 2 —_— e ——
+¥R &R () |
+9 H16—4227/ SPARE PARTS LIS(T (B0X) ) 1 3 3 {
+5-3
+
+e
+
+--- PAGE 4 ---
+TROMS A TP
+
+COMPIRRD S
+WHEEL HOUSE NAVIGATION CONSOLE
+
+i i
+|
+i
+| ;
+|
+| Eanre
+| 26w | 4 . ztw !
+:akn ;* sKn !
+| tow 10w !
+| 3k Py 1
+: uIvTL\u v[i]e[7 }
+| |
+
+N
+Ac220y {¢ 60Hg
+G 7e _ &e
+
+L Ac220V {4 60Hz2
+
+TERMINAL BCARD
+ite (SHIPYARD SuPPLY)
+Sy~ P 7))
+W/ FRONT IND. [PANEL CARGO CONSOLE
+KECESVER RECE /Y ER RECELVER )FE‘C‘S/VS‘/E .
+2O &L FLEERSE L FEoe? A&
+o, S, w. D,
+i i
+L
+S| HOA
+R |
+f
+il
+\
+| Slesle[7]v]e sz gleis|sl
+4C /7N, 7e —{>
+g7 |
+N B o TRl BGIRD
+TERMINAL BOARD (smrtoms Sy )
+(SHIPYARD SUPPLY)
+= JOPeT
+CONEE TV DA
+Pl d
+b . WND T
+P—— DO,
+
+3A2—28
+
+--- PAGE 5 ---
+NO. HAME OF PARTS .?gg]_ HATFRIAL REMARKS
+1 | PROPELLER (72 N F )| 1 | PLASTIC F3A4r]
+2 | GENERATOR COVER (A% 11 )| 1 | ALy pmarinig [AGTA-F |
+3 | BODY GASE (4% 7-2 |1 [ AL 0R ke Tine [acTa-F
+4 | TAIL WING (& ¥ )1 | eustiec Fyrt
+o ALUMINTUM I o
+5 | STAND (29 7K1 100y cASTIHG [ACTA-F |
+6 | TERMINAL cOVER CHFEEAE L [A*URINY . |asosap
+7 | EARTH TERMINAL ( 7-Z 3 F )1 | STAINEESS)  Isusaoy
+- ATORTNIG p
+8 | GLAND C7 5> 1 |aioy casTimg|ACTA-F [N0. 25b
+138 36744
+. 1
+Q
+)
+&
+-
+° VIEW £3, A-A
+3 \,LQ" —
+j=]
+Q
+e
+BOW
+ol A !
+=
+0 i
+! ( ]
+T o | T ~
+1A TYPE 4PN
+N SRR T ST TER
+u"’d& ‘ Mﬁ/W)‘ MMI FOR WIND INDICATOR
+a {i 45 ELEDELEST RiEB
+DATE SCALE (R | T
+. AEBEMBRR A% [ S5 (R Jows o )
+(naj 199009718 OSAKA NUNOTAN) SEIRI CO..LTD. \ia V‘Ef | wil2-4063
+
+SRR
+
+--- PAGE 6 ---
+NO| NAME OF PARTS NA MATERIAL AEMARKS
+PQINTER A — % i
+
+1 1
+2 | POINTER _ cxg_ #t3] 1 — T
+3 | SET SCREW (Mgt )| 6 |BRASS ROD le360480]
+4 | cover Gy |1 | ATSNaTinG [ACTASF
+5 | INDICATOR DIAL(H & &)| 1 [PLASTIC 73847
+5 | EL_PLATE CEL &1 — h—
+7| 8ooy. R 0] 1 | AR Bing ACTA-F
+8_| COVER 195 1231 -00 -
+9 | corD & — —  hwen su@i
+10_| EARTH TERMINAL cffse % %) | 1 | BRASS ROD  |C360480
+11 | TERMINAL o F B [1 — — D[S F 8813
+158
+40 16Q 18
+| S S
+4
+
+$250
+
+4
+6~55 XRE11TI5 R
+FITTING QIMENSIQNS s-l/g 34
+CRAKE G RTRE)
+g NOTE :
+I Pointersfor Wind Direction and Wind Speed
+
+indicates their 0" position
+
+faat: BH BE K 0 B LR LET.
+
+2.The actual indicators consists of two
+separate indicators, one for Wind
+Direction and one for Wind Speed
+
+X / Reiet AU KRS & 78 0 $i5F 0 550437,
+S 6-=MS TAP (742
+
+TYPE FL200SEL
+8200 RECEIVER
+
+FOR WIND INDICATOR
+AmARY EiE
+
+DWGE.NO. |
+i | W13 4301
+
+AEFSREALHY
+OSAKA NUNOTANI SEIKI CO_, LTD.
+
+3A3-23 S W
+
+--- PAGE 7 ---
+WIND OIRECTION
+
+(KAt
+
+wino seeen  CHREED)
+
+50 80 79
+40 oo secen 80
+
+COLOR_ SCHEME (& X 4)
+
+GROUND (R@E &) | WHITE a_&)
+LETTERS (X% BLACK (£ &)
+LINES ( 4% BLACK (2 B)
+OTHERS (¥ n ) BLACK (2 &)
+MATERIAL (S8 PLASTIC (732 F,7;
+
+EL PLATE —QRANGE
+
+[ S L) A T RECEIVER OIAL FOR
+M’ 4 | WIND INDICATOR
+— | =k S 7 | masaEsr BEMR
+DATE EXE®S
+
+SCHE (RE)
+
+esuu HUNDTANY sEm co 518
+
+wis-4109
+
+--- PAGE 8 ---
+DATE
+[ ]-1]
+
+COLOR
+<
+
+2 B &)Y/
+
+PANEL CUT 5=
+
+CRARRy RIRD)
+
+4-#58SET HOLES
+
+£
+NO. | NAME & A S e r ms
+{1 FonTER (i #0 | | | akaem
+1| SETSCREW (gmpaey) | ¢ | Co60480
+1 | coven ERERIER S
+4 | sooY C (f )| 1 [acTaF
+s | SET BOLT  (gegwh) | | <36048D] Msx0s
+& | SET SCREW (gpayxs | ¢ | c3s048D 1
+IRl
+8 [ verminAL BoaRD (BT 1 R
+' 13
+1o i
+L2 4
+§_ .
+HE E k)
+
+TYPE |FE 100
+
+AMESHNEI 2N
+OSAXA WUNOTANI SEIKI C0., LTD.
+
+T20° RECEIVER FOR
+WIND DIRECTION
+
+3A3-28
+
+D%G. NO,
+
+--- PAGE 9 ---
+- VERARRS
+NO. | NaME % %:@w B | o+
+T [ronTER i f] 0 |
+R
+
+7 | DAL 4 g K| ! W‘,
+
+1 | cover DR )
+
+¢ |SET SCREW (g4t xy)| 4 | C36048D | MS
+
+5 | 8o0Y (& 1| 1 |acmr
+
+5 | TERMINAL BOA ) IE S
+. B0RRD (IB] 1 55T
+
+|
+
+®
+]
+|
+
+1209RECEIVER FOR
+WIND SPEED
+
+(m? /20"4! 13 4)
+
+ARGARY RAR
+0SAKA NUNOTANI SEIK} CO..LTD.
+
+3A3I-28 2.7 e
+
+--- PAGE 10 ---
+WIND OIRECTION  (E.A13)
+
+50 €0 70
+D‘*G o seeen 80
+
+COLOR _SCHEME (&L 4)
+
+GROUND EEB) | WHITE & &) |
+LETTERS (X &) 8LACK Z &)
+LINES ( #% ) BLACK X Z)
+OTHERS (¥ndz) | BLACK (2 &)
+MATERIAL (€8 PLASTIC (732F.7)
+
+[ AN geX T oo RECEIVER DIAL FOR
+
+y o A WIND INDICATOR
+— —_— o » -
+
+W NE rpp | RasEsr BER
+
+DATE SCALE (RX) OWG.NO.|
+
+el 1985017 AMEEMY MK}
+
+0SAKA MMGTANI SEIKI CO..LTD,
+
+- &5 WI15-4110
+
+--- PAGE 11 ---
+___BOXNO.____ P
+
+v | ACCEGSRB Y akrs s ron use sers pea
+|
+1456 ‘) WIND INDICATOR L
+LY
+QUANTITY REMARKS
+em NAME OF -
+NO. PART OUTLINE PER bER SPARE]|
+SET | VESS
+| CALGULATION
+1 SCALE - 1 - IN CASE
+T H iR \ P2 —
+; 2
+GOVER GLASS |
+2 2 2 1 FOR#200 RECEIVER
+| @ »7x P
+; -
+§RUBBER PACKING i
+3 , 2 2 1 FOR#200 RECEIVER
+N P [
+|
+|
+| ~
+]
+! - —]
+|
+|
+| i
+|
+- S
+o
+[
+SPARE PARTS BOX ;10 1 MATERIAL ; 8841P
+Vs - -
+| TR I e
+MER'S NAME OSAKA MINOTANT SEIKE C0.,LTD. oRW. NO. VI6-4227
+
+1A3-68
+
+e 1w
+
+--- PAGE 12 ---
+INSTRUCTION BOOK
+FOR
+WIND INDICATOR
+
+WINDMILL TYPE
+ANEMOMETER / ANEMOSCOPE
+
+4PN series
+
+OSAKA NUNOTANI SEIKI CO., LTD.
+
+--- PAGE 13 ---
+. OUTLINE
+
+. ASSEMBLING AND INSTALLATION -
+.1 Attaching Propeller
+.2 Installation of the Transmitter
+.3 Connection
+. TROUBLESHOOTING
+.1 Indication of Wind Speed
+.2 Indication of Wind Direction
+
+. MAINTENANCE
+
+P = T T T A A N A
+
+CONTENTS
+
+1 Constitution
+PERFORMANCE
+1 Wind Speed
+
+2 Wind Directien
+
+OPERATION PRINCIPLES
+
+1 Wind Speed
+
+2 Wind Direction
+
+CONSTRUCTION
+
+1 Transmitter
+
+Receiver
+
+1 The Integrated Type
+
+2 Separate
+
+Luminous
+
+L )
+
+Liehting
+
+5 Connection box
+
+SERVICE NETWORK
+
+--- PAGE 14 ---
+1. OUTLINE
+
+This windmill type wind indicator ( anemometer/anemoscope ) with wind speed
+/ wind direction indicators consists of a transmitter and a receiver.
+
+When instailed on board a ship, the unit measures relative wind direction
+and relative wind speed for indication. ( When used on land, where the unit
+is at a stand still at all times, the direction and speed of wind indicated
+on the unit can be regarded as the true wind direction and velocity. )
+
+Calculations to obtain true ( to the ground ) wind direction and speed from
+the relative values are generally done using the calculation board.
+
+For detail on how to use the calculation board, refer to the attached inst-
+ruction manual.
+
+The transmitter sends out the wind direction / speed signals to the recei-
+ver. The receiver, receiving those signals fed from the transmitter, indi-
+cates the wind direction and the wind speed values. They are connected with
+cables.
+
+1.1 Constitution
+
+The unit consists of the folliwing.
+
+(1) Transmitter 1set
+(2) Integrated type Receiver 1set
+Or, a separate indication type receiver, consisting of Iset
+
+each of the wind-direction indicator and the wind-speed indicator.
+(3 Spare Parts 1set
+
+Besides the above-shown standard components, any the following optional
+componeats is available on request.
+
+{1} Luminous instensity controllor ( dimmer resistor )
+
+Junction for the cable connecting the
+transmitter with the receiver,
+
+{2} Connection box -~
+
+{8) Recorder -
+
+Far recording the wind direction / speed
+date.
+
+(4) Signal Converter -~ For outputting wind direction / speed
+signal to the externally comnected ( like
+computer efc, ).
+
+{5) Abnormal wind speed alarm -~ For outputting an alarm in case of an
+alarm in case of an abnormally high wind
+speed exceeding the setting value,
+
+--- PAGE 15 ---
+2. PERFORMANCE
+2.1 Wind Speed
+(1) Wind speed measurring range :
+
+Within * 0. Sm/s
+Within +£5% of th
+
+2~60 m/s
+
+up to the wind speed of 1 Om/s
+e measured values when the
+
+wind speeds are over | Om/s
+
+{2) Minimum wind speed required for ope:
+2.2 Wind Direction
+
+{1) Wind direction measurring range :
+
+{2} Acouracy : ,
+
+{3) Supply voltage +
+
+3. OPERATION PRINCIPLE
+
+Measurement of wind speed is done on ti
+direction is done on the synchros.
+3,1 Wind Speed
+
+As the propeller for the transmitte
+
+2n/s
+
+ration :
+
+Within the range of 3 6 0deg.
+Within * 5deg.
+
+100V ~115V AC single-phase 50/60Hz
+(or 220v AC)
+
+he generator system, and that of wind
+
+er rotates by the wind, it causes the
+
+internal smoll-size AC magnet generator to turn.
+
+Number of revelutions of the genera
+electromotive force, and the wind s
+revolutions of the propeller,
+
+This means thst the electromotive f
+wind velocity,
+
+Bccordingly, actual wind speeds can
+corresponding to the different spes
+vol tmeter,
+
+( Reference )
+
+The electromotive force obtainable
+the 4PN Type, respectively.
+
+( In unloaded condition and wind is
+
+TRANSMITTER #1£3.
+
+Bk 3
+
+g
+
+=]
+
+iro
+
+tor is proportional to the resultant
+peed is proportional to the number of
+
+orce created is proportional to the
+
+be indicated if a calibrated dial
+d is provided for a rectifier type
+
+with generator is 46V AC L1V for
+available at 60 &/s )
+
+RECEIVER # 15 %
+
+Fig.
+
+——
+
+1
+
+--- PAGE 16 ---
+3.2 Wind Direction
+
+AC
+
+An AC synchro is used for measuring wind direction, It utilizes the
+property of the synchro that can convert the mechanical changes in the
+angles into the corresponding electrical signals for the telemetric
+indication of the measured values, The synchro is composed of the single
+-phase primary winding { the rotor ) and the 3-phase secondary winding
+( the stator ).
+
+When the shaft of the synchro at the transmitter side is oriented in
+the same direction as that of the shaft of the synchro at the receiver
+side, the value of voltage induced af the synchro at the transmitter
+side is egual to the voltage to be induced in the one at the receiver
+side, hence no current is allowed to flow in the secondary winding.
+
+( Refer to Fig 2 ) Therefore, no rotating force is created in this case.
+If the shaft of the synchro at the tramsmitter side is oriented in the
+direction different from the direction of the shaft of the synchro at
+the receiver side, then, the voltage induced at the former is not equal
+to the voltage induced in the latter, hence current is allowed to flow
+in the secondary winding. ( Refer to Fig.3)
+
+As a result, a strong rotating force is created in the receiver due to
+such current flowing in the secondary winding, creating a forque which
+acts to bring its shaft to the same direction as that of the receiver
+comes to a stop ab the point where it comes to align with the shaft of
+the transmitter, Through the follow-up motion of the synchro at the
+receiver side to thst of the one at the transmitfer side, both the
+transwitter and the receiver align with each other.
+
+Edhen THANSMITTER
+
+52
+
+= e
+NONCLEFENT
+wivg reva
+
+Fig. 2 Fig. 3
+
+--- PAGE 17 ---
+4, CONSTRUCTION
+
+4,
+
+1
+
+Transmitter
+
+External view of the transmitter is shown below.
+
+A propeller is attached to its leading edge to measure wind speed, and
+a tail unit is provided at ist tail end to make the umit follow up the
+stream of wind more easily.
+
+The case is designed to be watertight. A terminal box is incorporated
+at the lower part of the transmitter, and the connection cable is led in
+through the hole in the terminal box cover.
+
+The balance-control function is provided to prevent potential swaying
+of the shell due to the roiling of the vessel when installed on a ship.
+If incorporates an AC ganerator generating wind-speed signals and a
+synchro which generates wind-direction signals,
+
+The generator protected with its casing, and its shaft is supported
+with ball bearing, and is attached with a propeller at its leading edge.
+To allow measurement of even low-speed bleeze, no iron core is used for
+the stator of the generation mechanism, and electrical frictions are
+held to the minimum, The electromotive force created in the genmerator is
+led to the terminal board at the lower part via the slip-ring.
+
+Shall of the transmitter can be rotated freely. The bottom end of its
+rudder shaft is connected with the shaft of the wind-direction measuring
+synchro via a coupling, The synchro itself is fixed to the casing.
+
+--- PAGE 18 ---
+Receiver
+
+The receiver is abailable in the two types, tha integrated type incor
+porating both the wind direction indicator and the wind speed indicator
+in one unit, and the separate type having separate indicators.
+
+1 Integrated type
+
+This type houses the wind direction
+indicator and the wind speed indica-
+tor in one box, The wind speed indi-
+cator is arranged on the right hand
+side, and the wind direction indica-
+tor is arranged on the ieft hand side,
+tespectively, when viewed from the
+front side. The front cover is fixed
+to the body with set screws to faci-
+litate inspection of the interior.
+The terminal board and the internal
+light (or an EL board ) are incor-
+porated in the box, On the front pa-
+nel, the lumirous intensity control
+and the power switch are mounted to
+allow operation from the outside.
+
+Depending on a special equipment
+layout plan, there may be a case,
+where the luminous intensity control
+and / or the power switch may be
+arranged separately from the body,
+
+2 Separete type
+
+The separate type comes in the sur-
+face-mount type (S), flush type (F),
+and the half-flush type (H), and the
+indicators are avajlable in differe-
+nt sizes, 150 and 200 mn in diame-
+ters. In this case, both the luminous
+intensity control and the power
+switch are arranged separately.
+
+In addition these, various other
+type may be availahle on the orber.
+
+NOTE :
+
+1. Pointers for Wind Direction
+and Wind Speed indicates
+their™( " position,
+
+Fig. §
+
+2. The actual indicators consists of two separate indicators, one for
+
+Wind Direction and one for Wind Speed.
+
+tvee | Fumosel |
+
+Fig. 7
+5
+
+ALocoEL
+
+--- PAGE 19 ---
+4.3 Luminous intensity control (dimmer)
+
+The luminous intensity control is necessary for the cortrol of luminous
+intensity on the separate type receiver, or where the comtrol for the
+integrated type receiver is to be arranged separately.
+
+It is available in the thres tyges: the surface-mount type (DS), flush-
+mount type (DF) and panel-mount type (DM), to be selected according to
+the condition of the actual place of installation.
+
+Lighting
+
+Lighting with eleciric lamp and EL are available for lighting for sele-
+ction of either one depending on the types of the receiver.
+
+Two pieces of the electric lamp, conformimg to JIS F 8407 KP115¢ SHC
+( 220V 10HC ) are used as standard, with the base conforming to JIS €
+7709 BAL5D/19 ( Eleltric lamp of other types may be used depending on
+the specifications. )
+
+The EL plate ( abbreviation of Electro-Luminescence ) is a light source
+that can give a uniform emission of light over its entire surface.
+
+Since it utilizes an " electronic light ”, it can be used semi-perma-
+nently if its fluorescent face is not damaged in use.
+
+Connection box
+
+This is used chiefly as the junction for the cable connecting between
+the transmitter and the receiver when a separate type receiver is insta-
+Lied,
+
+It comes in the surface-mount type and flush-mount type, a terminal
+board for connecting the cable is providen in it.
+
+In some variance, it has the power switch provided on its front panel,
+
+--- PAGE 20 ---
+5. ASSEMBLING AND INSTALLATION
+
+5.
+
+1
+
+Attaching Propellsr
+
+In some cases, the propeller for the transmitter may has been detached
+from the body and shipped in a separate package to prevent it from dama-
+go during transport. In such a case, attach the propeller to the trams-
+mitter bofore use. Care should be taken as the profile of the propaller-
+mounting face may differ somewhat from type to type of the transmitier.
+
+Referring to the illustration below, set the propeller correctly to the
+propeller shaft so that it can fit in the groove in the shaft snugly,
+and fasten it in place firmly by tightening the set screw.
+
+CAUTION :
+
+When attaching the propelier, be careful not to bend the shaft. If the
+shaft is bent, it will not only be unable to indicate correct wind speed
+but also may results in a fajlure in the generator.
+
+Fig. 9
+
+--- PAGE 21 ---
+5.2 Instatlation of the Transmitter
+
+Install the transmitter with the " BOW * mark in its flange directed
+correctly to the bow of the vessel. If it ts installed in the wrong
+direction, wind direction cannot be indicated correctly.
+
+CAUTLON :
+
+(1) Select a suitable place for installation, whwre the transmitter
+is subject to natural wind flows, being clear of any obstacles
+that can obstruct the natural flows of wind. If there is an
+obstacle naer the transmitter, it is necessary to keep it away
+from such an obstacle at least two meters. or so.
+
+In marine use, the transmitter is generally installed on the
+radar mast. In this case, consideration should be made to avoid
+turbulence of wind that may be caused by the rotary object like
+the radar scanner, ect.
+
+{2) The transmitter is so manufactured that it can follow up even a
+
+~  low-speed bleeze, and also it has been balance-adjusted relative
+to the movements of the rotary shaft, Therefore, it is free of any
+abnormal rotations due to the rolling or pitching of the vessel.
+If the tramsmitter should rotate lightly, the installation place
+is not properly selected.
+
+(3) Though it is designed to be earthquake-proof, select a place of
+least vibration for instaliation,
+
+(4) Avoid installing it near the high-output radio antenna. Otherwise
+» there may be a possibility of the indication of wind speed may
+change suddently.
+
+5.3 Connection
+
+Arrange wiring between the transmitter and the receiver using shielded
+cable { 1,25 mm squ. ), according to the wiring diagram.
+
+Good care should be take to aveid errarneous wiring: there may he a
+danger of damaging the wind-speed indicator if a commercial power supply
+is applided by mistake to the wind-speed indicator circuit.
+
+Also, adequate care should be taken in wiring to keep away sufficiently
+gom other high-voltage circuit or a circuit in which a large current
+
+ows.
+
+§. TROUBLESHOOTING
+
+In case of any of the following abnormal conditions, ckeck according to the
+following instructions.
+
+6.1 Indication of wind speed
+
+{1) No indication is given.
+
+Cause {a) Disconnection occurred in either the gemerator or in the
+meter coit. = Request the waker for repair.
+
+Cause (b) Disconnection in the cable. = Request the cable.
+
+--- PAGE 22 ---
+
+
+--- PAGE 23 ---
+
+
+--- PAGE 24 ---
+
+
+--- PAGE 25 ---
+
+
+--- PAGE 26 ---
+
+
+--- PAGE 27 ---
+

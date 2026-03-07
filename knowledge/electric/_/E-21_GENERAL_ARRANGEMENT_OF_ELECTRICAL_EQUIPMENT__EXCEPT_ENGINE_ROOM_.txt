@@ -1,0 +1,1566 @@
+FILE: E-21 GENERAL ARRANGEMENT OF ELECTRICAL EQUIPMENT (EXCEPT ENGINE ROOM).pdf
+FOLDER: .
+DATE: 2026-03-06 20:33:50.985372
+==================================================
+
+
+--- PAGE 1 ---
+FINISHED PLAN
+
+FLANDERS TENACITY
+
+GENERAL ARRANGEMENT OF
+ELECTRICAL EQUIPMENT
+(EXCEPT ENGINE ROQM)
+
+g wical document is the properly of
+K ki Heavy Industries, Lid. (KI11) and may
+not he copied, nor disclosed to any third party
+without KIHI's prior written consent.
+AT scaLe Lo Le | wosno
+Cra 100 50
+CHIEF /‘,)/A«
+B | OHECKED & KAWASAKI HEAYY INDUSTRIES, LTD.
+g 1
+a
+Bl | DRAWN SHIP DESIGN DEPT, SHIP GROUP
+
+DATE
+
+MAY. 3D
+
+o laEg
+
+110 wm e g
+
+KAWASAKI HEAVY INDUSTRIES, LTD. 2 sHEETs won coven
+
+--- PAGE 2 ---
+P-go
+
+Note ;
+
+The working plans which are referred ta in this plan are revised as the
+tinished plans as listed below.
+
+Therefore the reference plan (finished plan} is to be referred to in
+
+sccordance with the following list as necessary.
+
+Dyg. No. Title
+
+Working plan Finished plan ‘
+
+42-101 E - 11 Wiring Diagram of Electric Power System
+~44-101 E-12 ¥iring Diagram of Electric Light
+
+{Except Engine Room)
+
+44-102 E-13 Wiring Dimgram of Electric Light
+) (Engine Room)
+
+45-101 E - 14{1/2) Riring Diagram of Interlor Comsunication
+L Nautical Equipment
+
+45-102 E - 15(1/2) Yirlng Diagram of Kachinery Control &
+Instrumentation System
+
+45-103 E- 16 ¥iring Diagram & Arrangement of Fire
+Atarm System Combined with General Alarm
+Systen
+
+47-101 E-1T1 Wiring Diagram of Radio System
+
+56-~101 L-T71 Riring Diagram of LPG Communication
+
+--- PAGE 3 ---
+40-200  P-G1
+INDEX
+LINE LOCATION PAGE REMARKS
+1 | SYMBOL LIST L-4
+2 | COMPASS BRIDGE DECK 5
+3 | NAVIGATION BRIDGE DECK 6
+4 | D-DECK 7
+5 | C-DEGK 8
+6 B-DECK 8
+7 | A-DECK 10
+8 | UPPER DECK 11
+9 | UPPER DECK FORE PART t2
+10 | FORE SHIP (PROFILE) 13
+11 | BOSUN STORE 14
+12 | F.0. TRANSFER PUMP ROOM 15
+13 | SUNKEN DECK 16
+14 | STEERING GEAR ROOM 17
+16 | EMERGENCY FIRE PUMP RECESS 18
+1. NOTES
+ALL ELECTRICAL EQUIPMENT ARE SHOMN IN SYMBOL MARKS.
+2. REFERENCE PLANS
+(1) WIRLNG DIAGRAM OF ELECTRIC POKER SYSTEM - -« ---- DHG. NG, 42-101
+(2) WIRING DIAGRAM OF ELECTRIC LIGHT (EXCEPT E/R) DHG. NO. 44-101
+{3) WIRING DIAGRAM OF ELECTRIC LIGHT {E/R) -vvvre-vvv DWG. NO. 44-102
+(4) WIRING DIAGRAM OF INTERIOR COMMUNICATION AND
+NAUTICAL BQUIPMENT -« v ccvvmrsreennsnnionoos - DWG. NO.45-101
+(5) WIRING DIAGRAM OF MACHINERY CONTROL AND
+INSTRUMENTATION -~~~ e DHG. NO. 45-102
+{6) WIRING DIAGRAM & ARRANGEMENT OF FIRE DETECTION
+SYSTEM COMBINED WITH GENERAL ALARM SYSTEM - DHG.NO,45-103
+(7) WIRING DIAGRAM OF RADIO SYSTEM ------ - DHG.NO.47-10}
+(8] WIRING DIAGRAM OF LPG COMMUNICATION - - DHG.NO.56-101
+
+--- PAGE 4 ---
+SYMBOL LIST-ACT, 0001 1PCP. PE2)
+
+& SUB RECEIVER
+
+TYPICAL SYMBOL LIST DWG.ND. 40-200 P-t
+SYMBOL DESCRIPTION REMARKS SYMBOL DESCRIPTION REMARKS
+@ GENERATOR (AC) _,@ INTERPHONE DESK YYPE
+@ MOTOR{AC) @ INTERPHONE. WAL MOUNT
+(:() TRANSFORMER . 1.5. TELEPHONE WAl wounT
+S 7| | MOTOR STARTER ] | SHORE TEL "-P.
+L CONNECTION  BOX
+CONTROL PANEL SHORE_TEL WALL MOUNT
+£ SOCKET -OUTLET TYPE
+poe | | DISTRIBUTION BOX(POWER) & | TELEPHONE CONNECTOR 553?“ HOUNT
+OISTRIBUYION BOX{LIGHT) © | TELEPHONE CONNECTOR WAL MOUNT
+- - 4 —_—
+[PE1 | PUSH BUTTON SWITCH HORN BUZZER FLUSH HOUNT
+P2 ] WITH LAMP TYPE <|
+PUSH BUTTON SWITCH BUZZER WITH LAMP WALL MOUNT
+BEAPLES | o
+£ss| | EHCY STOP SWITCH EI) BUZZER WITH LAMP %gEH MOUNT
+EA] | EXTENSION ALARM PANEL
+7] | erecTronic Horw SPEAKER WP,
+| =...OUTPUT PONER
+@] | A1e HoRw SPEAKER JUNCTION BOX WP
+- SPEAKER WLTH NP,
+Ve[ T ] VoCUmE conTroL
+. OUTPUT POWER
+— | SPEAKER WITH
+AUTO TELEPHONE DESK TYPE UME CON WP
+WITH SPEAKER el & oL O Rk FLUSH HOUNT
+R) | AUTO TELEPHONE DESK TYPE 24 SPEAKER WITH N.W.P.
+E&Sﬂ YOLUME CONTROL 2-FACE TYPE
+AUTO TELEPHONE DESK TYPE SPEAKER PORTABLE
+WITH NDISE CANCEL UNIT «...DUTPUT POWER
+}@ AUTD TELEPHONE AL MOUNT MICROPHONE PORTABLE
+AUTO TELEPHONE WALL MOUNT SOCKET OUTLET FOR WP
+WITH NOTSE CANCFL unIT | TYPE HIC & SPEAKER
+AUTO TELEPHONE WP
+WITH NOISE CANCEL UNIT | WALL MOUNT
+AUTO TELEPHONE W.p ] WALL.
+WLTH NDISE CANCEL UNIT AL PUSH BUTTON MOUNT TYPE
+& Sub RECEIvER | "ALL MOUNT © | ‘
+COMMUN BATT TELEPHONE | DESK TYPE © | pusn surton AR
+(5) | COMMDN BATT TELEPHONE WALL HOUNT ) | 2-P_SWITCH WITH WP
+| N TYPE X | Filot Lam
+COMMON BATT TELEPHDNE WP INOICATING LAMP WP,
+I@ W oot | @R WITH RED GLOBE
+£) | COMMON BATT TELEPHONE ] - N
+HE )z | With NOTSE CANGEL UNTT | Wari wount
+
+--- PAGE 5 ---
+STMBCL LIST-ACT.00021PCP PE2].
+
+ANTENNA OUTLET 80X
+(2-SOCKET/ANT OUTLET)
+
+B3
+
+TYPE
+
+INTERLOCKED CONNECTION
+BOX FOR SUEZ CANAL S.L.
+
+TYPICAL SYMBOL LIST DWG.NO.40-200 P-2
+SYMBOL DESCRIPTION REMARKS | SYMBOL OESCRIPTION REMARKS
+BELL WITH LAMP(120) WP, MASTHEAD LIGHT w.P,
+2-LAMP TYPE
+€D | BELL WITH Laup(20%) v.p SIDE LIGHT w.P
+£ 2-LAMP TYPE
+BELL WITH LAMP(i2a) N.w.P STERN LIGHT w.e.
+> 2-LAMP TYPE
+@9) | BELL ¥ITH LAMP(208) NP ANCHOR LIGHT w.e.
+[w) 2-LAMP TYPE
+BELL WITHOUT LaMp(i2e) | N.W.P ANCHOR LIGHT WP,
+} 1-LAMP “TYPE
+(@0) | BELL WITHOUT LaMp(200) | N-W.P Z, [ nu.c. Ligat WP
+CJ a7 2-LAMP TYPE
+INFLAMNABLE GAS FLUSH MOUNT| R | RED LIGHT WP,
+ALARM PANEL TYPE N/ | IS AMP TYPE(FOR D.0.LT)
+INFLAMMABLE GAS WALL MOUNT HUGE VESSEL LIGHT WP
+SAP || ALARM PANEL TYPE
+€D | [LammaLE cas FLUSH MOUNT!  (30Y | DANGEROUS CARGO LIGHT w.p.
+DETECTOR TYPE N
+INFLAMMABLE GAS WALL HOUNT @ SUEZ CANAL SIGNAL LIGHT |¥%.P.
+DETECTOR TYPE. N (RED)
+@ SUEZ CANAL SIGNAL LIGHT |¥.P.
+(WHITE)
+@ 3-HAND SLAVE CLOCK WALL HOUNT SUEZ CANAL SIGNAL LIGHT |¥-P
+WITH TLLUMINATION pLATE | TYPE (GREEN)
+@ 2-HAND SLAVE CLOCK WALL MOUNT @ SUEZ_CANAL STERN RED w2,
+TYPE LIGHT
+@ 2-HAND SLAVE CLOCK ORNAMENTAL @ ' STEERING LIGHT WP
+TYPE (BLUEY
+| WP, w.P
+@ 2-HAND SLAVE CLOCK WAL MOUNT @ MIDSHIP WARNING LIGHT
+- cLot o.p.
+2-HAND SLAVE CLOCK T
+HALE MOUNT 1
+@ FM QUTLET BOX o
+VTR QUTLET BOX WALL MOUNT PURTABLE DAYLIGHT PORTABLE
+] TYPE (2D | STEUACLING L TouT TPE
+@ COMBINATION BOX YoEE MOUNT | [7] | SOCKET OUTLET FOR FLusH MoNT
+132-50CKET/TEL CONNECTOR) | TYPE DATLIGHT SIGNAL LT
+COMBINATION BOX FLUSH MOUNT € | SocKET QUILET FOR w.e.
+(2-SOCKET/TEL CONNECTOR) | TTPE DAYLIGHT SIGNAL LT
+R | ANTENNA QUTLET BOX WAL MOUNT SUEZ CANAL SEARCHLIGHT | %P
+@ (2-SOCKET/ANT OUTLET) TYPE ,@ )
+W.P.
+FLUSH HOWNT] (7
+
+--- PAGE 6 ---
+STVBOL LIST-ACT .0003(PCP pe2)
+
+TYPICAL SYMBOU LIST
+
+OWG.NQG. 40-200
+
+P-3
+
+SYMBOL DESCRIPTION REMARKS | SYMBOL OESCRIPTION REMARKS ‘
+INCANDESCENT FLODD LIGHT | W.P. PENDANT LIGHT WP
+< {WITHOUT FRONT GLASS \PE)
+7 . .Kun/!mo/m%ou ) O 1DC24V,5W)
+INCANDESCENT FLUOD LIGHT | W.P. 19 | CENDANT LIGHT WP, |
+<€ :: (WITH FRONT GLASS)
+g oo S rooas (DC24V, 1 OW)
+. INCANDESCENT FLOOD LIGHT [ W.P, .
+"A {LTFEBOAT LIGHT) RENDANT LIGHT
+3 TNCANDESCENT FLOOD LIGHT [ D P. WP
+w {PORTABLE TYPE) @ 75'35’,"“ LIGHT W/Q BUARD
+A INCANDESCENT FLOOD LIGHT [P, PENDANT LIGHT W.P
+(PGRTABLE TYPE TOTALLEY
+) |entcoseo {100W)
+MERCURY FLOOD LIGHT WP, "
+»{ WITHOUT FRONT BLASS) BULKHEAD LIGHT
+3 +.. 4007 700w
+MERCURY FLOOD LIGHT WP INDICATING LIGHT WP
+12+ |1 {WITH FRON 1y
+5 (WITH FRONT GLASS) B » OR HITH RED GLOBE
+$oRILM FLODD LIGHT WP FLUDRESCENT CEILING LT | N3]y
+<8 :i WITH FRONT G WiTH GLoBE
+g b L (21,200 X |, 22:20W X 2) |HANGING TV
+=1| FLUBRESCENT CEILING LT | Wik sLose
+. e . (41:40W X |, 42:40W X _2) IHANGING TYPH]
+N.W.T.
+BALLAST FOR SODIUM LawP | D-P = }| FLUORESCENT CEILING LT |wiTi GLOBE
+| gl ey oot | fCOANING) (21:20W X |, 22,200 X 2) |FIXED TYPE
+e CINW. T
+BALLAST FOR SODIUM LAMP | W.P || FLUDRESCENT CETLING LT |With GLose
+R R {GHAND) (41:40W X |. 42:40W X 2) [FIXED TYPE
+FLUDRESCENT CEILING LT NW. T,
+BALLAST FOR MERCURY LAMP | O.P
+v AMIN (21+20W X |, 22,200 % 2)|FLUSH MOUNT
+TGzt i) {CoAMING) (41,40W X 1. 42,408 X 2)|TYPE TYPE
+WP, NW.T.
+wesg) | et con vy e [ Yol [EEE)| P psssee i
+$1{700mx1) "+ _— N o
+[ B5C] | FL.8ED LIGHT N.W.T
+CEILING LAMP WS T] | Fl..MIRROR LIGHT N.W.T.
+(INCANDESCENT)
+™ WORKING TABLE LAMP WITH VICE FL.DESK LIGHT NW.T.
+W' | (INCANDESCENT)
+l WORKING TABLE LAMP FL DESK LIGKT NW.T.
+{INCANDESCENT) l@ ICIRCLE LAMP)
+N
+CHART TABLE LAMP WITH DIMMER
+(INCANDESCENT) SWITCH
+%\ SMALL FLEXIBLE ( AMP HITH DIMMER FLAME-PROCF L1GHT
+(INCANDESCENT } SKLTEH (INCANDESCENT : 60W)
+SMALL WALL LAMP WITH DIMMER| ZPN | FLAME -PROOF LIGHT
+[INCANDESCENT) SHITCH {INCANDESCENT - (00W)
+FLAME-PROOF LIGHTIFL)
+(WY | WALL LIGHT = ] \20W X 1 120W X 2
+(INCANDESCENT | Phiowx I iEonid
+@ DOWN LIGHT ® FLAME-PROOF LIGHT switcH | O-P
+INCANDESCENT )
+SPOT LIGHT FLAME-PROCF LIGHT SWITCH|W-P.
+@ (INCANDESCENT) @
+SURFACE,
+® DIMMER SWITCH MOUNT TYPE
+;| TeH FLUSH W, WP
+& | piwer swrter TouH e | D WAL LIGHT
+
+--- PAGE 7 ---
+STEL LIST-ACT.0004 (P2.PE2)
+
+TYPICAL SYMBOL LIST DWG.ND. 40-200 P-4
+
+SYMBOL DESCRIPTION REMARKS | SYMBOL DESCRIPTION REMARKS
+BRANCH BOX o.p |
+BRANCH BOX N-H P
+
+FLUSH MOUNT
+
+BRANCH 80 W.P.
+
+, Nv.p.
+1-P SHITCH SEAFACE HDLNT
+
+e N.W.P
+1P swien FLUSH Nuuml
+
+¥R e S0
+
+P oW1 WP
+2 Ten FLUSH MOUNT
+
+|»P‘3—m\7vb SWITCH . ;‘Lnéi'nuum
+
+1P A-WAY SWITCH NPt T o T
+O | GhERT e Sehelie vounr
+
+A ERR T EoRTACT PLUEE ot
+
+2-P SWITCH
+
+P
+@ | 1-F.3-WAY swITc W.P.
+®
+
+2-P,3-WAY SWITCH W.p.
+
+627 | 2P switeH - w.E.
+20A
+
+2-P RECEPTACLE
+WITH EARTH CONTACT
+
+2-P RECEPTACLE WITH WP,
+SWITCH & EARTH CONTACT
+
+2-P_RECEPTACLE WITH W.P.
+
+S
+&
+R? | SWITCH & EARTH CONTACT
+5
+
+20A
+
+RAZOR SOCKET
+
+| 3-P_RECEPTACLE WITH W.P.
+Q¥ | SWITCH & EARTH CONTACT
+FOR WELOER
+
+--- PAGE 8 ---
+RADAR MAST (5=1/100)
+(LOOKING AFT}
+
+DANGEROUS CARGO]| LT
+L-55-10
+§8-1
+
+NOT-UNDER
+
+COMMAND LT
+55-50 (PORTE570D)
+55-50 HER DRAFT LT
+55-54 (PORTLETED)
+s5-a8
+
+SUEZ CANAL §5-4h
+
+SIGNAL L 1GHT
+
+E - 2/
+
+/%58
+
+FR. 44
+
+5600 T
+
+1800 41100
+
+3700
+
+HANO RATL
+
+.
+
+400¥ SODIUM PROVECTOR
+
+400¥ SODIUM PROVECTOR
+
+S-NA-1C
+
+400¥ SODIUM PROVECTOR
+§ < ]./ S-NA-18
+
+COMP, BRI. DECK
+
+DECK CAMBER
+
+FRAME SPACE
+
+¢ EXPOSED PART---16/1000 SLOPE
+
+(STRAIGHT CAMBER)
+BOO(FR. 12~FORE}
+
+AN =~ 200 P&
+
+--- PAGE 9 ---
+1KW [NC FROJECTOR
+
+L-EA-3A
+
+700W
+SO0IUM PROJECTOR
+y: L-NA-2C
+
+HAND RAIL
+
+WIND BREAKER
+
+vy /c/vré 5
+EA-6A NA-6A
+
+| ESCAPE DOOR il ! ' i
+FROM ELEVATOR TRUNK <R /,QQ
+NA-6A2 A (L) | FOR BAT. RM
+5 ® N N ;
+_____________________ 3 - : R -
+T Q a 1
+! 8@ g i S
+| i 1 \\\\\w\ = < |
+| | +
+| o i
+) w
+! NA-6AL. T /
+: 5 R . [ P ; O _ . o
+i -
+| T‘4g§ é%}vg i ! WHEEL HOPSE
+! © RADIO | : ; ooy & CHART SPACEL | ;
+! BAT|T { ! = —+ 3 (SEEIONG. NO. 96-202) | | {
+i | EGUIPMENT - LS :
+| ROOM | iROOM |o ! m s
+! i i @ x
+| 1] NP o | ]
+A 9 »xvf | &G 1 1 |
+; c) - g
+) . - ! X - ok - _
+FUNNEL H [AN!
+S E P—Ls—cz g K gl ﬁk.n fnsaasnm © 252” A
+1 [ ""17) {FOR &xH - n :
+! | \sz%é . Y t \(AL) | ot o]
+1 L | | _ [ o] g QL Lo bt - [ - q;
+f 22 f 24 ] 36 (N £l 40 [&] 1 a2 T
+I | : al™
+H <
+N i Wy s i
+i prd
+- e
+| |
+o ewenoency Lilant
+i I ! FOR IRADIO EQUIP
+[ g !
+8] |
+Lo
+- S sk —m i
+< —
+Pz i
+44 H | ; | }
+i_LLI : :
+= ; |
+P 26- 00k [N B
+5-08 o )
+R POT] i C |
+! 8-06A !
+] e |y
+e
+e M@ L |
+R ] :
+i I}
+ND. 2 é [ t v g
+PILOT /g -
+DECK ST. EA-BA1 \\SVOPIA RAIL /NA-BAB
+i
+
+T00W
+
+(@-\ SO0DIUM_PROJECTOR
+> L-NA-2B
+
+NAV.BR1. DECK
+
+DECK HEIGHT : 2700AT C.L.)
+DECK CAMBER @ ENCLOSED PART--NIL
+EXPOSED PART---25/1000 SLOPE
+
+§ (STRAIGHT CAMBER)
+
+r FRAME SPACE : B0O(FR.12~FORE)
+
+| 1k INC PROVECTOR
+ohy R R
+
+L-EA-2A
+
+£ -2/
+
+M
+
+zye
+
+40-200 P-¢
+
+--- PAGE 10 ---
+z -2
+
+¥ EL
+
+FUNNEL
+
+BT P-5(DE_PROY.
+p-g7-021. 02}
+
+13600
+12800 /
+N 2800 1700 / 5200
+2/ENG. 2/ENG.
+DAY ROOM BED ROOM C/ENG.
+TV, SHELF BED ROOM
+VITH LOCKER SN o
+
+14
+
+______ € T ¥ ¥
+T . R LOCKER)
+ol
+Sl o
+3 @
+FURNEL LIGHT 1.7 s al
+L-KA-3C | N 2 R
+uiRROR (M} =
+THEST OF] HES
+LI kel BT o
+| -5
+w|
+/ —F ¥ o
+i
+/ EE
+i . o] 9
+2 =
+v oo o
+o [ o ) 8
+ol ~ -
+o | PASS 8 o
+Ral . - 'S o
+‘ N SERY] c-vi-2 or Vg I3 w =
+S = - —3 = -5 + e
+; T ex oy
+A M | Boox RACK z3 -
+e / LOCKER & | (FLOOR| TYPE) ws
+[ 80pK CASE (A} ™ NG 9
+. . [a]
+oy . TABLE] x @
+(:Tfi : COMP, TABLE ER=
+=z —- y > &
+< L) ﬁ £ < |
+5 ‘GAETF fis} mat e L4
+o ey TR
+> o
+e { A brd
+5 w|
+o ['s]
+)
+o +
+v. CRANE /{_ mwmgk
+80! i 1
+oo o o Tiz0xasm']
+' ol = OECK TO CEILING
+o o
+| <
+¥
+e
+ol
+i ol Lol
+- - S
+/- 1 e
+[ o [3 ) =
+z 2ol 88
+| ol &
+| © No o
+i °8
+w
+5 ©
+IN o
+I 2 o
+y i
+2 s0uD
+NSULA{IDN
+- — Tiz0ka/m)
+I 'DECK TO CEILING
+« =
+b <
+o +
+ok R
+i e we
+o 3 2 ]g
+" [ ol
+w ~
+el
+! =N
+- oz
+<O
+3 ceo——+
+o 4
+o
+g >
+et <
+a
+. o
+> ol 8
+cami ™% BITLT-TN E o
+S/T REF. (4B, 90L]
+o
+o
+2 -
+< BlahtPrasie o
+800K SHELF
+o o
+9| o
+. 2 @l
+E o
+FUNNEL L 1GHT i «
+T-nA-38
+(N
+
+nhw.
+REUparion
+TY. SHELF N
+VITH LOCKER 7, Sokamy CAPT.
+C/OFF. C/OFF. DECK TO CRILTHG BED ROOM
+DAY ROOM BED ROOM
+800 3300 2600 1700 5200
+~ - o+ '
+
+DECK HEIGHT
+! DECK CAMBER
+
+FRAME SPACE
+
+D-DECK
+
+2850(AT C.L.)
+
+ENCLOSED PART--NIL
+EXPOSED PART---25/1000 SLOPE
+(STRAIGHT CAMBER)
+
+800 (FR. 12~FORE)
+
+40-200 P-7
+
+--- PAGE 11 ---
+1100
+
+15
+
+600
+
+4300
+
+1200
+
+N
+
+e |
+
+RATING (D)
+
+4200
+
+.
+
+ROOM
+
+DRYING
+
+2000
+
+i,
+
+SHIP'S
+LAUNDRY
+
+1200
+
+GALLEY EXH.FAN
+
+E -3/
+
+V274
+
+RS
+=
+=
+®
+P
+=
+ol
+0|
+10)
+o
+S|
+Iy |
+« |
+i
+ol
+S
+t —+ 3
+-
+ol
+ol
+b 1
+S
+g F,s
+& b2
+Iy
+5 B TION 0
+€0uw ROCK WOQL
+otem) o
+o
+«
+ol
+S
+=]
+. ol
+)
+O _lo; [
+=z oy I
+S o
+=
+< i
+A
+of
+- @l O
+s
+= Y
+o~ o
+T . @
+BT
+—w 9
+wo S
+N
+=3 =
+a o |
+! v
+i
+| |
+i
+i
+i
+© s
+of
+o o
+= O ol
+Z o
+ooom
+<
+v
+3
+ATION |
+o
+@
+o o
+o
+™
+o
+[EUIURUUN I
+
+C-DECK
+
+DECK HEIGHT
+DECK CAMBER
+
+FRAME SPACE
+
+2750(AT C.L.)
+
+ENCLOSED PART--NIL
+EXPOSED PART---25/1000 SLOPE
+(STRAIGHT CAMBER)
+
+B00(FR. 12~FORE)
+
+40-200 P-8
+
+--- PAGE 12 ---
+L-EB-05B —~
+Shsor Lire saur) 13600 @"/T@
+Eaqes! w
+7200 1200 . 5200
+RATING'S MESS ROOM " RATING'S
+-1__. SMOKING ROOM
+/ | R
+p =TT s
+1 [ 1 "“/“'"'}) NA-9B7
+= g 0 ; ; ; EEEmE— e
+HAND RAIL g ron vra) __ croiey '
+~ wor 1p I CJET
+N , T, (AN P-24-15 SOFA o
+1 Y1DEO!
+| W J i | i
+! MoRA-a; [ o
+4 kAL | s S
+- LOCKER{ A, C. y ¥ @
+P-24-08 - T Ll SPFA ~l
+: HESS o[ 23C 28
+- T.C]| |TABLE |i[¢.T 3
+- ‘r'< -7 2 8 RED LodKER
+[ [EY ea GIR. (A} 3
+ol : — =
+w) [ v
+. . ' — . OVER
+F N ) ) BOQK CASE AND
+cove- Z3C € °
+® B 'J ] smalL TaBlENSY” |0 5 b=
+jiaa -ec/ds, ¢i1g A Iy
+I cfaao B ~
+J . | | J )
+| c-yg-42
+! S0 BoARD | [gt gj— < &
+P-2a11 ] jne) °
+_ - _ - _ ) -24-11 GIR. (A} “aa-18 C-NE-H1 o) P-24[ 164 o
+F =, XS . <
+) } TR GAR \ ) )Vi: h
+z B 5
+¥ 1 + SERY. T. I~——— Q/* / ) ] ) A// ! /e b 1 K ® ©
+= . VITH Z-§TWN [PV . 4 T_(HOH-P) y o S
+< cup-—4|uus [~ ! At o W R =
+HORE (R o g & ™ v-fa-atc o~
+p-24-gb é P-24-12a ¥~ TE o ™
+8 2 SOUND INSULATICN
+2] | [61e. (A) | {|& ] sofa -~ 60wy ROCK WOOL.
+OiSH VASHER| | RRAR Fxel ~ A
+§-VE-12
+= C - A Bpeai@el 4 |
+- 3
+jor-07] P o
+| g ' | % o
+™ u. |
+n# 1 a
+o
+i 5 ]
+OISH RACK : 5!
+3] [ {11
+]? § T » V5. s e S
+g i . TOIL. (1 RORY b= .
+- FA [MIRRDRERA) -‘[‘ 7
+S | — ) d | SOFA T DN ;
+2 S \}m« | .
+bl w N
+w
+| 77}» [ (Re-24t01 i _ N | % @
+2k P R hr;? = B ; 3 ¥
+S =22~ i
+@ loan . P j -
+i - POTATO o
+: ! 3 2
+[IP-07-0a! L &
+Tsraaree ro @ £ 1R, JHpepaLion
+POPATO PEEL b L {2989
+3| 0eé$6°¢H Line
+1-08 ~
+§ a2 o
+[ - b
+T =P un, cook —— T
+4 DR. ¥I[TH 1-SIKK =
+*\ P_ucmi 4 CUPBOARD -24-ps. 3 o
+PAN: SHELF (4] ELECT, REF, F o
+B o
+- \sTagree eor T7orT Lt - da-ane o
+“X/ W CHOC KACH. mL
+of-11 Y - ol
+of
+o
+) SERV, T g . I
+] QUP & JUS  /wITH 2-STNK [EERY. A ¥ o
+o | /HOOK(R) | | I 1 v wl
+N2 ! ‘ » 4 -
+o 2 t
+| —= 2 8
+. _ V. 4 % iR (A)| ; ha
+1 C-Ne-. i T s b +
+r-za-hralFT TP -20-0F | /2y | \ST0E [80ARD
+§ SERV. \ ) ,g |
+|
+- — !
+B SERV|HATCH
+4 L(i)’i L@ [ :k“ SDFA o
+CT. REF 2| =] T. ¥ 9
+A8 700 W w | N =
+| . - @ ! ) ~
+I
+o MESS T >
+Yl /] TABLE |-+ g E
+- P w oy
+o e L eR __HAE dgheik. (af B
+) 1
+P e ) &
+[ L ADDIT10KA
+{ CHA
+. of
+X [=]
+« I
+o
+—_— ¥ 1%
+
+STOWAGE P|
+
+as(TION
+
+OF ADDITI[ONAL
+ARM CHAIR
+
+OFFICERS"
+MESS ROOM
+
+7200
+
+OFF™" gMOK*®
+
+EA-7AS
+
+ROOM
+
+B-DECK
+2750(AT C. L. )
+
+DECK HEIGHT
+DECK CAMBER
+
+FRAME SPACE
+
+ENCLOSED PART-=-NIL
+EXPOSED PART---25/1000 SLOPE
+
+(ST
+
+RAIGHT CAMBER)
+
+BOO(FR. 12~FORE)
+
+40-200 P-9
+
+--- PAGE 13 ---
+-
+
+RN
+
+syid
+
+EM'CY 9% TCHBOARD
+
+(A) FOR NO.3 E/R VENT.FAN:P-EM-2
+
+FOR STON
+
+SIDE_LIGHT
+[oRI-6.6
+
+2850
+
+i
+-
+RATING I !
+(2p) ﬁMJMM RAT[NG 1 J
+_ DECK TO LEILING _
+
+P-EB-01 (U) FOR EMERG.GEN RW SUPP. FAN:P-EM-07 P-SiCE PROV. CONFERENCE
+ he ROOM
+6400 o o @ . N =
+FOR EMERG. BEN. WEATERNL o uC-i5H H ! ec-181 c-vi-31 ‘_}| ]% . & 2 |
+F-23-10 !
+EMERG. GEN, ENG. CONT. PNL | L2
+P-€6-1¢( 1D 5. R. &s.n.v] _ 1 S.H.¥ A0, ’_S.R. _M Y
+______ g
+T = = = c-¥E{14D  c-fie-
+2 ;?51 BT * E ) —
+2 ‘ $0FA Surse
+: [t
+EM'CY BEN RM 5UPP. FAN H [=J
+BT , | 7 o
+. ‘ s j 6D (1) &
+cy | = c-ae-8 -
+ENERATOR| ROO E®® 3 o T s, X
+\ Dz * ..@ [ i TABLE o
+v - - o
+1 { \ | @5 i Y &e-c1) [ °
+h _ =) 1 a1 L 0
+B TEL BOOTH 1Y _“
+i T | E
+EM'CY QENERATOR ] a] »
+P-23[104 @ B i R &3C8) A
+RN | EM"CY TRANS |
+T S E— T ! ‘ LA eereee
+. | o E; ! g
+covo-yal | Ve o ! i VIS e
+400N 5001 UM PROJEETOR > . ® - 3 w | o o
+CFOR AFT MOORING STAITION) o za-08 T - = { “The o
+wo. 2
+. orer _[etR.ta) _ e = o [ b=
+"""""""""""" T ST b
+! v ]wcoy pELAY PAKEL AL - -
+- | s. 5 ] Vs .
+. @ H ol y ﬁ A i Eie 7 AR conb F
+i 3 & | | i ) | e PEFBA
+. . j °f -
+. we-ssn 1 = @ FIREISTATION | P
+{ NC-35F | NO.2 SANITARY BPACE PoE5-01 SEE:DYG. NO. 10-229) o
+! [ F-aayss ] ogzev | &l
+i GIR. (4) 034 : | o
+N | [ RN @ £os .
+. h ! Q TT T
+{ Wrale = ;o L 6IR. (A}
+! = ZZ G or AT T 221G 7 v
+| of .w | o 24t & | | o
+| 3 Zx snov. seace exi. rak Y T g
+! o 00 | Poanise ;| OF e o
+- = i #-23}05 (Pu | Uellanfe w0
+o W -
+o ST
+. [ .
+) GIR. (4)
+! BHHe e - . S
+1 NC-1BE| 9 i / =
+| cABIRET
+i i H’;] . d Ik NIT cAd
+! ~
+! il [ R
+| 9-ec-a
+1R. (A) GIR. (A) __ | |
+- [ B - 7 " a2 4 ‘ ‘
+x p bczav s
+v
+IS)
+o=
+= @ CARGO/ 5 o
+'-FT - - BALLAST b oo 2 o
+| CONSQLE oo I o
+! BEGptaur cont. Pue isrowacE| space a o
+I — 2= FoR 5L0) = - i <
+| - e PROV. L Hel o
+! . .
+i > @ % F alc] 4R ) b ; g
+ta 1 oo Ne-15 O v L A 13 S YU I
+[ 0650 el b _L f ! a
+1 2P B /y [T ComP|TABLE | ; |
+— < Z I | J i
+i T () . : ! ! |
+- i 1N |
+Ne-15M Lo R-24 ANA R g o ‘
+. 2 CONTIRBL™ -/ ! ¥ 2 i
+[ A PRINTER 2 | w ;
+! L } c-¥L-30 =
+: #EF CH. DDOR HEATS L1 § - P-23-42, 124 5-15-4 (Y t
+| ¢-¢3-08 o TG @ - 5 N : 15es !
+3 _ o v GIR, (A) o Camewittai - [ T R
+—————————————————————————— Rt ‘ - — i T O 1=
+uniT poockp
+1 p-rel13 13{[[{
+NC-15C - ’ o
+I3
+. =
+ol o
+14 !
+‘ Bl by i
+GARBAGE HATCH !
+o ] ! L3
+400¥ SODIUM PROJECTOR o S N A it E:
+(FOR AFT MOOR NG STAITION} | B o . e w
+LoND-19A \W {( B
+FOR [1. 870N @
+‘ : 55 ok PRDY. crane &
+P-07-01C | S !
+PAINT STORE EXH. FAN : i
+P-48-05 Bt i
+& |
+4 | !
+EC-7A | B i
+i
+157 s-510e Phov. ceane — B B, S N *
+P-07-011.012, 013 S.R. @ s ,?:‘
+- - X = NC- | [ v,
+NeTt88 . pRQOV. REF. CAMBER ™! covi-ae ,J[; [ EC-7A2
+(SEE:DWG, NO, 76-511) 1= |
+- . ——— . SHIP™S
+[ OFFICE
+7200 — 1
+/
+|
+R-07-031. 033, 3HS
+;U\mescug 80AT(4)
+\“\
+W
+z SIDE LIGHT
+< L-N1-3.4
+g/ ‘
+& s. L.
+@
+~ — T
+
+DECK HEI!GHT
+DECK CAMBER
+
+FRAME SPACE
+
+A-DECK
+
+2750(AT C.L.)
+
+ENCLOSED PART--NIL
+EXPOSED PART---25/1000 SLOPE
+(STRATGHT CAMBER)
+
+800(FR. 12~FORE)
+
+40-200 P-10
+
+--- PAGE 14 ---
+o
+
+et 25600
+
+T
+|
+v
+
+i
+'
+
+' /
+4 - 3500 L 2000 J, 1600 1200 5200/ N
+
+/ \,
+
+/ N
+JTEMP. CREW,
+
+12000|r
+
+-
+I» CHANG I NG ND-BB2 OXY.BOTT ACET.np-881,
+786 § . .
+ROOM ROOM BOTT.@
+ROOM
+
+~~~~ EMERGENCY ESCAPE
+
+!
+€O, BOTT,. ROOM
+(SEE:DWG.NO. 24-227)
+
+N \
+HATCH FROM |ENG. RODM \, I
+1
+*T —TF
+/ 1 |
+| | L ’
+i I e O SO
+i
+‘ . U -1 WINDOW HEIGHT
+k3 « o [ o 1730 FROM STEEL
+\ ' M S < pa BECK AT WINDOW
+S & @ © B CEWTER LINE
+w ] Q
+|
+! [=1
+H | : i 10|
+S [l P . )|
+O PUA _ o iGIR (A} _ e 1 1 -
+0 A4 3 o w o . i _
+° ' ! 2
+|
+“\E | | | | ; \ 2 . s
+ol w
+. A= o _ - .
+b 02 RM EXH, No& 4 2 z =3 o
+= o| o
+- , ! g g !
+6rd | - o
+o. | . . g S
+IE=] :
+-
+I i 1
+i FRESH WATER HEATER #OR t °
+H ~ SHOWER & EYE WASHER i o
+T | — | | @,
+‘ (STEAM) -
+! 0
+i | : <
+i -t
+‘ ! HOT waTER €IRC. PUMP FOR y | {
+SHOWER & ® L-
+N |~ ST asp
+42\G | STARTEK FOR I b4
+= AR COND. PLA D, 4GP o
+. | 2z e 5
+) P-1M409 2 PI1M-46 = ) “
+P-2M-06 piamM-46 | |l e
+1 | .9, ! b=
+. AFRUOND. GNTT ROOM Hew-osa]| [ s
+R —— - <) H ™ 9
+! ] Iy S
+i ] FOWDER | TANK/ || ™ =
+! -2M-062 ' > o
+. L i ‘ @ @ : LAY BOX 'ROOM DO o v
+22| G} §0.2 Al cownolpLanT (SEE:DWG. NO| 24-228 O; ol o
+@
+1 I | 1 | — = — R (A} i | | [’\
+U R 7 ! 14 f 15 2| ' 2 30 ! 32 2
+: 2.6 2
+i [ [t}
+i ] ot
+T -1~ e o !
+N o
+PrAM-091 |
+221 G| @ — A
+P-1M-j032 ,
+/ N
+b ®
+0.1 PROV.
+° ; REF_MACH WO.1 AIR COND{PLANT; ! ¥
+o P-48-051 H H
+) !
+e— - . _ ° !
+3 N ) T T bl
+i FRESH WATER WEATER  cowROL PANEL FOR @
+FOR _HOT WATER FREJH WATERIHEATER ™| o
+B N P-ag-011, -p12 P-48-0)1 / __FOAM L1010 YANK o S
+42la A CFUTURE (NSTALLATION) o
+! ! Iorerderer 0 o BOX [RM EXH. [FAN.
+i
+= P-an-04 | i
+g N STARTER FOI PJaB-02 @] _p-a8-04
+- sT P-4B-05 |
+~ P-48-54 ! }
+H - - i
+‘ ; 2 2 o
+J ‘ | ! g 0= B
+o leze slll g =
+< WliFic w °
+s E M <
+77777777777 @ PINGPONG
+i ) TABLE +
+«
+\ ' |
+i
+- T
+b4 . 1
+rt
+1) ! €C
+\ RA-s1c
+E-22B a
+AC-2 s
+\
+BRUSH_RACK(U | H
+e 1T
+Fa [ P I F.¥
+ND-8A4 ! ® ! cos | ! .
+L§DGE PUMP roes -T | ,/¥INDQV HEIGHT
+FOR § " 1 1750 [FROM STEEL
+P-02+07C NO. 3 — ' OECK |AT WINDOW
+/ i N - p ' CENTER LINE
+\ 1 \ PAINT STORE “<_DECK 5TORE” GYMNAS [ UM
+e - 1
+e |
+_8000 __ - 24,4000 I
+- ~ ! UPPER DECK
+1 WINDOW HEIGHT I
+I 2000 FROM STEEL .
+1 DECK AT WINDOW DECK HEIGHT : 2800(AT C.1L.)
+| CENTER LINE
+i DECK CAMBER
+| ¢
+1
+! 1285
+i
+| v ab.
+I : CAMBER °°'59.9/1000
+
+1000
+
+18000 4
+
+FRAME SPACE : BOO(FR. 12~FORE)
+TEO(FR. 12~AFT)
+
+rest E-zy
+
+40-200 P-11
+
+--- PAGE 15 ---
+UPFPER DECK FOR FART
+
+(s = Vies ),
+
+CapaL Selpchiu 6]
+
+Abg
+
+NG <!
+
+I7orRE Cetln
+
+LU
+
+V)
+
+R RO
+
+BB
+
+e ADR. I
+
+Vi -re
+
+44 -200 P12
+
+--- PAGE 16 ---
+= : [}
+. 4 b2
+« . T
+w Q
+| : 3
+3] 2
+, Sﬂ.: W
+E -
+— o
+= =
+0| P
+g Yro T !
+a ¥5 3% R ]
+N HEY Gan i
+R T 4 wﬁ; H
+4% < Lw d~ . '
+R g - oplet [
+y ¥ A“c Ea= ) H
+- 3 ‘
+A & o i _~\“\
+> N '
+1
+&y S g
+"
+51 ‘ g
+=K £
+A =T g
+3 S e e mmmmemm—m— e sS4 oIz H ~
+& 3
+
+o
+
+oDy
+
+S L-NF-gA
+p: L-NF—ah
+
+CNFTEN
+
+Sob
+
+<
+“
+s
+ow
+Z
+i
+N
+a
+
+%
+
+6.
+
+--- PAGE 17 ---
+BOSUN STORE
+
+cs = Vo )
+
+CARGO TANK BOSUN STORE
+
+@s PART (1GuTG TFAys
+F-fT-1p.18
+
+_Zzﬁ_ tppise Jpt
+
+S—NE- 1A
+
+o
+tpowtr iR T E
+/B 0s U
+
+NF'-)
+
+CANAL _SEARCHLIGHT
+TTPRAGE spACE
+
+HYD putsp ONIT o
+W/N-DLA:\“ A MBORING WiINTH
+* ," &B-<f ofH
+
+~SB -2 atn
+
+Nou;
+
+40-20C P-12
+
+--- PAGE 18 ---
+F2. IRANSTER pube Feam
+
+(A = )
+
+| £2 TRANSFER. J2UMP
+po.f: P8 83 02
+No2 s pogr—2a,2ah
+
+ar L
+
+4
+
+rop ﬂ”ﬁt&é& Speep__ 10§
+
+NE e
+€2, UNPER
+S NE~ B,
+
+IN T SOUNBER A&
+Lo TRANO RECHW. T
+
+40--200 P-15
+
+--- PAGE 19 ---
+PAINT 87
+—
+=
+
+SUNKEN DECK
+
+B2
+
+poopm
+
+STeeRMG  GEAR
+
+ToR:
+
+OOl el wa_.
+
+pROV_CRANEL
+
+ST
+
+=
+
+=
+—T
+
+E2_CAWNAL STERN_ RE.
+
+! [
+
+[ UL
+
+- WI=TirA 1A
+3
+
+¥
+=
+|
+
+~
+=
+1
+
+)
+
+Sopped
+
+P*EM»L\U
+
+[ STecemS GTAR Rewn
+
+43200 P-18
+
+o e
+
+--- PAGE 20 ---
+STEERING GEAR ROOM
+
+7
+
+<o)
+er-an
+
+L2 5|
+
+=t
+
+Ep)
+
+' P—IH o, 0%'
+
+Aoz ¢ poeteott o
+
+JoR el GeAR £UT0_fSol ATON_ STETEH. / BB
+
+p-1M~ofa OIE / FeR STCERING GTAL_RInM
+FoR N0.2 SYRo_fie] i
+p-€r=o1a, C-NE- ai [
+
+Pl K
+CENTRAL
+
+o 1 ™
+
+LIFH IQ‘LMB
+
+(B—NY
+{ =
+
+et cghT? PisT BEXL-EYT
+P-B- &Y !
+
+AR NS < A
+
+erap 0
+
+g2 | \\\ 22
+2 A
+\ 1 \
+
+O % . .
+\C \
+<3 [%5)
+7 e o3, @ NG <&/ AN AIRTRESERYDIRS
+FoR Mo
+
+EER_GEAR.
+p~M=ol
+
+AFT YR ot punp fer
+Moo RINGE . WMl
+No.f: p- 3R ol oln
+Noa i pvB= sl =M
+
+--- PAGE 21 ---
+CHMERGENSy . FIEE  put RECESR
+Lt
+co=" Vo)
+
+40-200 P-18y

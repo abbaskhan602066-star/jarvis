@@ -1,0 +1,279 @@
+SOURCE: 00 List of manuals Elect.pdf
+FOLDER: .
+PROCESSED: 2026-03-06 19:58:31.408593
+==================================================
+
+
+==================================================
+PAGE 1 of 5
+==================================================
+22N1456 P.20
+
+1. FINISHED PLAN
+
+DHG. No.
+
+E =
+Bitixd
+E 258
+i |
+
+=y
+5
+=
+=
+
+[
+
+(1) - GENERAL
+
+Particulars of electric part
+Electric powering table
+Makers list (Electric part)
+
+List of electric motor
+
+POWER, LIGHTING, COMMUNIGATION AND NAUTICAL PART
+
+B
+E =12
+E~1
+Ei=14
+(172, 2/2)
+£ =215,
+(1/2.2/2)
+E -16
+g =)
+B 22
+828
+£ =i
+
+(2)  DIAGRAMS
+
+Wiring diagram of electric power system
+Wiring diagram of electric light (Except engine room)
+Wiring diagram of electric light (Engine room)
+
+Wiring diagram of interior communication and nautical
+equipment (Incl. terminal connection table) (1/2), (2/2)
+
+Wiring diagram of machinery control & instrumentation system
+(Incl. terminal connection table) (1/2), (2/2)
+
+Wiring diagram and arrangement of fire alarm system and
+general emergency alarm system
+
+(3)  ARRANGEMENT
+
+General arrangement of electrical equipment
+(Except engine room)
+
+General arrangement of electrical equipment
+(Engine room)
+
+Arrangement of wheel house. chart space & radio equipment room
+(Incl. navigation bridge deck weather part)
+
+Acrangement. of echo sounder transducer & doppler speed log transducer
+
+==================================================
+PAGE 2 of 5
+==================================================
+22N1456 P.21
+
+DWG. NO. TITLE
+
+(4)  ELECTRICAL MACHINE. INSTRUMENT & CONNECTION DIAGRAM
+
+=
+
+- 31 Main generator
+
+m
+
+- 32 Motor (Al electric motors except motors incorporated into
+integrated equipment)
+
+Starter & group starter panel
+
+Main switchboard
+Emergency - swi tohboard
+
+Battery charging and discharging board
+
+Miscellaneous power equipment
+(Transformer, dist. board and testing panel)
+
+Impressed current cathodic protection system
+
+E -9 Lighting fixtures (General)
+E-40 Navigation & signal light
+
+E-41 Navigation console (Incl. bridge front ind. panel and
+steering gear alarm panel, etc.)
+
+E- 42 Electric signal device
+
+(8) RESULT OF TEST
+
+£ s 6 Shop test record of electric power equipment
+Bt 2 Result of inspection
+(6) LIST OF SPARE PARTS, ETC
+E - 61 List of electrician's general tools & outfits
+E-- 62 List of spare parts for electric power equipment
+| 3 List of spare parts for electric light
+E - 64 List of spare parts for communication and nautical equipment
+
+==================================================
+PAGE 3 of 5
+==================================================
+22N1456 p.22
+
+DG. No. TITLE
+RADIO PART
+(7)  DIAGRAM
+BT Wiring diagram of radio system
+. (8)  ARRANGEMENT
+E- 81 Arrangement of antenna (Extension)
+Eleid Arrangement of battery room
+(9) OTHER
+Ei= 91 Amusement equipment
+
+(T.V. antenna system, T. V.. V.T.R.. stereo and cabin radio)
+. (10)  RESULT OF TEST
+E- 101 Operation test record of transmitter
+
+E - 102 Calibration curve & record of radio direction finder ]
+
+(11)  LIST OF SPARE PARTS
+
+= 11 List of spare parts for radio equipment
+
+==================================================
+PAGE 4 of 5
+==================================================
+2. INSTRUCTION BOOK
+
+DWG. No.
+
+22N1456 P.23
+
+TITLE
+
+POWER, LIGHTING. COMMUNICATION AND_NAUTICAL PART
+
+=
+
+- 301
+- 302
+
+-
+
+- 303
+- 304
+
+E- 314
+E =315
+)
+E-=I317.
+Eir= 31
+
+K
+E
+E -.321
+E
+
+Instruction book for
+
+Instruction book for
+
+main generator
+
+motor (ALl electric motors except motors
+
+incorporated into integrated equipment)
+
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+
+Instruction book for
+battery telephone
+
+Instruction book for
+Instruction book for
+Instruction book for
+
+Instruction book for
+compass system
+
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+Instruction book for
+
+Instruction book for
+
+main switchboard
+emergency switchboard
+
+starter and group starter panel
+
+electric welder
+
+battery 4 f
+impressed current cathodic protection system
+intercommunication systen
+
+autonatic EHFENISESCEING and WIGFRIESEoR "
+
+automatic exchange telephone and common
+
+inflamnable gas alarm system-es—
+propulsion shaft revolution indicator
+rudder angle indicator
+
+magnetic compass & transmitting magnetic
+
+8Yro compass and gyro pilot -
+echo sounder
+
+GPS navigator
+
+doppler speed log
+
+anemoscope and anemometer
+electric clock
+
+window wiper
+
+==================================================
+PAGE 5 of 5
+==================================================
+22N1456 P.24
+
+=
+=
+&
+o
+=
+
+RADIO PART
+E #3931 Instruction book for radio equipment (1/2), (2/2)
+(172.2/2)
+E - 332 Instruction book for international VHF radiotelephone
+E - 333 Instruction book for radio direction finder
+E -3y Instruction book for radar equipment (Incl. ARPA)
+E =335 Instruction book for facsimile receiver
+E.= 314 Instruction book for UHF transceiver
+E - 337 Instruction book for Inmarsat communication system (1/2), (2/2)
+(172.2/2)
+
+E - 338 Tnstruction book for navtex receiver
